@@ -1,0 +1,31 @@
+{ "definitions": [
+  {
+    "term": "Ballast Factor (BF)",
+    "definition": "Ratio of light output of a given lamp(s) operated by the subject ballast to the light output of the same lamp(s) when operated on an ANSI reference circuit."
+  },
+  {
+    "term": "Commercial Item Description (CID)",
+    "definition": "See contract clauses"
+  },
+  {
+    "term": "Luminaire efficiency rating (LER)",
+    "definition": "Calculated according to NEMA LE 5. This value can be estimated from photometric data using the following formula 1. LER is equal to the product of total rated lamp lumens times BF times luminaire efficiency, divided by input watts."
+  },
+  {
+    "term": "Luminaire",
+    "definition": "Complete lighting fixture, including ballast housing if provided."
+  },
+  {
+    "term": "Military Standardization Documents (MSD)",
+    "definition": "See contract clauses"
+  },
+  {
+    "term": "Pole",
+    "definition": "Luminaire support structure, including tower used for large area illumination."
+  },
+  {
+    "term": "Standard",
+    "definition": "Same definition as \"Pole\" above"
+  }
+]
+}

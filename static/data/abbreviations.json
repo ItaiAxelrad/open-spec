@@ -1,0 +1,1887 @@
+{ "abbreviations": [
+  {
+    "Abbreviation": "⅊",
+    "Description": "PROPERTY LINE"
+  },
+  {
+    "Abbreviation": "ac",
+    "Description": "Alternating current"
+  },
+  {
+    "Abbreviation": "AE",
+    "Description": "ANALYZER ELEMENT"
+  },
+  {
+    "Abbreviation": "AFF",
+    "Description": "ABOVE FINISHED FLOOR"
+  },
+  {
+    "Abbreviation": "AG",
+    "Description": "AIR GAP"
+  },
+  {
+    "Abbreviation": "AH",
+    "Description": "Ampere hour(s)"
+  },
+  {
+    "Abbreviation": "AIC",
+    "Description": "Ampere interrupting capacity"
+  },
+  {
+    "Abbreviation": "AIT",
+    "Description": "ANALYZER INDICATING TRANSMITTER"
+  },
+  {
+    "Abbreviation": "AL",
+    "Description": "ALUMINUM"
+  },
+  {
+    "Abbreviation": "amp",
+    "Description": "Ampere(s)"
+  },
+  {
+    "Abbreviation": "ann",
+    "Description": "Annual"
+  },
+  {
+    "Abbreviation": "APPROX",
+    "Description": "APPROXIMATE"
+  },
+  {
+    "Abbreviation": "ARCH",
+    "Description": "ARCHITECT"
+  },
+  {
+    "Abbreviation": "ASPH",
+    "Description": "ASPHALT"
+  },
+  {
+    "Abbreviation": "ASSY",
+    "Description": "ASSEMBLY"
+  },
+  {
+    "Abbreviation": "atm",
+    "Description": "Atmosphere(s)"
+  },
+  {
+    "Abbreviation": "ATS",
+    "Description": "Acceptance Testing Specifications"
+  },
+  {
+    "Abbreviation": "AUTO",
+    "Description": "AUTOMATIC"
+  },
+  {
+    "Abbreviation": "AUX",
+    "Description": "AUXILIARY"
+  },
+  {
+    "Abbreviation": "AVG",
+    "Description": "AVERAGE"
+  },
+  {
+    "Abbreviation": "AWG",
+    "Description": "American wire gauge"
+  },
+  {
+    "Abbreviation": "B",
+    "Description": "BEAM"
+  },
+  {
+    "Abbreviation": "BA",
+    "Description": "BALL VALVE"
+  },
+  {
+    "Abbreviation": "BC",
+    "Description": "BUILDING CORNER"
+  },
+  {
+    "Abbreviation": "BF",
+    "Description": "Ballast factor"
+  },
+  {
+    "Abbreviation": "BF",
+    "Description": "BLIND FLANGE"
+  },
+  {
+    "Abbreviation": "BFP",
+    "Description": "BACK FLOW PREVENTER"
+  },
+  {
+    "Abbreviation": "BH",
+    "Description": "Brinell hardness"
+  },
+  {
+    "Abbreviation": "bhp",
+    "Description": "Brake horsepower"
+  },
+  {
+    "Abbreviation": "BLDG",
+    "Description": "BUILDING"
+  },
+  {
+    "Abbreviation": "BM",
+    "Description": "BENCH MARK"
+  },
+  {
+    "Abbreviation": "BOD",
+    "Description": "Biochemical oxygen demand"
+  },
+  {
+    "Abbreviation": "BOW",
+    "Description": "BOTTOM OF WALL"
+  },
+  {
+    "Abbreviation": "BRG",
+    "Description": "BEARING"
+  },
+  {
+    "Abbreviation": "Btu",
+    "Description": "British thermal unit(s)"
+  },
+  {
+    "Abbreviation": "BTW",
+    "Description": "BACKWASH TO WASTE"
+  },
+  {
+    "Abbreviation": "BU",
+    "Description": "BELL UP"
+  },
+  {
+    "Abbreviation": "BV",
+    "Description": "BUTTERFLY VALVE"
+  },
+  {
+    "Abbreviation": "BW",
+    "Description": "BACKWASH WATER"
+  },
+  {
+    "Abbreviation": "BWR",
+    "Description": "BACKWASH RECYCLE"
+  },
+  {
+    "Abbreviation": "C",
+    "Description": "Celsius (centigrade)"
+  },
+  {
+    "Abbreviation": "C to C",
+    "Description": "Center to center"
+  },
+  {
+    "Abbreviation": "cal",
+    "Description": "Calorie(s)"
+  },
+  {
+    "Abbreviation": "CB",
+    "Description": "CATCH BASIN"
+  },
+  {
+    "Abbreviation": "CBOD",
+    "Description": "Carbonaceous biochemical oxygen demand"
+  },
+  {
+    "Abbreviation": "cc",
+    "Description": "Cubic centimeter(s)"
+  },
+  {
+    "Abbreviation": "cfd",
+    "Description": "Cubic feet per day"
+  },
+  {
+    "Abbreviation": "cfh",
+    "Description": "Cubic feet per hour"
+  },
+  {
+    "Abbreviation": "cfm",
+    "Description": "Cubic feet per minute"
+  },
+  {
+    "Abbreviation": "CFP",
+    "Description": "CHEMICAL FEED PUMP"
+  },
+  {
+    "Abbreviation": "cfs",
+    "Description": "Cubic feet per second"
+  },
+  {
+    "Abbreviation": "CI",
+    "Description": "CAST IRON"
+  },
+  {
+    "Abbreviation": "CID",
+    "Description": "Commercial Item Description"
+  },
+  {
+    "Abbreviation": "CIP",
+    "Description": "CAST IRON PIPE"
+  },
+  {
+    "Abbreviation": "CK",
+    "Description": "CHECK VALVE"
+  },
+  {
+    "Abbreviation": "CL",
+    "Description": "SODIUM HYPOCHLORITE"
+  },
+  {
+    "Abbreviation": "CLN",
+    "Description": "CLEANOUT"
+  },
+  {
+    "Abbreviation": "CLR",
+    "Description": "CLEARANCE"
+  },
+  {
+    "Abbreviation": "cm",
+    "Description": "Centimeter(s)"
+  },
+  {
+    "Abbreviation": "CMP",
+    "Description": "CORRUGATED METAL PIPE"
+  },
+  {
+    "Abbreviation": "CO",
+    "Description": "COAGULANT"
+  },
+  {
+    "Abbreviation": "COD",
+    "Description": "Chemical oxygen demand"
+  },
+  {
+    "Abbreviation": "COGO",
+    "Description": "COORDINATE GEOMETRY"
+  },
+  {
+    "Abbreviation": "COL",
+    "Description": "COLUMN"
+  },
+  {
+    "Abbreviation": "CONC",
+    "Description": "CONCRETE"
+  },
+  {
+    "Abbreviation": "CONST",
+    "Description": "CONSTRUCTION"
+  },
+  {
+    "Abbreviation": "CONT",
+    "Description": "CONTINUOUS"
+  },
+  {
+    "Abbreviation": "Cp",
+    "Description": "Specific heat at constant pressure"
+  },
+  {
+    "Abbreviation": "CP",
+    "Description": "CONTROL PANEL"
+  },
+  {
+    "Abbreviation": "CPLG",
+    "Description": "COUPLING"
+  },
+  {
+    "Abbreviation": "CR",
+    "Description": "Condensate return"
+  },
+  {
+    "Abbreviation": "CRI",
+    "Description": "Color rendering index"
+  },
+  {
+    "Abbreviation": "CS",
+    "Description": "CHEMICAL SOLUTION"
+  },
+  {
+    "Abbreviation": "CTR",
+    "Description": "CENTER"
+  },
+  {
+    "Abbreviation": "CTRS",
+    "Description": "CENTERS"
+  },
+  {
+    "Abbreviation": "CU",
+    "Description": "Coefficient of utilization"
+  },
+  {
+    "Abbreviation": "cu",
+    "Description": "Cubic"
+  },
+  {
+    "Abbreviation": "cu",
+    "Description": "Cubic foot (feet)"
+  },
+  {
+    "Abbreviation": "CU",
+    "Description": "COPPER"
+  },
+  {
+    "Abbreviation": "CU FT",
+    "Description": "CUBIC FEET"
+  },
+  {
+    "Abbreviation": "cuin",
+    "Description": "Ft cubic inch(es)"
+  },
+  {
+    "Abbreviation": "CULV",
+    "Description": "CULVERT"
+  },
+  {
+    "Abbreviation": "cuyd",
+    "Description": "Cubic yard(s)"
+  },
+  {
+    "Abbreviation": "Cv",
+    "Description": "Coefficient, valve flow"
+  },
+  {
+    "Abbreviation": "CV",
+    "Description": "CONTROL VALVE"
+  },
+  {
+    "Abbreviation": "D",
+    "Description": "DISTANCE"
+  },
+  {
+    "Abbreviation": "DAS",
+    "Description": "DEFORMED ANCHOR STUD"
+  },
+  {
+    "Abbreviation": "dB",
+    "Description": "Decibels"
+  },
+  {
+    "Abbreviation": "dBa",
+    "Description": "Decibels (a scale)"
+  },
+  {
+    "Abbreviation": "dbt",
+    "Description": "Dry bulb temperature"
+  },
+  {
+    "Abbreviation": "dc",
+    "Description": "Direct current"
+  },
+  {
+    "Abbreviation": "deg",
+    "Description": "Degree(s)"
+  },
+  {
+    "Abbreviation": "DEG",
+    "Description": "DEGREE"
+  },
+  {
+    "Abbreviation": "dia",
+    "Description": "Diameter"
+  },
+  {
+    "Abbreviation": "DIA",
+    "Description": "DIAMETER"
+  },
+  {
+    "Abbreviation": "DIP",
+    "Description": "DUCTILE IRON PIPE"
+  },
+  {
+    "Abbreviation": "DISCH",
+    "Description": "DISCHARGE"
+  },
+  {
+    "Abbreviation": "DN",
+    "Description": "DOWN"
+  },
+  {
+    "Abbreviation": "DO",
+    "Description": "Dissolved oxygen"
+  },
+  {
+    "Abbreviation": "dp",
+    "Description": "Pressure drop or difference"
+  },
+  {
+    "Abbreviation": "dpt",
+    "Description": "Dewpoint temperature"
+  },
+  {
+    "Abbreviation": "DS",
+    "Description": "Dissolved solids"
+  },
+  {
+    "Abbreviation": "DT",
+    "Description": "DOUBLE TEE"
+  },
+  {
+    "Abbreviation": "DWG(S)",
+    "Description": "DRAWING(S)"
+  },
+  {
+    "Abbreviation": "E",
+    "Description": "EAST"
+  },
+  {
+    "Abbreviation": "EA",
+    "Description": "EACH"
+  },
+  {
+    "Abbreviation": "eat",
+    "Description": "Entering air temperature"
+  },
+  {
+    "Abbreviation": "ECC",
+    "Description": "ECCENTRIC"
+  },
+  {
+    "Abbreviation": "edr",
+    "Description": "Equivalent direct radiation"
+  },
+  {
+    "Abbreviation": "EF",
+    "Description": "EACH FACE"
+  },
+  {
+    "Abbreviation": "eff",
+    "Description": "Efficiency"
+  },
+  {
+    "Abbreviation": "EFF",
+    "Description": "EFFLUENT TO DISTRIBUTION SYSTEM"
+  },
+  {
+    "Abbreviation": "el",
+    "Description": "Elevation"
+  },
+  {
+    "Abbreviation": "EL",
+    "Description": "ELEVATION"
+  },
+  {
+    "Abbreviation": "ELB",
+    "Description": "ELBOW"
+  },
+  {
+    "Abbreviation": "ELV",
+    "Description": "ELEVATION"
+  },
+  {
+    "Abbreviation": "EMI",
+    "Description": "Electromagnetic interference"
+  },
+  {
+    "Abbreviation": "EMT",
+    "Description": "Electrical metallic tubing"
+  },
+  {
+    "Abbreviation": "ENT",
+    "Description": "Electrical nonmetallic tubing"
+  },
+  {
+    "Abbreviation": "EPDM",
+    "Description": "Ethylene-propylene-diene Terpolymer Rubber"
+  },
+  {
+    "Abbreviation": "EQ",
+    "Description": "EQUAL"
+  },
+  {
+    "Abbreviation": "EQPT",
+    "Description": "EQUIPMENT"
+  },
+  {
+    "Abbreviation": "ewt",
+    "Description": "Entering water temperature"
+  },
+  {
+    "Abbreviation": "EX",
+    "Description": "EXISTING"
+  },
+  {
+    "Abbreviation": "EXP",
+    "Description": "EXPANSION"
+  },
+  {
+    "Abbreviation": "EXT",
+    "Description": "EXTERIOR"
+  },
+  {
+    "Abbreviation": "F",
+    "Description": "Fahrenheit"
+  },
+  {
+    "Abbreviation": "fa",
+    "Description": "Face area"
+  },
+  {
+    "Abbreviation": "FBM",
+    "Description": "Board foot"
+  },
+  {
+    "Abbreviation": "fc",
+    "Description": "Foot candle"
+  },
+  {
+    "Abbreviation": "FCA",
+    "Description": "FLANGE COUPLING ADAPTOR"
+  },
+  {
+    "Abbreviation": "FD",
+    "Description": "FLOOR DRAIN"
+  },
+  {
+    "Abbreviation": "FE",
+    "Description": "FILTER EFFLUENT"
+  },
+  {
+    "Abbreviation": "FFE",
+    "Description": "FINISH FLOOR ELEVATION"
+  },
+  {
+    "Abbreviation": "FG",
+    "Description": "FINISH GRADE"
+  },
+  {
+    "Abbreviation": "FH",
+    "Description": "FIRE HYDRANT"
+  },
+  {
+    "Abbreviation": "FIG",
+    "Description": "FIGURE"
+  },
+  {
+    "Abbreviation": "FIT",
+    "Description": "FLOW INDICATING TRANSMITTER"
+  },
+  {
+    "Abbreviation": "FL",
+    "Description": "FLUORIDE"
+  },
+  {
+    "Abbreviation": "FLG",
+    "Description": "FLANGE"
+  },
+  {
+    "Abbreviation": "FLN",
+    "Description": "FLOW LINE"
+  },
+  {
+    "Abbreviation": "FLT",
+    "Description": "FILTER"
+  },
+  {
+    "Abbreviation": "FM",
+    "Description": "FORCE MAIN"
+  },
+  {
+    "Abbreviation": "FM",
+    "Description": "FLOW METER"
+  },
+  {
+    "Abbreviation": "FMC",
+    "Description": "Flexible metal conduit"
+  },
+  {
+    "Abbreviation": "FNSH",
+    "Description": "FINISH"
+  },
+  {
+    "Abbreviation": "FO",
+    "Description": "Fuel oil"
+  },
+  {
+    "Abbreviation": "FOFO",
+    "Description": "First on, first off"
+  },
+  {
+    "Abbreviation": "FOLO",
+    "Description": "First on, last off"
+  },
+  {
+    "Abbreviation": "FOR",
+    "Description": "Fuel oil return"
+  },
+  {
+    "Abbreviation": "FOS",
+    "Description": "Fuel oil supply"
+  },
+  {
+    "Abbreviation": "fpd",
+    "Description": "Feet per day"
+  },
+  {
+    "Abbreviation": "fph",
+    "Description": "Feet per hour"
+  },
+  {
+    "Abbreviation": "fpm",
+    "Description": "Feet per minute"
+  },
+  {
+    "Abbreviation": "FPS",
+    "Description": "Facility Process System"
+  },
+  {
+    "Abbreviation": "fps",
+    "Description": "Feet per second"
+  },
+  {
+    "Abbreviation": "freq",
+    "Description": "Frequency"
+  },
+  {
+    "Abbreviation": "ft",
+    "Description": "Foot (feet)"
+  },
+  {
+    "Abbreviation": "FTG",
+    "Description": "FOOTING"
+  },
+  {
+    "Abbreviation": "ft-lb",
+    "Description": "Foot pound"
+  },
+  {
+    "Abbreviation": "ft-lb/min",
+    "Description": "Foot pounds per minute"
+  },
+  {
+    "Abbreviation": "ft-lb/sec",
+    "Description": "Foot pounds per second"
+  },
+  {
+    "Abbreviation": "ftof",
+    "Description": "Face to face"
+  },
+  {
+    "Abbreviation": "FTU",
+    "Description": "Formazin turbidity unit(s)"
+  },
+  {
+    "Abbreviation": "FTW",
+    "Description": "FILTER TO WASTE"
+  },
+  {
+    "Abbreviation": "g",
+    "Description": "Gram(s)"
+  },
+  {
+    "Abbreviation": "ga",
+    "Description": "Gauge"
+  },
+  {
+    "Abbreviation": "GA",
+    "Description": "GAGE (GAUGE)"
+  },
+  {
+    "Abbreviation": "gal",
+    "Description": "Gallon(s)"
+  },
+  {
+    "Abbreviation": "GAL",
+    "Description": "GALLON"
+  },
+  {
+    "Abbreviation": "GALV",
+    "Description": "GALVANIZED (D)"
+  },
+  {
+    "Abbreviation": "GC-MS",
+    "Description": "Gas chromatography and mass spectrometry"
+  },
+  {
+    "Abbreviation": "GD",
+    "Description": "General duty"
+  },
+  {
+    "Abbreviation": "GFCI",
+    "Description": "Ground-fault circuit interrupter"
+  },
+  {
+    "Abbreviation": "GIP",
+    "Description": "GALVANIZED IRON PIPE"
+  },
+  {
+    "Abbreviation": "gm/cc",
+    "Description": "Grams per cubic centimeter"
+  },
+  {
+    "Abbreviation": "gpd",
+    "Description": "Gallons per day"
+  },
+  {
+    "Abbreviation": "gpd/cuft",
+    "Description": "Gallons per day per cubic foot"
+  },
+  {
+    "Abbreviation": "gpd/sqft",
+    "Description": "Gallons per day per square foot"
+  },
+  {
+    "Abbreviation": "gph",
+    "Description": "Gallons per hour"
+  },
+  {
+    "Abbreviation": "gpm",
+    "Description": "Gallons per minute"
+  },
+  {
+    "Abbreviation": "GPM",
+    "Description": "GALLONS PER MINUTE"
+  },
+  {
+    "Abbreviation": "gps",
+    "Description": "Gallons per second"
+  },
+  {
+    "Abbreviation": "gr",
+    "Description": "Grain(s)"
+  },
+  {
+    "Abbreviation": "GRD",
+    "Description": "GROUND"
+  },
+  {
+    "Abbreviation": "GRTG",
+    "Description": "GRATING"
+  },
+  {
+    "Abbreviation": "GV",
+    "Description": "GATE VALVE"
+  },
+  {
+    "Abbreviation": "HAS",
+    "Description": "HEADED ANCHOR STUD"
+  },
+  {
+    "Abbreviation": "HBP",
+    "Description": "HOT BITUMINOUS PAVEMENT"
+  },
+  {
+    "Abbreviation": "HD",
+    "Description": "Heavy duty"
+  },
+  {
+    "Abbreviation": "hgt",
+    "Description": "Height"
+  },
+  {
+    "Abbreviation": "HID",
+    "Description": "High-intensity discharge"
+  },
+  {
+    "Abbreviation": "HMC",
+    "Description": "HARDNESS MECHANICAL COUPLING"
+  },
+  {
+    "Abbreviation": "HOA switch",
+    "Description": "Hand-off-auto selector switch"
+  },
+  {
+    "Abbreviation": "HORIZ",
+    "Description": "HORIZONTAL"
+  },
+  {
+    "Abbreviation": "hp",
+    "Description": "Horsepower"
+  },
+  {
+    "Abbreviation": "hp-hr",
+    "Description": "Horsepower-hour"
+  },
+  {
+    "Abbreviation": "hr",
+    "Description": "Hour(s)"
+  },
+  {
+    "Abbreviation": "HWL",
+    "Description": "HIGH WATER LEVEL"
+  },
+  {
+    "Abbreviation": "Hz",
+    "Description": "Hertz"
+  },
+  {
+    "Abbreviation": "ID",
+    "Description": "Inside diameter"
+  },
+  {
+    "Abbreviation": "ID",
+    "Description": "INSIDE DIAMETER"
+  },
+  {
+    "Abbreviation": "IMC",
+    "Description": "Intermediate metal conduit"
+  },
+  {
+    "Abbreviation": "in",
+    "Description": "Inch(es)"
+  },
+  {
+    "Abbreviation": "IN",
+    "Description": "INCH"
+  },
+  {
+    "Abbreviation": "INF",
+    "Description": "INFLUENT (FILTER)"
+  },
+  {
+    "Abbreviation": "INV",
+    "Description": "INVERT"
+  },
+  {
+    "Abbreviation": "ips",
+    "Description": "Inches per second"
+  },
+  {
+    "Abbreviation": "JT",
+    "Description": "JOINT"
+  },
+  {
+    "Abbreviation": "JTU",
+    "Description": "Jackson turbidity unit(s)"
+  },
+  {
+    "Abbreviation": "K",
+    "Description": "Kelvin"
+  },
+  {
+    "Abbreviation": "kA",
+    "Description": "Kiloamperes"
+  },
+  {
+    "Abbreviation": "kcmil",
+    "Description": "Thousand circular mils"
+  },
+  {
+    "Abbreviation": "kg",
+    "Description": "Kilogram(s)"
+  },
+  {
+    "Abbreviation": "km",
+    "Description": "Kilometer(s)"
+  },
+  {
+    "Abbreviation": "kV",
+    "Description": "Kilovolt(s)"
+  },
+  {
+    "Abbreviation": "kVA",
+    "Description": "Kilovolt ampere(s)"
+  },
+  {
+    "Abbreviation": "kvar",
+    "Description": "Kilovar (kilovolt amperes reactive)"
+  },
+  {
+    "Abbreviation": "kW",
+    "Description": "Kilowatt(s)"
+  },
+  {
+    "Abbreviation": "kWh",
+    "Description": "Kilowatt hour(s)"
+  },
+  {
+    "Abbreviation": "L",
+    "Description": "Liter(s)"
+  },
+  {
+    "Abbreviation": "L",
+    "Description": "LEFT"
+  },
+  {
+    "Abbreviation": "lb",
+    "Description": "Pound(s)"
+  },
+  {
+    "Abbreviation": "lbs/day",
+    "Description": "Pounds per day"
+  },
+  {
+    "Abbreviation": "lbs/day/cuft",
+    "Description": "Pounds per day per cubic foot"
+  },
+  {
+    "Abbreviation": "lbs/day/sqft",
+    "Description": "Pounds per day per square foot"
+  },
+  {
+    "Abbreviation": "LE",
+    "Description": "LEVEL ELEMENT"
+  },
+  {
+    "Abbreviation": "LED",
+    "Description": "Light Emitting Diode"
+  },
+  {
+    "Abbreviation": "LER",
+    "Description": "Luminaire efficiency rating"
+  },
+  {
+    "Abbreviation": "LF",
+    "Description": "LINER FEET"
+  },
+  {
+    "Abbreviation": "LFMC",
+    "Description": "Liquidtight flexible metal conduit"
+  },
+  {
+    "Abbreviation": "LFNC",
+    "Description": "Liquidtight flexible nonmetallic conduit"
+  },
+  {
+    "Abbreviation": "LIC",
+    "Description": "LEVEL INDICATOR CONTROLLER"
+  },
+  {
+    "Abbreviation": "linft",
+    "Description": "Linear foot (feet)"
+  },
+  {
+    "Abbreviation": "LNG",
+    "Description": "LONG"
+  },
+  {
+    "Abbreviation": "LOFO",
+    "Description": "Last on, first off"
+  },
+  {
+    "Abbreviation": "LOLO",
+    "Description": "Last on, last off"
+  },
+  {
+    "Abbreviation": "LOR switch",
+    "Description": "Local-off-remote selector switch"
+  },
+  {
+    "Abbreviation": "LS",
+    "Description": "LAP SPLICE"
+  },
+  {
+    "Abbreviation": "LSH",
+    "Description": "LEVEL SWITCH HIGH"
+  },
+  {
+    "Abbreviation": "LSL",
+    "Description": "LEVEL SWITCH LOW"
+  },
+  {
+    "Abbreviation": "LT",
+    "Description": "ULTRASONIC LEVEL TRANSMITTER"
+  },
+  {
+    "Abbreviation": "m",
+    "Description": "Meter(s)"
+  },
+  {
+    "Abbreviation": "mA",
+    "Description": "Milliampere(s)"
+  },
+  {
+    "Abbreviation": "MATL",
+    "Description": "MATERIAL"
+  },
+  {
+    "Abbreviation": "MAX",
+    "Description": "MAXIMUM"
+  },
+  {
+    "Abbreviation": "Mbh",
+    "Description": "Thousand btu per hour"
+  },
+  {
+    "Abbreviation": "MC",
+    "Description": "MECHANICAL COUPLING"
+  },
+  {
+    "Abbreviation": "Mcf",
+    "Description": "Thousand cubic feet"
+  },
+  {
+    "Abbreviation": "MCP",
+    "Description": "Master control panel"
+  },
+  {
+    "Abbreviation": "MECH",
+    "Description": "MECHANICAL"
+  },
+  {
+    "Abbreviation": "MFR",
+    "Description": "MANUFACTURER"
+  },
+  {
+    "Abbreviation": "mg",
+    "Description": "Milligram(s)"
+  },
+  {
+    "Abbreviation": "MG",
+    "Description": "Million gallons"
+  },
+  {
+    "Abbreviation": "mg/L",
+    "Description": "Milligrams per liter"
+  },
+  {
+    "Abbreviation": "mgd",
+    "Description": "Million gallons per day"
+  },
+  {
+    "Abbreviation": "MH",
+    "Description": "MANHOLE"
+  },
+  {
+    "Abbreviation": "min",
+    "Description": "Minute(s)"
+  },
+  {
+    "Abbreviation": "MIN",
+    "Description": "MINIMUM"
+  },
+  {
+    "Abbreviation": "MISC",
+    "Description": "MISCELLANEOUS"
+  },
+  {
+    "Abbreviation": "MJ",
+    "Description": "MECHANICAL JOINT"
+  },
+  {
+    "Abbreviation": "mL",
+    "Description": "Milliliter(s)"
+  },
+  {
+    "Abbreviation": "MLSS",
+    "Description": "Mixed liquor suspended solids"
+  },
+  {
+    "Abbreviation": "mm",
+    "Description": "Millimeter(s)"
+  },
+  {
+    "Abbreviation": "MPG",
+    "Description": "MEDIUM PRESSURE GAS"
+  },
+  {
+    "Abbreviation": "mph",
+    "Description": "Miles per hour"
+  },
+  {
+    "Abbreviation": "ms",
+    "Description": "Millisecond(s)"
+  },
+  {
+    "Abbreviation": "MSD",
+    "Description": "Military Standardization Documents"
+  },
+  {
+    "Abbreviation": "MUA",
+    "Description": "MAKE-UP AIR"
+  },
+  {
+    "Abbreviation": "mV",
+    "Description": "Millivolt(s)"
+  },
+  {
+    "Abbreviation": "MVA",
+    "Description": "Megavolt ampere(s)"
+  },
+  {
+    "Abbreviation": "N",
+    "Description": "NORTH"
+  },
+  {
+    "Abbreviation": "N.C.",
+    "Description": "NORMALLY CLOSED"
+  },
+  {
+    "Abbreviation": "N.O.",
+    "Description": "NORMALLY OPEN"
+  },
+  {
+    "Abbreviation": "NBR",
+    "Description": "Acrylonitrile-butadiene rubber"
+  },
+  {
+    "Abbreviation": "nc",
+    "Description": "Noise criteria"
+  },
+  {
+    "Abbreviation": "NIC",
+    "Description": "NOT IN CONTRACT"
+  },
+  {
+    "Abbreviation": "no",
+    "Description": "Number"
+  },
+  {
+    "Abbreviation": "NO",
+    "Description": "NUMBER"
+  },
+  {
+    "Abbreviation": "NPSH",
+    "Description": "Net positive suction head"
+  },
+  {
+    "Abbreviation": "NPSHR",
+    "Description": "Net Positive Suction Head Required"
+  },
+  {
+    "Abbreviation": "NPW",
+    "Description": "NON-POTABLE WATER"
+  },
+  {
+    "Abbreviation": "NRC",
+    "Description": "Noise reduction coefficient"
+  },
+  {
+    "Abbreviation": "NTS",
+    "Description": "NOT TO SCALE"
+  },
+  {
+    "Abbreviation": "NTU",
+    "Description": "Nephelometric turbidity unit"
+  },
+  {
+    "Abbreviation": "O&M",
+    "Description": "Operation and Maintenance"
+  },
+  {
+    "Abbreviation": "oa",
+    "Description": "Outside air"
+  },
+  {
+    "Abbreviation": "OC",
+    "Description": "ON CENTER"
+  },
+  {
+    "Abbreviation": "OD",
+    "Description": "Outside diameter"
+  },
+  {
+    "Abbreviation": "OD",
+    "Description": "OUTSIDE DIAMETER"
+  },
+  {
+    "Abbreviation": "OI(s)",
+    "Description": "Operator interface(s)"
+  },
+  {
+    "Abbreviation": "OPNG",
+    "Description": "OPENING"
+  },
+  {
+    "Abbreviation": "OPP",
+    "Description": "OPPOSITE"
+  },
+  {
+    "Abbreviation": "oz",
+    "Description": "Ounce(s)"
+  },
+  {
+    "Abbreviation": "P&ID(s)",
+    "Description": "Piping & instrument diagram(s)"
+  },
+  {
+    "Abbreviation": "PA",
+    "Description": "PROCESS AIR"
+  },
+  {
+    "Abbreviation": "pcf",
+    "Description": "Pounds per cubic foot"
+  },
+  {
+    "Abbreviation": "pcf/hr",
+    "Description": "Pounds per cubic foot per hour"
+  },
+  {
+    "Abbreviation": "pct",
+    "Description": "Percent"
+  },
+  {
+    "Abbreviation": "PCV",
+    "Description": "PUMP CONTROL VALVE"
+  },
+  {
+    "Abbreviation": "PE",
+    "Description": "PROFESSIONAL ENGINEER"
+  },
+  {
+    "Abbreviation": "PF",
+    "Description": "Power factor"
+  },
+  {
+    "Abbreviation": "PG",
+    "Description": "PRESSURE GAUGE"
+  },
+  {
+    "Abbreviation": "pH",
+    "Description": "Hydrogen ion concentration"
+  },
+  {
+    "Abbreviation": "ph",
+    "Description": "Phase (electrical)"
+  },
+  {
+    "Abbreviation": "PI",
+    "Description": "PRESSURE INDICATOR"
+  },
+  {
+    "Abbreviation": "PIP",
+    "Description": "POLYMER INJECTION POINT"
+  },
+  {
+    "Abbreviation": "PIT",
+    "Description": "PRESSURE INDICATING TRANSMITTER"
+  },
+  {
+    "Abbreviation": "PL",
+    "Description": "PLAIN END"
+  },
+  {
+    "Abbreviation": "PLC(s)",
+    "Description": "Programmable logic controller(s)"
+  },
+  {
+    "Abbreviation": "PLS",
+    "Description": "PROFESSIONAL LAND SURVEYOR"
+  },
+  {
+    "Abbreviation": "ppb",
+    "Description": "Parts per billion"
+  },
+  {
+    "Abbreviation": "ppm",
+    "Description": "Parts per million"
+  },
+  {
+    "Abbreviation": "PRV",
+    "Description": "PRESSURE REDUCING VALVE"
+  },
+  {
+    "Abbreviation": "PS",
+    "Description": "PRESSURE SWITCH"
+  },
+  {
+    "Abbreviation": "psf",
+    "Description": "Pounds per square foot"
+  },
+  {
+    "Abbreviation": "psf/hr",
+    "Description": "Pounds per square foot per hour"
+  },
+  {
+    "Abbreviation": "psi",
+    "Description": "Pounds per square inch"
+  },
+  {
+    "Abbreviation": "psia",
+    "Description": "Pounds per square inch absolute"
+  },
+  {
+    "Abbreviation": "psig",
+    "Description": "Pounds per square inch gauge"
+  },
+  {
+    "Abbreviation": "PSV",
+    "Description": "PRESSURE SAFETY VALVE"
+  },
+  {
+    "Abbreviation": "PT",
+    "Description": "POINT"
+  },
+  {
+    "Abbreviation": "PTFE",
+    "Description": "Polytetrafluoroethylene"
+  },
+  {
+    "Abbreviation": "PVC",
+    "Description": "Polyvinyl chloride"
+  },
+  {
+    "Abbreviation": "PVC",
+    "Description": "POLYVINYL CHLORIDE"
+  },
+  {
+    "Abbreviation": "PVDF",
+    "Description": "Polyvinylidene fluoride"
+  },
+  {
+    "Abbreviation": "PVMT",
+    "Description": "PAVEMENT"
+  },
+  {
+    "Abbreviation": "PW",
+    "Description": "POTABLE WATER"
+  },
+  {
+    "Abbreviation": "qt",
+    "Description": "Quart(s)"
+  },
+  {
+    "Abbreviation": "R",
+    "Description": "Rankine"
+  },
+  {
+    "Abbreviation": "R",
+    "Description": "RADIUS"
+  },
+  {
+    "Abbreviation": "R",
+    "Description": "RIGHT"
+  },
+  {
+    "Abbreviation": "ra",
+    "Description": "Return air"
+  },
+  {
+    "Abbreviation": "RAD",
+    "Description": "RADIUS"
+  },
+  {
+    "Abbreviation": "RCP",
+    "Description": "REINFORCED CONCRETE PIPE"
+  },
+  {
+    "Abbreviation": "RCR",
+    "Description": "Room cavity ratio"
+  },
+  {
+    "Abbreviation": "RD",
+    "Description": "ROAD"
+  },
+  {
+    "Abbreviation": "RDCR",
+    "Description": "REDUCER"
+  },
+  {
+    "Abbreviation": "RE",
+    "Description": "REFERENCE"
+  },
+  {
+    "Abbreviation": "REINF",
+    "Description": "REINFORCE"
+  },
+  {
+    "Abbreviation": "REQD",
+    "Description": "REQUIRED"
+  },
+  {
+    "Abbreviation": "res",
+    "Description": "Resistance"
+  },
+  {
+    "Abbreviation": "rev",
+    "Description": "Revolution(s)"
+  },
+  {
+    "Abbreviation": "REV",
+    "Description": "REVISION"
+  },
+  {
+    "Abbreviation": "RFI",
+    "Description": "Radio-frequency interference"
+  },
+  {
+    "Abbreviation": "rh",
+    "Description": "Humidity, relative"
+  },
+  {
+    "Abbreviation": "rh",
+    "Description": "Relative humidity"
+  },
+  {
+    "Abbreviation": "RMC",
+    "Description": "Rigid metal conduit"
+  },
+  {
+    "Abbreviation": "RMS",
+    "Description": "Root mean square"
+  },
+  {
+    "Abbreviation": "RNC",
+    "Description": "Rigid nonmetallic conduit"
+  },
+  {
+    "Abbreviation": "ROW",
+    "Description": "RIGHT-OF-WAY"
+  },
+  {
+    "Abbreviation": "rpm",
+    "Description": "Revolutions per minute"
+  },
+  {
+    "Abbreviation": "rps",
+    "Description": "Revolutions per second"
+  },
+  {
+    "Abbreviation": "RPTFE",
+    "Description": "Reinforced PolyTetraFluoroEthylene"
+  },
+  {
+    "Abbreviation": "RPZ",
+    "Description": "REDUCED PRESSURE ZONE"
+  },
+  {
+    "Abbreviation": "RW",
+    "Description": "RAW WATER"
+  },
+  {
+    "Abbreviation": "S",
+    "Description": "SOUTH"
+  },
+  {
+    "Abbreviation": "S.L.B.",
+    "Description": "SLAB ON GRADE"
+  },
+  {
+    "Abbreviation": "sa",
+    "Description": "Supply air"
+  },
+  {
+    "Abbreviation": "SAN",
+    "Description": "SANITARY SEWER"
+  },
+  {
+    "Abbreviation": "SC",
+    "Description": "Shading coefficient"
+  },
+  {
+    "Abbreviation": "SCADA",
+    "Description": "Supervisory control and data acquisition"
+  },
+  {
+    "Abbreviation": "scfm",
+    "Description": "Cubic feet per minute, standard conditions"
+  },
+  {
+    "Abbreviation": "SCHED",
+    "Description": "SCHEDULE"
+  },
+  {
+    "Abbreviation": "SDI",
+    "Description": "Sludge density index"
+  },
+  {
+    "Abbreviation": "sec",
+    "Description": "Second(s)"
+  },
+  {
+    "Abbreviation": "SECT",
+    "Description": "SECTION"
+  },
+  {
+    "Abbreviation": "sf",
+    "Description": "Safety factor"
+  },
+  {
+    "Abbreviation": "SHR",
+    "Description": "SHOWER"
+  },
+  {
+    "Abbreviation": "SHT",
+    "Description": "SHEET"
+  },
+  {
+    "Abbreviation": "SIM",
+    "Description": "SIMILAR"
+  },
+  {
+    "Abbreviation": "SLV",
+    "Description": "SLEEVE"
+  },
+  {
+    "Abbreviation": "Sp Vol",
+    "Description": "Specific volume"
+  },
+  {
+    "Abbreviation": "SPD",
+    "Description": "STANDARD PROCTOR DENSITY"
+  },
+  {
+    "Abbreviation": "SPDT",
+    "Description": "Single pole, double throw"
+  },
+  {
+    "Abbreviation": "SPEC",
+    "Description": "SPECIFICATIONS"
+  },
+  {
+    "Abbreviation": "spgr",
+    "Description": "Specific gravity"
+  },
+  {
+    "Abbreviation": "sq",
+    "Description": "Square"
+  },
+  {
+    "Abbreviation": "SQ",
+    "Description": "SQUARE"
+  },
+  {
+    "Abbreviation": "SQ FT",
+    "Description": "SQUARE FEET"
+  },
+  {
+    "Abbreviation": "SQ YD",
+    "Description": "SQUARE YARD"
+  },
+  {
+    "Abbreviation": "sqcm",
+    "Description": "Square centimeter(s)"
+  },
+  {
+    "Abbreviation": "sqft",
+    "Description": "Square foot (feet)"
+  },
+  {
+    "Abbreviation": "sqin",
+    "Description": "Square inch (es)"
+  },
+  {
+    "Abbreviation": "sqm",
+    "Description": "Square meter(s)"
+  },
+  {
+    "Abbreviation": "sqyd",
+    "Description": "Square yard(s)"
+  },
+  {
+    "Abbreviation": "SS",
+    "Description": "Suspended solids"
+  },
+  {
+    "Abbreviation": "SS",
+    "Description": "SANITARY SEWER"
+  },
+  {
+    "Abbreviation": "SS",
+    "Description": "STAINLESS STEEL"
+  },
+  {
+    "Abbreviation": "STA",
+    "Description": "STATION"
+  },
+  {
+    "Abbreviation": "STC",
+    "Description": "Sound transmission coefficient"
+  },
+  {
+    "Abbreviation": "std",
+    "Description": "Standard"
+  },
+  {
+    "Abbreviation": "STD",
+    "Description": "STANDARD"
+  },
+  {
+    "Abbreviation": "STL",
+    "Description": "STEEL"
+  },
+  {
+    "Abbreviation": "stpr",
+    "Description": "Static pressure"
+  },
+  {
+    "Abbreviation": "SVR",
+    "Description": "Suppressed voltage rating"
+  },
+  {
+    "Abbreviation": "SYMM",
+    "Description": "SYMMETRICAL"
+  },
+  {
+    "Abbreviation": "TB",
+    "Description": "THRUST BLOCK"
+  },
+  {
+    "Abbreviation": "TBD",
+    "Description": "TURBIDIMETER"
+  },
+  {
+    "Abbreviation": "TBM",
+    "Description": "TEMPORARY BENCH MARK"
+  },
+  {
+    "Abbreviation": "TD",
+    "Description": "Temperature difference"
+  },
+  {
+    "Abbreviation": "TDH",
+    "Description": "Total Dynamic Head"
+  },
+  {
+    "Abbreviation": "TDS",
+    "Description": "Total dissolved solids"
+  },
+  {
+    "Abbreviation": "TE",
+    "Description": "Temperature entering"
+  },
+  {
+    "Abbreviation": "TEFC",
+    "Description": "Totally Enclosed Fan Cooled"
+  },
+  {
+    "Abbreviation": "temp",
+    "Description": "Temperature"
+  },
+  {
+    "Abbreviation": "TEMP",
+    "Description": "TEMPORARY"
+  },
+  {
+    "Abbreviation": "TF",
+    "Description": "TOP OF FOUNDATION"
+  },
+  {
+    "Abbreviation": "TG",
+    "Description": "TEMPERATURE GAUGE"
+  },
+  {
+    "Abbreviation": "TKN",
+    "Description": "Total kjeldahl nitrogen"
+  },
+  {
+    "Abbreviation": "TL",
+    "Description": "Temperature leaving"
+  },
+  {
+    "Abbreviation": "TLV",
+    "Description": "Threshold limit value"
+  },
+  {
+    "Abbreviation": "TOD",
+    "Description": "Total oxygen demand"
+  },
+  {
+    "Abbreviation": "TOG",
+    "Description": "TOP OF GRATE"
+  },
+  {
+    "Abbreviation": "TOW",
+    "Description": "TOP OF WALL"
+  },
+  {
+    "Abbreviation": "TP",
+    "Description": "Total pressure"
+  },
+  {
+    "Abbreviation": "TR",
+    "Description": "TOP OF RIM"
+  },
+  {
+    "Abbreviation": "TRQ",
+    "Description": "Tons torque"
+  },
+  {
+    "Abbreviation": "TS",
+    "Description": "Total solids"
+  },
+  {
+    "Abbreviation": "TSS",
+    "Description": "Total suspended solids"
+  },
+  {
+    "Abbreviation": "TVS",
+    "Description": "Total volatile solids"
+  },
+  {
+    "Abbreviation": "TVSS",
+    "Description": "Transient voltage surge suppressor"
+  },
+  {
+    "Abbreviation": "TYP",
+    "Description": "TYPICAL"
+  },
+  {
+    "Abbreviation": "U",
+    "Description": "Heat transfer coefficient"
+  },
+  {
+    "Abbreviation": "ug/L",
+    "Description": "Micrograms per liter"
+  },
+  {
+    "Abbreviation": "UGE",
+    "Description": "UNDERGROUND ELECTRICAL"
+  },
+  {
+    "Abbreviation": "UGT",
+    "Description": "UNDERGROUND TELEPHONE"
+  },
+  {
+    "Abbreviation": "UNO",
+    "Description": "UNLESS NOTED OTHERWISE"
+  },
+  {
+    "Abbreviation": "UPS(s)",
+    "Description": "Uninterruptible power supply(ies)"
+  },
+  {
+    "Abbreviation": "UTP",
+    "Description": "Unshielded twisted pair"
+  },
+  {
+    "Abbreviation": "UV",
+    "Description": "ULTRAVIOLET"
+  },
+  {
+    "Abbreviation": "UVT",
+    "Description": "UV TRANSMITTANCE ANALYZER"
+  },
+  {
+    "Abbreviation": "V",
+    "Description": "Volt(s)"
+  },
+  {
+    "Abbreviation": "VA",
+    "Description": "Volts ampere(s)"
+  },
+  {
+    "Abbreviation": "vac",
+    "Description": "Vacuum"
+  },
+  {
+    "Abbreviation": "vappr",
+    "Description": "Pressure, vapor"
+  },
+  {
+    "Abbreviation": "VB",
+    "Description": "VALVE BOX"
+  },
+  {
+    "Abbreviation": "VCP",
+    "Description": "VITRIFIED CLAY PIPE"
+  },
+  {
+    "Abbreviation": "VERT",
+    "Description": "VERTICAL"
+  },
+  {
+    "Abbreviation": "VFD",
+    "Description": "Variable Frequency Drive"
+  },
+  {
+    "Abbreviation": "VI",
+    "Description": "HEADLOSS INDICATOR"
+  },
+  {
+    "Abbreviation": "visc",
+    "Description": "Viscosity"
+  },
+  {
+    "Abbreviation": "VOC",
+    "Description": "Volatile organic chemical"
+  },
+  {
+    "Abbreviation": "vol",
+    "Description": "Volume"
+  },
+  {
+    "Abbreviation": "VOL",
+    "Description": "VOLUME"
+  },
+  {
+    "Abbreviation": "vp",
+    "Description": "Pressure, dynamic (velocity)"
+  },
+  {
+    "Abbreviation": "VR",
+    "Description": "VACUUM RELIEF VALVE"
+  },
+  {
+    "Abbreviation": "VS",
+    "Description": "Volatile solids"
+  },
+  {
+    "Abbreviation": "VSS",
+    "Description": "Volatile suspended solids"
+  },
+  {
+    "Abbreviation": "VWM",
+    "Description": "VERIFY WITH MANUFACTURER"
+  },
+  {
+    "Abbreviation": "W",
+    "Description": "Watt(s)"
+  },
+  {
+    "Abbreviation": "W",
+    "Description": "WATER"
+  },
+  {
+    "Abbreviation": "W",
+    "Description": "WEST"
+  },
+  {
+    "Abbreviation": "WB",
+    "Description": "Wet bulb"
+  },
+  {
+    "Abbreviation": "WBT",
+    "Description": "Wet bulb temperature"
+  },
+  {
+    "Abbreviation": "Wh",
+    "Description": "Watthour(s)"
+  },
+  {
+    "Abbreviation": "WHD",
+    "Description": "Watt hour demand"
+  },
+  {
+    "Abbreviation": "WHDM",
+    "Description": "Watt hour demand meter"
+  },
+  {
+    "Abbreviation": "wk",
+    "Description": "Week(s)"
+  },
+  {
+    "Abbreviation": "WS",
+    "Description": "WATER STOP"
+  },
+  {
+    "Abbreviation": "WS_RX",
+    "Description": "WATER STOP RX"
+  },
+  {
+    "Abbreviation": "WSE",
+    "Description": "WATER SURFACE ELEVATION"
+  },
+  {
+    "Abbreviation": "wt",
+    "Description": "Weight"
+  },
+  {
+    "Abbreviation": "WT",
+    "Description": "WEIGHT"
+  },
+  {
+    "Abbreviation": "WW",
+    "Description": "WASTEWATER"
+  },
+  {
+    "Abbreviation": "WWF",
+    "Description": "WELDED WIRE FABRIC"
+  },
+  {
+    "Abbreviation": "WWTF",
+    "Description": "WASTEWATER TREATMENT FACILITY"
+  },
+  {
+    "Abbreviation": "yd",
+    "Description": "Yard(s)"
+  },
+  {
+    "Abbreviation": "YD",
+    "Description": "YARD"
+  },
+  {
+    "Abbreviation": "YH",
+    "Description": "YARD HYDRANT"
+  },
+  {
+    "Abbreviation": "yr",
+    "Description": "Year(s)"
+  }
+]
+}

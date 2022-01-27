@@ -1,0 +1,1083 @@
+{ "references": [
+  {
+    "abbreviation": "AA",
+    "agency": "Aluminum Association",
+    "address": "900 19th Street, NW, Suite 300 Washington, D.C. 20006-2168"
+  },
+  {
+    "abbreviation": "AABC",
+    "agency": "Associated Air Balance Council",
+    "address": "1518 K Street, NW, Suite 503 Washington, D.C. 20005"
+  },
+  {
+    "abbreviation": "AAMA",
+    "agency": "Architectural Aluminum Manufacturers’ Association",
+    "address": "1827 Walden Office Square, Suite 104 Schaumberg, Illinois 60173-4268"
+  },
+  {
+    "abbreviation": "AAN",
+    "agency": "American Association of Nurserymen",
+    "address": "See ANLA"
+  },
+  {
+    "abbreviation": "AASHTO",
+    "agency": "America Association of State Highway and Transportation Officials",
+    "address": "341 National Press Building, Washington, DC. 20004"
+  },
+  {
+    "abbreviation": "AATCC",
+    "agency": "American Association of Textile Chemists and Colorists",
+    "address": ""
+  },
+  {
+    "abbreviation": "AATSA",
+    "agency": "American Traffic Safety Services Association",
+    "address": "15 Riverside Parkway Suite 100 Fredericksburg, VA 22406-1717"
+  },
+  {
+    "abbreviation": "ABMA",
+    "agency": "American Boiler Manufacturers Association",
+    "address": "950 N. Glebe Road, Suite 160 Arlington, Virginia 22203-1824"
+  },
+  {
+    "abbreviation": "ACI",
+    "agency": "American Concrete Institute",
+    "address": "P.O. Box 9094 Farmington Hills, Michigan 48333-9094"
+  },
+  {
+    "abbreviation": "ACPA",
+    "agency": "American Concrete Pipe Association",
+    "address": "222 West Las Colinas Boulevard, Suite 641 Irving, Texas 75039-5423"
+  },
+  {
+    "abbreviation": "ADA",
+    "agency": "Americans With Disabilities Act",
+    "address": ""
+  },
+  {
+    "abbreviation": "ADC",
+    "agency": "Air Diffusion Council",
+    "address": "11 South LaSalle Street, Suite 1400 Chicago, Illinois 60603"
+  },
+  {
+    "abbreviation": "AFBMA",
+    "agency": "Anti-Friction Bearing Manufacturers’ Association",
+    "address": ""
+  },
+  {
+    "abbreviation": "AFI",
+    "agency": "Air Filter Institute",
+    "address": ""
+  },
+  {
+    "abbreviation": "AFPA",
+    "agency": "American Forest and Paper Association",
+    "address": "1111 19th Street, NW, Suite 800 Washington, D.C. 20036"
+  },
+  {
+    "abbreviation": "AGA",
+    "agency": "American Gas Association",
+    "address": "1515 Wilson Boulevard Arlington, Virginia 22209"
+  },
+  {
+    "abbreviation": "AGMA",
+    "agency": "American Gear Manufacturers’ Association",
+    "address": ""
+  },
+  {
+    "abbreviation": "AHA",
+    "agency": "Association of Home Appliance Manufacturers",
+    "address": ""
+  },
+  {
+    "abbreviation": "AHA",
+    "agency": "American Hardboard Association",
+    "address": "1210 W. Northwest Highway Palatine, Illinois 60067-1897"
+  },
+  {
+    "abbreviation": "AHAM",
+    "agency": "Association of Home Appliance Manufacturers",
+    "address": "20 N. Wacker Drive, Suite 1500 Chicago, Illinois 60606"
+  },
+  {
+    "abbreviation": "AI",
+    "agency": "Asphalt Institute",
+    "address": "Research Park Drive P.O. Box 14052 Lexington, Kentucky 40512-4052"
+  },
+  {
+    "abbreviation": "AIA",
+    "agency": "American Institute of Architects",
+    "address": "1735 New York Avenue, N.W. Washington, DC 20006-5292"
+  },
+  {
+    "abbreviation": "AISC",
+    "agency": "American Institute of Steel Construction, Inc.",
+    "address": "1 East Wacker Drive, Suite 3100 Chicago, Illinois 60601-2001"
+  },
+  {
+    "abbreviation": "AISI",
+    "agency": "American Iron and Steel Institute",
+    "address": "1101 17th Street, NW Washington, D.C. 20036-4700"
+  },
+  {
+    "abbreviation": "AITC",
+    "agency": "American Institute of Timber Construction",
+    "address": "7012 S. Revere Parkway, Suite 140 Englewood, Colorado 80112"
+  },
+  {
+    "abbreviation": "ALSC",
+    "agency": "American Lumber Standards Committee",
+    "address": "P.O. Box 210 Germantown, Maryland 20875"
+  },
+  {
+    "abbreviation": "AMA",
+    "agency": "Acoustical Materials Association",
+    "address": ""
+  },
+  {
+    "abbreviation": "AMCA",
+    "agency": "Air Movement and Control Association International, Inc.",
+    "address": "30 W. University Drive Arlington Heights, Illinois 60004-1893"
+  },
+  {
+    "abbreviation": "ANLA",
+    "agency": "American Nursery and Landscape Association",
+    "address": "1250 I Street, NW, Suite 500 Washington, D.C. 20005"
+  },
+  {
+    "abbreviation": "ANSI",
+    "agency": "American National Standards Institute",
+    "address": "11 West 42nd Street, 13th Floor New York, New York 10036"
+  },
+  {
+    "abbreviation": "APA",
+    "agency": "American Plywood Association",
+    "address": "(See EWA)"
+  },
+  {
+    "abbreviation": "API",
+    "agency": "American Petroleum Institute",
+    "address": ""
+  },
+  {
+    "abbreviation": "APWA",
+    "agency": "American Public Works Association",
+    "address": "106 West 11th Street, Suite 1800 Kansas City, Missouri 64105-1806"
+  },
+  {
+    "abbreviation": "AREA",
+    "agency": "American Railway Engineering Association",
+    "address": ""
+  },
+  {
+    "abbreviation": "ARI",
+    "agency": "American Refrigeration Institute",
+    "address": ""
+  },
+  {
+    "abbreviation": "ARI",
+    "agency": "Air-Conditioning and Refrigeration Institute",
+    "address": "4301 Fairfax Drive, Suite 425 Arlington, Virginia 22203"
+  },
+  {
+    "abbreviation": "ARMA",
+    "agency": "Asphalt Roofing Manufacturers Association",
+    "address": "Center Park, 4041 Powder Mill Road, Suite 404 Calverton, Maryland 20705"
+  },
+  {
+    "abbreviation": "ASA",
+    "agency": "Aluminum Siding Association",
+    "address": ""
+  },
+  {
+    "abbreviation": "ASAE",
+    "agency": "American Society of Agricultural Engineers",
+    "address": ""
+  },
+  {
+    "abbreviation": "ASC",
+    "agency": "Adhesive and Sealant Council",
+    "address": "1627 K Street, NW, Suite 1000 Washington, D.C. 20006-1707"
+  },
+  {
+    "abbreviation": "ASCE",
+    "agency": "American Society of Civil Engineers",
+    "address": "1801 Alexander Bell Drive Reston, Virginia 20191-4400"
+  },
+  {
+    "abbreviation": "ASHRAE",
+    "agency": "American Society of Heating, Refrigerating and Air Conditioning Engineers, Inc.",
+    "address": "1791 Tullie Circle, NE Atlanta, Georgia 30329-2305"
+  },
+  {
+    "abbreviation": "ASLA",
+    "agency": "American Society of Landscape Architects",
+    "address": "4401 Connecticut Avenue, NW Fifth Floor Washington, D.C. 20008-2369"
+  },
+  {
+    "abbreviation": "ASME",
+    "agency": "American Society of Mechanical Engineers",
+    "address": "345 East 47th Street New York, New York 10017"
+  },
+  {
+    "abbreviation": "ASPE",
+    "agency": "American Society of Plumbing Engineers",
+    "address": "3617 Thousand Oaks Boulevard, Suite 210 Westlake, California 91362-3649"
+  },
+  {
+    "abbreviation": "ASSE",
+    "agency": "American Society of Sanitary Engineering",
+    "address": "28901 Clemens Road, Suite 100 Westlake, Ohio 44145"
+  },
+  {
+    "abbreviation": "ASTM",
+    "agency": "American Society for Testing and Materials",
+    "address": "100 Barr Harbor Drive West Conshohocken, Pennsylvania  19428-2959"
+  },
+  {
+    "abbreviation": "ATS",
+    "agency": "Acceptance Testing Specifications",
+    "address": ""
+  },
+  {
+    "abbreviation": "AWI",
+    "agency": "American Woodwork Institute",
+    "address": ""
+  },
+  {
+    "abbreviation": "AWI",
+    "agency": "Architectural Woodwork Institute",
+    "address": "1952 Isaac Newton Square Reston, Virginia 20190"
+  },
+  {
+    "abbreviation": "AWPA",
+    "agency": "American Wood Preservers’ Association",
+    "address": "3246 Fall Creek Highway, Suite 1900 Granbury, Texas  76049-7979"
+  },
+  {
+    "abbreviation": "AWPB",
+    "agency": "American Wood Preservers’ Bureau",
+    "address": ""
+  },
+  {
+    "abbreviation": "AWPI",
+    "agency": "American Wood Preservers’ Institute",
+    "address": "1945 Old Gallows Road, Suite 550 Vienna, Virginia 22182"
+  },
+  {
+    "abbreviation": "AWS",
+    "agency": "American Welding Society, Inc.",
+    "address": "550 NW LeJeune Road Miami, Florida 33126"
+  },
+  {
+    "abbreviation": "AWWA",
+    "agency": "American Water Works Association, Inc.",
+    "address": "6666 West Quincy Ave., Denver, CO 80235."
+  },
+  {
+    "abbreviation": "BHMA",
+    "agency": "Builders Hardware Manufacturers’ Association",
+    "address": "355 Lexington Avenue, 17th Floor New York, New York 10017-6603"
+  },
+  {
+    "abbreviation": "BIA",
+    "agency": "Brick Institute of America",
+    "address": "11490 Commerce Park Drive Reston, Virginia 22091-1525"
+  },
+  {
+    "abbreviation": "BOCA",
+    "agency": "Building Officials Code Administration",
+    "address": "4051 W. Flossmoor Road Country Club Hills, Illinois 60478-5795"
+  },
+  {
+    "abbreviation": "CABO",
+    "agency": "Council of American Building Officials",
+    "address": ""
+  },
+  {
+    "abbreviation": "CAGI",
+    "agency": "Compressed Air and Gas Institute",
+    "address": ""
+  },
+  {
+    "abbreviation": "CBMA",
+    "agency": "Certified Ballast Manufacturers’ Association",
+    "address": "1422 Euclid Avenue, Suite 402 Cleveland, Ohio 44115-2851"
+  },
+  {
+    "abbreviation": "CDA",
+    "agency": "Copper Development Association",
+    "address": "260 Madison Avenue, 16th Floor New York, New York 10016-2401"
+  },
+  {
+    "abbreviation": "CDOT",
+    "agency": "Colorado Department of Transportation",
+    "address": "4201 Arkansas Avenue Denver, CO 80222"
+  },
+  {
+    "abbreviation": "CE",
+    "agency": "Corps of Engineers",
+    "address": "20 Massachusetts Avenue, NW Washington, D.C. 20314"
+  },
+  {
+    "abbreviation": "CGA",
+    "agency": "Compressed Gas Association",
+    "address": ""
+  },
+  {
+    "abbreviation": "CISPI",
+    "agency": "Cast Iron Soil Pipe Institute",
+    "address": "5959 Shallowford Road, Suite 419 Chattanooga, Tennessee 37421"
+  },
+  {
+    "abbreviation": "CLFMI",
+    "agency": "Chain Link Fence Manufacturers Institute",
+    "address": "9891 Broken Land Parkway, Suite 300 Columbia, Maryland 21046"
+  },
+  {
+    "abbreviation": "CMAA",
+    "agency": "Crane Manufacturers’ Association of America",
+    "address": ""
+  },
+  {
+    "abbreviation": "CRA",
+    "agency": "California Redwood Association",
+    "address": "405 Enfrente Drive, Suite 200 Novato, California 94949"
+  },
+  {
+    "abbreviation": "CRD",
+    "agency": "U.S. Corps of Engineers Specifications",
+    "address": ""
+  },
+  {
+    "abbreviation": "CRI",
+    "agency": "Carpet and Rug Institute",
+    "address": "310 S. Holiday Avenue Dalton, Georgia 30722-2048"
+  },
+  {
+    "abbreviation": "CRSI",
+    "agency": "Concrete Reinforcing Steel Institute",
+    "address": "933 N. Plum Grove Road Schaumburg, Illinois 60173-4758"
+  },
+  {
+    "abbreviation": "CS",
+    "agency": "Commercial Standard of NBS",
+    "address": "U.S. Department of Commerce, Government Printing Office, Washington, DC 20402"
+  },
+  {
+    "abbreviation": "CSI",
+    "agency": "Construction Specifications Institute",
+    "address": ""
+  },
+  {
+    "abbreviation": "CSSB",
+    "agency": "Cedar Shingle and Shake Bureau",
+    "address": "515 116th Avenue, NE, Suite 275 Bellevue, Washington 98004-5294"
+  },
+  {
+    "abbreviation": "CTI",
+    "agency": "Cooling Tower Institute",
+    "address": ""
+  },
+  {
+    "abbreviation": "DHI",
+    "agency": "Door and Hardware Institute",
+    "address": "14170 Newbrook Drive Chantilly, Virginia 22021-2223"
+  },
+  {
+    "abbreviation": "DOH",
+    "agency": "Department of Health",
+    "address": ""
+  },
+  {
+    "abbreviation": "DOT",
+    "agency": "Department of Transportation",
+    "address": ""
+  },
+  {
+    "abbreviation": "EIA",
+    "agency": "Electronic Industries Association",
+    "address": ""
+  },
+  {
+    "abbreviation": "EJCDC",
+    "agency": "Engineer’s Joint Contract Documents Committee",
+    "address": ""
+  },
+  {
+    "abbreviation": "EPA",
+    "agency": "Environmental Protection agency",
+    "address": "401 M Street, SW Washington, D.C. 20460"
+  },
+  {
+    "abbreviation": "ETL",
+    "agency": "Electrical Testing Lab",
+    "address": ""
+  },
+  {
+    "abbreviation": "EWA",
+    "agency": "APA- The Engineered Wood Association",
+    "address": "P.O. Box 11700 Tacoma, Washington 98411-0700"
+  },
+  {
+    "abbreviation": "Fed. Spec.",
+    "agency": "Federal Specifications",
+    "address": ""
+  },
+  {
+    "abbreviation": "FGMA",
+    "agency": "Flat Glass Marketing Association",
+    "address": "3310 Harrison, Topeka, KS 66611"
+  },
+  {
+    "abbreviation": "FHA",
+    "agency": "Federal Housing Administration",
+    "address": "(U.S. Department of Housing and Urban Development) 451 7th Street, SW Washington, D.C. 20410"
+  },
+  {
+    "abbreviation": "FHVA",
+    "agency": "Fine Hardwood Veneer Association",
+    "address": "260 S. First Street, Suite 2 Zionsville, Indiana 46077"
+  },
+  {
+    "abbreviation": "FHWA",
+    "agency": "Federal Highway Administration",
+    "address": "555 Zang Street Lakewood, CO 80228"
+  },
+  {
+    "abbreviation": "FM",
+    "agency": "Factory Mutual System",
+    "address": "1151 Boston-Providence Turnpike P.O. Box 9102 Norwood, Massachusetts 02062-9102"
+  },
+  {
+    "abbreviation": "FS",
+    "agency": "Federal Specifications",
+    "address": "Specifications Sales (3 FRI), Building 197, Washington Navy Yard, General Services Administration, Washington, DC 20407"
+  },
+  {
+    "abbreviation": "GA",
+    "agency": "Gypsum Association",
+    "address": "810 First Street, NE, Suite 510 Washington, D.C. 20002"
+  },
+  {
+    "abbreviation": "GANA",
+    "agency": "Glass Association of North America",
+    "address": "3310 SW Harrison Street Topeka, Kansas 66611-2279"
+  },
+  {
+    "abbreviation": "HI",
+    "agency": "Hydraulic Institute",
+    "address": "35 Russo Place P.O. Box 218 Berkeley Heights, New Jersey 07922"
+  },
+  {
+    "abbreviation": "HMA",
+    "agency": "Hardwood Manufacturers Association",
+    "address": "400 Penn Center Boulevard, Suite 530 Pittsburgh, Pennsylvania 15235-5605"
+  },
+  {
+    "abbreviation": "HMI",
+    "agency": "Hoist Manufacturers’ Institute",
+    "address": ""
+  },
+  {
+    "abbreviation": "HPMA",
+    "agency": "Hardwood Plywood Manufacturers Association",
+    "address": "P.O. Box 2789 Reston, Virginia 22090-2789"
+  },
+  {
+    "abbreviation": "HPVA",
+    "agency": "Hardwood Plywood Veneer Association",
+    "address": ""
+  },
+  {
+    "abbreviation": "IA",
+    "agency": "Irrigation Association",
+    "address": "1911 N. Fort Myer Drive, Suite 1009 Arlington, Virginia 22209-1630"
+  },
+  {
+    "abbreviation": "IBC",
+    "agency": "International Building Code",
+    "address": ""
+  },
+  {
+    "abbreviation": "IBR",
+    "agency": "Institute of Boiler & Radiator Manufacturers",
+    "address": ""
+  },
+  {
+    "abbreviation": "ICBO",
+    "agency": "International Conference of Building Officials",
+    "address": "5360 S. Workman Mill Road Whittier, California 90601"
+  },
+  {
+    "abbreviation": "ICC",
+    "agency": "International Code Council, Inc.",
+    "address": ""
+  },
+  {
+    "abbreviation": "ICC",
+    "agency": "Interstate Commerce Commission",
+    "address": ""
+  },
+  {
+    "abbreviation": "ICEA",
+    "agency": "Insulated Cable Engineers’ Association",
+    "address": "P.O. Box 440 South Yarmouth, Massachusetts 02664"
+  },
+  {
+    "abbreviation": "IEEE",
+    "agency": "Institute of Electrical and Electronics Engineers, Inc.",
+    "address": "345 E. 47th Street New York, New York 10017-2394"
+  },
+  {
+    "abbreviation": "IES",
+    "agency": "Illuminating Engineering Society of North America",
+    "address": "120 Wall Street, 17th Floor New York, New York 10005-4001"
+  },
+  {
+    "abbreviation": "IFI",
+    "agency": "Industrial Fasteners Institute",
+    "address": ""
+  },
+  {
+    "abbreviation": "IGCC",
+    "agency": "International Green Construction Code",
+    "address": "See ITS"
+  },
+  {
+    "abbreviation": "ILIA",
+    "agency": "Indiana Limestone Institute of America, Inc.",
+    "address": "Stone City Bank Building, Suite 400 Bedford, Indiana 47421"
+  },
+  {
+    "abbreviation": "IRI",
+    "agency": "Industrial Risk Insurers",
+    "address": ""
+  },
+  {
+    "abbreviation": "ISA",
+    "agency": "Instrument Society of America",
+    "address": ""
+  },
+  {
+    "abbreviation": "ITS",
+    "agency": "Internek Testing Services",
+    "address": "3393 Route 11 P.O. Box 2040 Cortland, New York 13045-7902"
+  },
+  {
+    "abbreviation": "JIC",
+    "agency": "Joint Industrial Council",
+    "address": ""
+  },
+  {
+    "abbreviation": "JICHM",
+    "agency": "Joint Industry Conferences of Hydraulic Manufacturers",
+    "address": ""
+  },
+  {
+    "abbreviation": "KCMA",
+    "agency": "Kitchen Cabinet Manufacturers Association",
+    "address": "1899 Preston White Drive Reston, Virginia 22091-4326"
+  },
+  {
+    "abbreviation": "LIA",
+    "agency": "Lead Industries Association, Inc.",
+    "address": "295 Madison Avenue New York, New York 10017"
+  },
+  {
+    "abbreviation": "MBMA",
+    "agency": "Metal Building Manufacturer’s Association",
+    "address": "1300 Sumner Avenue Cleveland, Ohio 44115-2851"
+  },
+  {
+    "abbreviation": "MFMA",
+    "agency": "Maple Flooring Manufacturers Association",
+    "address": "60 Revere Drive, Suite 500 Northbrook, Illinois 60062"
+  },
+  {
+    "abbreviation": "MIA",
+    "agency": "Marble Institute of America",
+    "address": "30 Eden Alley, Suite 201 Columbus, Ohio 43215"
+  },
+  {
+    "abbreviation": "MIL",
+    "agency": "Military Specifications",
+    "address": "Superintendent of Documents, U.S. Government Printing Office, Washington, DC 20402."
+  },
+  {
+    "abbreviation": "MIMA",
+    "agency": "Mineral Insulation Manufacturers Association",
+    "address": "1420 King Street Alexandria, Virginia 22314"
+  },
+  {
+    "abbreviation": "MLMA",
+    "agency": "Metal Lath Manufacturer's Association",
+    "address": ""
+  },
+  {
+    "abbreviation": "MLSFA",
+    "agency": "Metal Lath/Steel Framing Association",
+    "address": "8 South Michigan Avenue, Suite 1000 Chicago, Illinois 60603"
+  },
+  {
+    "abbreviation": "MMA",
+    "agency": "Monorail Manufacturers’ Association",
+    "address": ""
+  },
+  {
+    "abbreviation": "MS",
+    "agency": "Military Specifications",
+    "address": "See MIL"
+  },
+  {
+    "abbreviation": "MSHA",
+    "agency": "Mine Safety and Health Administration",
+    "address": "4015 Wilson Boulevard, Room 601 Arlington, Virginia 22203"
+  },
+  {
+    "abbreviation": "MSS",
+    "agency": "Manufacturers Standardization Society of the Valve and Fittings Industry",
+    "address": "127 Park Street, NE Vienna, Virginia 22180-4602"
+  },
+  {
+    "abbreviation": "MSS SP",
+    "agency": "Manufacturer's Standardization Society of the Valve & Fitting Industry",
+    "address": "(Standard Practice)."
+  },
+  {
+    "abbreviation": "MUTCD",
+    "agency": "Manual of Uniform Traffic Control",
+    "address": ""
+  },
+  {
+    "abbreviation": "NAAMM",
+    "agency": "National Association of Architectural Metal Manufacturers",
+    "address": "8 South Michigan Avenue, Suite 1000 Chicago, Illinois  60603"
+  },
+  {
+    "abbreviation": "NACE",
+    "agency": "National Association of Corrosion Engineers",
+    "address": "1440 South Creek Drive P.O. Box 218340 Houston, Texas 77218-8340"
+  },
+  {
+    "abbreviation": "NACM",
+    "agency": "National Association of Chain Manufacturers",
+    "address": ""
+  },
+  {
+    "abbreviation": "NAIMA",
+    "agency": "North American Insulation Manufacturers Association",
+    "address": "44 Canal Center Plaza, Suite 310 Alexandria, Virginia 22314"
+  },
+  {
+    "abbreviation": "NAPA",
+    "agency": "National Asphalt Pavement Association",
+    "address": "NAPA Building 5100 Forbes Boulevard Lanham, Maryland 20706-4413"
+  },
+  {
+    "abbreviation": "NAPCA",
+    "agency": "National Association of Pipe Coating Applicators",
+    "address": "8th Floor, Commercial National Bank Building 333 Texas Street, Suite 800 Shreveport, Louisiana 71101-3673"
+  },
+  {
+    "abbreviation": "NBHA",
+    "agency": "National Builders’ Hardware Association",
+    "address": ""
+  },
+  {
+    "abbreviation": "NBS",
+    "agency": "National Bureau of Standards",
+    "address": "See NIST (U.S. Department of Commerce)"
+  },
+  {
+    "abbreviation": "NCMA",
+    "agency": "National Concrete Masonry Association",
+    "address": "2302 Horse Pen Road Herndon, Virginia 20171-3499"
+  },
+  {
+    "abbreviation": "NEBB",
+    "agency": "National Environmental Balancing Bureau",
+    "address": ""
+  },
+  {
+    "abbreviation": "NEC",
+    "agency": "National Electrical Code",
+    "address": "See NFPA"
+  },
+  {
+    "abbreviation": "NECA",
+    "agency": "National Electrical Contractors Association",
+    "address": "3 Bethesda Metro Center, Suite 1100 Bethesda, Maryland 20814"
+  },
+  {
+    "abbreviation": "NEII",
+    "agency": "National Elevator Industry, Inc.",
+    "address": "185 Bridge Plaza North, Suite 310 Fort Lee, New Jersey 07024"
+  },
+  {
+    "abbreviation": "NELM",
+    "agency": "Northeastern Lumber Manufacturers' Association",
+    "address": "272 Tuttle Road P.O. Box 87A Cumberland Center, Maine 04021-0687"
+  },
+  {
+    "abbreviation": "NEMA",
+    "agency": "National Electrical Manufacturers' Association",
+    "address": "1300 N. 17th Street, Suite 1847 Rosslyn, Virginia 22209"
+  },
+  {
+    "abbreviation": "NESC",
+    "agency": "National Electrical Safety Code",
+    "address": ""
+  },
+  {
+    "abbreviation": "NETA",
+    "agency": "InterNational Electrical Testing Association",
+    "address": "3050 Old Centre Road, Suite 101. Portage, MI"
+  },
+  {
+    "abbreviation": "NFC",
+    "agency": "National Fire Code",
+    "address": ""
+  },
+  {
+    "abbreviation": "NFPA",
+    "agency": "National Forest Products Association",
+    "address": ""
+  },
+  {
+    "abbreviation": "NFPA",
+    "agency": "National Fluid Power Association",
+    "address": ""
+  },
+  {
+    "abbreviation": "NFPA",
+    "agency": "National Fire Protection Association",
+    "address": "1 Batterymarch Park P.O. Box 9101 Quincy, Massachusetts 02269-9101"
+  },
+  {
+    "abbreviation": "NHLA",
+    "agency": "National Hardwood Lumber Association",
+    "address": "P.O. Box 34518 Memphis, Tennessee 38184-0518"
+  },
+  {
+    "abbreviation": "NHPMA",
+    "agency": "Northern Hardwood and Pine Manufacturers Association, Inc.",
+    "address": "P.O. Box 217 Dear River, Minnesota 56636"
+  },
+  {
+    "abbreviation": "NICET",
+    "agency": "National Institute for Certification in Engineering Technologies",
+    "address": ""
+  },
+  {
+    "abbreviation": "NIOSH",
+    "agency": "National Institute for Occupational Safety and Health",
+    "address": "NIOSH Building 1, Room 3007 1600 Clifton Road, NE Atlanta, Georgia 30333"
+  },
+  {
+    "abbreviation": "NIST",
+    "agency": "National Institute of Standards and Technology",
+    "address": "Building 101, #A1134 Route I-270 and Quince Orchard Road Gaithersburg, Maryland  20899 (US Department of Commerce)"
+  },
+  {
+    "abbreviation": "NLMA",
+    "agency": "National Lumber Manufacturers’ Association",
+    "address": ""
+  },
+  {
+    "abbreviation": "NOFMA",
+    "agency": "National Oak Flooring Manufacturers Association",
+    "address": "P.O. Box 3009 Memphis, Tennessee 38173-0009"
+  },
+  {
+    "abbreviation": "NPA",
+    "agency": "National Particleboard Association",
+    "address": "18928 Premiere Court Gaithersburg, Maryland 20879-1569"
+  },
+  {
+    "abbreviation": "NRCA",
+    "agency": "National Roofing Contractors Association",
+    "address": "O'Hare International Center 10255 W. Higgins Road, Suite 600 Rosemont, Illinois  60018-5607"
+  },
+  {
+    "abbreviation": "NSF",
+    "agency": "National Sanitation Foundation International",
+    "address": "3475 Plymouth Road P.O. Box 130140 Ann Arbor, Michigan 48113-0140"
+  },
+  {
+    "abbreviation": "NTMA",
+    "agency": "National Terrazzo and Mosaic Association",
+    "address": "3166 Des Plaines Avenue, Suite 121 Des Plaines, Illinois 60018"
+  },
+  {
+    "abbreviation": "NWMA",
+    "agency": "National Woodwork Manufacturers’ Association",
+    "address": ""
+  },
+  {
+    "abbreviation": "NWWDA",
+    "agency": "National Wood Window and Door Association",
+    "address": "1400 East Touhy Avenue, Suite G-54 Des Plaines, Illinois 60018"
+  },
+  {
+    "abbreviation": "OECI",
+    "agency": "Overhead Electrical Crane Institute",
+    "address": ""
+  },
+  {
+    "abbreviation": "OSHA",
+    "agency": "Occupational Safety and Health Administration",
+    "address": "U.S. Department of Labor 200 Constitution Avenue, NW Washington, D.C. 20210"
+  },
+  {
+    "abbreviation": "PCA",
+    "agency": "Portland Cement Association",
+    "address": "5420 Old Orchard Road Skokie, Illinois 60077-1083"
+  },
+  {
+    "abbreviation": "PCI",
+    "agency": "Precast/Prestressed Concrete Institute",
+    "address": "175 W. Jackson Boulevard Chicago, Illinois 60604"
+  },
+  {
+    "abbreviation": "PDI",
+    "agency": "Plumbing and Drainage Institute",
+    "address": "45 Briston Drive, Suite 101 South Euston, Massachusetts 02375"
+  },
+  {
+    "abbreviation": "PEI",
+    "agency": "Porcelain Enamel Institute",
+    "address": "4004 Hillsboro Pike, Suite 224-B Nashville, Tennessee 37215"
+  },
+  {
+    "abbreviation": "PHIUS",
+    "agency": "Passive House Institute US",
+    "address": ""
+  },
+  {
+    "abbreviation": "PI",
+    "agency": "Perlite Institute, Inc.",
+    "address": "88 New Dorp Plaza Staten Island, New York 10306"
+  },
+  {
+    "abbreviation": "PS",
+    "agency": "Product Standards",
+    "address": "(U.S. Department of Commerce) Government Printing Office Washington, D.C. 20402"
+  },
+  {
+    "abbreviation": "RFCI",
+    "agency": "Resilient Floor Covering Institute",
+    "address": "966 Hungerford Drive, Suite 12-B Rockville, Maryland 20850-1714"
+  },
+  {
+    "abbreviation": "RIS",
+    "agency": "Redwood Inspection Service",
+    "address": "405 Enfrente Drive, Suite 200 Novato, California 94949"
+  },
+  {
+    "abbreviation": "RLM",
+    "agency": "RLM Standards Institute, Inc.",
+    "address": ""
+  },
+  {
+    "abbreviation": "RMA",
+    "agency": "Rubber Manufacturers’ Association",
+    "address": ""
+  },
+  {
+    "abbreviation": "RMMI",
+    "agency": "Rocky Mountain Masonry Institute",
+    "address": "1780 South Bellaire Street, No. 602 Denver, Colorado  80222"
+  },
+  {
+    "abbreviation": "SAE",
+    "agency": "Society of Automotive Engineers",
+    "address": ""
+  },
+  {
+    "abbreviation": "SCMA",
+    "agency": "Southern Cypress Manufacturers Association",
+    "address": "400 Penn Center Blvd., Suite 530 Pittsburgh, Pennsylvania 15235"
+  },
+  {
+    "abbreviation": "SCPRF",
+    "agency": "Structural Clay Products Research Foundation",
+    "address": ""
+  },
+  {
+    "abbreviation": "SDI",
+    "agency": "Steel Deck Institute",
+    "address": "P.O. Box 25 Fox River Grove, Illinois  60021"
+  },
+  {
+    "abbreviation": "SDI",
+    "agency": "Steel Door Institute",
+    "address": "30200 Detroit Road Cleveland, Ohio 44145-1967"
+  },
+  {
+    "abbreviation": "SFPA",
+    "agency": "Southern Forest Products Association",
+    "address": "P.O. Box 52468 New Orleans, Louisiana 70152"
+  },
+  {
+    "abbreviation": "SGCC",
+    "agency": "Safety Glazing Certification Council",
+    "address": "See ITS"
+  },
+  {
+    "abbreviation": "SIGMA",
+    "agency": "Sealed Insulating Glass Manufacturing Association",
+    "address": "401 N. Michigan Avenue Chicago, Illinois 60611-4267"
+  },
+  {
+    "abbreviation": "SJI",
+    "agency": "Steel Joist Institute",
+    "address": "3127 10th Avenue, North Ext. Myrtle Beach, South Carolina 29577-6760"
+  },
+  {
+    "abbreviation": "SMACNA",
+    "agency": "Sheet Metal and Air Conditioning Contractors National Association",
+    "address": "4201 Lafayette Center Drive P.O. Box 221230 Chantilly, Virginia 20151-1209"
+  },
+  {
+    "abbreviation": "SPI",
+    "agency": "Society of the Plastics Industry",
+    "address": ""
+  },
+  {
+    "abbreviation": "SPIB",
+    "agency": "Southern Pine Inspection Bureau",
+    "address": "4709 Scenic Highway Pensacola, Florida 32504-9094"
+  },
+  {
+    "abbreviation": "SSPC",
+    "agency": "Steel Structures Painting Council",
+    "address": "40 24th Street, 6th Floor Pittsburgh, Pennsylvania 15222-4643"
+  },
+  {
+    "abbreviation": "STI",
+    "agency": "Steel Tank Institute",
+    "address": ""
+  },
+  {
+    "abbreviation": "SWI",
+    "agency": "Steel Window Institute",
+    "address": "1300 Sumner Avenue Cleveland, Ohio 44115-2851"
+  },
+  {
+    "abbreviation": "TCA",
+    "agency": "Tile Council of America, Inc.",
+    "address": "100 Clemson Research Boulevard Anderson, South Carolina 29625"
+  },
+  {
+    "abbreviation": "TEMA",
+    "agency": "Tubular Exchanger Manufacturers’ Association",
+    "address": ""
+  },
+  {
+    "abbreviation": "TIMA",
+    "agency": "Thermal Insulation Manufacturers Association",
+    "address": "(See NAIMA)"
+  },
+  {
+    "abbreviation": "TPI",
+    "agency": "Truss Plate Institute",
+    "address": "583 D'Onofrio Drive, Suite 200 Madison, Wisconsin 53719"
+  },
+  {
+    "abbreviation": "UBC",
+    "agency": "Uniform Building Code",
+    "address": "International Conference of Building Officials, 5360 South Workman Mill Road, Whittier, CA 90601."
+  },
+  {
+    "abbreviation": "UDFCD",
+    "agency": "Urban Drainage and Flood Control District",
+    "address": "2480 West 26th Avenue, Suite 156-B Denver, CO 80211"
+  },
+  {
+    "abbreviation": "UFC",
+    "agency": "Uniform Fire Code",
+    "address": ""
+  },
+  {
+    "abbreviation": "UL",
+    "agency": "Underwriter’s Laboratories, Inc.",
+    "address": "333 Pfingsten Road Northbrook, Illinois 60062"
+  },
+  {
+    "abbreviation": "UPC",
+    "agency": "Uniform Plumbing Code",
+    "address": "International Association of Plumbing and Mechanical Officials, 2001 Walnut Drive South, Walnut, CA 91789-2825"
+  },
+  {
+    "abbreviation": "USBR",
+    "agency": "U. S. Bureau of Reclamation",
+    "address": ""
+  },
+  {
+    "abbreviation": "USBS",
+    "agency": "U. S. Bureau of Standards",
+    "address": "See NIST"
+  },
+  {
+    "abbreviation": "USDA",
+    "agency": "United States Department of Agriculture",
+    "address": "14th Street and Independence Avenue, SW Washington, D.C. 20250"
+  },
+  {
+    "abbreviation": "USDTS",
+    "agency": "United States Department of Transportation Specifications",
+    "address": ""
+  },
+  {
+    "abbreviation": "USS",
+    "agency": "United States Standard",
+    "address": ""
+  },
+  {
+    "abbreviation": "WCLIB",
+    "agency": "West Coast Lumber Inspection Bureau",
+    "address": "P.O. Box 23145 Portland, Oregon 97281-3145"
+  },
+  {
+    "abbreviation": "WGBC",
+    "agency": "World Green Building Council",
+    "address": ""
+  },
+  {
+    "abbreviation": "WIC",
+    "agency": "Woodwork Institute of California",
+    "address": "P.O. Box 980247 West Sacramento, California 95798-0247"
+  },
+  {
+    "abbreviation": "WMMPA",
+    "agency": "Wood Moulding and Millwork Producers Association",
+    "address": "507 First Street Woodland, California  95695"
+  },
+  {
+    "abbreviation": "WRI",
+    "agency": "Wire Reinforcement Institute, Inc.",
+    "address": "203 Loudoun Street, SW Leesburg, Virginia 20175-2718"
+  },
+  {
+    "abbreviation": "WSFI",
+    "agency": "Wood and Synthetic Flooring Institute",
+    "address": "(See MFMA)"
+  },
+  {
+    "abbreviation": "WWPA",
+    "agency": "Western Wood Products Association",
+    "address": "Yeon Building 522 SW 5th Avenue Portland, Oregon 97204-2122"
+  },
+  {
+    "abbreviation": "WWPA",
+    "agency": "Woven Wire Products Association",
+    "address": "2515 Nordica Avenue Chicago, Illinois 60635"
+  },
+  {
+    "abbreviation": "WWPI",
+    "agency": "Western Wood Preservers Institute",
+    "address": "7017 NE Highway 99 #108 Vancouver, Washington  98665"
+  }
+]
+}

@@ -1,0 +1,122 @@
+---
+title: Vibration and Seismic Controls for Fire-Suppression Piping and Equipment
+section: '210548'
+divNumb: 21
+divName: Fire Suppression
+subgroup: Facility Services
+tags: ['Facility', 'Services', 'Fire', 'Suppression', 'Vibration', 'Seismic', 'Controls', 'for', 'Fire-Suppression', 'Piping', 'Equipment']
+navigation:
+  key: Vibration and Seismic Controls for Fire-Suppression Piping and Equipment
+  parent: Fire Suppression
+  order: 548.0
+---
+
+
+## General
+
+1. RELATED DOCUMENTS
+   1. Drawings and general provisions of the Contract, including General and Supplementary Conditions and Division 1 Specification Sections, apply to this Section.
+1. SUMMARY
+   1. This Section includes extent of vibration control work required by this Section is indicated on drawings and schedules, and/or specified in other Division 21 sections of the Specifications.
+   1. Types of vibration control products specified in this Section include the following:
+      1. Neoprene Pads.
+   1. Vibration Isolation Springs.
+   1. Pad-Type Isolators.
+   1. Neoprene Mountings.
+   1. Spring Isolators, Freestanding.
+   1. Roof-Curb Isolators.
+   1. Isolation Hangers.
+   1. Flexible Pipe Connectors.
+1. REFERENCES
+   1. Applicable Standards:
+      1. American National Standards Institute (ANSI).
+   1. American Society of Heating, Refrigerating and Air Conditioning Engineers (ASHRAE).
+1. DEFINITIONS
+   1. IBC:
+      1. International Building Code.
+   1. ICC-ES:
+      1. ICC-Evaluation Service.
+   1. OSHPD:
+      1. Office of Statewide Health Planning and Development for the State of California.
+1. SUBMITTALS
+
+General
+:
+      1. Submit the following in accordance with requirements elsewhere in Division 21.
+   1. Product Data:
+      1. Submit manufacturer's technical product data and installation instructions for each type of vibration control product. Submit schedule showing size, type, deflection, and location for each product furnished.
+   1. Maintenance Data:
+      1. Submit maintenance data for each type of vibration control product. Include this data, product data, and shop drawings in maintenance manual, in accordance with requirements of Division 1.
+1. QUALITY ASSURANCE
+   1. Manufacturer's Qualifications:
+      1. Firms regularly engaged in manufacture of vibration control products, or type, size, and capacity required, whose products have been in satisfactory use in similar service for not less than five years.
+   1. Except as otherwise indicated, obtain vibration control products from single manufacturer.
+   1. Engage manufacturer to provide technical supervision or installation of vibration control products.
+
+## General
+
+1. MANUFACTURERS
+   1. Subject to compliance with requirements, provide vibration control products of one of the following:
+      1. Amber/Booth Co.
+   1. Korfund Dynamics Corp.
+   1. Mason Industries, Inc.
+   1. Peabody Noise Control, Inc.
+   1. Vibration Eliminator Co., Inc.
+   1. Vibration Mountings and Controls, Inc.
+1. MATERIALS
+   1. Neoprene Pads:
+      1. Oil-resistant neoprene sheets, of manufacturer's standard hardness and cross-ribbed or waffled pattern.
+   1. Vibration Isolation Springs:
+      1. Wound-steel compression springs, of high-strength spring alloy steel, with spring diameter not less than 0.8 of compressed height of spring at rated loads. Provide minimum additional travel to solid, equal to 50% of rated deflection. Provide spring wire with elastic limit stress exceeding stress at solid deflection.
+   1. Pad-Type Isolators:
+      1. Except as otherwise indicated, provide manufacturer's standard pad-type isolation unit, fiberglass pads or shapes, or neoprene pads.
+   1. Neoprene Mountings:
+      1. Provide neoprene mountings consisting of neoprene element bonded between two steel plates that are neoprene-covered to prevent corrosion. Provide minimum rated deflection of 0.35-inch. Provide threaded hole in upper plate and two holes in base plate for securing to equipment and to substrate.
+   1. Spring Isolators, Freestanding:
+      1. Except as otherwise indicated, provide vibration isolation spring between top and bottom loading plates, and with pad-type isolator bonded to bottom of bottom loading plate. Include studs or cups to ensure centering of spring on plates. Include leveling bolt with locknuts and washers, centered in top plate, arranged for leveling and anchoring supported equipment as indicated.
+   1. Include holes in bottom plate for bolting unit to substrate as indicated.
+   1. Roof-Curb Isolators:
+      1. Fabricated frame units sized to match roof curbs as shown, formed with isolation springs between extruded aluminum upper and lower sections, which are shaped and positioned to prevent metal-to-metal contact. Provide continuous airtight and waterproof seal between upper and lower extrusions. Include provisions for anchorage of frame unit to roof curb, and for anchorage of equipment unit.
+   1. Isolation Hangers:
+      1. Hanger units formed with brackets and including manufacturer's standard compression isolators of type indicated. Design brackets for three times rated loading of units. Fabricate units to accept misalignment of 15 degrees off center in any direction before contacting hanger box, and for use with either rod or strap type members, and including acoustical washers to prevent metal-to-metal contacts.
+   1. Provide vibration isolation spring with cap in lower part of hanger and rubber hanger element in top, securely retained in unit.
+   1. Provide neoprene element, with minimum deflection of 0.35-inch, securely retained in hanger box.
+   1. Provide fiberglass pad or shape, securely retained in unit, with threaded metal top plate.
+   1. Provide hangers, precompressed to rated load to limit deflection during installation. Design so hanger may be released after full load is applied.
+   1. Flexible Pipe Connectors:
+      1. For nonferrous piping, provide bronze hose covered with bronze wire braid with copper tube ends or bronze flanged ends, braze-welded to hose.
+   1. For ferrous piping, provide stainless steel hose covered with stainless steel wire braid with NPT steel nipples or 150 psi ANSI flanges, welded to hose.
+1. EXECUTION
+1. EXAMINATION
+   1. Examine areas and conditions under which vibration control units are to be installed. Do not proceed with work until unsatisfactory conditions have been corrected in manner acceptable to Installer.
+1. PREPARATION
+
+General
+:
+      1. Except as otherwise indicated, select vibration control products in accordance with ASHRAE Handbook, 2007 HVAC Applications Volume, Chapter 47 "Sound and Vibration Control," Table 48. Where more than one type of product is offered, selection is Installer's option.
+   1. Piping:
+      1. For piping connected to equipment mounted on vibration control products, install isolation hangers as indicated, and for first 3 points of support for pipe sizes 4 inches and less, for first 4 points of support for pipe sizes 5 inches through 8 inches, and for first 6 points of support for pipe sizes 10 inches and over.
+1. ERECTION INSTALLATION APPLICATION
+
+General
+:
+      1. Except as otherwise indicated, comply with manufacturer's instructions for installation and load application to vibration control materials and units. Adjust to ensure that units have equal deflection, do not bottom out under loading, and are not short-circuited by other contacts or bearing points. Remove space blocks and similar devices intended for temporary support during installation.
+   1. Install units between substrate and equipment as required for secure operation and to prevent displacement by normal forces, and as indicated.
+   1. Adjust leveling devices as required to distribute loading uniformly onto isolators. Shim units as required where substrate is not level.
+   1. Locate isolation hangers as near overhead support structure as possible.
+   1. Weld riser isolator units in place as required to prevent displacement from loading and operations.
+   1. Flexible Pipe Connectors:
+      1. Install on equipment side of shutoff valves, horizontally and parallel to equipment shafts wherever possible.
+1. ADJUSTING
+   1. Upon completion of vibration control work, prepare report showing measured equipment deflections for each major item of equipment as indicated.
+1. CLEANING
+   1. Clean each vibration control unit, and verify that each is working freely, and that there is no dirt or debris in immediate vicinity of unit that could possibly short-circuit unit isolation.
+1. DEMONSTRATION
+
+General
+:
+      1. Comply with minimum static deflections recommended by ASHRAE, for selection and application of vibration isolation materials and units as indicated.
+   1. Manufacturer's Recommendations:
+      1. Except as otherwise indicated, comply with manufacturer's recommendations for selection and application of vibration isolation materials and units.
+1. END OF SECTION 210548
+
