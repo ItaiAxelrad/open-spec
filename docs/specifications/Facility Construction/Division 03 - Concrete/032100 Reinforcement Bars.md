@@ -5,10 +5,6 @@ divNumb: 3
 divName: Concrete
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Concrete', 'Reinforcement', 'Bars']
-navigation:
-  key: Reinforcement Bars
-  parent: Concrete
-  order: 2100.0
 ---
 
    1. section 03 21 00
@@ -70,7 +66,9 @@ General
 		1. 100 percent non-metallic, non-corrosive.
 		2. Required for all walls elevated construction exposed to liquid containing structures.
 
-Execution
+
+## Execution
+
 1. 3.1 Installation
    1. Tolerances:
 	1. Rebar placement:

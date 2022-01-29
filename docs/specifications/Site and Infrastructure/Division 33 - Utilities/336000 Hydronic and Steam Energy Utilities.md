@@ -5,10 +5,6 @@ divNumb: 33
 divName: Utilities
 subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Utilities', 'Hydronic', 'Steam', 'Energy']
-navigation:
-  key: Hydronic and Steam Energy Utilities
-  parent: Utilities
-  order: 6000.0
 ---
 
    1. SECTION 33 63 13

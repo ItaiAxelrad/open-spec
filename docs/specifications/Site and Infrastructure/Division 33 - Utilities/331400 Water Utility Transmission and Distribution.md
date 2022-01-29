@@ -5,10 +5,6 @@ divNumb: 33
 divName: Utilities
 subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Utilities', 'Water', 'Utility', 'Transmission', 'Distribution']
-navigation:
-  key: Water Utility Transmission and Distribution
-  parent: Utilities
-  order: 1400.0
 ---
 
 1. SECTION 33 14 00
@@ -315,7 +311,9 @@ navigation:
 	1. **FIRE HYDRANTS
    1. Refer to Specification 15300 and Approved Materials List, or approved equal. 
 
-Execution
+
+## Execution
+
 1. 3.01 GENERAL
    1. All materials shall be installed per manufacturers’ recommendations including the applicable AWWA standards C600, C602, C604, 605 including the Standards referenced in Part 2 Materials of Specification 15000. 
 1. 3.02 TEMPORARY PIPELINES

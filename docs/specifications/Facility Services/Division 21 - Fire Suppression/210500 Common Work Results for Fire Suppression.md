@@ -5,10 +5,6 @@ divNumb: 21
 divName: Fire Suppression
 subgroup: Facility Services
 tags: ['Facility', 'Services', 'Fire', 'Suppression', 'Common', 'Work', 'Results', 'for']
-navigation:
-  key: Common Work Results for Fire Suppression
-  parent: Fire Suppression
-  order: 500.0
 ---
 
 

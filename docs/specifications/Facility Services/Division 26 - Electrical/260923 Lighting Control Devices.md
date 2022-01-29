@@ -5,10 +5,6 @@ divNumb: 26
 divName: Electrical
 subgroup: Facility Services
 tags: ['Facility', 'Services', 'Electrical', 'Lighting', 'Control', 'Devices']
-navigation:
-  key: Lighting Control Devices
-  parent: Electrical
-  order: 923.0
 ---
 
 1. 
@@ -137,7 +133,9 @@ General
 2. Control Coil Voltage:
       1. Match control power source.
 1. 
-Execution
+
+## Execution
+
 1. INSTALLATION
    1. Install equipment level and plumb and according to manufacturer's written instructions.
    1. It shall be the Contractor's responsibility to locate and aim sensors in the correct location required for complete and proper volumetric coverage within the range of coverage(s) of controlled areas per the manufacturer's recommendations. Rooms shall have 90 to 100 percent coverage to completely cover the controlled area to accommodate all occupancy habits of single or multiple occupants at any location within the room(s). The locations and quantities of sensors shown on the drawings are diagrammatic and indicate only the rooms which are to be provided with sensors.

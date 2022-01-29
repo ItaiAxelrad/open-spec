@@ -5,10 +5,6 @@ divNumb: 23
 divName: Heating Ventilating and Air Conditioning
 subgroup: Facility Services
 tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 'Hydronic', 'Piping', 'obsolete']
-navigation:
-  key: Hydronic Piping - obsolete
-  parent: Heating Ventilating and Air Conditioning
-  order: 2113.0
 ---
 
 

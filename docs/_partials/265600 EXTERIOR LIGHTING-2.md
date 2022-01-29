@@ -5,10 +5,6 @@ divNumb: 26
 divName: Electrical
 subgroup: Facility Services
 tags: ['Facility', 'Services', 'Electrical', 'EXTERIOR', 'LIGHTING']
-navigation:
-  key: EXTERIOR LIGHTING
-  parent: Electrical
-  order: 56002.0
 ---
 
 1. SECTION 26 56 00
@@ -346,7 +342,9 @@ Metal Products" for recommendations for applying and designating finishes.
       1. Manufacturer's standard prime-coat finish ready for field painting.
    1. Aluminum Finish:
       1. Comply with NAAMM's "Metal Finishes Manual for Architectural and Metal
-Products" for recommendations for applying and designating finishes.
+
+## Product
+s" for recommendations for applying and designating finishes.
 1. Finish designations prefixed by AA comply with the system established by the Aluminum
    1. Association for designating aluminum finishes.
 2. Natural Satin Finish:
@@ -391,7 +389,9 @@ Products" for recommendations for applying and designating finishes.
          1. Concrete foundation.
       1. Luminaire Mounting Height above Finished Grade:
          1. Refer to luminaire schedule. 
-Execution
+
+## Execution
+
 1. LUMINAIRE INSTALLATION
    1. Install lamps in each luminaire.
    1. Fasten luminaire to indicated structural supports.

@@ -5,10 +5,6 @@ divNumb: 8
 divName: Openings
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Openings', 'Hardware']
-navigation:
-  key: Hardware
-  parent: Openings
-  order: 7000.0
 ---
 
    1. section 08 70 00
@@ -194,7 +190,9 @@ General
 	1. ANSI/BHMAA 156.16.
 	2. Surface bolts: Ives SB1640 Series with top and bottom strikes.
 
-Execution
+
+## Execution
+
 1. 3.1 Installation
    1. Install products in accordance with manufacturer's installation instructions, IBC and IECC, and perform installation by or under direct supervision of an AHC. 
 2. Provide all hardware in accordance with Building Code.

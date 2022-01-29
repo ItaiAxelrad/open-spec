@@ -5,10 +5,6 @@ divNumb: 3
 divName: Concrete
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Concrete', 'Fabric', 'Grid', 'Reinforcing']
-navigation:
-  key: Fabric and Grid Reinforcing
-  parent: Concrete
-  order: 2200.0
 ---
 
    1. SECTION 032200

@@ -5,10 +5,6 @@ divNumb: 32
 divName: Exterior Improvements
 subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Planting']
-navigation:
-  key: Planting
-  parent: Exterior Improvements
-  order: 9000.0
 ---
 
    1. Section 32 90 00
@@ -54,7 +50,9 @@ General
 	2. Plastic Net: The plastic net shall be a biodegradable extruded oriented net with a rectangular mesh opening of approximately 1.5 x 1 strands per square inch and a nominal weight of 2.6 pounds per 100 square feet.
 	3. Pins and Staples: Pins or staples shall be made of wire .091 inch or larger in diameter. “U” shaped staples shall have legs 6-inch long and 1-inch crown. “T” shaped pins shall have a minimum length of 8-inches after bending. The bar of the “T” shall be at least 4 inches long with the single wire and bent downward approximately 3/4-inch.
 
-Execution
+
+## Execution
+
 1. 3.1 Preparation
 
 General

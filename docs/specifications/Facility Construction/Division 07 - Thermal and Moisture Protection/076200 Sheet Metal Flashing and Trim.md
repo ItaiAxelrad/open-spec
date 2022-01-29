@@ -5,10 +5,6 @@ divNumb: 7
 divName: Thermal and Moisture Protection
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Sheet', 'Metal', 'Flashing', 'Trim']
-navigation:
-  key: Sheet Metal Flashing and Trim
-  parent: Thermal and Moisture Protection
-  order: 6200.0
 ---
 
 

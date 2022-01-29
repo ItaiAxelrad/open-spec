@@ -5,10 +5,6 @@ divNumb: 27
 divName: Communications
 subgroup: Facility Services
 tags: ['Facility', 'Services', 'Communications', 'PA', 'Mass', 'Notification']
-navigation:
-  key: PA and Mass Notification
-  parent: Communications
-  order: 5116.0
 ---
 
       1. Copyright 2005 by The American Institute of Architects (AIA)

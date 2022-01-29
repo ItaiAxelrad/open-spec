@@ -5,10 +5,6 @@ divNumb: 22
 divName: Plumbing
 subgroup: Facility Services
 tags: ['Facility', 'Services', 'Plumbing', 'Sanitary', 'Sewers']
-navigation:
-  key: Facility Sanitary Sewers
-  parent: Plumbing
-  order: 1313.0
 ---
 
 

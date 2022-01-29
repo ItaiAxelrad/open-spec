@@ -5,10 +5,6 @@ divNumb: 43
 divName: Process Gas and Liquid Handling, Purification, and Storage Equipment
 subgroup: Process Equipment
 tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Storage', 'Progressing', 'Cavity', 'Pumps']
-navigation:
-  key: Progressing Cavity Pumps
-  parent: Process Gas and Liquid Handling, Purification, and Storage Equipment
-  order: 2357.0
 ---
 
    1. 43 23 57 Progressing Cavity Pumps

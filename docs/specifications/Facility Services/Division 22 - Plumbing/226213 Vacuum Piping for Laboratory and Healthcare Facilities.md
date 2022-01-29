@@ -5,10 +5,6 @@ divNumb: 22
 divName: Plumbing
 subgroup: Facility Services
 tags: ['Facility', 'Services', 'Plumbing', 'Vacuum', 'Piping', 'for', 'Laboratory', 'Healthcare', 'Facilities']
-navigation:
-  key: Vacuum Piping for Laboratory and Healthcare Facilities
-  parent: Plumbing
-  order: 6213.0
 ---
 
 

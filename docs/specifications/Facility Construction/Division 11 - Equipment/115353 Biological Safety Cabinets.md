@@ -5,10 +5,6 @@ divNumb: 11
 divName: Equipment
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Equipment', 'Biological', 'Safety', 'Cabinets']
-navigation:
-  key: Biological Safety Cabinets
-  parent: Equipment
-  order: 5353.0
 ---
 
 

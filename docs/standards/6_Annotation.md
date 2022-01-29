@@ -1,8 +1,6 @@
 ---
 title: 'Annotation'
 eleventyNavigation:
-  key: Annotation
-  order: 6
 date: 2021-04-10
 ---
 

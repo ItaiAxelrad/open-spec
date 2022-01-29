@@ -5,10 +5,6 @@ divNumb: 9
 divName: Finishes
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Finishes', 'Exterior', 'Painting']
-navigation:
-  key: Exterior Painting
-  parent: Finishes
-  order: 9113.0
 ---
 
    1. SECTION 09910

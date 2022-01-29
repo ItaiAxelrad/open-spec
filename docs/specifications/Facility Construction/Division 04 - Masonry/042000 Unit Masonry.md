@@ -5,10 +5,6 @@ divNumb: 4
 divName: Masonry
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Masonry', 'Unit']
-navigation:
-  key: Unit Masonry
-  parent: Masonry
-  order: 2000.0
 ---
 
 1. SECTION 04 220 00

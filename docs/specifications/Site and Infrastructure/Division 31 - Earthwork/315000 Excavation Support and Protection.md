@@ -5,10 +5,6 @@ divNumb: 31
 divName: Earthwork
 subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Earthwork', 'Excavation', 'Support', 'Protection']
-navigation:
-  key: Excavation Support and Protection
-  parent: Earthwork
-  order: 5000.0
 ---
 
    1. SECTION 31 50 00

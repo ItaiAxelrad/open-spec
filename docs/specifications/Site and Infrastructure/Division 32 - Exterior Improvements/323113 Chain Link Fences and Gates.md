@@ -5,10 +5,6 @@ divNumb: 32
 divName: Exterior Improvements
 subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Chain', 'Link', 'Fences', 'Gates']
-navigation:
-  key: Chain Link Fences and Gates
-  parent: Exterior Improvements
-  order: 3113.0
 ---
 
 

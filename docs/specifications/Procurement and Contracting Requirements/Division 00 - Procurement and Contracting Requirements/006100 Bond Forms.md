@@ -5,10 +5,6 @@ divNumb: 0
 divName: Procurement and Contracting Requirements
 subgroup: Procurement and Contracting Requirements
 tags: ['Procurement', 'Contracting', 'Requirements', 'Bond', 'Forms']
-navigation:
-  key: Bond Forms
-  parent: Procurement and Contracting Requirements
-  order: 6100.0
 ---
 
 1. SECTION 00 61 00

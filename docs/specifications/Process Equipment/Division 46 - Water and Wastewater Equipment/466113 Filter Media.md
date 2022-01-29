@@ -5,10 +5,6 @@ divNumb: 46
 divName: Water and Wastewater Equipment
 subgroup: Process Equipment
 tags: ['Process', 'Equipment', 'Water', 'Wastewater', 'Filter', 'Media']
-navigation:
-  key: Filter Media
-  parent: Water and Wastewater Equipment
-  order: 6113.0
 ---
 
    1. Section 46 61 00
@@ -126,7 +122,9 @@ General
 2. Anticipate 5 percent media loss for each type of filter media due to washing and scraping.
 3. All excess media to become property of Owner.
 
-Execution
+
+## Execution
+
 1. Media Removal
    1. Removal methods used shall not damage the existing tank, backwash troughs, level probes, or any other structural, electrical, instrumentation, architectural, and mechanical appurtenances of the filters.
 2. Contractor shall take special care not to damage the underdrain system.

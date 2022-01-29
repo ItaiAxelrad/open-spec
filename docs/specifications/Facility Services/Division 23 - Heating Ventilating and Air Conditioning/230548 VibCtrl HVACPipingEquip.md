@@ -5,10 +5,6 @@ divNumb: 23
 divName: Heating Ventilating and Air Conditioning
 subgroup: Facility Services
 tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 'VibCtrl', 'HVACPipingEquip']
-navigation:
-  key: VibCtrl HVACPipingEquip
-  parent: Heating Ventilating and Air Conditioning
-  order: 548.0
 ---
 
 

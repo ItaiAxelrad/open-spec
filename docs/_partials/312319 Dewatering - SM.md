@@ -5,10 +5,6 @@ divNumb: 31
 divName: Earthwork
 subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Earthwork', 'Dewatering', 'SM']
-navigation:
-  key: Dewatering - SM
-  parent: Earthwork
-  order: 2319.0
 ---
 
    1. SECTION 31 23 00
@@ -33,7 +29,9 @@ General
 1. 2.01 MATERIALS AND EQUIPMENT
    1. Furnish and maintain all materials, tools, equipment, facilities, and services as required for providing the necessary dewatering work and facilities.
 1. 
-Execution
+
+## Execution
+
 1. 3.01 DEWATERING
    1. Perform dewatering in accordance with approved Shop Drawings. Keep the Engineer advised of any changes made to accommodate field conditions and, on completion of the dewatering system installation, revise and resubmit Shop Drawings as necessary to indicate the installed configuration.
    1. Organize dewatering operations to lower the groundwater level in excavations as required for prosecution of the work, and to provide a stable, dry subgrade for the prosecution of construction operations.

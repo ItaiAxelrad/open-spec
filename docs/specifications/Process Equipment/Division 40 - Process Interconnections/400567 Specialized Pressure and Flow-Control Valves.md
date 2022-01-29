@@ -5,10 +5,6 @@ divNumb: 40
 divName: Process Interconnections
 subgroup: Process Equipment
 tags: ['Process', 'Equipment', 'Interconnections', 'Specialized', 'Pressure', 'Flow-Control', 'Valves']
-navigation:
-  key: Specialized Pressure and Flow-Control Valves
-  parent: Process Interconnections
-  order: 567.0
 ---
 
    1. section 40 05 67
@@ -110,7 +106,9 @@ General
 	7. Retaining Rings: Stainless Steel.
 	8. Screws: Stainless Steel or Bronze.
 
-Execution
+
+## Execution
+
 1. 3.1 Installation
    1. Install products based on manufacturer’s recommended installation instructions. 
 

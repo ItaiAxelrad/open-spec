@@ -5,10 +5,6 @@ divNumb: 1
 divName: General Requirements
 subgroup: General Requirements
 tags: ['General', 'Requirements', 'Quality', 'Control']
-navigation:
-  key: Quality Control
-  parent: General Requirements
-  order: 4500.0
 ---
 
    1. SECTION 01 45 00

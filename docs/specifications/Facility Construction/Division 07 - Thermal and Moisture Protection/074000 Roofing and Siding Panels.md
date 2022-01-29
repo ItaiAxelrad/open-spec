@@ -5,10 +5,6 @@ divNumb: 7
 divName: Thermal and Moisture Protection
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Roofing', 'Siding', 'Panels']
-navigation:
-  key: Roofing and Siding Panels
-  parent: Thermal and Moisture Protection
-  order: 4000.0
 ---
 
    1. Section 07 40 00
@@ -97,7 +93,9 @@ General
    1. Standard round wire, zinc-coated steel or aluminum; 10 to 12 gauge, smooth, barbed or deformed shank, with heads 3/8 inch (9mm) to 7/16 inch (11mm) in diameter.
 	1. Length must be sufficient to penetrate into solid wood at least 3/4 inch (19mm) or through plywood or oriented strand board by at least 1/8 inch (3.18mm).
 
-Execution
+
+## Execution
+
 1. 3.1 Examination
    1. Do not begin installation until the roof deck has been properly prepared. If roof deck preparation is the responsibility of another installer, notify the architect or building owner of unsatisfactory preparation before proceeding.
 1. 3.2 Preparation

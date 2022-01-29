@@ -5,10 +5,6 @@ divNumb: 43
 divName: Process Gas and Liquid Handling, Purification, and Storage Equipment
 subgroup: Process Equipment
 tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Storage', 'Screw', 'Pumps']
-navigation:
-  key: Screw Pumps
-  parent: Process Gas and Liquid Handling, Purification, and Storage Equipment
-  order: 2359.0
 ---
 
    1. 43 23 59 Screw Pumps

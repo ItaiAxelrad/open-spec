@@ -5,10 +5,6 @@ divNumb: 33
 divName: Utilities
 subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Utilities', 'Valves', 'Hydrants', 'for', 'Water', 'Utility', 'Service']
-navigation:
-  key: Valves and Hydrants for Water Utility Service
-  parent: Utilities
-  order: 1419.0
 ---
 
    1. SECTION 15300
@@ -60,7 +56,9 @@ General
 1. 2.06 FIELD PAINTING AND COATING
    1. Field painting and coating materials shall be in accordance with Section 09910 in accordance with the Approved Materials List, or approved equal.
 1. 
-Execution
+
+## Execution
+
 1. 3.01 GENERAL
    1. Fire hydrant assemblies shall be installed at locations shown on the Approved Plans or as directed by the fire department of jurisdiction in accordance with the Standard Drawings.
 2. The location and port orientation of the Fire Hydrant shall be in accordance with the Standard Drawings.

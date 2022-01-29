@@ -5,10 +5,6 @@ divNumb: 22
 divName: Plumbing
 subgroup: Facility Services
 tags: ['Facility', 'Services', 'Plumbing', 'Piping']
-navigation:
-  key: Plumbing Piping
-  parent: Plumbing
-  order: 1000.0
 ---
 
    1. Section 22 01 00
@@ -93,7 +89,9 @@ General
 	5. Maximum Extension: 1/4 IN.
 	6. Joint: As specified for individual piping system.
 
-Execution
+
+## Execution
+
 
 * 
 	1. **Exterior Buried Piping Installation

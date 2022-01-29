@@ -5,10 +5,6 @@ divNumb: 22
 divName: Plumbing
 subgroup: Facility Services
 tags: ['Facility', 'Services', 'Plumbing', 'Sump', 'Pumps']
-navigation:
-  key: Sump Pumps
-  parent: Plumbing
-  order: 1429.0
 ---
 
 1. SECTION 221429
@@ -70,7 +66,9 @@ For pumps and controls, to include in operation and maintenance manuals.
       1. Minimum size as indicated. If not indicated, large enough so driven load will not require motor to operate in service factor range above 1.0.
    1. Motors for submersible pumps shall be hermetically sealed.
 1. 
-Execution
+
+## Execution
+
 1. EXAMINATION
    1. Examine roughing-in for plumbing piping to verify actual locations of storm drainage piping connections before sump pump installation.
 2. INSTALLATION

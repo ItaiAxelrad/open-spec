@@ -5,10 +5,6 @@ divNumb: 43
 divName: Process Gas and Liquid Handling, Purification, and Storage Equipment
 subgroup: Process Equipment
 tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Storage', 'Chemical', 'Feed', 'Systems']
-navigation:
-  key: Chemical Feed Systems
-  parent: Process Gas and Liquid Handling, Purification, and Storage Equipment
-  order: 3269.0
 ---
 
    1. Section 43 32 69
@@ -73,7 +69,9 @@ General
 		3. Injector should allow for rodding in place.
 		4. Connection must include an acceptable safety device to prevent accidental withdrawal of injection solution tube while under pressure and/or surge conditions. All wetted components shall be compatible with the chemical services.
 
-Execution
+
+## Execution
+
 1. 3.1 Installation
    1. Chemical Feed Pumps:
 	1. Install the chemical feed pumps as indicated on the drawings and specified and in compliance with the manufacturer’s instructions.

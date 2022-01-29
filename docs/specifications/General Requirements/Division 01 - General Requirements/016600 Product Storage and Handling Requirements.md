@@ -5,10 +5,6 @@ divNumb: 1
 divName: General Requirements
 subgroup: General Requirements
 tags: ['General', 'Requirements', 'Product', 'Storage', 'Handling']
-navigation:
-  key: Product Storage and Handling Requirements
-  parent: General Requirements
-  order: 6600.0
 ---
 
    1. Section 01 66 00
@@ -35,7 +31,9 @@ General
       1. Provide manufacturer's instructions for storage and handling.
    ## Product (Not Used)
 
-Execution
+
+## Execution
+
 1. 3.1 Protection, Storage, and Handling
    1. Manufacturer's Instruction:
 	1. Protect all products or equipment in accordance with manufacturer's written directions.

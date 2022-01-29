@@ -5,10 +5,6 @@ divNumb: 46
 divName: Water and Wastewater Equipment
 subgroup: Process Equipment
 tags: ['Process', 'Equipment', 'Water', 'Wastewater', 'Air', 'Gas', 'Diffusion']
-navigation:
-  key: Air and Gas Diffusion Equipment
-  parent: Water and Wastewater Equipment
-  order: 5100.0
 ---
 
    1. 41 24 13 Aeration Devices

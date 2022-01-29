@@ -5,10 +5,6 @@ divNumb: 26
 divName: Electrical
 subgroup: Facility Services
 tags: ['Facility', 'Services', 'Electrical', 'Low-Voltage', 'Transformers']
-navigation:
-  key: Low-Voltage Transformers
-  parent: Electrical
-  order: 2200.0
 ---
 
 

@@ -5,10 +5,6 @@ divNumb: 1
 divName: General Requirements
 subgroup: General Requirements
 tags: ['General', 'Requirements', 'References']
-navigation:
-  key: References
-  parent: General Requirements
-  order: 4200.0
 ---
 
    1. Section 01 42 00
@@ -48,6 +44,8 @@ General
 	2. Where the contractor needs copies of standards for work superintendence and quality control, obtain a copy or copies directly from the publication sources and maintain copies at the job site, making them available to Contractor personnel, subcontractors, OWNER, and ENGINEER.
    ## Product (Not Used)
 
-Execution
+
+## Execution
+
  (Not Used)
 

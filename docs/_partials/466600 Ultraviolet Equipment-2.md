@@ -5,10 +5,6 @@ divNumb: 46
 divName: Water and Wastewater Equipment
 subgroup: Process Equipment
 tags: ['Process', 'Equipment', 'Water', 'Wastewater', 'Ultraviolet']
-navigation:
-  key: Ultraviolet Equipment
-  parent: Water and Wastewater Equipment
-  order: 66002.0
 ---
 
    1. SECTION 446400 – ULTRAVIOLET DISINFECTION EQUIPMENT

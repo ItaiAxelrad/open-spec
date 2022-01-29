@@ -5,10 +5,6 @@ divNumb: 1
 divName: General Requirements
 subgroup: General Requirements
 tags: ['General', 'Requirements', 'Quality']
-navigation:
-  key: Quality Requirements
-  parent: General Requirements
-  order: 4000.0
 ---
 
    1. SECTION 014000
@@ -196,7 +192,9 @@ and quality-control services with a minimum of delay and to avoid necessity of r
    1. replacing construction to accommodate testing and inspecting.
    1. Product (Not Used)
 
-Execution
+
+## Execution
+
 1. REPAIR AND PROTECTION
 
 General

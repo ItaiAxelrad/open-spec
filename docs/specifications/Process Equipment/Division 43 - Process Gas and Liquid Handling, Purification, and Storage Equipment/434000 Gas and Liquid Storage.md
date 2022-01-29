@@ -5,10 +5,6 @@ divNumb: 43
 divName: Process Gas and Liquid Handling, Purification, and Storage Equipment
 subgroup: Process Equipment
 tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Storage']
-navigation:
-  key: Gas and Liquid Storage
-  parent: Process Gas and Liquid Handling, Purification, and Storage Equipment
-  order: 4000.0
 ---
 
    1. Section 43 40 00

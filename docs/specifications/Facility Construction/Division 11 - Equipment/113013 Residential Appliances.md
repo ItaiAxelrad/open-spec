@@ -5,10 +5,6 @@ divNumb: 11
 divName: Equipment
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Equipment', 'Residential', 'Appliances']
-navigation:
-  key: Residential Appliances
-  parent: Equipment
-  order: 3013.0
 ---
 
    1. SECTION 11 30 13

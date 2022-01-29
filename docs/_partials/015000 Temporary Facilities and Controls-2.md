@@ -5,10 +5,6 @@ divNumb: 1
 divName: General Requirements
 subgroup: General Requirements
 tags: ['General', 'Requirements', 'Temporary', 'Facilities', 'Controls']
-navigation:
-  key: Temporary Facilities and Controls
-  parent: General Requirements
-  order: 50002.0
 ---
 
 

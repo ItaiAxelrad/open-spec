@@ -5,10 +5,6 @@ divNumb: 7
 divName: Thermal and Moisture Protection
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Expansion', 'Joint', 'Cover', 'Assemblies']
-navigation:
-  key: Expansion Joint Cover Assemblies
-  parent: Thermal and Moisture Protection
-  order: 9513.0
 ---
 
 

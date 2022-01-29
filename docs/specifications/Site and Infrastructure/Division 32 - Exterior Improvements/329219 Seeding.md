@@ -5,10 +5,6 @@ divNumb: 32
 divName: Exterior Improvements
 subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Seeding']
-navigation:
-  key: Seeding
-  parent: Exterior Improvements
-  order: 9219.0
 ---
 
    1. SECTION 329219

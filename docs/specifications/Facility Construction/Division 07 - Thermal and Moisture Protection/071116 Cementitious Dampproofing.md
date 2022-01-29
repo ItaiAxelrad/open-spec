@@ -5,10 +5,6 @@ divNumb: 7
 divName: Thermal and Moisture Protection
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Cementitious', 'Dampproofing']
-navigation:
-  key: Cementitious Dampproofing
-  parent: Thermal and Moisture Protection
-  order: 1116.0
 ---
 
    1. Section 07 16 00
@@ -72,7 +68,9 @@ General
    1. Source Quality:
 	1. Obtain all proprietary cementitious waterproofing products from a single manufacturer.
 
-Execution
+
+## Execution
+
 1. 3.1 Examination
    1. Site Visit:
       1. 

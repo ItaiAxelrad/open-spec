@@ -5,10 +5,6 @@ divNumb: 1
 divName: General Requirements
 subgroup: General Requirements
 tags: ['General', 'Requirements', 'Scheduling', 'Work']
-navigation:
-  key: Scheduling of Work
-  parent: General Requirements
-  order: 3213.0
 ---
 
    1. Section 01 32 00
@@ -154,7 +150,9 @@ General
 		17. Resources: Number of craft per day (not crews per day) for each activity and construction equipment planned for each activity.
 	4. Do not utilize any float suppression techniques or other software features that effect the pure mathematical model calculating the critical path.
 
-Execution
+
+## Execution
+
 1. 3.1 Construction Schedule Meetings
    1. The Contractor and Engineer will participate in a pre-construction scheduling meeting.
 	1. The meeting shall occur within ten (10) working days after Execution of the Contract.

@@ -5,10 +5,6 @@ divNumb: 1
 divName: General Requirements
 subgroup: General Requirements
 tags: ['General', 'Requirements', 'Mobilization']
-navigation:
-  key: Mobilization
-  parent: General Requirements
-  order: 7113.0
 ---
 
 1. SECTION 01505
@@ -37,7 +33,9 @@ the proper performance and completion of the work. Mobilization shall include, b
 2. Standard Specifications 01000, 01045, 01200, 01310, 01330, 01510, 01570, 02140, 02222, 02223, 02511, 02528, 02578, 03000, 03480, 03482, 09902, 09910, and Division 15.
    1. PART 2 - MATERIALS- NOT USED
 1. 
-Execution
+
+## Execution
+
   1. NOT USED
 1. END OF SECTION
 

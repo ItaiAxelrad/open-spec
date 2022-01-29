@@ -5,10 +5,6 @@ divNumb: 8
 divName: Openings
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Openings', 'Access', 'Doors', 'Panels']
-navigation:
-  key: Access Doors and Panels
-  parent: Openings
-  order: 31001.0
 ---
 
    1. section 08 30 00
@@ -95,7 +91,9 @@ General
 	9. Shall include a safety catch.
 	10. Load rating: H-20 for all new hatches.
 
-Execution
+
+## Execution
+
 1. 3.1 Installation
    1. Install products in accordance with manufacturer’s instructions.
 

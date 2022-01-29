@@ -5,10 +5,6 @@ divNumb: 11
 divName: Equipment
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Equipment', 'Operation', 'Maintenance']
-navigation:
-  key: Operation and Maintenance of Equipment
-  parent: Equipment
-  order: 100.0
 ---
 
    1. Section 11 01 00
@@ -356,7 +352,9 @@ General
 	2. Provide routine test for all motors.
 	3. The Owner reserves the right to select and have tested, either routine or complete, any motor included in the project.
 
-Execution
+
+## Execution
+
 1. 3.1 Installation
    1. Install equipment as shown on Drawings and in accordance with manufacturer's directions.
 2. Utilize templates for anchorage placement for slab-mounted equipment.

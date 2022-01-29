@@ -5,10 +5,6 @@ divNumb: 28
 divName: Electronics Safety and Security
 subgroup: Facility Services
 tags: ['Facility', 'Services', 'Electronics', 'Safety', 'Security', 'Building', 'Intrusion', 'Detection']
-navigation:
-  key: Building Intrusion Detection
-  parent: Electronics Safety and Security
-  order: 3111.0
 ---
 
    1. Section 28 31 11
@@ -80,7 +76,9 @@ General
 	1. Submit for approval at least 30 days prior to commencement of formal testing, a Security System Operational Test Plan. Include procedures for operational testing of each component and security subsystem, to include performance of an integrated system test.
    ## Product (Not Used)
 
-Execution
+
+## Execution
+
 
 * 
 	1. Installation

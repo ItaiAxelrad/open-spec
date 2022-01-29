@@ -5,10 +5,6 @@ divNumb: 3
 divName: Concrete
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Concrete', 'Reinforcing']
-navigation:
-  key: Concrete Reinforcing
-  parent: Concrete
-  order: 20002.0
 ---
 
 1. SECTION 03200
@@ -79,7 +75,9 @@ General
 2. WELDED WIRE FABRIC 
 2..1 Welded Wire Fabric ‑ ASTM A185 or A497.
 1. 
-Execution
+
+## Execution
+
 1.  
 1. PREPARATION ‑ Remove all mud, oil, loose rust or mill scale and other foreign materials that may reduce bond. Rust or mill scale which is "tight" will be permissible without cleaning or brushing provided weights, dimensions, cross sectional area, and tensile properties meet requirements of ASTM A615. 
 2. INSTALLATION 

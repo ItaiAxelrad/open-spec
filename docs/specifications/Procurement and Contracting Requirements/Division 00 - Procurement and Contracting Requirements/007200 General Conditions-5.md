@@ -5,10 +5,6 @@ divNumb: 0
 divName: Procurement and Contracting Requirements
 subgroup: Procurement and Contracting Requirements
 tags: ['Procurement', 'Contracting', 'Requirements', 'General', 'Conditions']
-navigation:
-  key: General Conditions
-  parent: Procurement and Contracting Requirements
-  order: 72005.0
 ---
 
    1. This document has important legal consequences; consultation with an attorney is encouraged with respect to its use or modification. This document should be adapted to the particular circumstances of the contemplated Project and the controlling Laws and Regulations.
@@ -163,7 +159,9 @@ navigation:
 01. Authorized Changes in the Work 40
 02. Unauthorized Changes in the Work 41
 0
-Execution
+
+## Execution
+
  of Change Orders 41
 04. Notification to Surety 41
 05. Claims 41

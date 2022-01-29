@@ -5,10 +5,6 @@ divNumb: 1
 divName: General Requirements
 subgroup: General Requirements
 tags: ['General', 'Requirements', 'Temporary', 'Tree', 'Plant', 'Protection']
-navigation:
-  key: Temporary Tree and Plant Protection
-  parent: General Requirements
-  order: 5639.0
 ---
 
    1. SECTION 01 56 39 
@@ -49,7 +45,9 @@ General
 	4. GUIDE FOR PLANT APPRAISAL-8TH EDITION, Authored by the Council of Tree and Landscape Appraisers; published by the International Society of Arboriculture.
    ## Product (NOT USED)
 
-Execution
+
+## Execution
+
 1. 3.1 Construction Requirements
    1. This section provides standards and guidelines for the retention and protection of trees and high-value shrubs for any proposed public works or construction project.
 1. 3.2 Demolition of Existing Concrete

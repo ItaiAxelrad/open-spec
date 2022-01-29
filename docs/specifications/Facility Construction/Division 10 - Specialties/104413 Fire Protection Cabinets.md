@@ -5,10 +5,6 @@ divNumb: 10
 divName: Specialties
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Specialties', 'Fire', 'Protection', 'Cabinets']
-navigation:
-  key: Fire Protection Cabinets
-  parent: Specialties
-  order: 4413.0
 ---
 
 1. SECTION 10 44 13
@@ -34,7 +30,9 @@ General
 ASTM E 814 for fire-resistance rating of walls where they are installed.
    1. Coordinate size of fire protection cabinets to ensure that type and capacity of fire extinguishers indicated are accommodated.
    1. Coordinate sizes and locations of fire protection cabinets with wall depths.
-Product
+
+## Product
+
 1. MATERIALS
    1. Aluminum:
       1. Alloy and temper recommended by aluminum producer and manufacturer for type of use and finish indicated, and as follows:

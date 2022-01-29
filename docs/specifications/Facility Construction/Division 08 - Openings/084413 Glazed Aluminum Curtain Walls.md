@@ -5,10 +5,6 @@ divNumb: 8
 divName: Openings
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Openings', 'Glazed', 'Aluminum', 'Curtain', 'Walls']
-navigation:
-  key: Glazed Aluminum Curtain Walls
-  parent: Openings
-  order: 4413.0
 ---
 
 

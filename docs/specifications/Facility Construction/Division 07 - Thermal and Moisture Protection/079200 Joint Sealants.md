@@ -5,10 +5,6 @@ divNumb: 7
 divName: Thermal and Moisture Protection
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Joint', 'Sealants']
-navigation:
-  key: Joint Sealants
-  parent: Thermal and Moisture Protection
-  order: 92001.0
 ---
 
 1. Section 0**7 **90 00
@@ -193,7 +189,9 @@ General
 	5. Color to be selected from manufacturer’s standard colors. Match adjacent materials.
 	6. Match R15 R-value of building envelope where applicable.
 
-Execution
+
+## Execution
+
 1. 3.1 Preparation
    1. Before use of any sealant, investigate its compatibility with joint surfaces, fillers and other materials in joint system.
 2. Use only compatible materials.

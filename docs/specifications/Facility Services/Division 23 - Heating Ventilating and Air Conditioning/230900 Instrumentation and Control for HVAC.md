@@ -5,10 +5,6 @@ divNumb: 23
 divName: Heating Ventilating and Air Conditioning
 subgroup: Facility Services
 tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 'Instrumentation', 'Control', 'for', 'HVAC']
-navigation:
-  key: Instrumentation and Control for HVAC
-  parent: Heating Ventilating and Air Conditioning
-  order: 900.0
 ---
 
 

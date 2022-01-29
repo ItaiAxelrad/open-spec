@@ -5,10 +5,6 @@ divNumb: 0
 divName: Procurement and Contracting Requirements
 subgroup: Procurement and Contracting Requirements
 tags: ['Procurement', 'Contracting', 'Requirements', 'Advertisement', 'for', 'Bids']
-navigation:
-  key: Advertisement for Bids
-  parent: Procurement and Contracting Requirements
-  order: 1113.0
 ---
 
 1. SECTION 00 11 13

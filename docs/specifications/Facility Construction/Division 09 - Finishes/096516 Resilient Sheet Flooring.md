@@ -5,10 +5,6 @@ divNumb: 9
 divName: Finishes
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Finishes', 'Resilient', 'Sheet', 'Flooring']
-navigation:
-  key: Resilient Sheet Flooring
-  parent: Finishes
-  order: 6516.0
 ---
 
 

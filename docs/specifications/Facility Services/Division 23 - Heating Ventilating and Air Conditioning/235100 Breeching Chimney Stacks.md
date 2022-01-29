@@ -5,10 +5,6 @@ divNumb: 23
 divName: Heating Ventilating and Air Conditioning
 subgroup: Facility Services
 tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 'Breeching', 'Chimney', 'Stacks']
-navigation:
-  key: Breeching Chimney Stacks
-  parent: Heating Ventilating and Air Conditioning
-  order: 5100.0
 ---
 
 1. Copyright 2004 and 2005 by The American Institute of Architects (AIA)

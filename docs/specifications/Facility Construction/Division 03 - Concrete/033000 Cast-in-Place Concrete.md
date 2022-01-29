@@ -5,10 +5,6 @@ divNumb: 3
 divName: Concrete
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Concrete', 'Cast-in-Place']
-navigation:
-  key: Cast-in-Place Concrete
-  parent: Concrete
-  order: 30001.0
 ---
 
 1. SECTION 03 30 00

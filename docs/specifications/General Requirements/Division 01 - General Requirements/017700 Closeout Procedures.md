@@ -5,10 +5,6 @@ divNumb: 1
 divName: General Requirements
 subgroup: General Requirements
 tags: ['General', 'Requirements', 'Closeout', 'Procedures']
-navigation:
-  key: Closeout Procedures
-  parent: General Requirements
-  order: 7700.0
 ---
 
    1. Section 01 77 00

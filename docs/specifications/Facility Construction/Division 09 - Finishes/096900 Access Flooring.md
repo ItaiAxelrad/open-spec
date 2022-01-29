@@ -5,10 +5,6 @@ divNumb: 9
 divName: Finishes
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Finishes', 'Access', 'Flooring']
-navigation:
-  key: Access Flooring
-  parent: Finishes
-  order: 6900.0
 ---
 
 

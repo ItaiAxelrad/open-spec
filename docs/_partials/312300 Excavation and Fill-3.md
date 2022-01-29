@@ -5,10 +5,6 @@ divNumb: 31
 divName: Earthwork
 subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Earthwork', 'Excavation', 'Fill']
-navigation:
-  key: Excavation and Fill
-  parent: Earthwork
-  order: 23003.0
 ---
 
 1. SECTION 312300
@@ -238,7 +234,9 @@ Warning Tape Color Codes
 11. DETECTION WIRE FOR NON-METALLIC PIPING
    1. Detection wire shall be insulated single strand, solid copper with a minimum of 12 AWG.
 1. 
-Execution
+
+## Execution
+
 1. PROTECTION
    1. Shoring and Sheeting
 1. Shoring, bracing, cribbing, trench boxes, underpinning and sheeting shall be provided where indicated. Include provisions in the shoring and sheeting plan that will accomplish the following:

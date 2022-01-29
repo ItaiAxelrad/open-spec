@@ -5,10 +5,6 @@ divNumb: 12
 divName: Furnishings
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Furnishings', 'Horizontal', 'Louver', 'Blinds']
-navigation:
-  key: Horizontal Louver Blinds
-  parent: Furnishings
-  order: 2113.0
 ---
 
 

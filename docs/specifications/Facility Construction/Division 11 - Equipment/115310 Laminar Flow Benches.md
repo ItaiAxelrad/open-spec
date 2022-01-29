@@ -5,10 +5,6 @@ divNumb: 11
 divName: Equipment
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Equipment', 'Laminar', 'Flow', 'Benches']
-navigation:
-  key: Laminar Flow Benches
-  parent: Equipment
-  order: 5310.0
 ---
 
 

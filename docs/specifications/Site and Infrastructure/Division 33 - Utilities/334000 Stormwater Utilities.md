@@ -5,10 +5,6 @@ divNumb: 33
 divName: Utilities
 subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Utilities', 'Stormwater']
-navigation:
-  key: Stormwater Utilities
-  parent: Utilities
-  order: 4000.0
 ---
 
 1. SECTION 33 40 00
@@ -327,7 +323,9 @@ General
    1. Detectable metallic locator tape, specifically manufactured for marking utilities. 
    1. Tape shall be a minimum of 6” wide and shall be marked “STORM”.
 1. 
-Execution
+
+## Execution
+
 
 ## General
 

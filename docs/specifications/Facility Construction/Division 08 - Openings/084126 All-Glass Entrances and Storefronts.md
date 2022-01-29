@@ -5,10 +5,6 @@ divNumb: 8
 divName: Openings
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Openings', 'All-Glass', 'Entrances', 'Storefronts']
-navigation:
-  key: All-Glass Entrances and Storefronts
-  parent: Openings
-  order: 4126.0
 ---
 
 

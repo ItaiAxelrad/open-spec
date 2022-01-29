@@ -5,10 +5,6 @@ divNumb: 1
 divName: General Requirements
 subgroup: General Requirements
 tags: ['General', 'Requirements', 'Photographic', 'Documentation']
-navigation:
-  key: Photographic Documentation
-  parent: General Requirements
-  order: 3233.0
 ---
 
    1. SECTION 01 32 33
@@ -42,7 +38,9 @@ Sections apply to this Section.
 
 6. USAGE RIGHTS
    1. Obtain and transfer copyright usage rights from photographer to Owner for unlimited reproduction of photographic documentation.
-Product
+
+## Product
+
 1. PHOTOGRAPHIC MEDIA
    1. Digital Images:
       1. Provide images in JPG format, with minimum size of 8 megapixels.

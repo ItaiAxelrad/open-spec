@@ -5,10 +5,6 @@ divNumb: 42
 divName: Process Heating, Cooling, and Drying
 subgroup: Process Equipment
 tags: ['Process', 'Equipment', 'Heating', 'Cooling', 'Drying']
-navigation:
-  key: Process Cooling Equipment
-  parent: Process Heating, Cooling, and Drying
-  order: 2000.0
 ---
 
    1. SECTION 33 61 13

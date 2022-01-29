@@ -5,10 +5,6 @@ divNumb: 6
 divName: Wood, Plastics, and Composites
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Wood', 'Plastics', 'Composites', 'Interior', 'Finish', 'Carpentry']
-navigation:
-  key: Interior Finish Carpentry
-  parent: Wood, Plastics, and Composites
-  order: 2023.0
 ---
 
          1. 

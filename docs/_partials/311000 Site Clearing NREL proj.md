@@ -5,10 +5,6 @@ divNumb: 31
 divName: Earthwork
 subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Earthwork', 'Clearing', 'NREL', 'proj']
-navigation:
-  key: Site Clearing NREL proj
-  parent: Earthwork
-  order: 1000.0
 ---
 
 1. SECTION 311000 - SITE CLEARING

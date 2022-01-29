@@ -5,10 +5,6 @@ divNumb: 26
 divName: Electrical
 subgroup: Facility Services
 tags: ['Facility', 'Services', 'Electrical', 'Panelboards']
-navigation:
-  key: Panelboards
-  parent: Electrical
-  order: 2416.0
 ---
 
 

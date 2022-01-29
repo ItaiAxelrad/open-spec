@@ -5,10 +5,6 @@ divNumb: 10
 divName: Specialties
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Specialties', 'Exterior', 'Sun', 'Control', 'Devices']
-navigation:
-  key: Exterior Sun Control Devices
-  parent: Specialties
-  order: 7113.0
 ---
 
 

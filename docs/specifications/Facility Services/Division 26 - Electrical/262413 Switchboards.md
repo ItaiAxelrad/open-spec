@@ -5,10 +5,6 @@ divNumb: 26
 divName: Electrical
 subgroup: Facility Services
 tags: ['Facility', 'Services', 'Electrical', 'Switchboards']
-navigation:
-  key: Switchboards
-  parent: Electrical
-  order: 2413.0
 ---
 
 1. Copyright 2005 by The American Institute of Architects (AIA)

@@ -5,10 +5,6 @@ divNumb: 10
 divName: Specialties
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Specialties', 'Metal', 'Lockers']
-navigation:
-  key: Metal Lockers
-  parent: Specialties
-  order: 5113.0
 ---
 
 

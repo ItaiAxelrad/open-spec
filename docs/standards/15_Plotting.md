@@ -1,8 +1,6 @@
 ---
 title: 'Plotting'
 eleventyNavigation:
-  key: Plotting
-  order: 15
 date: 2021-04-10
 ---
 

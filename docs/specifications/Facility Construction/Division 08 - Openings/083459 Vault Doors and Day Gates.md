@@ -5,10 +5,6 @@ divNumb: 8
 divName: Openings
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Openings', 'Vault', 'Doors', 'Day', 'Gates']
-navigation:
-  key: Vault Doors and Day Gates
-  parent: Openings
-  order: 3459.0
 ---
 
 1. SECTION 08 34 59

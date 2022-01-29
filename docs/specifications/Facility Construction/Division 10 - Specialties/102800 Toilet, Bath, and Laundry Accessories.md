@@ -5,10 +5,6 @@ divNumb: 10
 divName: Specialties
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Specialties', 'Toilet', 'Bath', 'Laundry', 'Accessories']
-navigation:
-  key: Toilet, Bath, and Laundry Accessories
-  parent: Specialties
-  order: 2800.0
 ---
 
 1. SECTION 10 28 00

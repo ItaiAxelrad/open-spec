@@ -5,19 +5,11 @@ divNumb: 2
 divName: Existing Conditions
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Existing', 'Conditions', 'Structure', 'Demolition']
-navigation:
-  key: Structure Demolition
-  parent: Existing Conditions
-  order: 4116.0
 ---
+## General
 
-   1. SECTION 02 41 16
-   1. STRUCTURE DEMOLITION
-
-General
-
-* 
-	1. RELATED DOCUMENTS
+ 
+1. RELATED DOCUMENTS
    1. Drawings, General and Special Provisions of the Contract, and Division 01 Specification
 Sections, apply to this Section.
 2. SUMMARY
@@ -70,11 +62,13 @@ adjacent buildings without written permission from authorities having jurisdicti
    1. On-site storage or sale of removed items or materials is not permitted.
 7. COORDINATION
    1. Arrange demolition schedule so as not to interfere with Owner’s on-site operations.
-Product
+
+## Product
 
 (Not Used)]
 
-Execution
+## Execution
+
 1. EXAMINATION
    1. Verify that utilities have been disconnected and capped before starting demolition operations.
 2. PREPARATION
@@ -112,18 +106,13 @@ demolition operations.
 2. Provide temporary services during interruptions to existing utilities, as acceptable to
    1. Owner and authorities having jurisdiction.
 4. DEMOLITION, GENERAL
-
-General
-:
-      1. Demolish indicated existing buildings and site improvements completely. Use
-methods required to complete the Work within limitations of governing regulations and as
-   1. follows:
+5. Demolish indicated existing buildings and site improvements completely. Use methods required to complete the Work within limitations of governing regulations and as follows:
          1. Do not use cutting torches until work area is cleared of flammable materials. Maintain
    1. portable fire-suppression devices during flame-cutting operations.
-2. Maintain adequate ventilation when using cutting torches.
-3. Locate building demolition equipment and remove debris and materials so as not to
+6. Maintain adequate ventilation when using cutting torches.
+7. Locate building demolition equipment and remove debris and materials so as not to
    1. impose excessive loads on supporting walls, floors, or framing.
-   1. Engineering Surveys:
+   2. Engineering Surveys:
       1. During demolition, perform surveys to detect hazards that may result
 from building demolition activities.
    1. Site Access and Temporary Controls:

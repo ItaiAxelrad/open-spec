@@ -5,10 +5,6 @@ divNumb: 1
 divName: General Requirements
 subgroup: General Requirements
 tags: ['General', 'Requirements', 'Summary', 'Work', 'SM']
-navigation:
-  key: Summary of Work - SM
-  parent: General Requirements
-  order: 1100.0
 ---
 
    1. SECTION 01000
@@ -279,7 +275,9 @@ General
    1. The City of Santa Monica does not provide for parking for Contractors and their employees outside of the construction work area limits. All associated costs and difficulties of parking off site are the responsibility of the contractor and shall be included in the bid price.
 1. PART 2 MATERIALS -** Not Used
 1. 
-Execution
+
+## Execution
+
  -** Not Used
 1. END OF SECTION
 

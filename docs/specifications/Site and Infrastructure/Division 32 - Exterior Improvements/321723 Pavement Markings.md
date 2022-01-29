@@ -5,10 +5,6 @@ divNumb: 32
 divName: Exterior Improvements
 subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Pavement', 'Markings']
-navigation:
-  key: Pavement Markings
-  parent: Exterior Improvements
-  order: 1723.0
 ---
 
 1. SECTION 32 17 23
@@ -183,7 +179,9 @@ Percent by Weight
 2. Preapproved HBAC Vendors and Materials
       1. Table II presents a partial list of HBAC vendors and materials. Up to specifications's date of issue, preapproved materials met specification requirements. It is the user's responsibility to confirm preapproved material formulations have not changed and specification requirements shall be met. Other products may meet HBAC requirements.
 1. 
-Execution
+
+## Execution
+
 1. SURFACE PREPARATION
    1. Allow new pavement surfaces to cure for a period of not less than 30 days before application of marking materials. Surfaces to be marked shall be thoroughly cleaned before application of the paint. Dust, dirt, and other granular surface deposits shall be removed by sweeping, blowing with compressed air, rinsing with water, or a combination of these methods as required. Rubber deposits, existing paint markings, residual curing compounds, and other coatings adhering to the pavement shall be completely removed by water blasting or approved chemical removal method as directed. For Portland Cement Concrete pavement, grinding, light shot blasting, and light scarification, to a resulting profile equal to ICRI 03732 CSP 2, CSP 3, and CSP 4, respectively, can be used in addition to water blasting, to either remove existing coatings or for surface preparation on most pavements:
       1. shot blasting shall not be used on airfield pavements due to the potential of Foreign Object Damage (FOD) to aircraft. Scrub affected areas, where oil or grease is present on old pavements to be marked, with several applications of trisodium phosphate solution or other approved detergent or degreaser and rinse thoroughly after each application. After cleaning oil-soaked areas, pavement shall be sealed with shellac or primer recommended by the manufacturer to prevent bleeding through the new paint. Do not commence painting in any area until pavement surfaces are dry and clean.

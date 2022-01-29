@@ -5,10 +5,6 @@ divNumb: 40
 divName: Process Interconnections
 subgroup: Process Equipment
 tags: ['Process', 'Equipment', 'Interconnections', 'Steel', 'Pipe']
-navigation:
-  key: Steel Process Pipe
-  parent: Process Interconnections
-  order: 524.0
 ---
 
    1. section 40 05 24
@@ -150,7 +146,9 @@ General
 	1. Provide epoxy lining in accordance with AWWA C210 or polyurethane lining in accordance with AWWA C222.
 	2. Galvanize surface in accordance with hot-dip method using any grade of zinc acceptable to ASTM B6.
 
-Execution
+
+## Execution
+
 1. 3.1 Installation
    1. Install products in accordance with manufacturer’s instructions. 
 2. Joining Methods - Flanges:

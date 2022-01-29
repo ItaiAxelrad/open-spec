@@ -5,10 +5,6 @@ divNumb: 1
 divName: General Requirements
 subgroup: General Requirements
 tags: ['General', 'Requirements', 'Construction', 'Waste', 'Management', 'Disposal']
-navigation:
-  key: Construction Waste Management and Disposal
-  parent: General Requirements
-  order: 7419.0
 ---
 
 

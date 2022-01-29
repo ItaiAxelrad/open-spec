@@ -5,10 +5,6 @@ divNumb: 33
 divName: Utilities
 subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Utilities', 'Bioretention']
-navigation:
-  key: Bioretention
-  parent: Utilities
-  order: 4727.0
 ---
 
 1. SECTION 33 47 27
@@ -503,7 +499,9 @@ sizes and conform to the following gradation [Designer to specify]:
    1. flat surface and sorting and measuring the individual rocks contained in the load.
    1. Cobbles must be washed before placement.
 1. 
-Execution
+
+## Execution
+
 0
 General
    1. Prevent runoff from adjacent pervious and impervious surfaces from

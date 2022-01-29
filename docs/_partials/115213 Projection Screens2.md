@@ -5,10 +5,6 @@ divNumb: 11
 divName: Equipment
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Equipment', 'Projection', 'Screens']
-navigation:
-  key: Projection Screens
-  parent: Equipment
-  order: 52132.0
 ---
 
    1. SECTION 115213

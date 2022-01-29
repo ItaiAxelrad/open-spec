@@ -5,10 +5,6 @@ divNumb: 32
 divName: Exterior Improvements
 subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Soil', 'Preparation']
-navigation:
-  key: Soil Preparation
-  parent: Exterior Improvements
-  order: 9113.0
 ---
 
    1. SECTION 329110

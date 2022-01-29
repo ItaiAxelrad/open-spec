@@ -5,10 +5,6 @@ divNumb: 33
 divName: Utilities
 subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Utilities', 'Storm', 'Drainage', 'System']
-navigation:
-  key: Storm Drainage System
-  parent: Utilities
-  order: 4000.0
 ---
 
    1. Section 33 40 00
@@ -55,7 +51,9 @@ General
 			11. Shall include stainless steel expansion clamps.
 				1. Shall be installed in the upstream or downstream cuff of the valve
 
-Execution
+
+## Execution
+
 1. 3.1 Installation
    1. Install products in accordance with manufacturer’s instructions and comply with Section 31 20 00.
 1. 3.2 Quality Control

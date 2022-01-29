@@ -5,10 +5,6 @@ divNumb: 1
 divName: General Requirements
 subgroup: General Requirements
 tags: ['General', 'Requirements', 'Cleaning', 'Waste', 'Management']
-navigation:
-  key: Cleaning and Waste Management
-  parent: General Requirements
-  order: 7400.0
 ---
 
    1. Section 01 74 00

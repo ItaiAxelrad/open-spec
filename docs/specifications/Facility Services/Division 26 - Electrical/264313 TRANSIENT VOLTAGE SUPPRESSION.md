@@ -5,10 +5,6 @@ divNumb: 26
 divName: Electrical
 subgroup: Facility Services
 tags: ['Facility', 'Services', 'Electrical', 'TRANSIENT', 'VOLTAGE', 'SUPPRESSION']
-navigation:
-  key: TRANSIENT VOLTAGE SUPPRESSION
-  parent: Electrical
-  order: 4313.0
 ---
 
 1. SECTION 26 43 13
@@ -78,7 +74,9 @@ Surge Suppressors."
 08. WARRANTY
    1. Special Warranty:
       1. Manufacturer's standard form in which manufacturer agrees to repair or replace components of surge suppressors that fail in materials or workmanship within five years from date of Substantial Completion.
-Product
+
+## Product
+
 01. MANUFACTURERS
    1. Manufacturers:
       1. Subject to compliance with requirements, provide products by one of the following:
@@ -142,7 +140,9 @@ Product
       1. 400 V for 208Y/120.
 05. ENCLOSURES
    1. NEMA 250, with type matching the enclosure of panel or device being protected. 
-Execution
+
+## Execution
+
 01. INSTALLATION OF SURGE PROTECTION DEVICES
    1. Install devices at service entrance on load side, with ground lead bonded to service entrance ground.
    1. Install devices for panelboard and auxiliary panels with conductors or buses between suppressor and points of attachment as short and straight as possible. Do not exceed manufacturer's recommended lead length. Do not bond neutral and ground.

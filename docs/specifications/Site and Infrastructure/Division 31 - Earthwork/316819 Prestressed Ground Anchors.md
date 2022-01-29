@@ -5,10 +5,6 @@ divNumb: 31
 divName: Earthwork
 subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Earthwork', 'Prestressed', 'Ground', 'Anchors']
-navigation:
-  key: Prestressed Ground Anchors
-  parent: Earthwork
-  order: 6819.0
 ---
 
    1. Section 31 68 19 
@@ -60,7 +56,9 @@ General
 3. The jacks shall have a stroke of adequate length so that the stressing, including temporary overstress, can be done in one movement. They shall be equipped with proper ports or windows for adequate visual examination and measurement of tendon movement. They shall also be capable of slow release of stress to allow relaxation from overstress to the proper seating force. 
 4. The Contractor shall furnish a grout mixer and pump of sufficient capacity to properly place grout in the quantities required. 
 
-Execution
+
+## Execution
+
 1. Packaging, Storing and Handling
    1. All prestressing steel shall be protected against physical damage and corrosion from the time of manufacture to grouting or encasing in concrete. 
 2. Rust on prestressing steel which can be removed by light rubbing is acceptable. Streaks or spots, which may remain after rust removal are acceptable if no pitting is present. Tight mill scale is acceptable but loose mill scale shall be removed. 

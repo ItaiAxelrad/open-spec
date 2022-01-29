@@ -5,10 +5,6 @@ divNumb: 7
 divName: Thermal and Moisture Protection
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Dampproofing']
-navigation:
-  key: Dampproofing
-  parent: Thermal and Moisture Protection
-  order: 1100.0
 ---
 
 

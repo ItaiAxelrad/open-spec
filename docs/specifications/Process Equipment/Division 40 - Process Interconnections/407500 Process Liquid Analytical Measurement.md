@@ -5,10 +5,6 @@ divNumb: 40
 divName: Process Interconnections
 subgroup: Process Equipment
 tags: ['Process', 'Equipment', 'Interconnections', 'Liquid', 'Analytical', 'Measurement']
-navigation:
-  key: Process Liquid Analytical Measurement
-  parent: Process Interconnections
-  order: 7500.0
 ---
 
    1. section 40 75 00
@@ -49,7 +45,9 @@ General
 	3. Be at least 12 IN above the floor or ground level. 
 	4. Be located where water from flushing the tap for 5 minutes can easily drain away.
 
-Execution
+
+## Execution
+
 1. 3.1 Installation
    1. Install based on manufacturer’s recommended installation instructions. 
 	1. **Schedules

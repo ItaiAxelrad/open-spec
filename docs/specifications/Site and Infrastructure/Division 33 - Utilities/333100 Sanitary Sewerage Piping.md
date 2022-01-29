@@ -5,10 +5,6 @@ divNumb: 33
 divName: Utilities
 subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Utilities', 'Sanitary', 'Sewerage', 'Piping']
-navigation:
-  key: Sanitary Sewerage Piping
-  parent: Utilities
-  order: 3100.0
 ---
 
    1. section 33 30 00
@@ -51,7 +47,9 @@ General
       1. New metal posts extending down to the stub and up to within 1 foot of the designated grade.
 6. All PVC sanitary sewer piping underground and exterior to all buildings for both commercial and residential projects shall be ASTM 3034 SDR35 unless otherwise approved by the District in writing prior to construction. Schedule 40 pipe only be used per Building Code requirements where service lines penetrate building walls and no more than 5-feet from the outside of the building wall.
 
-Execution
+
+## Execution
+
 
 * 
 	1. **Pipe Installation

@@ -5,10 +5,6 @@ divNumb: 40
 divName: Process Interconnections
 subgroup: Process Equipment
 tags: ['Process', 'Equipment', 'Interconnections', 'Hydraulic', 'Gates']
-navigation:
-  key: Hydraulic Gates
-  parent: Process Interconnections
-  order: 559.0
 ---
 
    1. SECTION 40 05 59

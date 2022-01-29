@@ -5,10 +5,6 @@ divNumb: 1
 divName: General Requirements
 subgroup: General Requirements
 tags: ['General', 'Requirements', 'Summary', 'Work']
-navigation:
-  key: Summary of Work
-  parent: General Requirements
-  order: 1100.0
 ---
 
    1. Section 01 11 00
@@ -58,6 +54,8 @@ General
 		1. Various civil, structural, architectural, mechanical, electrical, and instrumentation improvements as indicated in the Contract Documents.
    ## Product (not used)
 
-Execution
+
+## Execution
+
  (Not Used)
 

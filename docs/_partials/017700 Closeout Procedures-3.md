@@ -5,10 +5,6 @@ divNumb: 1
 divName: General Requirements
 subgroup: General Requirements
 tags: ['General', 'Requirements', 'Closeout', 'Procedures']
-navigation:
-  key: Closeout Procedures
-  parent: General Requirements
-  order: 77003.0
 ---
 
 
@@ -72,7 +68,9 @@ navigation:
    1. Submit, with final payment request, all warranty certificates, lien releases, and consent of security forms.
 1. ## Product C NOT USED
 1. 
-Execution
+
+## Execution
+
 1.  
 
 * 

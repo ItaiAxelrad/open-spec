@@ -5,10 +5,6 @@ divNumb: 43
 divName: Process Gas and Liquid Handling, Purification, and Storage Equipment
 subgroup: Process Equipment
 tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Storage', 'Vertical', 'Turbine', 'Open', 'Lineshaft']
-navigation:
-  key: Vertical Turbine Open Lineshaft
-  parent: Process Gas and Liquid Handling, Purification, and Storage Equipment
-  order: 2416.0
 ---
 
 1. SECTION 43 24 16** 

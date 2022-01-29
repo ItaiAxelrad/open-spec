@@ -5,10 +5,6 @@ divNumb: 33
 divName: Utilities
 subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Utilities', 'Stormwater', 'Conveyance']
-navigation:
-  key: Stormwater Conveyance
-  parent: Utilities
-  order: 4200.0
 ---
 
 1. SECTION 33 41 00

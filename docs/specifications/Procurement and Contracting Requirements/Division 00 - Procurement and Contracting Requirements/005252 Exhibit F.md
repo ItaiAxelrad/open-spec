@@ -5,10 +5,6 @@ divNumb: 0
 divName: Procurement and Contracting Requirements
 subgroup: Procurement and Contracting Requirements
 tags: ['Procurement', 'Contracting', 'Requirements', 'Exhibit', 'F']
-navigation:
-  key: Exhibit F
-  parent: Procurement and Contracting Requirements
-  order: 5252.0
 ---
 
    1. SUGGESTED FORMAT

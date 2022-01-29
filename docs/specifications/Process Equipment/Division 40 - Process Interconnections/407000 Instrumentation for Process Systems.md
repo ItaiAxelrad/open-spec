@@ -5,10 +5,6 @@ divNumb: 40
 divName: Process Interconnections
 subgroup: Process Equipment
 tags: ['Process', 'Equipment', 'Interconnections', 'Instrumentation', 'for', 'Systems']
-navigation:
-  key: Instrumentation for Process Systems
-  parent: Process Interconnections
-  order: 7000.0
 ---
 
    1. section 40 70 00
@@ -221,7 +217,9 @@ General
 	2. Provide dielectric material between tray or channel and tubing.
 8. Cable lengths between sensors and transmitters shall be continuous (without splices) and as required to accommodate locations as shown on Drawings.
 
-Execution
+
+## Execution
+
 
 * 
 	1. **Installation

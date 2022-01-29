@@ -5,10 +5,6 @@ divNumb: 43
 divName: Process Gas and Liquid Handling, Purification, and Storage Equipment
 subgroup: Process Equipment
 tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Storage', 'Submersible', 'Pumps']
-navigation:
-  key: Submersible Liquid Pumps
-  parent: Process Gas and Liquid Handling, Purification, and Storage Equipment
-  order: 2500.0
 ---
 
    1. SECTION 43 25 00

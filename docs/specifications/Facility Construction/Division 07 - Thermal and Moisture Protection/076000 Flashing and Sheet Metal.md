@@ -5,10 +5,6 @@ divNumb: 7
 divName: Thermal and Moisture Protection
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Flashing', 'Sheet', 'Metal']
-navigation:
-  key: Flashing and Sheet Metal
-  parent: Thermal and Moisture Protection
-  order: 6000.0
 ---
 
    1. Section 07 60 00
@@ -111,7 +107,9 @@ General
 	2. Fabricated in longest practical lengths.
 	3. Downspouts to include integrated heat tape.
 
-Execution
+
+## Execution
+
 1. 3.1 Preparation
    1. Items to be used in other areas of construction shall be provided so as to not cause delay to the schedule.
 1. 3.2 Installation

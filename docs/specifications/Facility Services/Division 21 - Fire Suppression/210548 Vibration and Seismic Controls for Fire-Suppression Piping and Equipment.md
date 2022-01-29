@@ -5,10 +5,6 @@ divNumb: 21
 divName: Fire Suppression
 subgroup: Facility Services
 tags: ['Facility', 'Services', 'Fire', 'Suppression', 'Vibration', 'Seismic', 'Controls', 'for', 'Fire-Suppression', 'Piping', 'Equipment']
-navigation:
-  key: Vibration and Seismic Controls for Fire-Suppression Piping and Equipment
-  parent: Fire Suppression
-  order: 548.0
 ---
 
 

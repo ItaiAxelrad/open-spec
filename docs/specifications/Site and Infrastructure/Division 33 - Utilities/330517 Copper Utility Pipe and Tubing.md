@@ -5,10 +5,6 @@ divNumb: 33
 divName: Utilities
 subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Utilities', 'Copper', 'Utility', 'Pipe', 'Tubing']
-navigation:
-  key: Copper Utility Pipe and Tubing
-  parent: Utilities
-  order: 517.0
 ---
 
    1. SECTION 15057

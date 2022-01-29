@@ -5,10 +5,6 @@ divNumb: 10
 divName: Specialties
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Specialties', 'Wall', 'Door', 'Protection']
-navigation:
-  key: Wall and Door Protection
-  parent: Specialties
-  order: 2600.0
 ---
 
 

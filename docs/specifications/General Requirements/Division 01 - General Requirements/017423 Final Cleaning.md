@@ -5,10 +5,6 @@ divNumb: 1
 divName: General Requirements
 subgroup: General Requirements
 tags: ['General', 'Requirements', 'Final', 'Cleaning']
-navigation:
-  key: Final Cleaning
-  parent: General Requirements
-  order: 7423.0
 ---
 
 1. SECTION 01 74 23
@@ -26,7 +22,9 @@ Conditions and Division 01 Specification Sections, apply to this Section.
          1. Conduct clean up and disposal operations to comply with applicable anti-pollution laws and local ordinances.
    1. SUBMITTALS
 1. Provide product data for all cleaning materials for approval by owner.
-Product
+
+## Product
+
 01. CLEANING MATERIALS
    1. Use only cleaning materials that meet or exceed owner’s standards. The site shall be inspected for cleanliness prior to the application of finish materials. Use methods recommended by manufacturer of surface to be cleaned and by the manufacturer of the cleaning materials or as specified within this section.
    1. Execution

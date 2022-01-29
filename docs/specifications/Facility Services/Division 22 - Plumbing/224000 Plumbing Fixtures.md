@@ -5,10 +5,6 @@ divNumb: 22
 divName: Plumbing
 subgroup: Facility Services
 tags: ['Facility', 'Services', 'Plumbing', 'Fixtures']
-navigation:
-  key: Plumbing Fixtures
-  parent: Plumbing
-  order: 4000.0
 ---
 
    1. section 22 40 00
@@ -51,7 +47,9 @@ General
 1. 2.1 Manufactured Units
    1. Refer to plans for plumbing fixtures and equipment. 
 
-Execution
+
+## Execution
+
 
 * 
 	1. **Installation

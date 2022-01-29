@@ -5,10 +5,6 @@ divNumb: 12
 divName: Furnishings
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Furnishings', 'Laboratory', 'Casework']
-navigation:
-  key: Laboratory Casework
-  parent: Furnishings
-  order: 3553.0
 ---
 
 

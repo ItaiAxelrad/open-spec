@@ -5,10 +5,6 @@ divNumb: 32
 divName: Exterior Improvements
 subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Tack', 'Prime', 'Coats']
-navigation:
-  key: Tack and Prime Coats
-  parent: Exterior Improvements
-  order: 1210.0
 ---
 
 1. SECTION 321210
@@ -85,7 +81,9 @@ General
    1. Emulsified Asphalt
 1. Emulsified asphalt shall conform to ASTM D 977, Type SS-1 or SS1h or ASTM D 2397, Type CSS-1 or CSS-1h. Dilute the emulsified asphalt with equal parts of water. The base asphalt used to manufacture the emulsion shall show a negative spot when tested in accordance with AASHTO T 102 using standard naphtha.
 1. 
-Execution
+
+## Execution
+
 1. PREPARATION OF SURFACE
    1. Immediately before applying the bituminous coat, all loose material, dirt, clay, or other
 objectionable material shall be removed from the surface to be treated. The surface shall be dry and clean at the time of treatment.

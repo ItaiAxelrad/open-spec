@@ -5,10 +5,6 @@ divNumb: 33
 divName: Utilities
 subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Utilities', 'Common', 'Work', 'Results', 'for']
-navigation:
-  key: Common Work Results for Utilities
-  parent: Utilities
-  order: 500.0
 ---
 
    1. SECTION 33 05 00
@@ -70,7 +66,9 @@ General
    1. PART 2 MATERIALS
    1. All materials used in making the connection or removing the facility from service shall conform to the applicable sections of the project specifications and the Approved Materials. 
 1. 
-Execution
+
+## Execution
+
 1. 3.01 General cut in Connection information** 
    1. Unless otherwise indicated on the Approved Plans or specifically directed by the City Engineer, all connections to existing facilities, cut-in installations, shall be performed by Contractor. All types of connections to existing water facilities shall be performed in strict accordance with the following procedures. 
    1. The contractor shall submit a connection plan developed for all connections (including multiple connections) to the City’s water system. The connection plan is to be prepared with the intent of minimizing service interruptions to City customers. The connection plan will be reviewed and approved by the City prior to proceeding with any work. 

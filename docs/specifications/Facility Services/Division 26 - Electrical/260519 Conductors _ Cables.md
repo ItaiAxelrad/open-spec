@@ -5,10 +5,6 @@ divNumb: 26
 divName: Electrical
 subgroup: Facility Services
 tags: ['Facility', 'Services', 'Electrical', 'Conductors', '_', 'Cables']
-navigation:
-  key: Conductors _ Cables
-  parent: Electrical
-  order: 519.0
 ---
 
 1. SECTION 26 05 19
@@ -35,7 +31,9 @@ Conditions and Division 01 Specification Sections, apply to this Section.
 5. QUALITY ASSURANCE A. Comply with NFPA 70.
 6. COORDINATION
    1. Set sleeves in cast-in-place concrete, masonry walls, and other structural components as they are constructed.
-Product
+
+## Product
+
 1. CONDUCTORS AND CABLES
    1. Available Manufacturers:
       1. Subject to compliance with requirements, manufacturers offering products that may be incorporated into the Work include, but are not limited to, the following:

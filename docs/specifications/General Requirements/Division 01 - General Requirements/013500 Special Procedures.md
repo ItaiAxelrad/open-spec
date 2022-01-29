@@ -5,10 +5,6 @@ divNumb: 1
 divName: General Requirements
 subgroup: General Requirements
 tags: ['General', 'Requirements', 'Special', 'Procedures']
-navigation:
-  key: Special Procedures
-  parent: General Requirements
-  order: 3500.0
 ---
 
    1. Section 01 35 00
@@ -42,7 +38,9 @@ General
 		13.  On-site air temperature readings shall be obtained and documented by the Engineer. This information shall be recorded in the engineers daily reporting system.
    ## Product (not Used)
 
-Execution
+
+## Execution
+
 1. 3.1 Installation
    1. Provide installation as shown on the drawings and in accordance with the manufacturer’s recommendations.
 2. Provide water distribution piping installation in accordance with Sections 33 30 00 and 33 14 11.

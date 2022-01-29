@@ -5,10 +5,6 @@ divNumb: 0
 divName: Procurement and Contracting Requirements
 subgroup: Procurement and Contracting Requirements
 tags: ['Procurement', 'Contracting', 'Requirements', 'Agreement', 'Form', 'Stipulated', 'Sum']
-navigation:
-  key: Agreement Form - Stipulated Sum
-  parent: Procurement and Contracting Requirements
-  order: 5213.0
 ---
 
 1. SECTION 00 52 13

@@ -5,10 +5,6 @@ divNumb: 23
 divName: Heating Ventilating and Air Conditioning
 subgroup: Facility Services
 tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 'Expansion', 'Fittings', 'Loops', 'for', 'HVAC', 'Piping']
-navigation:
-  key: Expansion Fittings and Loops for HVAC Piping
-  parent: Heating Ventilating and Air Conditioning
-  order: 516.0
 ---
 
 1. Copyright 2006 by The American Institute of Architects (AIA)

@@ -5,10 +5,6 @@ divNumb: 3
 divName: Concrete
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Concrete', 'Precast', 'Architectural']
-navigation:
-  key: Precast Architectural Concrete
-  parent: Concrete
-  order: 4500.0
 ---
 
 

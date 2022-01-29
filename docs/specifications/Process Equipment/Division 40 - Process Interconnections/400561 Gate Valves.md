@@ -5,10 +5,6 @@ divNumb: 40
 divName: Process Interconnections
 subgroup: Process Equipment
 tags: ['Process', 'Equipment', 'Interconnections', 'Gate', 'Valves']
-navigation:
-  key: Gate Valves
-  parent: Process Interconnections
-  order: 561.0
 ---
 
    1. section 40 05 61
@@ -62,7 +58,9 @@ General
 	2. Flomatic.
 	3. Or approved equivalent.
 
-Execution
+
+## Execution
+
 1. 3.1 Installation
    1. Install Gate Valve based on manufacturer’s installation instructions. 
 

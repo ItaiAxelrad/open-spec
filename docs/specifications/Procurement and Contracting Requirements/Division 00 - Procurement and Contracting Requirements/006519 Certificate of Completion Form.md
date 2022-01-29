@@ -5,10 +5,6 @@ divNumb: 0
 divName: Procurement and Contracting Requirements
 subgroup: Procurement and Contracting Requirements
 tags: ['Procurement', 'Contracting', 'Requirements', 'Certificate', 'Completion', 'Form']
-navigation:
-  key: Certificate of Completion Form
-  parent: Procurement and Contracting Requirements
-  order: 6519.0
 ---
 
 

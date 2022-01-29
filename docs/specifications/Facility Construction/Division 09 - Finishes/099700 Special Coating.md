@@ -5,10 +5,6 @@ divNumb: 9
 divName: Finishes
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Finishes', 'Special', 'Coating']
-navigation:
-  key: Special Coating
-  parent: Finishes
-  order: 9700.0
 ---
 
    1. SECTION 099700 – SPECIAL COATING 
@@ -89,7 +85,9 @@ or at temperatures less than 5 deg F (3 deg C) above the dew point; or to damp o
 General
 :
       1. Materials specified are those that have been evaluated for the specific service.
-Products of the paint manufacturers are listed in the paint schedules at the end of this Section to establish a standard of quality. Equivalent material may be substituted on written approval of the Engineer, based on review of submittals for compliance with the requirements of this Section.
+
+## Product
+s of the paint manufacturers are listed in the paint schedules at the end of this Section to establish a standard of quality. Equivalent material may be substituted on written approval of the Engineer, based on review of submittals for compliance with the requirements of this Section.
    1. Products:
       1. Subject to compliance with requirements, provide one of the products in the paint schedules located at the end of Section 3.
 2. PAINT MATERIALS, GENERAL
@@ -99,7 +97,9 @@ Products of the paint manufacturers are listed in the paint schedules at the end
       1. Provide manufacturer's best-quality paint material of the various coating types specified. Paint-material containers not displaying manufacturer's product identification will not be acceptable.
    1. Colors:
       1. Provide color selections made by the Engineer or Owner. 
-Execution
+
+## Execution
+
 1. EXAMINATION
    1. Examine substrates, areas, and conditions, with the Applicator present, under which painting will be performed for compliance with paint application requirements.
 1. Do not begin to apply paint until unsatisfactory conditions have been corrected and surfaces receiving paint are thoroughly dry.

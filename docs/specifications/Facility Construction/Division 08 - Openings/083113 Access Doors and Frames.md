@@ -5,10 +5,6 @@ divNumb: 8
 divName: Openings
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Openings', 'Access', 'Doors', 'Frames']
-navigation:
-  key: Access Doors and Frames
-  parent: Openings
-  order: 3113.0
 ---
 
    1. SECTION 083113 - ACCESS DOORS AND FRAMES
@@ -36,7 +32,9 @@ Sections, apply to this Section.
 5. COORDINATION
    1. Verification:
       1. Determine specific locations and sizes for access doors needed to gain access to concealed plumbing, mechanical, or other concealed work, and indicate in "Submittals" Article.
-Product
+
+## Product
+
 1. STAINLESS-STEEL MATERIALS
    1. Rolled-Stainless-Steel Floor Plate:
       1. ASTM A 793, manufacturer's standard finish.

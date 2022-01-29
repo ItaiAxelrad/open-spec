@@ -5,10 +5,6 @@ divNumb: 46
 divName: Water and Wastewater Equipment
 subgroup: Process Equipment
 tags: ['Process', 'Equipment', 'Water', 'Wastewater', 'Membrane', 'Biological', 'Reactors']
-navigation:
-  key: Membrane Biological Reactors
-  parent: Water and Wastewater Equipment
-  order: 5349.0
 ---
 
 1. SECTION 46 53 49
@@ -128,7 +124,9 @@ Wastewater Treatment Plants utilizing MBR technology with at least ten (10) inst
    1. Certificate of Compliance:
       1. If fabricator is approved by authorities having jurisdiction, submit certificate of compliance indicating Work performed at fabricator's facility conforms to Contract Documents.
 2. Specified shop tests are not required for Work performed by approved fabricator. 
-Execution
+
+## Execution
+
 1. EXAMINATION
    1. Section 017000 - Execution and Closeout Requirements:
       1. Requirements for installation examination.

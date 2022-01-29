@@ -5,10 +5,6 @@ divNumb: 32
 divName: Exterior Improvements
 subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Curbs', 'Gutters', 'Sidewalks', 'Driveways']
-navigation:
-  key: Curbs, Gutters, Sidewalks, and Driveways
-  parent: Exterior Improvements
-  order: 16002.0
 ---
 
    1. section 32 16 00
@@ -87,7 +83,9 @@ General
 	2. **Mixes
 14. Mix design to provide 4,000 psi 28-day compressive strength, 1-1/2 IN + 1 IN slump, 6 percent air.
 
-Execution
+
+## Execution
+
 
 1. 3.1 Preparation
    1. Subgrade Preparation:

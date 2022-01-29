@@ -5,10 +5,6 @@ divNumb: 26
 divName: Electrical
 subgroup: Facility Services
 tags: ['Facility', 'Services', 'Electrical', 'Medium', 'Voltage', 'Cables', '_', 'Underground', 'Dist']
-navigation:
-  key: Medium Voltage Cables _ Underground Dist
-  parent: Electrical
-  order: 513.0
 ---
 
 

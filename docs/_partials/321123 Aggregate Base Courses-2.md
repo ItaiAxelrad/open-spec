@@ -5,10 +5,6 @@ divNumb: 32
 divName: Exterior Improvements
 subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Aggregate', 'Base', 'Courses']
-navigation:
-  key: Aggregate Base Courses
-  parent: Exterior Improvements
-  order: 11232.0
 ---
 
 1. SECTION 321123
@@ -177,7 +173,9 @@ certified delivery tickets for all aggregates actually used, as specified in the
 2. LIQUID LIMIT AND PLASTICITY INDEX
    1. Liquid limit and plasticity index requirements shall apply to the completed course and shall also apply to any component that is blended to meet the required gradation. The portion of any component or of the completed course passing the No. 40 sieve shall be either nonplastic or have a liquid limit not greater than 25 and a plasticity index not greater than 5.
 1. 
-Execution
+
+## Execution
+
 
 ## General
 

@@ -5,10 +5,6 @@ divNumb: 33
 divName: Utilities
 subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Utilities', 'Water', 'Utility', 'Transmission', 'Distribution']
-navigation:
-  key: Water Utility Transmission and Distribution
-  parent: Utilities
-  order: 14002.0
 ---
 
 1. SECTION 33 11 00
@@ -315,7 +311,9 @@ Value
 1. Pipe joint lubricant
    1. Petroleum free pipe lubricant formulated for use with potable water systems. Product shall meet the requirements of ANSI/AWWA C111/A21.11 - latest revision.
 1. 
-Execution
+
+## Execution
+
 
 ## General
 

@@ -5,10 +5,6 @@ divNumb: 26
 divName: Electrical
 subgroup: Facility Services
 tags: ['Facility', 'Services', 'Electrical', 'Raceways', 'Boxes']
-navigation:
-  key: Raceways and Boxes 2
-  parent: Electrical
-  order: 5332.0
 ---
 
 1. SECTION 26 05 33
@@ -52,7 +48,9 @@ Section " Vibration and Seismic Controls." Include the following:
    1. Comply with NFPA 70.
 06. COORDINATION
    1. Coordinate layout and installation of raceways, boxes, enclosures, cabinets, and suspension system with other construction that penetrates ceilings or is supported by them, including light fixtures, HVAC equipment, fire-suppression system, and partition assemblies.
-Product
+
+## Product
+
 01. MANUFACTURERS
    1. In other Part 2 articles where subparagraph titles below introduce lists, the following requirements apply for product selection:
       1. Manufacturers:

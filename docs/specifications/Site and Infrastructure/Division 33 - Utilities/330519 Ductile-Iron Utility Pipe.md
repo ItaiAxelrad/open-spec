@@ -5,10 +5,6 @@ divNumb: 33
 divName: Utilities
 subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Utilities', 'Ductile-Iron', 'Utility', 'Pipe']
-navigation:
-  key: Ductile-Iron Utility Pipe
-  parent: Utilities
-  order: 519.0
 ---
 
 1. SECTION 15055
@@ -115,7 +111,9 @@ General
 1. 2.10 WARNING/IDENTIFICATION TAPE
    1. Warning/Identification tape materials shall be in accordance with Section 15000 and selected from the Approved Materials List.
 1. 
-Execution
+
+## Execution
+
 1. 3.01 GENERAL
    1. At all times when the work of installing pipe is not in progress, including worker break times, ends of the pipe shall be closed with tight-fitting, vermin-proof and child-proof caps or plugs. Do not permit trench water to enter the pipe. Do not place tools, clothing, or other materials in the pipe. The Contractor shall maintain the interior of the pipe in a sanitary condition free from foreign materials at all times.
    1. Proper care shall be used to prevent damage in handling, moving and placing the pipe. All pipe, fittings, valves, and other pipeline materials shall be lowered into the trench in a manner that prevents damage. The pipe shall not be dropped, dragged or handled in a manner that will cause bruises, cracks, or other damage. Ductile-iron pipe that has been gouged, scratched, or otherwise damaged shall be subject to rejection at the discretion of the City Engineer.

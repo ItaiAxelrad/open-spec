@@ -5,10 +5,6 @@ divNumb: 21
 divName: Fire Suppression
 subgroup: Facility Services
 tags: ['Facility', 'Services', 'Fire', 'Suppression', 'Wet-Pipe', 'Sprinkler', 'Systems']
-navigation:
-  key: Wet-Pipe Sprinkler Systems
-  parent: Fire Suppression
-  order: 1313.0
 ---
 
 1. SECTION 21 13 13

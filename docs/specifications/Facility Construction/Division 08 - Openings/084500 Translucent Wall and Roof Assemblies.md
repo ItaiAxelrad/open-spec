@@ -5,10 +5,6 @@ divNumb: 8
 divName: Openings
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Openings', 'Translucent', 'Wall', 'Roof', 'Assemblies']
-navigation:
-  key: Translucent Wall and Roof Assemblies
-  parent: Openings
-  order: 4500.0
 ---
 
 1. SECTION 08 45 00
@@ -143,7 +139,9 @@ General
 5. ALUMINUM FINISHES
    1. Clear Anodic Finish:
       1. AAMA 611, AA-M12C22A41, Class I, 0.018 mm or thicker. 
-Execution
+
+## Execution
+
 1. INSTALLATION A. General:
       1. Comply with manufacturer's written instructions.
 2. Do not install damaged components.

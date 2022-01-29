@@ -5,10 +5,6 @@ divNumb: 8
 divName: Openings
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Openings', 'Access', 'Doors', 'Panels']
-navigation:
-  key: Access Doors and Panels
-  parent: Openings
-  order: 31003.0
 ---
 
 1. SECTION 08 31 00

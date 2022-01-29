@@ -5,10 +5,6 @@ divNumb: 1
 divName: General Requirements
 subgroup: General Requirements
 tags: ['General', 'Requirements', 'Summary', 'Work', 'Denver']
-navigation:
-  key: Summary of Work - Denver
-  parent: General Requirements
-  order: 1100.0
 ---
 
 

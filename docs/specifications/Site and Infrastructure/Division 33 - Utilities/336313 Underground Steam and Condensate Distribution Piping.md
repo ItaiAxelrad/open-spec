@@ -5,10 +5,6 @@ divNumb: 33
 divName: Utilities
 subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Utilities', 'Underground', 'Steam', 'Condensate', 'Distribution', 'Piping']
-navigation:
-  key: Underground Steam and Condensate Distribution Piping
-  parent: Utilities
-  order: 6313.0
 ---
 
 1. SECTION 33 65 00

@@ -5,10 +5,6 @@ divNumb: 0
 divName: Procurement and Contracting Requirements
 subgroup: Procurement and Contracting Requirements
 tags: ['Procurement', 'Contracting', 'Requirements', 'Immigration', 'Compliance']
-navigation:
-  key: Immigration Compliance
-  parent: Procurement and Contracting Requirements
-  order: 4546.0
 ---
 
    1. Section 00 45 46

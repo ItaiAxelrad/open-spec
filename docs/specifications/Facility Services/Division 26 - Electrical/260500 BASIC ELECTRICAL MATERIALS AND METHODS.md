@@ -5,10 +5,6 @@ divNumb: 26
 divName: Electrical
 subgroup: Facility Services
 tags: ['Facility', 'Services', 'Electrical', 'BASIC', 'ELECTRICAL', 'MATERIALS', 'AND', 'METHODS']
-navigation:
-  key: BASIC ELECTRICAL MATERIALS AND METHODS
-  parent: Electrical
-  order: 500.0
 ---
 
 1. SECTION 26 05 00

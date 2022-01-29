@@ -5,10 +5,6 @@ divNumb: 1
 divName: General Requirements
 subgroup: General Requirements
 tags: ['General', 'Requirements', 'Price', 'Payment', 'Procedures']
-navigation:
-  key: Price and Payment Procedures
-  parent: General Requirements
-  order: 20002.0
 ---
 
    1. Section 01 20 00
@@ -90,6 +86,8 @@ General
 	3. Payment will be made on a lump sum price basis relative to percent complete for each bid alternate.
    ## Product (Not Used)
 
-Execution
+
+## Execution
+
  (Not Used) 
 

@@ -5,10 +5,6 @@ divNumb: 26
 divName: Electrical
 subgroup: Facility Services
 tags: ['Facility', 'Services', 'Electrical', 'WIRING', 'DEVICES']
-navigation:
-  key: WIRING DEVICES
-  parent: Electrical
-  order: 2726.0
 ---
 
 1. SECTION 26 27 26
@@ -157,7 +153,9 @@ General
       1. Blue.
 4. Isolated-Ground Receptacles:
       1. As specified above, with orange triangle on face. 
-Execution
+
+## Execution
+
 01. INSTALLATION
    1. Install devices and assemblies level, plumb, and square with building lines.
    1. Install wall dimmers to achieve indicated rating after derating for ganging according to manufacturer's written instructions.

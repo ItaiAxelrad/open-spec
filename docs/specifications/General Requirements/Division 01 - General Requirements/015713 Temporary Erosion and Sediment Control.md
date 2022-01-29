@@ -5,10 +5,6 @@ divNumb: 1
 divName: General Requirements
 subgroup: General Requirements
 tags: ['General', 'Requirements', 'Temporary', 'Erosion', 'Sediment', 'Control']
-navigation:
-  key: Temporary Erosion and Sediment Control
-  parent: General Requirements
-  order: 5713.0
 ---
 
    1. Section 01 57 13

@@ -5,10 +5,6 @@ divNumb: 13
 divName: Special Construction
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Special', 'Building', 'Modules']
-navigation:
-  key: Building Modules
-  parent: Special Construction
-  order: 4200.0
 ---
 
 

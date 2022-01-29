@@ -1,8 +1,6 @@
 ---
 title: Project Directory
 eleventyNavigation:
-  key: Project Directory
-  order: 3
 date: 2021-04-10
 ---
 

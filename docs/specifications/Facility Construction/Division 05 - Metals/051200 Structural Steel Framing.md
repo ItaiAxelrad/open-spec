@@ -5,10 +5,6 @@ divNumb: 5
 divName: Metals
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Metals', 'Structural', 'Steel', 'Framing']
-navigation:
-  key: Structural Steel Framing
-  parent: Metals
-  order: 1200.0
 ---
 
 

@@ -5,10 +5,6 @@ divNumb: 40
 divName: Process Interconnections
 subgroup: Process Equipment
 tags: ['Process', 'Equipment', 'Interconnections', 'High-Density', 'Polyethylene', 'Pipe']
-navigation:
-  key: High-Density Polyethylene Process Pipe
-  parent: Process Interconnections
-  order: 533.0
 ---
 
 1. SECTION 40 05 33

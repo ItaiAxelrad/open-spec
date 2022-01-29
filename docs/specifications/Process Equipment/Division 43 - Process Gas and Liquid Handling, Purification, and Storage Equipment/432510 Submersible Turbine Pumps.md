@@ -5,10 +5,6 @@ divNumb: 43
 divName: Process Gas and Liquid Handling, Purification, and Storage Equipment
 subgroup: Process Equipment
 tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Storage', 'Submersible', 'Turbine', 'Pumps']
-navigation:
-  key: Submersible Turbine Pumps
-  parent: Process Gas and Liquid Handling, Purification, and Storage Equipment
-  order: 2510.0
 ---
 
    1. Section 43 25 10
@@ -103,7 +99,9 @@ General
 	2. The inlet area shall have a net open area of at least four times the eye of the impeller and shall be protected with a 304 stainless steel screen. 
 	3. The openings on the screen shall not be more than 75% of the minimum opening of the water passage through the bowl or the impeller.
 
-Execution
+
+## Execution
+
 1. 3.1 Installation
    1. Comply with Section 11 01 00.
 2. Install products in accordance with manufacturer's instructions.

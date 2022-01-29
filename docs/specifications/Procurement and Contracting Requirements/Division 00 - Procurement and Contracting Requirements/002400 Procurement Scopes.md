@@ -5,10 +5,6 @@ divNumb: 0
 divName: Procurement and Contracting Requirements
 subgroup: Procurement and Contracting Requirements
 tags: ['Procurement', 'Contracting', 'Requirements', 'Scopes']
-navigation:
-  key: Procurement Scopes
-  parent: Procurement and Contracting Requirements
-  order: 2400.0
 ---
 
    1. SECTION 00 24 00

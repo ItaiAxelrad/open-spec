@@ -5,10 +5,6 @@ divNumb: 9
 divName: Finishes
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Finishes', 'Wall', 'Coverings']
-navigation:
-  key: Wall Coverings
-  parent: Finishes
-  order: 7200.0
 ---
 
 

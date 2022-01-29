@@ -5,10 +5,6 @@ divNumb: 0
 divName: Procurement and Contracting Requirements
 subgroup: Procurement and Contracting Requirements
 tags: ['Procurement', 'Contracting', 'Requirements', 'Seals', 'Page']
-navigation:
-  key: Seals Page
-  parent: Procurement and Contracting Requirements
-  order: 107.0
 ---
 
    1. Section 00 01 07

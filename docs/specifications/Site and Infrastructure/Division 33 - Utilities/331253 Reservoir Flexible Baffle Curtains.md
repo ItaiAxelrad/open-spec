@@ -5,10 +5,6 @@ divNumb: 33
 divName: Utilities
 subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Utilities', 'Reservoir', 'Flexible', 'Baffle', 'Curtains']
-navigation:
-  key: Reservoir Flexible Baffle Curtains
-  parent: Utilities
-  order: 1253.0
 ---
 
    1. SECTION 33 12 53 
@@ -150,7 +146,9 @@ General
 3. Floor and Wall connection shall be type 316 stainless steel angle, minimum ¼-inch thickness by 2 inches wide by 2 inches wide.
 4. Suspension and Tension for the top and open ends of the curtain(s) shall be type 316 stainless steel 3/16” diameter cable with type 316 stainless steel 3/16” cable clamps and thimbles.
 
-Execution
+
+## Execution
+
 01. COORDINATION
    1. The baffle manufacturer shall coordinate with the Engineer and the tank manufacturer concerning loading on the reservoir, attachment details, and the sequence of construction. Installation details are shown on the plans are provided as a guide for the contractor and baffle manufacturer.
 2. The tank contractor shall provide thickened areas beneath the membrane slab as required for securing the base of the baffle walls.

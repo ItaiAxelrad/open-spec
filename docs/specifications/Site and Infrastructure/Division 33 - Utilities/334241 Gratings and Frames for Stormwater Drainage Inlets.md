@@ -5,10 +5,6 @@ divNumb: 33
 divName: Utilities
 subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Utilities', 'Gratings', 'Frames', 'for', 'Stormwater', 'Drainage', 'Inlets']
-navigation:
-  key: Gratings and Frames for Stormwater Drainage Inlets
-  parent: Utilities
-  order: 4241.0
 ---
 
    1. SECTON 02720

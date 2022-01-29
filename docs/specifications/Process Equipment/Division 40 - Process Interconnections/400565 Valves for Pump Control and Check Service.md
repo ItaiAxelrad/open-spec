@@ -5,10 +5,6 @@ divNumb: 40
 divName: Process Interconnections
 subgroup: Process Equipment
 tags: ['Process', 'Equipment', 'Interconnections', 'Valves', 'for', 'Pump', 'Control', 'Check', 'Service']
-navigation:
-  key: Valves for Pump Control and Check Service
-  parent: Process Interconnections
-  order: 565.0
 ---
 
    1. section 40 05 65
@@ -60,7 +56,9 @@ General
 	1. 175 psi working pressure (3-12 IN).
 	2. Furnish with outside weight and lever or lever and spring for 3 IN and larger valves.
 
-Execution
+
+## Execution
+
 1. 3.1 Installation
    1. Install in accordance with manufacturer’s installation instructions. 
 

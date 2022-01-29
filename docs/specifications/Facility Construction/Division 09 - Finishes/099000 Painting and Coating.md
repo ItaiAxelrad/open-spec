@@ -5,10 +5,6 @@ divNumb: 9
 divName: Finishes
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Finishes', 'Painting', 'Coating']
-navigation:
-  key: Painting and Coating
-  parent: Finishes
-  order: 9000.0
 ---
 
    1. Section 09 90 00
@@ -223,7 +219,9 @@ General
 			1. F1 = 1 coat, 3 mils, 9200 System High Build Epoxy
 			2. F2 = 1 coat, 3 mils, 9200 System High Build Epoxy
 
-Execution
+
+## Execution
+
 1. 3.1 Items to Be Painted
 
 General

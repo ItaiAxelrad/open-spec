@@ -5,10 +5,6 @@ divNumb: 46
 divName: Water and Wastewater Equipment
 subgroup: Process Equipment
 tags: ['Process', 'Equipment', 'Water', 'Wastewater', 'Grit', 'Removal', 'Handling']
-navigation:
-  key: Grit Removal and Handling Equipment
-  parent: Water and Wastewater Equipment
-  order: 2300.0
 ---
 
 1. 46 23 00 Grit Removal and Handling Equipment

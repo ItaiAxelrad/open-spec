@@ -1,8 +1,6 @@
 ---
 title: Submittals
 eleventyNavigation:
-  key: Submittals
-  order: 18
 date: 2021-04-10
 ---
 

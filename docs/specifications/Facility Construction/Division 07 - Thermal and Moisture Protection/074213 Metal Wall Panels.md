@@ -5,10 +5,6 @@ divNumb: 7
 divName: Thermal and Moisture Protection
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Metal', 'Wall', 'Panels']
-navigation:
-  key: Metal Wall Panels
-  parent: Thermal and Moisture Protection
-  order: 4213.0
 ---
 
    1. SECTION 07 42 13

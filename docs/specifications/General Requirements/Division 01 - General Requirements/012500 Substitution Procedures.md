@@ -5,10 +5,6 @@ divNumb: 1
 divName: General Requirements
 subgroup: General Requirements
 tags: ['General', 'Requirements', 'Substitution', 'Procedures']
-navigation:
-  key: Substitution Procedures
-  parent: General Requirements
-  order: 2500.0
 ---
 
    1. Section 01 25 00
@@ -67,7 +63,9 @@ General
 	4. Engineer not responsible for loss or damage to samples.
    ## Product (not used)
 
-Execution
+
+## Execution
+
 1. 3.1 Approval or Rejection
    1. Written approval or rejection of substitution given by the Engineer.
 2. Engineer reserves the right to require proposed product to comply with color and pattern of specified product if necessary to secure design intent.

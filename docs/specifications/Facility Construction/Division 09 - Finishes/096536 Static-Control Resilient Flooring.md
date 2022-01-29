@@ -5,10 +5,6 @@ divNumb: 9
 divName: Finishes
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Finishes', 'Static-Control', 'Resilient', 'Flooring']
-navigation:
-  key: Static-Control Resilient Flooring
-  parent: Finishes
-  order: 6536.0
 ---
 
 

@@ -1,8 +1,6 @@
 ---
 title: 'Tool Palette'
 eleventyNavigation:
-  key: Tool Palette
-  order: 4
 date: 2021-04-10
 ---
 To activate the tool palette, press `CTRL + 3`. This will open the tool palette dialogue which can be docked on the edge of the screen. The following palettes are available for specific features:

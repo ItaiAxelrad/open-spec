@@ -5,10 +5,6 @@ divNumb: 1
 divName: General Requirements
 subgroup: General Requirements
 tags: ['General', 'Requirements', 'Project', 'Management', 'Coordination']
-navigation:
-  key: Project Management and Coordination
-  parent: General Requirements
-  order: 31002.0
 ---
 
 1. SECTION 013100
@@ -71,7 +67,9 @@ General
    1. Construction Manager shall record minutes and distribute copies within five days after meeting to participants, with copies to CONTRACTOR, OWNER participants, and those affected by decisions made.
    ## Product – NOT USED
 
-Execution
+
+## Execution
+
    1. EXAMINATION
    1. Verify that existing site conditions and substrate surfaces are acceptable for subsequent Work. Beginning new Work means acceptance of existing conditions.
 2. Verify that existing substrate is capable of structural attachment of new Work being applied or attached.

@@ -5,10 +5,6 @@ divNumb: 6
 divName: Wood, Plastics, and Composites
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Wood', 'Plastics', 'Composites', 'Rough', 'Carpentry']
-navigation:
-  key: Rough Carpentry
-  parent: Wood, Plastics, and Composites
-  order: 1000.0
 ---
 
          1. Section 06 10 00
@@ -92,7 +88,9 @@ General
 		3. Pressure-treat material in accordance with AWPA U1.
 	3. Fasteners and Anchors see Section 05 50 00 on Metal Fabrications.
 
-Execution
+
+## Execution
+
 1. 3.1 Preparation
    1. Verify measurements, dimensions, and shop drawing details before proceeding.
 2. Coordinate location of studs, nailers, blocking, grounds and similar supports for attached work.

@@ -5,10 +5,6 @@ divNumb: 46
 divName: Water and Wastewater Equipment
 subgroup: Process Equipment
 tags: ['Process', 'Equipment', 'Water', 'Wastewater', 'Screening']
-navigation:
-  key: Screening Equipment
-  parent: Water and Wastewater Equipment
-  order: 2100.0
 ---
 
 1. 46 21 00 Screening Equipment

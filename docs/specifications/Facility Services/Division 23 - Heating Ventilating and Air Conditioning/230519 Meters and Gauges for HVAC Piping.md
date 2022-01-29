@@ -5,10 +5,6 @@ divNumb: 23
 divName: Heating Ventilating and Air Conditioning
 subgroup: Facility Services
 tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 'Meters', 'Gauges', 'for', 'HVAC', 'Piping']
-navigation:
-  key: Meters and Gauges for HVAC Piping
-  parent: Heating Ventilating and Air Conditioning
-  order: 519.0
 ---
 
 

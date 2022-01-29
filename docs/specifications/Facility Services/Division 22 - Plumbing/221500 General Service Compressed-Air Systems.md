@@ -5,10 +5,6 @@ divNumb: 22
 divName: Plumbing
 subgroup: Facility Services
 tags: ['Facility', 'Services', 'Plumbing', 'General', 'Service', 'Compressed-Air', 'Systems']
-navigation:
-  key: General Service Compressed-Air Systems
-  parent: Plumbing
-  order: 1500.0
 ---
 
    1. Section 22 15 00
@@ -109,7 +105,9 @@ General
    1. Filter Element:
 	1. Provide a minimum of two (2) filter replacement elements for each filter.
 
-Execution
+
+## Execution
+
 1. 3.1 Installation
    1. Comply with Section 11 01 00.
 2. Install products in accordance with manufacturer's instructions.

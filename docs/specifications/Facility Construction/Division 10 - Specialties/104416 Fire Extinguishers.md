@@ -5,10 +5,6 @@ divNumb: 10
 divName: Specialties
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Specialties', 'Fire', 'Extinguishers']
-navigation:
-  key: Fire Extinguishers
-  parent: Specialties
-  order: 4416.0
 ---
 
    1. SECTION 104416 - FIRE EXTINGUISHERS 
@@ -57,7 +53,9 @@ Fire Extinguishers."
 1. Identify bracket-mounted fire extinguishers with the words "FIRE EXTINGUISHER" in red letter decals applied to mounting surface.
       1. Orientation:
          1. Vertical. 
-Execution
+
+## Execution
+
 1. INSTALLATION
    1. Examine fire extinguishers for proper charging and tagging.
 1. Remove and replace damaged, defective, or undercharged fire extinguishers.

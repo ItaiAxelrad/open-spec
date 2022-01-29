@@ -5,10 +5,6 @@ divNumb: 46
 divName: Water and Wastewater Equipment
 subgroup: Process Equipment
 tags: ['Process', 'Equipment', 'Water', 'Wastewater', 'Cleaning', 'Disinfecting']
-navigation:
-  key: Cleaning and Disinfecting
-  parent: Water and Wastewater Equipment
-  order: 800.0
 ---
 
    1. Sec**t**ion 46 08 00
@@ -53,7 +49,9 @@ General
 		3. Sodium Hypochlorite (5.25 percent Cl): 1 gallon per 4.25 gallons water. 
 			1. If sodium hypochlorite procedure is used, dilute the liquid with water to obtain a 1 percent solution.
 
-Execution
+
+## Execution
+
 
 ## General
 

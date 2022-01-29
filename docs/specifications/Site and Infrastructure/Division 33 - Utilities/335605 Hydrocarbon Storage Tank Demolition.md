@@ -5,10 +5,6 @@ divNumb: 33
 divName: Utilities
 subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Utilities', 'Hydrocarbon', 'Storage', 'Tank', 'Demolition']
-navigation:
-  key: Hydrocarbon Storage Tank Demolition
-  parent: Utilities
-  order: 5605.0
 ---
 
 1. SECTION 33 56 10** 

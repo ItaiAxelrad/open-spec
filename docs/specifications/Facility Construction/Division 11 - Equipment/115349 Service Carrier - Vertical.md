@@ -5,10 +5,6 @@ divNumb: 11
 divName: Equipment
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Equipment', 'Service', 'Carrier', 'Vertical']
-navigation:
-  key: Service Carrier - Vertical
-  parent: Equipment
-  order: 5349.0
 ---
 
 

@@ -5,10 +5,6 @@ divNumb: 31
 divName: Earthwork
 subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Earthwork', 'Earth', 'Moving']
-navigation:
-  key: Earth Moving
-  parent: Earthwork
-  order: 20002.0
 ---
 
 

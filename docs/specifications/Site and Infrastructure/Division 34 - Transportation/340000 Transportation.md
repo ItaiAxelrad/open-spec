@@ -5,10 +5,6 @@ divNumb: 34
 divName: Transportation
 subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Transportation']
-navigation:
-  key: Transportation
-  parent: Site and Infrastructure
-  order: 34
 ---
 
    1. Division 34

@@ -5,10 +5,6 @@ divNumb: 26
 divName: Electrical
 subgroup: Facility Services
 tags: ['Facility', 'Services', 'Electrical', 'Medium', 'Voltage', 'Transformers']
-navigation:
-  key: Medium Voltage Transformers
-  parent: Electrical
-  order: 1200.0
 ---
 
 1. Copyright 2004 and 2005 by The American Institute of Architects (AIA)

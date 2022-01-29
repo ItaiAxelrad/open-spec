@@ -5,10 +5,6 @@ divNumb: 1
 divName: General Requirements
 subgroup: General Requirements
 tags: ['General', 'Requirements', 'Forest', 'Service']
-navigation:
-  key: Forest Service Requirements
-  parent: General Requirements
-  order: 1450.0
 ---
 
 
@@ -33,7 +29,9 @@ General
 1. ## Product
     1. Not Used
 1. 
-Execution
+
+## Execution
+
 
  **3.01 PREVENTION AND CONTROL OF FOREST FIRES
    1. For the purpose of fighting forest fires on or in the vicinity of the project which are not caused by the Contractor or the Contractor's employees and when requested by the Contracting Officer, place the Contractor's employees and equipment temporarily at the disposal of the Forest Service.

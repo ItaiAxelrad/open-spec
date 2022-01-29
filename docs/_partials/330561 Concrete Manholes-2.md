@@ -5,10 +5,6 @@ divNumb: 33
 divName: Utilities
 subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Utilities', 'Concrete', 'Manholes']
-navigation:
-  key: Concrete Manholes
-  parent: Utilities
-  order: 5612.0
 ---
 
    1. section 33 05 00
@@ -55,7 +51,9 @@ General
 	11. Overflow float:
 		1. Manhole shall include overflow floatation device.
 
-Execution
+
+## Execution
+
 1. 3.1 General
    1. Manholes shall be installed level and plumb. 
 1. 3.2 Installation

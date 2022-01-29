@@ -5,10 +5,6 @@ divNumb: 5
 divName: Metals
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Metals', 'Metal', 'Fabrication']
-navigation:
-  key: Metal Fabrication
-  parent: Metals
-  order: 5000.0
 ---
 
    1. Section 05 50 00
@@ -151,7 +147,9 @@ General
 		2. Lapeyre Stair.
 		3. Or approved equivalent.
 
-Execution
+
+## Execution
+
 1. 3.1 Installation
    1. Coordinate start and installation of crossover or landing platforms with all related and adjacent work. Installation shall not start until the construction has progressed to the point that remaining construction operations will not damage platform installation.
 2. Verify that dimensions are correct before installation.

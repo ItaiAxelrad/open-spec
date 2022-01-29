@@ -5,10 +5,6 @@ divNumb: 31
 divName: Earthwork
 subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Earthwork', 'Finish', 'Grading']
-navigation:
-  key: Finish Grading
-  parent: Earthwork
-  order: 2219.0
 ---
 
 1. SECTION 31 22 19 – FINISH GRADING
@@ -63,7 +59,9 @@ General
 1. MATERIALS
    1. Refer to Section 31 15 00 – Site Clearing and Earthwork for description of fill and topsoil materials.
 
-Execution
+
+## Execution
+
 1. FIELD QUALITY CONTROL
    1. Preparation:
 2. Upon completion of grading and prior to placement of topsoil, Contract shall thoroughly remove all construction debris, weeds, foreign plants, rocks 3/4" diameter or larger, and other non-soil materials.

@@ -5,10 +5,6 @@ divNumb: 40
 divName: Process Interconnections
 subgroup: Process Equipment
 tags: ['Process', 'Equipment', 'Interconnections', 'Piping', 'Insulation']
-navigation:
-  key: Process Piping Insulation
-  parent: Process Interconnections
-  order: 4213.0
 ---
 
    1. SECTION 33 07 00

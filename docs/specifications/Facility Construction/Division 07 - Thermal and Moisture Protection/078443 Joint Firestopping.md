@@ -5,10 +5,6 @@ divNumb: 7
 divName: Thermal and Moisture Protection
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Joint', 'Firestopping']
-navigation:
-  key: Joint Firestopping
-  parent: Thermal and Moisture Protection
-  order: 8443.0
 ---
 
 

@@ -5,10 +5,6 @@ divNumb: 46
 divName: Water and Wastewater Equipment
 subgroup: Process Equipment
 tags: ['Process', 'Equipment', 'Water', 'Wastewater', 'Packaged', 'Treatment']
-navigation:
-  key: Packaged Wastewater Treatment Equipment
-  parent: Water and Wastewater Equipment
-  order: 753.0
 ---
 
 1. SECTION 46 07 53
@@ -284,7 +280,9 @@ Section.
    1. Certificate of Compliance:
       1. When fabricator is approved by owners having jurisdiction, submit certificate of compliance indicating Work performed at fabricator's facility conforms to Contract Documents.
 1. Specified shop tests are not required for Work performed by approved fabricator. PART 3 – 
-Execution
+
+## Execution
+
 1. EXAMINATION
    1. Section 017000 - Execution and Closeout Requirements:
       1. Requirements for installation examination.

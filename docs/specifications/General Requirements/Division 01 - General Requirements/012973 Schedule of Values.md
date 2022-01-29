@@ -5,10 +5,6 @@ divNumb: 1
 divName: General Requirements
 subgroup: General Requirements
 tags: ['General', 'Requirements', 'Schedule', 'Values']
-navigation:
-  key: Schedule of Values
-  parent: General Requirements
-  order: 2973.0
 ---
 
    1. Section 01 29 00
@@ -63,7 +59,9 @@ General
 10. The final Schedule of Values shall be agreed upon prior to first Application for Payment.
    ## Product (not applicable to this specfication section)
 
-Execution
+
+## Execution
+
  (not applicable to this specification section)
 
 [*this page intentionally left blank]*

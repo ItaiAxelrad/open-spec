@@ -5,10 +5,6 @@ divNumb: 31
 divName: Earthwork
 subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Earthwork', 'Drilled', 'Concrete', 'Piers', 'Shafts']
-navigation:
-  key: Drilled Concrete Piers and Shafts
-  parent: Earthwork
-  order: 6329.0
 ---
 
 

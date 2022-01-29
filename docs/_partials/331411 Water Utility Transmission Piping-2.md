@@ -5,10 +5,6 @@ divNumb: 33
 divName: Utilities
 subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Utilities', 'Water', 'Utility', 'Transmission', 'Piping']
-navigation:
-  key: Water Utility Transmission Piping
-  parent: Utilities
-  order: 14112.0
 ---
 
    1. section 33 14 11
@@ -56,7 +52,9 @@ General
 3. Valves and Appurtenances:
 	1. Gate valves (3-inches through 12-inches): AWWA C 509; non-rising stem, open left, with 2 inch operating nut, rated for 200 PSI working pressure. Waterous Series 2500 or Mueller A-2360 series. Bolts to be type 304 stainless steel A 193 grade B8 with C5A anti- seize on the threads. Tee bolts to be low alloy steel (cor-ten or equal).
 
-Execution
+
+## Execution
+
 1. 3.1 Preparation
    1. The location of all piping and other items shown on the Drawings or called for in the Specifications that are not definitely located by dimensions or elevations, is approximate only. The exact locations and dimensions necessary for proper installation must be determined at the project site. The Contractor and Engineer shall stake the locations of pipe and appurtenances prior to installation.
 	1. See MWW Standard for Water and Wastewater Line Crossings, if applicable. 

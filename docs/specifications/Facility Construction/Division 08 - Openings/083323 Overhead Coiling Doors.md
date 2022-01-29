@@ -5,10 +5,6 @@ divNumb: 8
 divName: Openings
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Openings', 'Overhead', 'Coiling', 'Doors']
-navigation:
-  key: Overhead Coiling Doors
-  parent: Openings
-  order: 3323.0
 ---
 
 

@@ -5,10 +5,6 @@ divNumb: 6
 divName: Wood, Plastics, and Composites
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Wood', 'Plastics', 'Composites', 'Plastic', 'Fabrications']
-navigation:
-  key: Plastic Fabrications
-  parent: Wood, Plastics, and Composites
-  order: 6000.0
 ---
 
          1. 

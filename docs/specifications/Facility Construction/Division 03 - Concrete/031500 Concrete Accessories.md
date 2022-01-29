@@ -5,10 +5,6 @@ divNumb: 3
 divName: Concrete
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Concrete', 'Accessories']
-navigation:
-  key: Concrete Accessories
-  parent: Concrete
-  order: 1500.0
 ---
 
 1. SECTION 031500

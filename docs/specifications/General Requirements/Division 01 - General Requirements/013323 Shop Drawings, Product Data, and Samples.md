@@ -5,10 +5,6 @@ divNumb: 1
 divName: General Requirements
 subgroup: General Requirements
 tags: ['General', 'Requirements', 'Shop', 'Drawings', 'Product', 'Data', 'Samples']
-navigation:
-  key: Shop Drawings, Product Data, and Samples
-  parent: General Requirements
-  order: 3323.0
 ---
 
 

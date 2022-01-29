@@ -5,10 +5,6 @@ divNumb: 26
 divName: Electrical
 subgroup: Facility Services
 tags: ['Facility', 'Services', 'Electrical', 'SHORT', 'CIRCUIT', '_', 'COORDINATION', 'STUDY']
-navigation:
-  key: SHORT CIRCUIT _ COORDINATION STUDY
-  parent: Electrical
-  order: 573.0
 ---
 
 1. SECTION 26 05 73
@@ -39,7 +35,9 @@ Software algorithms shall comply with requirements of standards and guides speci
       1. An organization experienced in the application of computer software used for studies, having performed successful studies of similar magnitude on electrical distribution systems using similar devices.
    1. Comply with IEEE 399 for general study procedures.
    1. Comply with IEEE 242 for short-circuit currents and coordination time intervals.
-Product
+
+## Product
+
 01. COMPUTER SOFTWARE DEVELOPERS
    1. Computer Software Developers:
       1. Subject to compliance with requirements, provide computer software programs developed by one of the following:

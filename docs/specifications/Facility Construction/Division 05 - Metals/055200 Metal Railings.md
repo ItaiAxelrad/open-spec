@@ -5,10 +5,6 @@ divNumb: 5
 divName: Metals
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Metals', 'Metal', 'Railings']
-navigation:
-  key: Metal Railings
-  parent: Metals
-  order: 5200.0
 ---
 
    1. Section 05 52 00
@@ -75,7 +71,9 @@ General
 1. 2.3 Galvanizing
    1. Ferrous metal railings and related items on the exterior of the building, or as otherwise indicated, shall be galvanized, after fabrication, by the hot-dip process in accordance with ASTM A123 and ASTM A385. Weight of zinc coating shall conform to requirements specified under "Weight of Coating" in ASTM A123.
 
-Execution
+
+## Execution
+
 
 * 
 	1. **Installation

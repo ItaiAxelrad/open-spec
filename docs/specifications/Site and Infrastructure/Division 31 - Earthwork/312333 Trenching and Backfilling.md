@@ -5,10 +5,6 @@ divNumb: 31
 divName: Earthwork
 subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Earthwork', 'Trenching', 'Backfilling']
-navigation:
-  key: Trenching and Backfilling
-  parent: Earthwork
-  order: 2333.0
 ---
 
    1. PART 1:

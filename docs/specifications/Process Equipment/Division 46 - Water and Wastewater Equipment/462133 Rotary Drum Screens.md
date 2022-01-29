@@ -5,10 +5,6 @@ divNumb: 46
 divName: Water and Wastewater Equipment
 subgroup: Process Equipment
 tags: ['Process', 'Equipment', 'Water', 'Wastewater', 'Rotary', 'Drum', 'Screens']
-navigation:
-  key: Rotary Drum Screens
-  parent: Water and Wastewater Equipment
-  order: 2133.0
 ---
 
 1. SECTION 46 21 33
@@ -110,7 +106,9 @@ instructions.
       1. If manufacturer is approved by authorities having jurisdiction, submit certificate of compliance indicating Work performed at manufacturer's facility conforms to Contract Documents.
 2. Specified shop tests are not required for Work performed by approved manufacturer.
 1. 
-Execution
+
+## Execution
+
 1. EXAMINATION
    1. Verify that designated areas, clearances, structural requirements, piping, utility connections, and electronic signals are ready to receive equipment.
 2. INSTALLATION

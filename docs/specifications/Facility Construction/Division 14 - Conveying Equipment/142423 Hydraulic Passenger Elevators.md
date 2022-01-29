@@ -5,10 +5,6 @@ divNumb: 14
 divName: Conveying Equipment
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Conveying', 'Equipment', 'Hydraulic', 'Passenger', 'Elevators']
-navigation:
-  key: Hydraulic Passenger Elevators
-  parent: Conveying Equipment
-  order: 2423.0
 ---
 
 

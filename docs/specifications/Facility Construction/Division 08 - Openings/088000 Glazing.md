@@ -5,10 +5,6 @@ divNumb: 8
 divName: Openings
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Openings', 'Glazing']
-navigation:
-  key: Glazing
-  parent: Openings
-  order: 8000.0
 ---
 
 

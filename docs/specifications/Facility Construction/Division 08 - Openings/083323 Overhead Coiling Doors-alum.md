@@ -5,10 +5,6 @@ divNumb: 8
 divName: Openings
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Openings', 'Overhead', 'Coiling', 'Doors-alum']
-navigation:
-  key: Overhead Coiling Doors-alum
-  parent: Openings
-  order: 3323.0
 ---
 
    1. section 08 33 00
@@ -126,7 +122,9 @@ General
 	1. **Maintenance Materials
 18. Provide 2 OZ of touch-up paint properly labeled for each different color of door.
 
-Execution
+
+## Execution
+
 1. 3.1 Installation
    1. Install products in accordance with manufacturer's instructions.
 2. Installation shall be done by manufacturer's authorized representative.

@@ -5,10 +5,6 @@ divNumb: 0
 divName: Procurement and Contracting Requirements
 subgroup: Procurement and Contracting Requirements
 tags: ['Procurement', 'Contracting', 'Requirements', 'Agreement', 'for', 'Preliminary', 'Services', 'Owner-DesignBuilder']
-navigation:
-  key: Agreement for Preliminary Services - Owner-DesignBuilder
-  parent: Procurement and Contracting Requirements
-  order: 5252.0
 ---
 
    1. TABLE OF CONTENTS

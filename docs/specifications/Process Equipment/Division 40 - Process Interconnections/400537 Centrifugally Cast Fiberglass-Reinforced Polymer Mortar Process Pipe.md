@@ -5,10 +5,6 @@ divNumb: 40
 divName: Process Interconnections
 subgroup: Process Equipment
 tags: ['Process', 'Equipment', 'Interconnections', 'Centrifugally', 'Cast', 'Fiberglass-Reinforced', 'Polymer', 'Mortar', 'Pipe']
-navigation:
-  key: Centrifugally Cast Fiberglass-Reinforced Polymer Mortar Process Pipe
-  parent: Process Interconnections
-  order: 537.0
 ---
 
    1. Section 40 05 37
@@ -39,7 +35,9 @@ Specification Sections:
 	1. **DELIVERY, STORAGE, AND HANDLING
    1. All piping materials shall be stored in accordance with manufacturer’s recommendations.
    1. Store rubber gaskets in a cool shelter, out of the sun and away from fuel oil and gasoline.
-Product
+
+## Product
+
 1. MANUFACTURERS
    1. Subject to compliance with requirements, manufacturers offering products that may be
 incorporated into the Work include the following:

@@ -5,10 +5,6 @@ divNumb: 31
 divName: Earthwork
 subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Earthwork', 'Dewatering', 'NREL']
-navigation:
-  key: Dewatering - NREL
-  parent: Earthwork
-  order: 2319.0
 ---
 
 1. SECTION 31 23 19

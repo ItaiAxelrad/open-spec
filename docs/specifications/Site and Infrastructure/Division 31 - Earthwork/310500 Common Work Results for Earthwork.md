@@ -5,10 +5,6 @@ divNumb: 31
 divName: Earthwork
 subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Earthwork', 'Common', 'Work', 'Results', 'for']
-navigation:
-  key: Common Work Results for Earthwork
-  parent: Earthwork
-  order: 500.0
 ---
 
    1. Section 31 05 00
@@ -52,7 +48,9 @@ General
 	4. Grab strength: 90 LBS minimum in either direction in accordance with ASTM D4632 requirements.
 	5. Mullen burst strength: 125 psi minimum in accordance with ASTM D3786 requirements.
 
-Execution
+
+## Execution
+
 1. Protection
    1. Protect existing surface and subsurface features on-site and adjacent to site as follows:
 	1. Provide barricades, coverings, or other types of protection necessary to prevent damage to existing items indicated to remain in place.

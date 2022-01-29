@@ -5,10 +5,6 @@ divNumb: 5
 divName: Metals
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Metals', 'Steel', 'Roof', 'Decking']
-navigation:
-  key: Steel Roof Decking
-  parent: Metals
-  order: 3123.0
 ---
 
    1. Section 05 31 23 
@@ -106,7 +102,9 @@ nested 2" end laps and nested side laps, and end laps staggered by at least one 
 other construction, of not less than 4" wide 0.045" minimum (18 gage) sheet steel. Form to
    1. provide tight-fitting closures at open ends of cells or flutes and sides of decking.
 
-Execution
+
+## Execution
+
 1. INSTALLATION
 
 General

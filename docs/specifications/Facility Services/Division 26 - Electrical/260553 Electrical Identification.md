@@ -5,10 +5,6 @@ divNumb: 26
 divName: Electrical
 subgroup: Facility Services
 tags: ['Facility', 'Services', 'Electrical', 'Identification']
-navigation:
-  key: Electrical Identification
-  parent: Electrical
-  order: 553.0
 ---
 
 1. SECTION 26 05 53

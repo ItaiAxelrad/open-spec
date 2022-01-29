@@ -5,10 +5,6 @@ divNumb: 31
 divName: Earthwork
 subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Earthwork', 'Earth', 'Moving', 'NREL', 'proj']
-navigation:
-  key: Earth Moving NREL proj
-  parent: Earthwork
-  order: 2000.0
 ---
 
 1. Copyright 2007 by The American Institute of Architects (AIA)

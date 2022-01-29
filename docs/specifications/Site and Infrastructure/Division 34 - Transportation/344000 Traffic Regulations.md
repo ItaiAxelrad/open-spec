@@ -5,10 +5,6 @@ divNumb: 34
 divName: Transportation
 subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Transportation', 'Traffic', 'Regulations']
-navigation:
-  key: Traffic Regulations
-  parent: Transportation
-  order: 4000.0
 ---
 
    1. Section 34 40 00

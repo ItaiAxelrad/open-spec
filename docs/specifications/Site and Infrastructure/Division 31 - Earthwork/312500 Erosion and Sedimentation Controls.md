@@ -5,10 +5,6 @@ divNumb: 31
 divName: Earthwork
 subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Earthwork', 'Erosion', 'Sedimentation', 'Controls']
-navigation:
-  key: Erosion and Sedimentation Controls
-  parent: Earthwork
-  order: 2500.0
 ---
 
 

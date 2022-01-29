@@ -1,8 +1,6 @@
 ---
 title: 'Design Drawings'
 eleventyNavigation:
-  key: Design Drawings
-  order: 9
 date: 2021-04-10
 ---
 

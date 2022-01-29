@@ -5,10 +5,6 @@ divNumb: 43
 divName: Process Gas and Liquid Handling, Purification, and Storage Equipment
 subgroup: Process Equipment
 tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Storage', 'Direct', 'Drive', 'Single', 'Stage', 'Centrifugal', 'Blowers']
-navigation:
-  key: Direct Drive Single Stage Centrifugal Blowers
-  parent: Process Gas and Liquid Handling, Purification, and Storage Equipment
-  order: 1111.0
 ---
 
    1. 43 11 11 Direct Drive Single Stage Centrifugal Blowers

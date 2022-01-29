@@ -5,10 +5,6 @@ divNumb: 6
 divName: Wood, Plastics, and Composites
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Wood', 'Plastics', 'Composites', 'Fiberglass', 'Grating', 'Access', 'Ladder']
-navigation:
-  key: Fiberglass Grating and Access Ladder
-  parent: Wood, Plastics, and Composites
-  order: 7410.0
 ---
 
       1. SECTION 06 61 00
@@ -23,7 +19,9 @@ General
 2. Shop drawings.
 3. Manufacturer's literature.
 4. Manufacturer's certification.
-Product
+
+## Product
+
 
 * 
 	1. MATERIALS

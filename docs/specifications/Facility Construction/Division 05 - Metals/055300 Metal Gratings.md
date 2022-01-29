@@ -5,10 +5,6 @@ divNumb: 5
 divName: Metals
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Metals', 'Metal', 'Gratings']
-navigation:
-  key: Metal Gratings
-  parent: Metals
-  order: 5300.0
 ---
 
    1. SECTION 05 53 00

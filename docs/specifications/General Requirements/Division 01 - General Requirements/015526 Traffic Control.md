@@ -5,10 +5,6 @@ divNumb: 1
 divName: General Requirements
 subgroup: General Requirements
 tags: ['General', 'Requirements', 'Traffic', 'Control']
-navigation:
-  key: Traffic Control
-  parent: General Requirements
-  order: 5526.0
 ---
 
 1. SECTION 01570

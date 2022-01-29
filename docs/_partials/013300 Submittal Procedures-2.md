@@ -5,10 +5,6 @@ divNumb: 1
 divName: General Requirements
 subgroup: General Requirements
 tags: ['General', 'Requirements', 'Submittal', 'Procedures']
-navigation:
-  key: Submittal Procedures
-  parent: General Requirements
-  order: 33002.0
 ---
 
    1. Section 01 33 00

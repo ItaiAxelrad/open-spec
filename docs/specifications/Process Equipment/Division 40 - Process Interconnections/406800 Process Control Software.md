@@ -5,10 +5,6 @@ divNumb: 40
 divName: Process Interconnections
 subgroup: Process Equipment
 tags: ['Process', 'Equipment', 'Interconnections', 'Control', 'Software']
-navigation:
-  key: Process Control Software
-  parent: Process Interconnections
-  order: 6800.0
 ---
 
    1. Section 40 68 00
@@ -123,7 +119,9 @@ General
 	5. Sensitivity: Controls shall respond to setpoint deviations and measured variable deviations within 1.0 percent of full scale.
 	6. Performance: All instruments and control devices shall perform in accordance with manufacturer's specifications.
 
-Execution
+
+## Execution
+
 1. 3.1 Installation
    1. Wherever feasible, use bottom entry for all conduit entry to instruments and junction boxes.
 2. Install electrical components per the requirements of the Electrical design.

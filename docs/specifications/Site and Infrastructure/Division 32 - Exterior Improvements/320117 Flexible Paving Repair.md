@@ -5,10 +5,6 @@ divNumb: 32
 divName: Exterior Improvements
 subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Flexible', 'Paving', 'Repair']
-navigation:
-  key: Flexible Paving Repair
-  parent: Exterior Improvements
-  order: 117.0
 ---
 
 1. SECTION 02578
@@ -33,7 +29,9 @@ navigation:
 1. 2.05 TACK COAT
    1. Tack coat shall conform to Section 302-5.4 of the Standard Specifications for Public Works Construction.
 1. 
-Execution
+
+## Execution
+
 1. 3.01 PAVEMENT REMOVAL
    1. Asphalt Concrete Pavement Cutting Requirements:
       1. Asphalt concrete pavement shall initially be cut with a pavement cutter or other equipment at the limits of the excavation before the pavement is removed. After backfilling and compacting the excavation, asphalt concrete pavement shall be saw cut at a point not less than 9-inches outside the limits of the excavation or the previous pavement cut, whichever is greater, and the additional pavement removed. If the cut is within 3-feet of an existing joint or curb and gutter, the asphalt concrete pavement shall be replaced to the joint or curb and gutter.

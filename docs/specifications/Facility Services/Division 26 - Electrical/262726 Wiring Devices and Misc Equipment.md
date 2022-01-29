@@ -5,10 +5,6 @@ divNumb: 26
 divName: Electrical
 subgroup: Facility Services
 tags: ['Facility', 'Services', 'Electrical', 'Wiring', 'Devices', 'Misc', 'Equipment']
-navigation:
-  key: Wiring Devices and Misc Equipment
-  parent: Electrical
-  order: 2726.0
 ---
 
 

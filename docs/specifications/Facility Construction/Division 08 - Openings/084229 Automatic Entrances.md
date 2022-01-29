@@ -5,10 +5,6 @@ divNumb: 8
 divName: Openings
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Openings', 'Automatic', 'Entrances']
-navigation:
-  key: Automatic Entrances
-  parent: Openings
-  order: 4229.0
 ---
 
    1. SECTION 084229 - AUTOMATIC ENTRANCES 

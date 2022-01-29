@@ -5,10 +5,6 @@ divNumb: 46
 divName: Water and Wastewater Equipment
 subgroup: Process Equipment
 tags: ['Process', 'Equipment', 'Water', 'Wastewater', 'Inline', 'Baffled', 'Grit', 'Removal']
-navigation:
-  key: Inline Baffled Grit Removal Equipment
-  parent: Water and Wastewater Equipment
-  order: 2343.0
 ---
 
    1. 46 23 43 Inline Baffled Grit Removal Equipment

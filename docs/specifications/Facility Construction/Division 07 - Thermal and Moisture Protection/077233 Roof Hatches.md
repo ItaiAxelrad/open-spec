@@ -5,10 +5,6 @@ divNumb: 7
 divName: Thermal and Moisture Protection
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Roof', 'Hatches']
-navigation:
-  key: Roof Hatches
-  parent: Thermal and Moisture Protection
-  order: 7233.0
 ---
 
 1. SECTION 07 72 33
@@ -103,7 +99,9 @@ in 1.09.
 	1. **WARRANTY
    1. **Milcor™** warrants all goods sold to be free from defects in workmanship, but limits liability to five years from date of shipment and expressly to the replacement of goods not complying with this warranty; or, at our election, a credit to original purchaser for the original purchase price paid less 1/60th of the price for each month elapsed from the original invoice date to the date of claim against this warranty.
    1. Electric motors, special finishes and any other optional special components required shall be warranted separately by the manufacturers of those products.
-Product
+
+## Product
+
 1. 2.01 MANUFACTURER
    1. A Provide **Milcor™** Roof Access Hatches as manufactured by:
          1. Milcor™** Company

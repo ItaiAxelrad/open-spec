@@ -5,10 +5,6 @@ divNumb: 1
 divName: General Requirements
 subgroup: General Requirements
 tags: ['General', 'Requirements', 'Startup', 'Procedures']
-navigation:
-  key: Startup Procedures
-  parent: General Requirements
-  order: 7516.0
 ---
 
 

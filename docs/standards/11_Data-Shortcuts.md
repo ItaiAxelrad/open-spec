@@ -1,8 +1,6 @@
 ---
 title: 'Data Shortcuts'
 eleventyNavigation:
-  key: Data Shortcuts
-  order: 11
 date: 2021-04-10
 ---
 

@@ -5,10 +5,6 @@ divNumb: 46
 divName: Water and Wastewater Equipment
 subgroup: Process Equipment
 tags: ['Process', 'Equipment', 'Water', 'Wastewater', 'Ultraviolet']
-navigation:
-  key: Ultraviolet Equipment
-  parent: Water and Wastewater Equipment
-  order: 6600.0
 ---
 
    1. Section 46 66 00
@@ -236,7 +232,9 @@ General
 	10. CPP enclosure shall be floor mounted.
 	11. CPP enclosure dimensions shall not exceed 48” (1219 mm) high x 36” (914 mm) wide x 18” (457 mm) deep. Weight shall not exceed 300 lbs (136 kg).
 
-Execution
+
+## Execution
+
 1. Installation
    1. Install UV System in accordance with manufacturer specifications and as shown in the Construction Drawings.
 2. The manufacturer shall provide start-up and operator training services on site for the following duration:

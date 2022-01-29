@@ -5,10 +5,6 @@ divNumb: 46
 divName: Water and Wastewater Equipment
 subgroup: Process Equipment
 tags: ['Process', 'Equipment', 'Water', 'Wastewater', 'Circular', 'Clarifier']
-navigation:
-  key: Circular Clarifier Equipment
-  parent: Water and Wastewater Equipment
-  order: 4321.0
 ---
 
    1. 46 43 18 Oscillating Scraper-type Clarifier Equipment

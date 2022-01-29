@@ -5,10 +5,6 @@ divNumb: 8
 divName: Openings
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Openings', 'Aluminum-Framed', 'Entrances', 'Storefronts']
-navigation:
-  key: Aluminum-Framed Entrances and Storefronts
-  parent: Openings
-  order: 4113.0
 ---
 
 

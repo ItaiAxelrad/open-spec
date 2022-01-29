@@ -5,10 +5,6 @@ divNumb: 26
 divName: Electrical
 subgroup: Facility Services
 tags: ['Facility', 'Services', 'Electrical', 'Hangers', 'Supports', 'for', 'Elec', 'Syst']
-navigation:
-  key: Hangers and Supports for Elec Syst
-  parent: Electrical
-  order: 529.0
 ---
 
 1. Copyright 2004 and 2005 by The American Institute of Architects (AIA)

@@ -5,10 +5,6 @@ divNumb: 32
 divName: Exterior Improvements
 subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Design', 'Build', 'Irrigation']
-navigation:
-  key: Design Build Irrigation
-  parent: Exterior Improvements
-  order: 8005.0
 ---
 
    1. SECTION 328005

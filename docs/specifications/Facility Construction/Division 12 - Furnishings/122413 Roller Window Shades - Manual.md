@@ -5,10 +5,6 @@ divNumb: 12
 divName: Furnishings
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Furnishings', 'Roller', 'Window', 'Shades', 'Manual']
-navigation:
-  key: Roller Window Shades - Manual
-  parent: Furnishings
-  order: 2413.0
 ---
 
 

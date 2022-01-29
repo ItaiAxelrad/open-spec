@@ -5,10 +5,6 @@ divNumb: 32
 divName: Exterior Improvements
 subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Landscape', 'Maintenance']
-navigation:
-  key: Landscape Maintenance
-  parent: Exterior Improvements
-  order: 9010.0
 ---
 
    1. SECTION 329010

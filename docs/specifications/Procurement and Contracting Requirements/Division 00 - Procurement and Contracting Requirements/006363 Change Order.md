@@ -5,10 +5,6 @@ divNumb: 0
 divName: Procurement and Contracting Requirements
 subgroup: Procurement and Contracting Requirements
 tags: ['Procurement', 'Contracting', 'Requirements', 'Change', 'Order']
-navigation:
-  key: Change Order
-  parent: Procurement and Contracting Requirements
-  order: 6363.0
 ---
 
    1. Change Order Number\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_

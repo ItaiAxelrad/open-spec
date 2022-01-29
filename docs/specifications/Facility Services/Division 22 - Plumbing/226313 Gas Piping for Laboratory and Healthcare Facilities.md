@@ -5,10 +5,6 @@ divNumb: 22
 divName: Plumbing
 subgroup: Facility Services
 tags: ['Facility', 'Services', 'Plumbing', 'Gas', 'Piping', 'for', 'Laboratory', 'Healthcare', 'Facilities']
-navigation:
-  key: Gas Piping for Laboratory and Healthcare Facilities
-  parent: Plumbing
-  order: 6313.0
 ---
 
 

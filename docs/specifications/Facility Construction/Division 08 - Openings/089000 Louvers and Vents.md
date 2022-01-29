@@ -5,10 +5,6 @@ divNumb: 8
 divName: Openings
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Openings', 'Louvers', 'Vents']
-navigation:
-  key: Louvers and Vents
-  parent: Openings
-  order: 9000.0
 ---
 
 

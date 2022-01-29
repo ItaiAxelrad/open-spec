@@ -5,10 +5,6 @@ divNumb: 8
 divName: Openings
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Openings', 'Sound', 'Control', 'Door', 'Assemblies']
-navigation:
-  key: Sound Control Door Assemblies
-  parent: Openings
-  order: 3473.0
 ---
 
 

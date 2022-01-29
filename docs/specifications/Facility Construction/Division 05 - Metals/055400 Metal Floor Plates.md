@@ -5,10 +5,6 @@ divNumb: 5
 divName: Metals
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Metals', 'Metal', 'Floor', 'Plates']
-navigation:
-  key: Metal Floor Plates
-  parent: Metals
-  order: 5400.0
 ---
 
 

@@ -5,10 +5,6 @@ divNumb: 7
 divName: Thermal and Moisture Protection
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Flat', 'Seam', 'Sheet', 'Metal', 'Roofing']
-navigation:
-  key: Flat Seam Sheet Metal Roofing
-  parent: Thermal and Moisture Protection
-  order: 6119.0
 ---
 
 

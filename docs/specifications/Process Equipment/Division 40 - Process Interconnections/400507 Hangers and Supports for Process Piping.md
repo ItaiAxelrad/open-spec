@@ -5,10 +5,6 @@ divNumb: 40
 divName: Process Interconnections
 subgroup: Process Equipment
 tags: ['Process', 'Equipment', 'Interconnections', 'Hangers', 'Supports', 'for', 'Piping']
-navigation:
-  key: Hangers and Supports for Process Piping
-  parent: Process Interconnections
-  order: 507.0
 ---
 
    1. section 40 05 07
@@ -154,7 +150,9 @@ General
 		2. Pipe Size (IN): 1-1/2 - 3
 			1. Maximum Span: 4 FT
 
-Execution
+
+## Execution
+
 
 * 
 	1. **Installation

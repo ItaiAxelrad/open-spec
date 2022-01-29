@@ -5,10 +5,6 @@ divNumb: 43
 divName: Process Gas and Liquid Handling, Purification, and Storage Equipment
 subgroup: Process Equipment
 tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Storage', 'Backwash', 'Submersible', 'Pumps']
-navigation:
-  key: Backwash Submersible Pumps
-  parent: Process Gas and Liquid Handling, Purification, and Storage Equipment
-  order: 2520.0
 ---
 
    1. Section 43 25 00
@@ -97,7 +93,9 @@ General
 		3. The insulation shall be removed from the individual conductors and the epoxy shall be allowed to form a leak-proof seal against wicking of the power cable between the outer jacket and the insulation of the individual conductors. 
 		4. The outer jacket of the power cord shall be oil resistant and water resistant. The power cable shall be rated for NEC severe service “S”, type “STOW”.
 
-Execution
+
+## Execution
+
 1. 3.1 Installation
    1. Comply with Section 11 01 00.
 2. Install products in accordance with manufacturer's instructions.

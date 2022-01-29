@@ -5,10 +5,6 @@ divNumb: 40
 divName: Process Interconnections
 subgroup: Process Equipment
 tags: ['Process', 'Equipment', 'Interconnections', 'Slotted', 'Pipe']
-navigation:
-  key: Slotted Pipe
-  parent: Process Interconnections
-  order: 534.0
 ---
 
    1. section 40 05 34
@@ -46,7 +42,9 @@ General
 5. The slotted surface is free of oils, grease, paint, dirt, and any manufacturer's markings that could alter the chemistry of the sample. 
 6. The product is completely encased in an individual polyethylene protective wrapper with sealed ends and shipped in cardboard or wooden boxes.
 
-Execution
+
+## Execution
+
    1. Installation:
 2. The installation shall be in conformance with the project plans and specifications or the manufacturer’s recommendations. 
 3. If there are any inconsistencies or conflicts, the contractor must bring them to the attention of the project engineer.

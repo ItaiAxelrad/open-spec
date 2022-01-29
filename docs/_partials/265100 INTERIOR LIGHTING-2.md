@@ -5,10 +5,6 @@ divNumb: 26
 divName: Electrical
 subgroup: Facility Services
 tags: ['Facility', 'Services', 'Electrical', 'INTERIOR', 'LIGHTING']
-navigation:
-  key: INTERIOR LIGHTING
-  parent: Electrical
-  order: 51002.0
 ---
 
 1. SECTION 26 51 00
@@ -353,7 +349,9 @@ General
 12. FINISHES
    1. Fixtures:
       1. Manufacturers' standard, unless otherwise indicated. 
-Execution
+
+## Execution
+
 01. INSTALLATION
    1. Fixtures:
       1. Set level, plumb, and square with ceilings and walls. Install lamps in each fixture. B. Support for Fixtures in or on Grid-Type Suspended Ceilings:

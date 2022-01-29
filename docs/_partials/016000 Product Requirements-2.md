@@ -5,10 +5,6 @@ divNumb: 1
 divName: General Requirements
 subgroup: General Requirements
 tags: ['General', 'Requirements', 'Product']
-navigation:
-  key: Product Requirements
-  parent: General Requirements
-  order: 60002.0
 ---
 
    1. Section 01 60 00
@@ -30,7 +26,9 @@ General
 6. All concrete work shall be of first grade quality, meeting the requirements specified in these Contract Documents. All floors shall be free from ponding, irregularities and shall drain to the outlets provided.
    ## Product (Not Used)
 
-Execution
+
+## Execution
+
 1. 3.1 Installation
    1. The Contractor shall provide all labor, tools, equipment and coordination necessary to provide compliance with the Contract Documents for leakage, performance, quantity, thickness, efficiency, etc. of installed materials and equipment.
 2. It is the responsibility of the Contractor and his Installers, as experts, to notify the Owner’s Representative of any specified product that to his knowledge will not meet the requirements or is unsuited to the application indicated or specified.

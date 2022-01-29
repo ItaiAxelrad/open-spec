@@ -5,10 +5,6 @@ divNumb: 11
 divName: Equipment
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Equipment', 'Laboratory', 'Controlled-Environment', 'Cabinets']
-navigation:
-  key: Laboratory Controlled-Environment Cabinets
-  parent: Equipment
-  order: 5329.0
 ---
 
 

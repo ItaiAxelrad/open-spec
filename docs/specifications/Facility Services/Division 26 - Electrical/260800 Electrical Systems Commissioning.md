@@ -5,10 +5,6 @@ divNumb: 26
 divName: Electrical
 subgroup: Facility Services
 tags: ['Facility', 'Services', 'Electrical', 'Systems', 'Commissioning']
-navigation:
-  key: Electrical Systems Commissioning
-  parent: Electrical
-  order: 800.0
 ---
 
 1. Copyright 2003 and 2005 by The American Institute of Architects (AIA)

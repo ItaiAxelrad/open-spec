@@ -5,10 +5,6 @@ divNumb: 9
 divName: Finishes
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Finishes', 'Gypsum', 'Board']
-navigation:
-  key: Gypsum Board
-  parent: Finishes
-  order: 2900.0
 ---
 
 

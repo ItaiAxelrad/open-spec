@@ -5,10 +5,6 @@ divNumb: 9
 divName: Finishes
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Finishes']
-navigation:
-  key: Finishes
-  parent: Facility Construction
-  order: 9
 ---
 
    1. Division 09

@@ -5,10 +5,6 @@ divNumb: 22
 divName: Plumbing
 subgroup: Facility Services
 tags: ['Facility', 'Services', 'Plumbing', 'Expansion', 'Fittings', 'Loops', 'for', 'Piping']
-navigation:
-  key: Expansion Fittings and Loops for Plumbing Piping
-  parent: Plumbing
-  order: 516.0
 ---
 
 1. Copyright 2006 by The American Institute of Architects (AIA)

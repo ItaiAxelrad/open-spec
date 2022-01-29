@@ -5,10 +5,6 @@ divNumb: 1
 divName: General Requirements
 subgroup: General Requirements
 tags: ['General', 'Requirements', 'Operation', 'Maintenance', 'Data']
-navigation:
-  key: Operation and Maintenance Data
-  parent: General Requirements
-  order: 78232.0
 ---
 
 

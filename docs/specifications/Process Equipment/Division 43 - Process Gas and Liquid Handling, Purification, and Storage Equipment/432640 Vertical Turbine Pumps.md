@@ -5,10 +5,6 @@ divNumb: 43
 divName: Process Gas and Liquid Handling, Purification, and Storage Equipment
 subgroup: Process Equipment
 tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Storage', 'Vertical', 'Turbine', 'Pumps']
-navigation:
-  key: Vertical Turbine Pumps
-  parent: Process Gas and Liquid Handling, Purification, and Storage Equipment
-  order: 2640.0
 ---
 
    1. Section 43 26 40
@@ -153,7 +149,9 @@ General
 	3. The motor shall comply with NEMA MG-1 standards.
 	4. The motor shall be of the TEFC type.
 
-Execution
+
+## Execution
+
 1. 3.1 Installation
    1. Installation shall be in accordance with the manufacturer's recommendations.
 2. Installation of connecting piping shall not impose any strain on the pump.

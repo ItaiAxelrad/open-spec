@@ -5,10 +5,6 @@ divNumb: 12
 divName: Furnishings
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Furnishings', 'Entrance', 'Floor', 'Mats', 'Frames']
-navigation:
-  key: Entrance Floor Mats and Frames
-  parent: Furnishings
-  order: 4813.0
 ---
 
    1. SECTION 12 48 13

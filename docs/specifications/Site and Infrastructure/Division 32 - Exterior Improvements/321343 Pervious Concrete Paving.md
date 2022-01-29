@@ -5,10 +5,6 @@ divNumb: 32
 divName: Exterior Improvements
 subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Pervious', 'Concrete', 'Paving']
-navigation:
-  key: Pervious Concrete Paving
-  parent: Exterior Improvements
-  order: 1343.0
 ---
 
 1. DIVISION 32 – EXTERIOR IMPROVEMENTS

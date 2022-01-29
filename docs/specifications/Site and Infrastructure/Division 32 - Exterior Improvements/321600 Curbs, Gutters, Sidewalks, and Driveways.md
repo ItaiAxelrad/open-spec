@@ -5,10 +5,6 @@ divNumb: 32
 divName: Exterior Improvements
 subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Curbs', 'Gutters', 'Sidewalks', 'Driveways']
-navigation:
-  key: Curbs, Gutters, Sidewalks, and Driveways
-  parent: Exterior Improvements
-  order: 1600.0
 ---
 
 1. SECTION 02528
@@ -43,7 +39,9 @@ General
 1. 2.06 EXCAVATION AND BACKFILL
    1. Conform to Section 02223, Trenching, Backfilling, and Compacting.
 1. 
-Execution
+
+## Execution
+
 1. 3.01 PREPARATION OF SUBGRADE
    1. Subgrade shall be excavated and shaped to line, grade, and cross section. The top 12-inches of subgrade shall be compacted to 90% relative compaction. All soft material disclosed by excavating shall be removed and replaced with aggregate base as directed. The finished subgrade shall be within a tolerance of +/-0.02 of a foot of the grade and cross section shown and shall be smooth and free from irregularities at the specified relative compaction. The subgrade shall extend over the full width of the construction.
    1. The City Engineer’s approval of finished subgrades must be received prior to continuance of the work.

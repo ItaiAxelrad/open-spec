@@ -5,10 +5,6 @@ divNumb: 9
 divName: Finishes
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Finishes', 'Tile', 'Carpeting']
-navigation:
-  key: Tile Carpeting
-  parent: Finishes
-  order: 6813.0
 ---
 
 

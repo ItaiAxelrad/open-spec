@@ -5,10 +5,6 @@ divNumb: 1
 divName: General Requirements
 subgroup: General Requirements
 tags: ['General', 'Requirements', 'Sustainable', 'Design']
-navigation:
-  key: Sustainable Design Requirements
-  parent: General Requirements
-  order: 8113.0
 ---
 
 

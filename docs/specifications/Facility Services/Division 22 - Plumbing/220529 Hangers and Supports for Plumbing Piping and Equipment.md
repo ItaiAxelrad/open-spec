@@ -5,10 +5,6 @@ divNumb: 22
 divName: Plumbing
 subgroup: Facility Services
 tags: ['Facility', 'Services', 'Plumbing', 'Hangers', 'Supports', 'for', 'Piping', 'Equipment']
-navigation:
-  key: Hangers and Supports for Plumbing Piping and Equipment
-  parent: Plumbing
-  order: 529.0
 ---
 
 

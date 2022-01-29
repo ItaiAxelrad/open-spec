@@ -5,10 +5,6 @@ divNumb: 22
 divName: Plumbing
 subgroup: Facility Services
 tags: ['Facility', 'Services', 'Plumbing', 'Compressed-Air', 'Piping', 'for', 'Laboratory', 'Healthcare', 'Facilities']
-navigation:
-  key: Compressed-Air Piping for Laboratory and Healthcare Facilities
-  parent: Plumbing
-  order: 6113.0
 ---
 
 

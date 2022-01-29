@@ -5,10 +5,6 @@ divNumb: 1
 divName: General Requirements
 subgroup: General Requirements
 tags: ['General', 'Requirements', 'Operation', 'Maintenance', 'Data']
-navigation:
-  key: Operation and Maintenance Data
-  parent: General Requirements
-  order: 7823.0
 ---
 
    1. Section 01 78 23
@@ -165,6 +161,8 @@ General
 	4. Resubmit until approved.
    ## Product (Not Used)
 
-Execution
+
+## Execution
+
  (Not Used)
 

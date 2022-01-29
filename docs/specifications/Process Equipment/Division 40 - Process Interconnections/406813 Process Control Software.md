@@ -5,10 +5,6 @@ divNumb: 40
 divName: Process Interconnections
 subgroup: Process Equipment
 tags: ['Process', 'Equipment', 'Interconnections', 'Control', 'HMI', 'Software']
-navigation:
-  key: Process Control (HMI) Software
-  parent: Process Interconnections
-  order: 6813.0
 ---
 
 ## General

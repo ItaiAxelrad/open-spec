@@ -5,10 +5,6 @@ divNumb: 3
 divName: Concrete
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Concrete', 'Materials', 'Proportioning']
-navigation:
-  key: Concrete Materials and Proportioning
-  parent: Concrete
-  order: 2.0
 ---
 
    1. section 03 31 00
@@ -291,7 +287,9 @@ General
    1. To assure stockpiles are not contaminated or materials are segregated, perform any test for determining conformance to requirements for cleanness and grading on samples secured from aggregates at point of batching. 
 2. Do no use frozen or partially frozen aggregates. 
 
-Execution
+
+## Execution
+
 1. 3.1 Quality Control
    1. Perform concrete testing per Specification Section 03 01 01. 
 2. Perform strength test on any concrete to which water had been added at the jobsite. 

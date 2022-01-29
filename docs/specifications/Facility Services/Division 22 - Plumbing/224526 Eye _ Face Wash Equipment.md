@@ -5,10 +5,6 @@ divNumb: 22
 divName: Plumbing
 subgroup: Facility Services
 tags: ['Facility', 'Services', 'Plumbing', 'Eye', '_', 'Face', 'Wash', 'Equipment']
-navigation:
-  key: Eye _ Face Wash Equipment
-  parent: Plumbing
-  order: 4526.0
 ---
 
    1. section 22 45 00
@@ -53,7 +49,9 @@ General
    1. Certify performance of emergency plumbing fixture by independent testing organization acceptable to authorities having jurisdiction. 
 2. Adjust or replace fixture flow regulators for proper flow. 
 
-Execution
+
+## Execution
+
 1. 3.1 Preparation
    1. Examine roughing-in for plumbing piping systems to verify actual locations of piping connections prior to installation of emergency equipment. Proceed with installation only after unsatisfactory conditions have been corrected.
 2. Coordinate location of emergency equipment with General Contractor to allow identification of required clear floor space area for emergency shower access.

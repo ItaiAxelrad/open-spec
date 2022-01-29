@@ -5,10 +5,6 @@ divNumb: 10
 divName: Specialties
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Specialties', 'Lockers']
-navigation:
-  key: Lockers
-  parent: Specialties
-  order: 5100.0
 ---
 
    1. SECTION 105100 - LOCKERS 
@@ -37,7 +33,9 @@ Sections, apply to this Section.
    1. Coordinate sizes and locations of framing, blocking, furring, reinforcements, and other related units of Work specified in other Sections to ensure that metal lockers can be supported and installed as indicated.
    1. Special Warranty:
       1. Manufacturer's standard form in which manufacturer agrees to repair or replace components of metal lockers that fail in materials or workmanship, excluding finish, within 10 years.
-Product
+
+## Product
+
 1. MATERIALS
    1. Steel Plates, Shapes, and Bars:
       1. ASTM A 36/A 36M.
@@ -106,7 +104,9 @@ General
 General
 :
       1. Comply with NAAMM's "Metal Finishes Manual for Architectural and Metal
-Products" for recommendations for applying and designating finishes.
+
+## Product
+s" for recommendations for applying and designating finishes.
    1. Factory finish steel surfaces and accessories except stainless-steel and chrome-plated surfaces.
    1. Surface Preparation:
       1. Clean surfaces of dirt, oil, grease, mill scale, rust, and other contaminants that could impair paint bond. Use manufacturer's standard methods.

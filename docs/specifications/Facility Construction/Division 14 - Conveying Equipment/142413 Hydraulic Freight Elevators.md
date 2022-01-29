@@ -5,10 +5,6 @@ divNumb: 14
 divName: Conveying Equipment
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Conveying', 'Equipment', 'Hydraulic', 'Freight', 'Elevators']
-navigation:
-  key: Hydraulic Freight Elevators
-  parent: Conveying Equipment
-  order: 2413.0
 ---
 
 

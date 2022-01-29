@@ -5,10 +5,6 @@ divNumb: 8
 divName: Openings
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Openings']
-navigation:
-  key: Openings
-  parent: Facility Construction
-  order: 8
 ---
 
    1. Division 08

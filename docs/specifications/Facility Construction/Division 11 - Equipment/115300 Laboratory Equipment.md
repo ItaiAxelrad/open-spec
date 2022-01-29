@@ -5,10 +5,6 @@ divNumb: 11
 divName: Equipment
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Equipment', 'Laboratory']
-navigation:
-  key: Laboratory Equipment
-  parent: Equipment
-  order: 5300.0
 ---
 
 

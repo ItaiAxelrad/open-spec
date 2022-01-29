@@ -5,10 +5,6 @@ divNumb: 11
 divName: Equipment
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Equipment', 'Laminar', 'Flow', 'Hoods']
-navigation:
-  key: Laminar Flow Hoods
-  parent: Equipment
-  order: 5311.0
 ---
 
 

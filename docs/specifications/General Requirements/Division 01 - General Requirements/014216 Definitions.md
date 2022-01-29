@@ -5,10 +5,6 @@ divNumb: 1
 divName: General Requirements
 subgroup: General Requirements
 tags: ['General', 'Requirements', 'Definitions']
-navigation:
-  key: Definitions
-  parent: General Requirements
-  order: 4216.0
 ---
 
    1. Section 01 42 16
@@ -45,6 +41,8 @@ General
 		1. Same definition as "Pole" above.
    ## Product (Not Used)
 
-Execution
+
+## Execution
+
  (Not Used)
 

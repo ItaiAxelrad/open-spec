@@ -5,10 +5,6 @@ divNumb: 33
 divName: Utilities
 subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Utilities', 'Spring-loaded', 'Weirs']
-navigation:
-  key: Spring-loaded Weirs
-  parent: Utilities
-  order: 3716.0
 ---
 
 1. SECTION 131000 – WEIR GATE

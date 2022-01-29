@@ -5,10 +5,6 @@ divNumb: 1
 divName: General Requirements
 subgroup: General Requirements
 tags: ['General', 'Requirements', 'Field', 'Offices', 'Sheds']
-navigation:
-  key: Field Offices and Sheds
-  parent: General Requirements
-  order: 5213.0
 ---
 
 1. SECTION 01 52 13
@@ -35,7 +31,9 @@ progress of Work; remove when no longer needed.
    1. Fire Extinguishers:
       1. Appropriate type fire extinguisher at each office.
 1. 
-Execution
+
+## Execution
+
 1. 3.01 PREPARATION
    1. Fill and grade sites for temporary structures to provide drainage away from buildings.
    1. Location must comply with Construction Logistics Plan and Existing Facilities as shown in the

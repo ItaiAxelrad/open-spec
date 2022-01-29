@@ -5,10 +5,6 @@ divNumb: 23
 divName: Heating Ventilating and Air Conditioning
 subgroup: Facility Services
 tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 'Instrumentation', 'Control', 'for', 'HVAC']
-navigation:
-  key: Instrumentation and Control for HVAC 2
-  parent: Heating Ventilating and Air Conditioning
-  order: 9002.0
 ---
 
    1. section 23 09 00
@@ -60,7 +56,9 @@ General
 	1. Honeywell.
 	2. Or approved equivalent.
 
-Execution
+
+## Execution
+
 1. 3.1 Installation
    1. Install in accordance with manufacturer’s installation instructions. 
 

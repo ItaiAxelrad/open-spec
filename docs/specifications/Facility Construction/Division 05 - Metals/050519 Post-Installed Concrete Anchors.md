@@ -5,10 +5,6 @@ divNumb: 5
 divName: Metals
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Metals', 'Post-Installed', 'Concrete', 'Anchors']
-navigation:
-  key: Post-Installed Concrete Anchors
-  parent: Metals
-  order: 519.0
 ---
 
    1. SECTION 05 05 19
@@ -126,7 +122,9 @@ A307, Grade A, and ASTM A449, ASTM A563, and ASTM F436, as applicable. Hot-dip g
 			4. Where anchor manufacturer is not indicated, subject to compliance with requirements and acceptance by the Architect, provide the following:
 				1. Hilti HVA Adhesive System with HVU capsules.
 
-Execution
+
+## Execution
+
 01. INSTALLATION
 
 * 

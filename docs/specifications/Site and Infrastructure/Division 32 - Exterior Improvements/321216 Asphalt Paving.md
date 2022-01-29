@@ -5,10 +5,6 @@ divNumb: 32
 divName: Exterior Improvements
 subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Asphalt', 'Paving']
-navigation:
-  key: Asphalt Paving
-  parent: Exterior Improvements
-  order: 1216.0
 ---
 
    1. section 32 12 00
@@ -48,7 +44,9 @@ General
       1. Bituminous pavement shall meet the requirements of Sections 401.01 to 401.06 of the Standard Specifications, 5/8 inch mix made with 6 percent of AC-10
 3. Prime and Tack Coat
 
-Execution
+
+## Execution
+
 1. 3.1 Protection of Existing Pavement
    1. The pavement adjacent to an excavation shall be protected from damage caused by movement of construction equipment or other work. Any paved surface damaged due to the Contractor’s negligence, shall be replaced or repaired at no expense to the Owner. The area to be replaced or repaired shall be as designated by the Engineer.
 1. 3.2 Cutting and Removal

@@ -5,10 +5,6 @@ divNumb: 1
 divName: General Requirements
 subgroup: General Requirements
 tags: ['General', 'Requirements', 'Submittal', 'Procedures']
-navigation:
-  key: Submittal Procedures
-  parent: General Requirements
-  order: 33003.0
 ---
 
 1. SECTION 013000
@@ -134,7 +130,9 @@ General
    1. OTHER SUBMITTALS
    1. Other submittals are required under various sections of these Specifications.
 
-Execution
+
+## Execution
+
 
 ## General
 

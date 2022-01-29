@@ -5,10 +5,6 @@ divNumb: 31
 divName: Earthwork
 subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Earthwork', 'Clearing']
-navigation:
-  key: Site Clearing
-  parent: Earthwork
-  order: 1000.0
 ---
 
 

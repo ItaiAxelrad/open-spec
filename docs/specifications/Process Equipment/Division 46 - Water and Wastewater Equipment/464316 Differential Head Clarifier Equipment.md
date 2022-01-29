@@ -5,10 +5,6 @@ divNumb: 46
 divName: Water and Wastewater Equipment
 subgroup: Process Equipment
 tags: ['Process', 'Equipment', 'Water', 'Wastewater', 'Differential', 'Head', 'Clarifier']
-navigation:
-  key: Differential Head Clarifier Equipment
-  parent: Water and Wastewater Equipment
-  order: 4316.0
 ---
 
    1. 46 43 16 Differential Head Clarifier Equipment

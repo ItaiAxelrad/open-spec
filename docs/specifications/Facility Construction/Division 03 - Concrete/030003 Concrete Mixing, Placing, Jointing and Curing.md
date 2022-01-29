@@ -5,10 +5,6 @@ divNumb: 3
 divName: Concrete
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Concrete', 'Mixing', 'Placing', 'Jointing', 'Curing']
-navigation:
-  key: Concrete Mixing, Placing, Jointing and Curing
-  parent: Concrete
-  order: 3.0
 ---
 
    1. section 03 31 01
@@ -167,7 +163,9 @@ General
 1. 2.2 Quality Control
    1. The central concrete plant shall conform to the Checklist for Certification of Ready Mixed Concrete Production Facilities of the NRMCA. 
 
-Execution
+
+## Execution
+
 1. 3.1 Preparation
 
 General

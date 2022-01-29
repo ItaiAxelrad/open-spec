@@ -5,10 +5,6 @@ divNumb: 7
 divName: Thermal and Moisture Protection
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Thermoplastic', 'Polyolefin', 'TPO', 'Roofing']
-navigation:
-  key: Thermoplastic Polyolefin (TPO) Roofing
-  parent: Thermal and Moisture Protection
-  order: 5423.0
 ---
 
    1. SECTION 07 54 23
@@ -59,7 +55,9 @@ than 78 when calculated according to ASTM E 1980, based on testing identical pro
    1. qualified testing agency.
    1. Energy Performance:
       1. Provide roofing system that is listed on the DOE's ENERGY STAR "Roof 
-Products Qualified Product List" for low-slope roof products.
+
+## Product
+s Qualified Product List" for low-slope roof products.
 5. SUBMITTALS
    1. Product Data:
       1. For each type of product indicated.

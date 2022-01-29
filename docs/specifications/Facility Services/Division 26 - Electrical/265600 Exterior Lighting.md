@@ -5,10 +5,6 @@ divNumb: 26
 divName: Electrical
 subgroup: Facility Services
 tags: ['Facility', 'Services', 'Electrical', 'Exterior', 'Lighting']
-navigation:
-  key: Exterior Lighting
-  parent: Electrical
-  order: 5600.0
 ---
 
 

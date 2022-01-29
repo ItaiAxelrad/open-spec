@@ -5,10 +5,6 @@ divNumb: 43
 divName: Process Gas and Liquid Handling, Purification, and Storage Equipment
 subgroup: Process Equipment
 tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Storage']
-navigation:
-  key: Liquid Handling Equipment
-  parent: Process Gas and Liquid Handling, Purification, and Storage Equipment
-  order: 2000.0
 ---
 
    1. Section 43 01 00
@@ -112,7 +108,9 @@ General
 	1. If specifically required in the individual pump specification sections or in Specification Section 11 01 00, field vibration test pumps:
 		1. To meet requirements of HI 9.6.4 for Rotodynamic Pumps at any point on the pumps and motor.
 
-Execution
+
+## Execution
+
 1. 3.1 Installation
    1. See Specification Section 11 01 00.
 2. Floor or Pad-Mounted Units (Non-Submersible):

@@ -5,10 +5,6 @@ divNumb: 46
 divName: Water and Wastewater Equipment
 subgroup: Process Equipment
 tags: ['Process', 'Equipment', 'Water', 'Wastewater', 'Trash', 'Raking']
-navigation:
-  key: Trash Raking Equipment
-  parent: Water and Wastewater Equipment
-  order: 2171.0
 ---
 
 1. SECTION 46 21 71
@@ -88,7 +84,9 @@ instructions.
    1. Certificate of Compliance:
       1. When fabricator is approved by authorities having jurisdiction, submit certificate of compliance indicating Work performed at fabricator's facility conforms to Contract Documents.
 1. Specified shop tests are not required for Work performed by approved fabricator. 
-Execution
+
+## Execution
+
 1. EXAMINATION
    1. Verify that headworks installation is ready to receive trash raking equipment.
 2. INSTALLATION

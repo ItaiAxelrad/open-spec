@@ -5,10 +5,6 @@ divNumb: 33
 divName: Utilities
 subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Utilities', 'Underground', 'Utility', 'Marking']
-navigation:
-  key: Underground Utility Marking
-  parent: Utilities
-  order: 1000.0
 ---
 
 1. Copyright 2006 by The American Institute of Architects (AIA)

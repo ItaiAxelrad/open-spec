@@ -5,10 +5,6 @@ divNumb: 3
 divName: Concrete
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Concrete', 'Precast', 'Structural']
-navigation:
-  key: Precast Structural Concrete
-  parent: Concrete
-  order: 4100.0
 ---
 
 1. SECTION 03 41 00
@@ -150,7 +146,9 @@ navigation:
 65. Lift and support members only at designated points indicated on the Shop Drawings.
 	1. ***SEQUENCING*
 66. Furnish loose connection hardware and anchorage items to be embedded in or attached to other construction without delaying the Work. Provide locations, setting diagrams, templates, instructions, and directions, as required, for installation.
-Product
+
+## Product
+
    1. ***FABRICATORS*
 2. Fabricators:
       1. Subject to compliance with requirements, **[provide products by the following]** **[provide products by one of the following] [fabricators offering products that may be incorporated into the Work include, but are not limited to, the following]**:
@@ -327,7 +325,9 @@ Product
 	3. Patching: If core test results are satisfactory and precast concrete members comply with requirements, clean and dampen core holes and solidly fill with precast concrete mixture that has no coarse aggregate, and finish to match adjacent precast concrete surfaces.
 	4. Acceptability. Structural precast concrete members that do not comply with acceptability requirements in PCI MNL 116, including concrete strength, and manufacturing tolerances, are unacceptable. Chipped, spalled or cracked members may be repaired. Replace unacceptable units with precast concrete members that comply with requirements.
 
-Execution
+
+## Execution
+
 
 * 
 	1. ***PREPARATION*

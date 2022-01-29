@@ -5,10 +5,6 @@ divNumb: 33
 divName: Utilities
 subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Utilities', 'Steam', 'Energy', 'Distribution']
-navigation:
-  key: Steam Energy Distribution
-  parent: Utilities
-  order: 6300.0
 ---
 
    1. SECTION 33 63 00 – STEAM ENERGY DISTRIBUTION

@@ -5,10 +5,6 @@ divNumb: 1
 divName: General Requirements
 subgroup: General Requirements
 tags: ['General', 'Requirements', 'Testing', 'Inspecting', 'Services']
-navigation:
-  key: Testing and Inspecting Services
-  parent: General Requirements
-  order: 4523.0
 ---
 
    1. Section 01 45 00
@@ -105,6 +101,8 @@ General
 22. Special Inspector does not have authority to stop work or modify the requirements of the Contract Documents.
    ## Product (Not Used)
 
-Execution
+
+## Execution
+
  (Not Used)
 

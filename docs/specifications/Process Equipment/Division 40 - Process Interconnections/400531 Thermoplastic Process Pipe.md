@@ -5,10 +5,6 @@ divNumb: 40
 divName: Process Interconnections
 subgroup: Process Equipment
 tags: ['Process', 'Equipment', 'Interconnections', 'Thermoplastic', 'Pipe']
-navigation:
-  key: Thermoplastic Process Pipe
-  parent: Process Interconnections
-  order: 531.0
 ---
 
    1. section 40 05 31

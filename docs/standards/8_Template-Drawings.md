@@ -1,8 +1,6 @@
 ---
 title: 'Template Drawings'
 eleventyNavigation:
-  key: Template Drawings
-  order: 8
 date: 2021-04-10
 ---
 

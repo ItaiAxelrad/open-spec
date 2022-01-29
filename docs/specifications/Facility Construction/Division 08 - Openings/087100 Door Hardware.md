@@ -5,10 +5,6 @@ divNumb: 8
 divName: Openings
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Openings', 'Door', 'Hardware']
-navigation:
-  key: Door Hardware
-  parent: Openings
-  order: 7100.0
 ---
 
 

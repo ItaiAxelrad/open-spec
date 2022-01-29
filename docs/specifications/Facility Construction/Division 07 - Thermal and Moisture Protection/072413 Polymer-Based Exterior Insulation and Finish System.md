@@ -5,10 +5,6 @@ divNumb: 7
 divName: Thermal and Moisture Protection
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Polymer-Based', 'Exterior', 'Insulation', 'Finish', 'System']
-navigation:
-  key: Polymer-Based Exterior Insulation and Finish System
-  parent: Thermal and Moisture Protection
-  order: 2413.0
 ---
 
    1. SECTION 07 24 13

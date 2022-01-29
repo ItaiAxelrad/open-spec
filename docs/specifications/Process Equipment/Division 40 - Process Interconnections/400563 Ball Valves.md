@@ -5,10 +5,6 @@ divNumb: 40
 divName: Process Interconnections
 subgroup: Process Equipment
 tags: ['Process', 'Equipment', 'Interconnections', 'Ball', 'Valves']
-navigation:
-  key: Ball Valves
-  parent: Process Interconnections
-  order: 563.0
 ---
 
    1. section 40 05 63
@@ -81,7 +77,9 @@ General
 	5. Body with mounting pad for actuators where required.
 	6. Capable of being disconnected at downstream end under full line pressure.
 
-Execution
+
+## Execution
+
 1. 3.1 Installation
    1. Install Ball Valves based on manufacturer’s installation instructions.
 

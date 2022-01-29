@@ -5,10 +5,6 @@ divNumb: 8
 divName: Openings
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Openings', 'Aluminum', 'Doors', 'Frames']
-navigation:
-  key: Aluminum Doors and Frames
-  parent: Openings
-  order: 1116.0
 ---
 
 1. SECTION 08 11 16
@@ -67,7 +63,9 @@ Project-site storage. Do not use nonvented plastic.
       1. Verify actual dimensions of openings by field measurements before fabrication.
 7. COORDINATION
    1. Coordinate installation of anchorages for aluminum frames. Furnish setting drawings, templates, and directions for installing anchorages, including sleeves, concrete inserts, anchor bolts, and items with integral anchors. Deliver such items to Project site in time for installation.
-Product
+
+## Product
+
 1. MANUFACTURERS
    1. Basis-of-Design Product:
       1. The design for systems is based on Cross Aluminum Products, FL-
@@ -203,7 +201,9 @@ General
 6. FINISHES
    1. Aluminum Finish:
       1. Clear Anodized, Architectural, Class 1, AA-MI2C22A41, 0.7 mils. 
-Execution
+
+## Execution
+
 1. EXAMINATION
    1. Examine substrates, areas, and conditions, with Installer present, for compliance with requirements for installation tolerances and other conditions affecting performance of the Work.
    1. Examine roughing-in for embedded and built-in anchors to verify actual locations before frame installation.

@@ -5,10 +5,6 @@ divNumb: 3
 divName: Concrete
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Concrete', 'Precast', 'Vaults']
-navigation:
-  key: Precast Vaults
-  parent: Concrete
-  order: 4200.0
 ---
 
    1. Section 03 42 00
@@ -102,7 +98,9 @@ General
 1. 2.8 Vault Appurtenances
    1. Provide ladders, covers and frames, vents, supports, inserts, eyebolts, and other miscellaneous metalwork. Refer to Section 05 50 00.
 
-Execution
+
+## Execution
+
    1. Excavating and Backfilling for Vaults
 2. Perform earthwork as specified in Standard Specification Section 31 01 00. Provide 6-inch minimum thickness 3/4-inch crushed rock over the full width of the vault base and extend 12 inches beyond the edges of the vault. After repairing the waterproofing, backfill and compact around the vault with structural backfill material. Excavated material may be used for structural backfill provided it conforms to the Standard Specifications for structural backfill material.
 	1. **Installation of Vaults and Risers

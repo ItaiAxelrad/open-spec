@@ -5,10 +5,6 @@ divNumb: 0
 divName: Procurement and Contracting Requirements
 subgroup: Procurement and Contracting Requirements
 tags: ['Procurement', 'Contracting', 'Requirements', 'Proposal', 'Form', 'Performance', 'Contract']
-navigation:
-  key: Proposal Form - Performance Contract
-  parent: Procurement and Contracting Requirements
-  order: 4273.0
 ---
 
 1. SECTION 00 42 73

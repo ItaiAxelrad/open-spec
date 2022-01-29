@@ -5,10 +5,6 @@ divNumb: 3
 divName: Concrete
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Concrete', 'Waterstops']
-navigation:
-  key: Waterstops
-  parent: Concrete
-  order: 1513.0
 ---
 
 1. SECTION 03 15 13
@@ -23,7 +19,9 @@ General
 * 
 	1. QUALITY ASSURANCE
    1. The Contractor shall provide a three (3) year written guarantee of the entire joint sealant installation against faulty and/or incompatible materials and workmanship, together with a statement that it agrees to repair or replace, to the satisfaction of the Owner, at no additional cost to the Owner, any such defective areas which become evident within said three (3) year guarantee period.
-Product
+
+## Product
+
 
 * 
 	

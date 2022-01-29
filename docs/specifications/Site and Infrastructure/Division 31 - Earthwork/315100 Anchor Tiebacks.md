@@ -5,10 +5,6 @@ divNumb: 31
 divName: Earthwork
 subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Earthwork', 'Anchor', 'Tiebacks']
-navigation:
-  key: Anchor Tiebacks
-  parent: Earthwork
-  order: 5100.0
 ---
 
 1. SECTION 315100** 

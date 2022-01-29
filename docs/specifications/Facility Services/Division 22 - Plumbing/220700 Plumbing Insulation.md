@@ -5,10 +5,6 @@ divNumb: 22
 divName: Plumbing
 subgroup: Facility Services
 tags: ['Facility', 'Services', 'Plumbing', 'Insulation']
-navigation:
-  key: Plumbing Insulation
-  parent: Plumbing
-  order: 700.0
 ---
 
 
@@ -149,7 +145,9 @@ navigation:
       1. This material does NOT meet the 25/50 flame/smoke requirement and should only be used where permitted by code.
    1. Adhesives, Mastics, Coatings and Sealants 
    1. Foster Products Div., H.B. Fuller Co.; I-C Adhesives Co.; Chicago Mastic Co.; Childers Products Co. or St. Clair Rubber Co.; and as specified in 
-Execution
+
+## Execution
+
 .
    1. Vapor Barriers
    1. Ambient and chilled systems indoor:

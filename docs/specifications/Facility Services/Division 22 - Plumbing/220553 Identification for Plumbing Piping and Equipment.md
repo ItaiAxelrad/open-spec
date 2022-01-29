@@ -5,10 +5,6 @@ divNumb: 22
 divName: Plumbing
 subgroup: Facility Services
 tags: ['Facility', 'Services', 'Plumbing', 'Identification', 'for', 'Piping', 'Equipment']
-navigation:
-  key: Identification for Plumbing Piping and Equipment
-  parent: Plumbing
-  order: 553.0
 ---
 
 1. Copyright 2005 by The American Institute of Architects (AIA)

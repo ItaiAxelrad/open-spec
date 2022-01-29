@@ -5,10 +5,6 @@ divNumb: 33
 divName: Utilities
 subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Utilities', 'Sanitary', 'Sewerage']
-navigation:
-  key: Sanitary Sewerage
-  parent: Utilities
-  order: 3000.0
 ---
 
 1. SECTION 33 30 00
@@ -258,7 +254,9 @@ General
    1. Tape shall be detectable metallic locator tape, specifically manufactured for marking utilities with a minimum width of 6 inches and detectable at a depth of 18”.
    1. Tape shall be marked “SEWER” and green colored.
 1. 
-Execution
+
+## Execution
+
 
 ## General
 

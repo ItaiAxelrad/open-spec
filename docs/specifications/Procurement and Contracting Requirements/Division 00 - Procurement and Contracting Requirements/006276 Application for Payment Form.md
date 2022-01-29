@@ -5,10 +5,6 @@ divNumb: 0
 divName: Procurement and Contracting Requirements
 subgroup: Procurement and Contracting Requirements
 tags: ['Procurement', 'Contracting', 'Requirements', 'Application', 'for', 'Payment', 'Form']
-navigation:
-  key: Application for Payment Form
-  parent: Procurement and Contracting Requirements
-  order: 6276.0
 ---
 
 1. Contractor’s Application for Payment No. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_

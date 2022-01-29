@@ -5,10 +5,6 @@ divNumb: 11
 divName: Equipment
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Equipment', 'Laboratory', 'Fume', 'Hoods']
-navigation:
-  key: Laboratory Fume Hoods
-  parent: Equipment
-  order: 5313.0
 ---
 
 

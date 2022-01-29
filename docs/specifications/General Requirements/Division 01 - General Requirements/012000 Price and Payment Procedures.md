@@ -5,10 +5,6 @@ divNumb: 1
 divName: General Requirements
 subgroup: General Requirements
 tags: ['General', 'Requirements', 'Price', 'Payment', 'Procedures']
-navigation:
-  key: Price and Payment Procedures
-  parent: General Requirements
-  order: 2000.0
 ---
 
    1. SECTION 01 20 00

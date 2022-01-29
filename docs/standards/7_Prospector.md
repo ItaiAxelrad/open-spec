@@ -1,8 +1,6 @@
 ---
 title: 'Prospector'
 eleventyNavigation:
-  key: Prospector
-  order: 7
 date: 2021-04-10
 ---
 

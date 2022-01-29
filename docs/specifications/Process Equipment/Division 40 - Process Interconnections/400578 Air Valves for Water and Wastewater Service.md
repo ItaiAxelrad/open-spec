@@ -5,10 +5,6 @@ divNumb: 40
 divName: Process Interconnections
 subgroup: Process Equipment
 tags: ['Process', 'Equipment', 'Interconnections', 'Air', 'Valves', 'for', 'Water', 'Wastewater', 'Service']
-navigation:
-  key: Air Valves for Water and Wastewater Service
-  parent: Process Interconnections
-  order: 578.0
 ---
 
 1. SECTION 15108
@@ -70,7 +66,9 @@ General
 1. 2.09 FIELD PAINTING AND COATING
    1. Field painting and coating materials shall be in accordance with Section 09910 and 09915 and selected from the Approved Materials List.
 1. 
-Execution
+
+## Execution
+
 1. 3.01 INSTALLATION
    1. Air valve assemblies shall be provided as shown on the Approved Plans. Additional air valve assemblies may be required in areas of potential air entrapment, at the discretion of the City Engineer. 
 2. Air valve assemblies shall be installed relative to street improvements in accordance with the Standard Drawings. 

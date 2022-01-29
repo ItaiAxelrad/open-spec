@@ -5,10 +5,6 @@ divNumb: 3
 divName: Concrete
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Concrete', 'Cast-in-Place']
-navigation:
-  key: Cast-in-Place Concrete
-  parent: Concrete
-  order: 30002.0
 ---
 
 
@@ -109,7 +105,9 @@ General
     1. Polyvinyl water stops shall be Type No. 5, 6-inch Dura-Joint water stop as manufactured by Electrovert, Inc., New York, N.Y., or approved equal, unless shown otherwise on the Drawings.
     1. The Contractor shall take suitable precautions to support and protect the water stops during the progress of the work.
 1. 
-Execution
+
+## Execution
+
 1. 3.01 Storage of Materials and Reinforcing Steel:
     1. Cement and aggregates and reinforcing steel shall be stored at the work in such a manner as to prevent deterioration or intrusion of foreign matter. Any material which has deteri­orated or which has been damaged shall not be used for concrete.
 1. 3.02 Batch Proportions:

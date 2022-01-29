@@ -5,10 +5,6 @@ divNumb: 26
 divName: Electrical
 subgroup: Facility Services
 tags: ['Facility', 'Services', 'Electrical', 'Cabinets', 'Enclosures']
-navigation:
-  key: Cabinets  Enclosures
-  parent: Electrical
-  order: 535.0
 ---
 
 

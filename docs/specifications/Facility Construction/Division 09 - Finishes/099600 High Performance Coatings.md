@@ -5,10 +5,6 @@ divNumb: 9
 divName: Finishes
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Finishes', 'High', 'Performance', 'Coatings']
-navigation:
-  key: High Performance Coatings
-  parent: Finishes
-  order: 9600.0
 ---
 
 

@@ -5,10 +5,6 @@ divNumb: 3
 divName: Concrete
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Concrete', 'Testing']
-navigation:
-  key: Concrete Testing
-  parent: Concrete
-  order: 1.0
 ---
 
 ## General

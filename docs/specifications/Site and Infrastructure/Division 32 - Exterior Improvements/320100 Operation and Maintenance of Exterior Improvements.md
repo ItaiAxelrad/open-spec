@@ -5,10 +5,6 @@ divNumb: 32
 divName: Exterior Improvements
 subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Operation', 'Maintenance']
-navigation:
-  key: Operation and Maintenance of Exterior Improvements
-  parent: Exterior Improvements
-  order: 100.0
 ---
 
    1. section 32 10 00
@@ -46,7 +42,9 @@ General
 1. 2.1 Materials
    1. Comply with specifications and standards for each specific product involved.
 
-Execution
+
+## Execution
+
 1. 3.1 Inspection
    1. The Inspect existing conditions of the project, including elements subject to damage or to movement during cutting and patching. 
 2. After uncovering work, inspect conditions affecting installation of products or performance of work. Report unsatisfactory or questionable conditions to Owner’s Representative. Do not proceed with work until Owner’s Representative has provided further instructions. 

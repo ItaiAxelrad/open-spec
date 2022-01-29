@@ -5,10 +5,6 @@ divNumb: 40
 divName: Process Interconnections
 subgroup: Process Equipment
 tags: ['Process', 'Equipment', 'Interconnections']
-navigation:
-  key: Process Interconnections
-  parent: Process Equipment
-  order: 40
 ---
 
    1. Division 40

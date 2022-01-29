@@ -5,10 +5,6 @@ divNumb: 32
 divName: Exterior Improvements
 subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Asphalt', 'Paving']
-navigation:
-  key: Asphalt Paving
-  parent: Exterior Improvements
-  order: 12162.0
 ---
 
 

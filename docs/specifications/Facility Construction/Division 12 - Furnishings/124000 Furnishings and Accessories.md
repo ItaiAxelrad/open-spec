@@ -5,10 +5,6 @@ divNumb: 12
 divName: Furnishings
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Furnishings', 'Accessories']
-navigation:
-  key: Furnishings and Accessories
-  parent: Furnishings
-  order: 4000.0
 ---
 
 

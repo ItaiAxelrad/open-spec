@@ -5,10 +5,6 @@ divNumb: 9
 divName: Finishes
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Finishes', 'Petrolatum', 'Wax', 'Tape', 'Coating']
-navigation:
-  key: Petrolatum Wax Tape Coating
-  parent: Finishes
-  order: 9710.0
 ---
 
 1. SECTION 09902
@@ -60,7 +56,9 @@ General
 1. 2.05 OTHER PETROLATUM WAX TAPE SYSTEM COMPONENTS** 
    1. Any components not listed above, but required for a complete petrolatum wax tape coating system as recommended for this application by the manufacturer shall be provided at no additional cost to Owner. 
 1. 
-Execution
+
+## Execution
+
 1. 3.1 GENERAL** 
    1. The petrolatum wax tape system shall be installed in conformance with the manufacturer’s recommendations. 
 1. END OF SECTION

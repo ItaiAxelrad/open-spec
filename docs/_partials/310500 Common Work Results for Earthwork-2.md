@@ -5,10 +5,6 @@ divNumb: 31
 divName: Earthwork
 subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Earthwork', 'Common', 'Work', 'Results', 'for']
-navigation:
-  key: Common Work Results for Earthwork
-  parent: Earthwork
-  order: 5002.0
 ---
 
    1. EARTHWORK

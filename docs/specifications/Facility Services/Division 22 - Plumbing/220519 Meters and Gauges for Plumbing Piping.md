@@ -5,10 +5,6 @@ divNumb: 22
 divName: Plumbing
 subgroup: Facility Services
 tags: ['Facility', 'Services', 'Plumbing', 'Meters', 'Gauges', 'for', 'Piping']
-navigation:
-  key: Meters and Gauges for Plumbing Piping
-  parent: Plumbing
-  order: 519.0
 ---
 
 

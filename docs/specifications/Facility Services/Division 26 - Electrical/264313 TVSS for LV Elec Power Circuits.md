@@ -5,10 +5,6 @@ divNumb: 26
 divName: Electrical
 subgroup: Facility Services
 tags: ['Facility', 'Services', 'Electrical', 'TVSS', 'for', 'LV', 'Elec', 'Power', 'Circuits']
-navigation:
-  key: TVSS for LV Elec Power Circuits
-  parent: Electrical
-  order: 4313.0
 ---
 
 
@@ -222,7 +218,9 @@ General
     1. L-L:
        1. 550
 1. 
-Execution
+
+## Execution
+
 1. EXAMINATION
    1. Site Verification of Conditions:
       1. The manufacturer’s representative shall examine the areas and conditions under which the transient voltage surge suppressors are to be installed and advise the Electrical Contractor in writing of conditions detrimental to the completion of work. Furnish installation instructions for use by the Electrical Contractor.

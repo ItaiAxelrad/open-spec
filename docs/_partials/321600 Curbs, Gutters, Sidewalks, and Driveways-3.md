@@ -5,10 +5,6 @@ divNumb: 32
 divName: Exterior Improvements
 subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Curbs', 'Gutters', 'Sidewalks', 'Driveways']
-navigation:
-  key: Curbs, Gutters, Sidewalks, and Driveways
-  parent: Exterior Improvements
-  order: 16003.0
 ---
 
 1. SECTION 321613
@@ -99,7 +95,9 @@ General
    1. Curb and Gutter Forms
 1. Curb and gutter outside forms shall have a height equal to the full depth of the curb or gutter. The inside form of curb shall have batter as indicated and shall be securely fastened to and supported by the outside form. Rigid forms shall be provided for curb returns, except that benders or thin plank forms may be used for curb or curb returns with a radius of 10 feet or more, where grade changes occur in the return, or where the central angle is such that a rigid form with a central angle of 90 degrees cannot be used. Back forms for curb returns may be made of 1-1/2 inch benders, for the full height of the curb, cleated together. In lieu of inside forms for curbs, a curb "mule" may be used for forming and finishing this surface, provided the results are approved.
 1. 
-Execution
+
+## Execution
+
 1. SUBGRADE PREPARATION
    1. The subgrade shall be constructed to the specified grade and cross section prior to concrete placement. Subgrade shall be placed and compacted as directed or in conformance with the Soils Investigation recommendations.
    1. Sidewalk Subgrade

@@ -1,8 +1,6 @@
 ---
 title: 'Layering'
 eleventyNavigation:
-  key: Layering
-  order: 5
 date: 2021-04-10
 ---
 

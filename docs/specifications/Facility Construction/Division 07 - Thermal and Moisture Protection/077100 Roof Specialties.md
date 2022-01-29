@@ -5,10 +5,6 @@ divNumb: 7
 divName: Thermal and Moisture Protection
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Roof', 'Specialties']
-navigation:
-  key: Roof Specialties
-  parent: Thermal and Moisture Protection
-  order: 7100.0
 ---
 
    1. SECTION 07 71 00

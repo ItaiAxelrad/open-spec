@@ -5,10 +5,6 @@ divNumb: 1
 divName: General Requirements
 subgroup: General Requirements
 tags: ['General', 'Requirements', 'Testing', 'Laboratory', 'Services']
-navigation:
-  key: Testing Laboratory Services
-  parent: General Requirements
-  order: 4529.0
 ---
 
 

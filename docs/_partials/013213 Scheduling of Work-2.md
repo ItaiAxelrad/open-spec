@@ -5,10 +5,6 @@ divNumb: 1
 divName: General Requirements
 subgroup: General Requirements
 tags: ['General', 'Requirements', 'Scheduling', 'Work']
-navigation:
-  key: Scheduling of Work
-  parent: General Requirements
-  order: 32132.0
 ---
 
 1. SECTION 013200
@@ -90,7 +86,9 @@ General
    1. Failure to Submit Weekly Work Schedules
 1. If the Contractor fails to submit weekly work schedules as outlined herein, the Owner, at his option, may issue a Stop Work Order on the project until the required schedules are submitted and approved by the Owner. The Contractor shall be entitled to no additional contract time or compensation for any such delays due to work stoppages resulting from his failure to submit the required schedules.
 
-Execution
+
+## Execution
+
  — NOT USED
    1. PART 4 – SPECIAL PROVISIONS
 1. MEASUREMENT AND PAYMENT

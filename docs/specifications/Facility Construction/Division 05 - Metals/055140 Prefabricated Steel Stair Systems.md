@@ -5,10 +5,6 @@ divNumb: 5
 divName: Metals
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Metals', 'Prefabricated', 'Steel', 'Stair', 'Systems']
-navigation:
-  key: Prefabricated Steel Stair Systems
-  parent: Metals
-  order: 5140.0
 ---
 
    1. Section 05 51 00

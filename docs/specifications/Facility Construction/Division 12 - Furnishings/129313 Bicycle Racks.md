@@ -5,10 +5,6 @@ divNumb: 12
 divName: Furnishings
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Furnishings', 'Bicycle', 'Racks']
-navigation:
-  key: Bicycle Racks
-  parent: Furnishings
-  order: 9313.0
 ---
 
 1. SECTION 12 93 13

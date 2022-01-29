@@ -5,10 +5,6 @@ divNumb: 22
 divName: Plumbing
 subgroup: Facility Services
 tags: ['Facility', 'Services', 'Plumbing', 'General-Duty', 'Valves', 'for', 'Piping']
-navigation:
-  key: General-Duty Valves for Plumbing Piping
-  parent: Plumbing
-  order: 523.0
 ---
 
 

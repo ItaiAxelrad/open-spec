@@ -5,10 +5,6 @@ divNumb: 23
 divName: Heating Ventilating and Air Conditioning
 subgroup: Facility Services
 tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 'Decentralized', 'HVAC', 'Equipment']
-navigation:
-  key: Decentralized HVAC Equipment
-  parent: Heating Ventilating and Air Conditioning
-  order: 8000.0
 ---
 
 1. Copyright 2006 by The American Institute of Architects (AIA)

@@ -5,10 +5,6 @@ divNumb: 40
 divName: Process Interconnections
 subgroup: Process Equipment
 tags: ['Process', 'Equipment', 'Interconnections', 'Specialized', 'Pressure', 'Flow-Control', 'Valves']
-navigation:
-  key: Specialized Pressure and Flow-Control Valves
-  parent: Process Interconnections
-  order: 5672.0
 ---
 
 1. SECTION 15112
@@ -52,7 +48,9 @@ General
 1. 2.03 WARNING/IDENTIFICATION TAPE
    1. Warning/Identification Tape shall be in accordance with Section 15000 and the Approved Materials List.
 1. 
-Execution
+
+## Execution
+
 1. 3.01 INSTALLATION
    1. Installation shall comply with the latest edition of the Uniform Plumbing Code, applicable local agency and City requirements.
 2. Backflow prevention assemblies shall be installed in accordance with the Standard Drawings.

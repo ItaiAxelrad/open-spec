@@ -5,16 +5,10 @@ divNumb: 1
 divName: General Requirements
 subgroup: General Requirements
 tags: ['General', 'Requirements', 'Startup', 'Procedures']
-navigation:
-  key: Startup Procedures
-  parent: General Requirements
-  order: 75162.0
 ---
 
-1. Section 01 75 00
-1. System Start-Up
+## General
 
-General
 1. Summary
    1. Section Includes:
 	1. Procedures and actions, required of the Contractor, which are necessary to achieve and demonstrate Substantial Completion.
@@ -22,18 +16,18 @@ General
 2. Definitions
    1. Facility Process System (FPS):
       1. A defined part of the Project, consisting of an arrangement of items, such as equipment, structures, components, piping, wiring, materials, or incidentals, so related or connected to form an identifiable, unified, functional, operational, safe, and independent system.
-2. Pre-Commissioning Period:
+3. Pre-Commissioning Period:
       1. The period of time, of unspecified duration after initial construction and installation activities during which Contractor, with assistance from manufacturer's representatives, performs in the following sequence:
-	1. Finishing type construction work to ensure the each FPS has reached a state of Substantial Completion.
-	2. Equipment start-up.
-	3. Personnel training.
-	4. A period of time during which the Contractor initiates process flow through the Project Classified System and starts up and operates the FPS, to prove the functional integrity of the mechanical and electrical equipment and components and the control interfaces of the respective equipment and components comprising the Project Classified System as evidence of Substantial Completion.
-3. Substantial Completion:
+	3. Finishing type construction work to ensure the each FPS has reached a state of Substantial Completion.
+	4. Equipment start-up.
+	5. Personnel training.
+	6. A period of time during which the Contractor initiates process flow through the Project Classified System and starts up and operates the FPS, to prove the functional integrity of the mechanical and electrical equipment and components and the control interfaces of the respective equipment and components comprising the Project Classified System as evidence of Substantial Completion.
+4. Substantial Completion:
       1. See the General Conditions.
-3. SUBMITTALS
+5. SUBMITTALS
    1. See Specification Section 01 33 00 for requirements for the mechanics and administration of the submittal process.
-2. Submit in the chronological order listed below prior to the completion of the Pre-Commissioning Period.
-	1. Master operation and maintenance training schedule:
+6. Submit in the chronological order listed below prior to the completion of the Pre-Commissioning Period.
+	7. Master operation and maintenance training schedule:
 		1. Submit 30 days (minimum) prior to first training session for Owner's personnel.
 		2. Schedule to include:
 			1. Target date and time for Owner witnessing of each system initial start-up.
@@ -46,13 +40,13 @@ General
 			2. Identify initial target dates for individual manufacturer's training sessions.
 		6. Owner reserves the right to insist on a minimum seven (7) days' notice of rescheduled training session not conducted on master schedule target date for any reason.
 		7. Schedule to be resubmitted until approved.
-	2. Master system start-up plan:
+	8. Master system start-up plan:
 		1. Include approved master operation and maintenance training schedule.
 		2. Detailed course of action for start-up of:
 			1. Individual items of equipment.
 			2. Individual Facility Process Systems as listed in this Specification Section.
 			3. Any other ancillary items affecting the system performance, functionality, or operational abilities.
-	3. Substantial Completion Submittal:
+	9. Substantial Completion Submittal:
 		1. File Contractor's Notice of Substantial Completion and Request for Inspection.
 		2. Approved Operation and Maintenance manuals received by Engineer minimum 10 days prior to scheduled training.
 		3. Written request for Owner to witness each system pre-commissioning start-up.
@@ -60,24 +54,26 @@ General
 		4. Equipment installation and pre-commissioning start-up certifications.
 		5. Letter verifying completion of all pre-commissioning start-up activities including receipt of all specified items from manufacturers or suppliers as final item prior to initiation of Commissioning Period.
 		6. Verification all facility controls have been tested and were able to provide the intended operator control capabilities as required in the Contract Documents.
-	4. Submit a flash drive with all operator training videos.
-4. Sequencing and Scheduling
+	10. Submit a flash drive with all operator training videos.
+7. Sequencing and Scheduling
    1. Facility Process Systems (FPS's) established as follows:
-	1. FPS #1 – Raw water supply system
-	2. FPS #2 – Filter 1
-	3. FPS #3 – Filter 2
-	4. FPS #4 – Filter 3
-	5. FPS #5 – Filter 4
-	6. FPS #6 – UV system
-	7. FPS #7 – Chlorine contact chamber and clearwell
-	8. FPS #8 – Distribution pump system
-	9. FPS #9 – Backwash supply and waste system
-	10. FPS #10 – Air compressor systems
-5. Cost of Start-up
+	11. FPS #1 – Raw water supply system
+	12. FPS #2 – Filter 1
+	13. FPS #3 – Filter 2
+	14. FPS #4 – Filter 3
+	15. FPS #5 – Filter 4
+	16. FPS #6 – UV system
+	17. FPS #7 – Chlorine contact chamber and clearwell
+	18. FPS #8 – Distribution pump system
+	19. FPS #9 – Backwash supply and waste system
+	20. FPS #10 – Air compressor systems
+8. Cost of Start-up
    1. Contractor to pay all costs associated with System start-up.
    ## Product
 
-Execution
+
+## Execution
+
 
 ## General
 

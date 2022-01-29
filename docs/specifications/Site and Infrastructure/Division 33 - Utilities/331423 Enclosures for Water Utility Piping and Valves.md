@@ -5,10 +5,6 @@ divNumb: 33
 divName: Utilities
 subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Utilities', 'Enclosures', 'for', 'Water', 'Utility', 'Piping', 'Valves']
-navigation:
-  key: Enclosures for Water Utility Piping and Valves
-  parent: Utilities
-  order: 1423.0
 ---
 
    1. SECTION 03482

@@ -5,10 +5,6 @@ divNumb: 26
 divName: Electrical
 subgroup: Facility Services
 tags: ['Facility', 'Services', 'Electrical', 'Grounding']
-navigation:
-  key: Grounding
-  parent: Electrical
-  order: 526.0
 ---
 
 

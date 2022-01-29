@@ -5,10 +5,6 @@ divNumb: 23
 divName: Heating Ventilating and Air Conditioning
 subgroup: Facility Services
 tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 'Ident', 'for', 'HVAC', 'Piping', 'Equip']
-navigation:
-  key: Ident for HVAC Piping Equip
-  parent: Heating Ventilating and Air Conditioning
-  order: 553.0
 ---
 
 

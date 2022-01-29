@@ -5,10 +5,6 @@ divNumb: 40
 divName: Process Interconnections
 subgroup: Process Equipment
 tags: ['Process', 'Equipment', 'Interconnections', 'Butterfly', 'Valves']
-navigation:
-  key: Butterfly Valves
-  parent: Process Interconnections
-  order: 564.0
 ---
 
    1. section 40 05 64
@@ -69,7 +65,9 @@ General
 	2. Utilize O-rings to eliminate the use of flange gaskets. 
 	3. Tongue and groove design.
 
-Execution
+
+## Execution
+
 1. 3.1 Installation
    1. Install Butterfly Valves based on manufacturer’s installation instructions.
 

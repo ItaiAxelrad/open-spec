@@ -5,10 +5,6 @@ divNumb: 7
 divName: Thermal and Moisture Protection
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Insulation']
-navigation:
-  key: Thermal Insulation
-  parent: Thermal and Moisture Protection
-  order: 21001.0
 ---
 
    1. Section 07 21 00

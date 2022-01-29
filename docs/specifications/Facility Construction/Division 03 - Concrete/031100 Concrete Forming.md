@@ -5,10 +5,6 @@ divNumb: 3
 divName: Concrete
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Concrete', 'Forming']
-navigation:
-  key: Concrete Forming
-  parent: Concrete
-  order: 1100.0
 ---
 
    1. Section 03 11 00
@@ -102,7 +98,9 @@ General
       1. 
 	1. Fabricated from fiberglass, elastomeric material, or urethane.
 
-Execution
+
+## Execution
+
 1. 3.1 Preparation
    1. Form Surface Treatment:
 	1. Before placing of either reinforcing steel or concrete, cover surfaces of forms with an approved coating material that will effectively prevent absorption of moisture and prevent bond with concrete, will not stain concrete or prevent bonding of future finishes.

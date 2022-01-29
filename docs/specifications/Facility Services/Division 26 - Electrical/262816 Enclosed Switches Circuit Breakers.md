@@ -5,10 +5,6 @@ divNumb: 26
 divName: Electrical
 subgroup: Facility Services
 tags: ['Facility', 'Services', 'Electrical', 'Enclosed', 'Switches', 'Circuit', 'Breakers']
-navigation:
-  key: Enclosed Switches Circuit Breakers
-  parent: Electrical
-  order: 2816.0
 ---
 
 

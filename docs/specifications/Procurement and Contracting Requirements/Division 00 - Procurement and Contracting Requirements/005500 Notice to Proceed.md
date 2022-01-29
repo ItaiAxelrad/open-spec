@@ -5,10 +5,6 @@ divNumb: 0
 divName: Procurement and Contracting Requirements
 subgroup: Procurement and Contracting Requirements
 tags: ['Procurement', 'Contracting', 'Requirements', 'Notice', 'to', 'Proceed']
-navigation:
-  key: Notice to Proceed
-  parent: Procurement and Contracting Requirements
-  order: 5500.0
 ---
 
    1. SECTION 00 55 00

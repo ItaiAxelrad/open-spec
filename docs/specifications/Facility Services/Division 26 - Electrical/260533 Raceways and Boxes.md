@@ -5,10 +5,6 @@ divNumb: 26
 divName: Electrical
 subgroup: Facility Services
 tags: ['Facility', 'Services', 'Electrical', 'Raceways', 'Boxes']
-navigation:
-  key: Raceways and Boxes
-  parent: Electrical
-  order: 533.0
 ---
 
 

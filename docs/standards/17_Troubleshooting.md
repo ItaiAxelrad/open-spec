@@ -1,8 +1,6 @@
 ---
 title: 'Troubleshooting'
 eleventyNavigation:
-  key: Troubleshooting
-  order: 17
 date: 2021-04-10
 ---
 

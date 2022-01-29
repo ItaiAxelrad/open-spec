@@ -5,10 +5,6 @@ divNumb: 23
 divName: Heating Ventilating and Air Conditioning
 subgroup: Facility Services
 tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 'Hangers', 'Supports', 'HVAC', 'Piping', 'Equip']
-navigation:
-  key: Hangers Supports HVAC Piping Equip
-  parent: Heating Ventilating and Air Conditioning
-  order: 529.0
 ---
 
 

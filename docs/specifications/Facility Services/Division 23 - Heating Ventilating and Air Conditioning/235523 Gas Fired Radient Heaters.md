@@ -5,10 +5,6 @@ divNumb: 23
 divName: Heating Ventilating and Air Conditioning
 subgroup: Facility Services
 tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 'Gas', 'Fired', 'Radient', 'Heaters']
-navigation:
-  key: Gas Fired Radient Heaters
-  parent: Heating Ventilating and Air Conditioning
-  order: 5523.0
 ---
 
 1. Copyright 2004 and 2005 by The American Institute of Architects (AIA)

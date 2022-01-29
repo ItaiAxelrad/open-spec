@@ -5,10 +5,6 @@ divNumb: 23
 divName: Heating Ventilating and Air Conditioning
 subgroup: Facility Services
 tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 'Testing', 'Piping', 'Systems']
-navigation:
-  key: Testing of Piping Systems
-  parent: Heating Ventilating and Air Conditioning
-  order: 594.0
 ---
 
 1. SECTION 23 05 94

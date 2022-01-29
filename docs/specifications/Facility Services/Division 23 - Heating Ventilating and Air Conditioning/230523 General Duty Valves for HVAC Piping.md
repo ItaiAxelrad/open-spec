@@ -5,10 +5,6 @@ divNumb: 23
 divName: Heating Ventilating and Air Conditioning
 subgroup: Facility Services
 tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 'General', 'Duty', 'Valves', 'for', 'HVAC', 'Piping']
-navigation:
-  key: General Duty Valves for HVAC Piping
-  parent: Heating Ventilating and Air Conditioning
-  order: 523.0
 ---
 
 1. Copyright 2005 by The American Institute of Architects (AIA)

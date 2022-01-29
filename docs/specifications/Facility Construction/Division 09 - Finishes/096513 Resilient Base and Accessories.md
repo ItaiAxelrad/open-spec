@@ -5,10 +5,6 @@ divNumb: 9
 divName: Finishes
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Finishes', 'Resilient', 'Base', 'Accessories']
-navigation:
-  key: Resilient Base and Accessories
-  parent: Finishes
-  order: 6513.0
 ---
 
 

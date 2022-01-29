@@ -5,64 +5,58 @@ divNumb: 2
 divName: Existing Conditions
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Existing', 'Conditions', 'Demolition']
-navigation:
-  key: Demolition
-  parent: Existing Conditions
-  order: 4000.0
 ---
 
-   1. Section 02 40 00
-   1. Demolition
-
-General
-
-* 
-	1. **Summary
+## General
+ 
+1. Summary
    1. Section Includes:
-	1. Demolition, cutting and patching of existing construction where shown on Drawings, or as required to accommodate new work shown or specified.
-	2. Removal and protection of items identified to be saved or reused.
-	3. Removal and disposal of equipment and valves that are being replaced or are no longer needed.
-	4. **Quality Assurance
-2. Comply with safety requirements for demolition, ANSI A10.6-83. 
-	1. Erect suitable barriers around open excavations.
-	2. Blasting will not be permitted without prior approval of Project Engineer. 
-	3. No burning will be permitted.
-	4. **Project Conditions
-3. Perform preliminary investigations as required to ascertain extent of work.
-4. Any and all materials removed, unless designated to be salvaged or reused, shall become the property of the Contractor and disposed of offsite in a legal manner.
-5. Materials to be reused shall be protected from defacing or damage, and shall be reused in conformance with the applicable specification sections and in the configuration shown on the construction plans.
-6. Materials to be salvaged shall be protected from defacing and damage, and shall be stockpiled in a location designated by the Project Engineer.
-   ## Product
-1. 2.1 Acceptable Manufacturers
+	2. Demolition, cutting and patching of existing construction where shown on Drawings, or as required to accommodate new work shown or specified.
+	3. Removal and protection of items identified to be saved or reused.
+	4. Removal and disposal of equipment and valves that are being replaced or are no longer needed.
+	5. **Quality Assurance
+1. Comply with safety requirements for demolition, ANSI A10.6-83. 
+	6. Erect suitable barriers around open excavations.
+	7. Blasting will not be permitted without prior approval of Project Engineer. 
+	8. No burning will be permitted.
+	9. **Project Conditions
+2. Perform preliminary investigations as required to ascertain extent of work.
+3. Any and all materials removed, unless designated to be salvaged or reused, shall become the property of the Contractor and disposed of offsite in a legal manner.
+4. Materials to be reused shall be protected from defacing or damage, and shall be reused in conformance with the applicable specification sections and in the configuration shown on the construction plans.
+5. Materials to be salvaged shall be protected from defacing and damage, and shall be stockpiled in a location designated by the Project Engineer.
+## Product
+
+6. 2.1 Acceptable Manufacturers
    1. Subject to compliance with the Contract Documents, the following products and manufacturers are acceptable:
-	1. Non-shrink grout:
+	10. Non-shrink grout:
 		1. NS Grout by Euclid Chemical, or equal.
 		2. Masterflow 713 Plus by BASF Building Systems, or equal.
 		3. Sika Grout 212 by Sika, or equal.
-	2. Epoxy bonding adhesive:
+	11. Epoxy bonding adhesive:
 		1. Euco No.452 MV by Euclid Chemical Co., or equal.
 		2. Sikadur 32, Hi-Mod by Sika Corporation, or equal.
-	3. Epoxy patch:
+	12. Epoxy patch:
 		1. Depth of patch:
 			1. Greater than 3/4 IN: Five Star MP Epoxy Patch, or equal.
 			2. Between 1/8 IN and 3/4 IN: Five Star Fluid Epoxy, or equal.
-	4. Storage Oil:
+	13. Storage Oil:
 		1. Shell VSI No. 33, or equal.
-	5. Rust-Preventive Compound:
+	14. Rust-Preventive Compound:
 		1. Houghton "Rust Veto 344, "Rust-Oleum T-9," or equal.
-2. Submit request for substitution in accordance with Specification Section 01 25 00.
-	1. **Materials
-3. Non-shrink Grout:
-	1. Nonmetallic, noncorrosive and non-staining.
-	2. Premixed with only water to be added in accordance with manufacturer's instructions at jobsite.
-	3. Grout to produce a positive but controlled expansion.
+7. Submit request for substitution in accordance with Specification Section 01 25 00.
+	15. **Materials
+8. Non-shrink Grout:
+	16. Nonmetallic, noncorrosive and non-staining.
+	17. Premixed with only water to be added in accordance with manufacturer's instructions at job site.
+	18. Grout to produce a positive but controlled expansion.
 		1. Mass expansion not to be created by gas liberation or by other means.
-	4. Minimum compressive strength at 28 days to be 6500 psi.
-	5. Coat exposed edges of grout with a cure/seal compound recommended by grout manufacturer.
-4. Epoxy Bonding Adhesive:
-	1. Two component, moisture insensitive adhesive manufactured for the purpose of bonding fresh concrete to hardened concrete.
+	19. Minimum compressive strength at 28 days to be 6500 psi.
+	20. Coat exposed edges of grout with a cure/seal compound recommended by grout manufacturer.
+9. Epoxy Bonding Adhesive:
+	21. Two component, moisture insensitive adhesive manufactured for the purpose of bonding fresh concrete to hardened concrete.
 
-Execution
+## Execution
+
 1. 3.1 Preparation
    1. Protect structures, pavement, utilities, and vegetation to remain.
 2. Provide and maintain temporary weather protection as necessary.
@@ -143,4 +137,3 @@ Execution
 	6. Establish and maintain an accurate record of all monitoring, handling and waste disposal. Records for tests shall include records of who collected the tests, number of tests, dates, collection locations and results of each sample acquired. Maintain monitoring and other exposure records in accordance with State and Federal regulations. Maintain manifests for of disposal sites and shipping dates. Submit copies of all records to Owner.
 	7. **Disposal
 6. Remove demolition debris daily; handle potential Hazardous Materials per State and Federal regulations.
-

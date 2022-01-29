@@ -5,10 +5,6 @@ divNumb: 43
 divName: Process Gas and Liquid Handling, Purification, and Storage Equipment
 subgroup: Process Equipment
 tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Storage', 'Submersible', 'Grinder', 'Pumps']
-navigation:
-  key: Submersible Grinder Pumps
-  parent: Process Gas and Liquid Handling, Purification, and Storage Equipment
-  order: 2613.0
 ---
 
    1. SECTION 43 26 13
@@ -127,7 +123,9 @@ General
 	10. Finish: 
 		1. Mill finish with bituminous coating applied to exterior of frame.
 
-Execution
+
+## Execution
+
    1. INSTALLATION
 	1. All materials and equipment shall be installed as shown on the Drawings and as recommended by the manufacturers.
 	2. Additional items of construction, such as concrete work, interior grouting, piping, vents, valves, controls, and other items necessary for the complete installation of the system shall conform to specific details on the Drawings and shall be constructed of materials conforming to the applicable portions of these Specifications.

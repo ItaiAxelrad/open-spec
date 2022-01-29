@@ -5,10 +5,6 @@ divNumb: 22
 divName: Plumbing
 subgroup: Facility Services
 tags: ['Facility', 'Services', 'Plumbing', 'Chemical-Waste', 'Systems', 'for', 'Laboratory', 'Healthcare', 'Facilities']
-navigation:
-  key: Chemical-Waste Systems for Laboratory and Healthcare Facilities
-  parent: Plumbing
-  order: 6600.0
 ---
 
 

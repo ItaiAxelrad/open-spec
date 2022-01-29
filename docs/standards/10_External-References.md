@@ -1,8 +1,6 @@
 ---
 title: 'External References'
 eleventyNavigation:
-  key: External References
-  order: 10
 date: 2021-04-12
 ---
 

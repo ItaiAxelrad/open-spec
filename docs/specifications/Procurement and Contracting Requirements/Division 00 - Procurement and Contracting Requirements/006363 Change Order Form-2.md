@@ -5,10 +5,6 @@ divNumb: 0
 divName: Procurement and Contracting Requirements
 subgroup: Procurement and Contracting Requirements
 tags: ['Procurement', 'Contracting', 'Requirements', 'Change', 'Order', 'Form']
-navigation:
-  key: Change Order Form
-  parent: Procurement and Contracting Requirements
-  order: 63632.0
 ---
 
 1. Engineers Joint Documents Committee

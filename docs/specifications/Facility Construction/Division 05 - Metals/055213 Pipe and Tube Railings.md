@@ -5,10 +5,6 @@ divNumb: 5
 divName: Metals
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Metals', 'Pipe', 'Tube', 'Railings']
-navigation:
-  key: Pipe and Tube Railings
-  parent: Metals
-  order: 5213.0
 ---
 
    1. SECTION 05 52 13

@@ -5,10 +5,6 @@ divNumb: 9
 divName: Finishes
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Finishes', 'Non-Structural', 'Metal', 'Framing']
-navigation:
-  key: Non-Structural Metal Framing
-  parent: Finishes
-  order: 2216.0
 ---
 
    1. SECTION 092216 - NON-STRUCTURAL METAL FRAMING 
@@ -28,7 +24,9 @@ Sections, apply to this Section.
       1. For fire-resistance-rated assemblies that incorporate non- load-bearing steel framing, provide materials and construction identical to those tested in assembly indicated according to ASTM E 119 by an independent testing agency.
    1. Sound Transmission Characteristics:
       1. For STC-rated assemblies that incorporate non-load- bearing steel framing, provide materials and construction identical to those tested in assembly indicated according to ASTM E 90 and classified according to ASTM E 413 by an independent testing agency.
-Product
+
+## Product
+
 1. NON-LOAD-BEARING STEEL FRAMING, GENERAL
    1. Framing Members, General:
       1. Comply with ASTM C 754 for conditions indicated.

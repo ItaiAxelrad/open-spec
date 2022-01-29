@@ -5,10 +5,6 @@ divNumb: 1
 divName: General Requirements
 subgroup: General Requirements
 tags: ['General', 'Requirements', 'Reference', 'Standards']
-navigation:
-  key: Reference Standards
-  parent: General Requirements
-  order: 4219.0
 ---
 
    1. Section 01 42 19
@@ -422,6 +418,8 @@ General
    1. Western Wood Preservers Institute 
    ## Product (Not Used)
 
-Execution
+
+## Execution
+
  (Not Used)
 

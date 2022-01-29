@@ -5,10 +5,6 @@ divNumb: 43
 divName: Process Gas and Liquid Handling, Purification, and Storage Equipment
 subgroup: Process Equipment
 tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Storage', 'Controlled', 'Volume', 'Vertical', 'Reciprocating', 'Pumps']
-navigation:
-  key: Controlled Volume Vertical Reciprocating Pumps
-  parent: Process Gas and Liquid Handling, Purification, and Storage Equipment
-  order: 2379.0
 ---
 
    1. Section 43 23 79
@@ -60,7 +56,9 @@ General
 	1. CHEM-FEED Diaphragm Metering Pumps
 		1. Model: C15N443X000E00
 
-Execution
+
+## Execution
+
 1. 3.1 Installation
    1. Turbidity analyzer booster pump:
 	1. Install the chemical feed pumps as indicated on the drawings and specified and in compliance with the manufacturer’s instructions.

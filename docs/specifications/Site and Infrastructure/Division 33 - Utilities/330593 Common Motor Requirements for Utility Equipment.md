@@ -5,10 +5,6 @@ divNumb: 33
 divName: Utilities
 subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Utilities', 'Common', 'Motor', 'Requirements', 'for', 'Utility', 'Equipment']
-navigation:
-  key: Common Motor Requirements for Utility Equipment
-  parent: Utilities
-  order: 593.0
 ---
 
 1. SECTION 33 05 12

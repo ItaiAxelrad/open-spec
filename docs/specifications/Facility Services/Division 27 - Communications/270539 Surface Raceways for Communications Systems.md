@@ -5,10 +5,6 @@ divNumb: 27
 divName: Communications
 subgroup: Facility Services
 tags: ['Facility', 'Services', 'Communications', 'Surface', 'Raceways', 'for', 'Systems']
-navigation:
-  key: Surface Raceways for Communications Systems
-  parent: Communications
-  order: 539.0
 ---
 
 1. 
@@ -47,7 +43,9 @@ General
    1. Bridle Rings:
       1. Twin, back-to-back, 4” rings on single support stem with opening at the top for cable lay-in capabilities.
 1. 
-Execution
+
+## Execution
+
 1. 3.1 EXAMINATION
    1. Examine all drawings and construction documentation for compliance with requirements and other conditions affecting the performance of the system work.
    1. Prior to the installation of wiring (by others), inspect the conduit system for conformance of the system with space allocations, installation tolerances, hazards to cable installation, other conditions affecting installation, and the requirements of the Drawings and Specifications. Replace deficient or damaged items with new and reinspect until satisfactory conditions are achieved. Correction of deficiencies shall be made at the Contractor’s expense.

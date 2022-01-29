@@ -5,10 +5,6 @@ divNumb: 3
 divName: Concrete
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Concrete', 'Curing']
-navigation:
-  key: Concrete Curing
-  parent: Concrete
-  order: 3900.0
 ---
 
 

@@ -5,10 +5,6 @@ divNumb: 1
 divName: General Requirements
 subgroup: General Requirements
 tags: ['General', 'Requirements', 'Commissiong']
-navigation:
-  key: General Commissiong Requirements
-  parent: General Requirements
-  order: 9113.0
 ---
 
 

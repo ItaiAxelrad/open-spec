@@ -5,10 +5,6 @@ divNumb: 3
 divName: Concrete
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Concrete', 'Maintenance']
-navigation:
-  key: Maintenance of Concrete
-  parent: Concrete
-  order: 100.0
 ---
 
    1. Section 03 01 00
@@ -108,7 +104,9 @@ General
 	1. One (1) part cement to two and one-half (2-1/2) parts aggregate by damp loose volume.
 		1. Substitute white Portland cement for a part of gray Portland cement to produce color matching surrounding concrete.
 
-Execution
+
+## Execution
+
 1. 3.1 Preparation
    1. For methods of curing, see Specification Section 03 31 00.
 2. Preparation of Bonding Grout Mixture:

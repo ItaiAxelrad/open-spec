@@ -5,10 +5,6 @@ divNumb: 0
 divName: Procurement and Contracting Requirements
 subgroup: Procurement and Contracting Requirements
 tags: ['Procurement', 'Contracting', 'Requirements', 'Instructions', 'to', 'Bidders']
-navigation:
-  key: Instructions to Bidders
-  parent: Procurement and Contracting Requirements
-  order: 2113.0
 ---
 
    1. SECTION 00 21 13

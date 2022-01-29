@@ -5,10 +5,6 @@ divNumb: 23
 divName: Heating Ventilating and Air Conditioning
 subgroup: Facility Services
 tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 'HVAC', 'Fans']
-navigation:
-  key: HVAC Fans 2
-  parent: Heating Ventilating and Air Conditioning
-  order: 34002.0
 ---
 
    1. Section 23 34 00

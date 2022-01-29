@@ -5,10 +5,6 @@ divNumb: 28
 divName: Electronics Safety and Security
 subgroup: Facility Services
 tags: ['Facility', 'Services', 'Electronics', 'Safety', 'Security', 'Access', 'Control']
-navigation:
-  key: Access Control
-  parent: Electronics Safety and Security
-  order: 1000.0
 ---
 
 1. Copyright 2002 and 2005 (R 06/03), The American Institute of Architects (AIA)

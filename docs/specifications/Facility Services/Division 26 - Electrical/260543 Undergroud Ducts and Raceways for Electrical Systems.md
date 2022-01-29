@@ -5,10 +5,6 @@ divNumb: 26
 divName: Electrical
 subgroup: Facility Services
 tags: ['Facility', 'Services', 'Electrical', 'Undergroud', 'Ducts', 'Raceways', 'for', 'Systems']
-navigation:
-  key: Undergroud Ducts and Raceways for Electrical Systems
-  parent: Electrical
-  order: 543.0
 ---
 
 

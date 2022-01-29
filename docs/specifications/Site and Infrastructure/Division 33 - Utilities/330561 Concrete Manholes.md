@@ -5,10 +5,6 @@ divNumb: 33
 divName: Utilities
 subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Utilities', 'Concrete', 'Manholes']
-navigation:
-  key: Concrete Manholes
-  parent: Utilities
-  order: 561.0
 ---
 
    1. SECTION 02601

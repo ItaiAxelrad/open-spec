@@ -5,10 +5,6 @@ divNumb: 11
 divName: Equipment
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Equipment', 'Playground']
-navigation:
-  key: Playground Equipment
-  parent: Equipment
-  order: 6813.0
 ---
 
    1. SECTION 11 68 13

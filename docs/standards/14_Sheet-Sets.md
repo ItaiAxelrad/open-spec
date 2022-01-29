@@ -1,8 +1,6 @@
 ---
 title: 'Sheet Sets'
 eleventyNavigation:
-  key: Sheet Sets
-  order: 14
 date: 2021-04-10
 ---
 

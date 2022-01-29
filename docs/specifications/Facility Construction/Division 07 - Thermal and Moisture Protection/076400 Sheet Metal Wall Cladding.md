@@ -5,10 +5,6 @@ divNumb: 7
 divName: Thermal and Moisture Protection
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Sheet', 'Metal', 'Wall', 'Cladding']
-navigation:
-  key: Sheet Metal Wall Cladding
-  parent: Thermal and Moisture Protection
-  order: 6400.0
 ---
 
 

@@ -5,10 +5,6 @@ divNumb: 10
 divName: Specialties
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Specialties', 'Toilet', 'Accessories']
-navigation:
-  key: Toilet Accessories
-  parent: Specialties
-  order: 2813.0
 ---
 
 

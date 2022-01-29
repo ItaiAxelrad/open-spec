@@ -5,10 +5,6 @@ divNumb: 8
 divName: Openings
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Openings', 'Hollow', 'Metal', 'Doors', 'Frames']
-navigation:
-  key: Hollow Metal Doors and Frames
-  parent: Openings
-  order: 1113.0
 ---
 
    1. Section 08 10 00
@@ -145,7 +141,9 @@ General
 		1. Preparing doors for non-handed hinges is not acceptable.
 16. After fabrication, clean off mill scale and foreign materials and prime with rust inhibiting primer.
 
-Execution
+
+## Execution
+
 1. 3.1 Installation
    1. Install doors and frames in accordance with SDI/ANSI A250.11, the Building Code IECC and manufacturer's instructions.
 2. Plumb, align, and brace frames securely until permanently anchored.

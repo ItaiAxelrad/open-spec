@@ -5,10 +5,6 @@ divNumb: 26
 divName: Electrical
 subgroup: Facility Services
 tags: ['Facility', 'Services', 'Electrical', 'Common', 'Work', 'Results', 'for']
-navigation:
-  key: Common Work Results for Electrical
-  parent: Electrical
-  order: 500.0
 ---
 
 

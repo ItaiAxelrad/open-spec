@@ -5,10 +5,6 @@ divNumb: 31
 divName: Earthwork
 subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Earthwork', 'Erosion', 'Sedimentation', 'Controls']
-navigation:
-  key: Erosion and Sedimentation Controls
-  parent: Earthwork
-  order: 25002.0
 ---
 
 1. SECTION 313211
@@ -416,7 +412,9 @@ Parameter Range
 11. WATER
    1. Unless otherwise directed, water shall be the responsibility of the Contractor. Water shall be greywater, potable or supplied by an existing irrigation system.
 1. 
-Execution
+
+## Execution
+
 1. CONDITIONS
    1. Erosion control operations shall be performed under favorable weather conditions; when
 excessive moisture, frozen ground or other unsatisfactory conditions prevail, the work shall be stopped as directed. When special conditions warrant a variance to earthwork operations, submit a revised construction schedule for approval. Do not apply erosion control materials in adverse weather conditions which could affect their performance.

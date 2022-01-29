@@ -5,10 +5,6 @@ divNumb: 0
 divName: Procurement and Contracting Requirements
 subgroup: Procurement and Contracting Requirements
 tags: ['Procurement', 'Contracting', 'Requirements', 'Notice', 'Award']
-navigation:
-  key: Notice of Award
-  parent: Procurement and Contracting Requirements
-  order: 5100.0
 ---
 
    1. SECTION 005100

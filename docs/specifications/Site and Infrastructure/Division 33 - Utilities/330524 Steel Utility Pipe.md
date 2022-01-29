@@ -5,10 +5,6 @@ divNumb: 33
 divName: Utilities
 subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Utilities', 'Steel', 'Utility', 'Pipe']
-navigation:
-  key: Steel Utility Pipe
-  parent: Utilities
-  order: 524.0
 ---
 
 1. SECTION 15053
@@ -118,7 +114,9 @@ General
 1. 2.09 WARNING/IDENTIFICATION TAPE
    1. Warning/Identification tape materials shall be in accordance with Section 15000 and selected from the Approved Materials List.
 1. 
-Execution
+
+## Execution
+
 1. 3.01 STEEL PIPE FABRICATION
    1. Fabrication:
       1. Fabrication shall comply with ANSI B31.3, Chapter V. 

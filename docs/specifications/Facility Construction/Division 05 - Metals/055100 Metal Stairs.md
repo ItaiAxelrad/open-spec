@@ -5,10 +5,6 @@ divNumb: 5
 divName: Metals
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Metals', 'Metal', 'Stairs']
-navigation:
-  key: Metal Stairs
-  parent: Metals
-  order: 5100.0
 ---
 
 

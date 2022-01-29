@@ -5,10 +5,6 @@ divNumb: 27
 divName: Communications
 subgroup: Facility Services
 tags: ['Facility', 'Services', 'Communications', 'Communication', 'Horizontal', 'Cabling']
-navigation:
-  key: Communication Horizontal Cabling
-  parent: Communications
-  order: 1500.0
 ---
 
 1. Copyright 2005 by The American Institute of Architects (AIA)

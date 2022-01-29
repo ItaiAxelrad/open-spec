@@ -5,10 +5,6 @@ divNumb: 10
 divName: Specialties
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Specialties', 'Identification', 'Devices']
-navigation:
-  key: Identification Devices
-  parent: Specialties
-  order: 1401.0
 ---
 
    1. Section 10 14 00
@@ -134,7 +130,9 @@ General
 	3. Screws: Self-tapping, stainless steel.
 	4. Adhesive, solvent activated.
 
-Execution
+
+## Execution
+
 1. 3.1 General Installation
    1. Install identification devices at specified locations.
 2. All identification devices to be printed by mechanical process, hand printing is not acceptable.

@@ -5,10 +5,6 @@ divNumb: 26
 divName: Electrical
 subgroup: Facility Services
 tags: ['Facility', 'Services', 'Electrical', 'SWITCHBOARDS']
-navigation:
-  key: SWITCHBOARDS
-  parent: Electrical
-  order: 24132.0
 ---
 
 1. SECTION 262413

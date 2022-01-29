@@ -5,10 +5,6 @@ divNumb: 33
 divName: Utilities
 subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Utilities', 'Commissioning']
-navigation:
-  key: Commissioning of Utilities
-  parent: Utilities
-  order: 800.0
 ---
 
    1. SECTION 33 08 00
@@ -29,7 +25,9 @@ General
 
 (Not Used)
 
-Execution
+
+## Execution
+
 1. *DO NOT INCLUDE ANY COMMISSIONING FORMS for PRELIMINARY review. Just edit the list below and only submit pages 33 08 00-1 through 33 08 00-2 with strikethroughs.*
    1. Commissioning Forms
    1. CV-33 07 00 Utilities Insulation

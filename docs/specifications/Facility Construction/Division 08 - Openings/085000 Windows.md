@@ -5,10 +5,6 @@ divNumb: 8
 divName: Openings
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Openings', 'Windows']
-navigation:
-  key: Windows
-  parent: Openings
-  order: 5000.0
 ---
 
    1. Section 08 50 00

@@ -5,10 +5,6 @@ divNumb: 0
 divName: Procurement and Contracting Requirements
 subgroup: Procurement and Contracting Requirements
 tags: ['Procurement', 'Contracting', 'Requirements', 'Supplementary', 'Conditions']
-navigation:
-  key: Supplementary Conditions
-  parent: Procurement and Contracting Requirements
-  order: 7300.0
 ---
 
 1. Engineers Joint Documents Committee

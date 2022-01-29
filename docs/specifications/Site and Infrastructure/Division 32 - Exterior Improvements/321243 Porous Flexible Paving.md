@@ -5,10 +5,6 @@ divNumb: 32
 divName: Exterior Improvements
 subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Porous', 'Flexible', 'Paving']
-navigation:
-  key: Porous Flexible Paving
-  parent: Exterior Improvements
-  order: 1243.0
 ---
 
 1. DIVISION 32 – EXTERIOR IMPROVEMENTS

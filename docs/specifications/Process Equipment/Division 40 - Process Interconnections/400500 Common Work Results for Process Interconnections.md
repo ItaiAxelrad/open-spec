@@ -5,10 +5,6 @@ divNumb: 40
 divName: Process Interconnections
 subgroup: Process Equipment
 tags: ['Process', 'Equipment', 'Interconnections', 'Common', 'Work', 'Results', 'for']
-navigation:
-  key: Common Work Results for Process Interconnections
-  parent: Process Interconnections
-  order: 500.0
 ---
 
    1. Section 40 05 00
@@ -82,7 +78,9 @@ General
 8. Prevent damage to pipe during transit and repair abrasions, scars, and blemishes, if needed. 
    ## Product (not applicable to this specification section)
 
-Execution
+
+## Execution
+
 
 * 
 	1. **Exterior Buried Piping Installation

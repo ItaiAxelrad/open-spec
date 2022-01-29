@@ -5,10 +5,6 @@ divNumb: 7
 divName: Thermal and Moisture Protection
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Exterior', 'Insulation', 'Finish', 'System']
-navigation:
-  key: Exterior Insulation and Finish System
-  parent: Thermal and Moisture Protection
-  order: 2400.0
 ---
 
 

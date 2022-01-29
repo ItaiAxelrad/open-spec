@@ -5,10 +5,6 @@ divNumb: 8
 divName: Openings
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Openings', 'Tubular', 'Skylights']
-navigation:
-  key: Tubular Skylights
-  parent: Openings
-  order: 6223.0
 ---
 
 

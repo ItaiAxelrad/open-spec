@@ -5,10 +5,6 @@ divNumb: 9
 divName: Finishes
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Finishes', 'Painting']
-navigation:
-  key: Painting
-  parent: Finishes
-  order: 9100.0
 ---
 
 

@@ -1,8 +1,6 @@
 ---
 title: 'Version Control'
 eleventyNavigation:
-  key: Version Control
-  order: 16
 date: 2021-04-10
 ---
 

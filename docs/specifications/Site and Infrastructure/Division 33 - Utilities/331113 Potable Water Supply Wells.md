@@ -5,10 +5,6 @@ divNumb: 33
 divName: Utilities
 subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Utilities', 'Potable', 'Water', 'Supply', 'Wells']
-navigation:
-  key: Potable Water Supply Wells
-  parent: Utilities
-  order: 1113.0
 ---
 
 1. Copyright 2010 by The American Institute of Architects (AIA)

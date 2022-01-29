@@ -5,10 +5,6 @@ divNumb: 5
 divName: Metals
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Metals', 'Cold-Formed', 'Metal', 'Framing']
-navigation:
-  key: Cold-Formed Metal Framing
-  parent: Metals
-  order: 4000.0
 ---
 
 

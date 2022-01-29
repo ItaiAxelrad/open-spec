@@ -5,10 +5,6 @@ divNumb: 8
 divName: Openings
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Openings', 'Motorized', 'Wall', 'Louvers']
-navigation:
-  key: Motorized Wall Louvers
-  parent: Openings
-  order: 9113.0
 ---
 
    1. Section 08 90 00
@@ -49,7 +45,9 @@ General
 	5. Power failure closed.
 	6. Screened weather hood.
 
-Execution
+
+## Execution
+
 1. 3.1 Installation
    1. Install products in accordance with manufacturer’s instructions. 
 2. Install anchoring and bracing accessories as required. 

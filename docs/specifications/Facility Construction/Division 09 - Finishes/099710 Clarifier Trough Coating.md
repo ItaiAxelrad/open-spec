@@ -5,10 +5,6 @@ divNumb: 9
 divName: Finishes
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Finishes', 'Clarifier', 'Trough', 'Coating']
-navigation:
-  key: Clarifier Trough Coating
-  parent: Finishes
-  order: 9710.0
 ---
 
 1. SECTION 09 97 10
@@ -35,7 +31,9 @@ Specification Sections.
 OSHA or any other applicable authority.
 6. WARRANTY
    1. Contractor shall warrant all work against defects in material and workmanship for a period of one (1) year from the date of final acceptance of the project.
-Product
+
+## Product
+
 1. MANUFACTURER
    1. Product:
       1. The product shall be Belzona 5811 Immersion Grade as manufactured by Belzona
@@ -66,7 +64,9 @@ Inc., Miami FL; SewerGuard 210G by Sauereisen, Inc., Pittsburg PA; or approved e
 7. Heat Resistance
       1. The material shall be suitable for continuous immersion in aqueous solutions up to
 122°F. The material shall be stable under dry conditions up to 300°F. 
-Execution
+
+## Execution
+
 1. SURFACE PREPARATION
    1. All contaminants including oil, grease, waxes, sealers, salts, surface laitance or other contaminants shall be removed.
    1. Surfaces to be coated must be clean, firm, and dry.

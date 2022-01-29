@@ -5,10 +5,6 @@ divNumb: 26
 divName: Electrical
 subgroup: Facility Services
 tags: ['Facility', 'Services', 'Electrical', 'Transfer', 'Switches']
-navigation:
-  key: Transfer Switches
-  parent: Electrical
-  order: 3600.0
 ---
 
 

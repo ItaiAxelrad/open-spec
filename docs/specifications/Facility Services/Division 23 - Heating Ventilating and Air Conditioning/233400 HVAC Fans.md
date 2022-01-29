@@ -5,10 +5,6 @@ divNumb: 23
 divName: Heating Ventilating and Air Conditioning
 subgroup: Facility Services
 tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 'HVAC', 'Fans']
-navigation:
-  key: HVAC Fans
-  parent: Heating Ventilating and Air Conditioning
-  order: 3400.0
 ---
 
 1. Copyright 2006 by The American Institute of Architects (AIA)

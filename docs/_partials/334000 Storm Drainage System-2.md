@@ -5,10 +5,6 @@ divNumb: 33
 divName: Utilities
 subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Utilities', 'Storm', 'Drainage', 'System']
-navigation:
-  key: Storm Drainage System
-  parent: Utilities
-  order: 40002.0
 ---
 
 1. SECTION 334000
@@ -283,7 +279,9 @@ AASHTO M 306 (FS A-A-60005).
 7. MANHOLE AND CATCH-BASIN ACCESS STEPS
 7..1 Access shall be in accordance with ASTM C 478M (ASTM C 478), using steps for manholes or catch basins at least four feet deep.
 1. 
-Execution
+
+## Execution
+
 1. EXCAVATION AND BACKFILL
    1. Excavation, backfill, and removal of unsatisfactory materials shall be in accordance with Section 31 00 00 EARTHWORK.
 2. GRADING

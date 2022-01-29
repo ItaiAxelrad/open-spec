@@ -5,10 +5,6 @@ divNumb: 8
 divName: Openings
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Openings', 'Flush', 'Wood', 'Doors']
-navigation:
-  key: Flush Wood Doors
-  parent: Openings
-  order: 1416.0
 ---
 
 

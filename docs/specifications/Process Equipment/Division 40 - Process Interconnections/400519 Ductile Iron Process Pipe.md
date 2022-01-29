@@ -5,10 +5,6 @@ divNumb: 40
 divName: Process Interconnections
 subgroup: Process Equipment
 tags: ['Process', 'Equipment', 'Interconnections', 'Ductile', 'Iron', 'Pipe']
-navigation:
-  key: Ductile Iron Process Pipe
-  parent: Process Interconnections
-  order: 519.0
 ---
 
    1. section 40 05 19
@@ -95,7 +91,9 @@ General
 1. 2.3 Quality Control
    1. Subject pipe to hydrostatic test of not less than 500 psi with the pipe under the full test pressure for at least 10 seconds. 
 
-Execution
+
+## Execution
+
 1. 3.1 Installation
    1. Joining Method – Grooved End Joints:
 	1. Install in accordance with ANSI/AWWA C606.

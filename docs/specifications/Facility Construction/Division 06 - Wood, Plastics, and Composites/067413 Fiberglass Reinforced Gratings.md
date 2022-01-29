@@ -5,10 +5,6 @@ divNumb: 6
 divName: Wood, Plastics, and Composites
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Wood', 'Plastics', 'Composites', 'Fiberglass', 'Reinforced', 'Gratings']
-navigation:
-  key: Fiberglass Reinforced Gratings
-  parent: Wood, Plastics, and Composites
-  order: 7413.0
 ---
 
          1. Section 06 74 13
@@ -110,7 +106,9 @@ General
 4. Hardware:
       1. Type 316 stainless steel hold-down clips shall be provided and spaced at maximum of four feet apart with a minimum of four per piece of grating, or as recommended by the manufacturer.
 
-Execution
+
+## Execution
+
 1. 3.1 Preparation
    1. Coordinate and furnish anchorages, setting drawings, diagrams, templates, instructions and directions for installation of anchorages, including concrete inserts, sleeves, anchor bolts and miscellaneous items having integral anchors that are to be embedded in concrete or masonry construction. 
 2. Coordinate delivery of such items to project site.

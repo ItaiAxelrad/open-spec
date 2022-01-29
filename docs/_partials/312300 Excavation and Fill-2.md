@@ -5,10 +5,6 @@ divNumb: 31
 divName: Earthwork
 subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Earthwork', 'Excavation', 'Fill']
-navigation:
-  key: Excavation and Fill
-  parent: Earthwork
-  order: 23002.0
 ---
 
    1. SECTION 02223
@@ -97,7 +93,9 @@ General
 	2. Weight (ASTM D 3776): 4.5 oz./yd2 
 	3. Apparent opening size (ASTM D 4751): 0.006"
 1. 
-Execution
+
+## Execution
+
 1. 3.01 CLEARING AND GRUBBING
    1. Areas where work is to be performed shall be cleared of all trees, shrubs, rubbish, and other objectionable material of any kind, which, if left in place, would interfere with the proper performance or completion of he contemplated work, would impair its subsequent use, or would form obstructions therein.
 2. Organic material from clearing and grubbing operations will not be incorporated in the trench backfill and shall be removed from the project site or retained and incorporated into the topsoil.

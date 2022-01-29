@@ -5,10 +5,6 @@ divNumb: 10
 divName: Specialties
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Specialties', 'Fire', 'Protection']
-navigation:
-  key: Fire Protection Specialties
-  parent: Specialties
-  order: 4400.0
 ---
 
 

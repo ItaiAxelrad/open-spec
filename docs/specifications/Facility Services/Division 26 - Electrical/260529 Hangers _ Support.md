@@ -5,10 +5,6 @@ divNumb: 26
 divName: Electrical
 subgroup: Facility Services
 tags: ['Facility', 'Services', 'Electrical', 'Hangers', '_', 'Support']
-navigation:
-  key: Hangers _ Support
-  parent: Electrical
-  order: 529.0
 ---
 
 1. SECTION 26 05 29
@@ -55,7 +51,9 @@ Code - Steel."
 7. COORDINATION
    1. Coordinate size and location of concrete bases. Cast anchor-bolt inserts into bases. Concrete, reinforcement, and formwork requirements are specified in Division 03.
    1. Coordinate installation of roof curbs, equipment supports, and roof penetrations. These items are specified in Division 07 Section "Roof Accessories."
-Product
+
+## Product
+
 1. SUPPORT, ANCHORAGE, AND ATTACHMENT COMPONENTS
    1. Steel Slotted Support Systems:
       1. Comply with MFMA-4, factory-fabricated components for field assembly.

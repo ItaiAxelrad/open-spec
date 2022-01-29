@@ -1,12 +1,12 @@
 ---
 title: 'Production Drawings'
 eleventyNavigation:
-  key: Production Drawings
-  order: 13
 date: 2021-04-12
 ---
 
-Production drawings represent the finished document as it will be displayed for the contractor or developer within the set. All drawings that are to be issued for publication should be annotated live in model space of the sheet drawing. DO NOT ANNOTATE IN PAPER SPACE.
+
+## Product
+ion drawings represent the finished document as it will be displayed for the contractor or developer within the set. All drawings that are to be issued for publication should be annotated live in model space of the sheet drawing. DO NOT ANNOTATE IN PAPER SPACE.
 
 ## Naming Convention
 

@@ -5,10 +5,6 @@ divNumb: 1
 divName: General Requirements
 subgroup: General Requirements
 tags: ['General', 'Requirements', 'Temporary', 'Environmental', 'Controls']
-navigation:
-  key: Temporary Environmental Controls
-  parent: General Requirements
-  order: 5719.0
 ---
 
    1. Section 01 57 19

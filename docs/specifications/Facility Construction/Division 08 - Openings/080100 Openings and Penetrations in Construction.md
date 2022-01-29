@@ -5,10 +5,6 @@ divNumb: 8
 divName: Openings
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Openings', 'Penetrations', 'in']
-navigation:
-  key: Openings and Penetrations in Construction
-  parent: Openings
-  order: 100.0
 ---
 
    1. Section 08 01 00
@@ -90,7 +86,9 @@ General
 	2. For Wet Areas either side of penetration: 
 		1. Stainless Steel
 
-Execution
+
+## Execution
+
 1. 3.1 Installation and Application
    1. Perform HVAC penetrations in accordance with NFPA 90A.
 2. Perform electrical penetrations in accordance with NFPA 70, Article 501.

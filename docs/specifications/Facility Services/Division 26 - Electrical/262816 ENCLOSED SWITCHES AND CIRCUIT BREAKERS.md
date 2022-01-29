@@ -5,10 +5,6 @@ divNumb: 26
 divName: Electrical
 subgroup: Facility Services
 tags: ['Facility', 'Services', 'Electrical', 'ENCLOSED', 'SWITCHES', 'AND', 'CIRCUIT', 'BREAKERS']
-navigation:
-  key: ENCLOSED SWITCHES AND CIRCUIT BREAKERS
-  parent: Electrical
-  order: 2816.0
 ---
 
 1. SECTION 26 28 16
@@ -72,7 +68,9 @@ Section "Closeout Procedures," include the following:
       1. Not exceeding 6800 feet.
 07. COORDINATION
    1. Coordinate layout and installation of switches, circuit breakers, and components with other construction, including conduit, piping, equipment, and adjacent surfaces. Maintain required workspace clearances and required clearances for equipment access doors and panels.
-Product
+
+## Product
+
 01. FUSIBLE AND NONFUSIBLE SWITCHES A. Manufacturers:
       1. Eaton Corporation; Cutler-Hammer Products.
 2. General Electric Co.; Electrical Distribution & Control Division.

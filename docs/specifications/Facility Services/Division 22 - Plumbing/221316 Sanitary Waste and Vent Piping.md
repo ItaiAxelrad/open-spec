@@ -5,10 +5,6 @@ divNumb: 22
 divName: Plumbing
 subgroup: Facility Services
 tags: ['Facility', 'Services', 'Plumbing', 'Sanitary', 'Waste', 'Vent', 'Piping']
-navigation:
-  key: Sanitary Waste and Vent Piping
-  parent: Plumbing
-  order: 1316.0
 ---
 
 1. Copyright 2002 and 2005 by The American Institute of Architects (AIA)

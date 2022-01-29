@@ -5,10 +5,6 @@ divNumb: 6
 divName: Wood, Plastics, and Composites
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Wood', 'Plastics', 'Composites', 'Finish', 'Carpentry']
-navigation:
-  key: Finish Carpentry
-  parent: Wood, Plastics, and Composites
-  order: 2000.0
 ---
 
       1. SECTION 06200
@@ -41,7 +37,9 @@ General
 12. 15200-HVAC Systems
 	1. WORKMANSHIP
    1. Skilled tradesman in accordance with approved trade practices shall perform all work.
-Product
+
+## Product
+
 
 * 
 	1. LUMBER

@@ -1,8 +1,6 @@
 ---
 title: Startup
 eleventyNavigation:
-  key: Startup
-  order: 1
 date: 2021-04-10
 ---
 

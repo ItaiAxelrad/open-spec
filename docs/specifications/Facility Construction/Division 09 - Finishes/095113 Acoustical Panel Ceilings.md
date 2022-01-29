@@ -5,10 +5,6 @@ divNumb: 9
 divName: Finishes
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Finishes', 'Acoustical', 'Panel', 'Ceilings']
-navigation:
-  key: Acoustical Panel Ceilings
-  parent: Finishes
-  order: 5113.0
 ---
 
 

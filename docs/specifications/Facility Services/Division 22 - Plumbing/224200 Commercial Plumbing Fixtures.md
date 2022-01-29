@@ -5,10 +5,6 @@ divNumb: 22
 divName: Plumbing
 subgroup: Facility Services
 tags: ['Facility', 'Services', 'Plumbing', 'Commercial', 'Fixtures']
-navigation:
-  key: Commercial Plumbing Fixtures
-  parent: Plumbing
-  order: 4200.0
 ---
 
 

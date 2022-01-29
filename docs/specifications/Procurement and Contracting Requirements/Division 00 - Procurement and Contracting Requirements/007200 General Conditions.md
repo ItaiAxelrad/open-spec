@@ -5,10 +5,6 @@ divNumb: 0
 divName: Procurement and Contracting Requirements
 subgroup: Procurement and Contracting Requirements
 tags: ['Procurement', 'Contracting', 'Requirements', 'General', 'Conditions']
-navigation:
-  key: General Conditions
-  parent: Procurement and Contracting Requirements
-  order: 7200.0
 ---
 
    1. Section 00 72 00

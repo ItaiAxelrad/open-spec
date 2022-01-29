@@ -5,10 +5,6 @@ divNumb: 23
 divName: Heating Ventilating and Air Conditioning
 subgroup: Facility Services
 tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 'HVAC', 'Balancing', 'Testing']
-navigation:
-  key: HVAC Balancing and Testing
-  parent: Heating Ventilating and Air Conditioning
-  order: 500.0
 ---
 
    1. section 23 05 00.93
@@ -54,7 +50,9 @@ General
 		4. Provide forms typed and signed by the testing and balancing firm.
    ## Product (not applicable to this section)
 
-Execution
+
+## Execution
+
 1. 3.1 Preparation
    1. Secure approved Shop Drawings of all HVAC equipment.
 2. Procedures and Forms:

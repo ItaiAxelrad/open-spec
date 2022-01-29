@@ -5,10 +5,6 @@ divNumb: 33
 divName: Utilities
 subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Utilities', 'Hydrocarbon', 'Transmission', 'Distribution']
-navigation:
-  key: Hydrocarbon Transmission and Distribution
-  parent: Utilities
-  order: 5200.0
 ---
 
    1. SECTION 33 50 00

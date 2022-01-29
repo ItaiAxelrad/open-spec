@@ -5,10 +5,6 @@ divNumb: 40
 divName: Process Interconnections
 subgroup: Process Equipment
 tags: ['Process', 'Equipment', 'Interconnections', 'Common', 'Requirements', 'for', 'Valves']
-navigation:
-  key: Common Requirements for Process Valves
-  parent: Process Interconnections
-  order: 551.0
 ---
 
    1. section 40 05 51
@@ -134,7 +130,9 @@ General
 		2. Servo: 14-24 AWG.
 	12. Optional, open and close, torque limiting.
 
-Execution
+
+## Execution
+
 1. 3.1 Installation
    1. Install products in accordance with manufacturer's instructions.
 2. Painting Requirements:
