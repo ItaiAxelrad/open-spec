@@ -8,7 +8,8 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Earth', 'Moving']
 ---
 
 
-General
+## General
+
    1. SUMMARY
    1. Section Includes
    1. This Section includes earthwork activities.
@@ -178,7 +179,8 @@ General
       1. to underside of void forms as noted by structural.
    1. Excavation
 
-General
+## General
+
    1. Excavate for walls, grade beams, footings, and other related work.
    1. Slope unbraced excavation to a stable angle in accordance with all local, state and federal regulations to maintain stability of excavation side walls or provide temporary shoring and bracing to prevent cave-ins or adjacent ground movement as specified.
    1. In excavating for footings and foundations, do not disturb bottom of excavation. Final grade just before concrete reinforcement is placed. Trim bottoms to required lines and grade to leave solid base for other work.
@@ -210,7 +212,8 @@ General
    1. Remove abandoned underground pipe, conduit, and other services to accommodate new Work. Do not remove such abandoned services until they have been disconnected from remaining active services under Divisions 15 and 16, as applicable. Seal open ends of abandoned pipe left in place with concrete.
    1. Protection Of Existing Structures
 
-General
+## General
+
    1. Protect adjacent buildings from damage during excavation for new structure.
    1. Earth Retention System
    1. Provide earth retention systems for protection of adjacent structures, utilities and property. Design and install the earth retention systems and include in the design surcharge loads indicated or otherwise expected during the life of the earth retention system.
@@ -299,7 +302,8 @@ General
    1. Proof roll the subgrade with a 10-ton roller. If the imprint is more than 1/2 inch deep, recompact the subgrade area.
    1. GRADING
 
-General
+## General
+
    1. Grade excavated and filled sections, including transition areas, to provide positive drainage. Reshape graded areas over underground mechanical and electrical utilities and areas rutted or otherwise disturbed during construction operation to obtain uniform transition to adjacent areas or finish grades as indicated.
    1. Protection and Maintenance of Graded Areas
    1. Reconditioning Compacted Areas:

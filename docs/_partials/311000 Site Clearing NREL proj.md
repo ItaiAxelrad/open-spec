@@ -14,7 +14,8 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Clearing', 'NREL', 'proj']
    1. This Section uses the term "Architect." Change this term to match that used to identify the design professional as defined in the General and Supplementary Conditions.
    1. Verify that Section titles referenced in this Section are correct for this Project's Specifications; Section titles may have changed.
 
-General
+## General
+
    1. RELATED DOCUMENTS
    1. Retain or delete this article in all Sections of Project Manual.
    1. Drawings and general provisions of the Contract, including General and Supplementary Conditions and Division 01 Specification Sections, apply to this Section.
@@ -22,7 +23,8 @@ General
       1. NREL CONSTRUCTION SPECIFICATIONS
    1. SUMMARY
 
-General
+## General
+
  site clearing related to the swale and transformer grading.
    1. Section Includes:
       1. Protecting existing vegetation to remain.
@@ -129,7 +131,8 @@ General
    1. TREE AND PLANT PROTECTION
    1. Retain this article if required. If retaining, Drawings should show tree- and plant-protection zones and protection-zone fencing.
 
-General
+## General
+
 :
       1. Protect trees and plants remaining on-site according to requirements in Division 01 Section "Temporary Tree and Plant Protection."
    1. Repair or replace trees, shrubs, and other vegetation indicated to remain or be relocated that are damaged by construction operations, in a manner approved by Architect.
@@ -143,7 +146,8 @@ General
    1. Owner will arrange to shut off indicated utilities when requested by Contractor.
    1. Locate, identify, and disconnect utilities indicated to be abandoned in place.
 
-General
+## General
+
 ly retain first paragraph below unless there are no existing utilities. Coordinate with requirements in Division 01 Section "Temporary Facilities and Controls" for temporary utilities.
    1. Interrupting Existing Utilities:
       1. Do not interrupt utilities serving facilities occupied by Owner or others unless permitted under the following conditions and then only after arranging to provide temporary utility services according to requirements indicated:

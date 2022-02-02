@@ -10,7 +10,8 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Excavation', 'Fill']
    1. SECTION 02223
 1. TRENCHING, EXCAVATION, BACKFILL AND COMPACTION
 1. 
-General
+## General
+
 01. DESCRIPTION
    1. This section includes materials, testing and installation for trench excavation, backfill, and compaction of piping, conduit, manholes and vaults.
 02. REFERENCE STANDARDS

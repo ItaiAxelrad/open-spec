@@ -10,7 +10,8 @@ tags: ['Facility', 'Services', 'Electrical', 'PANELBOARDS']
 1. SECTION 26 24 16
 1. PANELBOARDS
 
-General
+## General
+
 01. RELATED DOCUMENTS
    1. Drawings and general provisions of the Contract, including General and Supplementary
 Conditions and Division 1 Specification Sections, apply to this Section.
@@ -89,7 +90,8 @@ Concrete, reinforcement, and formwork requirements are specified in Division 3.
       1. Panelboards, Overcurrent Protective Devices, Controllers, Contactors, and Accessories:
       1. Eaton Corporation; Cutler-Hammer Products.
 
-General
+## General
+
  Electric Co.; Electrical Distribution & Protection Div. c. Appleton.
 02. MANUFACTURED UNITS
    1. Fabricate and test panelboards according to IEEE 344 to withstand seismic forces. B. Enclosures:

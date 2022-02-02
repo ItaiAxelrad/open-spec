@@ -9,7 +9,8 @@ tags: ['Process', 'Equipment', 'Water', 'Wastewater', 'Ultraviolet']
 
    1. SECTION 446400 – ULTRAVIOLET DISINFECTION EQUIPMENT
 
-General
+## General
+
 1.
    1. RELATED DOCUMENTS
    1. A.
@@ -151,7 +152,8 @@ General
    1. DESIGN, CONSTRUCTION AND MATERIALS
    1. A.
 
-General
+## General
+
 :
          1. All welded metal components in contact with effluent shall be Type 316L stainless steel.
 2. All metal components above the effluent shall be Type 304 stainless steel with the

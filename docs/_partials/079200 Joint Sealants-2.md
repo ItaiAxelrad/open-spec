@@ -8,7 +8,8 @@ tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Joint',
 ---
 
 
-General
+## General
+
    1. SUMMARY
    1. Section Includes
    1. Work is to include the sealing of all penetrations and attachments to provide air and water tight integrity, where specified, and the juncture of materials to seal for finishes and overall appearance.

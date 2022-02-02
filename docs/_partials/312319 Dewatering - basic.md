@@ -11,7 +11,8 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Dewatering', 'basic']
 1. DEWATERING
 1.  NOTE TO SPECIFIER ** This is a generic ARCAT specification, provided in the style and format of all ARCAT manufacturer's specifications. The Notes to Specifier are intended to provide guidance in editing the text. Delete and add text as required for your individual project.
 
-General
+## General
+
    1. SECTION INCLUDES
 1.  NOTE TO SPECIFIER ** Delete items below not required for project.
    1. Dewatering system.

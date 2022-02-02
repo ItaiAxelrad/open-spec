@@ -10,7 +10,8 @@ tags: ['Facility', 'Services', 'Electrical', 'Raceways', 'Boxes']
 1. SECTION 26 05 33
 1. RACEWAYS AND BOXES
 
-General
+## General
+
 01. RELATED DOCUMENTS
    1. Drawings and general provisions of the Contract, including General and Supplementary
 Conditions and Division 1 Specification Sections, apply to this Section.

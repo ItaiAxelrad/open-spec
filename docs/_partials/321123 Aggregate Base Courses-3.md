@@ -10,7 +10,8 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Aggregate', 'Base'
    1. SECTION 02232
    1. AGGREGATE BASE COURSE
 
-General
+## General
+
    1. RELATED DOCUMENTS:
       1. The General Contract Conditions, Drawings and other Division - 1 Specification sections apply to Work of this section.
    1. WORK INCLUDED:
@@ -42,7 +43,8 @@ General
    1. Well Graded Pit Run, where required or indicated in the plans and specifications, shall conform to CDOT Standard Specifications Section 703.03 for Class 3 Aggregate Base Course.
    1. EXECUTION
 
-General
+## General
+
    1. Placing. If the required compacted depth of the aggregate base course exceeds 6 inches, it shall be constructed in two or more layers of approximately equal thickness. The maximum compacted thickness of any one layer shall not exceed 6 inches. When vibratory or other approved types of special compacting equipment are used, the compacted depth of a single layer may be increased to 8 inches upon request, provided that specified density is achieved and written approval is given.
    1. Mixing. The Contractor shall mix the aggregate by methods that insure a thorough and homogenous mixture.
    1. Shaping and Compaction. Compaction of each layer shall continue until a density of not less than 95 percent of the maximum density determined in accordance with AASHTO T 180 has been achieved. The surface of each layer shall be maintained during the compaction operations so that a uniform texture is produced and the aggregates are firmly keyed. Water shall be uniformly applied during compaction in the quantity necessary for proper consolidation. The surface of the base course will be tested with a 10 foot straightedge, or other approved device. The surface shall be tested prior to the application of any primer or pavement. The variation of the surface from the testing edge of the straightedge between any two contacts with the surface shall not exceed ¼ inch. All irregularities exceeding the specified tolerance shall be corrected to the satisfaction of the Testing Engineer and/or Project Engineer at no additional cost to the Owner. The above compaction and straightedge requirements shall not apply to shoulder gravel. Compaction of shoulder gravel shall be accomplished by wheel rolling, as directed.

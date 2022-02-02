@@ -10,7 +10,8 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Water', 'Utility', 'Transmission'
    1. section 33 14 11
    1. water distribution piping
 
-General
+## General
+
 
 * 
 	1. **Summary
@@ -216,7 +217,8 @@ General
 	6. Pressure testing against existing valves is strongly discouraged. Mount Werner Water does not warrant the condition of any existing valves.
 9. Pressure Test
 	
-General
+## General
+
 : Pressure tests will only be allowed after the main has passed all disinfection and bacteriological tests. After concrete thrust blocks have cured, all newly laid pipe or any valved section thereof shall be subjected to a hydrostatic pressure of 200 PSI for mains 12 inch diameter or less and 150 PSI for mains greater than 12-inch diameter. 
 	2. Test Location
 		1. Do not test through a fire hydrant.

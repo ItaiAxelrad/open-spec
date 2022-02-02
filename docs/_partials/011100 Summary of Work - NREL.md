@@ -8,7 +8,8 @@ tags: ['General', 'Requirements', 'Summary', 'Work', 'NREL']
 ---
 
 
-General
+## General
+
    1. SUMMARY
    1. Section Includes
    1. Work under this contract includes all materials, equipment and labor necessary to complete the work indicated on the drawings, described in specifications or reasonably inferred.

@@ -8,7 +8,8 @@ tags: ['General', 'Requirements', 'Closeout', 'Procedures']
 ---
 
 
-General
+## General
+
    1. SUMMARY
    1. Section Includes
    1. Provide an orderly and efficient transfer of the completed Work to the Owner.

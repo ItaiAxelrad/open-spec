@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Open Spec',
-  tagline: 'Community driven specifications',
+  tagline: 'community driven construction specifications',
   url: 'https://open-spec.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -23,11 +23,11 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          editUrl: 'https://github.com/ItaiAxelrad/open-spec/',
+          editUrl: 'https://github.com/ItaiAxelrad/open-spec/blob/master/',
         },
         blog: {
           showReadingTime: true,
-          editUrl: 'https://github.com/ItaiAxelrad/open-spec/',
+          editUrl: 'https://github.com/ItaiAxelrad/open-spec/blob/master/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),

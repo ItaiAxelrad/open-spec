@@ -10,7 +10,8 @@ tags: ['Facility', 'Services', 'Electrical', 'EXTERIOR', 'LIGHTING']
 1. SECTION 26 56 00
 1. EXTERIOR LIGHTING
 
-General
+## General
+
 1. RELATED DOCUMENTS
    1. Drawings and general provisions of the Contract, including General and Supplementary
 Conditions and Division 01 Specification Sections, apply to this Section.
@@ -170,7 +171,8 @@ Architectural and Metal Products" for recommendations for applying and designati
 2. Adjustable window slide for adjusting on-off set points.
 4. LED LUMINAIRES
 
-General
+## General
+
 :
       1. Except as otherwise indicated, provide LED luminaires, of types and sizes indicated on fixture schedules.
    1. Material and specifications for each luminaire are as follows:

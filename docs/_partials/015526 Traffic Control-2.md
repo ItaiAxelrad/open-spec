@@ -12,7 +12,8 @@ tags: ['General', 'Requirements', 'Traffic', 'Control']
 
  **DETOURING/TRAFFIC CONTROL
 
-General
+## General
+
 01. Scope 
     1. This work shall consist of furnishing, installing, moving, maintaining and removing temporary traffic signs, advance warning signs, barricades, channelizing devices, delineators and flagmen as required by the latest revision of the "Manual on Uniform Traffic Control Devices for Streets and Highways," and the latest revisions of the Colorado Supplement thereto, in accordance with the drawings and these specifications.
 02. Related Work Specified Elsewhere
@@ -29,7 +30,8 @@ General
 00. - MATERIALS
 
 0
-General
+## General
+
     1. All materials shall conform to the applicable portions of the referenced specifications.
 
 02. Barricades

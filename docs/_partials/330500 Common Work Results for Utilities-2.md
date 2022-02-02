@@ -24,7 +24,8 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Common', 'Work', 'Results', 'for'
 
 * 
 	
-General
+## General
+
 . All submittals shall be submitted prior to delivery of materials to the job site.
 	2. Materials. Submit to the Engineer with five (5) copies of standard specifications covering the manufacture and testing procedures of the pipelines and other materials. The submittal shall be made prior to delivery of the materials. Submit to the Engineer results of tests required by the various standard specifications listed herein. The Contractor will not be reimbursed for the pipe tested, or for the testing, or for the reports submitted to the Engineer.
    1. Submit to the Engineer two copies of an Affidavit of Compliance covering any material specified to conform to AWWA Standards.
@@ -36,13 +37,15 @@ General
    1. PART 2:
       1. MATERIALS
 
-General
+## General
+
 :
       1. All pipe, fittings, couplings, and appurtenant items shall be new, designed for the intended service, and free from defects or contamination. They shall be furnished in pressure or thickness classes as specified or shown. All pipe shall have joints as called for in the specifications or indicated on the Drawings.
    1. part 3:
       1. execution
 
-General
+## General
+
 :
       1. In the absence of specific wording to the contrary, the Contractor shall follow normal good construction practice in accordance with materials manufacturer's printed instructions. This specification includes the installation of several different pipeline materials. Refer to other specifications, the Drawings and the Proposal for the type of pipe included in this Contract. The depth of bury is shown on the Drawings or specified in the Special Construction Provisions.
    1. HANDLING OF MATERIAL:
@@ -59,7 +62,8 @@ General
    1. MWE STD:
       1. BURIED PIPELINES:
 
-General
+## General
+
  REQUIREMENTS
    1. List deletions, additions, and significant changes to this specification made specifically for this project.
 

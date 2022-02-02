@@ -10,7 +10,8 @@ tags: ['General', 'Requirements', 'Price', 'Payment', 'Procedures']
    1. Section 01 20 00
    1. Measurement and Payment
 
-General
+## General
+
 1. Summary
    1. The items listed below refer to and are the same pay items listed in the Bid Proposal Form. They constitute all of the pay items for completion of the Work. No direct or separate payment will be made for providing miscellaneous temporary or accessory works, plant, services, Contractor's field offices, layout surveys, job signs, sanitary requirements, testing, safety devices, approval and record drawings, water supplies, power, maintaining traffic, removal of waste, watchmen, bonds, insurance and all other requirements of the General Conditions, Special Contract Conditions and the General Requirements. Compensation for all such services, items and materials shall be included in the prices stipulated for the lump sum, purchase prices, and unit price pay item listed herein.
 2. Refer to the General Conditions for provisions for Payments to the Contractor and Changes in Contract Price.

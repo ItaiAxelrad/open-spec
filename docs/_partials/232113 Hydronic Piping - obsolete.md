@@ -192,7 +192,8 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Provide piping for systems as specified, and grooved in compliance with the coupling manufacturers specifications. 
    1. Couplings
 
-General
+## General
+
  runs of pipe:
       1. Rigid Couplings:
       1. Victaulic “Style 07”, or Grinnell “Gruvlok 7401”, unless otherwise specified.
@@ -218,7 +219,8 @@ General
 
  **Aboveground Piping Installation** 
 
-General
+## General
+
 
    1. Install pipe and pipe fittings in accordance with recognized industry practices to achieve permanently leakproof systems, capable of performing the indicated service without failure.
    1. Install each piping run with a minimum number of joints and couplings but with adequate and accessible unions/flanges for disassembly and maintenance/replacement of valves and equipment.

@@ -12,7 +12,8 @@ tags: ['Facility', 'Construction', 'Concrete', 'Cast-in-Place']
 
  **CAST-IN-PLACE CONCRETE AND REINFORCING STEEL
 1. 
-General
+## General
+
 01. Scope
    1. The work covered by this section consists of furnishing all material and equipment and performing all labor for the manufacture, forming, transporting, placing, finishing, and curing of concrete in accordance with the plans and these specifications. 
 02. Submittals

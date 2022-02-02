@@ -14,7 +14,8 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Concrete', 'Paving
    1. This Section uses the term "Architect." Change this term to match that used to identify the design professional as defined in the General and Supplementary Conditions.
    1. Verify that Section titles referenced in this Section are correct for this Project's Specifications; Section titles may have changed.
 
-General
+## General
+
    1. RELATED DOCUMENTS
    1. Retain or delete this article in all Sections of Project Manual.
    1. Drawings and general provisions of the Contract, including General and Supplementary Conditions and Division 01 Specification Sections, apply to this Section.
@@ -134,7 +135,8 @@ General
    1. Right Pointe; D-3405 Hot Applied Sealant.
    1. JOINT-SEALANT BACKER MATERIALS
 
-General
+## General
+
 :
       1. Provide joint-sealant backer materials that are nonstaining; are compatible with joint substrates, sealants, primers, and other joint fillers; and are approved for applications indicated by joint-sealant manufacturer based on field experience and laboratory testing.
    1. Retain one of first two paragraphs below for use in joints such as contraction joints cut partially through paving material.
@@ -147,7 +149,8 @@ General
       1. ASTM D 5249; Type 2; of thickness and width required to control joint-sealant depth, prevent bottom-side adhesion of sealant, and fill remainder of joint opening under sealant.
    1. PRIMERS
 
-General
+## General
+
 ly retain this article unless it is known that priming of substrates is not required with joint sealants specified. Purpose of primers is to improve adhesion of joint sealant to substrate.
    1. Primers:
       1. Product recommended by joint-sealant manufacturer where required for adhesion of sealant to joint substrates indicated, as determined from preconstruction joint-sealant-substrate tests and field tests.
@@ -163,7 +166,8 @@ ly retain this article unless it is known that priming of substrates is not requ
       1. Prime joint substrates where indicated or where recommended in writing by joint-sealant manufacturer, based on preconstruction joint-sealant-substrate tests or prior experience. Apply primer to comply with joint-sealant manufacturer's written instructions. Confine primers to areas of joint-sealant bond; do not allow spillage or migration onto adjoining surfaces.
    1. INSTALLATION OF JOINT SEALANTS
 
-General
+## General
+
 :
       1. Comply with joint-sealant manufacturer's written installation instructions for products and applications indicated unless more stringent requirements apply.
    1. Joint-Sealant Installation Standard:

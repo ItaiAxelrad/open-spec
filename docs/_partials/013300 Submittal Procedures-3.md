@@ -11,7 +11,8 @@ tags: ['General', 'Requirements', 'Submittal', 'Procedures']
 
  **SUBMITTALS
 
-General
+## General
+
 1. SCOPE
    1. This section includes requirements for construction submittals.
    1. COORDINATION OF SUBMITTALS
@@ -23,7 +24,8 @@ General
 1. The Contractor shall verify his review by affixing his stamp of approval and signature to the front page of each copy of the submittal.
    ## Product
 
-General
+## General
+
    1. All submittals shall be accompanied by a completed copy of the submittal report included under Part 4 of this section.
    1. All submittal reports shall be numbered sequentially. Re-submittals shall be designated with the same number as the original submittal followed by a designation letter (i.e. Submittal "5A" for the first re-submittal of submittal 5, Submittal "5B" for second, etc.).
    1. A separate submittal report shall be prepared for each submittal. Generally, items under a single specification section can be included on the same submittal report.
@@ -106,7 +108,8 @@ OPERATION AND MAINTENANCE INFORMATION
    1. Descriptive literature, bulletins or other data covering the equipment or system.
    1. Complete list of equipment and appurtenances included with the system, complete with manufacturer and model number.
 
-General
+## General
+
  arrangement drawing.
    1. Sectional assembly.
    1. Dimension print.

@@ -10,7 +10,8 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Excavation', 'Fill']
 1. SECTION 312300
 1. EXCAVATION AND FILL
 1. 
-General
+## General
+
 1. REFERENCES
    1. The latest issue of the publications listed below and referenced to thereafter by basic designations only, forms a part of this specification to the extent referenced. The publications are referred to in the text by the basic designation only.
 1. AMERICAN WATER WORKS ASSOCIATION (AWWA)
@@ -305,7 +306,8 @@ Warning Tape Color Codes
 10. COMPACTION
    1. Determine in-place density of existing subgrade; if required density exists, no compaction of existing subgrade will be required. Density requirements specified herein are for cohesionless materials. When cohesive materials are encountered or used, density requirements may be reduced by 5 percent.
 
-General
+## General
+
  Site
 1. Compact underneath areas designated for vegetation and areas outside the 5 foot line of the paved area or structure to 95 percent of ASTM D 1557.
    1. Structures, Spread Footings, and Concrete Slabs

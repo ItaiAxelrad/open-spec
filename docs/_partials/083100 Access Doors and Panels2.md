@@ -8,7 +8,8 @@ tags: ['Facility', 'Construction', 'Openings', 'Access', 'Doors', 'Panels']
 ---
 
 
-General
+## General
+
    1. SUMMARY
    1. This Section includes the following:
       1. Wall access doors and frames.
@@ -124,7 +125,8 @@ Karp Associates, Inc.
       1. Screwdriver-operated cam latch.
    1. FABRICATION
 
-General
+## General
+
 :
       1. Provide access door assemblies manufactured as integral units ready for installation.
    1. Metal Surfaces:

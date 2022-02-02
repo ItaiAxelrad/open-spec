@@ -19,11 +19,13 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Water', 'Utility', 'Transmission'
 
  ***and clearly define party responsible for testing of the respective utility on the Drawings.*
 
-General
+## General
+
 1. SCOPE
    1. The work under this section shall consist of providing all work, materials, labor, equipment, and supervision necessary to provide water distribution system components and other work, as required in these specifications, on the drawings and as otherwise deemed necessary to complete the work. The limits of the work, including the responsible party for testing purposes, shall be clearly defined on the Drawings. Included are the following topics:
       1. 
-General
+## General
+
    1. Scope
    1. Related Work
    1. Reference Documents
@@ -52,7 +54,8 @@ General
    1. Pipe Joint Lubricant
    1. Execution
 
-General
+## General
+
    1. Connection to Existing Mains/Tapping
    1. Bedding /Utility Cover
    1. Laying Watermain

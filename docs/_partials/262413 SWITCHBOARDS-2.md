@@ -10,7 +10,8 @@ tags: ['Facility', 'Services', 'Electrical', 'SWITCHBOARDS']
 1. SECTION 262413
 1. SWITCHBOARDS
 
-General
+## General
+
 1. RELATED DOCUMENTS
    1. Drawings and general provisions of the Contract, including General and Supplementary
 Conditions and Division 01 Specification Sections, apply to this Section.

@@ -10,7 +10,8 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Asphalt', 'Paving'
 1. SECTION 321216
 1. HOT-MIX ASPHALT (HMA)** 
 1. 
-General
+## General
+
 1. REFERENCES
    1. The latest issue of the publications listed below and referenced to thereafter by basic designations only, forms a part of this specification to the extent referenced. The publications are referred to within the text by the basic designation only.
 1. AMERICAN ASSOCIATION OF STATE HIGHWAY AND TRANSPORTATION

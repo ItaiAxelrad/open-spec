@@ -10,7 +10,8 @@ tags: ['General', 'Requirements', 'Submittal', 'Procedures']
    1. Section 01 33 00
    1. Submittals
 
-General
+## General
+
 1. Summary
    1. Work included:
       1. Preparation and submittal of shop drawings, cut sheets, certification of compliance, documentation of material types and ratings or other documents or samples as required by the Contract Documents in order to ensure that the specified products are furnished and installed in accordance with the design intent.
@@ -20,7 +21,8 @@ General
    ## Product
 1. 2.1 Submittal Schedule
 
-General
+## General
+
 
 : At the pre-construction conference or within 10 days after Notice of Award, whichever comes first, compile and submit 2 copies of a complete and comprehensive schedule of all submittals anticipated to be made during progress of the work. Include a list of each type of item for which Contractor’s Drawings, Shop Drawings, Certificates of Compliance, material samples, guarantees, or other types of submittals are required. Upon approval by the engineer, this section will become part of the Contract and the Contractor will be required to adhere to the schedule except when specifically permitted otherwise.
 2. Coordination:
@@ -50,7 +52,8 @@ General
    1. Execution
 1. 3.1 Identification of Submittals
 
-General
+## General
+
 
 : Consecutively number all submittals. Accompany each submittal with a letter of transmittal containing all pertinent information required for identification and checking of submittals.
 2. Internal Identification:
@@ -69,7 +72,8 @@ General
       1. Unless otherwise specified, make all submittals in groups containing all associated items to ensure that information is available for checking each item when it is received. Partial submittals may be rejected as not complying with the provisions of the Contract Documents and the Contractor shall be strictly liable for all delays so occasioned.
 1. 3.3 Timing of Submittals
 
-General
+## General
+
 
 : Make all submittals far enough in advance of scheduled dates for installation to provide all time required for reviews, for securing necessary approvals, for possible revisions and re-submittals, and for placing orders and securing delivery.
 2. Engineer’s Review Time:
@@ -78,7 +82,8 @@ General
       1. delays caused by tardiness in receipt of submittals will not be an acceptable basis for extensions of the contract completion date.
 1. 3.4 Engineer’s Review
 
-General
+## General
+
 
 : Review by the Engineer shall not be construed as a complete check, but only that the general method of construction and detailing is satisfactory. Review shall not relieve the Contractor from the responsibility for errors which may exist.
 2. Authority to Proceed:

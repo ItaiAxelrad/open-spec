@@ -10,7 +10,8 @@ tags: ['Facility', 'Construction', 'Equipment', 'Projection', 'Screens']
    1. SECTION 115213
    1. PROJECTION SCREENS
 
-General
+## General
+
 
 * 
 	1. RELATED DOCUMENTS
@@ -73,7 +74,8 @@ ceiling suspension systems, light fixtures, HVAC equipment, fire-suppression sys
    1. Product
 1. ELECTRICALLY OPERATED PROJECTION SCREENS
 
-General
+## General
+
 :
       1. Manufacturer's standard units consisting of case, screen, motor, controls, mounting
 accessories, and other components necessary for a complete installation. Provide units that are

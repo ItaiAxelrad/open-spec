@@ -8,7 +8,8 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Concrete', 'Manholes']
 ---
 
 
-General
+## General
+
    1. SCOPE OF WORK:
       1. This Specification covers furnishing and installing all materials to be used in the construction of buried sanitary sewer pipelines, appurtenances, and manholes and placing them into service.
    1. RELATED WORK SPECIFIED ELSEWHERE:
@@ -53,11 +54,13 @@ General
       1. Sealants shall be a one component polyurethane base, elastomeric sealant. When required due to moisture or immersion, provide a primer for application onto the substrate according to manufacturer’s recommendation. Sealants shall be SIKAFLEX-la, and primer shall be SIKAFLEX 429 or equal.
    1. EXECUTION
 
-General
+## General
+
 :
       1. INSTALLATION OF Sanitary Sewer MANHOLES:
 
-General
+## General
+
 . Manholes shall be constructed to conform to the details shown on the drawings. Channel inverts shall be smooth and U-shaped, conforming to the inside diameter of the existing incoming and outgoing pipelines. Changes in direction of flow shall be made with a channel of a smooth curve of as large a radius as the size of the manhole will permit. Changes in size and grade of the channels shall be made gradually and evenly. Where differences in existing pipeline invert elevations exist, sloped flow channels shall be formed so the fluid does not undergo a vertical drop. The floor of the manhole outside of the channel shall be smooth and shall slope toward the channels not less than 1 inch per foot nor more than 2 inches per foot.
    1. The manhole cover shall be set with its top at the grade line as set forth on the Drawings. When a manhole top is above the ground line, compacted backfill shall be placed around the exposed section as shown on the Drawings. Manhole tops without bolted, gasket covers shall not be set at or below surrounding grade, except in paved roadways. The site shall be graded so that drainage is away from the manhole.
    1. Outside each manhole where the pipe enters/exits, and within 12﷓inches of the manhole base, the Contractor shall install a bell section of pipe, or a flexible joint as shown on the drawings.
@@ -70,7 +73,8 @@ General
    1. Grouting. Any opening between manhole walls and pipe made by the Contractor, or as designated elsewhere, shall be closed watertight with grout. The opening shall be of sufficient size to accommodate the pipe, “O” rings, and grout. The grout shall extend no less than the full width of the manhole barrel.
    1. iNSTALLATION OF sTORM sEWER MANHOLES:
 
-General
+## General
+
 . Manholes shall be constructed to conform to the details shown on the drawings. Channel inverts shall be smooth and U-shaped, conforming to the inside diameter of the existing incoming and outgoing pipelines. Changes in direction of flow shall be made with a channel of a smooth curve of as large a radius as the size of the manhole will permit. Changes in size and grade of the channels shall be made gradually and evenly. Where differences in existing pipeline invert elevations exist, sloped flow channels shall be formed so the fluid does not undergo a vertical drop. The floor of the manhole outside of the channel shall be smooth and shall slope toward the channels not less than 1 inch per foot nor more than 2 inches per foot.
    1. The manhole cover shall be set with its top at the grade line as set forth on the Drawings. When a manhole top is above the ground line, compacted backfill shall be placed around the exposed section as shown on the Drawings. Manhole tops without bolted, gasket covers shall not be set at or below surrounding grade, except in paved roadways. The site shall be graded so that drainage is away from the manhole.
    1. Outside each manhole where the pipe enters/exits, and within 12-inches of the manhole base, the Contractor shall install a bell section of pipe, or a flexible joint as shown on the drawings.

@@ -11,7 +11,8 @@ tags: ['General', 'Requirements', 'Project', 'Management', 'Coordination']
 
  **PROJECT MANAGEMENT AND COORDINATION
 
-General
+## General
+
    1. COORDINATION
    1. Coordinate scheduling, submittals, and Work of the various sections of the Contract Documents to assure efficient and orderly sequence of installation of interdependent construction elements, with provisions for accommodating items installed later.
    1. The contractor shall contact the Utility Notification Center of Colorado at least 48 hours prior to construction.

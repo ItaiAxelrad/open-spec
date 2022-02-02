@@ -10,7 +10,8 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Dewatering', 'new']
 1. SECTION 31 23 19
 1. DEWATERING
 
-General
+## General
+
    1. Summary
    1. This Section includes construction dewatering.
    1. Drawings and general provisions of the Contract, including General and Supplementary Conditions apply to this Section.

@@ -13,7 +13,8 @@ tags: ['General', 'Requirements', 'Summary', 'Work', 'SM']
 
  REQUIREMENTS
 1. 
-General
+## General
+
 01. DEFINITIONS
    1. Wherever the following terms or pronouns occur in these Standard Specifications or in related documents, the intent and meaning shall be interpreted as follows:
          1. "Approved Plans"** shall mean the official plans, profiles, typical cross-sections, working drawings, detail drawings, or exact reproductions thereof, approved by the City and other appropriate government agencies, which show the locations, character, dimensions, and details of the work required to construct the specified public improvements. 
@@ -71,7 +72,8 @@ General
       1. trench restoration; sheeting, shoring, and bracing; dewatering; spill prevention; vehicular, pedestrian and bike path traffic control; implementation of a Water Pollution Control Program and Best Management Practices; and all appurtenant work as shown on the plans and delineated in the specifications.
 03. RELATED WORK SPECIFIED ELSEWHERE
 
-General
+## General
+
     1. CONDITIONS
 2. Standard Specifications 01045, 01200, 01310, 01330, 01505, 01510, 01570, 02140, 02222, 02223, 02511, 02528, 02578, 03000, 03480, 03482, 09902, 09910, and Division 15.
 04. SPECIAL PROVISIONS AND OTHER MISCELLANEOUS ITEMS

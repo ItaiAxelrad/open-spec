@@ -15,7 +15,8 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Earth', 'Moving', 'NREL', 'proj']
    1. This Section uses the term "Architect." Change this term to match that used to identify the design professional as defined in the General and Supplementary Conditions.
    1. Verify that Section titles referenced in this Section are correct for this Project's Specifications; Section titles may have changed.
 
-General
+## General
+
    1. RELATED DOCUMENTS
    1. Retain or delete this article in all Sections of Project Manual.
    1. Drawings and general provisions of the Contract, including General and Supplementary Conditions and Division 01 Specification Sections, apply to this Section. 
@@ -152,7 +153,8 @@ General
    1. PRODUCTS
    1. SOIL MATERIALS
 
-General
+## General
+
 :
       1. Provide borrow soil materials when sufficient satisfactory soil materials are not available from excavations.
    1. On-Site Material:
@@ -366,7 +368,8 @@ General
    1. For utility trenches, compact each layer of initial and final backfill soil material to at least 95 percent.
    1. GRADING
 
-General
+## General
+
 :
       1. Uniformly grade areas to a smooth surface, free of irregular surface changes. Comply with compaction requirements and grade to cross sections, lines, and elevations indicated.
    1. Provide a smooth transition between adjacent existing grades and new grades.

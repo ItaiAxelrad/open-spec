@@ -8,7 +8,8 @@ tags: ['General', 'Requirements', 'Cleaning', 'Waste', 'Management']
 ---
 
 
-General
+## General
+
    1. SUMMARY
    1. Section Includes
    1. Throughout the construction period, maintain the buildings and site in a standard of cleanliness as described in this Section.
@@ -27,7 +28,8 @@ General
    1. CLEANING
    1. Progress Cleaning
 
-General
+## General
+
    1. Retain stored items in an orderly arrangement allowing maximum access, not impeding traffic or drainage, and providing required protection of materials.
    1. Do not allow accumulation of scrap, debris, waste material, and other items not required for construction of this Work.
    1. At least twice each month, and more often if necessary, completely remove all scrap, debris, and waste material from the job site.

@@ -10,7 +10,8 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Erosion', 'Sedimentation', 'Contr
 1. SECTION 313211
 1. EROSION CONTROL
 1. 
-General
+## General
+
 1. REFERENCES
    1. The latest issue of the publications listed below and referenced to thereafter by basic designation only, forms a part of this specification to the extent referenced. The publications are referred to within the text by the basic designation only.
 1. ASTM INTERNATIONAL (ASTM)

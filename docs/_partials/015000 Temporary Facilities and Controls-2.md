@@ -8,14 +8,17 @@ tags: ['General', 'Requirements', 'Temporary', 'Facilities', 'Controls']
 ---
 
 
-General
+## General
 
-General
+
+## General
+
    1. Nothing in this Section is intended to limit types and amounts of temporary work required, and no omission from this Section will be recognized as an indication by Architect that such temporary activity is not required for successful completion of the Work and compliance with requirements of Contract Documents.
    1. Dispose of project control facilities at completion of the Project, unless otherwise requested in writing by the Owner or specified. Repair damage caused by the installations.
    1. Project Signage
 
-General
+## General
+
    1. Do not display signs or advertising on the premises without the approval of the Owner.
    1. Directional Signs
    1. Provide the following signs legibly printed and weatherproof:
@@ -33,7 +36,8 @@ General
    1. Signs required for maintenance of traffic.
    1. Project Identification Signs
 
-General
+## General
+
    1. Provide one Project identification sign. Locate sign where directed by the Owner.
    1. Provide minimum sign dimensions of 4’ x 8’.
    1. Submit shop drawings for approval showing structure, exact dimensions, copy, confirmation of specified colors and typefaces, and location on site. Receive approval before erection.

@@ -11,7 +11,8 @@ tags: ['General', 'Requirements', 'Scheduling', 'Work']
 
  **CONSTRUCTION SCHEDULES
 
-General
+## General
+
 1. SCOPE
    1. This Section includes, but is not necessarily limited to, the preparation, furnishing, distribution, and periodic revision of construction schedules as herein specified and as necessary for the proper and complete performance of this Work.
    1. RELATED SECTIONS
