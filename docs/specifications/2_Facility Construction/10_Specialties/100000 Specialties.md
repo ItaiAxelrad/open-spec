@@ -10,5 +10,3 @@ tags: ['Facility', 'Construction', 'Specialties']
    1. Division 10
    1. Specialties
 
-*[this page intentionally left blank]*
-

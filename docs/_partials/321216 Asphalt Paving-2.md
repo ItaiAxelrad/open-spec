@@ -10,7 +10,7 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Asphalt', 'Paving'
 
 ## General
 
-   1. SUMMARY
+1. SUMMARY
    1. Section Includes
    1. Directional arrows
    1. Handicapped symbol marking
@@ -47,7 +47,7 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Asphalt', 'Paving'
    1. Agency:
       1. National Renewable Energy Laboratory, National Wind Technology Center.
    1. Where Grade CX is called out on the Drawings use Grading S. Where Grade C is called out on the Drawings use Grading S.
-   1. SUBMITTALS
+1. SUBMITTALS
    1. Make submittals in accordance with Section 013300.
    1. Mix Designs:
       1. At least two weeks prior to paving, the Contractor, at his expense, shall submit the mix design for each area of pavement. The Testing Laboratory shall, at the Contractor’s expense, test all materials for compliance with these specifications and establish a job mix formula for each mixture proposed for use on the project. Using the blank copy herein, the Contractor shall include a completed copy of MGPEC Form #9 with each mix design submittal. Each mix design submittal shall include:
@@ -62,7 +62,9 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Asphalt', 'Paving'
       1. The Contractor shall submit the source and supplier of all materials together with addresses and phone numbers.
    1. PROJECT/SITE CONDITIONS
    1. Do not apply in-laid thermo-plastic marking when surface or air temperature is less than 55 F., or when moisture content of substrate is above manufacturer's recommendations.
-   1. PRODUCTS
+
+## Products
+
    1. MATERIALS
    1. Lane Marking Paint:
       1. Opaque White:
@@ -72,7 +74,9 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Asphalt', 'Paving'
    1. In-Laid Thermo-Plastic Markings:
       1. Provide "Cata-Therm" by Cataphote, Inc., 1-800-221-2574, white reflective color, or approved substitute alkyd-based thermo-plastic material complying with AASHTO M249.
    1. Provide drop-in glass beads which are skid-resistant and which comply with the local standards.
-   1. EXECUTION
+
+## Execution
+
    1. ERECTION INSTALLATION APPLICATION
    1. In-Laid Thermo-Plastic Markings:
       1. Provide for all crosswalks and stop bars.
@@ -90,7 +94,7 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Asphalt', 'Paving'
       1. International symbol for handicap parking.
    1. CLEANING
    1. After completing asphalt-paving operations, clean surfaces, pick up excess paving materials and clean work area.
-   1. END OF SECTION
+   
    1. SEE NEXT PAGE FOR FORM
    1. MCPEC Form 9 - Required for this Section.
 

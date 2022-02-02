@@ -10,7 +10,7 @@ tags: ['Facility', 'Construction', 'Furnishings', 'Roller', 'Window', 'Shades', 
 
 ## General
 
-   1. SUMMARY
+1. SUMMARY
    1. Section Includes:
       1. Shade Type 1:
          1. Motorized interior darkening shade, surface mounted, for use in laboratories.
@@ -40,7 +40,7 @@ tags: ['Facility', 'Construction', 'Furnishings', 'Roller', 'Window', 'Shades', 
    1. ASTM G-21-85 results for ATCC9642, ATCC9644, ATCC9348 and ATCC9645 indicating ‘No Growth’.
    1. Electrical:
       1. Control systems and components approved as a system by either Underwriter Laboratories (UL) or Electrical Testing Laboratories (ETL).
-   1. SUBMITTALS
+1. SUBMITTALS
    1. Product Data:
       1. Manufacturer’s product data sheets, performance data, and installation instructions for each item required.
    1. Shop Drawings:
@@ -56,7 +56,7 @@ tags: ['Facility', 'Construction', 'Furnishings', 'Roller', 'Window', 'Shades', 
       1. Current reports from independent testing laboratories demonstrating compliance with article 1.4.
    1. Manufacturers’ Instructions:
       1. Manufacturer’s standard installation instructions.
-   1. QUALITY ASSURANCE
+1. QUALITY ASSURANCE
    1. Qualifications:
       1. Manufacturer:
          1. 10 years minimum experience manufacturing products comparable to those specified in this section.
@@ -66,12 +66,14 @@ tags: ['Facility', 'Construction', 'Furnishings', 'Roller', 'Window', 'Shades', 
    1. DELIVERY, STORAGE, AND HANDLING
    1. Deliver shades to project in labeled protective packaging. Uniquely labeled to identify each shade for each opening.
    1. Store materials in a dry secure place. Protect from weather, surface contaminants, corrosion, construction traffic and all other potential damage.
-   1. WARRANTY
+1. WARRANTY
    1. Special Warranty:
       1. Shade Motors and motor control system electrical components:
          1. Provide Manufacturer’s warranty under provisions of Division 1 - General Requirements. Warranty period to be 5 years from Date of Substantial Completion for shade motors and two years for all other control components containing provisions that installation will remain operational without fault for the warranty period and include all operating parts.
    1. Provide manufacturers warrant that shadecloth and all other components of shade system shall be fit for the use intended for a minimum of 10 years.
-   1. PRODUCTS
+
+## Products
+
    1. MANUFACTURERS
    1. Manufacturer:
       1. Drawings and specifications are based on products by MechoShade Systems, Inc., Long Island City, NY., USA. Equal products manufactured by one of the following are acceptable:
@@ -150,10 +152,12 @@ tags: ['Facility', 'Construction', 'Furnishings', 'Roller', 'Window', 'Shades', 
       1. Anodized aluminum finish in selected colors.
    1. Steel Components:
       1. Cadmium-plated, satin-finished, or bonderized prior to painting with Manufacturer’s standard baked-enamel finish.
-   1. EXECUTION
-   1. EXAMINATION
+
+## Execution
+
+1. EXAMINATION
    1. Examine substrate and conditions for installation. Do not commence installation until conditions are satisfactory. Commencement of installation indicates acceptance of site conditions by Contractor. Notify the Design Professional upon inspection when the project conditions are unacceptable for shade installation. "Beginning of installation" means acceptance of substrate and project conditions.
-   1. INSTALLATION
+1. INSTALLATION
    1. Install units to comply with the Manufacturer's instructions for the type of mounting and operation required. Provide units plumb, true, and securely anchored in place with recommended hardware and accessories to provide smooth operation without binding.
    1. Install units within the following tolerances:
       1. Maximum variation of gap at window opening perimeter:
@@ -167,5 +171,5 @@ tags: ['Facility', 'Construction', 'Furnishings', 'Roller', 'Window', 'Shades', 
    1. Clean exposed surfaces, including metal and shadecloth, using non-abrasive materials and methods recommended by the Shadecloth Manufacturer. Remove and replace work which cannot be satisfactorily cleaned.
    1. DEMONSTRATION
    1. Demonstrate operation method and instruct Owner's personnel in the proper operation and maintenance of the window shade systems.
-1. END OF SECTION
+
 

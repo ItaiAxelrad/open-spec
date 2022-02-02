@@ -7,19 +7,18 @@ subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Wood', 'Plastics', 'Composites', 'Plastic', 'Fabrications']
 ---
 
-         1. 
 ## General
 
-   1. summary
+1. summary
    1. Refer to Section 018113 – Sustainable Design Requirements; 018113A – Appendix A - Materials Anticipated to be Used for Recycled Content; and 018113B – LEED Matrix for materials requiring contractor validation of recycled content.
-   1. references
+1. references
    1. American Society for Testing and Materials (ASTM)
    1. E84 - Test Method for Surface Burning Characteristics of Building Materials.
    1. delivery, storage and handling
    1. Protect the Work by means of suitable cartons or paper bags during transportation to the Project site. Damaged items, as determined by the Architect, shall be replaced.
    1. project conditions
    1. Take field measurements to verify or supplement dimensions indicated. Be responsible for accurate fit of the Work.
-   1. Submittals
+1. Submittals
    1. Shop Drawings
    1. Submit Shop Drawings for each item showing details of fabrication and installation.
    1. Samples
@@ -39,7 +38,9 @@ tags: ['Facility', 'Construction', 'Wood', 'Plastics', 'Composites', 'Plastic', 
       1. 1/2” or thicker, No 1/4” thicknesses.
    1. Fabrication
    1. Fabricate stools and vanity tops of plastic material of thickness indicated, with joints, including corner joints, butted. Seal joints in pieces wider than 30 inches with joint adhesive.
-   1. execution
+
+## Execution
+
 
 ## General
 
@@ -49,5 +50,5 @@ tags: ['Facility', 'Construction', 'Wood', 'Plastics', 'Composites', 'Plastic', 
    1. Install plastic stools with adhesive and plastic vanity tops with adhesive and corrosion-resistant clips.
    1. Provide 1/32-inch expansion joints at 8-foot spacing.
    1. Seal joints indicated to be caulked with sealant.
-   1. END OF SECTION
+   
 

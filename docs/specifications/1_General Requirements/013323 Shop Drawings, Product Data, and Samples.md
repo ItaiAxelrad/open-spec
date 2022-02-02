@@ -10,7 +10,7 @@ tags: ['General', 'Requirements', 'Shop', 'Drawings', 'Product', 'Data', 'Sample
 
 ## General
 
-   1. SUMMARY
+1. SUMMARY
    1. Section Includes
    1. Administrative and procedural requirements for submittal and review of product data, shop drawings, samples and similar items required by the Specifications.
    1. Related Sections
@@ -19,7 +19,7 @@ tags: ['General', 'Requirements', 'Shop', 'Drawings', 'Product', 'Data', 'Sample
 ## General
 
  and Supplementary Conditions of the Contract, drawings, and other Division 1 Specification sections apply to work of this Section.
-   1. SUBMITTALS
+1. SUBMITTALS
    1. Submittal Types
    1. Submittals prior to award of contract
    1. Refer to Bid Preparation Instructions and other Contract Documents for general submittal data, including but not limited to:
@@ -71,7 +71,7 @@ tags: ['General', 'Requirements', 'Shop', 'Drawings', 'Product', 'Data', 'Sample
    1. Notation of dimensions established by field measurement.
    1. Submit initially, one correctable, translucent, reproducible print and four blue- or black-line prints.
    1. Contractor will provide prints of marked up sepia as may be required for his use and that of his Subcontractors and suppliers.
-   1. Final submittal shall be delivered to the Owner with sufficient copies so that desired distribution can be made by Contractor, three copies to the Owner, and one each to the Contractor’s field office, his home office, the Record Documents, the fabricator, and any others involved in the submittal. Provide 1 electronic copy. See NREL CAD Manual for required format.
+   1. Final submittal shall be delivered to the Owner with sufficient copies so that desired distribution can be made by Contractor, three copies to the Owner, and one each to the Contractor’s field office, his home office, the Record Documents, the fabricator, and any others involved in the submittal. Provide 1 electronic copy. See Owner CAD Manual for required format.
    1. If initial submittal becomes final submittal, provide sufficient additional copies that may be needed to meet these requirements.
    1. Where shop drawings are indicated to be submitted for "information only", submit three sets of prints to Owner and retain one set for Project Record Documents.
    1. Samples
@@ -182,9 +182,13 @@ tags: ['General', 'Requirements', 'Shop', 'Drawings', 'Product', 'Data', 'Sample
    1. On the transmittal, record relevant information and requests for data. On the form, or separate sheet, record deviations from Contract Document requirements, including variations and limitations. Include Contractor's certification that information complies with Contract Document requirements.
    1. Submittal Matrix
    1. The following Submittal Matrix is provided as a guide for preparing the submittal schedule, and as the submittal log basis.
-   1. PRODUCTS
-   1. EXECUTION
-1. NREL PROJECT TITLE Submittal Matrix
+
+## Products
+
+
+## Execution
+
+1. Owner PROJECT TITLE Submittal Matrix
    1. The following matrix identified by specification sections the submittals, mock-ups, special warranties, and operating and maintenance data required. It is provided as a convenience and checklist. Specific requirements for submittals and procedures will be found in other sections of Division 1 and in the individual sections of Divisions 2 through 16. The matrix may not be entirely complete and correct in which case the requirements of individual sections will govern.
    1. Spec.
    1. Sect.
@@ -211,5 +215,5 @@ tags: ['General', 'Requirements', 'Shop', 'Drawings', 'Product', 'Data', 'Sample
    1. Calcs.
    1. Record
    1. Docs.
-1. END OF SECTION
+
 

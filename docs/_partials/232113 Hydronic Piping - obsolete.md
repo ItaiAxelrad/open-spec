@@ -99,8 +99,7 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. ASTM E11.
    1. Sand
    1. Natural particles of granular material which does not contain excessive amounts of clay, silt, or organic material, passing a 3/8-inch sieve. Sand found on the job site may be used if it is approved by the Architect.
-1. Piping Materials - Aboveground** 
-   1. Heating Hot Water, Chilled Water, Condenser Water, and Glycol.
+1. Piping Materials - Aboveground*   1. Heating Hot Water, Chilled Water, Condenser Water, and Glycol.
    1. Item
    1. Type
    1. Joint
@@ -217,8 +216,7 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Use long radius ells whenever possible, in changing pipe directions on grooved pipe lines.
 1. EXECUTION
 
- **Aboveground Piping Installation** 
-
+ **Aboveground Piping Installation*
 ## General
 
 
@@ -251,8 +249,7 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Clean surfaces to be soldered both the inside of the fitting and the outside of the tubing, with steel wool or fine sandpaper until all discoloration is removed and metal is smooth and bright. 
    1. In assembling copper tube systems, take care to establish proper grade and alignment in the system before soldering. Installations will not be approved where tube and fittings are subjected to strain in order to obtain grade or alignment. 
    1. File or ream cut tube ends to the full original bore. 
-1. Pipe Jointing** 
-   1. Steel Pipe 
+1. Pipe Jointing*   1. Steel Pipe 
    1. Provide steel pipe NPS 2 and smaller with plain ends and socket weld joints or threaded ends and screwed joints. Provide sizes NPS 2-1/2 and over flanged or grooved with gaskets or welded. Welding of galvanized pipe is not permitted. Connect galvanized pipe with screwed fittings, companion flanges or approved mechanical couplings. 
    1. Ream pipe ends and take care to prevent foreign material from entering any pipe. 
    1. Make screwed joints with oil and graphite or other approved compound. Apply joint compound to male thread only and take care to prevent compound from reaching interior of pipe. 
@@ -316,5 +313,4 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. For proper drainage and air elimination, provide eccentric type fittings when decrease in pipe size is necessary. Bushings will not be permitted. 
    1. For water and other liquid lines, install the top of pipe on a continuous straight line. 
    1. For steam, gas, gravity condensate, and air lines, install the bottom of the pipe on a continuous straight line. 
-1. END OF SECTION 232113
 

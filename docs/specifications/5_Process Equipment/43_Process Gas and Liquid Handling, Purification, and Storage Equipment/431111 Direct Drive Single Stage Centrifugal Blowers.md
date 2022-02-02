@@ -8,16 +8,16 @@ tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Sto
 ---
 
    1. 43 11 11 Direct Drive Single Stage Centrifugal Blowers
-   1. SECTION 446060 – CENTRIFUGAL AIR BLOWERS 
+
 
 ## General
 
 1.
-   1. RELATED DOCUMENTS
+1. RELATED DOCUMENTS
    1. A.
    1. Drawings, General and Special Provisions of the Contract, and Division 01 Specification Sections apply to this Section.
 2.
-   1. SUMMARY
+1. SUMMARY
    1. A.
    1. The work of this section includes furnishing, installing, and testing five (5) electric motor driven, direct-drive, centrifugal blower units and air bleeding assemblies. Instrumentation, controls and appurtenances shall be provided as shown on the drawings and as specified herein for a complete aeration system.
    1. B.
@@ -35,15 +35,12 @@ tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Sto
    1. Discharge Pressure:
       1. The pressure in *pounds per square inch gauge* (psig) at the blower discharge flange.
 4.
-   1. SUBMITTALS
+1. SUBMITTALS
    1. A.
    1. Submit the following information in accordance with Section 013000 – Submittals to establish compliance with the specifications.
 1. A copy of this specification section, with addendum updates included, and all referenced and applicable sections, with addendum updates included, with each paragraph check- marked to indicate specification compliance or marked to indicate requested deviation from specification requirements. If deviations from the specification are indicated and, therefore requested by the Contractor, the submittal shall be accompanied by a detailed, written justification for each deviation. Failure to include a copy of the marked-up specification sections, along with justification for any requested deviations to the
    1. specification requirements, with the submittal, shall be cause for rejection of the entire submittal with no further consideration.
 
-* 
-	+ 
-		- 
 			1. Shop Drawings and Product Data including wiring diagrams.
 			2. Installation Instructions including instructions as required for unloading, storing, unpacking, assembly, and installation of equipment.
 			3. Operation and Maintenance Manuals.
@@ -66,7 +63,6 @@ tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Sto
 			3. Lubricating oil.
    1. PART 2 - EQUIPMENT
 
-* 
 	1. ACCEPTABLE MANUFACTURERS
 		1. Subject to compliance with requirements of these specifications and plans, manufacturers offering multistage centrifugal blowers which may be supplied for the work include the following:
 			1. Gardner Denver (Hoffman Air and Filtration Systems) Model 859
@@ -77,8 +73,6 @@ tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Sto
 		2. The blower shall be capable of compressing 1500 SCFM of air to a discharge pressure of
 0. PSIG when operated at an elevation of 1160 feet, inlet pressure of 14.10 PSIA, inlet air temperature of 104 degrees F, 75 percent relative humidity. Winter conditions are 10 degrees F and 10% relative humidity.
 
-* 
-	+ 
 		1. When the volumetric capability is reduce by at least 45 percent, the blower under the specified inlet conditions shall:
 			1. Develop at least 1.20 PSI pressure above the specified discharge pressure.
 			2. Not be in surge.
@@ -148,8 +142,6 @@ tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Sto
    1. 38
    1. 35
 
-* 
-	+ 
 		1. Interconnecting piping and fittings shall be stainless steel.
 	1. ACCESSORIES
 		1. Control panel ammeter shall be calibrated in both AMPS and SCFM and shall include surge, overload and vibration protection shutdown. The control panel shall be NEMA 4 stainless steel and shall be supplied with lights, ammeters, switches and suitable current transformer.
@@ -197,23 +189,18 @@ tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Sto
    1. Motor Current
    1. Analog
 
-* 
-	+ 
-		- 
 			1. Provide for accepting inputs from the VCR PLC as listed below and as shown on the P&IDs.
    1. Description
    1. Signal Type
    1. Start Blower
    1. Discrete
 
-* 
-	+ 
 		1. Operational Modes
 			1. In this description, hardware functions, such as field hand switches, are referred to as “hard” (e.g. hard switch); software functions performed at the OI are referred to as “soft” (e.g. soft switch). Regardless of the mode of operation (described below) process indications will remain active (these may include valve position, motor on or off, VFD speed, process flow measurements, etc) and hard wired alarms and safeties (such as motor overloads or high temperature, etc) will be active and reported by the PLC.
-				1. HAND OPERATION (Hard Switch): When the HAND position is selected at the hard switch, the associated equipment shall run and the system controls shall not control the device.
-				2. OFF POSITION (Hard Switch): When the OFF position is selected at the hard switch, the associated equipment shall stop and the system controls shall not control the device.
-				3. AUTO OPERATION (Hard Switch): When the AUTO position is selected at the hard switch, the equipment shall be controlled automatically by the controls system.
-				4. EMERGENCY STOP (Hard Switch): Equipment can be deactivated at any time by pressing the EMERGENCY STOP push button (where present). The EMERGENCY STOP pushbutton overrides all other controls including remote or automatic controls and the hard HOA switch. EMERGENCY STOP pushbuttons shall be hardwired into the motor starting control circuitry, as shown on the schematics found in the Electrical drawings. For equipment where schematics have not been provided on the contract drawings, integration of hardwire EMERGENCY STOP control shall be included. EMERGENCY STOP push buttons must be manually reset to allow the equipment to run.
+			1. HAND OPERATION (Hard Switch): When the HAND position is selected at the hard switch, the associated equipment shall run and the system controls shall not control the device.
+			2. OFF POSITION (Hard Switch): When the OFF position is selected at the hard switch, the associated equipment shall stop and the system controls shall not control the device.
+			3. AUTO OPERATION (Hard Switch): When the AUTO position is selected at the hard switch, the equipment shall be controlled automatically by the controls system.
+			4. EMERGENCY STOP (Hard Switch): Equipment can be deactivated at any time by pressing the EMERGENCY STOP push button (where present). The EMERGENCY STOP pushbutton overrides all other controls including remote or automatic controls and the hard HOA switch. EMERGENCY STOP pushbuttons shall be hardwired into the motor starting control circuitry, as shown on the schematics found in the Electrical drawings. For equipment where schematics have not been provided on the contract drawings, integration of hardwire EMERGENCY STOP control shall be included. EMERGENCY STOP push buttons must be manually reset to allow the equipment to run.
 		2. Motor Overload Protection
 			1. The panel shall include a solid state meter with a digital read out to indicate motor amperage as well as air flow on the panel front. An adjustable set point switch shall be incorporated to provide a warning of high amperage. A second adjustable set point switch shall open a set of contacts that will cause the motor to shut down when the amperage draw reaches the motor’s FLA. Two lights shall be provided to indicate impending high amperage and high amperage trip. A reset pushbutton shall be provided that must be pressed before the motor can be restarted following an overpower trip. An adjustable 0 to 30-second time delay relay shall be incorporated in the circuitry to prevent a motor overload trip while the motor is being started. A suitable current transformer for the ammeter shall be provided by the blower manufacturer and installed in the motor starter enclosure. The ammeter shall hold and indicate the last amperage reading at the time of an overload trip.
 		3. Blower Surge Protection
@@ -224,31 +211,31 @@ tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Sto
 	2. PERFORMANCE TESTING
 		1. Each blower shall be tested at the manufacturer’s facility to determine that vibration and bearing temperature levels are within specified tolerances. Each blower shall be operated until it reaches a sustained temperature before measurements are recorded.
 		2. ASME performance tests are not required for compressors built of parts cast in patterns from which previous units have been cast, built and tested. Performance for untested blowers shall be guaranteed by the manufacturer to be within performance allowances on the predicted blower performance curves.
-   1. Execution
 
-* 
+## Execution
+
+
 	1. INSTALLATION
 		1. The blowers, motors, all aeration instrumentation and appurtenances shall be installed in accordance with the instructions of the manufacturer and as shown on the drawings. All piping shall be supported so as to preclude the possibility of exerting undue forces and moments on the blower flanges.
 		2. The Contractor shall furnish the required piping, pipe supports, flange gaskets, bolts, nuts, oil and grease for initial operation in accordance with the Manufacturer's recommendations.
 	2. START-UP AND TRAINING
 		1. The Equipment Manufacturer shall furnish an experienced service representative to inspect the final installation and supervise the field acceptance tests of the equipment. The services of the representative shall be provided for a minimum of three (3), eight-hour (8-hour) days. If there are difficulties in operation of the equipment due to the manufacturer's fabrication or Contractor’s installation, additional service shall be provided at no extra cost to the Owner.
 			1. Provide, as a minimum, the following field services:
-				1. Verify proper connection of piping and installation of accessories
-				2. Field precision align motor, blower & coupling
-				3. Check leveling of blower base
-				4. Confirm proper wiring of all instruments and field wired items
-				5. Run motor uncoupled for up to one-half (1/2) hour to verify motor operation and check magnetic center for proper marking/location.
+			1. Verify proper connection of piping and installation of accessories
+			2. Field precision align motor, blower & coupling
+			3. Check leveling of blower base
+			4. Confirm proper wiring of all instruments and field wired items
+			5. Run motor uncoupled for up to one-half (1/2) hour to verify motor operation and check magnetic center for proper marking/location.
 			2. A minimum six (6) hour field acceptance test shall demonstrate that, under all conditions of operation, each unit:
-				1. Has not been damaged by transportation or installation
-				2. Has been properly installed
-				3. Has no mechanical defects
-				4. Has fully functional instrumentation and all are properly calibrated and set
-				5. Will start, run and stop in the prescribed manner
-				6. Has the proper shutdown sequence of standard stop, soft stop, and emergency stop
-				7. Is free of overheating of any parts
-				8. Is free of objectionable vibration and noise
-				9. Is free of overloading of any parts
-				10. Demonstrates the simultaneous and continuous efficiency optimization by altering the inlet valve position based on inlet temperature, differential pressure and capacity.
+			1. Has not been damaged by transportation or installation
+			2. Has been properly installed
+			3. Has no mechanical defects
+			4. Has fully functional instrumentation and all are properly calibrated and set
+			5. Will start, run and stop in the prescribed manner
+			6. Has the proper shutdown sequence of standard stop, soft stop, and emergency stop
+			7. Is free of overheating of any parts
+			8. Is free of objectionable vibration and noise
+			9. Is free of overloading of any parts
+			10. Demonstrates the simultaneous and continuous efficiency optimization by altering the inlet valve position based on inlet temperature, differential pressure and capacity.
 		2. A factory representative, who has complete knowledge of proper operation and maintenance, shall be provided for twelve (12) hours, to instruct the plant operators on proper operation and maintenance, including start-up and shut-down procedures, proper lubrication practices and troubleshooting of all equipment.
-   1. END OF SECTION 446060
-
+   

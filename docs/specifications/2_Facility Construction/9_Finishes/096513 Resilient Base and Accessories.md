@@ -10,14 +10,14 @@ tags: ['Facility', 'Construction', 'Finishes', 'Resilient', 'Base', 'Accessories
 
 ## General
 
-   1. summary
+1. summary
    1. Refer to Section 018113 – Sustainable Design Requirements; 018113A – Appendix A - Materials Anticipated to be Used for Recycled Content; and 018113B – LEED Matrix for materials requiring contractor validation of recycled content
    1. References
    1. Federal Specifications (Fed. Spec.)
    1. RR-T-650E - Treads, Metallic and Nonmetallic, Skid-Resistant.
    1. SS-W-40A - Wall Base:
       1. Rubber, and Vinyl Plastic.
-   1. submittals
+1. submittals
    1. Warranty
    1. Submit a statement of compliance for materials.
    1. Samples
@@ -29,7 +29,9 @@ tags: ['Facility', 'Construction', 'Finishes', 'Resilient', 'Base', 'Accessories
    1. Store materials in their original containers at minimum temperature of 70 degrees F for at least 24 hours before installation.
    1. project Conditions
    1. Maintain spaces to receive the Work at minimum temperature of 70 degrees F at floor level for at least 48 hours prior to, during, and for 48 hours after completion of the Work.
-   1. PRODUCTS
+
+## Products
+
    1. Resilient Base
    1. Rubber as manufactured by Allstate Rubber Corp.; Armstrong World Industries, Inc.; BurkeMercer Flooring Products; Freudenberg Building Systems, Inc.; Johnsonite; R.C. Musson Rubber Co.; Roppe Corp.; Marley Flexco; or as approved.
    1. Fed. Spec. SS-W-40A, 4 inches high and of topset cove style, unless otherwise indicated or specified, with premolded smooth top and cove, provided in as long lengths as practicable to suit conditions of installation.
@@ -84,7 +86,9 @@ tags: ['Facility', 'Construction', 'Finishes', 'Resilient', 'Base', 'Accessories
       1. as selected by the Architect from manufacturer's standard range.
    1. Adhesive for corner guards:
       1. waterproof adhesive recommended by manufacturer of corner guards.
-   1. execution
+
+## Execution
+
    1. Examination
    1. Verify that substrates and conditions are satisfactory. Do not allow resilient base and accessories work to proceed until unsatisfactory conditions have been corrected.
    1. preparation
@@ -129,6 +133,5 @@ tags: ['Facility', 'Construction', 'Finishes', 'Resilient', 'Base', 'Accessories
    1. Upon completion of Work in a space, clean surfaces free of adhesive, dirt and other foreign materials in accordance with the instructions of the tile manufacturer.
    1. Protection
    1. Protect the Work against mars, marks, indentations and other damage from construction operations and placement of equipment and fixtures during the remainder of the construction period. Use protection methods recommended in writing by resilient product manufacturer.
-1. END OF SECTION
-1. THIS PAGE INTENTIONALLY BLANK
+
 

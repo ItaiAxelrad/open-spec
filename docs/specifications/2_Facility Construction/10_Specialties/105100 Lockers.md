@@ -7,7 +7,7 @@ subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Specialties', 'Lockers']
 ---
 
-   1. SECTION 105100 - LOCKERS 
+
 ## General
 
 1. RELATED DOCUMENTS
@@ -80,10 +80,7 @@ Sections, apply to this Section.
    1. Finished End Panels:
       1. Fabricated from 0.024-inch nominal-thickness steel sheet.
 5. LOCKER BENCHES
-
-## General
-
-:
+	1. General:
       1. Provide locker benches fabricated by same manufacturer as metal lockers.
    1. Bench Tops:
       1. Manufacturer's standard 1-piece units, of the following material, minimum 9-1/2 inches wide by 1-1/4 inches thick, with rounded corners and edges:
@@ -102,10 +99,7 @@ Sections, apply to this Section.
 1. Locker components shall be fabricated square and rigid with a finish free of scratches and chips. All sides, tops, bottoms, rears, doors, and shelves shall be coated on one side with protective plastic masking.
 2. Solid plastic locker components shall snap together for easy assembly and shall provide a solid and secure construction. Adjacent lockers shall share a common side panel.
 7. FINISHES
-
-## General
-
-:
+	1. General:
       1. Comply with NAAMM's "Metal Finishes Manual for Architectural and Metal
 
 ## Product
@@ -113,12 +107,11 @@ s" for recommendations for applying and designating finishes.
    1. Factory finish steel surfaces and accessories except stainless-steel and chrome-plated surfaces.
    1. Surface Preparation:
       1. Clean surfaces of dirt, oil, grease, mill scale, rust, and other contaminants that could impair paint bond. Use manufacturer's standard methods.
-   1. Execution
+
+## Execution
+
 1. INSTALLATION
-
-## General
-
-:
+	1. General:
       1. Install level, plumb, and true; shim as required, using concealed shims.
 1. Anchor locker runs at ends and at intervals recommended by manufacturer, but not more than 36 inches o.c. Install anchors through backup reinforcing plates, channels, or blocking as required to prevent metal distortion, using concealed fasteners.
    1. Equipment and Accessories:

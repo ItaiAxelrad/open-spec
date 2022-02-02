@@ -1,27 +1,20 @@
 ---
-title: Site Clearing NREL proj
+title: Site Clearing Owner proj
 section: '311000'
 divNumb: 31
 divName: Earthwork
 subgroup: Site and Infrastructure
-tags: ['Site', 'Infrastructure', 'Earthwork', 'Clearing', 'NREL', 'proj']
+tags: ['Site', 'Infrastructure', 'Earthwork', 'Clearing', 'Owner', 'proj']
 ---
-
-1. SECTION 311000 - SITE CLEARING
-   1. SITE CLEARING **Copyright 2007 by The American Institute of Architects (AIA)
-1. Exclusively published and distributed by Architectural Computer Services, Inc. (ARCOM) for the AIA
-   1. Revise this Section by deleting and inserting text to meet Project-specific requirements.
-   1. This Section uses the term "Architect." Change this term to match that used to identify the design professional as defined in the General and Supplementary Conditions.
-   1. Verify that Section titles referenced in this Section are correct for this Project's Specifications; Section titles may have changed.
 
 ## General
 
-   1. RELATED DOCUMENTS
+1. RELATED DOCUMENTS
    1. Retain or delete this article in all Sections of Project Manual.
    1. Drawings and general provisions of the Contract, including General and Supplementary Conditions and Division 01 Specification Sections, apply to this Section.
-   1. All current NREL standards and specifications shall apply, including but not limited to:
-      1. NREL CONSTRUCTION SPECIFICATIONS
-   1. SUMMARY
+   1. All current Owner standards and specifications shall apply, including but not limited to:
+      1. Owner CONSTRUCTION SPECIFICATIONS
+1. SUMMARY
 
 ## General
 
@@ -63,7 +56,7 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Clearing', 'NREL', 'proj']
       1. Trees, shrubs, groundcovers, grass, and other plants.
    1. MATERIAL OWNERSHIP
    1. Except for stripped topsoil and other materials indicated to be stockpiled or otherwise remain Owner's property, cleared materials shall become Contractor's property and shall be removed from Project site.
-   1. SUBMITTALS
+1. SUBMITTALS
    1. Paragraphs below are defined in Division 01 Section "Submittal Procedures" as "Informational Submittals."
    1. Existing Conditions:
       1. Documentation of existing trees and plantings, adjoining construction, and site improvements that establishes preconstruction conditions that might be misconstrued as damage caused by site clearing.
@@ -73,11 +66,11 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Clearing', 'NREL', 'proj']
    1. Revise paragraph below to suit Project.
    1. Record Drawings:
       1. Identifying and accurately showing locations of capped utilities and other subsurface structural, electrical, and mechanical conditions.
-   1. QUALITY ASSURANCE
+1. QUALITY ASSURANCE
    1. Retain this article if Work of this Section is extensive or complex enough to justify a preinstallation conference.
    1. Preinstallation Conference:
       1. Conduct conference at project location.
-   1. PROJECT CONDITIONS
+1. PROJECT CONDITIONS
    1. Traffic:
       1. Minimize interference with adjoining roads, streets, walks, and other adjacent occupied or used facilities during site-clearing operations.
    1. Do not close or obstruct streets, walks, or other adjacent occupied or used facilities without permission from Owner and authorities having jurisdiction.
@@ -106,15 +99,19 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Clearing', 'NREL', 'proj']
    1. Retain paragraph below to suit Project.
    1. Soil Stripping, Handling, and Stockpiling:
       1. Perform only when the topsoil is dry or slightly moist.
-   1. PRODUCTS
+
+## Products
+
    1. MATERIALS
    1. Retain first paragraph below if soil backfill is required in below-grade areas after site clearing.
    1. Satisfactory Soil Material:
       1. Requirements for satisfactory soil material are specified in Division 31 Section "Earth Moving."
    1. Obtain approved borrow soil material off-site when satisfactory soil material is not available on-site.
    1. Retain paragraph below if needed for cut ends of steel reinforcement in concrete to remain; revise to suit Project.
-   1. EXECUTION
-   1. PREPARATION
+
+## Execution
+
+1. PREPARATION
    1. Protect and maintain benchmarks and survey control points from disturbance during construction.
    1. Revise first paragraph below to suit regional standards or office practices; delete if specified in Division 01 Section "Temporary Tree and Plant Protection." Insert requirement for flagging trees to be relocated if required.
    1. Locate and clearly identify trees, shrubs, and other vegetation to remainor to be relocated. Wrap a 1-inch blue vinyl tie tape flag around each tree trunk at 54 inches above the ground.
@@ -130,10 +127,7 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Clearing', 'NREL', 'proj']
    1. Remove erosion and sedimentation controls and restore and stabilize areas disturbed during removal.
    1. TREE AND PLANT PROTECTION
    1. Retain this article if required. If retaining, Drawings should show tree- and plant-protection zones and protection-zone fencing.
-
-## General
-
-:
+	1. General:
       1. Protect trees and plants remaining on-site according to requirements in Division 01 Section "Temporary Tree and Plant Protection."
    1. Repair or replace trees, shrubs, and other vegetation indicated to remain or be relocated that are damaged by construction operations, in a manner approved by Architect.
    1. EXISTING UTILITIES
@@ -189,5 +183,5 @@ ly retain first paragraph below unless there are no existing utilities. Coordina
    1. Remove surplus soil material, unsuitable topsoil, obstructions, demolished materials, and waste materials including trash and debris, and legally dispose of them off Owner's property.
    1. Retain paragraph below where recycling programs exist and recycling facilities can accept materials such as concrete or asphalt paving. Coordinate with Division 01 Section "Construction Waste Management and Disposal."
    1. Separate recyclable materials produced during site clearing from other nonrecyclable materials. Store or stockpile without intermixing with other materials and transport them to recycling facilities. Do not interfere with other Project work.
-1. END OF SECTION 31 10 00
+31 10 00
 

@@ -24,7 +24,7 @@ tags: ['Facility', 'Construction', 'Equipment', 'Laboratory', 'Controlled-Enviro
    1. Submit manufacturer’s literature indicating details of gas cabinet construction.
    1. Submit Shop Drawings showing details of fabrication.
    1. Provide a schedule showing sizes and locations of gas cabinets to be provided.
-   1. PROJECT CONDITIONS
+1. PROJECT CONDITIONS
    1. Delivery
    1. Do not deliver gas cabinets to the project site until the building is fully enclosed, floor materials have been installed, and painting is complete.
    1. products
@@ -54,8 +54,10 @@ tags: ['Facility', 'Construction', 'Equipment', 'Laboratory', 'Controlled-Enviro
    1. Anchor all components to the cabinet body using stainless steel fasteners.
    1. Finish
    1. Provide two (2) coat white polyurethane finish on all exposed steel components and cabinet body.
-   1. execution
-   1. PREPARATION
+
+## Execution
+
+1. PREPARATION
    1. Protection
    1. Protect the Work and adjacent construction against damage.
    1. Installation
@@ -66,5 +68,5 @@ tags: ['Facility', 'Construction', 'Equipment', 'Laboratory', 'Controlled-Enviro
    1. Install compressed air system line and valve in accordance with the drawings and Section 15210.
    1. CLEANING
    1. Upon completion, clean the Work in accordance with manufacturer's instructions.
-1. END OF SECTION
+
 

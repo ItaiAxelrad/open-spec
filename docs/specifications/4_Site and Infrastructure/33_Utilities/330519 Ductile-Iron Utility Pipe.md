@@ -7,7 +7,7 @@ subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Utilities', 'Ductile-Iron', 'Utility', 'Pipe']
 ---
 
-1. SECTION 15055
+
 1. DUCTILE-IRON PIPE
 
 ## General
@@ -34,10 +34,7 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Ductile-Iron', 'Utility', 'Pipe']
    1. PVC pipe shall be used to transport and distribute potable water as indicated on the Approved Plans.
    1. If ductile-iron pipe is to be used in the place of PVC pipe, a cathodic protection system may be required.
 05. DESIGN REQUIREMENTS
-
-## General
-
-:
+	1. General:
       1. Ductile-iron pipe shall be manufactured per AWWA C111, C115, C150, and C151.
 2. Ductile-iron pipe shall be provided in standard 5.49m (18’) or 6.10m (20’) lengths unless otherwise detailed or required on the Approved Plans. When deep trenches or shoring restrictions hinder the use of the standard length sections, shorter lengths shall be allowed with the concurrence of the City Engineer. Random lengths are not allowed. 
 3. The minimum length of ductile-iron pipe sections used for tie-ins and stub-outs shall be three (3) times the nominal pipe diameter or 48”, whichever is longer, unless otherwise approved by the City Engineer.
@@ -173,5 +170,5 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Ductile-Iron', 'Utility', 'Pipe']
    1. Disinfection, bacteriological testing, and flushing shall be performed in accordance with Section 15041.
 1. 3.16 HYDROSTATIC TESTING
    1. Field hydrostatic testing shall be performed in accordance with Section 15044.
-1. END OF SECTION
+
 

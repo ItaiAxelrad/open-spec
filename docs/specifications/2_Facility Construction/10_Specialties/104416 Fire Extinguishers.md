@@ -7,7 +7,7 @@ subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Specialties', 'Fire', 'Extinguishers']
 ---
 
-   1. SECTION 104416 - FIRE EXTINGUISHERS 
+
 ## General
 
 1. RELATED DOCUMENTS

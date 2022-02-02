@@ -12,13 +12,11 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Ball', 'Valves']
 
 ## General
 
-
-* 
-	1. **Summary
+1. SUMMARY
    1. Work under this section shall include ball valves. 
 2. Related Specification Sections include:
 	1. Section 40 05 51, Valves: Basic Requirements.
-	2. **Quality Assurance
+	2. Quality Assurance
 3. Work shall be per:
 	1. ASTM International (ASTM):
 		1. A48, Standard Specification for Gray Iron Castings.
@@ -30,18 +28,18 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Ball', 'Valves']
 		1. C507, Standard for Ball Valves, 6 IN through 48 IN.
 	3. Manufacturers Standardization Society of the Valve and Fittings Industry Inc. (MSS):
 		1. SP-110, Ball Valves; Threaded, Socket-Welding, Solder Joint, Grooved and Flared Ends.
-	4. **Definitions
+	4. Definitions
 4. PVDF:
       1. Polyvinylidene fluoride.
 5. PTFE:
       1. Polytetrafluoroethylene.
 6. RPTFE:
       1. Reinforced PolyTetraFluoroEthylene.
-	1. **Submittals
+	1. Submittals
 7. See Specification Section 01 33 00 for requirements for the mechanics and administration of the submittal process.
 8. See Specification Section 40 05 51 for additional submittal requirements.
 9. Operation and Maintenance Manuals.
-   ## Product
+## Product
 1. 2.1 Metallic Ball Valves ¼ to 3 IN. Diameter
    1. Comply with MSS SP-110.
 2. Acceptable Manufacturers:
@@ -83,6 +81,4 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Ball', 'Valves']
 
 1. 3.1 Installation
    1. Install Ball Valves based on manufacturer’s installation instructions.
-
-*[this page intentionally left blank]*
 

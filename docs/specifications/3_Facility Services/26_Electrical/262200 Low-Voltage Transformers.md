@@ -14,8 +14,7 @@ tags: ['Facility', 'Services', 'Electrical', 'Low-Voltage', 'Transformers']
    1. Drawings and general provisions of the Contract, including General and Supplementary Conditions and Division 1 Specification Sections, apply to this Section.
 1. SUMMARY
    1. This Section includes distribution and specialty transformers, with primary voltages of 600 volts and less, as specified and indicated. 
-1. References** 
-   1. American National Standards Institute (ANSI):
+1. References*   1. American National Standards Institute (ANSI):
       1. 
    1. C57.12.50 - Ventilated Dry-Type Distribution Transformers 15 to 500 kVA, Three-Phase with High-Voltage 601-34 500 Volts, Low Voltage 120-600 Volt. 
    1. Institute of Electrical and Electronics Engineers (IEEE) 
@@ -30,8 +29,7 @@ tags: ['Facility', 'Services', 'Electrical', 'Low-Voltage', 'Transformers']
    1. Underwriters Laboratories Inc. (UL) 
    1. 506 - Specialty Transformers. 
    1. 1561 - Dry-Type General Purpose and Power Transformers.
-1. Submittals** 
-   1. Product Data:
+1. Submittals*   1. Product Data:
       1. Submit manufacturer's technical product data for each type of transformer including. 
    1. kVA and voltage of primary and secondary windings.
    1. Windings insulation class.
@@ -58,17 +56,13 @@ tags: ['Facility', 'Services', 'Electrical', 'Low-Voltage', 'Transformers']
    1. Temporary Heating:
       1. Apply temporary heat according to manufacturer's written instructions within the enclosure of each ventilated-type unit, throughout periods during which equipment is not energized and when transformer is not in a space that is continuously under normal control of temperature and humidity.
 1. PRODUCTS
-1. Dry-Type Distribution Transformers (500 kVA And Below)** 
-   1. Manufacturers:
+1. Dry-Type Distribution Transformers (500 kVA And Below)*   1. Manufacturers:
       1. 
    1. Siemens Energy & Automation, Inc
    1. Cutler-Hammer 
    1. GE Company, GE Industrial Systems
    1. Square D 
-
-## General
-
-:
+	1. General:
       1. 
    1. Provide general purpose, factory-assembled, ventilated, dry-type, 60-hertz distribution transformers of voltages, phases, and power capacities as indicated on the drawings. 
    1. Comply with NEMA ST 20 and TR 1; ANSI C57.12.50; IEEE C57.12.01, C57.12.91, C57.94; UL 506 and 1561. 
@@ -101,10 +95,7 @@ tags: ['Facility', 'Services', 'Electrical', 'Low-Voltage', 'Transformers']
    1. Square D 
    1. Powersmiths 
    1. Mirus
-
-## General
-
-:
+	1. General:
       1. 
    1. Provide nonlinear load type, factory-assembled, ventilated, dry-type, 60-hertz distribution transformers of voltages, phases, and power capacities as indicated.
    1. Comply with NEMA ST 20 and TR 1, IEEE C57.12.01, C57.110, UL 506 and 1561.
@@ -139,17 +130,13 @@ tags: ['Facility', 'Services', 'Electrical', 'Low-Voltage', 'Transformers']
    1. Provide wiring connectors suitable for copper or aluminum wiring.
    1. Provide transformers 30 kVA and less suitable for wall, floor, and trapeze mounting; provide transformers larger than 30 kVA suitable for floor and trapeze mounting.
    1. Provide secondary neutral terminal sized for 200 percent of the secondary phase current with a double set of lugs.
-1. Dry-Type Isolation Transformers** 
-   1. Manufacturers:
+1. Dry-Type Isolation Transformers*   1. Manufacturers:
       1. 
    1. Square D Co., Topaz, Inc. 
    1. Siemens
    1. GE Company, GE Industrial Systems
    1. Cutler-Hammer
-
-## General
-
-:
+	1. General:
       1. 
    1. Provide isolation-type 60 hertz transformer, with electrostatic shield, of voltages, phases, and power capacities as indicated. 
    1. Comply with the requirements specified for dry type distribution transformers. 
@@ -183,8 +170,7 @@ tags: ['Facility', 'Services', 'Electrical', 'Low-Voltage', 'Transformers']
    1. Conduct testing using three single-phase 120V nonlinear load banks with personal computer harmonic profile at 35 percent or more of transformer nameplate load level.
    1. Submit test results including transformer efficiency, change in voltage THD between transformer primary and secondary terminals, ratio of 3rd harmonic current in primary delta current profile compared to that in secondary phase current.
 1. EXECUTION
-1. Installation** 
-   1. Dry-type Transformers:
+1. Installation*   1. Dry-type Transformers:
       1. Use flexible conduit, 600 mm (2 feet) minimum length, for connections to transformer case. Make conduit connections to side panel of enclosure with insulated bushings. 
    1. Mount transformers on vibration isolating pads suitable for isolating transformer noise from the building structure. 
    1. Floor mount transformers unless otherwise indicated. Mount transformer plumb and level. 
@@ -197,8 +183,7 @@ tags: ['Facility', 'Services', 'Electrical', 'Low-Voltage', 'Transformers']
    1. Secondary power characteristics (e.g., "208Y/120V, 3PH, 4W"). 
    1. Power rating (e.g., "75 kVA"). 
    1. Power source (e.g., "Fed from PP-1A"). 
-1. Field Quality ControL** 
-   1. Field Tests:
+1. Field Quality ControL*   1. Field Tests:
       1. 
    1. Check for tight electrical connections prior to energizing transformer. 
    1. Perform insulation resistance test, winding-to-winding and winding-to-ground.
@@ -209,5 +194,4 @@ tags: ['Facility', 'Services', 'Electrical', 'Low-Voltage', 'Transformers']
    1. Perform 2 follow-up infrared scans of transformers, one at 4 months and the other at 11 months after Substantial Completion.
    1. Prepare a certified report identifying transformer checked and describing results of scanning. Include notation of deficiencies detected, remedial action taken, and scanning observations after remedial action.
    1. Record transformer secondary voltage at each unit for at least 48 hours of typical occupancy period. Adjust transformer taps to provide optimum voltage conditions at secondary terminals. Optimum is defined as not exceeding nameplate voltage plus 10 percent and not being lower than nameplate voltage minus 3 percent at maximum load conditions. Submit recording and tap settings as test results.
-1. END OF SECTION 261200
 

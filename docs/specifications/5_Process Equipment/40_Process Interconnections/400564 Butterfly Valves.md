@@ -12,14 +12,12 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Butterfly', 'Valves']
 
 ## General
 
-
-* 
-	1. **Summary
+1. SUMMARY
    1. Work under this section shall include:
 	1. Butterfly valves.
 2. Related Specifications:
 	1. Section 40 05 51, Valves: Basic Requirements.
-	2. **Quality Assurance
+	2. Quality Assurance
 3. Work shall be per:
 	1. American Society of Mechanical Engineers (ASME):
 		1. B16.5, Pipe Flanges and Flanged Fittings - NPS 1/2 Through NPS 24.
@@ -38,20 +36,19 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Butterfly', 'Valves']
 		2. C504, Standard for Rubber-Seated Butterfly Valves.
 	4. Manufacturers Standardization Society of the Valve and Fittings Industry Inc. (MSS):
 		1. SP-67, Butterfly Valves.
-	5. **Submittals
+	5. Submittals
 4. See Specification Section 01 33 00 for requirements for the mechanics and administration of the submittal process.
 5. See Specification Section 40 05 51 for additional submittal requirements.
 6. Operation and Maintenance Data.
-	1. **Definitions
+	1. Definitions
 7. EPDM:
       1. Ethylene Propylene Diene Monomer. 
-   ## Product
+## Product
 
-* 
-	1. **Acceptable Manufacturers:
+	1. Acceptable Manufacturers:
       1. Bray, Series 30.
 2. Equivalent manufacturer.
-	1. **Materials:
+	1. Materials:
 3. Body:
 	1. ASTM A126, Class B or ASTM A536 Grade 65-45-12 ductile iron.
 	2. One-piece wafer.

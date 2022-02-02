@@ -12,13 +12,11 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Thermoplastic', 'Pipe']
 
 ## General
 
-
-* 
-	1. **Summary
+1. SUMMARY
    1. Work under this section shall include plastic pipe. 
 2. Related Specification Sections include:
 	1. Section 40 05 00, Pipe and Pipe Fittings: Basic Requirements.
-	2. **Quality Assurance
+	2. Quality Assurance
 3. Work shall be per:
 	1. ASTM International (ASTM):
 		1. PVC (polyvinyl chloride) materials:
@@ -33,17 +31,12 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Thermoplastic', 'Pipe']
 			9. F679, Standard Specification for Poly(Vinyl Chloride) (PVC) Large-Diameter Plastic Gravity Sewer Pipe and Fittings.
 			10. F794, Standard Specification for Poly(Vinyl Chloride) (PVC) Profile Gravity Sewer Pipe and Fittings Based on Controlled Inside Diameter.
 	2. NSF International (NSF) Standard 61.
-	3. **Submittals
+	3. Submittals
 4. See Specification Section 01 33 00 for requirements for the mechanics and administration of the submittal process.
 5. See Specification Section 40 05 00 for additional submittal requirements.
 6. For PVC tubing, provide design criteria regarding elongation under design operating conditions and coordinate with Engineer to determine that elongation is acceptable. 
-   ## Product
-1. 2.1 PVC Pressure Piping** 
-
-## General
-
-
-:
+## Product
+1. 2.1 PVC Pressure Piping*	 1. General:
 	1. Provide Schedule 80 pipe with Schedule 80 fittings and appurtenances to locations shown on Drawings.
 	2. Furnish materials in full compliance with the following material specifications:
 		1. Manufacture pipe, fittings and appurtenances from polyvinyl chloride (PVC) compound which meets the requirements of Type 1, Grade 1 (12454) Polyvinyl Chloride as outlined in ASTM D1784.
@@ -72,6 +65,4 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Thermoplastic', 'Pipe']
 		1. For vertical piping, band the pipe at intervals to rigidly support load of twice vertical load.
 		2. Support riser clamps on spring hangers.
 		3. Do not clamp PVC tightly or restrict movement for expansion and contraction.
-
-*[this page intentionally left blank]*
 

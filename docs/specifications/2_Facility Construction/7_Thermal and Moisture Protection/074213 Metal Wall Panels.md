@@ -7,9 +7,6 @@ subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Metal', 'Wall', 'Panels']
 ---
 
-   1. SECTION 07 42 13
-   1. METAL WALL PANELS
-
 ## General
 
 1. RELATED DOCUMENTS
@@ -162,10 +159,7 @@ sheet or aluminum-zinc alloy-coated steel sheet pre-painted with coil coating. P
    1. fasciae, parapet caps, soffits, reveals, and fillers. Finish flashing and trim with same finish 
    1. system as adjacent metal wall panels.
 5. FABRICATION
-
-## General
-
-:
+	1. General:
       1. Fabricate and finish metal wall panels and accessories at the factory to greatest 
 extent possible, by manufacturer's standard procedures and processes, as necessary to fulfill 
    1. indicated performance requirements demonstrated by laboratory testing. Comply with indicated 
@@ -181,7 +175,9 @@ strips that provide a tight seal and prevent metal-to-metal contact, and that wi
       1. Fabricate flashing and trim to comply with recommendations in 
 SMACNA's "Architectural Sheet Metal Manual" that apply to the design, dimensions, metal, and other 
    1. characteristics of item indicated.
-   1. Execution
+
+## Execution
+
 1. METAL WALL PANEL INSTALLATION
    1. Lap-Seam Metal Wall Panels:
       1. Fasten metal wall panels to supports with fasteners at each 
@@ -203,10 +199,7 @@ lapped joint at location and spacing recommended by manufacturer.
 7. At panel splices, nest panels with minimum 6-inch end lap, sealed with butyl-rubber 
    1. sealant and fastened together by interlocking clamping plates.
 2. ACCESSORY INSTALLATION
-
-## General
-
-:
+	1. General:
       1. Install accessories with positive anchorage to building and weathertight mounting, 
 and provide for thermal expansion. Coordinate installation with flashings and other components.
 1. Install components required for a complete metal wall panel assembly including trim, 

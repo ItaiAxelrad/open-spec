@@ -7,7 +7,4 @@ subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Masonry']
 ---
 
-   1. Division 04
-   1. Masonry
-
-*[this page intentionally left blank]*
+Division 04 - Masonry

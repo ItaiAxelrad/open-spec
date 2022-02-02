@@ -8,16 +8,16 @@ tags: ['Process', 'Equipment', 'Water', 'Wastewater', 'Screening']
 ---
 
 1. 46 21 00 Screening Equipment
-   1. SECTION 446110 - MECHANICAL SCREENS, CONVEYOR AND COMPACTOR
+
 
 ## General
 
 1.
-   1. RELATED DOCUMENTS
+1. RELATED DOCUMENTS
    1. A.
    1. Drawings, General and Special Provisions of the Contract, and Division 01 Specification Sections apply to this Section.
 2.
-   1. SUMMARY
+1. SUMMARY
    1. A.
    1. Furnish and install two (2) automatic self-cleaning filter screens, a screenings conveyor with feed hoppers and discharge chute, a screw wash press, and control panels for the screens, conveyor and compactor.
    1. B.
@@ -27,13 +27,10 @@ tags: ['Process', 'Equipment', 'Water', 'Wastewater', 'Screening']
 3. Section 449443 – Programmable Logic Controllers
 4. Section 409513 – Control Panels
 
-* 
 	1. SYSTEM DESCRIPTION
 		1. Mechanical Screens: Each unit with 6-mm filtration openings, mounted in a channel measuring
 5. feet wide and 7.5 feet deep and with a 3.5-inch recess in the channel bottom to accommodate the base of the screen, at a 75-degree angle from horizontal. Each unit shall be capable of passing 22.5 MGD of wastewater with a clean-water, clean-screen head loss not exceeding 13 inches. Each screen shall be capable of intermittent or continuous operation, and have a capacity of 1.878 cubic yards of screenings per hour. The screen discharge point shall be at a height of 12 feet above the base of the screen. The unit shall pivot from the channel for servicing.
 
-* 
-	+ 
 		1. Screenings Conveyor: the screenings conveyor shall consist of a spiral, trough, covers, support legs, drive system, and controls. The conveyor shall be designed to receive screenings from the two mechanical screens and convey them by the spiral. The conveyor shall have an inlet capacity of 53 cubic feet per hour, handling wet screenings with an approximate dry weight of not less than 8% solids.
 		2. Screw Wash Press. The screw wash press shall consist of a spiral, trough, support legs, wash zone, trough flush spray, press zone, discharge pipe, drive system, and controls. The press shall be designed to receive the loadings from the screenings conveyor; convey, dewater, and compact them without spillage, jamming or clogging to a discharge point as shown on the Drawings. The compactor shall have an inlet capacity of 53 cubic feet per hour, handling wet screenings with an approximate dry weight of not less than 8% solids.
 	1. SUBMITTALS
@@ -61,18 +58,18 @@ tags: ['Process', 'Equipment', 'Water', 'Wastewater', 'Screening']
    1. Final panel wiring diagrams
 2. I/O wiring drawings for all devices that are monitored or controlled by the Mechanical Screens, Conveyor, and Compactor manufacturer’s PLC as listed in the Instrumentation and Controls paragraph of this specification. These drawings shall include the field wiring from the terminal block (showing terminal numbers) to the field device (showing the device tag number).
 5.
-   1. QUALITY ASSURANCE
+1. QUALITY ASSURANCE
    1. A.
    1. The equipment shall be supplied by a firm regularly engaged in the manufacturer of the equipment item, whose products have been used satisfactorily at a minimum of 10 installations in similar services for a minimum period of five (5) years.
    1. B.
    1. The Contractor may furnish and install equipment of a manufacturer whose products have not been in similar services at 10 installations for five years, provided the equipment manufacturer submits a bond, or deposits a sum equal to the installed price of the equipment, for a period of five (5) years.
 6.
-   1. WARRANTY
+1. WARRANTY
    1. A.
    1. Special Warranty:
       1. Written warranty for the new screens, conveyor and screw wash press, executed by manufacturer, agreeing to repair or replace equipment that fails in materials or workmanship within one year from the date of Substantial Completion.
 7.
-   1. EXTRA MATERIALS
+1. EXTRA MATERIALS
    1. A.
    1. Furnish extra parts that match items installed and that are packaged with protective covering for storage and identified with labels describing contents. The following spare parts shall be provided:
       1. Twenty (20) filter elements.
@@ -84,7 +81,6 @@ tags: ['Process', 'Equipment', 'Water', 'Wastewater', 'Screening']
    1. The manufacturer will supply type 304 SS 3/4-inch-10 UNC threaded rods for use with HILTI HY-150 Adhesive Anchoring system. Adhesive to be provided by the contractor.
    1. Product
 
-* 
 	1. MANUFACTURERS
 		1. Manufacturers: Subject to compliance with requirements, manufacturers offering products that may be incorporated into the Work include the following:
 			1. Parkson Corporation: model AG-MN-A75, 4.5 ft. x 12 ft., 6 mm filter screen; model HCN260 PSUD conveyor; and model SWP 25-50NY screw wash press.
@@ -110,8 +106,7 @@ tags: ['Process', 'Equipment', 'Water', 'Wastewater', 'Screening']
    1. Chains shall be supplied with hollow pin construction that allows for the removal and replacement of the filter shafts, side plates and filter elements without releasing the chain tension. The unit shall be designed to allow this function to take place at the operating floor elevation with the screen in the channel. Chain rollers shall have a diameter of 1-3/4 inches.
 2. All chain components shall be corrosion resistant stainless steel. Sidebars shall be Type 304 stainless steel. Pins, bushings and rollers shall be 410 stainless steel. 400 series components shall be heat treated to a minimum hardness of 39 on the Rockwell C Scale.
 3. The filter shafts shall have a maximum diameter of 3/4 inch and be spaced on 4-inch centers in the direction of travel of the filter belt. The shafts shall be constructed from Type 304 stainless steel.
-	* 
-		1. Drive Assembly
+			1. Drive Assembly
 			1. The drive assembly shall consist of a gear reducer, motor, drive shaft, and eccentric bearing. The drive mechanism shall be protected from the trash stream to ensure that the screen runs smoothly without jamming. The driving force shall be transmitted to clean, trash free components to avoid mis-tracking or binding, which could render the screen inoperable, requiring manual cleaning and realignment.
 			2. The gear reducer shall be of hollow shaft design, mounted directly to the unit external to the side frame and connected directly to the drive shaft with a keyless tapered bushing. The reducer shall be designed in accordance with AGMA recommendations for Class II service based on the required horsepower for operation of the machine.
 			3. The motor shall be a squirrel cage induction motor, TEFC, 230/460 volt, 3-phase, 60 Hertz, 1800 RPM. The motor Horsepower shall be 0.5 HP. Motor shall be nameplate for use in a Class 1, Division 1, Group D environment.
@@ -171,18 +166,15 @@ tags: ['Process', 'Equipment', 'Water', 'Wastewater', 'Screening']
 		1. Controls Equipment Description
    1. The Mechanical Screens, Conveyor, and Compactor control system is a PLC-based system. The PLC is provided by the Mechanical Screens, Conveyor, and Compactor equipment manufacturer. Other equipment provided by others is also monitored and/or controlled by this control system as listed in paragraphs C and D below. The Mechanical Screens, Conveyor, and Compactor equipment manufacturer shall provide controls equipment as described below.
 
-* 
-	+ 
-		- 
 			1. PLC Control Panel
-				1. Construct the PLC Control Panel per the requirements of Section 409513 Control Panels.
-				2. The PLC Control panel will be located indoors in the Headworks Building Electrical Room. This is considered to be an environment-controlled location.
-				3. The control system PLC shall be housed in the PLC Control Panel.
+			1. Construct the PLC Control Panel per the requirements of Section 409513 Control Panels.
+			2. The PLC Control panel will be located indoors in the Headworks Building Electrical Room. This is considered to be an environment-controlled location.
+			3. The control system PLC shall be housed in the PLC Control Panel.
 			2. Local Control Panels
-				1. Provide two (2) Local Control Panels, one for the Mechanical Screens and Screenings Conveyor, and one for the Screenings Compactor.
-				2. Construct the Local Control Panels per the requirements of Section 409513 Control Panels.
-				3. The Local Control panels will be located indoors near the Mechanical Screens and near the Compactor. These are considered to be wet / process locations.
-				4. Include in the Mechanical Screens and Screenings Conveyor Local Control Panel operator switches and indicator lights as listed below and as illustrated on the P&IDs.
+			1. Provide two (2) Local Control Panels, one for the Mechanical Screens and Screenings Conveyor, and one for the Screenings Compactor.
+			2. Construct the Local Control Panels per the requirements of Section 409513 Control Panels.
+			3. The Local Control panels will be located indoors near the Mechanical Screens and near the Compactor. These are considered to be wet / process locations.
+			4. Include in the Mechanical Screens and Screenings Conveyor Local Control Panel operator switches and indicator lights as listed below and as illustrated on the P&IDs.
 1. LCP-SCR101A/B
    1. Amount
    1. Function
@@ -235,11 +227,7 @@ tags: ['Process', 'Equipment', 'Water', 'Wastewater', 'Screening']
    1. Zero Speed Switch
    1. The conveyor shall have a zero speed switch that will shut down the unit should it detect zero speed when the unit should be running.
 
-* 
-	+ 
-		- 
-			* 
-				1. Include in the Screenings Compactor Local Control Panel operator switches and indicator lights as listed below and as illustrated on the P&IDs.
+		1. Include in the Screenings Compactor Local Control Panel operator switches and indicator lights as listed below and as illustrated on the P&IDs.
 1. LCP-SCV102
    1. Amount
    1. Function
@@ -275,8 +263,6 @@ tags: ['Process', 'Equipment', 'Water', 'Wastewater', 'Screening']
    1. Jam Switch
    1. The compactor shall have a “jam switch” that will shut down the unit should it become jammed. The jam switch can only be reset by manual activation of the fault reset button.
 
-* 
-	+ 
 		1. Programming Requirements:
 			1. Programming of the Mechanical Screens, Conveyor, and Compactor PLC is the responsibility of the Mechanical Screens, Conveyor, and Compactor equipment manufacturer.
 			2. The Mechanical Screens, Conveyor, and Compactor equipment manufacturer must coordinate with the Systems Integrator during programming development, equipment fabrication, pre-commissioning testing, and startup to deliver an approved working system.
@@ -291,9 +277,9 @@ tags: ['Process', 'Equipment', 'Water', 'Wastewater', 'Screening']
 			11. The graphical OI will provide for the remote input of set points into the PLC from the graphical OI. The Mechanical Screens, Conveyor, and Compactor equipment manufacturer shall provide for Inputs from the graphical OI for all Operator Adjustable set points in the PLC. The Set Points screen in the graphical OI is described in Section 409423 Supervisory Control System. Set points include–but are not limited to–analytical values, levels, timers, and flows.
 			12. The software tagging convention for control devices is described in Section 409423 Supervisory Control System and shall be followed explicitly by the Mechanical Screens, Conveyor, and Compactor equipment manufacturer in setting up and programming the PLC unless specifically approved in writing by the Systems Integrator and the Engineer.
 			13. Special Alarms/Functions
-				1. The PLC provided by the Mechanical Screens, Conveyor, and Compactor manufacturer shall continuously monitor the status of each piece of equipment and continuously compare that status to the current command for that equipment (either a PLC generated command or an operator command from the OI). If the equipment status does not agree with the PLC command (e.g. a pump commanded to run is not running or a valve commanded to close is not closed) the PLC shall generate a “Fault Logic Disagreement” alarm. This alarm shall be communicated to the OI.
-				2. For gates or valves, the “Fault Logic Disagreement” alarm shall be delayed for 120 seconds after a change in status to allow valves to fully open or close. For pumps, the “Fault Logic Disagreement” alarm shall be delayed for 10 seconds after a change in status to allow pumps to start or stop.
-				3. The PLC shall monitor GNRLFLT3 on the SCADA system and shall provide necessary output to a yellow strobe during conditions of a general fault via interposing relay.
+			1. The PLC provided by the Mechanical Screens, Conveyor, and Compactor manufacturer shall continuously monitor the status of each piece of equipment and continuously compare that status to the current command for that equipment (either a PLC generated command or an operator command from the OI). If the equipment status does not agree with the PLC command (e.g. a pump commanded to run is not running or a valve commanded to close is not closed) the PLC shall generate a “Fault Logic Disagreement” alarm. This alarm shall be communicated to the OI.
+			2. For gates or valves, the “Fault Logic Disagreement” alarm shall be delayed for 120 seconds after a change in status to allow valves to fully open or close. For pumps, the “Fault Logic Disagreement” alarm shall be delayed for 10 seconds after a change in status to allow pumps to start or stop.
+			3. The PLC shall monitor GNRLFLT3 on the SCADA system and shall provide necessary output to a yellow strobe during conditions of a general fault via interposing relay.
 		2. Instrumentation
 			1. The Mechanical Screens, Conveyor, and Compactor PLC shall monitor the following instruments:
       1. Tag No.
@@ -326,9 +312,6 @@ tags: ['Process', 'Equipment', 'Water', 'Wastewater', 'Screening']
    1. Contractor
    1. Contractor
 
-* 
-	+ 
-		- 
 			1. The Mechanical Screens, Conveyor, and Compactor manufacturer shall provide instruments as listed in the table above. Instruments are specified in Section 409100 Instrumentation. Where instruments are not specified in Section 409100 Instrumentation, the Mechanical Screens, Conveyor, and Compactor equipment manufacturer shall provide his standard instruments.
 		1. PLC Controls Scope
 			1. The PLC shall control the following equipment:
@@ -375,12 +358,9 @@ tags: ['Process', 'Equipment', 'Water', 'Wastewater', 'Screening']
    1. Functional Description
    1. The following is a general description of the equipment functions. Complete and detailed functions and logic are to be provided by the Mechanical Screens, Conveyor, and Compactor equipment manufacturer. All process set points shall be operator adjustable from the OI. The Mechanical Screens, Conveyor, and Compactor manufacturer shall provide initial factory settings of set points based on the specific conditions of this project or “typical” settings if specifics do not apply.
 
-* 
 	1. Operating Modes
    1. In this description, hardware functions, such as field hand switches, are referred to as “hard” (e.g. hard switch); software functions performed at the OI are referred to as “soft” (e.g. soft switch). Regardless of the mode of operation (described below) process indications will remain active (these may include valve position, motor on or off, VFD speed, process flow measurements, etc) and hard wired alarms and safeties (such as motor overloads or high temperature, etc) will be active and reported by the PLC.
 
-* 
-	+ 
 		1. HAND OPERATION (Hard Switch): When the HAND position is selected at the hard switch, the associated equipment shall run and the system controls shall not control the device.
 		2. LOCAL OPERATION (Hard Switch): When the LOCAL position is selected at the hard switch, the equipment is controlled locally by hard switches, which may include on-off, open-close, etc. and the system controls shall not control the equipment.
 		3. OFF POSITION (Hard Switch): When the OFF position is selected at the hard switch, the associated equipment shall stop and the system controls shall not control the device.
@@ -409,15 +389,14 @@ tags: ['Process', 'Equipment', 'Water', 'Wastewater', 'Screening']
 
 “Close Manual Bar Screen Gate” level. These level set points are operator- adjustable.
 
-* 
-	+ 
 		1. ADJUSTABLE TIMERS
 			1. Adjustable timers are PLC functions and will be preset by the manufacturer to typical values.
 	1. SOURCE QUALITY CONTROL
 		1. Following factory assembly, the screens, conveyor, and press shall be tested for a minimum of eight hours prior to shipment to verify proper operation. Adjust equipment to achieve acceptable clearances, vibrations, and tracking.
-   1. Execution
 
-* 
+## Execution
+
+
 	1. INSTALLATION
 		1. Channel depth varies because the building floor slopes to the edge of the channels. Coordinate installation of support legs with concrete work. Install legs on grout pads of adequate thickness to meet the 7.5-foot nominal depth of channels; shim legs for a plumb installation prior to grouting. Install screens in accordance with manufacturer’s instructions.
 	2. PAINTING AND CLEANING
@@ -426,5 +405,4 @@ tags: ['Process', 'Equipment', 'Water', 'Wastewater', 'Screening']
 		1. The screens and conveyor shall be operated for two (2) hours and the washer compactor shall be operated for thirty (30) minutes to ensure that all clearances, vibrations, tracking and motor operating characteristics are within acceptable limits. Test control functions of control panel to verify operation in accordance with the specified control sequence.
 	4. START-UP SERVICES
 		1. The equipment manufacturer shall provide the services of a field representative for a total of two (2) trips of two (2) working days each for a total of four (4) days, for start-up inspection and for instructing and assisting the Contractor and the Owner’s personnel in the start-up and proper operation of the equipment.
-   1. END OF SECTION 446110
-
+   

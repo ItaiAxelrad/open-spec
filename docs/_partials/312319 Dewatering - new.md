@@ -7,7 +7,7 @@ subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Earthwork', 'Dewatering', 'new']
 ---
 
-1. SECTION 31 23 19
+
 1. DEWATERING
 
 ## General
@@ -52,8 +52,12 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Dewatering', 'new']
    1. The geotechnical report is referenced elsewhere in the Project Manual.
    1. Survey adjacent structures and improvements, employing a qualified professional engineer or land surveyor, establishing exact elevations at fixed points to act as benchmarks. Clearly identify benchmarks and record existing elevations.
    1. During dewatering, regularly resurvey benchmarks, maintaining an accurate log of surveyed elevations for comparison with original elevations. Promptly notify Architect if changes in elevations occur or if cracks, sags, or other damage is evident in adjacent construction.
-   1. PRODUCTS (NOT USED)
-   1. EXECUTION
+
+## Products
+ (NOT USED)
+
+## Execution
+
    1. Preparation
    1. Protect structures, utilities, sidewalks, pavements, and other facilities from damage caused by settlement, lateral movement, undermining, washout, and other hazards created by dewatering operations.
    1. Prevent surface water and subsurface or ground water from entering excavations, from ponding on prepared subgrades, and from flooding site and surrounding area.
@@ -77,5 +81,5 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Dewatering', 'new']
    1. Observe and record daily elevation of ground water and piezometric water levels in observation wells.
    1. Repair or replace, within 24 hours, observation wells that become inactive, damaged, or destroyed. Suspend construction activities in areas where observation wells are not functioning properly until reliable observations can be made. Add or remove water from observation-well risers to demonstrate that observation wells are functioning properly.
    1. Fill observation wells, remove piezometers, and fill holes when dewatering is completed.
-   1. END OF SECTION
+   
 

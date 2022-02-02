@@ -4,11 +4,8 @@ section: '331423'
 divNumb: 33
 divName: Utilities
 subgroup: Site and Infrastructure
-tags: ['Site', 'Infrastructure', 'Utilities', 'Enclosures', 'for', 'Water', 'Utility', 'Piping', 'Valves']
+tags: ['Site', 'Infrastructure', 'Utilities', 'Enclosures', 'Water', 'Utility', 'Piping', 'Valves']
 ---
-
-   1. SECTION 03482
-1. WATER METER BOXES
 
 ## General
 
@@ -78,11 +75,10 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Enclosures', 'for', 'Water', 'Uti
 11. Advanced Meter Infrastructure Compatibility: 
 12. Manufacturer may be requested to demonstrate their product compatibility with ACLARA standards for RF signal transmission.
 13. All lids shall allow ACLARA meter transmission unit to be securely mounted to the bottom of the lid. Predrilled holes shall be included to accommodate mounting of ACLARA meter transmission unit.
-	1. **CHEMICAL RESISTANCE
+	1. CHEMICAL RESISTANCE
    1. Polyethylene material shall be resistant to chemicals commonly found in the soil or in the operating environment. Polyethylene material shall be tested in accordance with ASTM D-543. The Polyethylene material shall be resistant to sunlight and any climatic condition and shall be tested in accordance with ASTM D-756, procedure “E”. 
 
-* 
-	1. **WATER METER BOX COVER COLOR
+	1. WATER METER BOX COVER COLOR
    1. Meter boxes and covers shall be “concrete gray” in color.
 1. 2.05 CONCRETE
    1. Concrete for the meter boxes shall be Class A per Section 03000, Cast-in-Place Concrete.
@@ -98,8 +94,7 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Enclosures', 'for', 'Water', 'Uti
 2. Apply the 10,400 lb load over the prescribed area centered on the cover. The load shall be transferred into the cover and test frame through a ½” thick piece of rubber backed by ten inch by ten inch by one-inch thick steel plate. A spherical bearing swivel head shall be used in the testing machine. The load shall be applied at a rate of 550 lb / second, +/- 450 lb / second. 
 3. The Design Load (10,400 lb) shall be cycled on the cover in the test frame ten times as per WUC, Guide 3.6 test protocol. On the eleventh cycle, the load shall be increased to confirm the cover can sustain the Proof of Design Load (22,568 lb.). 
 4. The failure criteria shall be determined by the one of the two following criteria. Yield – the point on a stress / strain curve where resistance to the applied load no longer increases as deflection continues. Break – the point where increasing load results in exceeding the tensile or elastic limit of a material.
-1. 2.07 DESIGN/PRODUCT MODIFICATIONS** 
-   1. Meter boxes and covers specified in this section are intended for installation in sidewalks and driveways (traffic load areas) alleys and streets and occasionally in bare ground, lawn areas, or sand areas. Heavy loads from traffic are expected in some of these areas. The specifications stated are minimum industry requirements for meter boxes and covers to perform satisfactorily under normal usage in these areas. 
+1. 2.07 DESIGN/PRODUCT MODIFICATIONS*   1. Meter boxes and covers specified in this section are intended for installation in sidewalks and driveways (traffic load areas) alleys and streets and occasionally in bare ground, lawn areas, or sand areas. Heavy loads from traffic are expected in some of these areas. The specifications stated are minimum industry requirements for meter boxes and covers to perform satisfactorily under normal usage in these areas. 
 2. Bids offered for the boxes and cover designs must be conducive to the various ground areas and conditions and perform satisfactorily under normal usage as stated in this attachment. 
 3. After award, in situations where the boxes and covers do not perform satisfactorily under normal use, the City representative shall notify Contractor of the problem. The Contractor shall modify the design to correct the deficiencies at no cost to the City. 
 4. Prior to any modifications, the Contractor shall provide revised specifications and drawings at no additional costs to the City representative and Purchaser for review and approval. 
@@ -108,7 +103,9 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Enclosures', 'for', 'Water', 'Uti
    1. Refer to Approved Materials List in Appendix A.
    1. Note:
       1. Meter Boxes located in alleys are designed to withstand H-10 and H-20 loading in non-deliberate or incidental traffic areas and are NOT INTENDED TO BE INSTALLED IN ROADWAYS AND STREETS.
-   1. Execution
+
+## Execution
+
 1. 3.01 EXCAVATION AND BACKFILL AROUND METER BOXES
    1. Perform excavation, backfill and compaction in accordance with Section 02223, Trenching, Excavation, Backfill, and Compacting. Compact each lift of structural backfill all around meter boxes placing next lift. 
 2. Meter boxes in concrete or pavement for driveways, parking lots, alleys and off-road way applications subjected to occasional non deliberate heavy vehicles require an 8-inch wide concrete collar 10 inches deep around the top of the meter box. Refer to the Approved Plans.
@@ -126,5 +123,5 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Enclosures', 'for', 'Water', 'Uti
 11. Where required, pressure reducing valves shall be installed by the customer in accordance with the Uniform Plumbing Code and shall be placed beyond the outlet side of the meter, but not within the Owner's meter box. The pressure reducing valve shall be the property of the water user who will be responsible for its installation, maintenance, and replacement as required. 
 12. The meter box adjustment shall not exceed 2 linear feet from the existing
 
-1. END OF SECTION
+
 

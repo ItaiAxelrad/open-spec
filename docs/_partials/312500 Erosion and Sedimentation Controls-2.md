@@ -7,7 +7,7 @@ subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Earthwork', 'Erosion', 'Sedimentation', 'Controls']
 ---
 
-1. SECTION 313211
+
 1. EROSION CONTROL
 1. 
 ## General
@@ -517,5 +517,4 @@ excessive moisture, frozen ground or other unsatisfactory conditions prevail, th
 1. Unless otherwise directed, material shall be placed, seamed or patched as recommended by the manufacturer. Remove material not meeting the required performance as a result of placement, seaming or patching from the site. Replace the unacceptable material at no additional cost to the Owner.
 7. SATISFACTORY STAND OF GRASS PLANTS
    1. When erosion control blanket type XI (revegetation mat) is installed, evaluate the grass plants for species and health when the grass plants are a minimum 1 inch high. A satisfactory stand of grass plants from the revegetation mat area shall be a minimum 10 grass plants per square foot. The total bare spots shall not exceed 2 percent of the total revegetation mat area.
-1. END OF SECTION 313211
 

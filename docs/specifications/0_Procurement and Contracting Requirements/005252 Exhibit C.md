@@ -147,8 +147,6 @@ tags: ['Procurement', 'Contracting', 'Requirements', 'Exhibit', 'C']
 
 (for use with E-510, 2002 Edition)
 
-* 
-	+ 
 		1. Compensation For Resident Project Representative Services – Standard Hourly Rates Method of Payment
    1. Owner shall pay Engineer for Resident Project Representative Services as follows:
       1. *Resident Project Representative Services.* For services of Engineer’s Resident Project Representative, if any, under paragraph A.1.05A of Exhibit A, an amount equal to the cumulative hours charged to the Project by each class of Engineer’s employees times Standard Hourly Rates for each applicable billing class for all Resident Project Representative services performed on the Project, plus related Reimbursable Expenses and Engineer’s Consultant’s charges, if any. The total compensation under this paragraph is estimated to be $ based upon Contract Times as set forth herein.
@@ -169,8 +167,6 @@ tags: ['Procurement', 'Contracting', 'Requirements', 'Exhibit', 'C']
 
 (for use with E-510, 2002 Edition)
 
-* 
-	+ 
 		1. Compensation for Resident Project Representative Services – Percentage of Construction Cost Method of Payment
    1. Owner shall pay Engineer for:
     1. *Resident Project Representative Services.* For services of Engineer’s Resident Project Representative, if any, under paragraph A.1.05 of Exhibit A of the Agreement, an amount equal to  percent of the Construction Cost. This amount includes compensation for Resident Project Representative’s services, and those of any assistants to the Resident Project Representative. The percentage of Construction Cost noted herein accounts for labor, overhead, profit, and Reimbursable Expenses.
@@ -375,13 +371,10 @@ $
    1. This is **Appendix 2 to EXHIBIT C,** consisting of \_\_\_\_ pages, referred to in and part of the **Agreement Between Owner and Engineer for Professional Services** dated .
    1. Standard Hourly Rates Schedule
 
-* 
-	+ 
-		- 
 			1. Standard Hourly Rates
-				1. Standard Hourly Rates are set forth in this Appendix 2 to this Exhibit C and include salaries and wages paid to personnel in each billing class plus the cost of customary and statutory benefits, general and administrative overhead, non-project operating costs, and operating margin or profit.
-				2. The Standard Hourly Rates will be adjusted annually (as of) to reflect equitable changes in the compensation payable to Engineer.
-				3. The Standard Hourly Rates apply only as specified in Article C2.
+			1. Standard Hourly Rates are set forth in this Appendix 2 to this Exhibit C and include salaries and wages paid to personnel in each billing class plus the cost of customary and statutory benefits, general and administrative overhead, non-project operating costs, and operating margin or profit.
+			2. The Standard Hourly Rates will be adjusted annually (as of) to reflect equitable changes in the compensation payable to Engineer.
+			3. The Standard Hourly Rates apply only as specified in Article C2.
 			2. Schedule
    1. Hourly rates for services performed on or after the date of Agreement are:
       1. Billing Class 9

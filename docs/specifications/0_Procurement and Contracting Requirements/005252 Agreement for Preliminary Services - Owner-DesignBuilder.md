@@ -4,7 +4,7 @@ section: '005252'
 divNumb: 0
 divName: Procurement and Contracting Requirements
 subgroup: Procurement and Contracting Requirements
-tags: ['Procurement', 'Contracting', 'Requirements', 'Agreement', 'for', 'Preliminary', 'Services', 'Owner-DesignBuilder']
+tags: ['Procurement', 'Contracting', 'Requirements', 'Agreement', 'Preliminary', 'Services', 'Owner-DesignBuilder']
 ---
 
    1. TABLE OF CONTENTS

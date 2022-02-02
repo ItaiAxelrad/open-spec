@@ -7,11 +7,6 @@ subgroup: Facility Services
 tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 'Central-Station', 'Air-Handling', 'Units']
 ---
 
-1. Copyright 2006 by The American Institute of Architects (AIA)
-1. Exclusively published and distributed by Architectural Computer Services, Inc. (ARCOM) for the AIA
-1. Revise this Section by deleting and inserting text to meet Project-specific requirements.
-1. Verify that Section titles referenced in this Section are correct for this Project's Specifications; Section titles may have changed.
-
 ## General
 
 1. RELATED DOCUMENTS
@@ -39,10 +34,7 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. 90A - Installation of Air-conditioning and Ventilating Systems
    1. Underwriters Laboratories (UL)
 1. SUBMITTALS
-
-## General
-
-:
+	1. General:
       1. Submit the following in accordance with Division 23 sections of the Specifications.
    1. Product data for each central-station air-handling unit indicated, including the following:
       1. Certified fan performance curves with system operating conditions indicated.
@@ -83,8 +75,7 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. McQuay Air Conditioning
    1. The Trane Co.
    1. York International Corp.
-1. MATERIALS** 
-   1. Furnish one additional complete set of filters for each central-station air-handling unit.
+1. MATERIALS*   1. Furnish one additional complete set of filters for each central-station air-handling unit.
    1. Furnish one additional complete set of belts for each central-station air-handling unit.
    1. Furnish one additional gasket for each sectional joint of each central-station air-handling unit.
 1. MANUFACTURED UNITS
@@ -114,10 +105,7 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Fans Section:
       1. Testing Requirements:
          1. The following factory tests are required:
-
-## General
-
-:
+	1. General:
       1. Sound power level ratings shall comply with AMCA 301 and shall be the result of tests made in accordance with AMCA 300. Fans shall be licensed to bear the AMCA Certified Sound Ratings Seal.
    1. Unit's fan performance ratings for flow rate, pressure, power, air density, speed of rotation, and efficiency shall be factory tested and ratings established in accordance with AMCA 210/ASHRAE 51.
    1. Fan Section Construction:
@@ -161,10 +149,7 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Water Coil Turbulators:
       1. Bronze, spring-type.
    1. Filters Section:
-
-## General
-
-:
+	1. General:
          1. Filters shall comply with NFPA 90A.
    1. Filter Section:
       1. Cabinet material and finish shall match the air-handling unit cabinet, with filter media holding frames arranged for flat or angular orientation. Section shall have access doors on both sides of the unit.
@@ -227,7 +212,6 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
       1. Procedures and schedules related to start-up and shut down, troubleshooting, servicing, preventative maintenance, and how to obtain replacement parts.
    1. Familiarization with contents of Operating and Maintenance Manual specified in Division 23 sections of the Specifications.
    1. Schedule training with at least seven days advance notice.
-1. END OF SECTION 237313
 1. (THIS PAGE INTENTIONALLY BLANK)
    1. See Editing Instruction No. 1 in the Evaluations for cautions about naming manufacturers. Retain one of two paragraphs and list of manufacturers below. See Division 01 Section "Product Requirements."
 

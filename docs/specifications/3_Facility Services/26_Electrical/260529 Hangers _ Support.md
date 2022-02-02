@@ -7,7 +7,7 @@ subgroup: Facility Services
 tags: ['Facility', 'Services', 'Electrical', 'Hangers', '_', 'Support']
 ---
 
-1. SECTION 26 05 29
+
 1. HANGERS AND SUPPORTS FOR ELECTRICAL SYSTEMS
 
 ## General
@@ -137,7 +137,9 @@ Code - Steel."
       1. Welded or bolted, structural-steel shapes, shop or field fabricated to fit dimensions of supported equipment.
    1. Materials:
       1. Comply with requirements in Division 05 Section "Metal Fabrications" for steel shapes and plates.
-   1. Execution
+
+## Execution
+
 1. APPLICATION
    1. Comply with NECA 1 and NECA 101 for application of hangers and supports for electrical equipment and systems except if requirements in this Section are stricter.
    1. Maximum Support Spacing and Minimum Hanger Rod Size for Raceway:

@@ -7,21 +7,20 @@ subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Concrete', 'Paving', 'Joint', 'Sealants']
 ---
 
-
 ## General
 
-   1. References
+1. References
    1. American Society for Testing and Materials (ASTM)
    1. C794 - Test Method for Adhesion-in-Peel of Elastomeric Joint Sealants.
    1. C920 - Specification for Elastomeric Joint Sealants.
    1. C1087 - Test Method for Determining Compatibility of Liquid-Applied Sealants with Accessories Used in Structural Glazing Systems.
    1. C1193 - Guide for Use of Joint Sealants.
-   1. DESCRIPTION
+1. DESCRIPTION
    1. Perform sealant work as indicated on the Drawings and as specified herein.
    1. Required applications of sealants include, but are not necessarily limited to, the following general locations:
       1. Paving and sidewalk joints.
    1. Site wall joints.
-   1. SUBMITTALS
+1. SUBMITTALS
    1. Product Data:
       1. Submit manufacturer's specifications, recommendations and installation and instructions for each type of sealant and associated miscellaneous material required.
    1. Samples:
@@ -32,7 +31,7 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Concrete', 'Paving
    1. The sealant is compatible with specified sealant backing materials as determined by ASTM C1087.
    1. The sealant is compatible with and does not adhere to specified bond breaker as determined by ASTM C1087.
    1. The sealant is compatible with and has been tested for adequate adhesion to each respective substrate. Include identification of any primer(s) required to obtain adequate adhesion.
-   1. QUALITY ASSURANCE
+1. QUALITY ASSURANCE
    1. Manufacturers:
       1. Firms with not less than five years of successful experience in production of types of sealants required for this project.
    1. Obtain elastomeric sealants from a manufacturer which will, upon request, send a qualified technical representative to the project site for purpose of advising installer on proper procedures for use of products.
@@ -68,8 +67,10 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Concrete', 'Paving
       1. Polyethylene or teflon, self-adhesive tape, 0.28-mm (11-mil) minimum thickness, colored, as recommended by sealant manufacturer to be applied to sealant-contact surfaces where bond to substrate or joint filler must be avoided for proper performance of sealant.
    1. Sealant Backer Rod:
       1. Expanded closed cell polyethylene shape compressed no more than 25 to 33 percent of its dimension at the time of installation in the joint opening. Furnish Industrial Thermo Polymers Limited "ITP Standard Backer Rod"; Nomaco, Inc. "Green Rod"; W.R. Meadows, Inc. "Sealtight Backer Rod" or as approved.
-   1. EXECUTION
-   1. preparation
+
+## Execution
+
+1. preparation
    1. Protection
    1. Protect the Work and adjacent construction against damage. Clean Work adjacent to joints free of smears of sealant as Work progresses. Protect surfaces difficult to clean with masking tape or other suitable means not injurious to surfaces being protected.
    1. Joint Opening Preparation
@@ -139,5 +140,3 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Concrete', 'Paving
    1. Sealant Joints in Horizontal Surfaces
    1. Install sealant for horizontal surfaces, Grade NS (where required due to slope) and P, in the following joint openings:
       1. Expansion and control joints in curbs and walks and in paving, other than concrete road paving, subject to pedestrian and vehicular traffic.
-   1. END OF SECTION 
-

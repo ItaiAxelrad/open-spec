@@ -25,7 +25,9 @@ tags: ['Facility', 'Construction', 'Specialties', 'Metal', 'Lockers']
    1. project conditions
    1. Field Measurements
    1. Take field measurements to verify and supplement dimensions indicated. Be responsible for accurate fit of the Work.
-   1. Products
+
+## Products
+
    1. manufacturers
    1. Interior/Medart; Lyon Metal Products, Inc.; Penco Products, Inc.; Republic Storage Systems Co., Inc.; Hadrian, Inc.; or as approved.
    1. Locker types
@@ -80,7 +82,9 @@ tags: ['Facility', 'Construction', 'Specialties', 'Metal', 'Lockers']
    1. Ball points, free from sharp edges and corners, fabricated of wrought or malleable iron with chromium-plated or other approved finish or of cast aluminum, each bolted in place with 2 bolts.
    1. Number Plates
    1. Provide each locker door with polished brass or aluminum number plate with black filled numbers not less than 7/16 inch high. Securely rivet number plates to door. Arrange numbers in sequence as determined by the Owner.
-   1. execution
+
+## Execution
+
    1. preparation
    1. Protection
    1. Protect adjacent work and materials against damage during progress of the Work.
@@ -91,5 +95,5 @@ tags: ['Facility', 'Construction', 'Specialties', 'Metal', 'Lockers']
    1. At completion, adjust all doors to operate freely without sticking or binding and to close tightly.
    1. Cleaning
    1. Following completion, clean finished surfaces and leave Work free of imperfections.
-1. END OF SECTION
+
 

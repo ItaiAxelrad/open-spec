@@ -10,7 +10,7 @@ tags: ['Facility', 'Services', 'Electrical', 'Raceways', 'Boxes']
 
 ## General
 
-   1. RELATED DOCUMENTS
+1. RELATED DOCUMENTS
    1. Drawings and general provisions of the Contract, including General and Supplementary Conditions and Division 1 Specifications, apply to this Section.
    1. Summary
    1. This Section includes provision of conduit, wireways, fittings, boxes, and associated accessories.
@@ -45,7 +45,7 @@ tags: ['Facility', 'Services', 'Electrical', 'Raceways', 'Boxes']
       1. Submit manufacturer's technical product data for each type of conduit, fitting, wireway, box, and accessory provided.
    1. Shop Drawings:
       1. Submit dimensioned drawings indicating generic connections to electrical panels and other equipment.
-   1. QUALITY ASSURANCE
+1. QUALITY ASSURANCE
    1. Electrical Components, Devices, and Accessories:
       1. Listed and labeled as defined in NFPA 70, Article 100, by a testing agency acceptable to authorities having jurisdiction, and marked for intended use.
    1. Comply with NFPA 70.
@@ -94,7 +94,9 @@ tags: ['Facility', 'Services', 'Electrical', 'Raceways', 'Boxes']
    1. NEMA TC2
    1. Fed Spec. WC-1094A.
    1. Each piece of conduit shall bear a UL Label.
-   1. Products
+
+## Products
+
    1. Rigid Steel Conduit (Rsc)
    1. Manufacturers:
       1. Allied Tube & Conduit Corp.
@@ -248,12 +250,11 @@ tags: ['Facility', 'Services', 'Electrical', 'Raceways', 'Boxes']
       1. Provide galvanized, cast-metal, threaded-conduit-entrance ends, removable cast or galvanized steel covers and corrosion-resistant screws.
    1. Floor Boxes:
       1. Provide watertight, cast iron floor boxes with corrosion-resistant finish, shallow-type, with four 19 mm (3/4-inch) threaded conduit hubs, box and cover adjustment assemblies and screw type cover.
-   1. Execution
+
+## Execution
+
    1. Installation Of Conduit
-
-## General
-
-:
+	1. General:
       1. Provide conduit sized per NFPA 70 requirements unless larger sizes are specified or indicated. Do not install conduit smaller than 3/4 inch.
    1. Install conduits a minimum of 12 inches (free air space) from steam and hot water pipes and other sources of heat and a minimum of 3 inches (free air space) from other mechanical piping.
    1. Do not install conduit across pipe shafts, vent duct openings, hatchways and other openings. Install conduit to avoid conflicts with mechanical ductwork and piping.
@@ -365,18 +366,12 @@ tags: ['Facility', 'Services', 'Electrical', 'Raceways', 'Boxes']
    1. Uninterruptible power supply system:
       1. "UPS"
    1. Installation Of Wireway
-
-## General
-
-:
+	1. General:
       1. Install wireway system complete with fittings and accessories.
    1. Install expansion fittings where wireways cross building expansion joints.
    1. Identification
    1. Installation Of Boxes
-
-## General
-
-:
+	1. General:
       1. Provide cast iron outlet boxes for surface mounted conditions and in outdoor, damp or wet locations.
    1. Provide cast iron outlet boxes for devices indicated or specified as weatherproof.
    1. Provide boxes without knockouts and with cover gaskets for outdoor, damp or wet locations.
@@ -394,6 +389,5 @@ tags: ['Facility', 'Services', 'Electrical', 'Raceways', 'Boxes']
    1. Identification
    1. fIRESTOPPING
    1. Apply firestopping to electrical penetrations of fire-rated floor and wall assemblies to restore original fire-resistance rating of assembly. Coordinate with the requirements of Division 7 of the Specifications.
-1. END OF SECTION 260533
 1. (THIS PAGE INTENTIONALLY BLANK)
 

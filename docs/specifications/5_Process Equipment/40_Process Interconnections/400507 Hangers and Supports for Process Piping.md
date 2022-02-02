@@ -4,7 +4,7 @@ section: '400507'
 divNumb: 40
 divName: Process Interconnections
 subgroup: Process Equipment
-tags: ['Process', 'Equipment', 'Interconnections', 'Hangers', 'Supports', 'for', 'Piping']
+tags: ['Process', 'Equipment', 'Interconnections', 'Hangers', 'Supports', 'Piping']
 ---
 
    1. section 40 05 07
@@ -39,20 +39,16 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Hangers', 'Supports', 'for',
 	1. Support systems for all piping is shown on the Drawings.
 	2. Contractor shall provide all labor, materials, equipment and incidentals as shown, specified and required to design, furnish and install the system of hangers, supports, guidance, anchorage and appurtenances.
 3. Each type of pipe hanger or support shall be the product of one manufacturer.
-	1. **Submittals
+	1. Submittals
 4. Shop drawings shall include:
 	1. Product technical data including acknowledgement that products met requirements of aforementioned standards. 
 	2. Manufacturer’s installation instructions. 
 	3. Itemized list of wall sleeves, anchors, support devices, and all other items related to the pipe support system. 
 	4. Scaled drawings showing location, installation, material, and loads and forces. 
 	5. Analyze each pipe system for all loads and forces on hangers and supports and their reaction forces to the structure which they are fastened.
-   ## Product
+## Product
 1. 2.1 Manufactured Units
-
-## General
-
-
-:
+	 1. General:
 	1. Galvanized components:
 		1. Electro-galvanized components:
 			1. Bar, forged or cast fabrications: ASTM B633, SC4.
@@ -95,10 +91,7 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Hangers', 'Supports', 'for',
 	1. Heavy duty.
 	2. ANVIL Figure 134.
 6. Trapeze Hangers for Suspended Piping:
-	
-## General
-
-:
+		1. General:
 		1. Material: Steel.
 		2. Galvanized.
 		3. Angles, channels, or other structural shapes.
@@ -133,10 +126,7 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Hangers', 'Supports', 'for',
 4. Check all physical clearances between piping, support system and structure.
 5. Provide 20 GA galvanized steel pipe saddle for fiberglass and plastic support points to ensure minimum contact width of 4 IN.
 6. Pipe Support Spacing:
-	
-## General
-
-:
+		1. General:
 		1. Locate pipe supports at maximum spacing scheduled unless indicated otherwise on the Drawings.
 		2. Provide at least one (1) support for each length of pipe at each change of direction and at each valve.
 	2. Steel, stainless steel, cast-iron pipe support schedule:
@@ -158,8 +148,7 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Hangers', 'Supports', 'for',
 ## Execution
 
 
-* 
-	1. **Installation
+	1. Installation
    1. Provide piping systems exhibiting pulsation, vibration, swaying, or impact with suitable constraints to correct the condition.
 2. Weld Supports:
 	1. AWS D1.1.
@@ -180,6 +169,4 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Hangers', 'Supports', 'for',
 		2. Ensure material for integral attachments is of good weldable quality.
 	3. Preheating, welding and post heat treating: ASME B31.3, Chapter V.
 8. Paint in accordance with Section 09 90 00.
-
-*[this page intentionally left blank]*
 

@@ -7,12 +7,9 @@ subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Utilities', 'Stormwater', 'Culverts']
 ---
 
-1. SECTION 02623
-1. CULVERT AND STORM PIPE INSTALLATION
-
 ## General
 
-   1. RELATED DOCUMENTS:
+1. RELATED DOCUMENTS:
       1. The General Contract Conditions, Drawings and other Division - 1 Specification sections apply to Work of this section.
    1. DESCRIPTION:
       1. Furnishing and installation of storm sewer pipe and associated fittings:
@@ -20,7 +17,7 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Stormwater', 'Culverts']
             1. Section 02221; Excavating, Backfilling, and Compacting
    1. Section 02720; Catch Basin Inlets
    1. Section 02601; Manholes
-  1. **PRODUCTS
+  1. PRODUCTS
    1. Corrugated Metal Pipe
    1. Corrugated Metal Pipe (CMP):
       1. Shall conform to AASHTO M36, Type I. Zinc coating shall conform to AASHTO M218. Corrugated steel circular section with annual (circumferential) or helical corrugations. Minimum thickness shall be as follows:
@@ -47,7 +44,9 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Stormwater', 'Culverts']
       1. Future section to be added, contact City Engineer for details when preparing specification.
    1. WASHED ROCK:
       1. Angular or rounded, ¼ to 1½ inch, graded stone or acceptable local minerals such as coral, slag, cinders, crushed stone and crushed shells.
-   1. EXECUTION
+
+## Execution
+
    1. CULVERT INSTALLATION
    1. Excavation:
       1. Trenches shall be excavated to a width sufficient to allow for proper jointing of the culvert and thorough compaction of the bedding and backfill under and around the culvert.
@@ -83,5 +82,4 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Stormwater', 'Culverts']
       1. The culvert shall be backfilled with washed rock to minimum of 4 inches above the culvert. The washed tock shall be covered with the drainage fabric. Backfill above the fabric shall consist of suitable native material. If suitable native material is not available, pit run shall be imported for backfill. The washed rock placed shall be compacted with a vibratory plate. Other backfill material shall be compacted to 95 percent of maximum density.
    1. Paved areas:
       1. In existing pavement areas, allowance shall be made for the pavement repair section.
-1. END OF SECTION** 
-
+*

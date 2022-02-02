@@ -7,7 +7,7 @@ subgroup: Procurement and Contracting Requirements
 tags: ['Procurement', 'Contracting', 'Requirements', 'Notice', 'Award']
 ---
 
-   1. SECTION 005100
+
    1. NOTICE OF AWARD
    1. Award Information:
 	1. Date:
@@ -25,8 +25,7 @@ tags: ['Procurement', 'Contracting', 'Requirements', 'Notice', 'Award']
 2. The Contract Price of your Contract is:
       1. 
 	1. {Dollars ($)}
-	2. *{Insert appropriate data if Unit Prices are used}* 
-	3. *{Change language for Cost-Plus contracts.}*
+	2. *{Insert appropriate data if Unit Prices are used}	3. *{Change language for Cost-Plus contracts.}*
 3. One [1] copy of each of the proposed Contract Documents (except Drawings) accompany this Notice of Award. 
 4. Two [2] Sets of the Drawings will be delivered separately or otherwise made available to you immediately.
 5. You must comply with the following conditions precedent within fifteen [15] days of the date you receive this Notice of Award:

@@ -25,7 +25,7 @@ tags: ['Facility', 'Construction', 'Equipment', 'Laboratory']
    1. Curtain material.
    1. Maintenance Instructions
    1. Submit maintenance instructions for finished materials and operating and maintenance instructions for operating components.
-   1. PROJECT CONDITIONS
+1. PROJECT CONDITIONS
    1. Field Measurements
    1. Take field measurements to verify or supplement dimensions indicated. Be responsible for accurate fit of the Work.
    1. products
@@ -59,8 +59,10 @@ tags: ['Facility', 'Construction', 'Equipment', 'Laboratory']
    1. Provide MechoShade Systems Inc., Thermoveil, Room Darkening Shadecloth, 0700 series with 0% openness in color black, Kalco 6116DP, or approved equal. Curtain to be 15% wider than length of track. Curtain to be full-length floor to ceiling, verify final size in field.
    1. Tie Back
    1. Provide Imperial Fastener Company aluminum track holder with matching fabric tie 2” wide.
-   1. execution
-   1. PREPARATION
+
+## Execution
+
+1. PREPARATION
    1. Protection
    1. Protect the Work and adjacent construction against damage.
    1. Installation
@@ -74,5 +76,4 @@ tags: ['Facility', 'Construction', 'Equipment', 'Laboratory']
    1. After ceiling finish work has been completed, remove masking tape and insert carriers and other components as required to complete each installation.
    1. CLEANING
    1. Upon completion, clean the Work in accordance with manufacturer's instructions.
-1. END OF SECTIONTHIS PAGE INTENTIONALLY BLANK
 

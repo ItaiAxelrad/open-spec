@@ -4,13 +4,8 @@ section: '220553'
 divNumb: 22
 divName: Plumbing
 subgroup: Facility Services
-tags: ['Facility', 'Services', 'Plumbing', 'Identification', 'for', 'Piping', 'Equipment']
+tags: ['Facility', 'Services', 'Plumbing', 'Identification', 'Piping', 'Equipment']
 ---
-
-1. Copyright 2005 by The American Institute of Architects (AIA)
-1. Exclusively published and distributed by Architectural Computer Services, Inc. (ARCOM) for the AIA
-1. Revise this Section by deleting and inserting text to meet Project-specific requirements.
-1. Verify that Section titles referenced in this Section are correct for this Project's Specifications; Section titles may have changed.
 
 ## General
 
@@ -22,8 +17,7 @@ tags: ['Facility', 'Services', 'Plumbing', 'Identification', 'for', 'Piping', 'E
 1. REFERENCES
    1. American National Standards Institutes, Inc. (ANSI). 
    1. A13.1 - Scheme for Identification of Piping Systems 
-1. SUBMITTALS** 
-   1. See Division 1 sections of the Specifications.
+1. SUBMITTALS*   1. See Division 1 sections of the Specifications.
    1. Samples:
       1. For color, letter style, and graphic representation required for each identification material and device, including:
       1. Colors for proposed pipe marker letters and fields.
@@ -61,12 +55,10 @@ tags: ['Facility', 'Services', 'Plumbing', 'Identification', 'for', 'Piping', 'E
    1. Purpose
 1. CEILING MARKERS
    1. Provide ceiling markers consisting of color coded dots equal to Brady Worldwide, Inc. “Series 23250” or approved product of Seton Identification Products or Marking Services, Inc.
-1. EQUIPMENT IDENTIFICATION** 
-   1. Identify all equipment installed under this Division with 2-inch-high Gothic vinyl film black letters or numbers with permanent adhesive and conforming to the equipment designation identification shown on the Drawings:
+1. EQUIPMENT IDENTIFICATION*   1. Identify all equipment installed under this Division with 2-inch-high Gothic vinyl film black letters or numbers with permanent adhesive and conforming to the equipment designation identification shown on the Drawings:
       1. Brady Worldwide, Inc. “B-933” or approved product of Seton Identification Products or Marking Services, Inc.
 1. EXECUTION
-1. INSTALLATION OF PIPE MARKERS** 
-   1. Identify the content and directional flow of all piping on the Project with the specified pipe markers. 
+1. INSTALLATION OF PIPE MARKERS*   1. Identify the content and directional flow of all piping on the Project with the specified pipe markers. 
    1. Provide pipe marking that complies with ANSI A13.1 with respect to:
       1. 
    1. Letter color.
@@ -86,8 +78,7 @@ tags: ['Facility', 'Services', 'Plumbing', 'Identification', 'for', 'Piping', 'E
    1. Attach tags to all valves using a #16 brass jack chain.
 1. INSTALLATION OF VALVE IDENTIFICATION CHARTS
    1. Mount the two valve identification charts at locations to be designated.
-1. INSTALLATION OF CEILING MARKERS** 
-   1. Where valves, traps, dampers, control boxes, and other such devices occur above accessible suspended ceilings, provide 7/8-inch-diameter, color coded, ceiling, dot type marks in the ceiling tile where devices occur above. 
+1. INSTALLATION OF CEILING MARKERS*   1. Where valves, traps, dampers, control boxes, and other such devices occur above accessible suspended ceilings, provide 7/8-inch-diameter, color coded, ceiling, dot type marks in the ceiling tile where devices occur above. 
 1. APPLICATION OF EQUIPMENT LABELS
    1. Apply equipment labels on a prominent surface of the equipment where they can be readily seen from the operating floor.
 1. PIPE IDENTIFICATION SCHEDULE
@@ -119,6 +110,5 @@ tags: ['Facility', 'Services', 'Plumbing', 'Identification', 'for', 'Piping', 'E
       1. Roof conductors and 
    1. downspouts Green White
    1. Pumped storm Green White
-1. END OF SECTION 220553
 1. (THIS PAGE LEFT INTENTIONALLY BLANK)
 

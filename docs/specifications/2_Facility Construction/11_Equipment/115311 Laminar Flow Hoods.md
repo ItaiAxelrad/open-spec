@@ -10,7 +10,7 @@ tags: ['Facility', 'Construction', 'Equipment', 'Laminar', 'Flow', 'Hoods']
 
 ## General
 
-   1. SUMMARY
+1. SUMMARY
    1. Polypropylene vertical laminar flow total exhaust fume hoods shall be furnished, installed, and shall be demonstrated to properly perform in accordance with the specifications set forth herein.
    1. Laminar Flow Fume Hood (LFH)
    1. Complete one-piece bench top polypropylene hood with minimum use of metal parts. All metal parts are Teflon coated (blower), HEPA filter is seporatorless and the adjustable sash is Lexan to access the non-metallic work zone.
@@ -43,7 +43,7 @@ tags: ['Facility', 'Construction', 'Equipment', 'Laminar', 'Flow', 'Hoods']
    1. Polypropylene fume hoods and related materials require the interior building temperature not to exceed 90°F to avoid undue structural fatigue and damage.
    1. Protect finished surfaces from soiling or damage during handling and installation. The equipment comes with a protective film that should be left in place while handling, and then removed ONLY where pieces are mated during installation.
    1. When ambient temperatures are below -20°F, careful handling is required to prevent polypropylene from cracking at the seams.
-   1. SUBMITTALS
+1. SUBMITTALS
    1. Product Data:
       1. Submit manufacturer's data for each item of fume hood being furnished. Include component dimensions, configurations, and construction details. Indicate location, size and service requirement for each utility connection.
    1. Shop Drawings:
@@ -54,7 +54,7 @@ tags: ['Facility', 'Construction', 'Equipment', 'Laminar', 'Flow', 'Hoods']
       1. Submit hood certification test reports showing that hoods have been tested in accordance with referenced standards.
    1. Operations and Maintenance Manuals:
       1. Submit complete operating and maintenance manuals for each type of hood and size that describe proper operating procedures, maintenance and replacement schedules, components parts list, and nearest local factory representative for components and emergency repairs.
-   1. QUALITY ASSURANCE
+1. QUALITY ASSURANCE
    1. Single Source Responsibility:
       1. Fume Hoods and accessories included in this section shall be manufactured or furnished by the same manufacturer or laboratory furniture supplier for single responsibility.
    1. The supplier for work in this section shall use manufacturers with production facilities including all tools, equipment and special machinery necessary for specializing in the fabrication and installation of the type of fume hoods specified, with skilled personnel, factory trained workmen and an experienced engineering department. Each shall have the demonstrated knowledge, ability and the proven capability to complete an installation of the size and type within the required time limits:
@@ -72,10 +72,12 @@ tags: ['Facility', 'Construction', 'Equipment', 'Laminar', 'Flow', 'Hoods']
       1. A tracer gas is introduced 6-inches behind the sash at a rate of 4 liters per minute. A sensor located outside the work zone monitors for gas leakage from the hood face. The “Personnel Protection Factor” shall be less than 4.0 AM at less than 0.1 PPM, in the center, right and left sides of the work access opening.
    1. Training:
       1. After the equipment has been accepted and is fully operational as intended, the manufacturer shall coordinate with the Owner for training on the proper operation, adjustment and maintenance of the equipment at no expense to the Owner. A maximum of two, four-hour training sessions shall be required.
-   1. WARRANTY
+1. WARRANTY
    1. Provide a written warranty that work shall be free from defects in materials (structural failure, warping and finish integrity) and workmanship for a period of 1 year from the date of acceptance or Substantial Completion whichever is later.
    1. Stipulate that defects that develop within the warranty period shall be removed, repaired and replaced at no additional cost to the Owner.
-   1. PRODUCTS
+
+## Products
+
    1. VERTICAL LAMINAR FLOW POLYPROPYLENE FUME HOODS
    1. Manufacturer:
       1. The design of vertical laminar flow total exhaust polypropylene fume hoods is based on NuAire, Inc., model NU-156. All laminar flow fume hoods shall be the product of one manufacturer.
@@ -153,8 +155,10 @@ tags: ['Facility', 'Construction', 'Equipment', 'Laminar', 'Flow', 'Hoods']
    1. Service fixtures shall be provided with piping, from the outlet/valve to the exterior. Where services are scheduled on both sides of the hood, piping shall be connected for a coordinated single point connection to the building services.
    1. Sinks of size per the hood schedule shall be flush with the work surface and be complete with strainer, tailpiece and p-trap, plumbed to the rear of the hood base. Sinks and accessories shall be constructed from ¼-inch polypropylene unless otherwise specified and shall have a slanted bottom to the drain. Cold/hot/DI water goosenecks where scheduled shall be positioned so that they discharge into the sink(s).
    1. Electrical services shall be three wire grounding type receptacles rated for 120 volt per the schedule. Outlets shall be provided on the hood post where noted. Each outlet shall have a non-metallic, corrosive resistant, vapor-tight gasketed cover capable of being sealed in place with a gasketed thumbscrew and shall have removable inserts of plastic to seal outlet contacts when not in use. Receptacles shall conform to NEMA standards.
-   1. EXECUTION
-   1. INSTALLATION
+
+## Execution
+
+1. INSTALLATION
    1. Fume Hood Base Installation:
       1. Temporarily set fume hood bases plumb, square, and straight with no distortion using the leg levelers adjustable from with the hood base. Use polypropylene shims as required for added support.
    1. Fume Hood Installation:
@@ -170,5 +174,4 @@ tags: ['Facility', 'Construction', 'Equipment', 'Laminar', 'Flow', 'Hoods']
    1. PROTECTION OF FINISHED WORK
    1. Provide all necessary protective measures to prevent exposure of the vertical laminar flow fume hood to other construction activity during operational test and balancing. In particular high concentrations of aerosols caused by spray painting or plaster dust can seriously shorten the lifetime of the HEPA filter.
    1. Advise contractor of procedures and precautions for protection of material, installed fume hood and fixtures from damage by work of other trades.
-1. END OF SECTIONTHIS PAGE INTENTIONALLY BLANK
 

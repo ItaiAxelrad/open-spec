@@ -7,7 +7,7 @@ subgroup: Facility Services
 tags: ['Facility', 'Services', 'Plumbing', 'Sump', 'Pumps']
 ---
 
-1. SECTION 221429
+
 1. SUMP PUMPS
 1. 
 ## General
@@ -98,5 +98,5 @@ For pumps and controls, to include in operation and maintenance manuals.
    1. Adjust control set points.
 7. DEMONSTRATION
    1. Engage a factory-authorized service representative to train Owner's maintenance personnel to adjust, operate, and maintain controls and pumps.
-1. END OF SECTION
+
 

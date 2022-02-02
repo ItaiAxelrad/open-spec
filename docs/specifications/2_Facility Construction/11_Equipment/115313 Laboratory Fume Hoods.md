@@ -10,7 +10,7 @@ tags: ['Facility', 'Construction', 'Equipment', 'Laboratory', 'Fume', 'Hoods']
 
 ## General
 
-   1. SUMMARY
+1. SUMMARY
    1. Section Includes:
       1. Laboratory fume hoods.
    1. Related Sections:
@@ -34,14 +34,14 @@ tags: ['Facility', 'Construction', 'Equipment', 'Laboratory', 'Fume', 'Hoods']
    1. Noise Criteria:
       1. Test data of octave band analysis verifying hood is capable of a 50 NC value when connected to a 50 NC HVAC source. Reading shall be taken 3' in front of an open sash, 5’ off the floor at 100 fpm face velocity.
    1. Interior and exterior materials of construction and finishes shall meet the usage and these specification requirements.
-   1. SUBMITTALS
+1. SUBMITTALS
    1. Comply with all Pertinent Provisions of Section 013300.
    1. Shop Drawings:
       1. Indicate equipment locations, large scale plans, elevations, cross sections, rough-in and anchor placement dimensions and tolerances and all required clearances.
    1. Product Data:
       1. Submit manufacturer's data for each component and item of laboratory equipment specified. Include component dimensions, configurations, construction details, joint details, and attachments, utility and service requirements and locations. Include liner and exterior finish tests by independent third party.
    1. Samples:
-      1. Submit 3 x 6 inch samples of finish for fume hood, work surfaces and for other pre-finished equipment and accessories for selection by NREL.
+      1. Submit 3 x 6 inch samples of finish for fume hood, work surfaces and for other pre-finished equipment and accessories for selection by Owner.
    1. Test Reports:
       1. Submit test reports on each size and type of hood verifying conformance to test performances specified. Test report must accompany each hood as part of installation and usage package. Submit independent test reports as required by specification.
    1. Instructions:
@@ -51,7 +51,7 @@ tags: ['Facility', 'Construction', 'Equipment', 'Laboratory', 'Fume', 'Hoods']
    1. Professional quality video - minimum 15 minutes in length on proper hood usage.
    1. Independent validation:
       1. Written verification of compliance to UL-1805 fume hood standard is mandatory.
-   1. QUALITY ASSURANCE
+1. QUALITY ASSURANCE
    1. Single source responsibility:
       1. Fume hood casework, work surfaces, and other laboratory equipment and accessories shall be manufactured or furnished by a single laboratory furniture company.
    1. Manufacturer's qualifications:
@@ -67,11 +67,13 @@ tags: ['Facility', 'Construction', 'Equipment', 'Laboratory', 'Fume', 'Hoods']
    1. Schedule delivery of equipment so that spaces are sufficiently complete that equipment can be installed immediately following delivery.
    1. Protect finished surfaces from soiling or damage during handling and installation. Keep covered with polyethylene film or other protective coating.
    1. Protect all work surfaces throughout construction period with 1/4" corrugated cardboard completely covering the top and securely taped to edges. Mark cardboard in large lettering "No Standing".
-   1. PROJECT CONDITIONS
+1. PROJECT CONDITIONS
    1. Do not deliver or install equipment until the following conditions have been met:
       1. Ceiling, overhead ductwork and lighting are installed.
    1. All painting is completed and floor tile located below casework is installed.
-   1. PRODUCTS
+
+## Products
+
    1. MANUFACTURER
    1. Specifications for casework, fume hood and equipment based on materials manufactured by:
       1. Fisher Hamilton L.L.C., 1316 -18th Street, Two Rivers, Wisconsin 54241. Equal products by other major manufacturers may be substituted upon review and approval.
@@ -216,8 +218,10 @@ tags: ['Facility', 'Construction', 'Equipment', 'Laboratory', 'Fume', 'Hoods']
       1. As required for tests
    1. Test Procedures:
       1. As defined in ASHRAE – 110
-   1. EXECUTION
-   1. INSTALLATION
+
+## Execution
+
+1. INSTALLATION
    1. Installation:
       1. Install fume hoods and equipment in accordance with manufacturer's instructions.
    1. Install equipment plumb, square, and straight with no distortion and securely anchored as required.
@@ -248,12 +252,11 @@ tags: ['Facility', 'Construction', 'Equipment', 'Laboratory', 'Fume', 'Hoods']
    1. Ignite smoke bomb at the source of auxiliary air and observe the flow of smoke/air down the face and into the hood. Close sash and observe flow patterns. Verify that operation is safe and proper.
    1. Move a lighted smoke bomb throughout the fume hood work area directing smoke across the work surface and against the sidewalls and baffle. Verify that smoke is contained within the fume hood and rapidly exhausted.
    1. ADJUSTING
-   1. Repair or remove and replace defective work, as directed by NREL upon completion of installation.
+   1. Repair or remove and replace defective work, as directed by Owner upon completion of installation.
    1. Adjust sash, fixtures, accessories and other moving or operating parts to function smoothly.
    1. CLEANING
    1. Clean equipment, touch up as required.
    1. PROTECTION OF FINISHED WORK
    1. Provide all necessary protective measures to prevent exposure of equipment from exposure to other construction activity.
    1. Advise contractor of procedures and precautions for protection of material and installed fume hoods from damage by work of other trades.
-1. END OF SECTIONTHIS PAGE INTENTIONALLY BLANK
 

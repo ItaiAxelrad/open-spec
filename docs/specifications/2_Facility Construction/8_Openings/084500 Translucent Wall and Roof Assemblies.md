@@ -7,9 +7,6 @@ subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Openings', 'Translucent', 'Wall', 'Roof', 'Assemblies']
 ---
 
-1. SECTION 08 45 00
-1. TRANSLUCENT WALL AND ROOF ASSEMBLIES
-
 ## General
 
 1. RELATED DOCUMENTS
@@ -168,5 +165,4 @@ ASTM D 1003.
       1. Contractor shall engage a qualified testing agency to perform tests and inspections.
 1. Water-Spray Test:
       1. Before installation of interior finishes has begun, panel assemblies shall be tested according to AAMA 501.2 and shall not show evidence of water penetration.
-   1. END OF SECTION 084513
-
+   

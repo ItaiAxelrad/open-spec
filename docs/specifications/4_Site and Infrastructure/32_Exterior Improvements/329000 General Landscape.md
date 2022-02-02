@@ -7,15 +7,9 @@ subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'General', 'Landscape']
 ---
 
-   1. SECTION 329000
-
 ## General
 
- Landscape
-
-## General
-
-   1. SUMMARY
+1. SUMMARY
    1. Furnish all trees, shrubs, and other plant materials, labor equipment, and non plant materials required to complete installation of planting indicated on the landscape drawings and details. Furnish all soil preparation, fertilizer, soil mulching, trees, shrubs, groundcovers, sodding, bed mulching, labor and equipment required to landscape all areas as indicated on the landscape drawings.
    1. Work in this Section includes, installation of trees, shrubs, perennials, annuals, ornamental grasses, sodding of lawns, installation of mulch materials and mitigation of areas damaged by construction activities performed under this contract.
    1. Section Includes
@@ -26,7 +20,7 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'General', 'Landsca
    1. Contractor will be responsible for obtaining all necessary permits required for installation of landscape and irrigation. 
    1. Contractor shall know, understand, and comply with all watering restrictions. 
    1. Permits may be necessary if restrictions are in effect.
-   1. References
+1. References
    1. Refer to Drawings
    1. Refer to the Agreement between the Contractor and Owner
    1. Refer to Section on Fine Grading and Soil Preparation
@@ -37,7 +31,7 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'General', 'Landsca
       1. The final elevation of material supporting additional material above it.
    1. Finished Grade:
       1. The final elevation of the upper most surface material. (sod shall be top of thatch layer.)
-   1. SUBMITTALS
+1. SUBMITTALS
    1. Product Data
    1. Submit product data sheets for each of the following items. Submittals must be made prior to commencing any activities.
    1. Compost
@@ -67,7 +61,7 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'General', 'Landsca
    1. Contractor shall also furnish an operation manuals for all equipment, provided by the contractor.
    1. Guarantee and Warranty
    1. At completion of work, furnish written guarantee, and warranty, to the Owner based on the requirements of this section.
-   1. QUALITY ASSURANCE
+1. QUALITY ASSURANCE
    1. Reference Standards
    1. U.S. Department of Agriculture Rules and Regulations under the Federal Seed Act and equal in quality to standards for Certified Seed.
    1. Requirements for measurements, grading, branching, quality, and the balling and burlapping of plants listed in the plant list shall follow the current issue of American Standard for Nursery Stock issued by the American Association of Nurserymen, Inc. (ANSI-Z 60.1-1990)
@@ -106,7 +100,7 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'General', 'Landsca
    1. Plant trees and shrubs during normal season for such work in the location of the project.
    1. Coordination With Lawns
    1. Plant trees and shrubs after final grades are established and prior to planting of lawns, unless otherwise acceptable to the Owner’s Representative. If planting of trees and shrubs occurs after lawn work, protect lawn areas and promptly repair damage to lawns resulting from planting operations.
-   1. WARRANTY & GUARANTY
+1. WARRANTY & GUARANTY
    1. Guarantee trees, shrubs, groundcovers and all plant material for a period of two years from the date of substantial completion against defects not resulting from neglect of Owner, or abuse and damage by others. 
    1. For a period of one year after acceptance of work, at no additional cost to the Owner, the Contractor is to replace any plants that are dead, or that are in unhealthy or unsightly condition, or have lost their natural shape due to dead branches or excessive pruning. Inadequate maintenance by the Owner shall not be cause for replacement. All replacement planting is to be done no later than the succeeding season.
    1. Replacement plants shall be of the same variety and size or larger as originally specified in the plant list. Plants shall be planted as originally specified. All areas damaged by planting or replacement operations shall be fully restored to their original condition as specified. Remove all dead or defective plant material from the site immediately.
@@ -115,7 +109,9 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'General', 'Landsca
    1. Begin interim maintenance period immediately after planting of landscape materials, and after planting of lawn areas, and continue interim maintenance until landscape work is deemed substantially complete and accepted by the Owner or Owner’s Representative.
    1. The maintenance period, as specified on the bid form, will commence when all areas have received substantial completion. Large or phased projects may require adjustments to this date. This can be negotiated with the owner and Owner’s Representative after installation has begun.
    1. Meet with the Owner prior to final acceptance, and prior to the termination of the maintenance period, to go over maintenance requirements of the project. Note that information conveyed to the owner shall be consistent with the maintenance instructions provided by the contractor, as part of the contract close out submittals.
-   1. PRODUCTS
+
+## Products
+
    1. MATERIALS
    1. Mulch
    1. Double Shredded Cedar Bark Mulch.
@@ -161,10 +157,12 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'General', 'Landsca
    1. Use rigid container which will hold ball shape and protect root mass during shipment. 
    1. Provide trees and shrubs established in containers of not less than the minimum sizes recommended by ANSI Z60.1 for the kind, type, and size of trees and shrubs required.
    1. Perennials and ornamental grasses provided in containers shall have well developed root masses (without being root bound) and should display an appropriate amount of foliage for the time of year in which they are being planted. Cutting back of perennials and grasses for fall planting is acceptable assuming a portion of the plant is visible and cutting does not damage the growing portions of the plant.
-   1. Execution
+
+## Execution
+
    1. examination
    1. Contractor shall inspect the site with the owner and/or Owner’s Representative prior to beginning any activities on site. The contractor shall provide a written report of any discrepancies that would interfere with their scope of work, or would delay progress on the project.
-   1. INSTALLATION/APPLICATION/ERECTION
+1. INSTALLATION/APPLICATION/ERECTION
    1. Proceed with and complete the landscape work as rapidly as portions of the site become available, working within the seasonal limitations for each kind of landscape work required.
    1. Cooperate with any other Contractors and trades which may be working in and adjacent to the landscape work areas. Examine drawings which show the development of the entire site and become familiar with the scope of all work required.
    1. Final Plant Locations
@@ -215,5 +213,5 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'General', 'Landsca
    1. Protect landscape work from loss, damage, and deterioration during storage, installation, and maintenance periods.
    1. Protect from unauthorized persons (trespassers), as well as from operations by other Contractors and tradesmen and landscape operations.
    1. At the time of the final inspection of the work and before the issuance of Final Acceptance, all paved areas shall be thoroughly cleaned by the Contractor by sweeping, and washing. All construction equipment and excess materials shall have been removed and any debris or rubbish shall have been removed from the site.
-   1. END OF SECTION
+   
 

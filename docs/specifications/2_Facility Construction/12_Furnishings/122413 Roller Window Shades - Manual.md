@@ -16,7 +16,7 @@ tags: ['Facility', 'Construction', 'Furnishings', 'Roller', 'Window', 'Shades', 
    1. G22 - Practice for Determining Resistance of Plastics to Bacteria.
    1. National Fire Protection Association (NFPA)
    1. 701 - Methods of Fire Tests for Flame-Resistant Textiles and Films.
-   1. SUMMARY
+1. SUMMARY
    1. Section Includes:
       1. Shade Type 1:
          1. Manual interior roller screen solar shades exterior window openings in private offices and conference rooms.
@@ -52,7 +52,7 @@ tags: ['Facility', 'Construction', 'Furnishings', 'Roller', 'Window', 'Shades', 
    1. project conditions
    1. Field Measurements
    1. Take field measurements to verify or supplement dimensions indicated. Be responsible for accurate fit of the work.
-   1. QUALITY ASSURANCE
+1. QUALITY ASSURANCE
    1. Qualifications:
       1. Manufacturer:
          1. 25 years minimum experience manufacturing products comparable to those specified in this section.
@@ -68,7 +68,7 @@ tags: ['Facility', 'Construction', 'Furnishings', 'Roller', 'Window', 'Shades', 
       1. Do not deliver items to the project until all concrete, masonry, plaster, painting and other wet work has been completed and is dry.
    1. Deliver shades to project in labeled protective packaging. Uniquely labeled to identify each shade for each opening. Schedule delivery to prevent delays to completion of work but to minimize on site storage time.
    1. Store materials in a dry secure place. Protect from weather, surface contaminants, corrosion, construction traffic and all other potential damage.
-   1. WARRANTY
+1. WARRANTY
    1. Special Warranty:
       1. Shade Motors and motor control system electrical components:
          1. Provide Manufacturer’s warranty under provisions of Division 1 - General Requirements. Warranty period to be 5 years from Date of Substantial Completion for shade motors and two years for all other control components containing provisions that installation will remain operational without fault for the warranty period and include all operating parts.
@@ -123,10 +123,12 @@ tags: ['Facility', 'Construction', 'Furnishings', 'Roller', 'Window', 'Shades', 
       1. Anodized aluminum finish.
    1. Steel Components:
       1. Cadmium-plated, satin-finished, or bonderized prior to painting with Manufacturer’s standard baked-enamel finish.
-   1. execution
-   1. EXAMINATION
+
+## Execution
+
+1. EXAMINATION
    1. Examine substrate and conditions for installation. Do not commence installation until conditions are satisfactory. Commencement of installation indicates acceptance of site conditions by Contractor. Notify the Design Professional upon inspection when the project conditions are unacceptable for shade installation. "Beginning of installation" means acceptance of substrate and project conditions.
-   1. INSTALLATION
+1. INSTALLATION
    1. Install units to comply with the Manufacturer's instructions for the type of mounting and operation required. Provide units plumb, true, and securely anchored in place with recommended hardware and accessories to provide smooth operation without binding.
    1. Install units within the following tolerances:
       1. Maximum variation of gap at window opening perimeter:
@@ -137,5 +139,4 @@ tags: ['Facility', 'Construction', 'Furnishings', 'Roller', 'Window', 'Shades', 
    1. Adjust drive / brake mechanism of units for smooth operation. Adjust shade and shade cloth to hang flat without buckling or distortion. Replace any units or components, which do not hang properly or operate smoothly
    1. CLEANING
    1. Touch up damaged finishes and repair minor damage in order to eliminate evidence of repair. Remove and replace work that cannot be satisfactorily repaired.
-1. END OF SECTIONTHIS PAGE INTENTIONALLY BLANK
 

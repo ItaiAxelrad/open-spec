@@ -7,7 +7,7 @@ subgroup: Procurement and Contracting Requirements
 tags: ['Procurement', 'Contracting', 'Requirements', 'Notice', 'to', 'Proceed']
 ---
 
-   1. SECTION 00 55 00
+
    1. NOTICE TO PROCEED
    1. Project:
       1. Owner:

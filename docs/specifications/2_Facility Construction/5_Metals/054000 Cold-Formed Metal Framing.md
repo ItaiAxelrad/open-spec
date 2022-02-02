@@ -7,10 +7,9 @@ subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Metals', 'Cold-Formed', 'Metal', 'Framing']
 ---
 
-
 ## General
 
-   1. SUMMARY
+1. SUMMARY
    1. Section Includes:
       1. Load bearing and nonload-bearing metal stud wall framing.
    1. Anchorage, bridging and bracing.
@@ -19,17 +18,19 @@ tags: ['Facility', 'Construction', 'Metals', 'Cold-Formed', 'Metal', 'Framing']
       1. Section 051200 - Structural Steel Framing
    1. Section 052100 - Steel Joist Framing Section 053100 - Metal Decking
    1. Section 092900 - Gypsum Board Systems
-   1. SUBMITTALS
+1. SUBMITTALS
    1. Comply with the pertinent Provisions of Section 01330.
    1. Provide product data on all materials to be utilized.
-   1. QUALITY ASSURANCE
+1. QUALITY ASSURANCE
    1. Applicable Standards:
       1. Conform to the current edition of the following standards:
             1. AISI "Specifications for the Design of Cold-Formed Steel Structural Members
     1. IBC International Building Code
    1. AWS "Code for Welding in Building Construction"
    1. Comply with requirements shown on Structural Drawings, and as required to support loads imposed.
-   1. PRODUCTS
+
+## Products
+
    1. MATERIALS
    1. Structural Steel Studs
    1. U.S. Steel or approved equal, Super-C Steel studs/joists, depth, gauge and minimum spacing as indicated on Drawings.
@@ -37,7 +38,9 @@ tags: ['Facility', 'Construction', 'Metals', 'Cold-Formed', 'Metal', 'Framing']
       1. ASTM A1008 grade (Fy=40,000 psi) with one coat of red lead or zinc-chromate primer shop paint or pre-painted with an equivalent coating.
    1. Gauge:
       1. As indicated, or recommended by manufacturer for spans and/or imposed loads, and as indicated on structural drawings.
-   1. EXECUTION
+
+## Execution
+
    1. ERECTION INSTALLATION APPLICATION
    1. Align head and sill tracks according to wall or partition location. Secure with screws, power driven fasteners or welding at 24" on center.
    1. Studs:
@@ -53,5 +56,5 @@ tags: ['Facility', 'Construction', 'Metals', 'Cold-Formed', 'Metal', 'Framing']
    1. Contractor is responsible for adequate connections.
    1. Connections between supports are not permitted.
    1. Allow for thermal expansion and for deflection due to deflection of supporting structure.
-1. END OF SECTION
+
 

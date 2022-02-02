@@ -10,14 +10,16 @@ tags: ['Facility', 'Construction', 'Specialties', 'Wall', 'Door', 'Protection']
 
 ## General
 
-   1. SUMMARY
+1. SUMMARY
    1. Section Includes
    1. Provide and install stainless steel corner guards on interior outside corners on gypsum board walls, on ground level of building, and/or as indicated on Drawings.
-   1. SUBMITTALS
+1. SUBMITTALS
    1. Comply with all pertinent provisions of Section 013300.
    1. Provide product data for all products to be utilized.
    1. Manufacturer's standard data.
-   1. PRODUCTS
+
+## Products
+
    1. MANUFACTURERS
    1. Institutional Products Corporation or approved equal.
    1. MATERIALS
@@ -26,8 +28,9 @@ tags: ['Facility', 'Construction', 'Specialties', 'Wall', 'Door', 'Protection']
    1. 1/8"R
    1. 16ga type 430
    1. Satin finish with factory-applied peel off covering for adhesive mount.
-   1. EXECUTION
+
+## Execution
+
    1. ERECTION INSTALLATION APPLICATION
    1. Install the work of this Section per manufacturer's recommendations.
-1. END OF SECTIONTHIS PAGE INTENTIONALLY BLANK
 

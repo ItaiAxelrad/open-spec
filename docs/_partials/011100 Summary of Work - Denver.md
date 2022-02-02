@@ -47,5 +47,4 @@ tags: ['General', 'Requirements', 'Summary', 'Work', 'Denver']
 4.  CONTRACTOR shall provide for the necessary sanitary conveniences for the use of project personnel, which shall be secluded from public observation and/or access.
 	1.  CONSTRUCTION OBSERVATION
    1. The OWNER will supply construction observation services as described in the Supplementary Conditions. Observation will be provided at no additional cost to the CONTRACTOR between the hours of 8:00 AM to 5 PM. 
-1. END OF SECTION 011100
 

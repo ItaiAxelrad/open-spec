@@ -7,9 +7,8 @@ subgroup: Process Equipment
 tags: ['Process', 'Equipment', 'Heating', 'Cooling', 'Drying']
 ---
 
-   1. SECTION 33 61 13
-1. CHILLED WATER AND CONDENSER WATER UTILITIES** 
-1. BASED ON DFD MASTER SPECIFICATION DATED 10/16/2020
+
+1. CHILLED WATER AND CONDENSER WATER UTILITIES*1. BASED ON DFD MASTER SPECIFICATION DATED 10/16/2020
 1. *This section has been written to cover most (but not all) situations that you will encounter. Depending on the requirements of your specific project, you may have to add material, delete items, or modify what is currently written. The Division of State Facilities expects changes and comments from you.*
 1. P A R T 1 - G E N E R A L
 1. *A/E to include the following if concrete reinforced cylinder piping is used. This statement shall also be placed on Page A1, Invitation to Bid*
@@ -37,7 +36,9 @@ tags: ['Process', 'Equipment', 'Heating', 'Cooling', 'Drying']
     1. Bedding and Backfill
     1. Locator Tape
     1. Pipe Insulation
-   1. Execution
+
+## Execution
+
     1. Preparation
     1. Bedding and Utility Cover
     1. Erection
@@ -253,8 +254,7 @@ tags: ['Process', 'Equipment', 'Heating', 'Cooling', 'Drying']
    1. Where mechanically formed tee fittings are allowed, form mechanically extracted collars in a continuous operation, consisting of drilling a pilot hole and drawing out the tube surface to form a collar having a height of not less than three times the thickness of the tube wall. Use an adjustable collaring device. Notch and dimple the branch tube. Braze the joint, applying heat properly so that pipe and tee do not distort; remove distorted connections.
 1. Mechanical Joint Pipe Connections
    1. Comply with AWWA C600/C605 installation requirements and manufactures recommended installation procedures. 
-1. EXISTING PIPE CONNECTIONS** 
-   1. Where new pipe is connecting to existing pipe tapping saddles are not allowed. 4” and larger taps shall have a line size tee cut into the existing pipe then reducing down to the required pipe size. 
+1. EXISTING PIPE CONNECTIONS*   1. Where new pipe is connecting to existing pipe tapping saddles are not allowed. 4” and larger taps shall have a line size tee cut into the existing pipe then reducing down to the required pipe size. 
 1. Push-on Gasketed Joint Connections
    1. Not Allowed.
 1. AIR VENTS
@@ -281,8 +281,7 @@ tags: ['Process', 'Equipment', 'Heating', 'Cooling', 'Drying']
    1. Slope pipe and position drains at low points and vents at high points.
    1. Do not use any pipe or fittings cracked or damaged in cutting or handling or otherwise not free from defects.
 
-*A/E TO COORDINATE THE FLANGE RATINGS (CLASS) AND SELECTION OF PIPING AND VALVE FLANGES INSIDE BUILDING, TUNNELS AND VAULTS.* 
-   1. All general contractor provided piping shall terminate inside at building, utility tunnel or vault with a class **[**250/125**]**, ANSI B16.1 flange. 
+*A/E TO COORDINATE THE FLANGE RATINGS (CLASS) AND SELECTION OF PIPING AND VALVE FLANGES INSIDE BUILDING, TUNNELS AND VAULTS.   1. All general contractor provided piping shall terminate inside at building, utility tunnel or vault with a class **[**250/125**]**, ANSI B16.1 flange. 
    1. Coat all flange bolts with Never-Seez lubricating compound.
    1. The exterior recesses of all restrained and non-restrained bell and spigot joints on pre-stressed concrete cylinder pipe and fittings shall be filed with a Portland cement grout immediately after installation. The foam-lined grout band, supplied by the manufacturer, shall be positioned around and centered on the joint. This band shall be filled with a grout mix using one part Portland cement (ASTM C250 Type 1 or Type 2) to not more than three parts clean sand with sufficient water to achieve a pourable consistency. A stiffer mix of grout shall be applied to the immediate top of the joint to insure complete coverage of all exposed steel.
    1. Install vents, vent piping, valves, and sleeves as indicated on plans.
@@ -291,8 +290,7 @@ tags: ['Process', 'Equipment', 'Heating', 'Cooling', 'Drying']
    1. Cut pipe only according to manufacturer's directions.
    1. Cut polyethylene wrap approximately 2 feet longer than length of pipe section. Place pipe and carefully wrap in the trench on a compacted bed of sand or crushed stone. After assembling pipe joint, overlap polyethylene wrap approximately 1 foot and securely tape all joints, tears, and the pipe at 3 foot intervals. Wrap and tape all copper pipe connections for a distance of not less than 3 feet from the centerline of the water main. For fittings and valves, split the polyethylene wrapping tube and securely tape the flat piece in place.
    1. Bed the pipe so as to not tear the polyethylene wrap.
-1. *A/E to only include this section with consent from PM, thrust bock restraint is undesirable.*** 
-   1. THRUST RESTRAINT:
+1. *A/E to only include this section with consent from PM, thrust bock restraint is undesirable.**   1. THRUST RESTRAINT:
       1. Securely block and wedge all bends, cap, plug, each joint and fittings, for piping systems 4” and larger, to solid undisturbed earth with approved precast or cast-in-place concrete thrust blocks. Secure with pipe Mechanical restraints (EBAA Iron Megalug, or approved equal) in accordance with AWWA C600 Section 3.8. for a minimum length of 40 feet, or to the next restrained fitting or bend, all bends and fittings that cannot be blocked.
    1. Lay all pipes to line and grade shown on the plans with bell ends up hill. Lay with minimum [\_\_\_\_] feet of cover ***(note to the designer:
       1. do not specify less than six (6) feet of cover*** where there is no grade given for the water main on the plan sheets. Keep ends of the water lines sealed at all times to prevent the entrance of animals or foreign materials.
@@ -301,8 +299,7 @@ tags: ['Process', 'Equipment', 'Heating', 'Cooling', 'Drying']
    1. Mechanically compact bedding and backfill to prevent settlement. The initial compacted lift to not exceed 24" compacted to 95% density per Modified Proctor Test (ASTM D-1557). Subsequent lifts under pavements, curbs, walks and structures are not to exceed 12" and be compacted to 95% density per Modified Proctor Test. In all other areas where construction above the excavation is not anticipated within 2 years, mechanically compact backfill in lifts not exceeding 24" to 90% density per Modified Proctor Test. Route the equipment over each lift of the material so that the compaction equipment contacts all areas of the surface of the lift.
    1. Do not leave more than 100 feet of trench open without backfill above the bedding at any time. Backfill all trenches completely, or provide safety barrier fencing at the end of each work day.
    1. Completely restore the surface of all disturbed areas to a like condition of the surface prior to the work. Level off all waste disposal areas and clean up all areas used for the storage of materials or the temporary deposit of excavated earth. Remove all surplus material, tools and equipment. 
-1. HDPE JOINING METHODS** 
-   1. SADDLE FUSION:
+1. HDPE JOINING METHODS*   1. SADDLE FUSION:
       1. Saddle fusion shall be done in accordance with ASTM F 2620 or TR-41 or the fitting manufacturer’s recommendations and PPI TR-41. Saddle fusion joints shall be made by qualified fusion technicians. Qualification of the fusion technician shall be demonstrated by evidence of fusion training within the past year on the equipment to be utilized on this project. [Saddle fusion is used to fuse branch saddles, tapping tees, and other HDPE constructs onto the wall of the main pipe] (ASTM F905). 
    1. SOCKET FUSION:
       1. Molded socket fusion fittings are only to be used for joining of HDPE pipe from 1/2 inch to 2” in size. Socket fusion shall be done in accordance with ASTM F 2620 or the fitting manufacturer’s recommendations. Socket fusion is the process of fusing pipe to pipe, or pipe to fitting by the use of a male and female end that are heated simultaneously, and pressed together so the outside wall of the male end is fused to the inside wall of the female end. Qualification of the fusion technician shall be demonstrated by evidence of socket fusion training within the past year on the equipment to be utilized on this project. [Socket fusion is not widely used, and the specifier may decide to prohibit its use ] 
@@ -346,8 +343,7 @@ tags: ['Process', 'Equipment', 'Heating', 'Cooling', 'Drying']
    1. Brass nipples shall be used only, steel nipples not permitted.
 1. VALVES
    1. Install vent and relief valve discharge lines as indicated on the drawings, as detailed, and as specified for each specific valve. Valves shall be plumb and square to the pipe system. Valves shall be wrapped in polyethelene wrap.
-1. VALVE BOXES** 
-   1. Install valve boxes as indicated on the drawings, as detailed, and as specified for each specific valve or piping specialty item. Valve boxes shall be square and plumb to the pipe system. 
+1. VALVE BOXES*   1. Install valve boxes as indicated on the drawings, as detailed, and as specified for each specific valve or piping specialty item. Valve boxes shall be square and plumb to the pipe system. 
    1. Valve boxes shall be adjusted to have the valve box elevation match finished grade.
    1. Valve box extension stems shall be installed so the valve nut is no more than 5 feet below grade. The riser stem shall be removeable from finished grade (no set screw on the valve nut). 
    1. Valve box stabilizers shall be set to ensure no material can migrate from backfilling around the valve nut.
@@ -398,8 +394,8 @@ tags: ['Process', 'Equipment', 'Heating', 'Cooling', 'Drying']
    1. Direct Buried Underground Chilled Water*** 200 psig Water 2 hr
    1. Condenser water 150 psig Water 8 hr
    1. Condenser water (underground pressure pipe) 150 psig Water 8 hr
-1. ***Verify operating system pressure with DFD and specify test pressure accordingly. Several state agencies have systems that operate at higher pressures and require test pressures in excess of that scheduled above.*
-1. ****Alternate for Heating and Cooling Facility Distribution*
+1. *Verify operating system pressure with DFD and specify test pressure accordingly. Several state agencies have systems that operate at higher pressures and require test pressures in excess of that scheduled above.*
+1. **Alternate for Heating and Cooling Facility Distribution*
    1. Test pressure shall not vary more than 5 psig during duration of test
    1. All pressure tests are to be documented on a Division of State Facilities form included in this specification.
    1. On piping that can not be tested because of connection to an active line, provide temporary blind flanges and hydrostatically test new section of piping. After completion of test, remove temporary flanges and make final connections to piping. Die penetrate test pass weld or x-ray the piping that was not hydrostatically tested up to the active system.
@@ -422,25 +418,19 @@ tags: ['Process', 'Equipment', 'Heating', 'Cooling', 'Drying']
    1. If water volume required to restor the set point pressure is equal or less than in the previous test the sytem is tight and no water is leaking. If the amunt of water required to restore the set point pressure of the pipe is increasing. the pipe is leaking and shall be repaired. Once the system is repaired, repeat the test procedure until the system is watertight. Additional testing shall be performed at no additional cost to the project.
    1. CONSTRUCTION VERIFICATION ITEMS
    1. Contractor is responsible for utilizing the construction verification checklists supplied under specification Section 01 91 01 or 01 91 02 in accordance with the procedures defined for construction verification checklists.
-   1. END OF SECTION
+   
    1. PIPING SYSTEM TESTING REPORT
    1. State of Wisconsin
 1. Department of Administration Date
-1. Division of State Facilities Submitted:** 
-1. Project Name:** 
-1. Location:
-      1. DFD Project No:** 
-1. Contractor:** 
-
+1. Division of State Facilities Submitted:*1. Project Name:*1. Location:
+      1. DFD Project No:*1. Contractor:*
  **□ HVAC □ Refrigeration □ Controls
 
  □ Power Plant □ Plumbing □ Sprinkler
     1. Test Medium:
        1. □ Air □ Water □ Other
-1. Test performed per specification section No.** 
-1. Specified Test Duration \_\_\_\_\_\_ Hours Specified Test Pressure PSIG
-1. System Identification:** 
-   1. Describe Location:
+1. Test performed per specification section No.*1. Specified Test Duration \_\_\_\_\_\_ Hours Specified Test Pressure PSIG
+1. System Identification:*   1. Describe Location:
     1. Test Date:
           1. 
    1. Start Test Time:
@@ -457,21 +447,15 @@ tags: ['Process', 'Equipment', 'Heating', 'Cooling', 'Drying']
       1. Signed:
          1. Date:
             1. Date:
-               1. Comments:** 
-1. PIPING SYSTEM FLUSHING REPORT
+               1. Comments:*1. PIPING SYSTEM FLUSHING REPORT
    1. State of Wisconsin
 1. Department of Administration Date
 1. Division of State Facilities Submitted**:
       1. 
-1. Project Name:** 
-1. Location:
-      1. DFD Project No:** 
-1. Contractor:** 
-1. System Identification (check one):
-    1. **Chilled Water** 
-
- **Condenser Water Other** 
-1. Describe procedure:**  
+1. Project Name:*1. Location:
+      1. DFD Project No:*1. Contractor:*1. System Identification (check one):
+    1. Chilled Water*
+ **Condenser Water Other*1. Describe procedure:**  
 
 
 

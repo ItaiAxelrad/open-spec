@@ -10,7 +10,7 @@ tags: ['Facility', 'Construction', 'Finishes', 'Static-Control', 'Resilient', 'F
 
 ## General
 
-   1. SUMMARY
+1. SUMMARY
    1. Section includes requirements for static-dissipative resilient tile flooring with cold-welded seams.
    1. References
    1. American Society for Testing and Materials (ASTM)
@@ -70,9 +70,11 @@ tags: ['Facility', 'Construction', 'Finishes', 'Static-Control', 'Resilient', 'F
    1. Close spaces to traffic for 48 hours after floor covering installation.
    1. Install floor coverings after other finishing operations, including painting and ceiling operations have been completed.
    1. Do not install tile flooring over concrete substrates until substrates have cured and are dry to bond adhesive as determined by resilient flooring manufacturers recommended bond and moisture tests.
-   1. EXTRA MATERIALS
+1. EXTRA MATERIALS
    1. Furnish extra materials described below that match products installed and that are packaged with protective covering for storage and identified with labels describing contents.
-   1. Products
+
+## Products
+
    1. materials
    1. Specification is based on Norament System, 928 al S grano tile 39.37” x 39.37” x 0.14” thick as manufactured by Freudenberg building Systems, Lawrence, MA. Equal products by one of the following are acceptable:
       1. AB ElectroStatic, American Biltrite (Canada) Ltd.
@@ -108,7 +110,9 @@ tags: ['Facility', 'Construction', 'Finishes', 'Static-Control', 'Resilient', 'F
          1. Norament cold-weld compound, or product required by flooring manufacturer to provide seamless installation.
    1. Color:
       1. Match floor color.
-   1. Execution
+
+## Execution
+
    1. examination
    1. Examine substrates with Installer and manufacturers representative present, for compliance with requirements for installation tolerances, moisture content, and other conditions affecting performance.
    1. Verify that finishes of substrates comply with tolerances and other requirements specified in other Sections and that substrates are free of cracks, ridges, depressions, scale, and foreign deposits that might interfere with adhesion or static-control characteristics of floor coverings.
@@ -163,5 +167,4 @@ tags: ['Facility', 'Construction', 'Finishes', 'Static-Control', 'Resilient', 'F
    1. Do not wax static control resilient floor coverings.
    1. Cover floor coverings with undyed, untreated building paper until Substantial Completion.
    1. Do not move heavy and sharp objects directly over floor coverings. Place plywood or hardboard panels over floor coverings and under objects while they are being moved. Slide or roll objects over panels without moving panels.
-1. END OF SECTION** 
-
+*

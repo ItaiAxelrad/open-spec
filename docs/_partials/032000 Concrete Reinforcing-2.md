@@ -7,7 +7,7 @@ subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Concrete', 'Reinforcing']
 ---
 
-1. SECTION 03200
+
 1. CONCRETE REINFORCEMENT
 1. 
 ## General
@@ -53,8 +53,7 @@ tags: ['Facility', 'Construction', 'Concrete', 'Reinforcing']
 4. PRODUCT DELIVERY, STORAGE AND HANDLING 
    1. Deliver to site in bundles marked with metal tags indicating bar size and length. Carefully handle and store on supports which will keep the steel from coming in contact with the ground. 
 5. JOB CONDITIONS ‑ Do not burn or weld in the vicinity of tendons. 
-1. ## Product** 
-1. REINFORCEMENT BARS 
+1. ## Product*1. REINFORCEMENT BARS 
 1..1 Bars:
       1. Steel reinforcements shall be new, deformed billet steel, meeting ASTM Standard A615 or A706; for rebars No. 4 and larger, Grade 60; for No. 3 rebars and designated reinforcement, Grade 40 or Grade 60. 
    1. Bend test:

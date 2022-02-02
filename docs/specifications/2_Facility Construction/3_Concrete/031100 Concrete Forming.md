@@ -7,19 +7,14 @@ subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Concrete', 'Forming']
 ---
 
-   1. Section 03 11 00
-   1. concrete forming
-
 ## General
 
-
-* 
-	1. **Summary
+1. SUMMARY
    1. Work under this section shall include the formwork required for concrete construction. 
 2. Related Specification Sections include:
 	1. Section 03 01 00 – Maintenance of Concrete
 	2. Section 03 30 00 – Cast-in-Place Concrete
-	3. **Quality Assurance
+	3. Quality Assurance
 3. Work shall be per:
 	1. American Concrete Institute (ACI):
 		1. CT-13, Cement and Concrete Terminology.
@@ -48,14 +43,14 @@ tags: ['Facility', 'Construction', 'Concrete', 'Forming']
 			4. The influence of deformations of the structure and shoring system on the distribution of dead loads and construction loads.
 			5. The strength and spacing of shores or shoring systems used, as well as the method of shoring, bracing, shore removal, and reshoring including the minimum time intervals between various operations.
 			6. Any other loading or condition that affects the safety or serviceability of the structure during construction.
-	4. **Submittals
+	4. Submittals
 6. Shop Drawings shall include product technical date including:
 	1. Acknowledgement that products submitted meet requirements of the aforementioned standards.
 	2. Manufacturer’s installation instructions.
 	3. Manufacturer and type of proposed form materials.
 	4. Manufacturer and type of proposed form coating materials.
 	5. Manufacturer and type of void forms including compressive strength.
-   ## Product
+## Product
 1. 2.1 Materials
    1. Forms for surfaces exposed to view:
 	1. Plywood:
@@ -164,7 +159,7 @@ tags: ['Facility', 'Construction', 'Concrete', 'Forming']
 9. Provide positive means of adjustment (wedges or jacks) of shores and struts and take up all settlement during concrete placing operation.
 	1. Securely brace forms against lateral deflection.
 	2. Fasten wedges used for final adjustment of forms prior to concrete placement in position after final check.
-	3. **Removal of Forms
+	3. Removal of Forms
 10. No construction loads shall be supported on, nor any shoring removed from, any part of the structure under construction except when that portion of the structure in combination with remaining forming and shoring system has sufficient strength to safely support its weight and loads places thereon.
 11. When required for concrete curing in hot weather, required for repair of surface defects or when finishing is required at an early age, remove forms as soon as concrete has hardened sufficiently to resist damage from removal operations or lack of support.
 12. Remove top forms on sloping surfaces of concrete as soon as concrete has attained sufficient stiffness to prevent sagging.
@@ -174,7 +169,7 @@ tags: ['Facility', 'Construction', 'Concrete', 'Forming']
 15. Where no reshoring is planned, leave forms and shoring used to support weight of concrete in place until concrete has attained its specified 28 day compressive strength.
 	1. Where a reshoring procedure is planned, supporting formwork may be removed when concrete has reached the concrete strength required by the formwork designer's structural calculations.
 16. When shores and other vertical supports are so arranged that non-load-carrying form facing material may be removed without loosening or disturbing shores and supports, facing material may be removed when concrete has sufficiently hardened to resist damage from removal.
-	1. **Reshoring
+	1. Reshoring
 17. No construction loads shall be supported on, nor any shoring removed from, any part of the structure under construction except when that portion of the structure in combination with remaining forming and shoring system has sufficient strength to safely support its weight and loads placed thereon.
 18. While reshoring is underway, no superimposed dead or live loads shall be permitted on the new construction.
 19. During reshoring do not subject concrete in structural members to combined dead and construction loads in excess of loads that structural members can adequately support.

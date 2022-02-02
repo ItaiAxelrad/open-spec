@@ -7,10 +7,9 @@ subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Metals', 'Metal', 'Stairs']
 ---
 
-
 ## General
 
-   1. SUMMARY
+1. SUMMARY
    1. Refer to sections:
       1. 018113 – Sustainable Design Requirements;
    1. 018113A – Appendix A - Materials Anticipated to be Used for Recycled Content; and
@@ -55,7 +54,7 @@ tags: ['Facility', 'Construction', 'Metals', 'Metal', 'Stairs']
    1. Limit deflection of treads, platforms, and framing members L/360 or 6 mm (1/4 inch), whichever is less.
    1. Design handrails, guardrails and gates to resist a concentrated load of 200 lbs. in any direction, and a uniform load of 50 lbs. per linear foot applied to the top rail in a vertical and a horizontal direction, without exceeding allowable design working stresses of materials for handrails, railings, anchors, and connections. The concentrated and uniform loads need not act concurrently.
    1. Design toeboards to conform to the requirements of (CPSC) 29 CFR 1910.23.
-   1. SUBMITTALS
+1. SUBMITTALS
    1. Submit manufacturers documentation of recycled content (minimum 25%, optimally >90%).
    1. Shop Drawings
    1. For each fabricated item include plans, elevations, and details. Show the following:
@@ -73,14 +72,16 @@ tags: ['Facility', 'Construction', 'Metals', 'Metal', 'Stairs']
    1. Grouts.
    1. Samples
    1. Submit Samples of products and materials when requested.
-   1. QUALITY ASSURANCE
+1. QUALITY ASSURANCE
    1. Where fabrications are specified to comply with specific structural performance requirements, provide design sealed by a professional engineer registered in the state in which the project is located.
-   1. PROJECT CONDITIONS
+1. PROJECT CONDITIONS
    1. Field Measurements
    1. Take field measurements prior to preparation of Shop Drawings and fabrication where possible. Where taking field measurements prior to fabrication may delay work, allow adequate fabrication tolerances for fitting and trimming.
    1. Coordination with Masonry and Concrete Work
    1. Where fabricated items or their anchors are to be embedded into concrete and masonry work, deliver such items to those performing the installation, together with all coordination drawings and installation instructions required. Provide temporary bracing or anchors in formwork where required for installation.
-   1. PRODUCTS
+
+## Products
+
    1. MANUFACTURERS
    1. Provide products of one of the following manufacturers, or as approved
    1. American Stair Corporation.
@@ -274,8 +275,10 @@ tags: ['Facility', 'Construction', 'Metals', 'Metal', 'Stairs']
    1. Do not prime surfaces to be welded.
    1. Do not prime surfaces in direct contact bond with concrete.
    1. Stripe-paint all edges, corners, bolts, welds, and sharp edges.
-   1. EXECUTION
-   1. INSTALLATION
+
+## Execution
+
+1. INSTALLATION
    1. Anchor to substrates indicated; provide all fasteners required.
    1. Cut, drill, and fit items as required for installation.
    1. Fit exposed connections together accurately to form tight hairline joints.
@@ -289,5 +292,5 @@ tags: ['Facility', 'Construction', 'Metals', 'Metal', 'Stairs']
    1. Touch up shop paint immediately after erection.
    1. Clean field welds, bolted connections, and abraded surfaces.
    1. Paint with same material used for shop painting, minimum 2 mils dry film thickness.
-1. END OF SECTION
+
 

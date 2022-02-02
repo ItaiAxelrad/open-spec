@@ -7,10 +7,9 @@ subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Exterior', 'Insulation', 'Finish', 'System']
 ---
 
-
 ## General
 
-   1. Description of Work
+1. Description of Work
    1. Work included:
       1. Provide exterior insulation and finish system where shown of the Drawings, as specified herein, and as needed for a complete and proper installation.
    1. The EIFS to be a Type PB EIF System consisting of adhesive insulation board, reinforcing mesh, and finish on approved substrates.
@@ -37,7 +36,7 @@ tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Exterio
    1. The System shall have been tested for:
       1. accelerated weathering, mildew resistance, salt spray resistance, and full scale structural performance.
    1. The System shall have been tested for fire performance in accordance with; Modified ASTM E108, ASTM E119, ULC-S101, and UCB 17-6 Multi-Story Test.
-   1. SUBMITTALS
+1. SUBMITTALS
    1. Comply with pertinent provisions of Section 013300.
    1. Product
    1. Materials list of items proposed to be provided under this Section.
@@ -55,7 +54,9 @@ tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Exterio
    1. Twenty feet of the approved reinforcing fabric;
    1. Twenty feet of the approved insulation board.
    1. Package the containers securely to prevent deterioration and damage, and label each item clearly as to contents and where used.
-   1. PRODUCTS
+
+## Products
+
    1. Acceptable Manufactures
    1. Except as otherwise approved by the Owner, provide a complete system from one of the following:
       1. Dryvit Systems, Inc., 420 Lincoln Avenue, Warwick, Rhode Island 02288;
@@ -76,7 +77,9 @@ tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Exterio
       1. Clean and potable.
    1. All supplied components of the EIF system shall be obtained from a single source.
    1. Provide other materials, not specifically described but required for a complete and proper installation, as selected by the Contractor subject to the approval of the Owner.
-   1. EXECUTION
+
+## Execution
+
    1. SURFACE CONDITIONS
    1. Examine the areas and conditions under which work of this Section will be performed. Correct conditions detrimental to timely and proper completion of the Work. Do not proceed until unsatisfactory conditions are corrected.
    1. As necessary, provide proper remedy for:
@@ -131,5 +134,4 @@ tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Exterio
    1. Make the final texture after the finish has gelled to where it does not stick to the trowel.
    1. Achieve the approved texture by allowing trowel to roll on the round aggregate, using a variety of motions and trowels or floats to match the approved sample.
    1. Provide a final thickness not greater than the diameter of the largest aggregate of the finish material.
-1. END OF SECTIONTHIS PAGE INTENTIONALLY BLANK
 

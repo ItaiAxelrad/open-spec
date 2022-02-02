@@ -4,7 +4,7 @@ section: '226113'
 divNumb: 22
 divName: Plumbing
 subgroup: Facility Services
-tags: ['Facility', 'Services', 'Plumbing', 'Compressed-Air', 'Piping', 'for', 'Laboratory', 'Healthcare', 'Facilities']
+tags: ['Facility', 'Services', 'Plumbing', 'Compressed-Air', 'Piping', 'Laboratory', 'Healthcare', 'Facilities']
 ---
 
 
@@ -48,8 +48,7 @@ tags: ['Facility', 'Services', 'Plumbing', 'Compressed-Air', 'Piping', 'for', 'L
       1. Diameter-index safety system.
    1. Low Voltage:
       1. As defined in NFPA 70 for circuits and equipment operating at less than 50 V or for remote-control, signaling power-limited circuits.
-1. Submittals** 
-   1. See Division22 sections of the Specifications. 
+1. Submittals*   1. See Division22 sections of the Specifications. 
    1. Submit Product Data on the following:
       1. Underground piping materials.
    1. Aboveground piping materials.
@@ -98,10 +97,7 @@ tags: ['Facility', 'Services', 'Plumbing', 'Compressed-Air', 'Piping', 'for', 'L
       1. Bronze body and trim; spring-loaded, diaphragm-operated, relieving type; manual pressure-setting adjustment; rated for 250 psig minimum inlet pressure; and capable of controlling delivered air pressure within 0.5 psig for each 10 psig inlet pressure. Matheson Model 18 Series or equal.
 1. EXECUTION
 1. INSTALLATION
-
-## General
-
-:
+	1. General:
       1. Examine rough-in requirements for plumbing fixtures and other equipment having to verify actual locations of piping connections prior to installation.
    1. Examine walls, floors, roofs, and plumbing chases for suitable conditions where piping and specialties are to be installed.
    1. Piping shall be run true, plumb, and straight, with all restraints adjusted to carry their proportional load and locked to prevent pipe “wag,” misalignment, movement, shear, or sagging.
@@ -135,5 +131,4 @@ tags: ['Facility', 'Services', 'Plumbing', 'Compressed-Air', 'Piping', 'for', 'L
  Testing Procedures:
       1. All piping systems shall be tested and proven tight prior to concealment. The test shall be witnessed by the Architect/Engineer, plumbing inspector, or the Owner’s representative.
    1. Insure that the test pressure that might damage fixtures or equipment does not reach such units by valving them off or otherwise isolating them during the test.
-   1. END OF SECTION 226113
-
+   

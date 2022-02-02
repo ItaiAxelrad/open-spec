@@ -7,7 +7,7 @@ subgroup: Procurement and Contracting Requirements
 tags: ['Procurement', 'Contracting', 'Requirements', 'Proposal', 'Form', 'Performance', 'Contract']
 ---
 
-1. SECTION 00 42 73
+
 1. PERFORMANCE CONTRACT
    1. Provide a narrative that aligns with your proposal for each Design Criteria Section below that generally describes how your Design Build Team plans to meet the Design Criteria - Performance Specifications. Please reference Part 3 Design Criteria in each Design Criteria Section under “*Substantiation:
       1. Proposal”* for minimum requirements. If “*Substantiation:

@@ -8,8 +8,7 @@ tags: ['Procurement', 'Contracting', 'Requirements', 'Supplementary', 'Condition
 ---
 
    1. Engineers Joint Documents Committee
-1. Design and Construction Related Documents** 
-1. Instructions and License Agreement
+1. Design and Construction Related Documents*1. Instructions and License Agreement
 1. Instructions
 1. Before you use any EJCDC document:
       1. Read the License Agreement. You agree to it and are bound by its terms when you use the EJCDC document.
@@ -45,10 +44,7 @@ tags: ['Procurement', 'Contracting', 'Requirements', 'Supplementary', 'Condition
 2. if EJCDC’s selling agent is unable to deliver a replacement CD or diskette which is free of defects in materials and workmanship, you may terminate this Agreement by returning EJCDC Document and your money will be refunded.
    1. In no event will EJCDC be liable to you for any damages, including any lost profits, lost savings or other incidental or consequential damages arising out of the use or inability to use **EJCDC Design and Construction Related Documents** even if EJCDC has been advised of the possibility of such damages, or for any claim by any other party.
    1. Some states do not allow the limitation or exclusion of liability for incidental or consequential damages, so the above limitation or exclusion may not apply to you.
-
-## General
-
-:
+	1. General:
       1. You may not sublicense, assign, or transfer this license except as expressly provided in this Agreement. Any attempt otherwise to sublicense, assign, or transfer any of the rights, duties, or obligations hereunder is void.
    1. This Agreement shall be governed by the laws of the State of Virginia. Should you have any questions concerning this Agreement, you may contact EJCDC by writing to:
     1. 
@@ -70,7 +66,7 @@ tags: ['Procurement', 'Contracting', 'Requirements', 'Supplementary', 'Condition
    1. This document has important legal consequences; consultation with an attorney is encouraged with respect to its use or modification. This document should be adapted to the particular circumstances of the contemplated Project and the Controlling Law.
     1. GUIDE
     1. TO THE
-    1. PREPARATION OF
+ 1. PREPARATION OF
     1. SUPPLEMENTARY CONDITIONS
    1. Prepared by
    1. ENGINEERS JOINT CONTRACT DOCUMENTS COMMITTEE
@@ -357,7 +353,7 @@ If it is desired to add a new paragraph to the General Conditions, the thought m
    1. SC-2.02 Copies of Documents
    1. As electronic documents become more widely used, electronic copies of contract documents are often made available in lieu of multiple sets of hard copy. If electronic documents are to be made available, the following may be used:
          1. SC 2.02 Delete Paragraph 2.02.A in its entirety and insert the following in its place:
-    1. **A. Owner shall furnish to Contractor up to**  **printed or hard copies of the Drawings and Project Manual and one set in electronic format. Additional copies will be furnished upon request at the cost of reproduction.
+    1. A. Owner shall furnish to Contractor up to**  **printed or hard copies of the Drawings and Project Manual and one set in electronic format. Additional copies will be furnished upon request at the cost of reproduction.
    1. SC-2.03 Commencement of Contract Times; Notice to Proceed
    1. The Instructions, Bid Form, Agreement, and General Conditions establish a timetable of events from the opening of Bids to the day when the Contract Times must start to run.
    1. The events contemplated, based on a 60-day period for Bids to remain subject to acceptance, may be summarized as follows:
@@ -400,14 +396,14 @@ If it is desired to add a new paragraph to the General Conditions, the thought m
       1. the boring method, plan and logs, level of subsurface water, laboratory test methods and results, and similar factual data, all as of the dates made. As a general rule, all the factual information contained in drawings of physical conditions in or related to existing surface or subsurface structures (other than Underground Facilities) which are at or contiguous to the Site will usually qualify as “technical data” on which Contractor should be entitled to rely However, if reliance on such drawings is to be limited, Engineer should clearly identify in the Supplementary Conditions the information or data (such as comments or opinions) contained in or part of such drawings on which Contractor may not rely. It should be understood that severely limiting the scope of information on which Contractor may rely may require the Contractor to assume additional risks which may in turn be reflected by a higher bid.
    1. Thus, the term “technical data” has not been defined specifically in the General Conditions because of its different application in varying circumstances. Where practical, the “technical data” contained in such documents should be separated from other data and possibly be included in the Bidding Documents. Frequently, it is not feasible to include only the “technical data” in the Bidding Documents or to separate it from other information. In such circumstances, language similar to the following may be used for identification of “technical data:”
 1. SC-4.02 Add the following new paragraph(s) immediately after Paragraph 4.02.B:
-    1. **C. In the preparation of Drawings and Specifications, Engineer relied upon the following reports of explorations and tests of subsurface conditions at the Site:
-     1. **1. Report dated May 21, 2000, prepared by Aye and Bea, Consulting Engineers, Philadelphia, Pa., entitled:
+    1. C. In the preparation of Drawings and Specifications, Engineer relied upon the following reports of explorations and tests of subsurface conditions at the Site:
+     1. 1. Report dated May 21, 2000, prepared by Aye and Bea, Consulting Engineers, Philadelphia, Pa., entitled:
         1. “Results of Investigation of Subsoil Conditions and Professional Recommendations for Foundations of Iron Foundry at South and Front Streets, Pembrig, NJ”, consisting of 42 pages. The “technical data” contained in such report upon which Contractor may rely is \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
 
  **2. Report dated May 2, 2000, prepared by Ecks, Wye and Tszee, Inc., Baltimore, Md., entitled: “Tests of Water Quality in Mixter River at Pembrig, NJ”, consisting of 26 pages. The “technical data” contained in such report upon which Contractor may** **rely is \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
 
  **D. In the preparation of Drawings and Specifications, Engineer relied upon the following drawings of physical conditions in or relating to existing surface and subsurface structures (except Underground Facilities) which are at or contiguous to the Site:
-    1. **1. Drawings dated March 2, 2000, of Route 24A Overpass Abutment, prepared by Dea & Associates, Inc., Wilmington, Del., entitled:
+    1. 1. Drawings dated March 2, 2000, of Route 24A Overpass Abutment, prepared by Dea & Associates, Inc., Wilmington, Del., entitled:
        1. “Record Drawings:
        1. Route No. 24A Overpass Abutment”, consisting of 12 sheets numbered to , inclusive. All of the information in such drawings constitutes “technical data” on which Contractor may rely, except for \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ appearing on Drawing No. \_\_\_\_\_ and** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ **appearing on Drawing No. \_\_\_\_\_\_.
 
@@ -415,7 +411,7 @@ If it is desired to add a new paragraph to the General Conditions, the thought m
 1. Contractor is also required to visit the Site to become familiar with and satisfied as to the general, local, and Site conditions that may affect cost, progress, performance, and furnishing of the Work. This is to involve an alert, heads-up, eyes-open, reasonable examination of the area and the conditions under which the Work is to be performed (see GC-4.03.C.2.b). It is expected that any special requirements for such examination will be set forth in the Instructions (see I-4 and related Notes to User) or elsewhere in the Contract Documents if the Contract is to be awarded on the basis of negotiation rather than after receipt of Bids. The extent of such an examination will depend to a great extent on the peculiarities of the job and the Site as well as Owner’s preference. EJCDC believes, however, that the requirements for any such pre-Bid Site examination should be realistic and clearly stated and that detailed Site and subsurface investigations should ordinarily not be required because of their cost, the constraints of time and other practical considerations.
    1. Note that GC-4.02 and the above discussion are based on the premise that some subsurface information exists. If this is not the case, the following language may be used:
       1. SC-4.02 Delete Paragraphs 4.02.A and 4.02.B in their entirety and insert the following:
-    1. **A. No reports of explorations or tests of subsurface conditions at or contiguous to the Site are known to the Owner or Engineer.
+    1. A. No reports of explorations or tests of subsurface conditions at or contiguous to the Site are known to the Owner or Engineer.
    1. Paragraphs GC-4.03.A and GC-4.03.B provide that when a surprise arises in the subsurface or physical conditions, Contractor is to notify Engineer if the revealed or discovered condition is of such a nature as to indicate that “technical data” on which reliance was permitted is inaccurate, or that a change in the Contract Documents is required, or that the condition differs materially from that shown or indicated in the Contract Documents, or that it is of an unusual nature and differs materially from conditions ordinarily encountered and generally recognized as inherent in Work of the character provided for in the Contract Documents. The Work is then to stop. Engineer is to evaluate the situation and decide if a change in the Contract Documents is necessary to adapt to the actual conditions as discovered or revealed.
    1. Under GC-4.03.C, the rights of Contractor and Owner to an adjustment in price or time because of the differing conditions are set out with the result that Owner or Contractor is entitled to relief similar in most situations to that provided in Federal Acquisition Regulations. 
    1. Another approach to the division of responsibility with respect to unknown subsurface and physical conditions is to place full responsibility for the unknown on the Contractor. EJCDC does not recommend this approach which often requires Bidders to conduct site investigations within an unrealistic period of time. This approach typically results in higher bids and, despite language to the contrary, often results in disputes.
@@ -439,7 +435,7 @@ If it is desired to add a new paragraph to the General Conditions, the thought m
    1. Note that the provisions of GC-4.02 through GC-4.04 do not apply to a Hazardous Environmental Condition.
    1. Paragraph GC.4.06.A and B and the above discussion are based on the premise that information exists with respect to Hazardous Environmental Conditions at the Site. If this is not the case, the following language may be used:
       1. SC-4.06 Delete Paragraphs 4.06.A and 4.06.B in their entirety and insert the following:
-    1. **A. No reports on drawings related to Hazardous Environmental Conditions are known to Owner or Engineer.
+    1. A. No reports on drawings related to Hazardous Environmental Conditions are known to Owner or Engineer.
 
  **B. Not Used.
    1. SC-5.01 Performance, Payment and Other Bonds
@@ -451,7 +447,7 @@ If it is desired to add a new paragraph to the General Conditions, the thought m
    1. When responsibilities for providing insurance under GC-5.04, 5.06, and 5.07 are changed, GC-5.03 may also require changes, which should be made at SC-5.03.
    1. Should Owner fail to demand the certificates of insurance required under GC-5.03.A, additional protection may be afforded by the following:
          1. SC-5.03 Add the following new paragraphs immediately after Paragraph 5.03.B:
-    1. **C. Failure of Owner to demand such certificates or other evidence of full compliance with these insurance requirements or failure of Owner to identify a deficiency from evidence provided shall not be construed as a waiver of Contractor’s obligation to maintain such insurance.
+    1. C. Failure of Owner to demand such certificates or other evidence of full compliance with these insurance requirements or failure of Owner to identify a deficiency from evidence provided shall not be construed as a waiver of Contractor’s obligation to maintain such insurance.
 
  **D. By requiring such insurance and insurance limits herein, Owner does not represent that coverage and limits will necessarily be adequate to protect Contractor, and such coverage and limits shall not be deemed as a limitation on Contractor’s liability under the indemnities granted to Owner in the Contract Documents.
    1. SC-5.04 Contractor’s Liability Insurance
@@ -460,9 +456,9 @@ If it is desired to add a new paragraph to the General Conditions, the thought m
    1. EJCDC has prepared a prototype letter from Engineer to Owner requesting instructions as to coverages and amounts of insurance to be provided by Owner and Contractor. See Engineer’s Letter to Owner Requesting Instructions concerning Bonds and Insurance for Construction (No. C-051, 2001 Edition). In addition, Owner’s Instructions to Engineer concerning Bonds and Insurance for Construction, (No. C-052, 2001 Edition), may prove to be a helpful guide to Owner and his insurance counselor. AIA’s Certificate of Insurance, No. G705, is also a useful document.
    1. The following is suggested language that may be used in preparing SC-5.04 after Owner’s requirements have been determined. The suggested language relates directly to the provisions of GC-5.04.
    1. SC-5.04 Add the following new paragraph immediately after Paragraph 5.04.B:
-    1. **C. The limits of liability for the insurance required by Paragraph 5.04 of the General Conditions shall provide coverage for not less than the following amounts or greater where required by Laws and Regulations:
-    1. **1. Workers’ Compensation, and related coverages under Paragraphs 5.04.A.1 and A.2 of the General Conditions:
-    1. **a. State:
+    1. C. The limits of liability for the insurance required by Paragraph 5.04 of the General Conditions shall provide coverage for not less than the following amounts or greater where required by Laws and Regulations:
+    1. 1. Workers’ Compensation, and related coverages under Paragraphs 5.04.A.1 and A.2 of the General Conditions:
+    1. a. State:
        1. Statutory
 
  **b. Applicable Federal
@@ -470,8 +466,8 @@ If it is desired to add a new paragraph to the General Conditions, the thought m
  **(e.g.**,**Longshoreman’s):** **Statutory
 
  **c. Employer’s Liability:** **$\_\_\_\_\_\_
-   1. **Contractor’s General Liability under Paragraphs 5.04.A.3 through A.6 of the General Conditions** **which shall include completed operations and product liability coverages and eliminate the exclusion with respect to property under the care, custody and control of Contractor:
-    1. **a. General Aggregate $\_\_\_\_\_\_
+   1. Contractor’s General Liability under Paragraphs 5.04.A.3 through A.6 of the General Conditions** **which shall include completed operations and product liability coverages and eliminate the exclusion with respect to property under the care, custody and control of Contractor:
+    1. a. General Aggregate $\_\_\_\_\_\_
 
  **b. Products - Completed
 
@@ -496,26 +492,25 @@ If it is desired to add a new paragraph to the General Conditions, the thought m
  **2) Each Occurrence $\_\_\_\_\_\_
 
  **3. Automobile Liability under Paragraph 5.04.A.6 of the General Conditions:
-    1. **a. Bodily Injury:
-    1. **Each person** $\_\_\_\_\_\_
+    1. a. Bodily Injury:
+    1. Each person** $\_\_\_\_\_\_
 
  **Each Accident** $\_\_\_\_\_\_
 
  **b. Property Damage:
-    1. **Each** **Accident** $\_\_\_\_\_\_
+    1. Each** **Accident** $\_\_\_\_\_\_
 
- **c.** **Combined Single** 
-
+ **c.** **Combined Single*
  **Limit of** $\_\_\_\_\_\_
 
  **4. The Contractual Liability coverage required by Paragraph 5.04.B.4 of the General Conditions shall provide coverage for not less than the following amounts:
-    1. **a. Bodily Injury:
-    1. **Each** **Accident** **$\_\_\_\_\_\_
+    1. a. Bodily Injury:
+    1. Each** **Accident** **$\_\_\_\_\_\_
 
  **Annual** **Aggregate** **$**\_\_\_\_\_\_
 
  **b.** **Property Damage:
-    1. **Each Accident $\_\_\_\_\_\_
+    1. Each Accident $\_\_\_\_\_\_
 
  **Annual Aggregate** **$**\_\_\_\_\_\_
 
@@ -551,8 +546,7 @@ If it is desired to add a new paragraph to the General Conditions, the thought m
 
  **d. include expenses incurred in the repair or replacement of any insured property (including but not limited to fees and charges of engineers and architects);
 
- **e. cover materials and equipment stored at the Site or at another location that was agreed to in writing by Owner prior to being incorporated in the Work, provided that such materials and equipment have been included in an Application for Payment recommended by Engineer;** 
-
+ **e. cover materials and equipment stored at the Site or at another location that was agreed to in writing by Owner prior to being incorporated in the Work, provided that such materials and equipment have been included in an Application for Payment recommended by Engineer;*
  **f. allow for partial utilization of the Work by Owner;
 
  **g. include testing and startup; and
@@ -593,7 +587,7 @@ If it is desired to add a new paragraph to the General Conditions, the thought m
    1. Bear in mind the meaning assigned to the words “Subcontractor” and “Supplier” in GC-1 and see comment under SC-1 above.
    1. Earlier editions of the General Conditions specifically permitted Owner or Engineer to furnish to Subcontractors, Suppliers or others information as to the amounts paid by Owner on account of Work done. If it is anticipated that Owner or Engineer may want to or in fact will furnish such information, it would be wise to supplement GC-6.06.C through GC-6.06.E by the addition of a subparagraph that might read as follows:
          1. SC-6.06 Add a new paragraph immediately after Paragraph 6.06.G:
-    1. **H. Owner or Engineer may furnish to any Subcontractor or Supplier, to the extent practicable, information about amounts paid to Contractor on account of Work performed for Contractor by a particular Subcontractor or Supplier.
+    1. H. Owner or Engineer may furnish to any Subcontractor or Supplier, to the extent practicable, information about amounts paid to Contractor on account of Work performed for Contractor by a particular Subcontractor or Supplier.
    1. The requirement in respect of waivers contained in GC-6.06.G relates to the subject matter considered under GC-5.07 and SC-5.07. A change in GC-5.07 may also necessitate a change in GC-6.06.G, which should be accomplished in SC-6.06.G.
    1. SC-6.08 Permits
    1. Paragraph GC-6.08 refers specifically to the inclusion in the Supplementary Conditions of possible additional information about obtaining permits and licenses. Use SC-6.08 to modify GC-6.08 when Owner prefers or is required to obtain these permits and to list information known to Owner about permits that will be required. Where there is more than one prime Contractor, the responsibility under GC-6.08 should specifically be assigned to one or more Contractors. All such provisions should be included in SC-6.08.
@@ -616,8 +610,7 @@ If it is desired to add a new paragraph to the General Conditions, the thought m
    1. SC-6.10 Taxes
    1. If Owner qualifies for a state or local sales tax exemption in the purchase of certain materials and equipment, appropriate language in this respect should be prepared by Owner’s attorney and included in SC-6.10. There should also be a cross reference to SC-6.10 in the Instructions or the suggested language of the Instructions should be supplemented as indicated in I-22. Suggested language for SC-6.10 is:
       1. 
-1. SC-6.10 Add a new paragraph immediately after Paragraph 6.10.A:** 
-
+1. SC-6.10 Add a new paragraph immediately after Paragraph 6.10.A:*
  **B. Owner is exempt from payment of sales and compensating use taxes of the [State] and of cities and counties thereof on all materials to be incorporated into the Work.
 
  **1. Owner will furnish the required certificates of tax exemption to Contractor for use in the purchase of supplies and materials to be incorporated into the Work.
@@ -632,7 +625,7 @@ If it is desired to add a new paragraph to the General Conditions, the thought m
    1. At times a review may by agreement be for a narrower purpose than indicated in GC-6.17 (Also see GC-6.21). In addition, some firms, regardless of the extent of the review, are reluctant to “approve” Shop Drawing and Sample submittals (see discussion in the EJCDC User’s Guide and Focus on Shop Drawings, (No. 1910-9C, 1985 Edition). If any wording other than that contained in GC-6.17 is to be used to describe Engineer’s responsibility with respect to Shop Drawing and Sample submittals, it should appear in SC-6.17 as an amendment of GC-6.17 (also see GC-6.21). The language of GC-6.17 is closely coordinated with the description of Engineer’s duties in EJCDC’s Owner-Engineer Agreement, and a change in one will probably necessitate a change in the other.
    1. Reviews of multiple resubmissions of shop drawings and other submittals may use an inordinate amount of Engineer’s budget. To mitigate this, the following language may be used:
          1. SC-6.17 Add the following new paragraphs immediately after Paragraph 6.17.E:
-    1. **F. Contractor shall furnish required submittals with sufficient information and accuracy in order to obtain required approval of an item with no more than three submittals. Engineer will record Engineer’s time for reviewing subsequent submittals of Shop Drawings, samples or other items requiring approval and Contractor shall reimburse Owner for Engineer’s charges for such time.
+    1. F. Contractor shall furnish required submittals with sufficient information and accuracy in order to obtain required approval of an item with no more than three submittals. Engineer will record Engineer’s time for reviewing subsequent submittals of Shop Drawings, samples or other items requiring approval and Contractor shall reimburse Owner for Engineer’s charges for such time.
 
  **G. In the event that Contractor requests a substitution for a previously approved item, Contractor shall reimburse Owner for Engineer’s charges for such time unless the need for such substitution is beyond the control of Contractor.
    1. SC-6.20 Indemnification
@@ -691,8 +684,8 @@ SC-9 Engineer’s Status During Construction
       1. 1) to give all Bidders a uniform basis for planning their work, and 2) to provide a uniform basis for the comparison of Bids. Variations between the estimated and the actual quantities encountered during the Work can be expected and are unavoidable. GC-11.03.D provides for adjustment in unit prices when the actual quantity of the Work performed “differs materially and significantly from the estimated quantity.” This paragraph recognizes that engineering judgment must be used in administering the construction contract. In some cases, an overrun or underrun in the quantity of a unit price item can have a significant impact on the Contractor.
    1. Because of the difficulty in reaching agreement after the fact on what may be “material and significant,” some Engineers and Owners prefer to provide in the Contract Documents that reevaluation of a unit price will be made if the quantity actually encountered varies by more than a fixed percentage (usually somewhere between 15 and 25 percent) from the estimate. Some Engineers and Owners also prefer to limit the reevaluation of unit prices to items that have a significant value in relation to the total Contract Price (such values may range from 5 to 10 percent). To provide for such reevaluations, the following paragraph may be used:
          1. SC-11.03.D Delete Paragraph 11.03.D in its entirety and insert the following in its place:
-    1. **C. The unit price of an item of Unit Price Work shall be subject to reevaluation and adjustment under the following conditions:
-    1. **1. if the Bid price of a particular item of Unit Price Work amounts to**  **percent or more of the Contract Price and the variation in the quantity of that particular item of Unit Price Work performed by Contractor differs by more than**  **percent from the estimated quantity of such item indicated in the Agreement; and
+    1. C. The unit price of an item of Unit Price Work shall be subject to reevaluation and adjustment under the following conditions:
+    1. 1. if the Bid price of a particular item of Unit Price Work amounts to**  **percent or more of the Contract Price and the variation in the quantity of that particular item of Unit Price Work performed by Contractor differs by more than**  **percent from the estimated quantity of such item indicated in the Agreement; and
 
  **2. if there is no corresponding adjustment with respect to any other item of Work; and
 

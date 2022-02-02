@@ -7,10 +7,9 @@ subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Conveying', 'Equipment', 'Hydraulic', 'Freight', 'Elevators']
 ---
 
-
 ## General
 
-   1. SUMMARY
+1. SUMMARY
    1. Section includes:
       1. Hydraulic pre-engineered freight elevators as shown and specified. Elevator work includes:
       1. Commercial, pre-engineered hydraulic freight elevators.
@@ -40,7 +39,7 @@ tags: ['Facility', 'Construction', 'Conveying', 'Equipment', 'Hydraulic', 'Freig
    1. REFERENCES
    1. Safety Code for Elevators and Escalators (ANSI/ASME a17.1).
    1. National Electrical Code (NFPA 70).
-   1. SUBMITTALS
+1. SUBMITTALS
    1. Product data:
       1. submit product data for the following in accordance with Division 1 requirements.
    1. Elevator car enclosures and hoistway entrances.
@@ -56,7 +55,7 @@ tags: ['Facility', 'Construction', 'Conveying', 'Equipment', 'Hydraulic', 'Freig
    1. Operation and maintenance data. Include the following:
       1. Operation and maintenance instructions.
    1. Parts list, with recommended parts inventory.
-   1. QUALITY ASSURANCE
+1. QUALITY ASSURANCE
    1. Manufacturer Qualifications:
       1. An approved manufacturer regularly engaged in manufacturing, installing, and servicing elevators of the type required for the project.
    1. The manufacturer of the machine, controller, signal fixtures, door operators cab, entrances, and all other major parts of the elevator operating equipment.
@@ -78,7 +77,7 @@ tags: ['Facility', 'Construction', 'Conveying', 'Equipment', 'Hydraulic', 'Freig
    1. DELIVERY, STORAGE AND HANDLING
    1. Deliver elevator materials, components and equipment in manufacturer's protective packaging.
    1. Store materials in a dry protected area provided by others. Protect and handle materials in accordance with manufacturer's recommendations to prevent damage, soiling, or deterioration.
-   1. PROJECT CONDITIONS
+1. PROJECT CONDITIONS
    1. Restricted Use:
       1. Freight elevator shall not be used for any purpose during the construction period before Substantial Completion.
    1. Painting:
@@ -87,7 +86,7 @@ tags: ['Facility', 'Construction', 'Conveying', 'Equipment', 'Hydraulic', 'Freig
    1. Provide the hole for the jack unit if required by the type of jack provided, based on excavation through normal soil or clay, which can be removed by manual digging or by standard truck-mounted regular drilling unit. Provide a casing if required to retain the walls of the hole. General contractor shall remove excavation spoils deposited in the elevator pit.
    1. If a physical obstruction or hindrance is encountered below the ground surface, including boulders, rock, gravel, wood, metal, pilings, sand, water, quick sand, caves, public utilities or any other foreign material, obtain written authorization to proceed with excavating using special excavation equipment.
    1. Maintain a daily log of time and material costs involved.
-   1. WARRANTY
+1. WARRANTY
    1. Warranty:
       1. Submit elevator manufacturer's standard written warranty agreeing to repair, restore or replace defects in elevator work materials and workmanship not due to ordinary wear and tear or improper use or care for 12 months from date of Substantial Completion.
    1. MAINTENANCE
@@ -95,7 +94,9 @@ tags: ['Facility', 'Construction', 'Conveying', 'Equipment', 'Hydraulic', 'Freig
    1. Maintenance work, including 24 hour-per-day, 7 day-per-week emergency call back repair service, shall be performed by trained employees of the elevator contractor.
    1. Submit parts catalog and show evidence of local parts inventory with complete list of recommended spare parts. Parts shall be produced by manufacturer of original equipment.
    1. Manufacturer shall have a service office and full time service personnel within a 50 mile radius of the project site.
-   1. PRODUCTS
+
+## PRODUCTS
+
    1. MANUFACTURERS
    1. Manufacturer:
       1. Specification is based on Thyssen Krupp Elevator, Memphis, TN, “Oildraulic” pre-engineered freight elevator. Equal products as manufactured by one of the following are acceptable:
@@ -126,8 +127,7 @@ tags: ['Facility', 'Construction', 'Conveying', 'Equipment', 'Hydraulic', 'Freig
       1. ASTM B 151 extrusions, alloy UNS No. C74500, polished finish.
    1. DESCRIPTION OF EQUIPMENT
 
-## General
-
+General
  Description:
       1. Control:
          1. Oildraulic
@@ -221,11 +221,13 @@ tags: ['Facility', 'Construction', 'Conveying', 'Equipment', 'Hydraulic', 'Freig
       1. Each hoistway door and car gate shall be equipped with an individual electric operator. the operators shall open and close the car gate and hoistway doors at a panel speed of not less than one foot per second without slamming. Limit switches shall be provided to stop the motors as the doors approach their limit of travel in opening. Provisions shall be made for manual operation of the doors from the car in the event of power failure. The door operators shall be arranged to open the door automatically after the car enters the automatic leveling zone at the designated landing. "Open" and "close" operating buttons and any additional devices required shall be provided in the car and at each hoistway entrance. Constant pressure on the "close button" shall close the door. Momentary pressure on the "open button" shall reopen the door, provided the car is at a landing. The electric operators will be of the highest quality, quiet and smooth in operation with all parts designed and constructed to meet the severe requirements of elevator service. Gates shall be provided with reversing edge and passenger sequence operation.
    1. INTERLOCKS:
       1. Each hoistway entrance shall be equipped with an approved type interlock tested as required by Code. The interlock shall be designed to prevent operation of the car away from the landing until the doors are locked in the closed position as defined by Code and shall prevent opening the doors at any landing from the corridor side unless the car is at rest at the landing or is in the leveling zone and stopping at that landing. Interlocks shall be Underwriters' Laboratories "B" label for approval.
-   1. EXECUTION
-   1. EXAMINATION
+
+## Execution
+
+1. EXAMINATION
    1. Before starting elevator installation, inspect hoistway, hoistway openings, pits and machine rooms, as constructed, verify all critical dimensions, and examine supporting structures and all other conditions under which elevator work is to be installed. Do not proceed with elevator installation until unsatisfactory conditions have been corrected in a manner acceptable to the installer.
    1. Installation constitutes acceptance of existing conditions and responsibility for satisfactory performance.
-   1. INSTALLATION
+1. INSTALLATION
    1. Install elevator systems components and coordinate installation of hoistway wall construction.
    1. Work shall be performed by competent elevator installation personnel in accordance with ASME A17.1, manufacturer's installation instructions and approved shop drawings.
    1. Comply with the National Electrical Code for electrical work required during installation.
@@ -261,5 +263,4 @@ tags: ['Facility', 'Construction', 'Conveying', 'Equipment', 'Hydraulic', 'Freig
    1. DEMONSTRATION
    1. Instruct Owner's personnel in proper use, operations, and daily maintenance of freight elevator. Review emergency provisions, including emergency access and procedures to be followed at time of failure in operation and other building emergencies. Train Owner's personnel in normal procedures to be followed in checking for sources of operational failures or malfunctions.
    1. Make a final check of freight elevator operation, with Owner's personnel present, immediately before date of Substantial Completion. Determine that control systems and operating devices are functioning properly.
-1. END OF SECTIONTHIS PAGE INTENTIONALLY BLANK
 

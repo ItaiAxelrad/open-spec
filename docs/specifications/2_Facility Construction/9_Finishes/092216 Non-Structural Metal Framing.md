@@ -7,7 +7,6 @@ subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Finishes', 'Non-Structural', 'Metal', 'Framing']
 ---
 
-   1. SECTION 092216 - NON-STRUCTURAL METAL FRAMING 
 ## General
 
 1. RELATED DOCUMENTS
@@ -98,50 +97,51 @@ Sections, apply to this Section.
          1. ASTM D 226, Type I (No. 15 asphalt felt), nonperforated.
 2. Foam Gasket:
       1. Adhesive-backed, closed-cell vinyl foam strips that allow fastener penetration without foam displacement, 1/8 inch thick, in width to suit steel stud size.
-   1. Execution
+
+## Execution
+
 1. INSTALLATION, GENERAL
    1. Installation Standard:
       1. ASTM C 754.
-1. Gypsum Board Assemblies:
+2. Gypsum Board Assemblies:
       1. Also comply with requirements in ASTM C 840 that apply to framing installation.
-2. INSTALLING SUSPENSION SYSTEMS
+3. INSTALLING SUSPENSION SYSTEMS
    1. Isolate suspension systems from building structure where they abut or are penetrated by building structure to prevent transfer of loading imposed by structural movement.
-   1. Suspend hangers from building structure as follows:
+   2. Suspend hangers from building structure as follows:
       1. Install hangers plumb and free from contact with insulation or other objects within ceiling plenum that are not part of supporting structural or suspension system.
-      1. Splay hangers only where required to miss obstructions and offset resulting horizontal forces by bracing, countersplaying, or other equally effective means.
-2. Where width of ducts and other construction within ceiling plenum produces hanger spacings that interfere with locations of hangers required to support standard suspension system members, install supplemental suspension members and hangers in the form of trapezes or equivalent devices.
+      2. Splay hangers only where required to miss obstructions and offset resulting horizontal forces by bracing, countersplaying, or other equally effective means.
+4. Where width of ducts and other construction within ceiling plenum produces hanger spacings that interfere with locations of hangers required to support standard suspension system members, install supplemental suspension members and hangers in the form of trapezes or equivalent devices.
       1. Size supplemental suspension members and hangers to support ceiling loads within performance limits established by referenced installation standards.
-3. Do not attach hangers to steel roof deck.
-4. Do not attach hangers to permanent metal forms. Furnish cast-in-place hanger inserts that extend through forms.
-5. Do not attach hangers to rolled-in hanger tabs of composite steel floor deck.
-6. Do not connect or suspend steel framing from ducts, pipes, or conduit. C. Fire-Resistance-Rated Assemblies:
+5. Do not attach hangers to steel roof deck.
+6. Do not attach hangers to permanent metal forms. Furnish cast-in-place hanger inserts that extend through forms.
+7. Do not attach hangers to rolled-in hanger tabs of composite steel floor deck.
+8. Do not connect or suspend steel framing from ducts, pipes, or conduit. C. Fire-Resistance-Rated Assemblies:
       1. Wire tie furring channels to supports.
    1. Seismic Bracing:
       1. Sway-brace suspension systems with hangers used for support.
-   1. Grid Suspension Systems:
+   2. Grid Suspension Systems:
       1. Attach perimeter wall track or angle where grid suspension systems meet vertical surfaces. Mechanically join main beam and cross-furring members to each other and butt-cut to fit into wall track.
-   1. Installation Tolerances:
+   3. Installation Tolerances:
       1. Install suspension systems that are level to within 1/8 inch in 12 feet measured lengthwise on each member that will receive finishes and transversely between parallel members that will receive finishes.
-3. INSTALLING FRAMED ASSEMBLIES
+9. INSTALLING FRAMED ASSEMBLIES
    1. Where studs are installed directly against exterior masonry walls or dissimilar metals at exterior walls, install isolation strip between studs and exterior wall.
-   1. Install tracks (runners) at floors and overhead supports. Extend framing full height to structural supports or substrates above suspended ceilings, except where partitions are indicated to terminate at suspended ceilings. Continue framing around ducts penetrating partitions above ceiling.
-1. Slip-Type Head Joints:
+   2. Install tracks (runners) at floors and overhead supports. Extend framing full height to structural supports or substrates above suspended ceilings, except where partitions are indicated to terminate at suspended ceilings. Continue framing around ducts penetrating partitions above ceiling.
+10. Slip-Type Head Joints:
       1. Where framing extends to overhead structural supports, install to produce joints at tops of framing systems that prevent axial loading of finished assemblies.
-2. Door Openings:
+11. Door Openings:
       1. Screw vertical studs at jambs to jamb anchor clips on door frames;
-   1. install runner track section (for cripple studs) at head and secure to jamb studs.
+   3. install runner track section (for cripple studs) at head and secure to jamb studs.
       1. Install two studs at each jamb, unless otherwise indicated.
-      1. Install cripple studs at head adjacent to each jamb stud, with a minimum 1/2-inch clearance from jamb stud to allow for installation of control joint in finished assembly.
-      1. Extend jamb studs through suspended ceilings and attach to underside of overhead structure.
-3. Other Framed Openings:
+      2. Install cripple studs at head adjacent to each jamb stud, with a minimum 1/2-inch clearance from jamb stud to allow for installation of control joint in finished assembly.
+      3. Extend jamb studs through suspended ceilings and attach to underside of overhead structure.
+12. Other Framed Openings:
       1. Frame openings other than door openings the same as required for door openings, unless otherwise indicated. Install framing below sills of openings to match framing required above door heads.
-4. Fire-Resistance-Rated Partitions:
+13. Fire-Resistance-Rated Partitions:
       1. Install framing to comply with fire-resistance-rated assembly indicated and support closures and to make partitions continuous from floor to underside of solid structure.
-      1. Firestop Track:
+      2. Firestop Track:
          1. Where indicated, install to maintain continuity of fire-resistance- rated assembly indicated.
-   1. Direct Furring:
+   4. Direct Furring:
       1. Attach to concrete or masonry with stub nails, screws designed for masonry attachment, or powder-driven fasteners spaced 24 inches o.c.
-   1. Installation Tolerance:
+   5. Installation Tolerance:
       1. Install each framing member so fastening surfaces vary not more than
-1/8 inch from the plane formed by faces of adjacent framing. END OF SECTION 092216
-
+1/8 inch from the plane formed by faces of adjacent framing.

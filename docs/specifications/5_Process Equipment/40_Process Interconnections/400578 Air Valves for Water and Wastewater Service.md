@@ -4,10 +4,10 @@ section: '400578'
 divNumb: 40
 divName: Process Interconnections
 subgroup: Process Equipment
-tags: ['Process', 'Equipment', 'Interconnections', 'Air', 'Valves', 'for', 'Water', 'Wastewater', 'Service']
+tags: ['Process', 'Equipment', 'Interconnections', 'Air', 'Valves', 'Water', 'Wastewater', 'Service']
 ---
 
-1. SECTION 15108
+
 1. COMBINATION AIR VALVES FOR WATER
 1. 
 ## General
@@ -48,8 +48,7 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Air', 'Valves', 'for', 'Wate
 2. Air release valves and air and vacuum valves shall comply with AWWA C512 except as modified herein.
 3. Release valves and air and vacuum valves shall be the single-body type incorporating stainless steel internal components and suction screen. National Pipe Threaded (NPT) inlet and outlet configurations.
 4. Epoxy linings and coatings for valves shall be provided in accordance with AWWA C550. 
-	* 
-		1. Liquid epoxy lining and coating materials shall be listed in the NSF Listing for Drinking Water Additives, Standard 61, certified for use in contact with potable water.
+			1. Liquid epoxy lining and coating materials shall be listed in the NSF Listing for Drinking Water Additives, Standard 61, certified for use in contact with potable water.
 		2. The minimum dry film thickness for epoxy linings shall be 0.008” or 8 mils. Liquid epoxy lining shall be applied in two (2) coats in accordance with AWWA C210.
    1. Refer to Approved Materials List
 1. 2.03 MANUAL AIR VALVES
@@ -85,9 +84,8 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Air', 'Valves', 'for', 'Wate
 1. 3.06 HYDROSTATIC TESTING
    1. Air valve assemblies shall be hydrostatically tested in accordance with Section 15044 in conjunction with the pipeline to which they are connected.
 
-* 
-	1. **FIELD PAINTING AND COATINGS
+	1. FIELD PAINTING AND COATINGS
    1. Air valve assemblies shall be color coded, if required, in accordance with Section 09910. 
 2. Field repairs to the enclosure shall not be permitted. Enclosures requiring repairs to the coating shall be returned to the supplier or coating vendor for repairs or recoating in accordance with Section 09910.
-1. END OF SECTION
+
 

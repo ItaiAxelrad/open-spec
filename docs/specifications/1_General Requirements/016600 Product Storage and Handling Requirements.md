@@ -12,16 +12,14 @@ tags: ['General', 'Requirements', 'Product', 'Storage', 'Handling']
 
 ## General
 
-
-* 
-	1. **Summary
+1. SUMMARY
    1. Section Includes:
 	1. Scheduling of product delivery.
 	2. Packaging of products for delivery.
 	3. Protection of products against damage from:
 		1. Handling.
 		2. Exposure to elements or harsh environments.
-	4. **Delivery
+	4. Delivery
 2. Scheduling:
       1. Schedule delivery of products or equipment as required to allow timely installation and to avoid prolonged storage.
 3. Packaging:
@@ -30,7 +28,10 @@ tags: ['General', 'Requirements', 'Product', 'Storage', 'Handling']
       1. Clearly and fully mark and identify as to manufacturer, item, and installation location.
 5. Protection and Handling:
       1. Provide manufacturer's instructions for storage and handling.
-   ## Product (Not Used)
+
+## Product 
+
+ (Not Used)
 
 
 ## Execution

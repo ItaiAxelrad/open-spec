@@ -7,14 +7,13 @@ subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Openings', 'Tubular', 'Skylights']
 ---
 
-
 ## General
 
-   1. WORK INCLUDED
+1. WORK INCLUDED
    1. Provide all labor, materials, tools, and services to install tubular skylight system and related components as shown on drawings and specified herein.
    1. Related Sections:
       1. Division 7, Roofing- integration of flashing with roofing.
-   1. REFERENCES
+1. REFERENCES
    1. ASTM B209- Specification for Aluminum and Aluminum Alloy Sheet and Plate.
    1. ASTM D635- Test Method for Rate of Burning and/or Extent and Time of Burning of Self- Supporting Plastics in a Horizontal Position.
    1. ASTM D1929- Test Method for Ignition Temperature of Plastics.
@@ -23,7 +22,7 @@ tags: ['Facility', 'Construction', 'Openings', 'Tubular', 'Skylights']
    1. ASTM E331- Test Method for Water Penetration of Exterior Windows, Skylights, Curtain walls and Doors by Uniform Static Air Pressure Difference.
    1. UL 181- Factory Made Air Ducts and Connectors.
    1. UL 746C- Polymeric Materials Used in Electrical Equipment Evaluation.
-   1. QUALITY ASSURANCE
+1. QUALITY ASSURANCE
 
 ## General
 
@@ -44,7 +43,7 @@ tags: ['Facility', 'Construction', 'Openings', 'Tubular', 'Skylights']
    1. Uniform Load Structural Test
    1. Unit to be tested at 3x positive wind pressure and 2x negative wind pressure, acting normal to plane of roof in accordance with ASTM E330.
    1. No breakage, permanent damage to fasteners, hardware parts, or damage to make tubular skylight inoperable or permanent deflection of any section in excess of 0.2 % of its span.
-   1. SUBMITTALS
+1. SUBMITTALS
    1. Shop Drawings/Samples
    1. Shop drawings complete and full scale (where practical) showing construction of all components, dimensions and details.
    1. Samples of product as requested by the Architect.
@@ -85,9 +84,8 @@ tags: ['Facility', 'Construction', 'Openings', 'Tubular', 'Skylights']
    1. Fabricate to allow for thermal movement of materials when subject to a temperature differential from- 30 degrees F to +180 degrees F.
    1. Provision shall be made to insure that water will not accumulate and remain in contact within system components.
    1. PART 3- EXECUTION
-   1. INSTALLATION
+1. INSTALLATION
    1. Install tubular skylights in accordance with manufacturer’s printed installation instructions.
    1. Installer to be factory trained and/or certified by the manufacturer prior to commencement of installation.
    1. After installation of first unit-conduct field check to determine compliance with specified requirements. Water test in presence of Owners Representative. Correct any deficiencies prior to commencing with subsequent units.
-1. End of SectionTHIS PAGE INTENTIONALLY BLANK
 

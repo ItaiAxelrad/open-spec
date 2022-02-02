@@ -7,14 +7,9 @@ subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Metals', 'Metal', 'Fabrication']
 ---
 
-   1. Section 05 50 00
-   1. metal fabrications
-
 ## General
 
-
-* 
-	1. **Summary
+1. SUMMARY
    1. Work under this section shall include:
 	1. Custom fabricated metal items and certain manufactured units.
 	2. Design of all temporary bracing not indicated on Drawings.
@@ -23,7 +18,7 @@ tags: ['Facility', 'Construction', 'Metals', 'Metal', 'Fabrication']
 	1. Division 03 – Concrete
 	2. Section 03 31 00 – Concrete Materials and Proportioning 
 	3. Section 09 90 00 – Painting and Protective Coatings
-	4. **Quality Assurance
+	4. Quality Assurance
 3. Work shall be per:
 	1. Aluminum Association (AA).
 	2. American Association of State Highway and Transportation Officials (AASHTO).
@@ -43,7 +38,7 @@ tags: ['Facility', 'Construction', 'Metals', 'Metal', 'Fabrication']
 	3. Engineer for contractor-designed systems and components: Professional structural engineer licensed in the State of Colorado.
 	4. NACE certified inspector shall have minimum of two (2) years experience performing inspections as indicated.
 		1. Have a current Level III coating inspector certification.
-	5. **Definitions
+	5. Definitions
 5. Fasteners:
       1. As defined in ASTM F1789.
 6. Galvanizing:
@@ -52,7 +47,7 @@ tags: ['Facility', 'Construction', 'Metals', 'Metal', 'Fabrication']
       1. As defined in ASTM A153/A153M.
 8. Installer or Applicator:
 	1. Installer or applicator is the person actually installing or applying the product in the field at the Site.
-	2. **Submittals
+	2. Submittals
 9. Shop Drawings shall include:
 	1. Fabrication and/or layout drawings and details:
 		1. Submit drawings for all fabrications and assemblies including erection drawings, plans, sections, details, and connection details. 
@@ -60,13 +55,12 @@ tags: ['Facility', 'Construction', 'Metals', 'Metal', 'Fabrication']
 	2. Product technical data including manufacturer’s installation instructions and standard allowable load tables. 
 	3. Contractor designed systems and components including but not limited to stairs, landings and ladders:
 		1. Certification that manufactured units meet all design loads specified.
-	4. **Delivery, Storage, and Handling
+	4. Delivery, Storage, and Handling
 10. Deliver and handle fabrications to avoid damage.
 11. Store above ground on skids or other supports to keep items free of dirt and other foreign debris and to protect against corrosion. 
-   ## Product
+## Product
 
-* 
-	1. **Materials
+	1. Materials
    1. Steel:
 	1. Structural:
 		1. W-shapes 1 and WT-shapes: ASTM A992, Grade 50.
@@ -122,7 +116,7 @@ tags: ['Facility', 'Construction', 'Metals', 'Metal', 'Fabrication']
 	2. ASTM A780.
 	3. Zinc content: Minimum 92 percent in dry film.
 	4. ZRC "ZRC Cold Galvanizing" or Clearco "High Performance Zinc Spray."
-	5. **Manufactured Units
+	5. Manufactured Units
 12. Crossover and landing platforms:
 	1. Materials:
 		1. Carbon Steel:

@@ -28,10 +28,7 @@ tags: ['Facility', 'Services', 'Electrical', 'Exterior', 'Lighting']
    1. Wind Load:
       1. Pressure of wind on pole and luminaire(s),shall be rated for 100 mile per hour wind and 1.3 gust factor.
 5. SUBMITTALS
-
-## General
-
-:
+	1. General:
       1. Submit each item in this Article according to the Conditions of the Contract and Division 1 Specification Sections. Any submitted fixture that differs in any manner from that scheduled or specified must be marked “exception”. Clearly indicate exact differences and include all manufacturers data as indicated. Show associated cost credit to Contracting Officer. Complete working fixture samples shall be provided equipped with a 120-volt cord and plug for any proposed substitution upon request of the Contracting Officer. Provide electronic copy of any independent laboratory tested IES photometric file for Contracting Officer used in verifying that substituted fixture meets the specifications.
    1. Product Data:
       1. For each type of lighting unit indicated, arranged in order of lighting unit designation. Include data on features, accessories, finishes, and the following:
@@ -214,7 +211,9 @@ tags: ['Facility', 'Services', 'Electrical', 'Exterior', 'Lighting']
       1. [Insert material.]
 3. Ladder Rests:
       1. [Insert material.]
-   1. Execution
+
+## Execution
+
 1. INSTALLATION
    1. Concrete Foundations:
       1. Construct according to Division 3 sections of the Specifications.
@@ -258,6 +257,5 @@ tags: ['Facility', 'Services', 'Electrical', 'Exterior', 'Lighting']
 5. CLEANING AND ADJUSTING
    1. Clean units after installation. Use methods and materials recommended by manufacturer.
    1. As directed by Contracting Officer, adjust aimable fixtures to provide required light intensities. Provide all necessary personnel, lifts, and ladders to make adjustments. Inform Contracting Officer at least two weeks in advance of time when fixtures will be ready for aiming.
-1. END OF SECTION 265600
 1. (THIS PAGE INTENTIONALLY BLANK)
 

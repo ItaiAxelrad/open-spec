@@ -15,10 +15,7 @@ tags: ['Facility', 'Services', 'Electrical', 'Lighting', 'Control', 'Devices']
 2. SUMMARY
    1. This Section includes time switches, photoelectric relays, occupancy sensors, and multiple lighting relays and contactors.
 3. SUBMITTALS
-
-## General
-
-:
+	1. General:
       1. Submit each item in this Article according to the Conditions of the Contract and Division 1 specification sections. Any submitted device that differs in any manner from that specified must be marked "exception." Clearly indicate exact differences and include all manufacturers data as indicated.
    1. Product data including device operation, warranty period, wiring diagram(s), dimensions, materials, and finishes.
    1. Samples:
@@ -184,5 +181,4 @@ tags: ['Facility', 'Services', 'Electrical', 'Lighting', 'Control', 'Devices']
 7. ON-SITE ASSISTANCE
    1. Occupancy Adjustments:
       1. Within one year of date of Substantial Completion, provide up to three Project site visits, when requested, to adjust light levels, make program changes, and adjust sensors and controls to suit actual conditions.
-1. END OF SECTION 260923
 

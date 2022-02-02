@@ -4,7 +4,7 @@ section: '220523'
 divNumb: 22
 divName: Plumbing
 subgroup: Facility Services
-tags: ['Facility', 'Services', 'Plumbing', 'General-Duty', 'Valves', 'for', 'Piping']
+tags: ['Facility', 'Services', 'Plumbing', 'General-Duty', 'Valves', 'Piping']
 ---
 
 
@@ -55,8 +55,7 @@ tags: ['Facility', 'Services', 'Plumbing', 'General-Duty', 'Valves', 'for', 'Pip
       1. Polytetrafluoroethylene plastic.
    1. TFE:
       1. Tetrafluoroethylene plastic.
-1. SUBMITTALS** 
-   1. Follow procedures specified in Division 1 sections of the Specifications.
+1. SUBMITTALS*   1. Follow procedures specified in Division 1 sections of the Specifications.
    1. Product Data:
       1. For each type of valve indicated. Include body, seating, and trim materials; valve design; pressure and temperature classifications; end connections; arrangement; dimensions; and required clearances. Include list indicating valve and its application. Include rated capacities; shipping, installed, and operating weights; furnished specialties; and accessories.
 1. QUALITY ASSURANCE
@@ -200,8 +199,7 @@ tags: ['Facility', 'Services', 'Plumbing', 'General-Duty', 'Valves', 'for', 'Pip
    1. 716,779
    1. NIBCO
    1. F910/960
-1. DEIONIZED WATER** 
-   1. PP Valves (Max. Operating Conditions:
+1. DEIONIZED WATER*   1. PP Valves (Max. Operating Conditions:
       1. 140 Deg. F  60 psi)
    1. Ball Valves – NPS 2 and Smaller
    1. 150 lb.; PP true union; lever handle; PTFE seats, viton seals; socket end connectors.
@@ -235,8 +233,7 @@ tags: ['Facility', 'Services', 'Plumbing', 'General-Duty', 'Valves', 'for', 'Pip
    1. S62TBV Seies
    1. George Fischer
 370..Series
-1. Natural Gas** 
-   1. NPS 2 and smaller:
+1. Natural Gas*   1. NPS 2 and smaller:
       1. class 175; semi-steel body; semi-steel, lubricated plug; wrench operated with locking device; screwed end. 
    1. Homestead
    1. 611
@@ -312,8 +309,7 @@ tags: ['Facility', 'Services', 'Plumbing', 'General-Duty', 'Valves', 'for', 'Pip
    1. See Division 22 related sections of the Specifications.
 1. ADJUSTING
    1. Adjust or replace valve packing after piping systems have been tested and put into service but before final adjusting and balancing. Replace valves if persistent leaking occurs.
-1. VALVE INSTALLATION** 
-
+1. VALVE INSTALLATION*
 ## General
 
 
@@ -337,5 +333,4 @@ tags: ['Facility', 'Services', 'Plumbing', 'General-Duty', 'Valves', 'for', 'Pip
    1. Cast copper solder male adapter or union to screwed valves. 
    1. Copper solder joint companion flange unit.
    1. Solder joint valve substitutions for valves specified are not permitted. 
-1. END OF SECTION 220523
 

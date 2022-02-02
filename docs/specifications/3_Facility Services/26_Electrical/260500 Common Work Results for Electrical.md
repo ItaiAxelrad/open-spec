@@ -4,7 +4,7 @@ section: '260500'
 divNumb: 26
 divName: Electrical
 subgroup: Facility Services
-tags: ['Facility', 'Services', 'Electrical', 'Common', 'Work', 'Results', 'for']
+tags: ['Facility', 'Services', 'Electrical', 'Common', 'Work', 'Results']
 ---
 
 
@@ -17,8 +17,7 @@ tags: ['Facility', 'Services', 'Electrical', 'Common', 'Work', 'Results', 'for']
    1. Design Intent:
       1. The Contract documents indicate and specify the electrical design intent. The Contract drawings are schematic and diagrammatic and are not intended to indicate construction details and routing unless specifically indicated. The specifications establish minimum performance, product and installation requirements. 
    1. In addition to the specified and indicated performance and quality requirements, furnish products and perform installation work consistent with the design intent and necessary to the provision of complete operating electrical systems. 
-1. REFERENCES** 
-   1. American National Standards Institute (ANSI):
+1. REFERENCES*   1. American National Standards Institute (ANSI):
       1. C2 - National Electrical Safety Code. 
    1. National Electrical Contractors Association (NECA):
       1. 
@@ -29,8 +28,7 @@ tags: ['Facility', 'Services', 'Electrical', 'Common', 'Work', 'Results', 'for']
    1. 500 - Recommended Practice for Installing Indoor Commercial Lighting Systems. 
    1. National Fire Protection Association (NFPA):
       1. 70 - National Electrical Code. 
-1. SYSTEM DESCRIPTION** 
-   1. Fault Current Analysis and Protective Device Coordination:
+1. SYSTEM DESCRIPTION*   1. Fault Current Analysis and Protective Device Coordination:
       1. 
    1. The Engineer has preformed Fault Current Analysis and Protective Device Coordination in the course of design. The Contractor shall perform a complete fault current analysis, using parameters of the electrical equipment and data from the manufacturer being proposed. The purpose is to verify that equipment ratings are adequate for their fault duty.
    1. Perform a complete fault current analysis under the supervision of, and certified by, a registered professional engineer.
@@ -51,11 +49,7 @@ tags: ['Facility', 'Services', 'Electrical', 'Common', 'Work', 'Results', 'for']
    1. Maximum allowable tension and pressure limits as recommended by cable manufacturer.
    1. Identify cable size, cable type, method of grip, and all assumptions and factors used in the calculations for each feeder.
    1. Identify feeders in a manner consistent with contract documents.
-1. SUBMITTALS** 
-
-## General
-
-:
+1. SUBMITTALS*	1. General:
       1. Submit information substantiating that the products comply with the Contract requirements. 
    1. Submit Shop Drawings, Product Data, Samples and other specified submittals on a "system" basis. Retain, and assemble drawings and data from manufacturer or component manufacturers such that each submittal is for a complete system. 
    1. Refer to submittal requirements in related Division 1 sections of the Specifications. 
@@ -80,15 +74,13 @@ tags: ['Facility', 'Services', 'Electrical', 'Common', 'Work', 'Results', 'for']
    1. Layout, cabling and circuiting of site electrical systems such as underground duct banks, and site lighting fixtures. Include system and cable identification of communication systems such as telephone, data, fiber optic, fire alarm, security system and other cabling systems.
    1. Panel schedule drawings consisting of each panelboard, motor control center, bus duct, switchboard, switchgear, automatic transfer switch and substation. Schedules shall indicate the “as built” circuiting with loads and room numbers identified. Room numbers on schedules shall include the architectural room number indicated on the Drawings and the signage room numbers from the signage schedules.
    1. Power one-line diagrams shall be provided in a plastic, framed enclosure and mounted in the rooms housing the electrical switchboards.
-1. Quality Assurance** 
-   1. Regulatory Requirements:
+1. Quality Assurance*   1. Regulatory Requirements:
       1. 
    1. Comply with the applicable requirements of ANSI C2 and NFPA 70. 
    1. Requirements of ANSI C2 and NFPA 70 shall be minimum standards of products and installation work. Furnish products and perform installation work which exceeds the standards of ANSI C2 and NFPA 70 when specified or indicated. 
    1. Comply with applicable requirements of city, county, and state laws, ordinances and regulations including modifications and supplements to ANSI C2 and NFPA 70. 
    1. Comply with the applicable requirements of U.S. Department of Labor, Occupational Safety and Health Administration Standards (OSHA). 
-1. Project/Site Conditions** 
-   1. Environmental Requirements:
+1. Project/Site Conditions*   1. Environmental Requirements:
       1. Provide products suitable for operation under the following environmental conditions:
       1. 
    1. Temperature:
@@ -101,11 +93,7 @@ tags: ['Facility', 'Services', 'Electrical', 'Common', 'Work', 'Results', 'for']
       1. Seismic Zone 1, IBC Site Classification “C”. 
 1. warranties
    1. Refer to the Conditions of the Contract for provisions concerning Contract general warranty, Statements of Compliance, correction of Work period, and form of Special Warranty. 
-1. Maintenance** 
-
-## General
-
-:
+1. Maintenance*	1. General:
       1. Retain portable and detachable portions of the installation such as tools, tool kits, instruction books, wiring diagrams, service manuals, operating handles and keys until the completion of work. 
    1. Transmit the above items to the Owner when the work has been accepted and an itemized receipt obtained. 
    1. Operations and Maintenance Manuals:
@@ -118,18 +106,13 @@ tags: ['Facility', 'Services', 'Electrical', 'Common', 'Work', 'Results', 'for']
    1. Provide wiring diagrams, instruction books, installation books, and service manuals to the Owner. Clearly identify each item as to which product it applies and the equipment location. 
    1. Provide special tools as specified and required for equipment maintenance to the Owner. Clearly identify each item as to which piece of equipment it applies and the equipment location. 
 1. PRODUCTS
-1. Manufacturers** 
-
-## General
-
-:
+1. Manufacturers*	1. General:
       1. Furnish products by one of the equipment manufacturers listed under the heading "Manufacturers" within the applicable sections. When given, furnish the specified product model or brand for the selected manufacturer. 
    1. Provide products, for which quantities of two or more are to be furnished, from the same manufacturer and of the same product or model series. 
    1. Furnish product components designed to be used together and which are physically and electrically compatible. 
    1. Product Substitutions:
       1. Product substitutions may be requested when the "or as approved" clause is specified under the heading "Manufacturers". Submit product substitutions for approval per related Division 1 sections of the Specifications. 
-1. Products** 
-   1. Product Listing and Labeling:
+1. Products*   1. Product Listing and Labeling:
       1. Provide listed and labeled product for which listings and labelings exist by Underwriters Laboratories Inc. (UL), Factory Mutual (FM), or similar independent testing organizations recognized by the authorities having jurisdiction. For products for which there are no such listings and labelings, provide listed and labeled components of those products, for which component listing and labelings exist.
    1. PCB Content Prohibited:
       1. Provide products which do not contain any amounts of polychlorinated biphenyl (PCB) compounds. 
@@ -137,8 +120,7 @@ tags: ['Facility', 'Services', 'Electrical', 'Common', 'Work', 'Results', 'for']
       1. Provide products which do not contain any amounts of asbestos. 
    1. Firestop Systems:
       1. Provide products suitable for the application as specified in related Division 7 sections of the Specifications.
-1. Source Quality Control** 
-   1. Factory Tests:
+1. Source Quality Control*   1. Factory Tests:
       1. Permit Architect (and Owner) to observe factory tests. Provide minimum five working days notice of factory tests. 
    1. Schedule no more than one equipment or system factory test per week. 
 1. EXECUTION
@@ -207,16 +189,11 @@ tags: ['Facility', 'Services', 'Electrical', 'Common', 'Work', 'Results', 'for']
    1. In a manner satisfactory to the Owner, touch-up or refinish factory-applied paints or finishes which are chipped, defaced, scratched, or in any other way disturbed due to handling, installation, or general construction work. 
    1. Personnel Protection From Suspended Work:
       1. Where suspended equipment, piping or ductwork or any of their supporting or reinforcing members extend 7 feet or less above the floor or any other walking surface, cover all edges, projecting surfaces and sharp corners with pre-fabricated soft rubber pads, elastomeric insulation, caps or equivalent to prevent injury to personnel.
-1. Field Quality Control** 
-   1. Field Tests:
+1. Field Quality Control*   1. Field Tests:
       1. 
    1. Permit Architect (and Owner) to observe field tests. Provide minimum three working days notice of field test. 
    1. Schedule tests in coordination with other Contract work. Schedule no more than one equipment or system field test per day. 
-1. Training** 
-
-## General
-
-:
+1. Training*	1. General:
       1. Provide training for Owner's personnel in the operation and maintenance of equipment as specified in the applicable Section of the Specifications for the particular equipment and system.
    1. Develop training schedule which is acceptable to the Owner. Submit schedule for approval. 
    1. Provide instruction books, manuals, and other classroom material required as part of the training sessions. 
@@ -231,5 +208,4 @@ tags: ['Facility', 'Services', 'Electrical', 'Common', 'Work', 'Results', 'for']
    1. Provide training equal to that given to the respective manufacturer's entry-level repair personnel.
    1. Owner's personnel may take training along with manufacturer's personnel.
    1. Test the Owner's personnel, and certify that those who successfully complete this training may perform routing troubleshooting and repair of equipment without altering or voiding the manufacturer's warranty.
-1. END OF SECTION 260500
 

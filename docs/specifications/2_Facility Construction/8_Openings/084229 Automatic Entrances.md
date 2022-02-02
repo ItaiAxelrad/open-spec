@@ -7,7 +7,7 @@ subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Openings', 'Automatic', 'Entrances']
 ---
 
-   1. SECTION 084229 - AUTOMATIC ENTRANCES 
+
 ## General
 
 1. RELATED DOCUMENTS
@@ -91,10 +91,7 @@ Sections apply to this Section.
 2. Dor-O-Matic; an Ingersoll-Rand Company.
 3. Horton Automatics; Div. of Overhead Door Corporation.
 4. Stanley Access Technologies; Div. of The Stanley Works.
-
-## General
-
-:
+	1. General:
       1. Provide manufacturer's standard automatic entrances including doors, framing, headers, carrier assemblies, roller tracks, door operators, activation and safety devices, and accessories required for a complete installation.
    1. Automatic Entrance Door Systems, General:
       1. Provide manufacturer's standard automatic entrance door system, complete with doors, sidelite and transom framing, operators, controls, activation devices, safety devices, and accessories as indicated. Provide configuration, traffic pattern, emergency breakaway capability, and mounting indicated on Drawings.
@@ -168,12 +165,11 @@ Hardware Group 1.
 3. ALUMINUM FINISHES
    1. Clear Anodic Finish:
       1. AAMA 611, AA-M12C22A41, Class I, 0.018 mm or thicker.
-   1. Execution
+
+## Execution
+
 1. INSTALLATION
-
-## General
-
-:
+	1. General:
       1. Do not install damaged components. Fit frame joints to produce hairline joints free of burrs and distortion. Rigidly secure non-movement joints. Seal joints watertight.
 1. Where aluminum will contact concrete or masonry, protect against corrosion by painting contact surfaces with bituminous paint.
    1. Entrances:

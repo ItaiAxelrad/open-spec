@@ -7,12 +7,12 @@ subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Aggregate', 'Base', 'Courses']
 ---
 
-   1. SECTION 02232
+
    1. AGGREGATE BASE COURSE
 
 ## General
 
-   1. RELATED DOCUMENTS:
+1. RELATED DOCUMENTS:
       1. The General Contract Conditions, Drawings and other Division - 1 Specification sections apply to Work of this section.
    1. WORK INCLUDED:
       1. The work specified herein shall consist of furnishing and placing of Aggregate Base Course and Well Graded Pit Run materials in conformity with the construction plans.
@@ -31,17 +31,21 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Aggregate', 'Base'
       1. Quality Control
    1. Special Provisions:
       1. Geotechnical Investigation
-    1. SUBMITTALS:
+ 1. SUBMITTALS:
        1. An Aggregate Base Course sieve analysis shall be submitted by the Contractor for review by the Testing Engineer and/or Project Engineer prior to delivery to the site,
    1. Prior to proof rolling, a weigh ticket from an approved scale shall be furnished by the Contractor to the Testing Engineer and/or Project Engineer to substantiate the proof roll vehicle weight.
    1. REFERENCE STANDARDS
    1. CDOT Standard Specifications Section 304; Aggregate Base Course.
    1. CDOT Standard Specifications Section 703.03; Aggregate for Bases.
-   1. PRODUCTS
+
+## Products
+
    1. MATERIALS
    1. Aggregate Base Course, where required or indicated in the plans and specifications, shall conform to CDOT Standard Specifications Section 703.03 for Class 6 Aggregate Base Course, except that asphaltic material will not be an allowed aggregate.
    1. Well Graded Pit Run, where required or indicated in the plans and specifications, shall conform to CDOT Standard Specifications Section 703.03 for Class 3 Aggregate Base Course.
-   1. EXECUTION
+
+## Execution
+
 
 ## General
 
@@ -57,5 +61,4 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Aggregate', 'Base'
    1. Temperature must be above 32 degrees for a minimum of 48 hours before any proof roll on road sub grade is conducted.
    1. The proof roller shall be operated in a systematic manner so that a record may be readily kept of the area tested and the working time required for the testing.
    1. Areas that are observed to have soft spots in the subgrade, where deflection is not uniform or is excessive as determined by the Testing Engineer and/or Project Engineer, shall be ripped, scarified, dried or wetted as necessary and recompacted to the requirements for density and moisture at the Contractor's expense. After recompaction, these areas shall be proof rolled again and any failures again corrected at the Contractor's expense.
-1. END OF SECTION** 
-
+*

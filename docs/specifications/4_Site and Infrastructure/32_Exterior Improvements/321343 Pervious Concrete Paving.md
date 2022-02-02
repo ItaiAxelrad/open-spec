@@ -7,16 +7,9 @@ subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Pervious', 'Concrete', 'Paving']
 ---
 
-1. DIVISION 32 – EXTERIOR IMPROVEMENTS
-1. Section 32 13 43 – Pervious Concrete
-1. March 2016 32 13 43 - 1
-   1. DESIGNER NOTE:
-      1. The specifications below are based on the best available
-      1. Designer should modify the specifications to satisfy project-specific constraints.
-DESIGNER NOTE: Green text corresponds to notes to the designer. Blue text corresponds to requirements taken directly from ACI 522.1.
-1. PART 1** - **GENERAL
-01.
-   1. SUMMARY
+## GENERAL
+
+1. SUMMARY
    1. This section includes:
       1. Pervious Concrete
 2. Pavement Base
@@ -44,7 +37,7 @@ Reference Title
    1. REFERENCES
    1. DESIGNER NOTE:
       1. Designer to provide references to related industry manuals and guidance and all project specific documents (e.g., geotechnical report).
-   1. SUBMITTALS
+1. SUBMITTALS
    1. Bid Submittals:
       1. The Contractor shall submit to the Owner the following as part of the bid proposal:
       1. National Ready Mix Concrete Association (NRMCA) Pervious Concrete Contractor Certifications and project experience as specified in Section 1.05.A for the crew assigned to this project.
@@ -74,10 +67,7 @@ No concrete shall be placed until the Engineer has provided written acceptance o
 9. Density of fresh pervious concrete, length of cores, and density of cores for one (1) reference panel. Reference panel shall be placed, jointed, cured, and tested as specified in Section 1.05.D.1 and be within tolerance of the required thickness defined by the Contract Documents.
 05.
    1. QUALITY CONTROL AND QUALITY ASSURANCE
-
-## General
-
-:
+	1. General:
       1. Test and inspect concrete materials and operations as Work progresses as described in this section. Failure to detect defective Work or materials at any time will not prevent rejection if a defect is discovered later, nor shall it constitute final acceptance.
 1. Contractor and Personnel Qualifications
       1. Contractor qualification:
@@ -406,11 +396,7 @@ California Test 227 at least once per 300 cubic yard of concrete.
    1. Microfibers:
       1. Microfibers shall conform to the requirements of ASTM C1116, Type III and shall be monofilament and ½ inch in length.
    1. Mix Design:
-
-## General
-
-
-: The Contractor shall propose a mix design for pervious concrete and shall submit the mix design to the Engineer for acceptance prior to constructing the reference panels. Pervious concrete shall not be placed in the reference panels without a mix design that has been reviewed and accepted by the Engineer.
+	 1. General: The Contractor shall propose a mix design for pervious concrete and shall submit the mix design to the Engineer for acceptance prior to constructing the reference panels. Pervious concrete shall not be placed in the reference panels without a mix design that has been reviewed and accepted by the Engineer.
 2. Mix Design Criteria:
       1. The Contractor shall include the following elements and results of the described procedures in the proposed mix design:
       1. The cementitious content, including pozzolans if used, shall be a minimum of 480 and a maximum of 600 pounds per cubic yard.
@@ -705,5 +691,5 @@ Isolation joints shall continue through the depth of the pervious concrete using
 06.
    1. REJECTION
    1. Pervious concrete that does not meet the acceptance criteria set forth in Section 1.05.E.2 will be rejected by the Engineer on a lot-by-lot basis. Pervious concrete that has been rejected by the Engineer or the Contractor shall be removed and replaced at no additional cost to the Owner.
-1. END OF SECTION
+
 

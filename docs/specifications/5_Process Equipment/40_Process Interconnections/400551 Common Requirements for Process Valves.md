@@ -4,7 +4,7 @@ section: '400551'
 divNumb: 40
 divName: Process Interconnections
 subgroup: Process Equipment
-tags: ['Process', 'Equipment', 'Interconnections', 'Common', 'Requirements', 'for', 'Valves']
+tags: ['Process', 'Equipment', 'Interconnections', 'Common', 'Requirements', 'Valves']
 ---
 
    1. section 40 05 51
@@ -13,9 +13,7 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Common', 'Requirements', 'fo
 
 ## General
 
-
-* 
-	1. **Summary
+1. SUMMARY
    1. Work under this section shall include valves, actuators, and valve appurtenances.
 2. Related Specification Sections include:
 	1. Section 09 90 00, Painting and Protective Coatings
@@ -24,7 +22,7 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Common', 'Requirements', 'fo
 	4. Section 40 05 64, Butterfly Valves
 	5. Section 40 05 63, Ball Valves
 	6. Section 40 05 65, Check Valves
-	7. **Quality Assurance
+	7. Quality Assurance
 3. Work shall be per:
 	1. American Society of Mechanical Engineers (ASME):
 		1. B1.20.1, Pipe Threads, General Purpose.
@@ -52,7 +50,7 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Common', 'Requirements', 'fo
 	5. National Electrical Manufacturers Association (NEMA): 
 		1. 250, Enclosures for Electrical Equipment 1 (1000 Volts Maximum).
 		2. MG 1, Motors and Generators.
-	6. **Submittals
+	6. Submittals
 4. See Specification Section 01 33 00 for requirements for the mechanics and administration of the submittal process.
 5. Shop Drawings
 	1. Product technical data including:
@@ -67,7 +65,7 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Common', 'Requirements', 'fo
 	2. Test Reports
 6. Provide Operation and Maintenance Manuals.
 7. Provide verification from valve actuator manufacturer that actuators have been installed properly, that all limit switches and position potentiometers have been properly adjusted, and that the valve actuator responds correctly to the valve position command. 
-   ## Product
+## Product
 1. 2.1 Acceptable Manufacturers
    1. Valves:
       1. Subject to compliance with the Contract Documents, refer to individual valve Specification Sections for acceptable manufacturers.
@@ -144,7 +142,7 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Common', 'Requirements', 'fo
 6. Install valves accessible for operation, inspection, and maintenance.
 7. For the filter valve replacement, it is the Contractor’s responsibility to confirm the lay length of the existing valves as it pertains to their ability to do the work.
 8. For the filter valve electric actuator replacement, it is the Contractor’s responsibility to confirm the shaft size and torque requirements of the existing valves.
-	1. **Adjustment
+	1. Adjustment
 9. For all electric actuators, employ and pay for services of valve actuator manufacturer's field service representative to:
 	1. Inspect valve actuators covered by this Specification Section.
 	2. Supervise adjustments and installation checks:
@@ -152,6 +150,4 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Common', 'Requirements', 'fo
 		2. Position modulating valves electrically under local manual control and demonstrate that the valve position feedback potentiometer is properly adjusted and that the feedback signal is received at the RIO panels or local control panel as appropriate.
 		3. Simulate a valve position command signal at the RIO panel or local control panel as appropriate and demonstrate that the valve is controlled to the desired position without excessive hunting.
 	3. Provide Owner with a written statement that the valve actuator manufacturer has verified that the actuators have been installed properly, that all limit switches and position potentiometers have been properly adjusted and that the valve actuator responds correctly to the valve position command.
-
-*[this page intentionally left blank]*
 

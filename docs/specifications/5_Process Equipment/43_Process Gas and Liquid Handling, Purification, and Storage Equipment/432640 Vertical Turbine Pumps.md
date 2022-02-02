@@ -13,11 +13,9 @@ tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Sto
 
 ## General
 
-
-* 
-	1. **Summary
+1. SUMMARY
    1. Provide and test vertical turbine pumps, motors, and appurtenances as indicated and in compliance with the Contract Documents.
-	1. **Reference Standards
+	1. Reference Standards
 2. American Society for Testing and Materials (ASTM)
 3. American national Standards Institute (ANSI)
 4. American Society of Mechanical Engineers (ASME)
@@ -78,14 +76,14 @@ tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Sto
 	1. See Specification Section 01 33 00 for requirements for:
 		1. The mechanics and administration of the submittal process.
 		2. The content of Operation and Maintenance Manuals.
-	2. **Spare Parts
+	2. Spare Parts
 6. Provide spare parts that are identical to and interchangeable with similar parts installed.
 	1. For each pump:
 		1. One complete set of gaskets.
 		2. One set of wearing rings
 	2. For each set of pumps of the same size and performance:
 		1. One set of all special tools required.
-	3. **Operating Conditions
+	3. Operating Conditions
 7. The pumps(s) shall be designed to operate satisfactorily with a reasonable service life under the following operating conditions:
       1. Design flow conditions = 
    1. 800 gpm
@@ -97,7 +95,7 @@ tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Sto
    1. 3600 rpm
    1. Liquid to be pumped = 
    1. Raw Water
-   ## Product
+## Product
 1. 2.1 Design
    1. Rotation
 	1. The pump will be counterclockwise rotation when viewed from the driver end looking at the pump.

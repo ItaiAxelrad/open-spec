@@ -7,9 +7,6 @@ subgroup: Procurement and Contracting Requirements
 tags: ['Procurement', 'Contracting', 'Requirements', 'Instructions', 'to', 'Bidders']
 ---
 
-   1. SECTION 00 21 13
-   1. INSTRUCTIONS TO BIDDERS
-
 [ARTICLE 1 - DEFINED TERMS 1](#_Toc30689667)
 
 [ARTICLE 2 - COPIES OF BIDDING DOCUMENTS 2](#_Toc30689668)
@@ -67,7 +64,6 @@ ARTICLE 2 - COPIES OF BIDDING DOCUMENTS
 1. Complete sets of the Bidding Documents in the number and for the deposit sum, if any, stated in the Advertisement for Bids may be obtained from the Issuing Office. The deposit will be refunded to each document holder of record who returns a complete set of Bidding Documents in good condition within 30 days after opening of Bids.
 2. Complete sets of Bidding Documents must be used in preparing Bids; neither Owner nor Engineer assumes any responsibility for errors or misinterpretations resulting from the use of incomplete sets of Bidding Documents.
 
-* 
 	1.  Owner and Engineer in making copies of Bidding Documents available on the above terms do so only for the purpose of obtaining Bids for the Work and do not confer a license or grant for any other use.
    1. ARTICLE 3 - QUALIFICATIONS OF BIDDERS
 1. To demonstrate Bidder’s qualifications to perform the Work, within five days of Owner’s request, Bidder shall submit written evidence such as financial data, previous experience, present commitments, and such other data as may be called for below.
@@ -132,9 +128,8 @@ ARTICLE 2 - COPIES OF BIDDING DOCUMENTS
 9. The Bid shall contain an acknowledgment of receipt of all Addenda, the numbers and dates of which shall be filled in on the Bid form.
 10. The address and telephone number for communication regarding the Bid shall be shown.
 
-* 
 	1. The Bid shall contain evidence of Bidder’s authority and qualification to do business in the state where the Project is located or covenant to obtain such qualification prior to award of the Contract. Bidder’s state contractor license number for the state of the Project, if any, shall also be shown on the Bid Form.
-   1. ARTICLE 14 - BASIS OF BID; COMPARSION OF BIDS
+   1. ARTICLE 14 - BASIS OF BID; COMPARISON OF BIDS
 1. *Unit Price*
    1. Bidders shall submit a Bid on a unit price basis for each item of Work listed in the Bid schedule. 
    1. The total of all estimated prices will be the sum of the products of the estimated quantity of each item and the corresponding unit price. The final quantities and Contract Price will be determined in accordance with Paragraph 11.03 of the General Conditions. 
@@ -164,7 +159,6 @@ ARTICLE 2 - COPIES OF BIDDING DOCUMENTS
 1. When Owner gives a Notice of Award to the Successful Bidder, it shall be accompanied by the required number of unsigned counterparts of the Agreement with the other Contract Documents which are identified in the Agreement as attached thereto. Within 15 days thereafter, Successful Bidder shall sign and deliver the required number of counterparts of the Agreement and attached documents to Owner. Within ten days thereafter, Owner shall deliver one fully signed counterpart to Successful Bidder with a complete set of the Drawings with appropriate identification.
    1. ARTICLE 22 - SALES AND USE TAXES
 
-* 
 	1. OWNER is exempt from State sales and use taxes on materials and equipment to be incorporated in the Work. Exemption No. {}. Said taxes shall not be included in the Bid. Refer to paragraph 6.10 of the Supplementary Conditions for additional information.
    1. ARTICLE 23 - RETAINAGE
 
@@ -181,5 +175,5 @@ ARTICLE 2 - COPIES OF BIDDING DOCUMENTS
 04. It is intended that the initial seminar and workshop sessions be followed by periodic half-day evaluation sessions approximately every 90 days as agreed to by Owner and Contractor.
 05. A primary objective of the partnering process is to maximize the potential for resolution of disputes in a timely and non-adversarial manner. The use of alternative dispute resolution (ADR) methods will be encouraged in order to promote and maintain amicable working relationships among the parties. In the event that ADR procedures are unsuccessful, the dispute resolution provisions set forth in the Contract Documents will be employed.
 06. These provisions express the intent and spirit of the partnering process, and nothing stated herein or in the partnering statement shall change in any way the rights, responsibilities, and obligations of the parties as set forth in the Contract Documents. The partnering statement will not be a part of the Contract Documents and will not modify any defense, claim, obligation, or right that otherwise exists.
-1. END OF SECTION
+
 

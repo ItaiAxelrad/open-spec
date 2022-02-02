@@ -7,12 +7,11 @@ subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Flat', 'Seam', 'Sheet', 'Metal', 'Roofing']
 ---
 
-
 ## General
 
-   1. SUMMARY
+1. SUMMARY
    1. Refer to Section 018113 – Sustainable Design Requirements; 018113A – Appendix A - Materials Anticipated to be Used for Recycled Content; and 018113B – LEED Matrix for materials requiring contractor validation of recycled content.
-   1. SECTION INCLUDES
+
    1. Preformed, flat seam panels and flashings.
    1. Miscellaneous trim, flashing, closures, drip flashing, and accessories.
    1. Fastening devices.
@@ -25,14 +24,14 @@ tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Flat', 
    1. SMACNA – Architectural Sheet Metal Manual.
    1. ASSEMBLY DESCRIPTION
    1. The roofing assembly includes preformed sheet metal panels, related accessories, valleys, hips, ridges, eaves, corners, rakes, miscellaneous flashing and attaching devices
-   1. SUBMITTALS
+1. SUBMITTALS
    1. Submit detailed drawings showing layout of panels, anchoring details, joint details, trim, flashing, and accessories. Show details of weatherproofing, terminations, and penetrations of metal work.
    1. Submit a sample of each type of roof panel, complete with factory finish.
    1. Submit results indicating compliance with minimum requirements of the following performance tests:
       1. Air Infiltration ASTM E 283-84
    1. Water infiltration ASTM E331-86
    1. Submit calculations with registered engineer seal, verifying roof panel and attachment method resists wind pressures imposed on it pursuant to applicable building codes.
-   1. QUALITY ASSURANCE
+1. QUALITY ASSURANCE
    1. Manufacturer:
       1. Company specializing in Architectural Sheet Metal Products with ten (10) years minimum experience.
    1. No product substitutions shall be permitted with out meeting specifications.
@@ -42,7 +41,7 @@ tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Flat', 
    1. Panels should be stored in a clean, dry place. One end should be elevated to allow moisture to run off.
    1. Panels with strippable film must not be stored in the open, exposed to the sun.
    1. Stack all materials to prevent damage and to allow for adequate ventilation.
-   1. WARRANTY
+1. WARRANTY
    1. Paint finish shall have a twenty-year guarantee against cracking, peeling and face (not to exceed 5 N.B.S. units).
    1. Galvalume materials shall have a twenty-year guarantee against failure due to corrosion, rupture or perforation.
    1. Applicator shall furnish guarantee covering watertightness of the roofing system fro the period of two (2) years from the date of substantial completion.
@@ -66,7 +65,9 @@ tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Flat', 
    1. Seam spacing shall be 24” on center.
    1. Panels to be shipped flat and curved on-site prior to installation.
    1. Attachment to solid sheathing with concealed 1-1/4” long galvanized ring shank roofing nails spaced at 20” on center.
-   1. EXECUTION
+
+## Execution
+
    1. inspection
    1. Substrate
    1. Examine plywood or metal deck to ensure proper attachment to framing.
@@ -91,5 +92,5 @@ tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Flat', 
    1. Cleaning
    1. Clean any grease, finger marks or stains from the panels per manufacturer’s recommendations.
    1. Remove all scrap and construction debris from the site.
-1. END OF SECTION
+
 

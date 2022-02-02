@@ -4,7 +4,7 @@ section: '264313'
 divNumb: 26
 divName: Electrical
 subgroup: Facility Services
-tags: ['Facility', 'Services', 'Electrical', 'TVSS', 'for', 'LV', 'Elec', 'Power', 'Circuits']
+tags: ['Facility', 'Services', 'Electrical', 'TVSS', 'LV', 'Elec', 'Power', 'Circuits']
 ---
 
 
@@ -299,5 +299,4 @@ Attachment 1 - TVSS Submittal Compliance Form
    1. Low Impedance Internal Disconnect
    1. Required? \_\_\_ No \_\_\_ Yes
    1. Provided? \_\_\_ No \_\_\_ Yes
-1. END OF SECTION 264313
 

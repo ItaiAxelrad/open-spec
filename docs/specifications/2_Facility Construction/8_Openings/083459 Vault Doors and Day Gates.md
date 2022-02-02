@@ -7,9 +7,6 @@ subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Openings', 'Vault', 'Doors', 'Day', 'Gates']
 ---
 
-1. SECTION 08 34 59
-1. VAULT DOORS AND DAY GATES
-
 ## General
 
 1. RELATED DOCUMENTS
@@ -32,34 +29,38 @@ tags: ['Facility', 'Construction', 'Openings', 'Vault', 'Doors', 'Day', 'Gates']
 5. DELIVERY, STORAGE, AND HANDLING
    1. Deliver hatch door assemblies wrapped and crated to provide protection during transit and
    1. Project-site storage. Use vented plastic.
-   1. Product
+
+## Product
+
 1. MANUFACTURERS
    1. Basis-of-Design Product:
       1. Design for the hatch is based on BILCO Company, JD-AL. Subject to compliance with requirements of the contract documents and in accordance with the provisions of Section “Product Requirements”, provide the named product or an approved equal.
-1. Size:
+2. Size:
       1. As indicated on the drawings.
-2. Performance characteristics:
+3. Performance characteristics:
       1. Covers:
          1. Shall be reinforced to support a minimum live load of 300 psf (1464 kg/m2) with a maximum deflection of 1/150th of the span.
-      1. Operation of the cover shall be smooth and easy with controlled operation throughout the entire arc of opening and closing.
-      1. Operation of the cover shall not be affected by temperature.
-      1. Entire door, including all hardware components, shall be highly corrosion resistant. Please consult the manufacturer when doors are to be installed in unusually harsh environments or extremely corrosive conditions.
-3. Covers:
+      2. Operation of the cover shall be smooth and easy with controlled operation throughout the entire arc of opening and closing.
+      3. Operation of the cover shall not be affected by temperature.
+      4. Entire door, including all hardware components, shall be highly corrosion resistant. Please consult the manufacturer when doors are to be installed in unusually harsh environments or extremely corrosive conditions.
+4. Covers:
       1. Shall be ¼ inch aluminum diamond pattern.
-4. Frame:
+5. Frame:
       1. Channel frame shall be ¼ inch extruded aluminum with bend down anchor tabs around the perimeter. A continuous EPDM gasket shall be mechanically attached to the aluminum frame to create a barrier around the entire perimeter of the cover and significantly reduce the amount of dirt and debris that may enter the channel frame.
-5. Hinges:
+6. Hinges:
       1. Shall be specifically designed for horizontal installation and shall be through bolted to the cover with tamperproof Type 316 stainless steel lock bolts and shall be through bolted to the frame with Type 316 stainless steel bolts and locknuts
-2. FABRICATION
+7. FABRICATION
    1. Fabricate floor hatch assemblies rigid, neat in appearance, and free of defects, warp, or buckle.
-   1. Accurately form metal to required sizes and profiles, with minimum radius for thickness of metal. Weld exposed joints continuously; grind, fill, dress, and make smooth, flush, and invisible. Where practical, fit and assemble units in manufacturer's plant. To ensure proper assembly at Project site, clearly identify work that cannot be permanently factory assembled before shipment.
-3. GENERAL FINISH REQUIREMENTS
+   2. Accurately form metal to required sizes and profiles, with minimum radius for thickness of metal. Weld exposed joints continuously; grind, fill, dress, and make smooth, flush, and invisible. Where practical, fit and assemble units in manufacturer's plant. To ensure proper assembly at Project site, clearly identify work that cannot be permanently factory assembled before shipment.
+8. GENERAL FINISH REQUIREMENTS
    1. Comply with NAAMM's "Metal Finishes Manual for Architectural and Metal Products" for recommendations for applying and designating finishes.
-2. Protect mechanical finishes on exposed surfaces from damage by applying a strippable, temporary protective covering before shipping.
-3. Appearance of Finished Work:
+9. Protect mechanical finishes on exposed surfaces from damage by applying a strippable, temporary protective covering before shipping.
+10. Appearance of Finished Work:
       1. Noticeable variations in same piece are not acceptable.
    1. Variations in appearance of adjoining components are acceptable if they are within the range of approved Samples and are assembled or installed to minimize contrast.
-   1. Execution
+
+## Execution
+
 1. EXAMINATION
    1. Examine substrates, areas, and conditions, with Installer present, for compliance with requirements for installation tolerances and other conditions affecting performance of the Work.
 2. For the record, prepare written report, endorsed by Installer, listing conditions detrimental to performance of the Work.
@@ -71,5 +72,3 @@ tags: ['Facility', 'Construction', 'Openings', 'Vault', 'Doors', 'Day', 'Gates']
 4. ADJUSTING AND CLEANING
    1. Adjust hatch hardware and operating mechanism to function smoothly, and lubricate as recommended by manufacturer.
 2. Remove and replace work that cannot be successfully cleaned and repaired to permanently eliminate evidence of damage, including dented and bent units.
-   1. END OF SECTION 083459
-

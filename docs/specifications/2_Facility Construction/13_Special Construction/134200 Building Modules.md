@@ -10,7 +10,7 @@ tags: ['Facility', 'Construction', 'Special', 'Building', 'Modules']
 
 ## General
 
-   1. SUMMARY
+1. SUMMARY
    1. Section Includes
    1. Pre-engineered insulated modular buildings as shown on the drawings for clear span metal roof panels of nominal width, length, wall height and roof pitch indicated.
    1. Related Sections
@@ -25,14 +25,16 @@ tags: ['Facility', 'Construction', 'Special', 'Building', 'Modules']
    1. Design Loads
    1. Design structural for 50 psf live load and 130 mph wind load, Exposure C.
    1. Design each member to withstand the stresses resulting from combinations of loads that produce the maximum percentage of actual to allowable stress in that member.
-   1. SUBMITTALS
+1. SUBMITTALS
    1. Product Data:
       1. Submit manufacturer's product information, specifications and installation instructions for building components and accessories.
    1. Shop Drawings:
       1. Submit complete erection drawings showing anchor bolt settings, interior structural steel frame with all members and supports and roof panels, wall panels, doors, windows, skylights, louvers, and trim details, and accessory (HVAC unit, thermostat, etc) installation details to clearly indicate the proper assembly of building components.
    1. Samples:
       1. Submit samples for factory finished components when specified in this section.
-   1. PRODUCTS
+
+## Products
+
    1. MANUFACTURERS
    1. Bally Engineered Structures, Inc.
    1. Butler
@@ -114,16 +116,15 @@ tags: ['Facility', 'Construction', 'Special', 'Building', 'Modules']
    1. Prime structural steel primary and secondary framing members with manufacturer's standard rust-inhibitive primer, zinc chromate iron-oxide alkyd (TT-O-636).
    1. Prime galvanized members, after phosphoric acid pretreatment, with hot-dipped galvanizing ASTM A653, G90.
    1. Finishes
-
-## General
-
-:
+	1. General:
       1. Colors as selected by Technical Representative from manufacturer's standards.
    1. Baked Enamel:
       1. (Exterior and interior)
    1. Provide shop-applied baked enamel finish to galvanized steel, related trim and accessories.
    1. Apply to pretreated steel baked-on thermo-setting synthetic enamel system, such as acrylic enamel or silicone polyester, in one or more coats as standard with the manufacturer to achieve a minimum dry film thickness of one mil.
-   1. EXECUTION
+
+## Execution
+
    1. ERECTION INSTALLATION APPLICATION
    1. Foundation
    1. Provide an adequate foundation for the identified loads and structure as per attached drawings. Concrete shall be minimum 3000 psi.
@@ -137,10 +138,7 @@ tags: ['Facility', 'Construction', 'Special', 'Building', 'Modules']
    1. Apply a silicone seal to the bottom of the wall panel at the exterior and interior panel edges prior to erection. This silicone seal shall form a weatherproof seal to driving rain.
    1. Protect factory finish from damage.
    1. Roofing
-
-## General
-
-:
+	1. General:
       1. Apply panels and associated items for neat and weather tight enclosure.
    1. Roof Sheets
    1. Provide sealant tape at lapped joints of roof panels, between roof panels, and protruding equipment, vents, and accessories to make weatherproof to driving rains.
@@ -152,5 +150,4 @@ tags: ['Facility', 'Construction', 'Special', 'Building', 'Modules']
    1. Provide thermostat connected to the HVAC unit.
    1. Electrical Work
    1. Electrical lighting, lighting panel, HVAC connection, internal outlets, and external outlets shall be installed per attached electrical layout drawings and specifications.
-1. END OF SECTIONTHIS PAGE INTENTIONALLY BLANK
 

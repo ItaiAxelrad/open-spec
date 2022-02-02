@@ -4,7 +4,7 @@ section: '230593'
 divNumb: 23
 divName: Heating Ventilating and Air Conditioning
 subgroup: Facility Services
-tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 'Testing', 'Adjusting', 'Balancing', 'for', 'HVAC']
+tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 'Testing', 'Adjusting', 'Balancing', 'HVAC']
 ---
 
 
@@ -64,8 +64,7 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Sheet Metal and Air Conditioning Contractors National Association (SMACNA):
       1. HVAC Systems – Duct Design
    1. HVAC Systems – Testing, Adjusting, and Balancing
-1. System Description** 
-   1. Performance Requirements:
+1. System Description*   1. Performance Requirements:
       1. 
    1. Adjusting and balancing shall be performed in accordance with the latest edition of the National Environmental Balancing Bureau (NEBB) Procedural Standards, and in accordance with the scope of Work specified in the Contract Documents. 
    1. Adjusting and balancing shall not begin until systems are complete, temporary filters and strainers are removed and permanent filters installed, piping systems are cleaned, flushed and chemically treated, all as properly scheduled and approved in advance by the Architect. 
@@ -73,8 +72,7 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Upon the completion of the Work, the adjusting and balancing agency shall submit four copies of the complete adjusting and balancing report. 
    1. One agency shall be responsible for all phases of adjusting and balancing. 
    1. The adjusting and balancing agency shall permanently mark the settings of all valves, dampers and other adjusting devices in a manner that will allow the settings to be restored. If a balancing device is provided with a memory stop, it shall be set and locked. 
-1. Submittals** 
-   1. See Division 23 sections of the Specifications.
+1. Submittals*   1. See Division 23 sections of the Specifications.
    1. Quality-Assurance Submittals:
       1. Within 30 days from the Contractor's Notice to Proceed, submit 2 copies of evidence that the testing, adjusting, and balancing Agent and this Project's testing, adjusting, and balancing team members meet the qualifications specified in the "Quality Assurance" Article below.
    1. Contract Documents Examination Report:
@@ -87,8 +85,7 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
       1. Submit 2 sets of sample testing, adjusting, and balancing report forms.
    1. Warranty:
       1. Submit 2 copies of special warranty specified in the "Warranty" Article below.
-1. Quality Assurance** 
-   1. Agent Qualifications:
+1. Quality Assurance*   1. Agent Qualifications:
       1. Engage a testing, adjusting, and balancing agent certified by NEBB.
    1. Testing, Adjusting, and Balancing Conference:
       1. Meet with the Owner's and the Architect's representatives on approval of the testing, adjusting, and balancing strategies and procedures plan to develop a mutual understanding of the details. Ensure the participation of testing, adjusting, and balancing team members, equipment manufacturers' authorized service representatives, HVAC controls Installer, and other support personnel. Provide 7 days' advance notice of scheduled meeting time and location.
@@ -113,8 +110,7 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
       1. The Owner will occupy the site and existing building during the entire testing, adjusting, and balancing period. Cooperate with the Owner during testing, adjusting, and balancing operations to minimize conflicts with the Owner's operations.
    1. Partial Owner Occupancy:
       1. The Owner may occupy completed areas of the building before Substantial Completion. Cooperate with the Owner during testing, adjusting, and balancing operations to minimize conflicts with the Owner's operations.
-1. Sequencing And Scheduling** 
-   1. The Contractor shall provide the adjusting and balancing agency with one set of the following documents:
+1. Sequencing And Scheduling*   1. The Contractor shall provide the adjusting and balancing agency with one set of the following documents:
       1. 
    1. Within 30 days after approved selection of adjusting and balancing agency:
       1. 
@@ -175,8 +171,7 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
       1. The certified Agent has tested and balanced systems according to the Contract Documents.
    1. Systems are balanced to optimum performance capabilities within design and installation limits.
 1. PRODUCTS
-1. Equipment** 
-   1. Instrumentation:
+1. Equipment*   1. Instrumentation:
       1. Provide air system adjusting and balancing instrumentation such as pitot tubes, flow hoods, incline gauge or U-tube manometers or magnehelic gages, alnor velometer, tachometer or rpm counter, insertion thermometers, clamp-on ammeter for motor voltage and ampere readings and others to be able to completely analyze and balance air handling systems. Instrumentation shall be accurately calibrated and checked before usage. 
 1. EXECUTION
 1. EXAMINATION
@@ -420,10 +415,7 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Status Reports:
       1. As Work progresses, prepare reports to describe completed procedures, procedures in progress, and scheduled procedures. Include a list of deficiencies and problems found in systems being tested and balanced. Prepare a separate report for each system and each building floor for systems serving multiple floors.
    1. Final Report:
-
-## General
-
-:
+	1. General:
          1. Typewritten, or computer printout in letter-quality font, on standard bond paper, in 3-ring binder, tabulated and divided into sections by tested and balanced systems.
    1. Include a certification sheet in front of binder signed and sealed by the certified testing and balancing engineer.
    1. Include a list of the instruments used for procedures, along with proof of calibration.
@@ -921,5 +913,4 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
       1. Within 90 days of completing testing, adjusting, and balancing, perform additional testing and balancing to verify that balanced conditions are being maintained throughout and to correct unusual conditions.
    1. Seasonal Periods:
       1. If initial testing, adjusting, and balancing procedures were not performed during near-peak summer and winter conditions, perform additional inspections, testing, and adjusting during near-peak summer and winter conditions.
-1. END OF SECTION 230593
 

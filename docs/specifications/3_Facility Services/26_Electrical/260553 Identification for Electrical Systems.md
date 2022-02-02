@@ -4,20 +4,15 @@ section: '260553'
 divNumb: 26
 divName: Electrical
 subgroup: Facility Services
-tags: ['Facility', 'Services', 'Electrical', 'Identification', 'for', 'Systems']
+tags: ['Facility', 'Services', 'Electrical', 'Identification', 'Systems']
 ---
-
-1. Copyright 2006 by The American Institute of Architects (AIA)
-1. Exclusively published and distributed by Architectural Computer Services, Inc. (ARCOM) for the AIA
-1. Revise this Section by deleting and inserting text to meet Project-specific requirements.
-1. Verify that Section titles referenced in this Section are correct for this Project's Specifications; Section titles may have changed.
 
 ## General
 
-   1. RELATED DOCUMENTS
+1. RELATED DOCUMENTS
    1. Retain or delete this article in all Sections of Project Manual.
    1. Drawings and general provisions of the Contract, including General and Supplementary Conditions and Division 1 Specification Sections, apply to this Section.
-   1. SUMMARY
+1. SUMMARY
    1. This Section includes electrical identification work for the following:
       1. Electrical power, control, and communication conductors.
    1. Operational instructions and warnings.
@@ -30,69 +25,48 @@ tags: ['Facility', 'Services', 'Electrical', 'Identification', 'for', 'Systems']
       1. 70 - National Electrical Code (NEC), as applicable to installation of identifying labels and markers for wiring and equipment.
    1. Underwriters Laboratories (UL), pertaining to electrical identification systems:
       1. 969 - Marking and Labeling Systems. 
-   1. SUBMITTALS
+1. SUBMITTALS
    1. Submit in conformance with Division 1 sections of the Specifications.
    1. Includes, but not limited to:
       1. Product Data:
       1. Submit manufacturer's data on electrical identification materials and products.
 1. PRODUCTS
    1. MATERIALS
-
-## General
-
-:
+	1. General:
       1. 
    1. Except as otherwise indicated, provide manufacturer's standard products of categories and types required for each application. 
    1. Where more than single type is specified for an application, selection is Subcontractor option, but provide single selection for each application.
    1. Color-Coded Equipment and J-Box Markers:
-
-## General
-
-:
+	1. General:
          1. Self-adhesive vinyl tape not less than 3 mils thick. Provide 2-1/4-inch wide by 9-inch long marker. 
    1. Colors:
       1. Provide orange tape, unless otherwise indicated or required by governing regulations.
    1. Underground Type Plastic Line Marker:
-
-## General
-
-:
+	1. General:
          1. 
    1. Permanent, bright-colored, continuous-printed plastic tape, with metallic backing or imbedded locating wire, intended for direct-burial service:
       1. Not less than 6 inches wide x 4 mils thick. 
    1. Provide tape with printing which indicates Buried Electric or Communications service for buried cable or duct bank.
    1. Cable/Conductor Identification Bands:
-
-## General
-
-:
+	1. General:
             1. Vinyl-cloth self-adhesive cable/conductor markers of wrap-around type
    1. Prenumbered plastic coated type
    1. Numbered to show circuit identification number.
    1. Plasticized Tags:
-
-## General
-
-:
+	1. General:
             1. Preprinted or partially preprinted accident-prevention and operational tags,
    1. On plasticized card stock with matt finish suitable for writing, 
    1. Approximately 3-1/4" x 5-5/8", with brass grommets and wire fasteners
    1. With appropriate preprinted wording, including large-size primary wording, e.g., "DANGER, CAUTION, DO NOT OPERATE."
    1. Self-Adhesive Plastic Signs;
-
-## General
-
-:
+	1. General:
       1. Self-adhesive or pressure-sensitive, preprinted, flexible vinyl signs for operational instructions or warnings.
    1. Sizes suitable for application areas and adequate for visibility.
    1. Proper wording for each application, e.g., "EXHAUST FAN."
    1. Colors:
       1. Provide white signs with black lettering, unless otherwise indicated or required by governing regulations, 
    1. Engraved Plastic-Laminate Nameplates:
-
-## General
-
-:
+	1. General:
             1. Engraving stock melamine plastic laminate nameplate in sizes (minimum height of characters shall be 1/8 inch) and thicknesses specified or indicated,
    1. Engraved with block letter style of sizes and wording indicated
    1. Black face and white core plies (letter color) except as otherwise indicated,
@@ -139,41 +113,26 @@ tags: ['Facility', 'Services', 'Electrical', 'Identification', 'for', 'Systems']
    1. Regulations:
       1. Comply with governing regulations and requests of governing authorities for identification of electrical work.
    1. Underground Conduit Identification:
-
-## General
-
-:
+	1. General:
             1. During back-filling/top-soiling of each exterior underground electrical, signal or communication conduit, install continuous underground-type plastic line marker, located directly over the direct buried conduit at 6 inches below finished grade.
    1. Install line marker for every cable below grade, regardless of whether direct buried, protected in conduit, or conduit in duct bank.
    1. Cable/Conductor Identification:
-
-## General
-
-:
+	1. General:
             1. Apply cable/conductor identification, including circuit number, on each cable/conductor in each box/enclosure/cabinet where wires of more than one circuit or communication/signal system are present.
    1. Match identification with marking system used in panelboards, shop drawings, contract documents, and similar previously established identification for project's electrical work.
    1. Operational Identification and Warnings:
-
-## General
-
-:
+	1. General:
             1. Wherever reasonably required to ensure safe and efficient operation and maintenance of electrical systems, and electrically connected mechanical systems and general systems and equipment, including prevention of misuse of electrical facilities by unauthorized personnel, install self-adhesive plastic signs or similar equivalent identification, instruction or warnings on switches, outlets and other controls, devices and covers of electrical enclosures.
    1. Where detailed instructions or explanations are needed, provide plasticized tags with clearly written messages adequate for intended purposes.
    1. Danger Signs:
-
-## General
-
-:
+	1. General:
          1. In addition to installation of danger signs specified, indicated, and required by governing regulations and authorities, install appropriate danger signs at locations indicated and at locations subsequently identified by Subcontractor of electrical work as constituting similar dangers for persons in or about project.
    1. Higher Voltage:
       1. Install danger signs (with actual circuit voltage) on all building doors, switchboards, panelboards switches, circuit breakers, etc., wherever it is possible (under any circumstances) for persons to come into contact with electrical voltages to ground greater than 277V.
    1. Critical Switches/Controls:
       1. Install danger signs on switches and similar controls, regardless of whether concealed or locked up, where untimely or inadvertent operation (by anyone) could result in significant danger to persons or damage to or loss of property.
    1. Equipment/System Identification:
-
-## General
-
-:
+	1. General:
             1. Install engraved plastic-laminated nameplates on each major unit of electrical equipment in the building; including central or master unit of each electrical system including communication/control/signal/alarm systems, unless unit is specified with its own self-explanatory identification or signal system.
    1. Except as otherwise indicated, provide single line of text, 1/2-inch high lettering on 1-1/2-inch high sign (2 inches high were two lines are required), black lettering on white field. 
    1. Provide text matching terminology and numbering of the contract documents and shop drawings. 
@@ -269,5 +228,4 @@ tags: ['Facility', 'Services', 'Electrical', 'Identification', 'for', 'Systems']
    1. 212 - Loop number
    1. 11 - The 11th consecutive spare in the control loop
    1. CONTRACTOR as part of the Record Drawing requirements shall update the conduit schedule to reflect the exact wire numbers and destination points for all wires including spares.
-1. END OF SECTION 260553
 

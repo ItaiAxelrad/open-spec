@@ -7,7 +7,7 @@ subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Earthwork', 'Excavation', 'Fill']
 ---
 
-1. SECTION 312300
+
 1. EXCAVATION AND FILL
 1. 
 ## General
@@ -386,5 +386,4 @@ Take the number and size of samples required to perform the following tests.
 (ii) Bedding and backfill in trenches: One test per 50 linear feet in each lift.
       1. Moisture Content Tests
 (i) In the stockpile, excavation or borrow areas, a minimum of two tests per day per type of material or source of materials being placed is required during stable weather conditions. During unstable weather, tests shall be made as dictated by local conditions and approved moisture content shall be tested in accordance with ASTM D 2216. Include moisture content test results in daily report.
-1. END OF SECTION 312300
 

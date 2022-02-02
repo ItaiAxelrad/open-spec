@@ -7,7 +7,7 @@ subgroup: Facility Services
 tags: ['Facility', 'Services', 'Electrical', 'Conductors', '_', 'Cables']
 ---
 
-1. SECTION 26 05 19
+
 1. CONDUCTORS AND CABLES
 
 ## General
@@ -85,7 +85,9 @@ Conditions and Division 01 Specification Sections, apply to this Section.
       1. Carbon steel. Include two for each sealing element.
 3. Connecting Bolts and Nuts:
       1. Carbon steel with corrosion-resistant coating of length required to secure pressure plates to sealing elements. Include one for each sealing element.
-   1. Execution
+
+## Execution
+
 1. CONDUCTOR MATERIAL APPLICATIONS
    1. Feeders:
       1. Copper. Solid for No. 10 AWG and smaller; stranded for No. 8 AWG and larger.
@@ -166,5 +168,5 @@ for Electrical Systems."
       1. Test procedures used.
 2. Test results that comply with requirements.
 3. Test results that do not comply with requirements and corrective action taken to achieve compliance with requirements.
-   1. END OF SECTION 26 05 19
+   26 05 19
 

@@ -7,21 +7,14 @@ subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Concrete', 'Paving']
 ---
 
-1. Copyright 2007 by The American Institute of Architects (AIA)
-1. Exclusively published and distributed by Architectural Computer Services, Inc. (ARCOM) for the AIA
-1. SECTION 321313 - CONCRETE PAVING
-   1. Revise this Section by deleting and inserting text to meet Project-specific requirements.
-   1. This Section uses the term "Architect." Change this term to match that used to identify the design professional as defined in the General and Supplementary Conditions.
-   1. Verify that Section titles referenced in this Section are correct for this Project's Specifications; Section titles may have changed.
-
 ## General
 
-   1. RELATED DOCUMENTS
+1. RELATED DOCUMENTS
    1. Retain or delete this article in all Sections of Project Manual.
    1. Drawings and general provisions of the Contract, including General and Supplementary Conditions and Division 01 Specification Sections, apply to this Section. 
-   1. All current NREL standards and specifications shall apply, including but not limited to:
-      1. NREL CONSTRUCTION SPECIFICATIONS
-   1. SUMMARY
+   1. All current Owner standards and specifications shall apply, including but not limited to:
+      1. Owner CONSTRUCTION SPECIFICATIONS
+1. SUMMARY
    1. Section Includes:
       1. Walks.
    1. Concrete Pad Surfaces. All steel reinforcing shall be manufactured and installed per Structural Engineer and is not contained within this section.
@@ -34,7 +27,7 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Concrete', 'Paving
    1. Definition in paragraph below refers to materials that make up the cementitious component of the water-cementitious materials ratio.
    1. Cementitious Materials:
       1. Portland cement alone or in combination with one or more of blended hydraulic cement, fly ash and other pozzolans, and ground granulated blast-furnace slag.
-   1. SUBMITTALS
+1. SUBMITTALS
    1. First six paragraphs below are defined in Division 01 Section "Submittal Procedures" as "Action Submittals."
    1. Product Data:
       1. For each type of product indicated.
@@ -79,7 +72,7 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Concrete', 'Paving
    1. Field quality-control reports.
    1. REFERENCES
    1. Section 412, “Portland Cement Concrete Pavement” of the Standard Specifications for Road and Bridge Construction, State of Colorado Department of Highways (CDOT Standard Specifications) current edition and all supplemental provisions thereto.
-   1. QUALITY ASSURANCE
+1. QUALITY ASSURANCE
    1. Retain first paragraph below if requirements in Division 01 Section "Quality Requirements" are insufficient. Verify that manufacturers provide training and approval. Revise if installers are qualified by other means.
    1. Detectable Warning Installer Qualifications:
       1. An employer of workers trained and approved by manufacturer of stamped concrete paving systems.
@@ -110,12 +103,14 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Concrete', 'Paving
    1. Ready-mix concrete manufacturer.
    1. Concrete paving subcontractor.
    1. Manufacturer's representative of stamped concrete paving system used for detectable warnings.
-   1. PROJECT CONDITIONS
+1. PROJECT CONDITIONS
    1. Traffic Control:
       1. Maintain access for vehicular and pedestrian traffic as required for other construction activities.
    1. Pavement-Marking Paint:
       1. Proceed with pavement marking only on clean, dry surfaces and at a minimum ambient or surface temperature of 40 deg F for oil-based materials and 60 deg F for water-based materials, and not exceeding 95 deg F.
-   1. PRODUCTS
+
+## Products
+
    1. FORMS
    1. Form Materials:
       1. Plywood, metal, metal-framed plywood, or other approved panel-type materials to provide full-depth, continuous, straight, and smooth exposed surfaces.
@@ -195,8 +190,10 @@ ly retain first option in first subparagraph below unless concrete with lighter 
       1. Water-soluble, liquid, set retarder with color dye, for horizontal concrete surface application, capable of temporarily delaying final hardening of concrete to a depth of 1/8 to 1/4 inch.
    1. Pigmented mineral dry-shake hardener in first paragraph below is nonmetallic and used because of its nonrusting characteristics for concrete that is frequently wet.
    1. Insert product requirements here for permanent-marking tapes or thermoplastic paints if required. See Evaluations.
-   1. EXECUTION
-   1. EXAMINATION
+
+## Execution
+
+1. EXAMINATION
    1. Examine exposed subgrades and subbase surfaces for compliance with requirements for dimensional, grading, and elevation tolerances.
    1. If concrete walks or similar lightly loaded paving does not require proof-rolling to the degree described in first paragraph below, revise requirements in paragraph to suit Project.
    1. Proof-roll subgrade below pavements with heavy pneumatic-tired equipment shall be performed using a minimum axle load of 18 kips per axle. A weight ticket from an approved scale shall be furnished by the contractor to substantiate this weight.
@@ -204,17 +201,14 @@ ly retain first option in first subparagraph below unless concrete with lighter 
    1. Revise minimum weight or type of vehicle in first subparagraph below if required.
    1. Upon approval of the proof rolling, base and or pavement placement shall take place within 48 hrs.
    1. Proceed with installation only after unsatisfactory conditions have been corrected.
-   1. PREPARATION
+1. PREPARATION
    1. Remove loose material from compacted subbase surface immediately before placing concrete.
    1. EDGE FORMS AND SCREED CONSTRUCTION
    1. Set, brace, and secure edge forms, bulkheads, and intermediate screed guides to required lines, grades, and elevations. Install forms to allow continuous progress of work and so forms can remain in place at least 24 hours after concrete placement.
    1. Clean forms after each use and coat with form-release agent to ensure separation from concrete without damage.
    1. STEEL REINFORCEMENT
    1. Retain this article if steel-reinforced concrete paving is required; revise to suit Project.
-
-## General
-
-:
+	1. General:
       1. Comply with CRSI's "Manual of Standard Practice" for fabricating, placing, and supporting reinforcement.
    1. Clean reinforcement of loose rust and mill scale, earth, ice, or other bond-reducing materials.
    1. Arrange, space, and securely tie bars and bar supports to hold reinforcement in position during concrete placement. Maintain minimum cover to reinforcement.
@@ -228,10 +222,7 @@ ly retain first option in first subparagraph below unless concrete with lighter 
    1. Install fabricated bar mats in lengths as long as practicable. Handle units to keep them flat and free of distortions. Straighten bends, kinks, and other irregularities, or replace units as required before placement. Set mats for a minimum 2-inch overlap of adjacent mats.
    1. JOINTS
    1. Coordinate joint types, descriptions, and locations with Drawings. Construction, isolation, and contraction joints and edging have been consolidated in this article for consistency rather than for strict sequence of installation.
-
-## General
-
-:
+	1. General:
       1. Form construction, isolation, and contraction joints and tool edges true to line, with faces perpendicular to surface plane of concrete. Construct transverse joints at right angles to centerline unless otherwise indicated.
    1. When joining existing paving, place transverse joints to align with previously placed joints unless otherwise indicated.
    1. Construction Joints:
@@ -306,10 +297,7 @@ ly retain first option in first subparagraph below unless concrete with lighter 
    1. Fog-spray form, steel reinforcement, and subgrade just before placing concrete. Keep subgrade moisture uniform without standing water, soft spots, or dry areas.
    1. FLOAT FINISHING
    1. Retain first paragraph below. Some floating and troweling machines have watering attachments. Adding water weakens the concrete surface and can cause dusting and scaling.
-
-## General
-
-:
+	1. General:
       1. Do not add water to concrete surfaces during finishing operations.
    1. Initial floating operation is included in "Concrete Placement" Article.
    1. Float Finish:
@@ -342,10 +330,7 @@ ly retain first option in first subparagraph below unless concrete with lighter 
    1. Retain paragraph below if pigmented mineral dry-shake hardener finish is required. Use compatible curing compounds in lieu of moisture curing to prevent discoloration and staining.
    1. Insert requirements for concrete stain, pigmented sealer, or pigmented curing and sealing compound if pigment is required but pigmented mineral dry-shake hardener is not used for detectable warnings.
    1. CONCRETE PROTECTION AND CURING
-
-## General
-
-:
+	1. General:
       1. Protect freshly placed concrete from premature drying and excessive cold or hot temperatures.
    1. Comply with ACI 306.1 for cold-weather protection.
    1. If evaporation rate in first paragraph below is exceeded, ACI 305R states that plastic shrinkage cracking is probable. See manufacturers' literature or ACI 305R for estimated moisture-loss chart that relates relative humidity, air and concrete temperature, and wind velocity to rate of evaporation.
@@ -405,5 +390,5 @@ ly retain first option in first subparagraph below unless concrete with lighter 
    1. Drill test cores, where directed by Architect, when necessary to determine magnitude of cracks or defective areas. Fill drilled core holes in satisfactory paving areas with portland cement concrete bonded to paving with epoxy adhesive.
    1. Protect concrete paving from damage. Exclude traffic from paving for at least 14 days after placement. When construction traffic is permitted, maintain paving as clean as possible by removing surface stains and spillage of materials as they occur.
    1. Maintain concrete paving free of stains, discoloration, dirt, and other foreign material. Sweep paving not more than two days before date scheduled for Substantial Completion inspections.
-1. END OF SECTION 32 13 13
+32 13 13
 

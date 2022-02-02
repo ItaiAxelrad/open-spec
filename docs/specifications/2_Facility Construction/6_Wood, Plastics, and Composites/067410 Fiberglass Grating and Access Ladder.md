@@ -7,9 +7,6 @@ subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Wood', 'Plastics', 'Composites', 'Fiberglass', 'Grating', 'Access', 'Ladder']
 ---
 
-      1. SECTION 06 61 00
-   1. MOLDED FIBERGLASS GRATING AND ACCESS LADDERS
-
 ## General
 
 1. SCOPE
@@ -24,15 +21,13 @@ tags: ['Facility', 'Construction', 'Wood', 'Plastics', 'Composites', 'Fiberglass
 ## Product
 
 
-* 
 	1. MATERIALS
    1. Molded fiberglass grating shall be a machine made grating manufactured in a one-piece construction process of interlaced glass reinforcing strands in a resin matrix.
    1. All access ladders shall be manufactured by the pultrusion process and contain a minimum of 50 percent glass by weight. They shall be 2-inch square x 1/4-inch wall tubing with a 3/8-inch radius on the external comers.
 1. All access ladder structural shapes shall be manufactured with vinyl ester as required by the surrounding environmental conditions.
 	1. FABRICATION
    1. Grating:
-         1. * 
-	1. The floor grating shall be designed for three times a normal live load of 100 Ibs/sf, Maximum deflection under a 100 Ib/sf load within a temperature range of 20°F to 130°F shall not exceed 1/4-inch or 1/200 of the span, whichever is least.
+         1. 	1. The floor grating shall be designed for three times a normal live load of 100 Ibs/sf, Maximum deflection under a 100 Ib/sf load within a temperature range of 20°F to 130°F shall not exceed 1/4-inch or 1/200 of the span, whichever is least.
 	2. The grating shall be fabricated with a non-skid surface under wet or dry conditions. Said surface shall be flexible enough at low temperatures to prevent the nonskid surface from cracking off.
 	3. Grating shall be fabricated from field dimensions taken after facilities requiring passing through the gratings are in place.
 	4. Individual grating panels shall not exceed a total weight of 125Ibs unless otherwise shown or approved.
@@ -42,16 +37,16 @@ tags: ['Facility', 'Construction', 'Wood', 'Plastics', 'Composites', 'Fiberglass
 2. Ladder rungs shall be 1-inch diameter solid thermal cure rod with a non-slip surface.
 3. The rung shall penetrate the wall of the side rail and be bonded and riveted to said side rail, thereby providing a structural connection that is both chemical and mechanical.
 
-* 
 	1. FRAMING
    1. Grating frames set in concrete shall be made of ¼-inch, 304 stainless steel angles. Angles shall be shop connected at comers to form a single framing unit fitting the field dimensions of the opening. Connections shall be non-mechanical. Comers shall be smooth and flush.
    1. The frames shall be anchored into surrounding concrete with stainless steel anchors.
    1. All required grating fasteners shall be stainless steel.
    1. Furnish ladder and brackets complete to attach to concrete surface.
-   1. Execution
+
+## Execution
+
 1.  
 
-* 
 	
 ## General
 

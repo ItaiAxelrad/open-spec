@@ -32,8 +32,7 @@ tags: ['Facility', 'Construction', 'Concrete', 'Cast-in-Place']
    1. crete pressive Cu. Yd. per sack of Entrained 
    1. Class Strength 94 Pound Cement Slump Air
    1. Content P.S.I. Sacks Gallons in Inches
-   1. Cl.4 4,000 6.7 5.0 1-4* 
-
+   1. Cl.4 4,000 6.7 5.0 1-4
  *A tolerance of + 1" for a single batch will be allowed if the average of the most recent 10 batches does not exceed the maximum limit.
 
  **Entrained air content shall vary with maximum aggregate size as follows:
@@ -45,16 +44,13 @@ tags: ['Facility', 'Construction', 'Concrete', 'Cast-in-Place']
 1. 2.02 MATERIALS
     1. The materials for performing the work under this section of the specifications shall meet the following minimum require­ments.
 
- **A. Portland Cement:** 
-    1. Portland Cement shall comply with the Standard Specifica­tions for Portland Cement, ASTM C-150 and shall be Type II unless other types are specifically authorized or required for a particular project as follows:
+ **A. Portland Cement:*    1. Portland Cement shall comply with the Standard Specifica­tions for Portland Cement, ASTM C-150 and shall be Type II unless other types are specifically authorized or required for a particular project as follows:
     1. 1) Type III - where high early strength is required
     1. 2) Type V - where high sulfate resistance is required
 
- **B. Water:** 
-    1. The source of water used in the concrete shall be approved by the engineer and the water shall be fresh, clear, and free from injurious amounts of sugar, sewage, oil, acid, alkali salts, or organic matter.
+ **B. Water:*    1. The source of water used in the concrete shall be approved by the engineer and the water shall be fresh, clear, and free from injurious amounts of sugar, sewage, oil, acid, alkali salts, or organic matter.
 
- **C. Fine Aggregate:** 
-    1. Fine aggregate shall consist of hard, strong, durable parti­cles conforming to the provisions of Standard Specifications for Concrete Aggregate (ASTM Designation C-33) and the following grading specifications.
+ **C. Fine Aggregate:*    1. Fine aggregate shall consist of hard, strong, durable parti­cles conforming to the provisions of Standard Specifications for Concrete Aggregate (ASTM Designation C-33) and the following grading specifications.
    1. Sieve Designation Percentage by Weight
    1. U.S. Standard Square Mesh Passing
     1. 3/8 inch 100%
@@ -83,11 +79,9 @@ tags: ['Facility', 'Construction', 'Concrete', 'Cast-in-Place']
     1. The maximum size of aggregate shall not be larger than one-fifth of the narrowest dimension between sides of the forms of the member for which the concrete is to be used, nor larger than three-fourths of the minimum clear spacing between reinforcing bars, nor larger than one-third of the depth of slabs.
     1. The percentage of wear when tested in accordance with ASTM Designation C-131 (Los Angeles Rattler Test) shall not be more than 50. The coarse aggregate shall not have more than 1 percent of material removed by the decantation test (ASTM C123), nor more than 5 percent of soft fragments; nor more than 3 percent of clay lumps. The total of shale, coal, clay lumps, and soft fragments shall not be more than 5%.
 
- **E. Air-Entraining Admixtures:** 
-    1. Use in all concrete exposed to the weather or freeze-thaw cycles and as specified for class of concrete used. Air-entraining admixtures shall conform to ASTM C260. The use of any other material added to the concrete mix will require prior approval by the Engineer.
+ **E. Air-Entraining Admixtures:*    1. Use in all concrete exposed to the weather or freeze-thaw cycles and as specified for class of concrete used. Air-entraining admixtures shall conform to ASTM C260. The use of any other material added to the concrete mix will require prior approval by the Engineer.
 
- **F. Steel Reinforcement:** 
-
+ **F. Steel Reinforcement:*
  **1.** Reinforcing bars shall conform to the requirements of Specification for Deformed Billet-Steel Bars for Concrete Reinforcement (ASTM A615), or Specification for Rail-Steel Deformed Bars for Concrete Reinforcement (ASTM A616), or Specification for Axle-Steel Deformed Bars for Concrete Reinforcement (ASTM A617). All reinforcing bars shall be Grade 60.
 
  **2.** Welded wire fabric or cold-drawn wire for concrete reinforcement shall conform to the requirements of Specifi­cations for Cold-Drawn Steel Wire for Concrete Reinforcement (ASTM A82) or Specifications for Welded Steel Wire Fabric for Concrete Reinforcement (ASTM A185).
@@ -95,8 +89,7 @@ tags: ['Facility', 'Construction', 'Concrete', 'Cast-in-Place']
  **G. Premoulded Joint Filler:
     1. Premoulded Joint Filler for Expansion joints shall meet the requirements of ASTM D1751, "Preformed Expansion Joint Fillers for Concrete Paving and Structural Construction (Non-Extruding and Resilient Bituminous Types)" or ASTM D1752, "Preformed Expansion Joint Fillers for Concrete Paving and Structural Construction (Non-extruding and Resil­ient Non-bituminous Types)", unless shown otherwise on the plans.
 
- **H. Joint Sealer** 
-    1. Joint Sealer shall meet the requirements of ASTM D1190 for "Concrete Joint Sealer, Hot Poured Elastic Type," unless shown otherwise on the plans.
+ **H. Joint Sealer*    1. Joint Sealer shall meet the requirements of ASTM D1190 for "Concrete Joint Sealer, Hot Poured Elastic Type," unless shown otherwise on the plans.
 
  **I. Waterstops:
     1. Water or polyvinyl chloride water stops shall be placed in joints of structures as shown on the Drawings.
@@ -139,7 +132,7 @@ tags: ['Facility', 'Construction', 'Concrete', 'Cast-in-Place']
     1. Chamfer all exposed corners of beam and wall forms with wood strips 3/4 inch by 3/4 inch. Extend terminal edges to required limit and miter chamfer strips at changes in direc­tion.
     1. Forms shall be removed in such a manner as to insure the complete safety of the structure. Where the structure as a whole is supported on shores, the removable floor forms, beams and girder sides, column and similar vertical forms may be removed after 24 hours, providing the concrete is sufficiently hard not to be injured thereby. Formwork supporting weight of concrete, such as beam soffits, joists, slabs and other structural elements may not be removed until concrete has attained design minimum 28-day compressive strength.
 1. 3.07 Reinforcing:
-    1. **A. General** - Fabrication and installation of reinforcing steel shall conform to ACI 315.
+    1. A. General** - Fabrication and installation of reinforcing steel shall conform to ACI 315.
 
  **B.** **Cutting and Bending** - Reinforcement bars shall be cut and bent at the mill or shop before shipment to the work. Bending in the field will not be permitted, except to cor­rect errors or bends caused by handling, and then only when specifically authorized in writing by the Engineer. All bending shall be done cold.
     1. All reinforcement bars furnished shall be listed with com­plete plans and shall be delivered on the job in bundles securely tied. Both straight and bent bars shall be marked clearly with metal tags giving the quantity, size, length and designation of the structure in which they are to be placed.
@@ -151,9 +144,9 @@ tags: ['Facility', 'Construction', 'Concrete', 'Cast-in-Place']
     1. Where changes in the cross section of a column occur, the longitudinal bars shall be offset in a region where lateral support is afforded. Where offset, the slope of the in­clined portion shall not be more than 1 in 6, and in the case of tied columns the ties shall be spaced not more than 3 inches on centers for a distance of 1 foot below the actual point of offset.
 
  **Concrete Protection for Reinforcement:
-    1. **1.** The metal reinforcement shall be protected by the 
+    1. 1.** The metal reinforcement shall be protected by the 
     1. thickness of concrete indicated in the plans. Where not otherwise shown the thickness of concrete over the rein­forcement shall be as follows:
-    1. **a.** Where concrete is deposited against ground without the use of forms, not less than 3 inches.
+    1. a.** Where concrete is deposited against ground without the use of forms, not less than 3 inches.
 
  **b.** Where concrete is exposed to the weather or exposed to the ground but placed in forms, not less than 2 inches for bars more than 5/8 inches in diameter and 12 inches for bars 5/8 inches or less in diameter.
 
@@ -166,16 +159,16 @@ tags: ['Facility', 'Construction', 'Concrete', 'Cast-in-Place']
  **2.** Exposed reinforcement bars intended for bonding with
     1. future extensions shall be protected from corrosion.
 1. 3.09 Placement of Concrete:
-    1. **1.** No concrete shall be placed until all formwork, rein­forcement, installation of parts to be embedded, bracing of forms, and preparation of surfaces involved in the placing have been approved by the Engineer. No concrete shall be placed in water, except with the written permission of the Engineer, and the method of depositing the concrete shall be subject to his approval. All surfaces of forms and embedded materials that have become encrusted with dried mortar or grout from concreted previously placed shall be cleaned of all such mortar or grout before the surrounding or adjacent concrete is placed. Immediately before placing concrete, all surfaces upon or against which the concrete is to be placed shall be free from standing water, mud, debris or loose material. The surfaces of absorptive materials against which the concrete is to be placed shall be free from standing water, mud, debris or loose material. The surfaces of absorptive materials against or upon which concrete is to be placed shall be moistened thoroughly so that moisture will not be drawn from the freshly placed concrete.
+    1. 1.** No concrete shall be placed until all formwork, rein­forcement, installation of parts to be embedded, bracing of forms, and preparation of surfaces involved in the placing have been approved by the Engineer. No concrete shall be placed in water, except with the written permission of the Engineer, and the method of depositing the concrete shall be subject to his approval. All surfaces of forms and embedded materials that have become encrusted with dried mortar or grout from concreted previously placed shall be cleaned of all such mortar or grout before the surrounding or adjacent concrete is placed. Immediately before placing concrete, all surfaces upon or against which the concrete is to be placed shall be free from standing water, mud, debris or loose material. The surfaces of absorptive materials against which the concrete is to be placed shall be free from standing water, mud, debris or loose material. The surfaces of absorptive materials against or upon which concrete is to be placed shall be moistened thoroughly so that moisture will not be drawn from the freshly placed concrete.
 
  **2.** The concrete shall be placed by equipment which will prevent segregation or loss of ingredients. There shall be no vertical drop greater than 5 feet unless suitable equip­ment is provided to prevent segregation. Any belt conveyor, chute, tremie, or other similar equipment which may be used in the placement of concrete will be subject to approval of the Engineer. Concrete shall not be transported in the form by use of the vibrator. Placement of the concrete shall be regulated so that concrete may be and shall be deposited in lifts approximately 20 inches in thickness. The placement shall be carried on at such a rate that the formation of cold joints will be prevented. The temperature of the concrete as placed in the form shall not exceed 90E Fahren­heit, nor shall the temperature be less than 50E Fahrenheit. Higher minimum placement temperatures may be required in accordance with ACI 306. Concrete shall be compacted with mechanical vibrating equipment as required. The vibrating equipment shall be of the internal type and shall at all times be adequate in number of units and power of each unit to properly consolidate all concrete.
 1. 3.10 Joints:
-    1. **A. Construction Joints** - The location of all construction joints will be subject to the approval of the Engineer. The surface of all construction joints shall be cleaned of all laitance, loose or defective concrete, coatings, or foreign material by wire brushing or sand blasting followed by thoroughly washing with high pressure air-water jets immedi­ately prior to placement of fresh concrete. In addition, joints shall be thoroughly wetted and slushed with a coat of neat cement grout immediately before the placing of new concrete.
+    1. A. Construction Joints** - The location of all construction joints will be subject to the approval of the Engineer. The surface of all construction joints shall be cleaned of all laitance, loose or defective concrete, coatings, or foreign material by wire brushing or sand blasting followed by thoroughly washing with high pressure air-water jets immedi­ately prior to placement of fresh concrete. In addition, joints shall be thoroughly wetted and slushed with a coat of neat cement grout immediately before the placing of new concrete.
 
  **B. Control Joints** - Provide control joints at maximum of 15 feet each way, unless otherwise noted, in interior slabs on grade.
 1. 3.11 Repair of Surface Defects:
-    1. **Patching** - After forms are removed, remove all flaws or damaged area resulting from improper or poor concreting operations, rebuild or patch when approved by the Engineer. For patched areas, conform to the following:
-    1. **A. Preparation of Surface:** Immediately after stripping formwork, remove defective and honeycombed areas to sound concrete with edges regular and perpendicular to surface. Wet thoroughly these areas and all tie-holes and then paint with a cement-water paste, followed immediately by the patching mortar.
+    1. Patching** - After forms are removed, remove all flaws or damaged area resulting from improper or poor concreting operations, rebuild or patch when approved by the Engineer. For patched areas, conform to the following:
+    1. A. Preparation of Surface:** Immediately after stripping formwork, remove defective and honeycombed areas to sound concrete with edges regular and perpendicular to surface. Wet thoroughly these areas and all tie-holes and then paint with a cement-water paste, followed immediately by the patching mortar.
 
  **B. Patching Mortar:** Prepare mortar of same material and proportions as sued for concrete except remove coarse aggre­gate and use Type I cement. If gray concrete is to be exposed and unpainted, substitute part of gray cement so that patching mortar, when dry, will match surrounding concrete (approximately one part white cement to one part gray cement). Keep water to a minimum.
 
@@ -183,7 +176,7 @@ tags: ['Facility', 'Construction', 'Concrete', 'Cast-in-Place']
 1. 3.12 Finishing
 
  **A. Finish of Formed Surfaces:
-    1. **1. Rough Form Finish** - This includes formed concrete surfaces not exposed to view in the finish work or covered by other construction, unless otherwise shown or specified. Standard rough form finish shall be the concrete surface having the texture imparted by the form facing material used, with tie holes and defective areas repaired and patched and all fins and other projections exceeding 3 inch in height rubbed down or chipped off.
+    1. 1. Rough Form Finish** - This includes formed concrete surfaces not exposed to view in the finish work or covered by other construction, unless otherwise shown or specified. Standard rough form finish shall be the concrete surface having the texture imparted by the form facing material used, with tie holes and defective areas repaired and patched and all fins and other projections exceeding 3 inch in height rubbed down or chipped off.
 
  **2. Smooth Form Finish** - This includes formed concrete surfaces exposed to view or to be covered with a coat­ing material applied directly to the concrete, or a covering material bonded to the concrete, such as waterproofing, damp-proofing, painting or other similar system. Produce smooth form finish by selecting form materials to impart a smooth, hard, uniform texture and arranging them 
     1. orderly and symmetrically with a minimum of seams. Repair and patch defective areas with all fins or other projections completely removed and smoothed.
@@ -193,13 +186,13 @@ tags: ['Facility', 'Construction', 'Concrete', 'Cast-in-Place']
  **4. Related Unformed Surfaces** - At tops of walls, horizontal offsets, and similar unformed surfaces occurring adjacent to formed surfaces, strike off smooth and finish with a texture matching the adjacent formed surfaces. Continue the final surface treatment of formed surfaces uniformly across the adjacent un­formed surfaces, unless other shown.
 
  **B. Monolithic Slab Finishes:
-    1. **1. Floated Finish** - After the concrete has been placed, consolidated, struck off, and leveled, the concrete shall not be worked further until ready for floating. Floating shall begin when the water sheen has disappeared and when the surface has stiffened sufficiently to permit the operation. During or after the first floating, planeness of surface shall be checked with a 10-foot straightedge applied at not less than two different angles. All high spots shall be cut down and all low spots filled during this procedure to produce a surface plane within tolerance no exceeding 3 inch in 10 feet throughout. The slab shall then be refloated immediately to a uniform sandy texture.
+    1. 1. Floated Finish** - After the concrete has been placed, consolidated, struck off, and leveled, the concrete shall not be worked further until ready for floating. Floating shall begin when the water sheen has disappeared and when the surface has stiffened sufficiently to permit the operation. During or after the first floating, planeness of surface shall be checked with a 10-foot straightedge applied at not less than two different angles. All high spots shall be cut down and all low spots filled during this procedure to produce a surface plane within tolerance no exceeding 3 inch in 10 feet throughout. The slab shall then be refloated immediately to a uniform sandy texture.
 
  **2. Troweled Finish** - Apply trowel finish to monolith­ic slab surfaces that are to be exposed to view unless otherwise shown in schedule. The surface shall first be float finished. It shall next be power-troweled, and finally hand-troweled. The first troweling after power-floating shall produce a smooth surface which is relatively free of defects but which may still show some trowel marks. Additional trowelings shall be done by hand after the surface has hardened sufficiently. The final troweling shall be done when a ringing sound is produced as the trowel is moved over the surface. The surface shall be thoroughly consolidated by the hand-troweling operations. The finished surface shall be essentially free of trowel marks, uniform in texture and appearance and shall be planed to a tolerance not exceeding 1/8 inch in 10 feet. On surfaces intended to support floor coverings, any defects of sufficient magnitude to show through the floor covering shall be removed by grinding.
 1. 3.13 Curing and Protection
 
  **A.** Curing shall be in accordance with ACI 308 and as follows. All structural concrete shall be cured for a period of no less than 5 consecutive days starting immedi­ately after placement by an approved method or a combination of methods. The curing medium shall be applied so as to prevent loss of moisture from the concrete for the duration of the entire curing period. Unhardened concrete shall be protected from heavy rains and flowing water. Curing may be accomplished by any of the following methods:
-    1. **1. Water Curing** - Wood forms shall be kept continu­ously wet while in place. Immediately upon removal of forms, all concrete surfaces shall be kept wet by suitable sprays, covering and/or other methods of keeping water on the surface. Water curing shall not be begun for concrete flat-work until finishing work is completed.
+    1. 1. Water Curing** - Wood forms shall be kept continu­ously wet while in place. Immediately upon removal of forms, all concrete surfaces shall be kept wet by suitable sprays, covering and/or other methods of keeping water on the surface. Water curing shall not be begun for concrete flat-work until finishing work is completed.
 
  **2. Membrane Curing** - At the option of the contractor, the concrete may be cured with an approved surface membrane formed from a curing compound manufactured for that purpose. The compound shall be white pigmented and shall conform to the specifications for liquid membrane forming compounds for curing concrete ASTM C309. The compound shall be applied to formed surfaces immediately after the forms are removed and prior to any patching or other surface treatment, except the cleaning of loose sand, mortar, and debris from the surface. The surfaces shall be thoroughly moistened with water and the curing compound applied as soon as free water disappears. On unformed surfaces, the membrane shall be applied as soon as the wet sheet disappears. A two-coat application shall be used with approved power spraying equipment and at the coverage of not more than 200 square feet per gallon for each coat. The second coat shall be applied at approximate­ly right angles to the direction of the first applica­tion. Coated surfaces which are subject to heavy rainfall within three hours after the curing compound has been applied shall be resprayed by the methods and at the coverage herein specified. Coating shall be protected from pedestrian and vehicular traffic and any other causes which will disrupt the continuity of the curing membrane.
 
@@ -221,8 +214,7 @@ tags: ['Facility', 'Construction', 'Concrete', 'Cast-in-Place']
     1. specified requirements, including strength, tolerances, and finishes, shall be corrected as directed by the Engineer at the Contractor's expense, without extension of time there­for.
     1. The Contractor shall also be responsible for the cost of corrections to any other work affected by or resulting from corrections to the concrete work.
 
- **B. Evaluation of Quality Control Tests:** 
-
+ **B. Evaluation of Quality Control Tests:*
  **1. Compressive Strength Tests** for laboratory cured cylinders will be considered satisfactory if they comply with the requirements of ASTM C94, Section 16. Part of Section 16 reads:
     1. "For concrete, in structures designed by the ultimate strength method and in prestressed structures, not more than 10% of the strength tests shall have values less than the specified strength, /'c, and the average of any three consecutive strength tests shall be equal to or greater than the specified strength."
     1. The required compressive strength of concrete shall be construed to be that class (as specified in paragraph 2 of this section), or strength, indicated on the draw­ings.

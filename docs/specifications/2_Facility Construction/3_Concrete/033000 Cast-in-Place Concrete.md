@@ -7,14 +7,9 @@ subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Concrete', 'Cast-in-Place']
 ---
 
-1. SECTION 03 30 00
-1. CAST-IN-PLACE CONCRETE
-
 ## General
 
-
-* 
-	1. **Summary
+1. SUMMARY
    1. This section describes materials and methods for formwork, reinforcement, mixing, placement, curing and repairs of concrete, and the use of cementitious materials and other related products. This section includes concrete, mortar, grout, reinforcement, thrust and anchor blocks, valve support blocks and manhole bases. 
    1. Section Includes:
       1. 
@@ -128,12 +123,13 @@ tags: ['Facility', 'Construction', 'Concrete', 'Cast-in-Place']
    1. Non-shrink grout shall be a non-metallic cement-based product intended for filling general construction voids or grouting of base plates for equipment or structural members. The non-shrink grout shall exhibit the properties of high compressive and bond strengths and zero shrinkage, and shall be capable of mixing to a variable viscosity ranging from a dry pack to a fluid consistency as required for the application. The non-shrink grout shall be selected from the Approved Materials List. 
 1. 2.13 DAMP-PROOFING FOR CONCRETE STRUCTURES
    1. Damp-proofing material shall consist of two coats of a single-component self-priming, heavy-duty cold-applied coal tar selected from the Approved Materials List.
-   1. Execution
+
+## Execution
+
 1. 3.01 Delivery, Storage, And Handling
    1. Deliver reinforcing steel to the site bundled and tagged with identification. Store on skids to keep bars clean and free of mud and debris. If contaminated, all bars shall be cleaned by wire brushing, sand blasting, or other means prior to being set in forms.
 
-* 
-	1. **PREPARATION
+	1. PREPARATION
    1. Refer to applicable Sections of ACI 301 and ACI 304, "Recommended Practice for Measuring, Mining, Transporting and Placing Concrete", except as modified by the supplemental requirements specified in this Section. For numbers in parenthesis, refer to ACI 301 paragraphs.
 	1. (8.2) Aluminum pipes, chutes, or other aluminum devices shall not be used to convey concrete.
 	2. Notify Owner 48 hours prior to any concrete pour.
@@ -167,8 +163,7 @@ tags: ['Facility', 'Construction', 'Concrete', 'Cast-in-Place']
    1. Immediately upon the removal of forms, voids shall be neatly filled with cement mortar, non-shrink grout, or epoxy bonding agent and repair mortar as required for the application and as directed by the City Engineer.
 2. The surfaces of concrete exposed to view shall be smooth and free from projections or depressions.
 3. Exposed surfaces of concrete not poured against forms, such as horizontal or sloping surfaces, shall be screeded to a uniform surface, steel-toweled to densify the surface, and finished to a light broom finish. 
-1. 3.06 PROTECTION AND CURING OF CONCRETE** 
-   1. The Contractor shall protect all concrete against damage. Exposed surfaces of new concrete shall be protected from the direct rays of the sun by covering them with plastic film wrap and by keeping them damp for at least 7 days after the concrete has been placed, or by using an approved curing process. Exposed surfaces shall be protected from frost by covering with tarps for at least 5 days after pouring. 
+1. 3.06 PROTECTION AND CURING OF CONCRETE*   1. The Contractor shall protect all concrete against damage. Exposed surfaces of new concrete shall be protected from the direct rays of the sun by covering them with plastic film wrap and by keeping them damp for at least 7 days after the concrete has been placed, or by using an approved curing process. Exposed surfaces shall be protected from frost by covering with tarps for at least 5 days after pouring. 
 1. 3.07 REPAIRS TO DAMAGED CONCRETE SURFACES
    1. Minor surface damage to hardened cast-in-place or precast concrete may be repaired, at the discretion of the City Engineer, using the specified materials in accordance with the manufacturer's recommendations and the following procedures:
       1. 
@@ -178,8 +173,7 @@ tags: ['Facility', 'Construction', 'Concrete', 'Cast-in-Place']
 2. General Purpose:
       1. 
 	1. Remove loose and deteriorated concrete by mechanical means, sandblasting or high-pressure water blasting. Clean all debris from the area and apply non-shrink grout in a 1/4” minimum thickness, at the desired consistency, ranging from a dry pack, to a fluid-poured into a formed area, according to the application. Cure the material as for concrete in accordance with this specification.
-1. 3.08 DAMP-PROOFING FOR THE EXTERIOR OF CONCRETE STRUCTURES** 
-   1. Following completion of the exterior surfaces of manholes and vaults, including necessary repairs and piping penetrations into the structure, apply the specified material to prepared concrete surfaces in accordance with the manufacturer's recommendations. The surfaces to be coated shall be fully cured and free of laitance and contamination. The material shall be applied to all exterior surfaces below a point 12” above the water table or indications of seepage or moisture as directed by the City Engineer. Apply two 5 mil coats, curing between coats, prior to backfill and/or immersion in accordance with the manufacturer's recommendations. 
+1. 3.08 DAMP-PROOFING FOR THE EXTERIOR OF CONCRETE STRUCTURES*   1. Following completion of the exterior surfaces of manholes and vaults, including necessary repairs and piping penetrations into the structure, apply the specified material to prepared concrete surfaces in accordance with the manufacturer's recommendations. The surfaces to be coated shall be fully cured and free of laitance and contamination. The material shall be applied to all exterior surfaces below a point 12” above the water table or indications of seepage or moisture as directed by the City Engineer. Apply two 5 mil coats, curing between coats, prior to backfill and/or immersion in accordance with the manufacturer's recommendations. 
 1. 3.09 THRUST AND ANCHOR BLOCKS
    1. The Design Engineer shall be responsible for sizing all thrust blocks and anchor blocks required for the project in accordance with the requirements of the City Agencies’ Design Guide.
    1. Thrust Block Placement:
@@ -193,5 +187,5 @@ tags: ['Facility', 'Construction', 'Concrete', 'Cast-in-Place']
 	1. Support blocks below valves shall be cut into the side of the trench a minimum of 12".
 	2. Support blocks shall extend up to the height of adjoining pipe and shall have a minimum depth below the valve of 12".
 	3. Support blocks shall be installed so that the valves will be accessible for repairs.
-   1. END OF SECTION
+   
 

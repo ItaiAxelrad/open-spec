@@ -7,14 +7,13 @@ subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Utilities', 'Aboveground', 'Hydrocarbon', 'Storage', 'Tanks']
 ---
 
-1. SECTION 33 56 13
+
 1. ABOVE GROUND FUEL STORAGE TANKS
 1. BASED ON DFD MASTER SPECIFICATION DATED 10/01/2012
 1. *Note to the designer:
-      1. This section has been written to cover most (but not all) situations that you will encounter. Depending on the requirements of your specific project, you may have to add material, delete items, or modify what is currently written. The Division of Facilities Development expects changes and comments from you.*** 
-1. P A R T I - G E N E R A L
+      1. This section has been written to cover most (but not all) situations that you will encounter. Depending on the requirements of your specific project, you may have to add material, delete items, or modify what is currently written. The Division of Facilities Development expects changes and comments from you.**1. P A R T I - G E N E R A L
 1. SCOPE
-   1. The work under this section shall consist of providing all materials, labor, equipment, and supervision necessary to install ***(quantity, sizes)*** gallon double-walled aboveground petroleum storage tank***(s)*** with appropriate openings and appurtenances to meet the needs of the system required in these specifications and on the drawings. The finished product of the work shall comply with all applicable administrative regulatory codes. ***(Note to the designer:
+   1. The work under this section shall consist of providing all materials, labor, equipment, and supervision necessary to install ***(quantity, sizes)*** gallon double-walled aboveground petroleum storage tank***(s)*** with appropriate openings and appurtenances to meet the needs of the system required in these specifications and on the drawings. The finished product of the work shall comply with all applicable administrative regulatory codes. *(Note to the designer:
       1. Include brief description of the work and locations, if necessary).*** Included are the following topics:
     1. 
 ## General
@@ -63,8 +62,7 @@ Site Restoration
    1. Construction Verification Items
    1. Functional Performance Testing
    1. Agency Training  
-   1. RELATED WORK** 
-   1. Section 01 91 01 or 01 91 02 – Commissioning Process
+   1. RELATED WORK*   1. Section 01 91 01 or 01 91 02 – Commissioning Process
    1. Division 3 - Concrete
    1. Division 26 – Electrical
    1. Division 31 – Earthwork
@@ -214,7 +212,7 @@ The dimensions of the tank shall not exceed ***(specify maximum)*** inches diame
       1. Tanks shall be installed in accordance with the requirements for aggregate storage capacity at the site, setbacks, vehicle collision protection, labeling, and all other installation requirements not indicated in the contract documents but specified in COM 10.415.
    1. Tanks shall be installed on a reinforced concrete base slab designed to support the fully loaded tank. Protective concrete barriers shall be installed on sides exposed to vehicular traffic. Location of protective concrete barriers shall be in accordance with State and local codes. Paint protective concrete barriers to match tank color.
    1. Tanks shall be marked on all sides with warning signs:
-      1. ***(“FLAMMABLE” or “COMBUSTIBLE”, as appropriate for the intended contents)***, product identification, and other signs as required by the applicable codes.
+      1. *(“FLAMMABLE” or “COMBUSTIBLE”, as appropriate for the intended contents)***, product identification, and other signs as required by the applicable codes.
    1. FUEL DISPENSERS AND PUMPS:
       1. If not integral to the aboveground storage tank units, the product dispensers shall be installed on the concrete pad at the locations indicated on the drawings.
    1. The dispensers shall be installed and wired, and attached to the piping by a qualified installer and in accordance with Division 26 - Electrical.
@@ -225,7 +223,7 @@ The dimensions of the tank shall not exceed ***(specify maximum)*** inches diame
    1. ELECTRICAL:
       1. Electrical work shall be in accordance with applicable codes and shall be rated for hazardous area as required. Electrical system for dispenser pumps shall include an emergency shutoff switch located per code requirements. Tanks shall be electrically grounded in accordance with NFPA 78 and as shown on the drawings. Refer to Division 26 - Electrical.
    1. The tank system installations shall be inspected and approved by the system supplier or its certified contractor. The system supplier shall submit a comprehensive checklist of quality and safety items critical to the system and verify that the installation has been performed in accordance with these standards applicable fire and environmental codes.
-   1. State and local permit applications shall be completed using the correct forms. **System installation shall not start before obtaining the required State and local permits and approvals.
+   1. State and local permit applications shall be completed using the correct forms. System installation shall not start before obtaining the required State and local permits and approvals.
 1. TESTING AND GUARANTEE
    1. Test all newly installed equipment for compliance with requirements of local, state, and federal regulations and to determine that the system is operating properly.
    1. Upon completion of the installation work, submit to the Construction Representative a submittal packet which includes an as-built drawing and copies of all state and local government required paperwork and plan reviews, as well as manufacturers descriptions and specifications for all components of the system that were installed as part of the contract. In addition, provide a copy of the start-up test for the automatic tank gauge and monitoring panel.
@@ -235,10 +233,9 @@ The dimensions of the tank shall not exceed ***(specify maximum)*** inches diame
    1. Unless otherwise specified or noted on the drawings, fully and completely restore the surface of all disturbed areas to a like condition of the surface prior to the work. Sawcut all pavements to straight and neat lines and repair with like materials to the full depth of the pavement as existed prior to the work. Topsoil, fertilize, seed, and mulch (or sod) all disturbed landscaped areas with a minimum of four (4) inches of topsoil, fertilizer, seed, and mulch (or sod), or provide for the restoration of other landscaping materials as necessary.
    1. Level off all waste disposal areas and clean up all areas used for the storage of materials or the temporary deposit of excavated earth. Remove all surplus material, tools and equipment.
    1. Burning is not permitted.
-1. CONSTRUCTION VERIFICATION** 
-   1. Contractor is responsible for utilizing the construction verification checklists supplied under specification Section 33 08 00 in accordance with the procedures defined for construction verification in Section 01 91 01 or 01 91 02.
+1. CONSTRUCTION VERIFICATION*   1. Contractor is responsible for utilizing the construction verification checklists supplied under specification Section 33 08 00 in accordance with the procedures defined for construction verification in Section 01 91 01 or 01 91 02.
    1. AGENCY TRAINING
    1. All training provided for agency shall comply with the format, general content requirements and submission guidelines specified under Section 01 91 01 or 01 91 02.
    1. Contractor to provide factory authorized representative and/or field personnel knowledgeable with the operations, maintenance and troubleshooting of the system and/or components defined within this section for a minimum period of one hour. Training session must also include instructions on leak detection and record keeping as required by the Wisconsin Department of Commerce. Guidance must also be given as to how to respond in the event the monitoring panel indicates a leak in the system.
-   1. END OF SECTION
+   
 

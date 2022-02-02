@@ -7,7 +7,7 @@ subgroup: Facility Services
 tags: ['Facility', 'Services', 'Electrical', 'SWITCHBOARDS']
 ---
 
-1. SECTION 262413
+
 1. SWITCHBOARDS
 
 ## General
@@ -215,7 +215,9 @@ Conditions and Division 01 Specification Sections, apply to this Section.
 6. IDENTIFICATION
    1. Service Equipment Label:
       1. NRTL labeled for use as service equipment for switchboards with one or more service disconnecting and overcurrent protective devices.
-   1. Execution
+
+## Execution
+
 1. EXAMINATION
    1. Receive, inspect, handle, and store switchboards according to NECA 400.
    1. Examine switchboards before installation. Reject switchboards that are moisture damaged or physically damaged.

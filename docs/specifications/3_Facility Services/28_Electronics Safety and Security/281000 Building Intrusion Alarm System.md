@@ -12,9 +12,7 @@ tags: ['Facility', 'Services', 'Electronics', 'Safety', 'Security', 'Building', 
 
 ## General
 
-
-* 
-	1. Summary
+1. SUMMARY
    1. This section includes:
 	1. The basic requirements and intent for a design-build building intrusion alarm system.
 	2. General Requirements
@@ -75,13 +73,15 @@ tags: ['Facility', 'Services', 'Electronics', 'Safety', 'Security', 'Building', 
 	2. Provide at least two (2) sets of manufacturer’s hardware installation and software user guides for each level of authorized users.
 23. Test Plan:
 	1. Submit for approval at least 30 days prior to commencement of formal testing, a Security System Operational Test Plan. Include procedures for operational testing of each component and security subsystem, to include performance of an integrated system test.
-   ## Product (Not Used)
+
+## Product 
+
+ (Not Used)
 
 
 ## Execution
 
 
-* 
 	1. Installation
    1. Install the system in accordance with the equipment manufacturers recommended procedures.
 2. Install system using generally acceptable industry practices for network appliances.

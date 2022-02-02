@@ -7,9 +7,6 @@ subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Self-Adhering', 'Sheet', 'Waterproofing']
 ---
 
-   1. SECTION 07 13 26
-   1. SELF-ADHERING SHEET WATERPROOFING
-
 ## General
 
 1. RELATED DOCUMENTS
@@ -98,10 +95,7 @@ Installer, covering Work of this Section, for warranty period of two years.
       1. Water Absorption:
          1. 0.10 percent weight-gain maximum after 48-hour immersion at 70 deg F; ASTM D 570.
 2. AUXILIARY MATERIALS
-
-## General
-
-:
+	1. General:
       1. Furnish auxiliary materials recommended by waterproofing manufacturer for intended use and compatible with sheet waterproofing.
 1. Furnish liquid-type auxiliary materials that comply with VOC limits of authorities having jurisdiction.
    1. Primer:
@@ -124,7 +118,9 @@ Installer, covering Work of this Section, for warranty period of two years.
    1. Board Insulation:
       1. Extruded-polystyrene board insulation complying with ASTM C 578, square or shiplap edged.
 1. Type IV, 25-psi minimum compressive strength. 
-   1. Execution
+
+## Execution
+
 1. EXAMINATION
    1. Examine substrates, areas, and conditions, with Installer present, for compliance with requirements and other conditions affecting performance.
 1. Verify that concrete has cured and aged for minimum time period recommended by waterproofing manufacturer.

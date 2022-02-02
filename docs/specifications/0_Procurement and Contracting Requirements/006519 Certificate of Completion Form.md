@@ -9,8 +9,7 @@ tags: ['Procurement', 'Contracting', 'Requirements', 'Certificate', 'Completion'
 
 
  **Engineers Joint Documents Committee
-1. Design and Construction Related Documents** 
-1. Instructions and License Agreement
+1. Design and Construction Related Documents*1. Instructions and License Agreement
 1. Instructions
 1. Before you use any EJCDC document:
       1. Read the License Agreement. You agree to it and are bound by its terms when you use the EJCDC document.
@@ -46,10 +45,7 @@ tags: ['Procurement', 'Contracting', 'Requirements', 'Certificate', 'Completion'
 2. if EJCDC’s selling agent is unable to deliver a replacement CD or diskette which is free of defects in materials and workmanship, you may terminate this Agreement by returning EJCDC Document and your money will be refunded.
    1. In no event will EJCDC be liable to you for any damages, including any lost profits, lost savings or other incidental or consequential damages arising out of the use or inability to use **EJCDC Design and Construction Related Documents** even if EJCDC has been advised of the possibility of such damages, or for any claim by any other party.
    1. Some states do not allow the limitation or exclusion of liability for incidental or consequential damages, so the above limitation or exclusion may not apply to you.
-
-## General
-
-:
+	1. General:
       1. You may not sublicense, assign, or transfer this license except as expressly provided in this Agreement. Any attempt otherwise to sublicense, assign, or transfer any of the rights, duties, or obligations hereunder is void.
    1. This Agreement shall be governed by the laws of the State of Virginia. Should you have any questions concerning this Agreement, you may contact EJCDC by writing to:
     1. 

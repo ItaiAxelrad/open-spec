@@ -7,16 +7,11 @@ subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Openings', 'Access', 'Doors', 'Panels']
 ---
 
-   1. section 08 30 00
-   1. access doors and hatches
-
 ## General
 
-
-* 
-	1. **Summary
+1. SUMMARY
    1. Work under this section shall include materials and installation for access doors and hatches. 
-	1. **Quality Assurance
+	1. Quality Assurance
 2. Work shall be per:
 	1. American Association of State Highway and Transportation Officials (AASHTO).
 	2. ASTM International (ASTM):
@@ -28,19 +23,19 @@ tags: ['Facility', 'Construction', 'Openings', 'Access', 'Doors', 'Panels']
 		6. A666, Standard Specification for Annealed or Cold-Worked Austenitic Stainless Steel Sheet, Strip, Plate, and Flat Bar.
 		7. B209, Standard Specification for Aluminum and Aluminum-Alloy Sheet and Plate.
 		8. B221,Standard Specification for Aluminum and Aluminum-Alloy Extruded Bars, Rods, Wire, Profiles, and Tubes.
-	3. **Definitions
+	3. Definitions
 3. Standard duty:
       1. Will support live load of 150 psf. 
 4. Heavy duty:
       1. Will support live load of 300 psf. 
 5. H-20 loading:
       1. As defined in AASHTO Guidelines. 
-	1. **Submittals
+	1. Submittals
 6. See Specification Section 01 33 00 for requirements for the mechanics and administration of the submittal process.
 7. Shop drawings shall include:
 	1. Product technical data acknowledging that products submitted meet requirements of aforementioned standards, and manufacturer’s installation instructions.
 8. Provide Operation and Maintenance Data.
-   ## Product
+## Product
 1. 2.1 Acceptable Manufactures
    1. Subject to compliance with Contract Documents, the following manufacturers are acceptable:
 	1. Access doors:
@@ -50,7 +45,7 @@ tags: ['Facility', 'Construction', 'Openings', 'Access', 'Doors', 'Panels']
 		1. EJ America.
 		2. Bilco.
 2. Submit request for substation in accordance with Specification Section 01 25 00. 
-	1. **Materials
+	1. Materials
 3. Aluminum:
 	1. Sheet and Plate: ASTM B209.
 	2. Extruded shapes: ASTM B221.
@@ -60,7 +55,7 @@ tags: ['Facility', 'Construction', 'Openings', 'Access', 'Doors', 'Panels']
 	3. Hardware: Hot-Dip Galvanized, ASTM A153.
 5. Stainless Steel:
       1. ASTM A240 or A666.
-	1. **Manufactured Units
+	1. Manufactured Units
 6. A. General:
 	1. All access doors shall be provided by the same manufacturer when possible.
 	2. Coat all aluminum components in contact with concrete or masonry with manufacturer's standard bituminous coating.
@@ -97,6 +92,4 @@ tags: ['Facility', 'Construction', 'Openings', 'Access', 'Doors', 'Panels']
 
 1. 3.1 Installation
    1. Install products in accordance with manufacturer’s instructions.
-
-*[this page intentionally left blank]*
 

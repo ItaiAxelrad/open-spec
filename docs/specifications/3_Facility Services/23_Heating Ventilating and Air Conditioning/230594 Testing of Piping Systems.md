@@ -7,7 +7,7 @@ subgroup: Facility Services
 tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 'Testing', 'Piping', 'Systems']
 ---
 
-1. SECTION 23 05 94
+
 1. TESTING OF PIPING SYSTEMS
 1. 
 ## General
@@ -16,12 +16,10 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Drawings and general provisions of the Contract, including General and Supplementary Conditions and Division 1 Specification Sections, apply to this Section.
 1. SUMMARY
    1. This Section includes the provision of all labor material and equipment to test all the piping systems on the Project.
-1. System Description** 
-   1. Performance Requirements:
+1. System Description*   1. Performance Requirements:
       1. Test all piping systems provided under Division 23 sections of the Specifications. 
 1. PRODUCTS
-1. Equipment** 
-   1. Provide pumps, gages, valves, piping, flanges, blanks and other equipment and material necessary to properly conduct the tests. Check gages used for pressure tests against a dead weight tester and certify correct over the range of the gauge. 
+1. Equipment*   1. Provide pumps, gages, valves, piping, flanges, blanks and other equipment and material necessary to properly conduct the tests. Check gages used for pressure tests against a dead weight tester and certify correct over the range of the gauge. 
    1. Repair defects appearing during tests immediately with new material, at the Contractor's expense, and re-test the lines to prove elimination of defects. 
 1. EXECUTION
 1. ERECTION, INSTALLATION, APPLICATION
@@ -38,17 +36,11 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Make all tests before piping is concealed and covering is applied. 
    1. Take all necessary precautions and protections required when testing to protect all devices, equipment and specialties when test pressures exceed the pressure testing limitations of such items. 
    1. Underground Pipe Testing:
-
-## General
-
-:
+	1. General:
          1. Make required tests on underground piping included in this Contract. Make tests before backfilling is started. 
    1. Aboveground Pipe Testing:
       1. 
-
-## General
-
-:
+	1. General:
       1. 
    1. Include in the testing requirements for the respective piping systems, applicable governing codes and insurance company requirements, and those specified. Forward a copy of code-required plumbing inspection certificates for approval. 
    1. Make specified pressure tests as outlined below on piping included in this Contract. Make tests before piping is painted, covered, or concealed. 
@@ -110,5 +102,5 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Provide expansion joints with temporary restraints if required for the additional pressure load under test, or isolated during the pressure test.
    1. Provide piping systems subject to extended hydrostatic test periods with a protective device to relieve excess pressure due to thermal expansion.
    1. Slowly charge systems receiving this test with water to the pressure specified. Ensure that exterior surface of pipe and fitting does not show cracks or other forms of leaks and shall be completely drop dry. 
-1. END OF SECTION
+
 

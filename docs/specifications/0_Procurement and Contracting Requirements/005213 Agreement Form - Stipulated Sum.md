@@ -7,7 +7,7 @@ subgroup: Procurement and Contracting Requirements
 tags: ['Procurement', 'Contracting', 'Requirements', 'Agreement', 'Form', 'Stipulated', 'Sum']
 ---
 
-1. SECTION 00 52 13
+
 1. FORM OF AGREEMENT
 
 *AGREEMENT BETWEEN OWNER AND CONTRACTOR FOR CONSTRUCTION CONTRACT (STIPULATED PRICE)*
@@ -26,7 +26,6 @@ tags: ['Procurement', 'Contracting', 'Requirements', 'Agreement', 'Form', 'Stipu
 
 [or]
 
-* 
 	1. Days to Achieve Substantial Completion and Final Payment
 		1. The Work will be substantially completed within days after the date when the Contract Times commence to run as provided in Paragraph 2.03 of the General Conditions, and completed and ready for final payment in accordance with Paragraph 14.07 of the General Conditions within days after the date when the Contract Times commence to run.
 	2. Liquidated Damages
@@ -36,8 +35,6 @@ tags: ['Procurement', 'Contracting', 'Requirements', 'Agreement', 'Form', 'Stipu
 		1. For all Work other than Unit Price Work, a lump sum of: $
    1. All specific cash allowances are included in the above price in accordance with Paragraph 11.02 of the General Conditions.
 
-* 
-	+ 
 		1. For all Unit Price Work, an amount equal to the sum of the established unit price for each separately identified item of Unit Price Work times the actual quantity of that item:
       1. UNIT PRICE WORK
    1. Item No.
@@ -51,8 +48,6 @@ tags: ['Procurement', 'Contracting', 'Requirements', 'Agreement', 'Form', 'Stipu
 $
    1. The Bid prices for Unit Price Work set forth as of the Effective Date of the Agreement are based on estimated quantities. As provided in Paragraph 11.03 of the General Conditions, estimated quantities are not guaranteed, and determinations of actual quantities and classifications are to be made by Engineer as provided in Paragraph 9.07 of the General Conditions.
 
-* 
-	+ 
 		1. For all Work, at the prices stated in Contractor’s Bid, attached hereto as an exhibit.
    1. Payment Procedures
 	1. Submittal and Processing of Payments
@@ -60,8 +55,8 @@ $
 	2. Progress Payments; Retainage
 		1. Owner shall make progress payments on account of the Contract Price on the basis of Contractor’s Applications for Payment on or about the  day of each month during performance of the Work as provided in Paragraph 6.02.A.1 below. All such payments will be measured by the schedule of values established as provided in Paragraph 2.07.A of the General Conditions (and in the case of Unit Price Work based on the number of units completed) or, in the event there is no schedule of values, as provided in the General Requirements.
 			1. Prior to Substantial Completion, progress payments will be made in an amount equal to the percentage indicated below but, in each case, less the aggregate of payments previously made and less such amounts as Engineer may determine or Owner may withhold, including but not limited to liquidated damages, in accordance with Paragraph 14.02 of the General Conditions.
-				1.  percent of Work completed (with the balance being retainage). If the Work has been 50 percent completed as determined by Engineer, and if the character and progress of the Work have been satisfactory to Owner and Engineer, then as long as the character and progress of the Work remain satisfactory to Owner and Engineer, there will be no additional retainage; and
-				2.  percent of cost of materials and equipment not incorporated in the Work (with the balance being retainage).
+			1.  percent of Work completed (with the balance being retainage). If the Work has been 50 percent completed as determined by Engineer, and if the character and progress of the Work have been satisfactory to Owner and Engineer, then as long as the character and progress of the Work remain satisfactory to Owner and Engineer, there will be no additional retainage; and
+			2.  percent of cost of materials and equipment not incorporated in the Work (with the balance being retainage).
 		2. Upon Substantial Completion, Owner shall pay an amount sufficient to increase total payments to Contractor to percent of the Work completed, less such amounts as Engineer shall determine in accordance with Paragraph 14.02.B.5 of the General Conditions and less percent of Engineer’s estimate of the value of Work to be completed or corrected as shown on the tentative list of items to be completed or corrected attached to the certificate of Substantial Completion.
 	3. Final Payment
 		1. Upon final completion and acceptance of the Work in accordance with Paragraph 14.07 of the General Conditions, Owner shall pay the remainder of the Contract Price as recommended by Engineer as provided in said Paragraph 14.07.
@@ -85,28 +80,26 @@ $
 			2. Performance bond (pages to , inclusive).
 			3. Payment bond (pages to , inclusive).
 			4. Other bonds (pages to , inclusive).
-				1.  (pages to , inclusive).
-				2.  (pages to , inclusive).
-				3.  (pages to , inclusive).
+			1.  (pages to , inclusive).
+			2.  (pages to , inclusive).
+			3.  (pages to , inclusive).
 			5. General Conditions (pages to , inclusive).
 			6. Supplementary Conditions (pages to , inclusive).
 			7. Specifications as listed in the table of contents of the Project Manual.
 			8. Drawings consisting of sheets with each sheet bearing the following general title: [or] the Drawings listed on attached sheet index.
 			9. Addenda (numbers to , inclusive).
 			10. Exhibits to this Agreement (enumerated as follows):
-				1. Contractor’s Bid (pages to , inclusive).
-				2. Documentation submitted by Contractor prior to Notice of Award (pages to , inclusive).
-				3. *[List other required attachments (if any), such as documents required by funding or lending agencies].*
+			1. Contractor’s Bid (pages to , inclusive).
+			2. Documentation submitted by Contractor prior to Notice of Award (pages to , inclusive).
+			3. *[List other required attachments (if any), such as documents required by funding or lending agencies].*
 			11. The following which may be delivered or issued on or after the Effective Date of the Agreement and are not attached hereto:
-				1. Notice to Proceed (pages to , inclusive).
-				2. Work Change Directives.
-				3. Change Orders.
+			1. Notice to Proceed (pages to , inclusive).
+			2. Work Change Directives.
+			3. Change Orders.
    1. NOTE TO USER
 
 *If any of the items listed are not to be included as Contract Documents, remove such item from the list and renumber the remaining items.*
 
-* 
-	+ 
 		1. The documents listed in Paragraph 9.01.A are attached to this Agreement (except as expressly noted otherwise above).
 		2. There are no Contract Documents other than those listed above in this Article 9.
 		3. The Contract Documents may only be amended, modified, or supplemented as provided in Paragraph 3.04 of the General Conditions.

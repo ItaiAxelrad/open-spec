@@ -7,14 +7,11 @@ subgroup: Facility Services
 tags: ['Facility', 'Services', 'Electronics', 'Safety', 'Security', 'Access', 'Control']
 ---
 
-1. Copyright 2002 and 2005 (R 06/03), The American Institute of Architects (AIA)
-1. Verify that Section titles referenced in this Section are correct for this Project's Specifications; Section titles may have changed.
-
 ## General
 
-   1. RELATED DOCUMENTS
+1. RELATED DOCUMENTS
    1. Drawings and general provisions of the Contract, including General and Supplementary Conditions and Division 1 Specification Sections, apply to this Section.
-   1. SUMMARY
+1. SUMMARY
    1. This Section includes:
       1. 
    1. Provide a complete closed-circuit television (CCTV) system including, but not limited to, color cameras, software, programming, cabling and accessories as specified and indicated. System shall be connected to and integrated into existing system. Contractor shall verify existing system interface requirements, capacities, etc. and provide all necessary hardware and software required for a complete functional system. Final connections to existing system and programming shall be by Owner.
@@ -36,7 +33,7 @@ tags: ['Facility', 'Services', 'Electronics', 'Safety', 'Security', 'Access', 'C
    1. NEC
    1. UFC
    1. ADA
-   1. SUBMITTALS
+1. SUBMITTALS
    1. Refer to Related Division sections of the Specifications for administrative and procedural requirements for submittals.
    1. Includes, but not limited to, the following:
       1. Product data for each type of product specified, including dimensions and data on features, performance, electrical characteristics, ratings, and finishes, and outlet box or back box requirements for each piece of equipment.
@@ -63,12 +60,12 @@ tags: ['Facility', 'Services', 'Electronics', 'Safety', 'Security', 'Access', 'C
    1. Store security equipment in a clean, dry place. Protect from weather, dirt, fumes, water, construction debris, and physical damage.
    1. SEQUENCING AND SCHEDULING
    1. Coordinate installation of security access system with the installation of other building systems and components, including electrical wiring, supporting structures, building materials, and other components requiring interface with system.
-   1. WARRANTY
-   1. All equipment and labor shall be under warranty for one year after system has been accepted by NREL unless noted otherwise.
+1. WARRANTY
+   1. All equipment and labor shall be under warranty for one year after system has been accepted by Owner unless noted otherwise.
    1. Special Warranty:
       1. Manufacturer's standard form in which manufacturer agrees to repair or replace components of cameras, equipment related to camera operation, and control-station equipment that fail in materials or workmanship within specified warranty period:
       1. Three years from date of Substantial Completion.
-   1. QUALITY ASSURANCE
+1. QUALITY ASSURANCE
    1. Contractor shall be a certified installer/integrator of manufacturer of each system component with at least 5 years of certification from manufacturer. Contractor shall have at least 5 installations/projects with similar system components. Provide evidence of certification and installation history with shop drawings.
    1. Electrical Components, Devices, and Accessories:
       1. Listed and labeled as defined in NFPA 70, Article 100, by a testing agency acceptable to authorities having jurisdiction, and marked for intended use.
@@ -146,7 +143,7 @@ tags: ['Facility', 'Services', 'Electronics', 'Safety', 'Security', 'Access', 'C
    1. RS422 Line Driver:
       1. Nitek DL1142
 1. EXECUTION
-   1. EXAMINATION
+1. EXAMINATION
    1. Installation of Security Access Control System and CCTV System:
       1. Install in accordance with equipment manufacturer's written instructions, and in compliance with applicable installation standards specified above.
    1. Coordinate installation of security access system with installation of doors and door hardware.
@@ -235,6 +232,5 @@ tags: ['Facility', 'Services', 'Electronics', 'Safety', 'Security', 'Access', 'C
 
    1. Clean installed items using methods and materials recommended in writing by manufacturer.
    1. Clean lenses and monitor screens of any fingerprints, smudges, and other dirt and markings.
-1. END OF SECTION 282300
 1. (THIS PAGE INTENTIONALLY BLANK)
 

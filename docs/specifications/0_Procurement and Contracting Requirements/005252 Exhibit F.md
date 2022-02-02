@@ -15,9 +15,6 @@ tags: ['Procurement', 'Contracting', 'Requirements', 'Exhibit', 'F']
    1. Paragraph 5.02 of the Agreement is amended and supplemented to include the following agreement of the parties:
       1. Designing to Construction Cost Limit
 
-* 
-	+ 
-		- 
 			1. Owner and Engineer hereby agree to a Construction Cost limit in the amount of Dollars ($).
 			2. A bidding or negotiating contingency of  percent will be added to any Construction Cost limit established.
 			3. The acceptance by Owner at any time during Basic Services of a revised opinion of probable Construction Cost in excess of the then established Construction Cost limit will constitute a corresponding increase in the Construction Cost limit.

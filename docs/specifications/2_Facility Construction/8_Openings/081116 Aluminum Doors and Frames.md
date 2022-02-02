@@ -7,9 +7,6 @@ subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Openings', 'Aluminum', 'Doors', 'Frames']
 ---
 
-1. SECTION 08 11 16
-1. ALUMINUM DOORS AND FRAMES
-
 ## General
 
 1. RELATED DOCUMENTS
@@ -158,10 +155,7 @@ Project-site storage. Do not use nonvented plastic.
       1. Wool pile:
          1. Solid Propylene Base with resilient fibers in a standard black color.
 5. HARDWARE
-
-## General
-
-:
+	1. General:
       1. Provide door hardware from the following manufacturers model numbers for each door listed for aluminum flush doors in the door hardware schedule.
 1. Intramural Work:
       1. Hardware preparation according to hardware suppliers’ templates.
@@ -224,10 +218,7 @@ Project-site storage. Do not use nonvented plastic.
       1. Plus or minus 1/16 inch, measured at jambs on a perpendicular line from head to floor.
    1. Drill and tap doors and frames to receive nontemplated, mortised, and surface-mounted door hardware.
 3. INSTALLATION
-
-## General
-
-:
+	1. General:
       1. Install aluminum work plumb, rigid, properly aligned, and securely fastened in place;
 comply with Drawings and manufacturer's written instructions.
    1. Glazing:

@@ -7,9 +7,6 @@ subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Flexible', 'Paving', 'Repair']
 ---
 
-1. SECTION 02578
-1. AC PAVEMENT REMOVAL AND REPLACEMENT
-
 ## General
 
 01. DESCRIPTION
@@ -18,8 +15,7 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Flexible', 'Paving
 02. RELATED WORK SPECIFIED ELSEWHERE
    1. Standard Drawings
 2. Standard Specifications 01000, 01045, 01200, 01310, 01330, 01505, 01510, 01570, 02140, 02222, 02223, 02511, 02528, 03000, 03480, 03482, 09902, 09910, and Division 15.
-03. SUBMITTALS** 
-   1. Shop drawings shall be submitted in accordance with Section 01330 and the following.
+03. SUBMITTALS*   1. Shop drawings shall be submitted in accordance with Section 01330 and the following.
 2. Submit information on material sources, designs, and quality certifications.
 1. PART 2 - MATERIALS
 1. 2.01 ASPHALT CONCRETE PAVING
@@ -42,11 +38,7 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Flexible', 'Paving
 4. Final Pavement Saw Cuts:
       1. Final pavement saw cuts shall be straight along both sides of the trench, parallel to the pipeline alignment, and provide clean, solid, vertical faces free from loose material. Adjoining pavement which has been damaged or disturbed shall also be saw cut and removed. Saw cuts shall be parallel to the pipeline alignment or the roadway centerline or perpendicular to same.
 1. 3.02 ASPHALTH CONCRETE PAVEMENT REPLACEMENT
-
-## General
-
-
-: Producing, hauling, placing, compacting, and finishing of asphalt concrete shall conform to Section 302-5 of the Standard Specifications for Public Works Construction.
+	 1. General: Producing, hauling, placing, compacting, and finishing of asphalt concrete shall conform to Section 302-5 of the Standard Specifications for Public Works Construction.
 2. Base Course, Final Course and Striping:
       1. Base course paving shall be complete at all times to a point not to exceed 1,000 feet behind any working heading. The final asphalt surface course shall be at least 1-inch thick and shall be placed within a period of two weeks after traffic has been returned to that portion of the street. Temporary striping shall be applied after the base course of asphalt concrete pavement has been placed, in the same configuration as the existing permanent striping, so that traffic can be returned to normal patterns. Temporary striping shall be maintained until permanent striping is applied.
 1. 3.03 PREPARATION OF SUBGRADE
@@ -65,5 +57,5 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Flexible', 'Paving
    1. Concrete curbs, gutters, and sidewalks shall be replaced in accordance with Section 02528, Concrete Curbs, Gutters, and Sidewalks.
 1. 3.10 EMULSION-AGGREGATE SLURRY
    1. Certain street sections where shown on the plans or where required by the City may be required to receive an asphaltic slurry seal in conformance with Section 302-4, Standard Specifications for Public Works Construction after the final asphalt surface course. The composition and aggregate grading for slurry shall be Type II of Subsection 203-5.3.
-1. END OF SECTION
+
 

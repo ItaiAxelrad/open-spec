@@ -7,10 +7,9 @@ subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Chain', 'Link', 'Fences', 'Gates']
 ---
 
-
 ## General
 
-   1. References
+1. References
    1. American Society for Testing and Materials (ASTM)
    1. A121 - Specification for Zinc-Coated (Galvanized) Steel Barbed Wire.
    1. A123 - Specification for Zinc (Hot-Dip Galvanized) Coatings on Iron and Steel Products.
@@ -20,16 +19,18 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Chain', 'Link', 'F
    1. F567 - Practice for Installation of Chain-Link Fence.
    1. F626 - Specification for Fence Fittings.
    1. F1083 - Specification for Pipe, Steel, Hot-Dipped Zinc-Coated (Galvanized) Welded, for Fence Structures.
-   1. Submittals
+1. Submittals
    1. Shop Drawings
    1. Submit Shop Drawings indicating layout, dimensions, construction and erection details.
-   1. Products
-   1. Materials
+
+## Products
+
+1. Materials
    1. Chain Link Fabric
    1. ASTM A392, hot-dip galvanized after weaving, woven in 50-mm (2-inch) mesh, 3.76-mm (9 gage) wire, with twisting and barbing on both selvages, and Class 2 zinc coating.
    1. Steel Pipe
    1. Standard weight, galvanized pipe complying with ASTM F1083, nominal size specified.
-   1. Accessories
+1. Accessories
    1. Fittings:
       1. ASTM F626, unless otherwise specified.
    1. Wire ties:
@@ -89,10 +90,11 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Chain', 'Link', 'F
       1. 48.3-mm (1.90-inch) o.d. steel pipe with permanently rigid connections. Provide additional horizontal and vertical members to insure proper gate operation and for attachment of fabric, hardware and accessories. Install chain link fabric with stretcher bars at vertical edges and wire ties at top and bottom edges. Attach stretcher bars with pressed steel bands at 380-mm (15-inch) maximum spacing. Attach hardware so as to provide security against removal and breakage. Provide diagonal cross bracing consisting of 10-mm-diameter (3/8-inch-diameter) adjustable length rods as required to provide frame rigidity without sag or twist.
    1. Gate hardware, including hinges or track, track hanger, ball bearing sheaves, latches and keepers:
       1. galvanized steel. Provide latches which can be padlocked.
-   1. Execution
 
-## General
+## Execution
 
+
+1. General
    1. Comply with ASTM F567, unless otherwise specified.
    1. installation
    1. Laying Out Work
@@ -115,5 +117,3 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Chain', 'Link', 'F
    1. Provide a 4.50-mm (7 gage) galvanized or aluminum-coated spring steel tension wire near the bottom of the fence fabric, attached to the fabric at 600-mm (2-foot) intervals with 2.51-mm (12-1/2) gage galvanized hog rings.
    1. Pea Gravel
    1. Place pea gravel under and adjacent to the fence as indicated.
-   1. END OF SECTION
-

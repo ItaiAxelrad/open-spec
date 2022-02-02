@@ -4,7 +4,7 @@ section: '0062762'
 divNumb: 0
 divName: Procurement and Contracting Requirements
 subgroup: Procurement and Contracting Requirements
-tags: ['Procurement', 'Contracting', 'Requirements', 'Application', 'for', 'Payment', 'Form']
+tags: ['Procurement', 'Contracting', 'Requirements', 'Application', 'Payment', 'Form']
 ---
 
 
@@ -22,49 +22,38 @@ tags: ['Procurement', 'Contracting', 'Requirements', 'Application', 'for', 'Paym
       1. Application for Payment
 1. Change Order Summary
    1. Approved Change Orders
-1. ORIGINAL CONTRACT PRICE** 
-
+1. ORIGINAL CONTRACT PRICE*
 $
    1. Number
    1. Additions
    1. Deductions
-1. 2. Net change by Change Orders** 
-
+1. 2. Net change by Change Orders*
 $
-1. 3. CURRENT CONTRACT PRICE (Line 1 ± 2)** 
-
+1. 3. CURRENT CONTRACT PRICE (Line 1 ± 2)*
 $
 1. 4. TOTAL COMPLETED AND STORED TO DATE
 
- **(Column F on Progress Estimate)** 
-
+ **(Column F on Progress Estimate)*
 $
 1. 5. RETAINAGE:
-      1. a. \_\_\_\_\_ % x $\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Work Completed** 
-
+      1. a. \_\_\_\_\_ % x $\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Work Completed*
 $
-1. b. \_\_\_\_\_ % x $\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Stored Material** 
-
+1. b. \_\_\_\_\_ % x $\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Stored Material*
 $
-1. c. Total Retainage (Line 5a + Line 5b)** 
-
+1. c. Total Retainage (Line 5a + Line 5b)*
 $
-1. 6. AMOUNT ELIGIBLE TO DATE (Line 4 - Line 5c)** 
-
+1. 6. AMOUNT ELIGIBLE TO DATE (Line 4 - Line 5c)*
 $
    1. TOTALS
-1. 7. LESS PREVIOUS PAYMENTS (Line 6 from prior Application)** 
-
+1. 7. LESS PREVIOUS PAYMENTS (Line 6 from prior Application)*
 $
-1. 8. AMOUNT DUE THIS APPLICATION** 
-
+1. 8. AMOUNT DUE THIS APPLICATION*
 $
    1. NET CHANGE BY 
 1. 9. BALANCE TO FINISH, PLUS RETAINAGE
    1. CHANGE ORDERS
 
- **(Column G on Progress Estimate + Line 5 above)** 
-
+ **(Column G on Progress Estimate + Line 5 above)*
 $
 1. Contractor’s Certification
    1. The undersigned Contractor certifies that:

@@ -4,7 +4,7 @@ section: '3105002'
 divNumb: 31
 divName: Earthwork
 subgroup: Site and Infrastructure
-tags: ['Site', 'Infrastructure', 'Earthwork', 'Common', 'Work', 'Results', 'for']
+tags: ['Site', 'Infrastructure', 'Earthwork', 'Common', 'Work', 'Results']
 ---
 
    1. EARTHWORK
@@ -40,7 +40,7 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Common', 'Work', 'Results', 'for'
    1. ASTM D4254—Test Methods for Minimum Index Density of Soils and Calculations of Relative Density
    1. ASTM D2922—Test Methods for Density of Soil and Soil-Aggregate Mixtures in Place by Nuclear Methods (Shallow Depth)
    1. ASTM D3017—Test Method for Moisture Content of Soil and Soil-Aggregate Mixtures
-   1. SUBMITTALS
+1. SUBMITTALS
    1. Submit under provisions of Section 01340
    1. Product Data:
       1. Submit on all products or materials supplied herein
@@ -58,7 +58,9 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Common', 'Work', 'Results', 'for'
    1. Protect excavated material from becoming frozen
    1. Do not remove trees from outside excavation or fill areas unless authorized by the Engineer; protect from permanent damage by construction activities
    1. Provide temporary bridges for roadways, walkways, driveways, etc.
-   1. PRODUCTS
+
+## Products
+
    1. MATERIALS
    1. Classification of Excavated Materials:
       1. 
@@ -206,8 +208,10 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Common', 'Work', 'Results', 'for'
       1. Woven polypropylene:
       1. Mirafi 100X for “Envirofence” installations
    1. Or approved equal
-   1. EXECUTION
-   1. EXAMINATION
+
+## Execution
+
+1. EXAMINATION
    1. Field verify the location of all underground utilities, pipelines and structures prior to excavation
    1. PERFORMANCE—GENERAL 
    1. Perform work in a safe and proper manner with appropriate precautions against hazard
@@ -216,7 +220,7 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Common', 'Work', 'Results', 'for'
    1. Clean subgrades of loose material before concrete is placed thereon
    1. Except as otherwise authorized, indicated, or specified, replace all material excavated below the bottom of concrete walls, footings, slabs on grade and foundations with concrete placed at the same time and monolithic with the concrete above
    1. Except where exterior surfaces are to be dampproofed concrete structures that do not have footings that extend beyond the outside face of exterior walls may be placed directly against excavation faces without outer forms
-   1. PREPARATION
+1. PREPARATION
    1. Clear sites to be occupied by permanent construction of roots, brush, and other objectionable material and debris
    1. Clean and strip subgrade for fills and embankments of surface vegetation, sod, tree stumps and organic topsoil
    1. Remove and dispose off-site all organic and deleterious materiuals and noxious weeds
@@ -488,5 +492,5 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Common', 'Work', 'Results', 'for'
    1. One in-place compaction test every 50 lineal feet of trench in the compacted embedment zone and at every 1.5 feet of vertical lift of backfill materials, ASTM D2922/D3017
    1. One in-place compaction test near top of trench for trench depth of 2 feet or less, ASTM D2922/D3017
    1. Five (5) additional in-place compaction tests at the discretion of the Engineer, ASTM D2922/D3017
-   1. END OF SECTION
+   
 

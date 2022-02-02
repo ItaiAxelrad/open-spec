@@ -7,7 +7,7 @@ subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Aggregate', 'Base', 'Courses']
 ---
 
-1. SECTION 321123
+
 1. AGGREGATE AND/OR GRADED-CRUSHED AGGREGATE BASE COURSE
 1. 
 ## General
@@ -215,6 +215,5 @@ certified delivery tickets for all aggregates actually used, as specified in the
 8. DISPOSAL OF UNSATISFACTORY MATERIALS
    1. Any unsuitable materials that must be removed shall be disposed of outside the limits of
 the project area or as directed in waste disposal areas indicated. No additional payments shall be made for materials that must be replaced.
-1. END OF SECTION 321123
 
 

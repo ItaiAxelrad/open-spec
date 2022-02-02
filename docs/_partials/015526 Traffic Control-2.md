@@ -52,5 +52,4 @@ tags: ['General', 'Requirements', 'Traffic', 'Control']
 00. - MEASUREMENT AND PAYMENT
     1. Item Measurement Payment
    1. Maintenance of Traffic Lump Sum Payment shall be made at the Lump Sum Price bid therefor and shall con- stitute full compensation for all associated labor and materials.
-    1. END OF SECTION 01570
-
+    

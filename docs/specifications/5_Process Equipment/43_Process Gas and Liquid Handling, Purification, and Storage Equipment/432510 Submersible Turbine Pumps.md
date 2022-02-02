@@ -12,12 +12,10 @@ tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Sto
 
 ## General
 
-
-* 
-	1. **Summary
+1. SUMMARY
    1. Section Includes:
 	1. This specification covers submersible turbine pumps and discharge, furnished with suitable driver and accessories as specified herein.
-	2. **Quality Assurance
+	2. Quality Assurance
 2. Manufacturer of pumps shall have a minimum of five (5) operating installation with pumps of the size specified and in the same service as specified operating for not less than five (5) years.
 3. Pump(s), complete with motor, necessary guards and all other specified accessories and appurtenances shall be furnished by the pump manufacturer to ensure compatibility and integrity of the individual components, and provide the specified warranty for all components.
 4. The pump(s) specified in this section shall be furnished by and be the product of one manufacturer.
@@ -31,12 +29,11 @@ tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Sto
 	2. Annotated materials of construction.
 	3. Dimensional drawings.
 	4. Manufacturer's installation instructions.
-   ## Product
+## Product
 1. 2.1 Acceptable Manufacturers
    1. Pump Station Submersible Turbines:
 	1. Goulds Water Technology or equal
-1. 2.3 General** 
-   1. Pump Design
+1. 2.3 General*   1. Pump Design
 	1. Pump(s) shall have 6-inch ANSI discharge flange.
 	2. Proposed Gallery Pumps: 
 		1. Design Flow Conditions: 800 gpm

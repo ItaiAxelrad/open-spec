@@ -7,7 +7,7 @@ subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Curbs', 'Gutters', 'Sidewalks', 'Driveways']
 ---
 
-1. SECTION 02528
+
 1. CONCRETE CURBS, GUTTERS, AND SIDEWALKS
 
 ## General
@@ -22,11 +22,7 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Curbs', 'Gutters',
 
 1. PART 2 - MATERIALS
 1. 2.01 FORMS
-
-## General
-
-
-: Forms shall be as required in Section 03000, Concrete. Stakes and braces shall be provided to hold forms securely in place.
+	 1. General: Forms shall be as required in Section 03000, Concrete. Stakes and braces shall be provided to hold forms securely in place.
 2. Sidewalk Forms:
       1. Sidewalk forms shall be 2-inch dressed lumber, straight and free from defects, or standard metal forms. Where short-radius forms are required, 1-inch dressed lumber of plywood may be used.
 1. 2.02 AGGREGATE BASE COURSE
@@ -82,5 +78,5 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Curbs', 'Gutters',
       1. The City Engineer shall be notified two days in advance of planned concrete placement.
 6. Concrete Finish:
       1. The top surface of the sidewalk shall receive a broom finish with a fine-hair broom in line with the length of the walk. All edges, joints, and markings shall be tooled. The walk shall be scored transversely at 5-foot intervals with a jointing tool. Upon completion of the finishing, an approved curing compound shall be applied to exposed surfaces. Sidewalks shall be protected from damage until final acceptance.
-1. END OF SECTION
+
 

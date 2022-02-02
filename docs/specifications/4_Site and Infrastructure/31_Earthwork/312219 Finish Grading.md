@@ -7,27 +7,15 @@ subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Earthwork', 'Finish', 'Grading']
 ---
 
-1. SECTION 31 22 19 – FINISH GRADING
-   1. SITE CLEARING **Copyright 2007 by The American Institute of Architects (AIA)
-1. Exclusively published and distributed by Architectural Computer Services, Inc. (ARCOM) for the AIA
-   1. Revise this Section by deleting and inserting text to meet Project-specific requirements.
-   1. This Section uses the term "Architect." Change this term to match that used to identify the design professional as defined in the General and Supplementary Conditions.
-   1. Verify that Section titles referenced in this Section are correct for this Project's Specifications; Section titles may have changed.
-
 ## General
 
 
-* 
 	1. RELATED DOCUMENTS
    1. Drawings and general provisions of the Contract, including General and Supplementary Conditions and Division 01 Specification Sections, apply to this Section.
-   1. All current NREL standards and specifications shall apply, including but not limited to:
-      1. NREL CONSTRUCTION SPECIFICATIONS
-
-* 
-	1. SUMMARY
-		+ 
-			- 
-				1. Finish grading associated with the proposed drainage swale and guidance for grading adjacent to the existing transformer pad.
+   1. All current Owner standards and specifications shall apply, including but not limited to:
+      1. Owner CONSTRUCTION SPECIFICATIONS
+1. SUMMARY
+		1. Finish grading associated with the proposed drainage swale and guidance for grading adjacent to the existing transformer pad.
    1. Scope of Work:
       1. Fine grading to meet all required finish elevations indicated on the Drawings; including distribution of top-soil over the site; and coordination with installation of sodding and landscaping.
    1. Disc the existing and / or filled subgrade to a depth of 6 inches using a landscape scarifier.
@@ -47,7 +35,6 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Finish', 'Grading']
    1. Section 31 15 00 – Site Clearing and Earthwork
    1. Section 32 92 – Turf and Grasses
 
-* 
 	1. QUALITY ASSURANCE
    1. The Contractor will be responsible to maintain and control the grading around the building so that the grade is pitched to prevent water from entering the building and/or accumulating in the graded areas throughout the progress of the work.
 2. Utilities and other remaining obstacles shall be properly identified prior to commencement of the final grading.
@@ -56,7 +43,7 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Finish', 'Grading']
 	1. ASTM D698-78, Test for Moisture Unit Weight Relations of Soils and Soil Aggregate
 	2. ASTM D2922, Tests for Density of Soil and Soil Aggregate in place by Nuclear Methods
 	3. ASTM D1557, Moisture Density Relations of Soils and Soil-Aggregate Mixtures
-   ## Product
+## Product
 1. MATERIALS
    1. Refer to Section 31 15 00 – Site Clearing and Earthwork for description of fill and topsoil materials.
 
@@ -87,5 +74,5 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Finish', 'Grading']
 3. PROTECTION AND MAINTENANCE
    1. The Contractor shall be responsible for the protecting and maintaining completed finish grading prior to the start of sodding and landscape work by the Owner. 
 2. Damage caused by surface run-off, construction vehicular traffic, use of equipment or other Contractor controlled activities shall immediately be repaired and restored to originally accepted state.
-1. END OF SECTION 31 22 19
+31 22 19
 

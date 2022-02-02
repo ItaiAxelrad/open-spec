@@ -10,7 +10,7 @@ tags: ['Facility', 'Construction', 'Openings', 'Access', 'Doors', 'Panels']
 
 ## General
 
-   1. SUMMARY
+1. SUMMARY
    1. This Section includes the following:
       1. Wall access doors and frames.
    1. Fire-rated wall access doors and frames.
@@ -48,12 +48,12 @@ tags: ['Facility', 'Construction', 'Openings', 'Access', 'Doors', 'Panels']
    1. Underwriters Laboratories Inc. (UL)
    1. 10B - Fire Tests of Door Assemblies.
    1. 263 - Fire Tests of Building Construction and Materials.
-    1. SUBMITTALS
+ 1. SUBMITTALS
    1. Product Data
    1. Submit Product Data for each type of door and frame indicated. Include construction details relative to materials, individual components and profiles, finishes, and fire ratings (if required) for access doors and frames.
    1. Schedule
    1. Provide complete door and frame schedule, including types, general locations, sizes, construction details, latching or locking provisions, and other data pertinent to installation.
-   1. QUALITY ASSURANCE
+1. QUALITY ASSURANCE
    1. Source Limitations:
       1. Obtain doors and frames through one source from a single manufacturer.
    1. Fire-Rated Access Doors and Frames:
@@ -63,7 +63,9 @@ tags: ['Facility', 'Construction', 'Openings', 'Access', 'Doors', 'Panels']
    1. COORDINATION
    1. Verification:
       1. Determine specific locations and sizes for access doors needed to gain access to concealed equipment, and indicate on schedule specified in "Submittals" Article.
-   1. PRODUCTS
+
+## Products
+
    1. MANUFACTURERS
    1. Subject to compliance with requirements, provide products by one of the following, or as approved:
       1. Access Doors:
@@ -124,10 +126,7 @@ Karp Associates, Inc.
    1. Latch:
       1. Screwdriver-operated cam latch.
    1. FABRICATION
-
-## General
-
-:
+	1. General:
       1. Provide access door assemblies manufactured as integral units ready for installation.
    1. Metal Surfaces:
       1. For metal surfaces exposed to view in the completed Work, provide materials with smooth, flat surfaces without blemishes. Do not use materials with exposed pitting, seam marks, roller marks, rolled trade names, or roughness.
@@ -167,14 +166,15 @@ Karp Associates, Inc.
    1. Bright, Directional Polish:
       1. No. 4 finish.
    1. When polishing is completed, passivate and rinse surfaces. Remove embedded foreign matter and leave surfaces chemically clean.
-   1. EXECUTION
-   1. PREPARATION
+
+## Execution
+
+1. PREPARATION
    1. Advise installers of other work about specific requirements relating to access door and floor door installation, including sizes of openings to receive access door and frame, as well as locations of supports, inserts, and anchoring devices.
-   1. INSTALLATION
+1. INSTALLATION
    1. Comply with manufacturer's written instructions for installing access doors and frames.
    1. Set frames accurately in position and attach securely to supports with plane of face panels aligned with adjacent finish surfaces.
    1. ADJUSTING AND CLEANING
    1. Adjust doors and hardware after installation for proper operation.
    1. Remove and replace doors and frames that are warped, bowed, or otherwise damaged.
-1. END OF SECTIONTHIS PAGE INTENTIONALLY BLANK
 

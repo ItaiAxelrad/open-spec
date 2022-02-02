@@ -14,16 +14,14 @@ tags: ['Facility', 'Services', 'Electrical', 'Transfer', 'Switches']
    1. Drawings and general provisions of the Contract, including General and Supplementary Conditions and Division 1 Specification Sections, apply to this Section.
 1. SUMMARY
    1. This Section includes provision of automatic transfer switch and bypass-isolation switch, rated 600 volts and less, including accessories as specified and indicated. 
-1. References** 
-   1. National Electrical Manufacturers Associations. (NEMA):
+1. References*   1. National Electrical Manufacturers Associations. (NEMA):
       1. 
    1. ICS 2 - Industrial Control Devices, Controllers and Assemblies:
       1. Part ICS2-447 - AC Automatic Transfer Switches. 
    1. 250 - Enclosures for Electrical Equipment (1000 Volts Maximum). 
    1. Underwriters Laboratories Inc. (UL):
       1. 1008 - Transfer Switch Equipment
-1. Submittals** 
-   1. Product Data:
+1. Submittals*   1. Product Data:
       1. Submit manufacturer's technical product data for each type of transfer switch and bypass-isolation switch specified and indicated. 
    1. Shop Drawings:
       1. 
@@ -47,8 +45,7 @@ tags: ['Facility', 'Services', 'Electrical', 'Transfer', 'Switches']
    1. Comply with NFPA 110.
    1. Comply with UL 1008 unless requirements of these Specifications are stricter.
 1. PRODUCTS
-1. Automatic Transfer Switches** 
-   1. Manufacturers:
+1. Automatic Transfer Switches*   1. Manufacturers:
       1. ASCO Div., Emerson Electric Co.
    1. Russelectric Inc. 
    1. Cutler-Hammer
@@ -85,10 +82,7 @@ tags: ['Facility', 'Services', 'Electrical', 'Transfer', 'Switches']
 
 "Open" position to permit complete electrical isolation of automatic transfer switch for maintenance, repair, and removal. 
    1. Operate as an independent, two-way bypass, manual transfer switch, in both the "test" and "open" positions, permitting the load to be connected to either the normal or the emergency power source without interrupting power to the load. 
-
-## General
-
-:
+	1. General:
       1. 
    1. Factory-fabricated, electrically-operated, mechanically-held, automatic transfer switch, per NEMA Part ICS2-447 and UL 1008. 
    1. Suitable for use at volts, phases, wires, as indicated. 
@@ -123,13 +117,9 @@ tags: ['Facility', 'Services', 'Electrical', 'Transfer', 'Switches']
    1. One normally-open, one normally-closed auxiliary contacts for engine-generator start, rated 120 volts, 60 hertz, 10 amperes. 
    1. Two spare sets of normally-open, normally-closed contacts, rated 120 volts, 60 hertz, 10 amperes. 
    1. Provide in-phase monitor or time delay on re-transfer, adjustable up to two seconds. 
-1. Bypass-Isolation Switches** 
-   1. Manufacturers:
+1. Bypass-Isolation Switches*   1. Manufacturers:
       1. Provide bypass-isolation switch from the same manufacturer of the provided automatic transfer switch. 
-
-## General
-
-:
+	1. General:
       1. 
    1. Factory-fabricated, mechanically-operated, mechanically-held, manual transfer switch, per NEMA Part ICS2-447 and UL 1008. 
    1. Provide electrical ratings equal to or greater than those of the associated automatic transfer switch. 
@@ -144,11 +134,7 @@ tags: ['Facility', 'Services', 'Electrical', 'Transfer', 'Switches']
    1. Manually-operated, mechanically-held isolation switch. 
    1. Provide externally operable handle mechanism arranged for padlocking in the "open" position with up to three padlocks. 
 1. EXECUTION
-1. Installation** 
-
-## General
-
-:
+1. Installation*	1. General:
       1. 
    1. Install automatic transfer switch [and bypass-isolation switch] at locations indicated. 
    1. Install switches plumb and square with building lines. 
@@ -162,8 +148,7 @@ tags: ['Facility', 'Services', 'Electrical', 'Transfer', 'Switches']
    1. Emergency source (e.g., "PP-1E"). 
    1. Critical load (e.g., "RP-A1E"). 
    1. Power characteristics (e.g., "480Y/277V, 3PH, 4W, 600A"). 
-1. Field Quality Control** 
-   1. Field Tests:
+1. Field Quality Control*   1. Field Tests:
       1. 
    1. After installing equipment and after electrical circuitry has been energized, test for compliance with requirements.
    1. Perform each visual and mechanical inspection and electrical test stated in NETA Acceptance Testing Specification. Certify compliance with test parameters.
@@ -186,6 +171,5 @@ tags: ['Facility', 'Services', 'Electrical', 'Transfer', 'Switches']
    1. Ground-Fault Tests:
       1. Coordinate with testing of ground-fault protective devices for power delivery from both sources.
    1. Verify grounding connections and locations and ratings of sensors.
-1. END OF SECTION 263600
 1. (THIS PAGE INTENTIONALLY BLANK)
 

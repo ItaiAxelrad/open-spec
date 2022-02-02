@@ -7,7 +7,6 @@ subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Roof', 'Accessories']
 ---
 
-
 ## General
 
    1. References
@@ -25,7 +24,9 @@ tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Roof', 
    1. Project conditions
    1. Field Measurements
    1. Take field measurements to verify or supplement dimensions indicated. Be responsible for accurate fit of the Work.
-   1. PRODUCTS
+
+## Products
+
    1. Roof Hatches
    1. Type and Manufacturers
    1. Single leaf roof scuttle Type SS-20, size 2’-6” x 5’-6”, modified for 68 degree Lapeyre Stair. as manufactured by Bilco Co, or as approved.
@@ -80,7 +81,9 @@ tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Roof', 
    1. Fabricate shell, base plate and counterflashing of 18 gage galvanized steel sheet complying with ASTM A653/A653M, commercial quality, G90 coating designation, welded with mitered ends, welded areas coated with zinc rich paint.
    1. Wood nailer:
       1. pressure treated in accordance with AWPA standard C-2.
-   1. execution
+
+## Execution
+
    1. installation
 
 ## General
@@ -102,5 +105,4 @@ tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Roof', 
    1. Protect this Work and adjacent construction against damage.
    1. Cleaning
    1. Clean completed Work in accordance with manufacturer's instructions.
-1. END OF SECTIONTHIS PAGE INTENTIONALLY BLANK
 

@@ -7,26 +7,19 @@ subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Utilities', 'Stormwater', 'Conveyance']
 ---
 
-1. SECTION 33 41 00
-1. STORM UTILITY DRAINAGE PIPING
-1. Exclusively published and distributed by Architectural Computer Services, Inc. (ARCOM) for the AIA
-1. Revise this Section by deleting and inserting text to meet Project-specific requirements.
-1. This Section uses the term "Architect." Change this term to match that used to identify the design professional as defined in the General and Supplementary Conditions.
-1. Verify that Section titles referenced in this Section are correct for this Project's Specifications; Section titles may have changed.
-
 ## General
 
-   1. RELATED DOCUMENTS
+1. RELATED DOCUMENTS
    1. Retain or delete this article in all Sections of Project Manual.
    1. Drawings and general provisions of the Contract, including General and Supplementary Conditions, apply to this Section.
    1. Division 01 – General Conditions. 
    1. Division 31 – Earthwork. 
-   1. SUMMARY
+1. SUMMARY
    1. Section Includes:
       1. Storm drainage pipe and appurtenances
    1. Manholes
    1. Inlet and outlet structures.
-   1. SUBMITTALS
+1. SUBMITTALS
    1. First two paragraphs below are defined in Division 01 Section "Submittal Procedures" as "Action Submittals."
    1. Product Data:
       1. storm utility drainage pipe.
@@ -37,7 +30,7 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Stormwater', 'Conveyance']
    1. M190 - Bituminous-Coated Corrugated Metal Culvert Pipe and Arches.
    1. DELIVERY, STORAGE, AND HANDLING
    1. Protect pipe, pipe fittings, and seals from dirt and damage.
-   1. PROJECT CONDITIONS
+1. PROJECT CONDITIONS
    1. Retain this article if interruption of existing storm drainage service is required.
    1. Interruption of Existing Storm Drainage Service:
       1. 
@@ -73,7 +66,6 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Stormwater', 'Conveyance']
    1. EARTHWORK
    1. Excavation, trenching, and backfilling are specified in Division 31 Section "Earth Moving."
 
-* 
 	1. TRENCHING
    1. Obtain Owner’s Representative's approval of trench line and depth prior to placing bedding material or pipe.
 3. BEDDING
@@ -123,8 +115,7 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Stormwater', 'Conveyance']
    1. Leaks and loss in test pressure constitute defects that must be repaired.
    1. Replace leaking piping using new materials, and repeat testing until leakage is within allowances specified.
 
-* 
 	1. CLEANING
    1. Clean interior of piping of dirt and superfluous materials.Flush with water.
-1. END OF SECTION 33 41 00
+33 41 00
 

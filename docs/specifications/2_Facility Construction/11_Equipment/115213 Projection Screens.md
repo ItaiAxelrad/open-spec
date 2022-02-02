@@ -10,13 +10,13 @@ tags: ['Facility', 'Construction', 'Equipment', 'Projection', 'Screens']
 
 ## General
 
-   1. SUMMARY
+1. SUMMARY
    1. This Section includes the following:
       1. Front-projection screens.
    1. RELATED SECTIONS
    1. Division 6 Section "Rough Carpentry" for wood backing for recessed screen installation.
    1. Division 26 Sections for electrical service and connections including metal device boxes for switches and conduit, where required, for low-voltage control wiring.
-   1. SUBMITTALS
+1. SUBMITTALS
    1. Comply with all pertinent provisions of Section 013300.
    1. Manufacturer’s stand and product data.
    1. Shop Drawings:
@@ -31,12 +31,14 @@ tags: ['Facility', 'Construction', 'Equipment', 'Projection', 'Screens']
    1. Wiring Diagrams
    1. Maintenance Data:
       1. For projection screens to include in maintenance manuals.
-   1. QUALITY ASSURANCE
+1. QUALITY ASSURANCE
    1. Source Limitations:
       1. Obtain projection screens through one source from a single manufacturer. Obtain each screen as a complete unit, including necessary mounting hardware and accessories.
    1. Electrical Components, Devices, and Accessories:
       1. Listed and labeled as defined in NFPA 70, Article 100, by a testing agency acceptable to authorities having jurisdiction, and marked for intended use.
-   1. PRODUCTS
+
+## Products
+
    1. MANUFACTURERS
    1. Draper Inc. products are specified herein. Products by acceptable manufacturers may be substituted.
    1. Acceptable Manufacturers
@@ -62,16 +64,15 @@ tags: ['Facility', 'Construction', 'Equipment', 'Projection', 'Screens']
       1. Without black masking borders.
    1. Size of Viewing Surface:
       1. 96 by 120 inches
-   1. EXECUTION
-   1. INSTALLATION
 
-## General
+## Execution
 
-:
+1. INSTALLATION
+	1. General:
       1. Install projection screen at location indicated to comply with screen manufacturer's written instructions.
    1. Install front-projection screens with screen cases in position and in relation to adjoining construction indicated. Securely anchor to supporting substrate in a manner that produces a smoothly operating screen with vertical edges plumb and viewing surface flat when screen is lowered.
    1. Test electrically operated units to verify that screen controls, limit switches, closure, and other operating components are in optimum functioning condition.
    1. PROTECTING AND CLEANING
    1. After installation, protect projection screens from damage during construction. If damage occurs despite such protection, remove and replace damaged components or entire unit as required to provide units in their original, undamaged condition.
-1. END OF SECTION
+
 

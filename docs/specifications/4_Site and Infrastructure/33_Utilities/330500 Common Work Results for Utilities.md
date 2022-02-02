@@ -4,12 +4,9 @@ section: '330500'
 divNumb: 33
 divName: Utilities
 subgroup: Site and Infrastructure
-tags: ['Site', 'Infrastructure', 'Utilities', 'Common', 'Work', 'Results', 'for']
+tags: ['Site', 'Infrastructure', 'Utilities', 'Common', 'Work', 'Results']
 ---
 
-   1. SECTION 33 05 00
-   1. Common Work Results for Utilities
-1. 
 ## General
 
 01. DEFINITIONS
@@ -70,8 +67,7 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Common', 'Work', 'Results', 'for'
 
 ## Execution
 
-1. 3.01 General cut in Connection information** 
-   1. Unless otherwise indicated on the Approved Plans or specifically directed by the City Engineer, all connections to existing facilities, cut-in installations, shall be performed by Contractor. All types of connections to existing water facilities shall be performed in strict accordance with the following procedures. 
+1. 3.01 General cut in Connection information*   1. Unless otherwise indicated on the Approved Plans or specifically directed by the City Engineer, all connections to existing facilities, cut-in installations, shall be performed by Contractor. All types of connections to existing water facilities shall be performed in strict accordance with the following procedures. 
    1. The contractor shall submit a connection plan developed for all connections (including multiple connections) to the City’s water system. The connection plan is to be prepared with the intent of minimizing service interruptions to City customers. The connection plan will be reviewed and approved by the City prior to proceeding with any work. 
 2. The Contractor shall furnish the required fittings, valves, and all other materials per the Approved Plans as called for in the Standard Specifications in accordance with the Approved Materials List. The Contractor shall provide all equipment and labor required for the excavation and installation of the connection including but not limited to thrust blocks, thrust restraints, lights, and barricades, backfill and pavement replacement. In certain circumstances the Contractor may be required to provide temporary piping (high lining) as part of the equipment for making the connections. In addition, the Contractor shall assist the City in alleviating any hardship incurred during a shutdown for connections. Emergency standby equipment or materials may be required of the Contractor by the City Engineer.
 1. 3.02 FIELD VERIFICATION OF Cut in Connection
@@ -87,9 +83,8 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Common', 'Work', 'Results', 'for'
 9. The recorded information shall be used by the Contractor to verify the materials submitted during the shop drawing submittal phase of the project are of the proper size and application. Contractor is responsible for verifying and demonstrating the approved materials for the connection are adequate and within product manufacturer tolerances and recommendations. This verification will be presented to the City in form of a new and separate submittal. Should the approved materials be determined inadequate by the City Engineer the Contractor shall submit new materials for review and approval.
 1. 3.03 SYSTEM SHUTDOWN
    1. Prior to cutting an existing pipe the Contractor shall schedule a meeting with the City to discuss the connection plan (Section 3.01.A) and schedule any required shutdown of the existing water system. Shutdowns may be required at times other than normal working hours to cause the least amount of inconvenience to customers and to avoid the use of temporary by-pass piping. Therefore, this should be considered in determining the bid price for the work. 
-   1. The Contractor shall refer to water system atlas maps and be responsible for identifying shutdown valves and the respective water main lengths affected by the shutdown. Water main lengths provide the Contractor with estimate water volumes to be properly disposed of per GENERAL CONDITIONS Article 3.24.3, 3.24.4 and 3.24.5. **Refer to Appendix B for Water System Atlas Maps.
+   1. The Contractor shall refer to water system atlas maps and be responsible for identifying shutdown valves and the respective water main lengths affected by the shutdown. Water main lengths provide the Contractor with estimate water volumes to be properly disposed of per GENERAL CONDITIONS Article 3.24.3, 3.24.4 and 3.24.5. Refer to Appendix B for Water System Atlas Maps.
 
-* 
 	1. Shutdowns will be scheduled at the convenience of the City. In general, shutdowns shall not be scheduled for Mondays or Fridays or within two days of a nationally-observed holiday. Shutdowns may be scheduled for nights or weekends if required.
 	2. The Contractor shall give the City a minimum of five (5) calendar days and one (1) calendar days’ notice prior to any proposed excavation or shutdown of existing mains or services. Scheduling shall be subject to approval by the Construction Manager. Shutdowns cannot be scheduled on Mondays, Fridays, or the day after a holiday.
 	3. The City may postpone or reschedule any shutdown operation if, for any reason, the City Engineer believes that the Contractor is not prepared with competent personnel, equipment, or materials to proceed with the connection.
@@ -114,9 +109,7 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Common', 'Work', 'Results', 'for'
 7. Connections shall be made with as little change as possible in the grade of the new main. If the grade of the existing pipe is below that of the new pipeline, a sufficient length of the new line shall be deepened so as to prevent the creation of any high spot or abrupt changes in grade of the new line. Where the grade of the existing pipe is above that of the new pipeline, the new line shall be laid at specified depth, except for the first joint adjacent to the connection, which shall be deflected within 75% of the allowances of the pipe manufacturer as necessary to meet the grade of the existing pipe. If sufficient change in direction cannot be obtained by the limited deflection of the first joint, a fitting of the proper angle shall be installed. Where the connection creates a high or low spot in the line, a standard air release or blow off assembly shall be installed as directed by the City Engineer.
 8. Where connections are made to existing valves, the contractor shall furnish and install all temporary blocking, steel clamps, shackles, and anchors as required by the City, and he shall replace the valve riser box and cover and adjust the valve cover to the proper grade in accordance with these specifications. The City will operate all existing valves. All valves, existing or newly installed, shall be readily accessible at all times to the City for emergency operation.
 9. After the Contractor has performed the cut-in operations, and the City Engineer has given approval to proceed, the Contractor shall complete the installation as shown on the Approved Plans in accordance with the Standard Specifications including, but not limited to:
-	* 
-		+ 
-			1. Disinfecting and installing the pipe section(s) necessary to make the closure to the new system. New pipelines shall not be connected to existing facilities until new pipelines have been successfully tested and disinfected and accepted by the City.
+		1. Disinfecting and installing the pipe section(s) necessary to make the closure to the new system. New pipelines shall not be connected to existing facilities until new pipelines have been successfully tested and disinfected and accepted by the City.
 			2. Installing and setting the valve gate well(s) in accordance with the Standard Drawings.
 			3. Installing thrust and anchor blocks in accordance with Section 03000.
 			4. Completing all backfill and compaction of the trench in accordance with Section 02223.
@@ -132,7 +125,6 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Common', 'Work', 'Results', 'for'
    1. Wherever new utilities parallel water, storm drain, recycled water or sewer facilities, the minimum horizontal separation shall be per the California Department of Health Services separation requirements unless otherwise approved by the City’s Representative. 
 1. 3.09 Removal from Service of Existing Mains and Appurtenances
 
-* 
 	1. Existing mains and appurtenances shall be removed from service at the locations shown on the plans or as directed by the engineer. 
 	2. Existing pipe and appurtenances removed from the ground will require backfill and repair of surface in accordance with Section 02223. 
 	3. Removed pipe and appurtenances shall be temporarily stockpiled on the job in a location that will not disrupt traffic or be a safety hazard, disposed of in a proper manner (as determined by the City Engineer). The contractor shall remove and dispose of all removed pipe at his own expense to a landfill permitted to accept such materials.
@@ -141,7 +133,6 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Common', 'Work', 'Results', 'for'
 	6. Asbestos Cement Pipe (ACP) shall be cut, removed and disposed of in a proper manner. The contractor shall be responsible for the proper manifesting of any and all ACP at an authorized disposal site.
 1. 3.10 Cutting and Restoring Street Surfacing
 
-* 
 	1. In cutting or breaking up street surfacing, the contractor shall not use equipment that will damage adjacent pavement. 
 	2. All asphalt and/or Portland cement concrete surfaces shall be scored with sawing equipment of a type meeting the approval of the City; providing however, that any cement concrete base under an asphaltic mix surface will not be required to be scored by sawing. Existing paving surfaces shall be saw cut back beyond the edges of the trenches to form neat square cuts before repaving is commenced.
 	3. The Contractor is required to visit all project locations prior to bid. City records indicate that the existing structural sections vary as follows:
@@ -153,14 +144,12 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Common', 'Work', 'Results', 'for'
    1. 3” + 1” over four-inch aggregate base + 1”
    1. The Contractor will be provided additional pavement information once it becomes available.
 
-* 
 	1. Pavement, sidewalks, curbs, or gutters removed or destroyed in connection with performance of the work shall be saw cut to the nearest score marks, if any, and shall be replaced with pavement sidewalks, curbs, or gutters of the same kind, or better by the contractor in accordance with the latest specifications, rules, and regulations and subject to the inspection of the agency having jurisdiction over the street or highway.
 	2. One sack cement slurry base shall be placed beneath the restored pavement to the thickness required by the agency having to allow the restoration of the pavement.
 11. MAINTENANCE, REMOVAL, AND RECONSTRUCTION OF UTILITIES AND OTHER FACILITIES
 
-* 
 	1. Insofar as practicable during the progress of the work, no pipeline, conduit, sewer, culvert, storm drain, drainage channel, pole line, street lighting system, overhead wires or cables, or underground wires or cables, either main line structures or laterals and services, or any other structure or facility, shall be disturbed, but all shall be supported and protected against injury and maintained by the Contractor in good operating condition. In no case shall any such property be disturbed or removed without the approval of the Engineer as hereinafter provided. The Contractor shall be responsible for and make good all damage due to his/her operations and the provisions of this section shall not be abated even in the event such damage occurs after backfilling or is not discovered until after completion of backfilling.
 	2. All affected traffic signal materials or equipment as a result of this improvement shall be restored or replaced by the Contractor at no cost to the City. This includes pull boxes, inductive loop detectors, detectors, lead-in wire, and interconnect cable, etc.
 	3. Where a pipe fitting or portion of the pipe is to be removed near a valve, and the valve is to be left in place as a stop against main pressure, the valve shall be tied back by the Contractor to the satisfaction of the Engineer. Any damage which might result to the City’s property as a result of a main break caused by inadequate restraint of the valve will be charged to the Contractor.
-   1. END OF SECTION
+   
 

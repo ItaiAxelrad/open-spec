@@ -7,11 +7,6 @@ subgroup: Facility Services
 tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 'Breeching', 'Chimney', 'Stacks']
 ---
 
-1. Copyright 2004 and 2005 by The American Institute of Architects (AIA)
-1. Exclusively published and distributed by Architectural Computer Services, Inc. (ARCOM) for the AIA
-1. This Section uses the term "Architect." Change this term to match that used to identify the design professional as defined in the General and Supplementary Conditions.
-1. Verify that Section titles referenced in this Section are correct for this Project's Specifications; Section titles may have changed.
-
 ## General
 
 1. RELATED DOCUMENTS
@@ -154,6 +149,5 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Engage a factory-authorized service representative to perform startup service for fans.
    1. Verify that fans are installed and connected according to the Contract Documents.
    1. Complete installation and startup checks according to manufacturer's written instructions, and confirm fan interlocks.
-1. END OF SECTION 235100
 1. (THIS PAGE INTENTIONALLY BLANK)
 

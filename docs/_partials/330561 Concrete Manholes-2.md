@@ -12,22 +12,19 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Concrete', 'Manholes']
 
 ## General
 
-
-* 
-	1. **Summary
+1. SUMMARY
    1. Work under this section shall include manholes for wastewater and water system specialty valves or meters, and other installations when specifically called out. 
-	1. **Quality Assurance
+	1. Quality Assurance
 2. Work shall meet Colorado Department of Public Health and Environment requirements for installations of wastewater and potable water systems.
 3. The Contractor shall guarantee all water and wastewater manholes to be leak free for one year from the date of substantial completion of the entire project, or for two years if the Owner elects to require an extended warranty because of low spring runoff conditions.
-	1. **Submittals
+	1. Submittals
 4. See Specification Section 01 33 00 for requirements for the mechanics and administration of the submittal process.
 5. Shop drawings are required for the work in this section unless waived by the Engineer. 
-	1. **Product Delivery, Storage and Handling
+	1. Product Delivery, Storage and Handling
 6. Pre-cast units shall be carefully handled and stored so that the concrete does not crack and the joints are not damaged, which shall be cause for rejection.
-   ## Product
+## Product
 
-* 
-	1. **Materials
+	1. Materials
    1. Manholes:
 	1. Concrete: Per ASTM C 478. 4,000 psi with a minimum of 470 pounds of Type II Portland Cement per cubic yard of concrete, and a water cement ratio not to exceed 0.53.
 	2. Base, Riser, and Conical Top Sections: Per ASTM C 478. The Conical top section shall have a 24-inch diameter access opening at its top. The base, riser, and bottom of the conical top section shall be 48-inch inside diameter unless called out otherwise on the plans or in the Special Provisions. Pre-cast base slabs or floors shall have a minimum thickness or 6-inches for 48-inch diameter risers and 8-inches for larger diameter risers.
@@ -67,6 +64,4 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Concrete', 'Manholes']
 3. Grade Rings:
       1. A maximum of 6 vertical inches of grade rings may be installed to bring the frame and lid to final elevation. 
 4. Install overflow device per Manufacturer’s installation instructions.
-
-*[this page intentionally left blank]*
 

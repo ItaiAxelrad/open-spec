@@ -7,8 +7,6 @@ subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Utilities', 'Steam', 'Energy', 'Distribution']
 ---
 
-   1. SECTION 33 63 00 – STEAM ENERGY DISTRIBUTION
-
 ## General
 
 1. DESCRIPTION

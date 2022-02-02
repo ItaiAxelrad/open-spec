@@ -7,10 +7,9 @@ subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Openings', 'Door', 'Hardware']
 ---
 
-
 ## General
 
-   1. SUMMARY
+1. SUMMARY
    1. Section Includes
    1. Providing finish hardware throughout the work as specified herein and as needed for a complete and proper installation.
    1. Provide the services of an AHC or DAHC member of the American Society of Architectural Hardware Consultants to:
@@ -33,7 +32,7 @@ tags: ['Facility', 'Construction', 'Openings', 'Door', 'Hardware']
    1. Related Sections
    1. Section 081113 – Hollow Metal Doors and Frames
    1. Section 081416 – Flush Wood Doors
-   1. SUBMITTALS
+1. SUBMITTALS
    1. Comply with all pertinent provisions of Section 013000.
    1. Provide product data for all products to be utilized.
    1. Submit manufacturers technical information for each item of hardware.
@@ -49,7 +48,7 @@ tags: ['Facility', 'Construction', 'Openings', 'Door', 'Hardware']
    1. Mounting locations for hardware
    1. Keying Schedule:
       1. Submit separate detailed schedule indicating how the Owner's final instructions on keying of locks has been fulfilled.
-   1. QUALITY ASSURANCE
+1. QUALITY ASSURANCE
    1. Obtain each kind of hardware from only one manufacturer, even through several may be specified as acceptable manufacturers.
    1. Supplier:
       1. A recognized architectural finish hardware supplier, with warehousing facilities, who has been furnishing hardware in the project vicinity for a period of not less than 2 years, and who employs an experienced architectural hardware consultant who is available during the course of the work, for consultation about project's hardware requirements, to Owner, Owner's Representative, and Contractor.
@@ -68,7 +67,9 @@ tags: ['Facility', 'Construction', 'Openings', 'Door', 'Hardware']
    1. Consult with and instruct Owner's personnel in recommended additions to the maintenance procedures.
    1. Replace hardware items, which have deteriorated or failed due to faulty design, materials, or installation of hardware units.
    1. Prepare a written report of current and predictable problems (of substantial nature) in the performance of the hardware.
-   1. PRODUCTS
+
+## Products
+
    1. MANUFACTURERS
    1. For the purpose of establishing product standards the following manufacturers are specified.
    1. Alternate manufacturers must be submitted for approval by Architect ten (10) days prior to bid.
@@ -119,7 +120,9 @@ tags: ['Facility', 'Construction', 'Openings', 'Door', 'Hardware']
    1. Reduce differences in color and textures as much as commercially possible where the base metal or metal forming process is different for individual units of hardware exposed at the same door or opening.
    1. In general, match items to the manufacturer's standard finish for the latch and lock set for color and texture.
    1. The designations used in schedules and elsewhere to indicate hardware finish, are the industry-recognized traditional U.S. finishes, except as otherwise noted.
-   1. EXECUTION
+
+## Execution
+
    1. ERECTION INSTALLATION APPLICATION
    1. Hardware Mounting Heights:
       1. Mount hardware units at heights indicated in "Recommended Locations for Builders Hardware" by the Door and Hardware Institute, except as otherwise specifically indicated or required to comply with governing regulations.
@@ -136,5 +139,4 @@ tags: ['Facility', 'Construction', 'Openings', 'Door', 'Hardware']
    1. Adjust door control devices to compensate for final operation of heating and ventilating equipment.
    1. CLEANING
    1. Clean adjacent surfaces soiled by hardware installation.
-1. END OF SECTIONTHIS PAGE INTENTIONALLY BLANK
 

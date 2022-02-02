@@ -12,18 +12,16 @@ tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Sto
 
 ## General
 
-
-* 
-	1. **Summary
+1. SUMMARY
    1. Section Includes:
 	1. Chemical feed pumps to be installed.
 	2. Pre-engineered pump skid for chemical feed pumps.
-	3. **Quality Assurance
+	3. Quality Assurance
 2. All equipment and appurtenances to be furnished under this Section shall be equal to the named products.
 3. Reference Standards:
 	1. NSF International (NSF)
 		1. Standard 61 – Drinking Water System Components – Health Effects.
-	2. **Submittals
+	2. Submittals
 4. See Specification Section 01 33 00 for requirements for the mechanics and administration of the submittal process.
 5. Shop Drawings:
 	1. Product technical data as required in Specification Section 43 01 00 and including:
@@ -39,9 +37,9 @@ tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Sto
 	1. See Specification Section 01 78 23 for requirements for:
 		1. The mechanics and administration of the submittal process.
 		2. The content of Operation and Maintenance Manuals.
-	2. **Warranty
+	2. Warranty
 7. See Division 0 for project warranty requirements.
-   ## Product
+## Product
 1. 2.1 Acceptable Manufacturers
    1. Chemical Feed Pumps:
 	1. Pulsafeeder

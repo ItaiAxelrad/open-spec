@@ -10,7 +10,7 @@ tags: ['Facility', 'Construction', 'Specialties', 'Fire', 'Protection']
 
 ## General
 
-   1. SUMMARY
+1. SUMMARY
    1. Work included:
       1. Furnish and install fire extinguishers, cabinets and brackets where indicated on drawings.
    1. REFERENCES
@@ -23,11 +23,13 @@ tags: ['Facility', 'Construction', 'Specialties', 'Fire', 'Protection']
    1. Norris Industries
    1. Walter Kidde and Co., (for fire extinguishers),
    1. Watrough, Inc. (for fire extinguisher cabinets).
-   1. SUBMITTALS
+1. SUBMITTALS
    1. Manufacturer's data and installation instructions.
-   1. PRODUCTS
+
+## Products
+
    1. FIRE EXTINGUISHERS
-   1. Provided by NREL
+   1. Provided by Owner
    1. B. and C. fires, UL rating = 2A-20B;C
 FIRE EXTINGUISHER CABINETS
    1. Sized for housing one fire extinguisher as specified above.
@@ -42,12 +44,12 @@ FIRE EXTINGUISHER CABINETS
    1. DOOR HARDWARE:
       1. 180 degrees operating hinge with either lever handle with cam action latch or door pull and friction latch.
    1. Provide 2 (Two) fire extinguisher cabinets thus.
-   1. INSTALLATION:
+1. INSTALLATION:
       1. In accordance with manufacturer's directions for the type of mounting required.
    1. AFTER INSTALLATION:
       1. Apply red letter decals spelling "EXTINGUISHER", size, style and location as required by OSHA.
    1. FIRE EXTINGUISHER WALL BRACKETS
    1. Sized for holding one extinguisher as specified above.
    1. Provide 11 (Eleven) Fire Extinguisher Brackets.
-1. END OF SECTION
+
 

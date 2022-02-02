@@ -7,18 +7,13 @@ subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Metals', 'Metal', 'Railings']
 ---
 
-   1. Section 05 52 00
-   1. metal railing
-
 ## General
 
-
-* 
-	1. **Summary
+1. SUMMARY
    1. Work under this section shall consist of furnishing and erecting metal handrails, steel pipe, and steel plate. 
 2. Related specification sections include:
 	1. Section 05 50 00, Metal Fabrications
-	2. **Quality Assurance
+	2. Quality Assurance
 3. Work shall be per:
 	1. American Society of Testing and Materials (ASTM):
 		1. ASTM A36 Specification for Structural Steel.
@@ -40,10 +35,10 @@ tags: ['Facility', 'Construction', 'Metals', 'Metal', 'Railings']
 		2. SSPC-SP 3 Power Tool Cleaning.
 		3. SSPC-SP 10 Near-White Blast Cleaning.
 		4. SSPC-SP 11 Power Tool Cleaning to Bare Metal.
-	4. **Submittals
+	4. Submittals
 4. Submit shop drawings of metal handrails and railings, showing sizes, details of fabrication and construction, bends and radii, handrail brackets, locations of hardware, anchors, accessories, and installation details.
 5. Provide product data including railing system and components, handrails, and handrail brackets. Include corrosion-inhibitive shop coat painting system. 
-   ## Product
+## Product
 1. 2.1 Materials
    1. Metal Handrails:
       1. Standard Steel Pipe, Architectural Handrail Grade, of diameter and sizes indicated.
@@ -76,11 +71,8 @@ tags: ['Facility', 'Construction', 'Metals', 'Metal', 'Railings']
 ## Execution
 
 
-* 
-	1. **Installation
+	1. Installation
    1. Install metal handrails and railings conforming to the installation requirements of NAAMM's Pipe Railing Manual.
 2. Install metal handrails and railings with accessories furnished by the railing fabricator as required for complete and finished railing installations.
 3. After installation, exposed painted surfaces, field welds, and other abraded or damaged primed surfaces shall be prepared as required and touched up with an additional coat of the same primers for ferrous and galvanized surfaces.
-
-*[this page intentionally left blank]*
 

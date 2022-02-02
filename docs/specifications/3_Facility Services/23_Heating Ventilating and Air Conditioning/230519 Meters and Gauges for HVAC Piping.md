@@ -4,9 +4,8 @@ section: '230519'
 divNumb: 23
 divName: Heating Ventilating and Air Conditioning
 subgroup: Facility Services
-tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 'Meters', 'Gauges', 'for', 'HVAC', 'Piping']
+tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 'Meters', 'Gauges', 'HVAC', 'Piping']
 ---
-
 
 ## General
 
@@ -26,8 +25,7 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
       1. B40.1 Gauges - Pressure, Indicating Dial Type - Elastic Element
    1. Instrument Society of America (ISA)
    1. Underwriters Laboratories (UL)
-1. Submittals** 
-   1. See Division 23 sections of the Specifications. 
+1. Submittals*   1. See Division 23 sections of the Specifications. 
    1. Product data for each type of meter and gauge. Include scale range, ratings, and calibrated performance curves, certified where indicated. Submit meter and gauge schedule showing manufacturer's figure number, scale range, location, and accessories for each meter and gauge.
    1. Maintenance data for each type of meter and gauge, for inclusion in Operating and Maintenance Manuals specified in Division 1 sections of the Specifications.
 1. QUALITY ASSURANCE
@@ -86,63 +84,58 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
       1. Pressure Gauges, General:
             1. Type:
 
-## General
-
- use, ASME B40.1, Grade A, phosphor bronze bourdon-tube type, bottom connection.
+General use, ASME B40.1, Grade A, phosphor bronze bourdon-tube type, bottom connection.
    1. Case:
       1. Drawn steel or brass, glass lens, 4-1/2-inch diameter.
-   1. Connector:
+   2. Connector:
       1. Brass, 1/4-inch NPS.
-   1. Scale:
+   3. Scale:
       1. White coated aluminum with permanently etched markings.
-   1. Accuracy:
+   4. Accuracy:
       1. +1% of range span.
-   1. Range:
+   5. Range:
       1. Conform to the following:
-      1. Vacuum:
+      2. Vacuum:
          1. 30 inches Hg to 15 psi.
-   1. All fluids:
+   6. All fluids:
       1. Two times operating pressure.
-   1. Pressure Gauge Accessories:
+   7. Pressure Gauge Accessories:
       1. Syphon:
          1. 1/4-inch NPS straight coil constructed of brass tubing with threads on each end.
-   1. Snubber:
+   8. Snubber:
       1. 1/4-inch NPS brass bushing with corrosion-resistant porous metal disc. Disc material shall be suitable for fluid served and rated pressure.
-   1. Gauge isolation valves:
+   9. Gauge isolation valves:
       1. All gauges shall have a service valve consisting of a 1/4-inch NPT threaded ball valve with at least a 3-inch-long operating handle. Petcocks are prohibited.
-   1. Flow Meters, General:
-      1. Flow rate of elements and meters shall be same as connected equipment or system.
-   1. Insertion Type Flow Meters:
-      1. Single Turbine Insertion Flow Element. Turbine type, designed for installation in piping. Paddle wheel type sensors are not acceptable.
-   1. Construction:
-      1. The turbine element shall be constructed of polypropylene or polysulfone with sapphire jewel bearings and tungsten carbide shafts. The flow sensor shall be constructed of 316 stainless steel with an aluminum electronics enclosure and a gasketed cover. Flow sensor shall have a 50:1 turndown ratio. Accuracy shall be ±2% of actual flow reading from 0.4 feet per second to 20.0 feet per second. The sensor shall have an output signal that can be directly connected to the NREL Delta® DDC system without intermediate electronic devices. The flow sensor shall not use magnetic or photoelectric means to detect flow.
+   10. Flow Meters, General:
+      2. Flow rate of elements and meters shall be same as connected equipment or system.
+   11. Insertion Type Flow Meters:
+      3. Single Turbine Insertion Flow Element. Turbine type, designed for installation in piping. Paddle wheel type sensors are not acceptable.
+   12. Construction:
+      4. The turbine element shall be constructed of polypropylene or polysulfone with sapphire jewel bearings and tungsten carbide shafts. The flow sensor shall be constructed of 316 stainless steel with an aluminum electronics enclosure and a gasketed cover. Flow sensor shall have a 50:1 turndown ratio. Accuracy shall be ±2% of actual flow reading from 0.4 feet per second to 20.0 feet per second. The sensor shall have an output signal that can be directly connected to the Owner Delta® DDC system without intermediate electronic devices. The flow sensor shall not use magnetic or photoelectric means to detect flow.
 1. EXECUTION
-1. ERECTION INSTALLATION APPLICATION
+2. ERECTION INSTALLATION APPLICATION
    1. Installation of Thermometers:
       1. Install thermometers in vertical and tilted positions to allow reading by observer standing on floor.
-   1. Install as shown on plans.
-   1. Thermometer Wells:
+   2. Install as shown on plans.
+   3. Thermometer Wells:
       1. Install in piping where thermometers are indicated in vertical position. Fill well with temperature conduction grease, oil, or graphite and secure cap.
-   1. Installation of Pressure Gauges:
+   4. Installation of Pressure Gauges:
       1. Mechanical Spaces:
          1. Install pressure gauges in piping with pressure gauge located at most readable position. Extend fittings as needed to make gauge readable to plant operators. Gauges not readable by an observer standing on floor are unacceptable and will be relocated at the contractor’s expense.
-   1. Finished Spaces:
+   5. Finished Spaces:
       1. Pressure gauges installed above dropped ceilings will face down or be located at the most readable position for service personnel.
-   1. Extend gauge piping to allow for insulation. Gauge shutoff valves must be operable after insulation is installed. Install in the following locations and elsewhere as indicated:
+   6. Extend gauge piping to allow for insulation. Gauge shutoff valves must be operable after insulation is installed. Install in the following locations and elsewhere as indicated:
       1. Across suction and discharge of each pump.
-   1. Differential pressure (DP) gauge assemblies:
+   7. Differential pressure (DP) gauge assemblies:
       1. DP gauges assemblies will be installed across the suction and discharge of pumps. The DP gauge shall have 1/4-inch ball valves on the pump suction and discharge connections. Connecting fittings shall be 1/4 inch NPT. (Valves and fittings may match port size on pumps with factory equipped gauge port taps.) A snubber shall be installed on the gauge to reduce gauge needle oscillations.
-   1. Installation of Flow Measuring Elements and Meters:
+   8. Installation of Flow Measuring Elements and Meters:
 
-## General
-
-:
+General:
          1. Install gauges and thermometers in piping systems located in accessible locations at most readable position.
    1. Locations:
       1. Install flow measuring elements and meters where indicated. Single turbine flow meters require 40 pipe diameters of straight pipe ahead of the flow element. Consult the manufacturer's recommendations for installing dual turbine flow meters.
 1. ADJUSTING
    1. Adjust faces of meters and gauges to proper angle for best visibility.
-1. CLEANING
+2. CLEANING
    1. Clean windows of meters, gauges and factory finished surfaces. Replace cracked or broken windows; repair scratched or marred surfaces with manufacturer's touch-up paint.
-1. END OF SECTION 230519
 

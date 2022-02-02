@@ -7,14 +7,12 @@ subgroup: Process Equipment
 tags: ['Process', 'Equipment', 'Interconnections', 'Hydraulic', 'Gates']
 ---
 
-   1. SECTION 40 05 59
+
    1. HYDRAULIC GATES
 
 ## General
 
-
-* 
-	1. Summary
+1. SUMMARY
    1. This section includes:
 	1. Stop Gates (stop planks)
 	2. Slide Gates
@@ -28,12 +26,8 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Hydraulic', 'Gates']
    1. Each of the fabricated stop, slide, and sluice gates shall be designed to shut off gravity flow in concrete channels or tankage. Size requirements, operating conditions, and basic material requirements are defined in this Specification Section or shown on the Drawings. All sluice and slide gates shall meet the field leakage requirements described in AWWA C501 under both seating and unseating conditions.
    1. Gate schedule is given in Paragraph 3.6 of this Section.
 
-* 
 	1. SUBMITTALS
-
-## General
-
-:
+	1. General:
       1. Submit the following in accordance with Provisions of Contract and Division 1 Specification Sections:
       1.  A copy of this specification section, with addendum updates included, and all referenced and applicable sections, with addendum updates included, with each paragraph check- marked to indicate specification compliance or marked to indicate requested deviations from specification requirements. If deviations from the specifications are indicated and, therefore requested by the Contractor the submittal shall be accompanied by a detailed, written justification for each deviation. Failure to include a copy of the marked-up specification sections, along with justification for any requested deviations to the specification requirements, with the submittal shall be cause for rejection of the entire submittal with no further consideration.
 2. Manufacturer’s Product Data
@@ -56,24 +50,17 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Hydraulic', 'Gates']
 			2. Lifting nuts: two of each different size.
    1. Product
 
-* 
 	1. MANUFACTURERS
 		1. Manufacturers: Subject to compliance with requirements, manufacturers offering products that may be incorporated into the Work include, but are not limited to, the following:
 			1. Rodney Hunt Company
 			2. Approved equal
 	2. STOP GATES
-		
-## General
-
-: Stop gates shall be fabricated aluminum, with dimensions as shown on the Drawings. All parts of the gates shall have a minimum thickness of 1/4 inch. The single-slot guides shall accept the plate of the disc. The frame embedded in the invert shall accept a resilient-seal to provide a flush bottom closure.
+			1. General: Stop gates shall be fabricated aluminum, with dimensions as shown on the Drawings. All parts of the gates shall have a minimum thickness of 1/4 inch. The single-slot guides shall accept the plate of the disc. The frame embedded in the invert shall accept a resilient-seal to provide a flush bottom closure.
 		2. Design Head: Maximum design head shall be the height of the gate.
 		3. Guide Frames: ASTM B308 Alloy 6061-T6 aluminum. The guides shall be designed to embed in or mount to the face of the concrete and shall be provided with keyways to lock them into the concrete. The invert of the frame shall be an angle welded to the lower ends of the guides to form a seating surface for the resilient seal mounted on the disc.
 		4. Discs: ASTM B-209 Alloy 6061-T6 aluminum plate reinforced with formed plates or extruded structural members welded to the plate to limit deflection to 1/360 of the plank’s span under the design head. Guide seals shall be ASTM D-1248 ultra high molecular weight polyethylene. Seal in the invert frame shall be ASTM D-2000 Grade 2 BC-510 Neoprene.
 	3. SLIDE GATES
-		
-## General
-
-: Slide gates shall be of fabricated aluminum. Slide gates shall be self-contained, rising stem, flush bottom, with guide frames designed to be embedded in the concrete channel, as shown on the Drawings. All parts of the gates shall have a minimum thickness of 1/4 inch.
+			1. General: Slide gates shall be of fabricated aluminum. Slide gates shall be self-contained, rising stem, flush bottom, with guide frames designed to be embedded in the concrete channel, as shown on the Drawings. All parts of the gates shall have a minimum thickness of 1/4 inch.
 		2. Design Head: Maximum design seating and unseating heads shall be the height of the slide.
 		3. Travel: Slide gates shall have sufficient travel to allow raising the bottom of the slide to an elevation of 6 inches above the maximum water level as indicated on the hydraulic profile drawing.
 		4. Guide Frame: ASTM B-308 Alloy 6061-T6 aluminum extrusions shop welded to form a rigid and square one-piece frame. Slide and invert frames shall be single-slot design. The portion of self-contained gates that extend above the operating floor shall be sufficiently rigid such that additional support is unnecessary. Yokes shall be designed to support the gate operator and associated lifting forces, and shall allow for removal of the gate slide and stem for servicing.
@@ -95,10 +82,7 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Hydraulic', 'Gates']
 	1. Fasteners: Type 304 stainless steel.
 	2. Anchor bolts: Type 304 stainless steel.
 	3. SLUICE GATES
-		
-## General
-
-: Sluice gates shall be cast iron, fully bronze mounted, and shall have side wedges for seating head conditions and side, top, and bottom wedges for unseating head conditions when the width of the gate exceeds 24". All gate components shall be designed to safely withstand the heads listed in the Sluice Gate Schedule.
+			1. General: Sluice gates shall be cast iron, fully bronze mounted, and shall have side wedges for seating head conditions and side, top, and bottom wedges for unseating head conditions when the width of the gate exceeds 24". All gate components shall be designed to safely withstand the heads listed in the Sluice Gate Schedule.
 		2. Travel: Gates shall be raised to open; lowered to close. Travel shall allow for full opening of gate.
 		3. Materials:
       1. ASTM
@@ -111,8 +95,6 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Hydraulic', 'Gates']
    1. Stainless steel for stems ASTM A-276, Type 304
    1. Stainless steel for fasteners ASTM A-276, Type 304
 
-* 
-	+ 
 		1. Frame: The frame shall be of cast iron, one-piece construction with mounting flange and rectangular or circular opening as indicated on the plans. All contact surfaces of the frame shall be machined. The frame shall have machined dovetailed grooves on the front face into which bronze seat facings shall be driven and machined to a 63 micro-inch finish. The back of the frame shall be machined to bolt directly to the machined face of a wall thimble, or pipe flange. Frames for sluice gates, greater than 24" wide, subject to unseating heads shall have integrally cast pads machined with keyways to receive top and bottom wedge seats.
 		2. Disc or Slide: The disc shall be of cast iron, one-piece construction, rectangular with integrally cast vertical and horizontal ribs. A reinforcing rib along each side shall be provided to insure rigidity between the side wedges. The disc shall have machined dovetailed grooves on the seating face into which bronze seat facings shall be driven and machined to a 63 micro-inch finish. A tongue on each side, extending the full length of the disc, shall be machined on all sides with a 1/16" clearance maintained between the disc tongue and gate guide groove. Wedge pads for side, top, and bottom wedges, when required, shall be cast integrally on the disc and machined to receive adjustable bronze wedges. A heavily reinforced nut pocket shall be cast integrally on the vertical centerline and above the horizontal center, and be of such shape to receive the square-backed thrust nut.
 		3. Guides: The guides shall be cast iron, one-piece, designed to withstand the total thrust due to water pressure and the wedging action. The guides shall be machined on all contact surfaces, and a groove shall be machined the entire length of the guide to allow 1/16" clearance between the disc tongue and guide groove. The guides shall be of such length as to retain and support at least one half the disc in the full open position. The guides shall be integrally cast with or attached to the frame with silicon bronze or stainless steel studs and nuts, and shall be dowelled to prevent any relative motion between the guides and frame. On sluice gates over 48" wide, a reinforcing rib extending from the guide flange over the top of the wedge seat shall be provided. Bronze wedge seats shall be securely attached to machined pads on the guides.
@@ -139,9 +121,10 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Hydraulic', 'Gates']
 			1. The sluice gates shall be substantially watertight under design head conditions. The leakage shall not exceed 0.1 gpm per foot of periphery for seating heads up to 50 feet, and for unseating heads up to 30 feet.
 		15. Shop Testing
 			1. The completely assembled gate shall be shop inspected for proper seating. Seat facings shall be machined and wedges adjusted to exclude a 0.004" thickness gauge between the frame and disc seating surfaces. The gate disc shall be fully opened and closed in its guide system to ensure that it operates freely. Floorstands shall be shop operated to insure proper assembly and operation
-   1. Execution
 
-* 
+## Execution
+
+
 	1. EXAMINATION
 		1. Inspect surfaces to receive wall-mounted gates to verify that the gate shall not be distorted during installation.
 		2. Verify that items to be embedded are positioned accurately and supported to prevent shifting during pouring of concrete.

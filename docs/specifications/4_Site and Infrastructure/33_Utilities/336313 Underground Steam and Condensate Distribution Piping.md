@@ -7,30 +7,24 @@ subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Utilities', 'Underground', 'Steam', 'Condensate', 'Distribution', 'Piping']
 ---
 
-1. SECTION 33 65 00
-1. THERMAL UTILITIES
-1. BASED ON DFDM MASTER SPECIFICATIONS DATED 10/16/2020
-   1. This section has been written to cover most (but not all) situations that you will encounter. Depending on the requirements of your specific project, you may have to add material, delete items, or modify what is currently written. The Division of Facilities Development expects changes and comments from you.
-1. P A R T 1 - G E N E R A L
-1. SCOPE
-   1. This section includes specifications for supports of all underground utility structures, equipment, and matrials as well as piping system anchors. Included are the following topics:
-      1. 
 ## General
-
-    1. Scope
+1. SCOPE
+   1. This section includes specifications for supports of all underground utility structures, equipment, and materials as well as piping system anchors. Included are the following topics:
     1. Related Work
-    1. Regulatory Requirements
-    1. Submittals
-    1. Project Record Documents
-    1. Delivery, Storage and Handling
-    1. Coordination
-   ## Product
+    2. Regulatory Requirements
+    3. Submittals
+    4. Project Record Documents
+    5. Delivery, Storage and Handling
+    6. Coordination
+## Product
     1. Waterproofing
     1. Bedding and Utility Cover
    1. Steam Pit Frames and Covers
    1. Ladders
    1. Air Vent Screen
-   1. Execution
+
+## Execution
+
     1. Excavation
     1. Bedding and Utility Cover
     1. Concrete Repair
@@ -128,5 +122,5 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Underground', 'Steam', 'Condensat
    1. Contractor shall be responsible for location and levels of work of this Section, except such parts as may be delivered to others and set by them. In such cases, this Contractor shall assist others in properly locating those parts.
    1. Coating of aluminum steam pit frames:
       1. Coat aluminum frames that come into contact with concrete with bitumastic or epoxy coating. Where frame coating has been damaged or is missing recoat before pouring concrete.
-   1. END OF SECTION
+   
 

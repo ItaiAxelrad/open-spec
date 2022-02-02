@@ -7,24 +7,18 @@ subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Utilities', 'Hydronic', 'Steam', 'Energy']
 ---
 
-   1. SECTION 33 63 13
-1. HYDRONIC HEATING AND STEAM UTILITIES
-1. BASED ON DFD MASTER SPECIFICATION DATED 10/16/2020
-1. *This section has been written to cover most (but not all) situations that you will encounter. Depending on the requirements of your specific project, you may have to add material, delete items, or modify what is currently written. The Division of Facilities Development expects changes and comments from you.*
-1. P A R T 1 - G E N E R A L
+## General
 1. SCOPE
    1. This section contains specifications for all hydronic heating & steam utility distribution systems for this project. Included are the following topics:
-      1. 
-## General
-
-    1. Scope
     1. Related Work
-    1. Reference
-    1. Shop Drawings
-    1. Quality Assurance
-   1. Product
-    1. None
-   1. Execution
+    2. Reference
+    3. Shop Drawings
+    4. Quality Assurance
+   2. Product
+    5. None
+
+## Execution
+
     1. Excavation
     1. Bedding and Utility Cover
     1. Direct Buried Underground Steam/Condensate Conduit
@@ -65,6 +59,6 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Hydronic', 'Steam', 'Energy']
    1. Backfilling shall not begin until the heat shrink sleeve(s) has cooled. All insulation and jacketing materials for the field joint shall be furnished by system manufacturer.
    1. Contractor shall take care to maintain the dry status of the preinsulated pipe at all times. If the preinsulated pipe becomes wet the contractor shall dry the preinsulated pipe until the certified factory representative is satisfied the system is again dry and will carry the full manufacturer’s warranty. The contractor shall dry the wet system per the manufactures recommended procedures at no additional cost to the project.
 1. *
-   1. END OF SECTION
+   
 
 

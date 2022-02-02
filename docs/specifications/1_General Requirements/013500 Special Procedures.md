@@ -12,12 +12,10 @@ tags: ['General', 'Requirements', 'Special', 'Procedures']
 
 ## General
 
-
-* 
-	1. **Summary
+1. SUMMARY
    1. Section includes:
 	1. Cold Weather Specifications - Addendum #1 to Mount Werner Water Specifications for Cold Weather Water and Sewer Pipeline Construction (November 2006, updated March 19, 2008)
-	2. **General Requirements
+	2. General Requirements
 2. Cold Weather Precautions and Specifications shall take effect when any of the following temperature conditions occur, or between November 1 and May 1, whichever occurs first:
 	1. When the 10:00 AM temperature is below 30-degrees Fahrenheit for 3 consecutive days, pipe installation shall not be permitted without an approved Mitigation Plan.
 	2. No pipe installation shall be allowed, regardless of mitigation efforts, when the temperature drops below 20-degrees Fahrenheit or when conditions are outside the manufacturer’s installation specifications or recommendations, whichever is more restrictive.
@@ -37,7 +35,10 @@ tags: ['General', 'Requirements', 'Special', 'Procedures']
 		11. Trench dewatering operations shall be controlled and set up to prevent problems to downstream storm water facilities or any hazard to the motoring public or to any other properties. Under no circumstances shall groundwater be allowed to enter the pipe.
 		12. Standard bedding and shading specifications shall be increased from 4” below the pipe and 6” above the pipe, to 8” below the pipe and 12” above the pipe.
 		13.  On-site air temperature readings shall be obtained and documented by the Engineer. This information shall be recorded in the engineers daily reporting system.
-   ## Product (not Used)
+
+## Product 
+
+ (Not Used)
 
 
 ## Execution
@@ -46,6 +47,4 @@ tags: ['General', 'Requirements', 'Special', 'Procedures']
    1. Provide installation as shown on the drawings and in accordance with the manufacturer’s recommendations.
 2. Provide water distribution piping installation in accordance with Sections 33 30 00 and 33 14 11.
 3. Provide wastewater piping installation in accordance with Section 33 30 00.
-
-*[this page intentionally left blank]*
 

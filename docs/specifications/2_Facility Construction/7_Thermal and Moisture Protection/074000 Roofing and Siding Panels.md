@@ -7,20 +7,15 @@ subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Roofing', 'Siding', 'Panels']
 ---
 
-   1. Section 07 40 00
-   1. Roofing
-
 ## General
 
-
-* 
-	1. **Summary
-   1. Section Includes
-	1. Asphalt roofing shingles.
-	2. Underlayment.
-	3. Metal flashing associated with shingle roofing.
-	4. **References
-2. American Society for Testing and Materials (ASTM) - Annual Book of ASTM Standards
+1. SUMMARY
+  1. Section Includes
+   	1. Asphalt roofing shingles.
+   	2. Underlayment.
+   	3. Metal flashing associated with shingle roofing.
+2. References
+3. American Society for Testing and Materials (ASTM) - Annual Book of ASTM Standards
 	1. ASTM A 653/A 653M - Standard Specification for Steel Sheet, Zinc Coated (Galvanized) or Zinc-Iron Alloy-Coated (Galvannealed) by the Hot-Dip Process.
 	2. ASTM B 209 - Standard Specification for Aluminum and Aluminum-Alloy Sheet and Plate.
 	3. ASTM B 370 - Standard Specification for Copper Sheet and Strip for Building Construction.
@@ -29,46 +24,46 @@ tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Roofing
 	6. ASTM D 3462 – Standard Specification for Asphalt Shingles Made From Glass Felt and Surfaced with Mineral Granules.
 	7. ASTM D 4586 - Standard Specification for Asphalt Roof Cement, Asbestos-Free. 
 	8. ASTM D 7158 - Standard Test Method for Wind-Resistance of Sealed Asphalt Shingles (Uplift Force/Uplift Resistance Method).
-3. Underwriters Laboratories (UL) - Roofing Systems and Materials Guide (TFWZ.R21)
-	1. UL 790 - Tests for Fire Resistance of Roof Covering Materials.
-	2. UL 997 - Wind Resistance of Prepared Roof Covering Materials.
-4. Asphalt Roofing Manufacturers Association (ARMA) 
-5. Sheet Metal and Air Conditioning Contractors National Association, 1nc. (SMACNA) - Architectural Sheet Metal Manual.
-6. National Roofing Contractors Association (NRCA)
-	1. **Definitions
-7. Roofing Terminology:
+4. Underwriters Laboratories (UL) - Roofing Systems and Materials Guide (TFWZ.R21)
+	9. UL 790 - Tests for Fire Resistance of Roof Covering Materials.
+	10. UL 997 - Wind Resistance of Prepared Roof Covering Materials.
+5. Asphalt Roofing Manufacturers Association (ARMA) 
+6. Sheet Metal and Air Conditioning Contractors National Association, 1nc. (SMACNA) - Architectural Sheet Metal Manual.
+7. National Roofing Contractors Association (NRCA)
+	11. Definitions
+8. Roofing Terminology:
       1. Refer to ASTM D1079 and the glossary of the National Roofing Contractors Association (NRCA) Roofing and Waterproofing Manual for definitions of roofing terms related to this section.
-	1. **Submittals
-8. See Specification Section 01 33 00 for requirements for the mechanics and administration of the submittal process.
-9. Submit copies of manufacturer product data sheets, detail drawings and samples for each type of roofing product.
-10. Warranty:
-	1. Provide warranty in accordance with Division 0 of the Contract Documents.
-	2. Special Warranty
+	12. Submittals
+9. See Specification Section 01 33 00 for requirements for the mechanics and administration of the submittal process.
+10. Submit copies of manufacturer product data sheets, detail drawings and samples for each type of roofing product.
+11. Warranty:
+	13. Provide warranty in accordance with Division 0 of the Contract Documents.
+	14. Special Warranty
 		1. Material Warranty Period: 40 years from date of contract completion, prorated, with first 10 years nonprorated.
 		2. Wind-Speed Warranty Period: Resist blow-off or damage caused by wind speeds up to 80 m.p.h. for a minimum 5 years from date of contract completion.
-	3. **Quality Assurance
-11. Manufacturer Qualifications:
-	1.  Provide all primary roofing products, including shingles, ridge and hip cap shingles, and underlayment, by a single manufacturer.
-12. Installer Qualifications:
-	1. Installer must be approved for installation of all roofing products to be installed under this section.
-	2. **Regulatory Requirements
-13. Provide a roofing system achieving a Class A; ASTM E 108 or UL 790 fire classification.Provide a roofing system achieving an ENERGYSTAR rating
-14. Install all roofing products in accordance with all federal, state and local building codes.
-15. All work shall be performed in a manner consistent with current OSHA guidelines.
-	1. **Pre-installation Meeting
-16. Timing:
-	1. The meeting shall take place at the start of the roofing installation.
-17. Attendees:
-	1. Meeting to be called for by manufacturer’s certified contractor. Meeting’s mandatory attendees shall include the certified contractor and the manufacturer’s representative. Non-mandatory attendees shall include the owner’s representative, architect or engineer’s representative, and the general contractor’s representative.
-18. Topics:
-	1. Certified contractor and manufacturer’s representative shall review all pertinent requirements for the project, including but not limited to, scheduling, weather considerations, project duration, and requirements for the specified warranty.
-	2. **Delivery, Storage, and Handling
-19. See Specification Section 01 66 00 for delivery, storage, and handling requirements.
-20. Store and protect products in accordance with manufacturer’s instructions.
-21. Store and dispose of solvent-based materials in accordance with all federal, state and local regulations.
-	1. **Weather Conditions
-22. Proceed with work only when existing and forecasted weather conditions will permit work to be performed in accordance with manufacturer’s recommendations.
-   ## Product
+	15. Quality Assurance
+12. Manufacturer Qualifications:
+	16. Provide all primary roofing products, including shingles, ridge and hip cap shingles, and underlayment, by a single manufacturer.
+13. Installer Qualifications:
+	17. Installer must be approved for installation of all roofing products to be installed under this section.
+	18. Regulatory Requirements
+14. Provide a roofing system achieving a Class A; ASTM E 108 or UL 790 fire classification.Provide a roofing system achieving an ENERGYSTAR rating
+15. Install all roofing products in accordance with all federal, state and local building codes.
+16. All work shall be performed in a manner consistent with current OSHA guidelines.
+	19. Pre-installation Meeting
+17. Timing:
+	20. The meeting shall take place at the start of the roofing installation.
+18. Attendees:
+	21. Meeting to be called for by manufacturer’s certified contractor. Meeting’s mandatory attendees shall include the certified contractor and the manufacturer’s representative. Non-mandatory attendees shall include the owner’s representative, architect or engineer’s representative, and the general contractor’s representative.
+19. Topics:
+	22. Certified contractor and manufacturer’s representative shall review all pertinent requirements for the project, including but not limited to, scheduling, weather considerations, project duration, and requirements for the specified warranty.
+	23. Delivery, Storage, and Handling
+20. See Specification Section 01 66 00 for delivery, storage, and handling requirements.
+21. Store and protect products in accordance with manufacturer’s instructions.
+22. Store and dispose of solvent-based materials in accordance with all federal, state and local regulations.
+	24. Weather Conditions
+23. Proceed with work only when existing and forecasted weather conditions will permit work to be performed in accordance with manufacturer’s recommendations.
+## Product
 1. 2.1 Glass Fiber Reinforced Asphalt Shingles
    1. Self-sealing, granule surfaced, asphalt shingle with a strong fiberglass reinforced core and algae discoloration protection.
 	1. Timberline HD® Lifetime High Definition Shingles, by GAF® or approved equal.
@@ -77,10 +72,8 @@ tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Roofing
 	1. As determined by Owner.
 1. 2.2 Hip and Ridge Shingles
    1. Manufacturer’s standard units to match asphalt shingles.
-1. 2.4 Starter Strip** 
-   1. Self-sealing starter shingle designed for asphalt roof shingles. 
-1. 2.5 Leak Barrier** 
-
+1. 2.4 Starter Strip*   1. Self-sealing starter shingle designed for asphalt roof shingles. 
+1. 2.5 Leak Barrier*
    1. Leak barrier may either be:
 	1. Self-adhering, self-sealing, bituminous leak barrier surfaced with fine, skid-resistant granules. Approved by UL, ICC.
 	2. Self-adhering, self-sealing, bituminous leak barrier surfaced with a smooth polyethylene film. Approved by UL, ICC.
@@ -114,11 +107,7 @@ tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Roofing
 2. Fasten with ThermaCal® or approved equal Fasteners to the supporting roof deck shown in the plans.
 3. Protect nail base insulation work from exposure to moisture damage and deterioration, primarily by prompt installation of the roofing, sheet metal and waterproofing work. 
 1. 3.5 Installation of Underlayments
-
-## General
-
-
-:
+	 1. General:
 	1. Install using methods recommended by shingle manufacturer, in accordance with local building codes. When local codes and application instructions are in conflict, the more stringent requirements shall take precedence.
 2. Eaves:
 	1. Install eaves edge metal flashing tight with fascia boards
@@ -161,11 +150,7 @@ tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Roofing
 			2. lap joints at least 2 inches (51mm) and seal with plastic cement
 			3. secure with nails.
 1. 3.6 Installation of Starter Shingles
-
-## General
-
-
-: 
+	 1. General: 
 	1. Install in accordance with shingle manufacturer’s instructions and local building codes. When local codes and application instructions are in conflict, the more stringent requirements shall take precedence.
 	2. Refer to application instructions for the selected starter strip shingles.
 2. Placement and Nailing:
@@ -174,11 +159,7 @@ tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Roofing
 		2. Nail approximately 1-1/2" – 3" (38 – 76mm) above the butt edge of the shingle.
 		3. Rake starter course should overlap eave edge starter strip at least 3" (76mm).
 1. 3.7 Installation of Shingles
-
-## General
-
-
-:
+	 1. General:
 	1. Install in accordance with shingle manufacturer’s instructions and local building codes. When local codes and application instructions are in conflict, the more stringent requirements shall take precedence.
 	2. Minimize breakage of shingles by avoiding dropping bundles on edge, by separating shingles carefully (not by "breaking" over ridge or bundles), and by taking extra precautions in temperatures below 40 degrees F (4 degrees C).
 	3. Handle carefully in hot weather to avoid scuffing the surfacing, or damaging the shingle edges.

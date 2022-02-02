@@ -10,5 +10,3 @@ tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Sto
    1. Division 43
    1. Process Liquid Handling and Storage Equipment
 
-*[this page intentionally left blank]*
-

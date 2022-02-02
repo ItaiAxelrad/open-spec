@@ -8,12 +8,11 @@ tags: ['Process', 'Equipment', 'Water', 'Wastewater', 'Grit', 'Removal', 'Handli
 ---
 
 1. 46 23 00 Grit Removal and Handling Equipment
-   1. SECTION 446100 – GRIT REMOVAL EQUIPMENT 
+
 
 ## General
 
 
-* 
 	1. RELATED DOCUMENTS
 		1. Drawings, General and Special Provisions of the Contract, and Division 01 Specification Sections apply to this Section.
 	2. SUMMARY
@@ -41,20 +40,17 @@ tags: ['Process', 'Equipment', 'Water', 'Wastewater', 'Grit', 'Removal', 'Handli
 			5. Performance data as specified below.
 			6. Motor data as specified in this section.
 			7. Operation and Maintenance Data: Submit complete instruction for operation and maintenance of Grit Removal, Washing, and Dewatering System components. Include the following data:
-				1. Alignment, adjustment, and repair instructions.
-				2. Manufacturer’s installation instructions.
-				3. Assembly diagrams.
-				4. Guide to troubleshooting.
-				5. Lubrication instructions.
-				6. Recommended spare parts lists and predicted life of parts subject to wear.
+			1. Alignment, adjustment, and repair instructions.
+			2. Manufacturer’s installation instructions.
+			3. Assembly diagrams.
+			4. Guide to troubleshooting.
+			5. Lubrication instructions.
+			6. Recommended spare parts lists and predicted life of parts subject to wear.
 			8. Manufacturer’s Product Warranties
 		2. OPERATION AND MAINTENANCE MANUALS
 			1. Operation and Maintenance Manuals shall be as described in Section 017700 – Closeout Procedures. If preprinted manuals and booklets are included, “X-out” the information that
    1. does not pertain to the equipment or system supplied; i.e. the information in the manual shall be specific to the equipment model or system supplied for the project.
 
-* 
-	+ 
-		- 
 			1. Operation and Maintenance Manuals shall be submitted prior to making application for payment exceeding 75 percent of the Contract Price.
 		1. Within eight weeks of receipt of order, submit for coordination with the Systems Integrator and for approval:
 			1. A written controls narrative
@@ -77,7 +73,6 @@ tags: ['Process', 'Equipment', 'Water', 'Wastewater', 'Grit', 'Removal', 'Handli
 			2. Two sets of tailroll bearings and gaskets, scraper blades, internal scrapers, and clarifier baffles for the grit snail units.
    1. Product
 
-* 
 	1. MANUFACTURERS
 		1. Subject to compliance with requirements, manufacturers offering products that may be incorporated into the Work include the following:
 			1. Eutek System by Hydro International, Inc.
@@ -89,12 +84,12 @@ tags: ['Process', 'Equipment', 'Water', 'Wastewater', 'Grit', 'Removal', 'Handli
 
 			1. The Grit Removal, Washing, and Dewatering System shall be designed to remove, classify, wash, and dewater grit from screened raw wastewater.
 			2. The Grit Removal, Washing, and Dewatering System shall be designed to handle:
-				1. Ultimate Peak Flow of 45.0 mgd.
-				2. Design Peak Flow of 40.0 mgd.
-				3. Average Flow of 16.0 mgd.
+			1. Ultimate Peak Flow of 45.0 mgd.
+			2. Design Peak Flow of 40.0 mgd.
+			3. Average Flow of 16.0 mgd.
 		2. Grit Concentrator
 			1. Each Headcell Grit Concentrator unit shall be designed to operate under the following conditions:
-				1. At Peak Flow of 22.5 mgd (32,400 gpm) with a headloss of not more than 12 inches, each unit shall remove minimum 95% of all grit equal to and larger than 100 micron (specific gravity 2.6) in size.
+			1. At Peak Flow of 22.5 mgd (32,400 gpm) with a headloss of not more than 12 inches, each unit shall remove minimum 95% of all grit equal to and larger than 100 micron (specific gravity 2.6) in size.
 		3. Grit Washing / Classification Unit
 			1. The Grit Separation / Classification unit shall be designed at a flow of 0.43 mgd (300 gpm) with a headloss of approximately 15.0 feet and handle a range of flow from 280 gpm to 450 gpm with an inlet solids concentration of 0.5% TSS.
 			2. At steady state design flow conditions, the unit shall remove minimum 95% of all grit equal to and larger than 50 micron (specific gravity 2.6) in size from the design flow rate of 0.43 mgd (300 gpm) of 0.5% TSS Headcell Settleable Solids Concentrator unit slurry underflow.
@@ -103,9 +98,6 @@ tags: ['Process', 'Equipment', 'Water', 'Wastewater', 'Grit', 'Removal', 'Handli
 			2. The Grit Dewatering Escalator unit clarifier design shall be based on a settling rate of
 2. gpm/ft2.
 
-* 
-	+ 
-		- 
 			1. The dewatered grit from the Grit Removal, Washing, and Dewatering system shall, on a weighted average, contain no more than 20% (wt) unattached organic solids and a minimum 60% solids concentration.
 			2. The Grit Dewatering unit shall be characterized by the ability to capture and dewater all grit removed by the Grit Separation / Classification unit. Grit screw classifiers, grasshoppers, reciprocating rakes and similar type of units shall not be considered because of their inability to capture and dewater all grit removed by the Grit Separation / Classification unit.
 	1. GRIT CONCENTRATORS
@@ -131,9 +123,6 @@ tags: ['Process', 'Equipment', 'Water', 'Wastewater', 'Grit', 'Removal', 'Handli
 		2. The Grit Washing / Classification units shall be characterized by a dominant, strong free vortex which utilizes centrifugal and gravitational forces and secondary boundary layer velocities to
    1. affect the washing, collection and classification of grit from the unit's inflow. Defining characteristics of the dominant free vortex / secondary boundary layer velocity type units are as follows:
       1. 
-* 
-	+ 
-		- 
 			1. Dominating increasing tangential velocity profile toward the center of the unit.
 			2. The ability to handle increasing flows with no loss of the specified grit removal efficiency and with increasing headloss requirements.
 			3. The ability to classify (wash) the grit from lighter organic material to meet the specified organic solids content.
@@ -145,8 +134,6 @@ tags: ['Process', 'Equipment', 'Water', 'Wastewater', 'Grit', 'Removal', 'Handli
 		1. Each Grit Washing / Classification unit shall be 32-3/8 inches in diameter and shall be fabricated from 304 stainless steel. Welding shall conform to the most current standards of the American Welding Society. The steel shall conform to materials specifications, as detailed in Section 2.8A.
    1. Each Grit Washing / Classification unit shall be fabricated from 1/4-inch-thick 304 stainless steel standard dished and flanged heads with 3/16-inch-thick stainless steel walls. Exterior surfaces shall be finished in accordance with specifications described in Section 2.8B.
 
-* 
-	+ 
 		1. A minimum 18-inch-diameter access shall be provided in the top of the Grit Washing / Classification unit. All internal elements shall be removable from inside the unit.
 		2. Each Grit Washing / Classification unit shall be mounted to a Grit Dewatering Escalator unit.
 		3. The grit underflow from the Grit Washing / Classification units shall be transported by gravity flow to the Grit Dewatering Escalator unit.
@@ -164,7 +151,6 @@ tags: ['Process', 'Equipment', 'Water', 'Wastewater', 'Grit', 'Removal', 'Handli
 		10. The Grit Washing / Classification unit shall be designed to withstand a maximum working pressure of 14.7 psig. The actual maximum pressure at the inlet shall be no more than
 7. psig.
 
-* 
 	1. GRIT DEWATERING ESCALATOR
 		1. Two (2) Grit Dewatering Escalator units shall be supplied.
 		2. The Grit Dewatering unit shall be characterized by the ability to capture and dewater all grit removed by the Grit Washing / Classification unit. Grit screw classifiers, grasshoppers, reciprocating rake and similar types of units shall not be considered because of their inability to capture and dewater all grit removed by the Grit Washing / Classification unit.
@@ -172,8 +158,6 @@ tags: ['Process', 'Equipment', 'Water', 'Wastewater', 'Grit', 'Removal', 'Handli
 		4. The Grit Dewatering Escalator unit clarifier design shall be based on a settling rate of
 2. gpm/ft2.
 
-* 
-	+ 
 		1. The Grit Dewatering Escalator unit housing shall be 18 inches wide and inclined at 30 degrees.
 		2. Belt: The Grit Dewatering Escalator unit belt shall be a 12-inch wide hinged type cleats vulcanized on 12-inch wide 1/8 inch x 1/32 inch two-ply polyester reinforced continuous conductor belting. The belt cleats (3-3/8" x 4-9/16") shall be of molded 60 Durometer neoprene construction, aluminum reinforced with minimum 5/32 inch thick neoprene hinge.
 		3. Head and Tailrolls, Retainer Plate, and Scraper
@@ -202,18 +186,15 @@ tags: ['Process', 'Equipment', 'Water', 'Wastewater', 'Grit', 'Removal', 'Handli
 		1. Controls Equipment Description
    1. The Grit Removal Equipment control system is a PLC-based system. The PLC is provided by the Grit Removal Equipment manufacturer. Other equipment provided by others is also monitored and/or controlled by this control system as listed in paragraphs C and D below. The Grit Removal Equipment manufacturer shall provide controls equipment as described below.
 
-* 
-	+ 
-		- 
 			1. PLC Control Panel
-				1. Construct the PLC Control Panel per the requirements of Section 409513 - Control Panels.
-				2. The PLC control panel will be located indoors in the Headworks Building Electrical Room. This is considered to be an environmentally-controlled location.
-				3. The control system PLC shall be housed in the PLC Control Panel
+			1. Construct the PLC Control Panel per the requirements of Section 409513 - Control Panels.
+			2. The PLC control panel will be located indoors in the Headworks Building Electrical Room. This is considered to be an environmentally-controlled location.
+			3. The control system PLC shall be housed in the PLC Control Panel
 			2. Local Control Panels
-				1. Provide three (3) Local Control Panels, one for each Grit Washer/Concentrator and one for the Grit Pumps.
-				2. Construct the Local Control Panels per the requirements of Section 409513 Control Panels.
-				3. The Local Control panels will be located indoors near the Grit Pumps (Grit Pump Control Panel) and near the Grit Escalator (Grit Washer/Concentrator Panels). These are considered to be wet / process locations.
-				4. Include in each Grit Washer/Concentrator Local Control Panel operator switches and indicator lights as listed below and as illustrated on the P&IDs.
+			1. Provide three (3) Local Control Panels, one for each Grit Washer/Concentrator and one for the Grit Pumps.
+			2. Construct the Local Control Panels per the requirements of Section 409513 Control Panels.
+			3. The Local Control panels will be located indoors near the Grit Pumps (Grit Pump Control Panel) and near the Grit Escalator (Grit Washer/Concentrator Panels). These are considered to be wet / process locations.
+			4. Include in each Grit Washer/Concentrator Local Control Panel operator switches and indicator lights as listed below and as illustrated on the P&IDs.
 1. LCP-GRT101-A & LCP-GRT-101-B
    1. Amount
    1. Function
@@ -251,11 +232,7 @@ tags: ['Process', 'Equipment', 'Water', 'Wastewater', 'Grit', 'Removal', 'Handli
    1. E-Stop (Grit Washer / Concentrator motor)
    1. Mounted on the Control Panel
 
-* 
-	+ 
-		- 
-			* 
-				1. Include in the Grit Pumps Local Control Panel operator switches and indicator lights as listed below and as illustrated on the P&IDs.
+		1. Include in the Grit Pumps Local Control Panel operator switches and indicator lights as listed below and as illustrated on the P&IDs.
 1. LCP-PMP102-A/B/C
    1. Amount
    1. Function
@@ -278,8 +255,6 @@ tags: ['Process', 'Equipment', 'Water', 'Wastewater', 'Grit', 'Removal', 'Handli
 
 (3) Grit Pump FAULT
 
-* 
-	+ 
 		1. Programming Requirements:
 			1. Programming of the Grit Removal Equipment PLC is the responsibility of the Grit Removal Equipment manufacturer.
 			2. The Grit Removal Equipment manufacturer must coordinate with the Systems Integrator during programming development, equipment fabrication, pre-commissioning testing, and startup to deliver an approved working system.
@@ -294,8 +269,8 @@ tags: ['Process', 'Equipment', 'Water', 'Wastewater', 'Grit', 'Removal', 'Handli
 			11. The graphical OI will provide for the remote input of set points into the PLC from the graphical OI. The Grit Removal Equipment manufacturer shall provide for Inputs from the graphical OI for all Operator Adjustable set points in the PLC. The Set Points screen in the graphical OI is described in Section 409423-Supervisory Control System. Set points include–but are not limited to–analytical values, levels, timers, and flows.
 			12. The software tagging convention for control devices is described in Section 409423 Supervisory Control System and shall be followed explicitly by the Grit Removal Equipment manufacturer in setting up and programming the PLC unless specifically approved in writing by the Systems Integrator and the Engineer.
 			13. Special Alarms/Functions
-				1. The PLC provided by the Grit Removal Equipment manufacturer shall continuously monitor the status of each piece of equipment and continuously compare that status to the current command for that equipment (either a PLC generated command or an operator command from the OI). If the equipment status does not agree with the PLC command (e.g. a pump commanded to run is not running or a valve commanded to close is not closed) the PLC shall generate a “Fault Logic Disagreement” alarm. This alarm shall be communicated to the OI.
-				2. For gates or valves, the “Fault Logic Disagreement” alarm shall be delayed for 120 seconds after a change in status to allow valves to fully open or close. For pumps or motors, the “Fault Logic Disagreement” alarm shall be delayed for 10 seconds after a change in status to allow pumps or motors to start or stop.
+			1. The PLC provided by the Grit Removal Equipment manufacturer shall continuously monitor the status of each piece of equipment and continuously compare that status to the current command for that equipment (either a PLC generated command or an operator command from the OI). If the equipment status does not agree with the PLC command (e.g. a pump commanded to run is not running or a valve commanded to close is not closed) the PLC shall generate a “Fault Logic Disagreement” alarm. This alarm shall be communicated to the OI.
+			2. For gates or valves, the “Fault Logic Disagreement” alarm shall be delayed for 120 seconds after a change in status to allow valves to fully open or close. For pumps or motors, the “Fault Logic Disagreement” alarm shall be delayed for 10 seconds after a change in status to allow pumps or motors to start or stop.
 		2. Instrumentation
 			1. The Grit System shall include the following non-electrical instruments:
       1. Amount
@@ -322,9 +297,6 @@ tags: ['Process', 'Equipment', 'Water', 'Wastewater', 'Grit', 'Removal', 'Handli
    1. Tags:
       1. FI-GRT101AA FI-GRT101AB FI-GRT101BA FI-GRT101BB FI-GRT102A FI-GRT102B
 
-* 
-	+ 
-		- 
 			1. The Grit Removal Equipment manufacturer shall provide instruments as listed in the table above. Instruments are specified in Section 409100 Instrumentation. Where instruments are not specified in Section 409100 Instrumentation, the Grit Removal Equipment manufacturer shall provide his standard instruments.
 		1. PLC Controls Scope
 			1. The PLC shall control the following equipment:
@@ -377,83 +349,52 @@ tags: ['Process', 'Equipment', 'Water', 'Wastewater', 'Grit', 'Removal', 'Handli
    1. Grit Sys Mfr
    1. Grit Sys Mfr
 
-* 
-	+ 
 		1. Functional Description
 			1. Operating Modes
    1. In this description, hardware functions, such as field hand switches, are referred to as “hard” (e.g. hard switch); software functions performed at the OI are referred to as “soft” (e.g. soft switch). Regardless of the mode of operation (described below) process indications will remain active (these may include valve position, motor on or off, VFD speed, process flow measurements, etc) and hard wired alarms and safeties (such as motor overloads or high temperature, etc) will be active and reported by the PLC.
 
-* 
-	+ 
-		- 
-			* 
-				1. HAND OPERATION (Hard Switch): When the HAND position is selected at the hard switch, the associated equipment shall run and the system controls shall not control the device.
-				2. LOCAL OPERATION (Hard Switch): When the LOCAL position is selected at the hard switch, the equipment is controlled locally by hard switches, which may include on-off, open-close, etc. and the system controls shall not control the equipment.
-				3. OFF POSITION (Hard Switch): When the OFF position is selected at the hard switch, the associated equipment shall stop and the system controls shall not control the device.
-				4. AUTO OPERATION (Hard Switch): When the AUTO position is selected at the hard switch, the equipment shall be controlled automatically by the controls system.
-				5. REMOTE OPERATION (Hard Switch): When the REMOTE position is selected at the hard switch the equipment will be controlled automatically by the controls system.
-				6. AUTO OPERATION (Soft Switch): When the AUTO position is selected at the OI soft switch, the system automatic controls (logic) are enabled and the manual soft switches are disabled (these may include on-off, open close, etc).
-				7. MANUAL OPERATION (Soft Switch): When the MANUAL position is selected at the OI soft switch, the manual soft controls are enabled (these may include on- off, open close, etc) and the system automatic controls (logic) are disabled
-				8. EMERGENCY STOP (Hard Switch): Equipment can be deactivated at any time by pressing the EMERGENCY STOP push button (where present). The EMERGENCY STOP pushbutton overrides all other controls including remote or automatic controls and the hard HOA switch. EMERGENCY STOP pushbuttons shall be hardwired into the Grit System PLC, and hardwired into the motor starting control circuitry, as shown on the schematics found in the Electrical drawings. For equipment where schematics have not been provided on the contract drawings, integration of hardwire EMERGENCY STOP control shall be included. EMERGENCY STOP push buttons must be manually reset to allow the equipment to run.
+		1. HAND OPERATION (Hard Switch): When the HAND position is selected at the hard switch, the associated equipment shall run and the system controls shall not control the device.
+			2. LOCAL OPERATION (Hard Switch): When the LOCAL position is selected at the hard switch, the equipment is controlled locally by hard switches, which may include on-off, open-close, etc. and the system controls shall not control the equipment.
+			3. OFF POSITION (Hard Switch): When the OFF position is selected at the hard switch, the associated equipment shall stop and the system controls shall not control the device.
+			4. AUTO OPERATION (Hard Switch): When the AUTO position is selected at the hard switch, the equipment shall be controlled automatically by the controls system.
+			5. REMOTE OPERATION (Hard Switch): When the REMOTE position is selected at the hard switch the equipment will be controlled automatically by the controls system.
+			6. AUTO OPERATION (Soft Switch): When the AUTO position is selected at the OI soft switch, the system automatic controls (logic) are enabled and the manual soft switches are disabled (these may include on-off, open close, etc).
+			7. MANUAL OPERATION (Soft Switch): When the MANUAL position is selected at the OI soft switch, the manual soft controls are enabled (these may include on- off, open close, etc) and the system automatic controls (logic) are disabled
+			8. EMERGENCY STOP (Hard Switch): Equipment can be deactivated at any time by pressing the EMERGENCY STOP push button (where present). The EMERGENCY STOP pushbutton overrides all other controls including remote or automatic controls and the hard HOA switch. EMERGENCY STOP pushbuttons shall be hardwired into the Grit System PLC, and hardwired into the motor starting control circuitry, as shown on the schematics found in the Electrical drawings. For equipment where schematics have not been provided on the contract drawings, integration of hardwire EMERGENCY STOP control shall be included. EMERGENCY STOP push buttons must be manually reset to allow the equipment to run.
 			1. AUTOMATIC OPERATION (AUTO or REMOTE mode selected)
    1. The following is a general description of the equipment functions. Complete and detailed functions and logic are to be provided by the Grit Removal Equipment manufacturer. All process set points shall be operator adjustable from the OI. The Grit Removal Equipment manufacturer shall provide initial factory settings of set points based on the specific conditions of this project or “typical” settings if specifics do not apply.
 
-* 
-	+ 
-		- 
-			* 
-				1. The Grit Cyclone unit is designed to operate continuously. As the grit slurry is pumped through the Grit Cyclone unit, a small volume of classified (washed) grit slurry continuously underflows from the Grit Cyclone. Control of the grit slurry underflow rate is all-hydraulic, with no mechanical or moving parts. All-hydraulic control of the grit slurry underflow rate requires continuous introduction of Supply Water (from the Service Water system) to the Hydraulic Valve mounted on the bottom of the Grit Cyclone and control of the supply of the Supply Water.
-				2. Periodically, typically twice an hour during heavy grit loads and typically once every hour during light grit loads, a backwash sequence is initiated to flush the grit underflow gap inside the Grit Cyclone unit. This involves cycling of solenoid valves. Frequency and duration of backwash cycles is operator adjustable.
-				3. Periodically, typically once every four (4) backwashes, a blowdown sequence is initiated to flush accumulations of debris inside the Grit Cyclone This involves stopping the flow of grit slurry through the Grit Cyclone, cycling of solenoid valves, and resuming operation. Frequency and duration of blowdown cycles is operator adjustable.
-				4. The Grit Washer/Concentrator clarifier section provides sufficient area to settle fixed solids grit onto the continuously running belt with the slurry water overflowing the clarifier weir. The Grit Washer/Concentrator belt shall run whenever grit slurry is being transported to it.
-				5. NORMAL OPERATION
+		1. The Grit Cyclone unit is designed to operate continuously. As the grit slurry is pumped through the Grit Cyclone unit, a small volume of classified (washed) grit slurry continuously underflows from the Grit Cyclone. Control of the grit slurry underflow rate is all-hydraulic, with no mechanical or moving parts. All-hydraulic control of the grit slurry underflow rate requires continuous introduction of Supply Water (from the Service Water system) to the Hydraulic Valve mounted on the bottom of the Grit Cyclone and control of the supply of the Supply Water.
+			2. Periodically, typically twice an hour during heavy grit loads and typically once every hour during light grit loads, a backwash sequence is initiated to flush the grit underflow gap inside the Grit Cyclone unit. This involves cycling of solenoid valves. Frequency and duration of backwash cycles is operator adjustable.
+			3. Periodically, typically once every four (4) backwashes, a blowdown sequence is initiated to flush accumulations of debris inside the Grit Cyclone This involves stopping the flow of grit slurry through the Grit Cyclone, cycling of solenoid valves, and resuming operation. Frequency and duration of blowdown cycles is operator adjustable.
+			4. The Grit Washer/Concentrator clarifier section provides sufficient area to settle fixed solids grit onto the continuously running belt with the slurry water overflowing the clarifier weir. The Grit Washer/Concentrator belt shall run whenever grit slurry is being transported to it.
+			5. NORMAL OPERATION
    1. There shall be one (1) globe valve and one (1) Slurry Water Valve (SSWV) on the Grit Cyclone Slurry Water line (fed from the Service Water line). The SSWV solenoid valve requires OPEN/CLOSE control. This valve shall open any time the system is operating, allowing the flow of clarified water to the Grit Cyclone. The globe valve shall be adjusted to achieve optimum flow to the Hydraulic Valve, as read on the flow meter.
 
-* 
-	+ 
-		- 
-			* 
-				1. BACKWASH SEQUENCE
+		1. BACKWASH SEQUENCE
    1. There shall be one (1) backwash solenoid valve (BWV) on the Grit Cyclone backwash line (fed from the System Water line). The BWV solenoid requires OPEN/CLOSE control for this normally closed valve. During normal operation, this solenoid valve shall be opened for 1-2 minutes when inflow is first introduced into the Grit Cyclone and for 1-2 minutes at intervals while the system is in backwash operation. The backwash frequency and duration shall be operator adjustable. The BWV shall also open during a blowdown sequence.
 
-* 
-	+ 
-		- 
-			* 
-				1. BLOWDOWN SEQUENCE
+		1. BLOWDOWN SEQUENCE
    1. An accumulation of debris in the bottom of the Grit Cyclone should be removed periodically depending on screen opening size and plant flow conditions. A Blowdown Sequence requires opening of BWV, and de-energizing the grit pumps to stop the grit slurry feed to the Grit Cyclone for a field adjustable time of typically 2-5 minutes. After this time, grit flow is re-established (by re-starting the Grit Pumps) and BWV is opened for a short time (typically 1-2 minutes). A Blowdown Sequence shall occur after a field adjustable time of typically 2-8 hours. A Blowdown Sequence also occurs at System Shut Down.
 
-* 
-	+ 
-		- 
-			* 
-				1. SYSTEM SHUT DOWN SEQUENCE
+		1. SYSTEM SHUT DOWN SEQUENCE
    1. When the system is to be shut down, a Blowdown Sequence shall be initiated but the grit slurry feed to the Grit Cyclone shall not be restarted. The Grit Washer/Concentrator belt shall run for a minimum amount of time after a System
    1. Shut Down occurs to allow the belt to dewater all the grit that was dumped. The time set shall be adjustable from 0-60 minutes and normally be set at 15 minutes.
 
-* 
-	+ 
-		- 
-			* 
-				1. GRIT WASHER/CONCENTRATOR CONTROLS
+		1. GRIT WASHER/CONCENTRATOR CONTROLS
    1. The operating controls shall provide for manual and automatic operation. The controls shall include a variable frequency drive (VFD) to drive the motor. All controls shall be located in NEMA type 4X enclosures. The belt shall run whenever grit slurry is being transported to it.
    1. The belt speed shall be adjustable by a manual speed control potentiometer on the NEMA 4X control panel or by remote signal (4-20ma) from the plant DCS.
    1. A motion sensor shall be installed on the side of the Grit Washer/Concentrator take-up frame. The motion sensor shall protect the system against possible belt stall, drive unit failure, and/or scraper arm overload (too much grit counterbalancing the scraper arm). The motion detector sensor shall detect the cycle of the scraper arm and output a contact closure to a timer. During normal operation, the sensor shall send a signal each time one of the cleats on the belt passes the scraper arm. The timer shall normally be set for the maximum amount of time it takes two cleats to close the motion detector switch. This shall vary with the speed of the belt. If there is lack of belt movement or if there is a scraper arm overload, there shall be no signal from the motion sensor. If the motion sensor fails to reset the timer, the Grit Washer/Concentrator stops and the failure light shall illuminate.
 
-* 
-	+ 
-		- 
-			* 
-				1. ADJUSTABLE TIMERS
+		1. ADJUSTABLE TIMERS
    1. Adjustable timers are PLC functions and will be preset by the manufacturer to typical values.
 
-* 
 	1. UTILITY REQUIREMENTS
 		1. WATER
 			1. A clear (non-potable) water source providing minimum 20 gpm, 50 psig for each Headcell Grit Concentrator unit, at the system water connection via a 1-inch NPT line shall be provided by the Contractor to meet system water needs. A manually actuated bronze ball valve shall be provided to regulate the system water flow rate.
 			2. Each Grit Washing / Classification combination shall require clarified non-potable or city water supply at a regulated 50 psig ± 5 psi and shall be provided by the Contractor in a single 1-1/2-inch NPT line. The water requirements are as follows:
-				1. A continuous supply of 30 gpm is required for normal operation of each Grit Washing / Classification unit.
-				2. An intermittent supply of 47 gpm is required for a periodic short duration backwash cycle of the each Grit Washing / Classification unit. Actual frequency and duration of use varies with grit load. Typical maximum usage is 1-2 minutes of duration every 60 minutes.
+			1. A continuous supply of 30 gpm is required for normal operation of each Grit Washing / Classification unit.
+			2. An intermittent supply of 47 gpm is required for a periodic short duration backwash cycle of the each Grit Washing / Classification unit. Actual frequency and duration of use varies with grit load. Typical maximum usage is 1-2 minutes of duration every 60 minutes.
 			3. A continuous supply of 10 gpm for normal operation of each Grit Dewatering Escalator unit.
 		2. POWER
 			1. The contractor shall supply one circuit for each control panel be and shall be rated for three phase 480 volt, 15 amp supply.
@@ -462,9 +403,6 @@ tags: ['Process', 'Equipment', 'Water', 'Wastewater', 'Grit', 'Removal', 'Handli
 			1. Plate and Sheet ASTM A 167
    1. ASTM A 240
 
-* 
-	+ 
-		- 
 			1. Bar ASTM A 276 ASTM A 479
 			2. Tube ASTM A 312
 		1. Exterior Surfaces Finishes
@@ -475,14 +413,14 @@ tags: ['Process', 'Equipment', 'Water', 'Wastewater', 'Grit', 'Removal', 'Handli
 		3. Each Grit Decanting/Dewatering unit shall be provided with a 0.10 inch opening non-clog 304 stainless steel wedgewire dewatering screen located at the bottom of the unit. Screened water shall drain via a 2-inch NPT discharge connection at the base of the decanting unit.
 			1. A 2-inch quick-disconnect connection shall be provided by the contractor to connect to the 2-inch NPT drain connection. A 2-inch plug valve, provided by the contractor, shall follow the quick-disconnect and the drain flow shall be directed to an open drain.
 			2. Each Decanting/Dewatering unit shall be equipped with (4) four 6-inch diameter swivel wheels; each rated at 1,200-lbs. carrying capacity.
-   1. Execution
 
-* 
+## Execution
+
+
 	1. INSTALLATION
 		1. Installation of the Grit Removal System shall be performed in accordance with instructions provided by the manufacturer.
 	2. PAINTING
 		1. All carbon steel components that are prime-coated shall be finish-painted in the field.
 	3. EQUIPMENT MANUFACTURER’S SERVICES
 		1. The manufacturer shall provide one (1) person, maximum two (2) trips to the jobsite for installation, start-up, and instruction services as required for minimum total of four (4) days.
-   1. END OF SECTION 446100
-
+   

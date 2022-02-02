@@ -7,18 +7,16 @@ subgroup: General Requirements
 tags: ['General', 'Requirements', 'Temporary', 'Tree', 'Plant', 'Protection']
 ---
 
-   1. SECTION 01 56 39 
+
    1. Temporary Tree and Plant Protection
 
 ## General
 
-
-* 
-	1. **Summary
+1. SUMMARY
    1. Work under this section shall consist of retention and protection of trees and landscape material during the construction of the project.
 2. Related specification sections include:
 	1. Section 02 40 00, Demolition
-	2. **General Requirements
+	2. General Requirements
 3. Contractor shall flag trees to be removed as well as trees to remain, prior to construction as directed by the Project Engineer. Trees located in the City Right of Way that are proposed for removal but are not shown to be removed on the Drawings shall be approved for removal by the City Engineer. Marking flags for each designation shall be distinctly different colored, as approved by the Project Engineer.
 4. There should be daily supervision of field crews by the Project Engineer or Project Consulting Arborist during the critical phases of the project, for example:
       1. demolition of existing concrete; root pruning; construction of retaining walls and construction of new curb or sidewalk in tree protection areas. Owner shall be responsible for retaining Project Consulting Arborist for applicable phases of the project.
@@ -27,7 +25,7 @@ tags: ['General', 'Requirements', 'Temporary', 'Tree', 'Plant', 'Protection']
 7. Motorized equipment and trailers, including tractors, bobcats, bulldozers, trackhoes, trucks, cars, and carts shall not be allowed access within tree protection areas. Should access be necessary within designated tree protection areas, the existing grade shall be covered with six (6) to eight (8) inches of wood mulch to help distribute the weight of equipment and to minimize soil compaction and rutting. Plywood and/or mulch is not acceptable bridging material for driving over exposed tree roots. Exposed tree roots shall not be driven over. The Project Engineer or Project Consulting Arborist shall be notified and shall approve of the access and driving surface prior to its use.
 8. Materials and supplies shall not be stockpiled or stored within the tree protection area. Should temporary storage be necessary within designated tree protection areas, the existing grade shall be covered with double, overlapping sheets of ¾ inch thick plywood, or six (6) to eight (8) inches of wood mulch to help distribute the weight of materials or supplies and to minimize soil compaction.
 9. Under no circumstances shall any objects or materials be leaned against or supported by a tree's trunk, branches, or exposed roots. The attachment or installation to trees of any sign, cable, wire, nail, swing, or any other material that is not needed to help support the natural structure of the tree is prohibited. Standard arboricultural techniques such as bracing or cabling that are performed by professional arborists are acceptable upon approval by the Project Engineer or Project Consulting Arborist.
-	1. **Definitions
+	1. Definitions
 10. TREE PROTECTION AREA: Generally, a tree protection area should consist of the ground encompassing from 1.5 (minimum) to 2.0 times the distance between the trunk and dripline, or one linear foot away from the trunk base for every inch diameter of the trunk, whichever is greater, unless otherwise directed by Project Engineer. (See section below). Areas of ground covered by pavement, buildings, or other permanent structures where the presence of roots is minimal or negligible are excluded. The area under or within the trees dripline is also referred to as the "Critical Root Zone" (see below). Materials to be reused shall be protected from defacing or damage, and shall be reused in conformance with the applicable specification sections and in the configuration shown on the construction plans.
 	1. With groups of trees or where an array effect is present, there may be discontinuous (non-overlapping) perimeters of tree protection areas which result in difficult to maintain or ineffective tree protection fencing. in these cases, even though tree protection areas do not overlap, they should be treated as though they do if the distance between the perimeters of such areas is less than thirty (30) feet. In effect, this will artificially enlarge the area of tree protection, but will result in a more clearly defined, manageable area.
 11. DRIPLINE: The outermost edge of the tree's canopy or branch spread. The area within a tree's dripline is all the ground under the total branch spread.
@@ -38,13 +36,16 @@ tags: ['General', 'Requirements', 'Temporary', 'Tree', 'Plant', 'Protection']
 	3. Four and a half (4½) feet above grade for trunk diameters greater than eight (8) inches; in accordance with guidelines established in the "Guide for Plant Appraisal". All measurements should be rounded to the nearest inch.
 14. HIGH-VALUE SHRUB: Any specimen shrub with an appraised value of $100.00 or more.
 15. PROJECT CONSULTING ARBORIST: An independent consultant with a degree in a field related to arboriculture, and at least five years field experience in tree preservation or on-site monitoring of public works or construction projects involving tree retention and protection. The Consultant should be an active member in the American Society of Consulting Arborists and International Society of Arboriculture.
-	1. **Reference Standards and Guidelines
+	1. Reference Standards and Guidelines
 16. Contractor shall comply with applicable requirements and recommendations of the most current versions of the following standards and guidelines. Where these conflict with other specified requirements, the more restrictive requirements shall govern.
 	1. ANSI Z133.1-1988 - American National Standard for Tree Care Operations
 	2. ANSI A300-1994 - Standard Practices for Trees, Shrubs and Other Woody Plant Maintenance
 	3. NATIONAL ARBORIST ASSOCIATION STANDARDS - Pruning, Cabling and Bracing, Fertilization
 	4. GUIDE FOR PLANT APPRAISAL-8TH EDITION, Authored by the Council of Tree and Landscape Appraisers; published by the International Society of Arboriculture.
-   ## Product (NOT USED)
+
+## Product 
+
+ (Not Used)
 
 
 ## Execution
@@ -139,8 +140,7 @@ tags: ['General', 'Requirements', 'Temporary', 'Tree', 'Plant', 'Protection']
 1. 3.8 Submittals
    1. Proposed methods and schedule for effectuating tree and other plant protection shall be submitted for approval. Contractor shall submit construction schedule which includes a time frame for work near existing plants. Approval of such shall be obtained from the Project Engineer prior to commencement of construction near tree protection areas.
 2. Proposed methods, materials, and schedule for root pruning, branch pruning, and other tree maintenance shall be submitted for approval. The Project Engineer or Project Consulting Arborist shall mark the location of root pruning lines in the field prior to the operation. If possible, root pruning should occur between autumnal leaf fall and spring foliation. Root pruning during the growing season shall require approval of the Project Engineer or Project Consulting Arborist.
-1. 3.9 Tree and Other Plant Maintenance During and After Completion of Construction** 
-   1. Proper maintenance should include, but without limitation to:
+1. 3.9 Tree and Other Plant Maintenance During and After Completion of Construction*   1. Proper maintenance should include, but without limitation to:
       1. structural and remedial pruning; watering; mulching; remediating soil compaction; fertilization; insect and disease control; soil and tissue analysis; aeration; and wound treatment. Contractor shall maintain existing trees during and after completion of construction and during the warranty period.
 2. The timing duration and frequency of necessary maintenance practices should be determined by the Project Engineer or Project Consulting Arborist, based on factors associated with the site and affected plants.
 

@@ -7,10 +7,9 @@ subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Expansion', 'Joint', 'Cover', 'Assemblies']
 ---
 
-
 ## General
 
-   1. REFERENCES
+1. REFERENCES
    1. American Society for Testing and Materials (ASTM)
    1. B221 - Specification for Aluminum and Aluminum-Alloy Extruded Bars, Rods, Wire, Shapes, and Tubes.
    1. B221M - Specification for Aluminum and Aluminum-Alloy Extruded Bars, Rods, Wire, Shapes, and Tubes [Metric].
@@ -19,7 +18,7 @@ tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Expansi
    1. C920 - Specification for Elastomeric Joint Sealants.
    1. D2000 - Classification System for Rubber Products in Automotive Applications.
    1. E119 - Method for Fire Tests of Building Construction and Materials.
-   1. Submittals
+1. Submittals
    1. Shop Drawings
    1. Submit Shop Drawings of prefabricated expansion joints indicating layout, intersections, corners, butt joints, dimensions, materials, metal gages fasteners, anchorages, and other pertinent construction and erection details.
    1. Samples
@@ -36,7 +35,9 @@ tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Expansi
    1. Special Warranty
    1. Warrant prefabricated expansion joints for 5 years against defective materials, deterioration, workmanship and leaks, except leaks caused by abuse, lightning, hurricane, tornado, hail storm, unusual climatic phenomena or failure of related work installed by other parties.
    1. During the warranty period, restore defective work to the standard of the Contract Documents, including materials, labor, refinishing and other costs incidental to the work. Within 24 hours after receipt of notice from the Owner, inspect the Work and immediately repair leaks in the Work. Restore Work found to be defective as defined in the Contract Documents within 10 days after receipt of notice from the Owner.
-   1. PRODUCTS
+
+## Products
+
    1. MANUFACTURER:
       1. MM Systems Corporation, 4520 Elmdale Drive, Tucker, Georgia 30085-0326; 1-800-241-3460 or 770-938-7570.
    1. Expansion control systems of similar design and construction, as manufactured by other manufacturers, may be submitted for Architect's consideration. Acceptance is subject to compliance with specified design criteria, as evidenced by submittal of specified product data. Submittals shall comply with requirements of Product Options and Substitutions section.
@@ -103,8 +104,10 @@ tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Expansi
    1. Aluminum protection:
       1. Treat surfaces in contact with concrete with a factory applied chromate conversion coating for corrosion resistance.
    1. Apply protective tape for wall expansion joint covers.
-   1. execution
-   1. PREPARATION
+
+## Execution
+
+1. PREPARATION
    1. Protection
    1. Protect this Work and adjacent construction against damage during progress of Work until completion. Take precautions to prevent damage to Work from traffic or placement of heavy materials thereon.
 
@@ -123,5 +126,5 @@ tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Expansi
    1. Apply sealant at perimeter of joint as indicated, in accordance with manufacturer's instructions, including primer for concrete or masonry surfaces.
    1. Floor Expansion Joints
    1. Anchor retainers to both sides of joint at 300-mm (12-inch) maximum spacing, using galvanized machine bolts and expansion shields at floor and self-tapping sheet metal screws at stud partitions.
-1. END OF SECTION
+
 

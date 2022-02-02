@@ -4,7 +4,7 @@ section: '310500'
 divNumb: 31
 divName: Earthwork
 subgroup: Site and Infrastructure
-tags: ['Site', 'Infrastructure', 'Earthwork', 'Common', 'Work', 'Results', 'for']
+tags: ['Site', 'Infrastructure', 'Earthwork', 'Common', 'Work', 'Results']
 ---
 
    1. Section 31 05 00
@@ -12,11 +12,9 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Common', 'Work', 'Results', 'for'
 
 ## General
 
-
-* 
-	1. **Summary
+1. SUMMARY
    1. Work under this section shall include earthwork.
-	1. **Quality Assurance
+	1. Quality Assurance
 2. Work shall be per:
 	1. ASTM International (ASTM):
 		1. C33, Standard Specification for Concrete Aggregates.
@@ -33,7 +31,7 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Common', 'Work', 'Results', 'for'
 	2. Certifications
 	3. Soil inspection and testing results.
 3. Submit samples and source of fill and backfill materials proposed for use as well as samples and source of borrow materials proposed for use. 
-   ## Product
+## Product
 1. Materials
    1. Fill and Backfill:
       1. Selected material approved by Soils Engineer from site excavation or from off-site borrow.
@@ -73,7 +71,7 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Common', 'Work', 'Results', 'for'
       1. Carefully remove items to be salvaged, and store on Owner's premises unless otherwise directed.
 3. Dispose of waste materials, legally, off site.
 	1. Burning, as a means of waste disposal, is not permitted.
-	2. **Site Excavation and Grading
+	2. Site Excavation and Grading
 4. The work includes all operations in connection with excavation, borrow, construction of fills and embankments, rough grading, and disposal of excess materials in connection with the preparation of the site(s) for construction of the proposed facilities.
 5. Excavation and Grading:
 	1. Perform as required by the Contract Drawings.
@@ -103,14 +101,14 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Common', 'Work', 'Results', 'for'
 		1. Control moisture for each layer necessary to meet requirements of compaction.
 3. Use of Explosives
    1. Blasting with any type of explosive is prohibited. 
-	1. **Quality Control
+	1. Quality Control
 2. Do not include in bid price the cost of inspection services indicated herein as being performed by the Soils Engineer.
 3. Moisture density relations, to be established by the Soils Engineer required for all materials to be compacted.
 4. Extent of compaction testing will be as necessary to assure compliance with specifications.
 5. Give minimum of 24 HR advance notice to Soils Engineer when ready for compaction or subgrade testing and inspection.
 6. Should any compaction density test or subgrade inspection fail to meet specification requirements, perform corrective work as necessary.
 7. Pay for all costs associated with corrective work and retesting resulting from failing compaction density tests.
-	1. **Compaction Density Requirements
+	1. Compaction Density Requirements
 8. Obtain approval from Soils Engineer with regard to suitability of soils and acceptable subgrade prior to subsequent operations.
 9. Provide dewatering system necessary to successfully complete compaction and construction requirements.
 10. Remove frozen, loose, wet, or soft material and replace with approved material as directed by Soils Engineer.
@@ -135,7 +133,7 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Common', 'Work', 'Results', 'for'
 			1. 85% per ASTM D1557
 		3. Location: Granular fill under base slabs with pressure relief valves and under building floor slabs on-grade
 			1. 98% per ASTM D698
-	4. **Excavation, Filling, and Backfilling for Structures
+	4. Excavation, Filling, and Backfilling for Structures
 13. General:
 	1. In general, work includes, but is not necessarily limited to, excavation for structures and retaining walls, removal of underground obstructions and undesirable material, backfilling, filling, and fill, backfill, and subgrade compaction.
 	2. Obtain fill and backfill material necessary to produce grades required.
@@ -144,10 +142,7 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Common', 'Work', 'Results', 'for'
 	3. In this Specification Section, the word "foundations" includes footings, base slabs, foundation walls, mat foundations, grade beams, piers and any other support placed directly on soil.
 	4. In the paragraphs of this Specification Section, the word "soil" also includes any type of rock subgrade that may be present at or below existing subgrade levels.
 14. Excavation Requirements for Structures:
-	
-## General
-
-:
+		1. General:
 		1. Do not commence excavation for foundations for structures until Soils Engineer approves:
 			1. The removal of topsoil and other unsuitable and undesirable material from existing subgrade.
 			2. Density and moisture content of site area compacted fill material meets requirements of specifications.
@@ -207,10 +202,7 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Common', 'Work', 'Results', 'for'
 		4. Where a concrete slab is a base slab-on-grade located under and within a structure that will not be heated, protect subgrade under the slab from becoming frozen.
 		5. Protect subgrade under foundations of a structure from becoming frozen until structure is completed and heated to a temperature of at least 50 DegF.
 15. Fill and Backfill Inside of Structure and Below Foundations, Base Slabs, Floor Slabs and Equipment Support Pads:
-	
-## General
-
-:
+		1. General:
 		1. Subgrade to receive fill or backfill shall be free of undesirable material as determined by Soils Engineer and scarified to a depth of 6 IN and compacted to density specified herein.
 		2. Surface may be stepped by at not more than 12 IN per step or may be sloped at not more than 2 percent.
 		3. Do not place any fill or backfill material until subgrade under fill or backfill has been inspected and approved by Soils Engineer as being free of undesirable material and compacted to specified density.
@@ -245,7 +237,7 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Common', 'Work', 'Results', 'for'
 	1. When backfilling outside of structures requires placing backfill material under paving, the material shall be placed from bottom of excavation to underside of paving at the density required for fill under paving as indicated in this Specification Section.
 	2. This compacted material shall extend transversely to the centerline of paving a horizontal distance each side of the exterior edges of paving equal to the depth of backfill measured from bottom of excavation to underside of paving.
 	3. Provide special compacted bedding or compacted subgrade material under paving as required by other Specification Sections for the Project.
-	4. **Special Requirements
+	4. Special Requirements
 18. Erosion Control:
 	1. Conduct work to minimize erosion of site.
 	2. Construct stilling areas to settle and detain eroded material.

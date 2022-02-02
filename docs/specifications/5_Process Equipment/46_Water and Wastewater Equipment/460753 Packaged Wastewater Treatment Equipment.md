@@ -7,7 +7,7 @@ subgroup: Process Equipment
 tags: ['Process', 'Equipment', 'Water', 'Wastewater', 'Packaged', 'Treatment']
 ---
 
-1. SECTION 46 07 53
+
 1. PACKAGED WASTEWATER TREATMENT EQUIPMENT
 1. 
 ## General
@@ -330,5 +330,5 @@ ensure proper blower and motor lubrication.
    1. Manufacturer Services:
       1. Furnish services of manufacturer's representative experienced in installation of products furnished under this Specification for not less than 5 days on Site for installation, inspection, field testing, and instructing Owner's personnel in maintenance of equipment.
 2. Demonstrate equipment startup, shutdown, routine maintenance, alarm condition responses, and emergency repair procedures to Owner's personnel.
-1. END OF SECTION
+
 

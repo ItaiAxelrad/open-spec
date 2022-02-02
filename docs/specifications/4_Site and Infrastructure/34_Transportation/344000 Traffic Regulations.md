@@ -7,21 +7,20 @@ subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Transportation', 'Traffic', 'Regulations']
 ---
 
-   1. Section 34 40 00
-   1. Traffic Regulations
-
 ## General
 
 1. Summary
    1. Work under this section shall include the regulation of vehicular and pedestrian traffic during performance of the work. The Contractor shall be responsible for the safe and orderly flow of traffic through and around the project site at all times.
-	1. **Quality Assurance
+	1. Quality Assurance
 2. Work shall be per:
 	1. “Flagging and Traffic Control Supervisors’ Training Manual”; Colorado Department of Highways.
 	2. “Manual on Uniform Traffic Control Devices” (MUTCD); Federal Highway Administration; 1993.
 	3. “Colorado Supplement” to the MUTCD.
    1. Product
    1. All warning signs, barricading, and other necessary items shall conform to the above references.
-   1. Execution
+
+## Execution
+
 1. 3.1 General
    1. The Contractor shall provide all necessary signs, barricades, lights, and flag persons necessary for the safe and orderly flow of pedestrian and vehicular traffic. Every attempt to keep traffic flow at a normal pace must be made whenever possible. The Contractor shall confine his occupancy of public traveled ways to the smallest space compatible with the efficient and safe performance of the work. Traffic is to be restored to normal flow, whenever feasible, at the end of each working day.
 2. It shall be the Contractor’s sole responsibility to notify the appropriate authorities at least 48 hours in advance of significant changes in traffic patterns or possible hazards due to reductions of travel surface width or other work in public rights of way. The Contractor is to coordinate all detours and temporary road closings with the appropriate authorities.
@@ -33,4 +32,3 @@ tags: ['Site', 'Infrastructure', 'Transportation', 'Traffic', 'Regulations']
 2. The plan must be developed by an American Traffic Safety Services Association (ATSSA) certified individual.
 1. 3.4 Non-Performance
    1. The Owner immediately, and without notice, may furnish, install and maintain barricades or lights if the Contractor fails to comply with the requirements of this section. The cost thereof shall be borne by the Contractor and may be deducted from any amount due or to become due to the Contractor under this contract.
-

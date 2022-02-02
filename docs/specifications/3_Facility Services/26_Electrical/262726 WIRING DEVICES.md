@@ -7,7 +7,7 @@ subgroup: Facility Services
 tags: ['Facility', 'Services', 'Electrical', 'WIRING', 'DEVICES']
 ---
 
-1. SECTION 26 27 26
+
 1. WIRING DEVICES
 
 ## General
@@ -185,5 +185,5 @@ Conditions and Division 1 Specification Sections, apply to this Section.
    1. Re
    1. manufacturer's written instructions.
    1. move malfunctioning units, replace with new units, and retest as specified above.
-   1. END OF SECTION 26 27 26
+   26 27 26
 

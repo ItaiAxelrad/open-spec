@@ -10,11 +10,11 @@ tags: ['Facility', 'Construction', 'Specialties', 'Visual', 'Display', 'Units']
 
 ## General
 
-   1. SUMMARY
+1. SUMMARY
    1. This Section includes the following:
       1. Porcelain enamel markerboards.
    1. Natural-cork tackboards.
-   1. SUBMITTALS
+1. SUBMITTALS
    1. Product Data:
       1. For each type of visual display board indicated.
    1. Shop Drawings:
@@ -32,9 +32,11 @@ tags: ['Facility', 'Construction', 'Specialties', 'Visual', 'Display', 'Units']
       1. Sample panels not less than 8-1/2 by 11 inches , mounted on the substrate indicated for the final Work.
    1. Aluminum Trim and Accessories:
       1. Samples of each finish type and color, on 6-inch- long sections of extrusions and not less than 4-inch squares of sheet or plate.
-   1. QUALITY ASSURANCE
+1. QUALITY ASSURANCE
    1. Obtain visual display boards through one source from a single manufacturer.
-   1. PRODUCTS
+
+## Products
+
    1. MANUFACTURERS
    1. Available Manufacturers:
       1. Subject to compliance with requirements, manufacturers offering products that may be incorporated into the Work include, but are not limited to, the following:
@@ -72,17 +74,15 @@ tags: ['Facility', 'Construction', 'Specialties', 'Visual', 'Display', 'Units']
       1. Provide factory-assembled units.
    1. Make joints only where total length exceeds maximum manufactured length. Fabricate with minimum number of joints, balanced around center of board, as acceptable to Architect.
    1. FINISHES
-
-## General
-
-:
+	1. General:
       1. Comply with NAAMM's "Metal Finishes Manual for Architectural and Metal Products" for recommendations relative to applying and designating finishes.
    1. Finish designations prefixed by AA conform to the system established by the Aluminum Association for designating aluminum finishes.
    1. Class II, Clear Anodic Finish:
       1. AA-M12C22A31 complying with AAMA 607.1.
-   1. EXECUTION
-   1. INSTALLATION
+
+## Execution
+
+1. INSTALLATION
    1. Deliver factory-built visual display boards completely assembled in one piece without joints.
    1. Install units in locations and at mounting heights indicated and according to manufacturer's written instructions. Keep perimeter lines straight, plumb, and level. Provide grounds, clips, backing materials, brackets, anchors, trim, and accessories necessary for complete installation.
-1. END OF SECTIONTHIS PAGE INTENTIONALLY BLANK
 

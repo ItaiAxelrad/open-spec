@@ -123,5 +123,4 @@ tags: ['Facility', 'Services', 'Electrical', 'Enclosed', 'Switches', 'Circuit', 
 1. FIELD QUALITY CONTROL
    1. Field Tests:
       1. Verify proper mechanical operation of enclosed circuit breakers and disconnect switches.
-1. END OF SECTION 262816
 

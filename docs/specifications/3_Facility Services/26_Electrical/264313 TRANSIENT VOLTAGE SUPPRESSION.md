@@ -7,7 +7,7 @@ subgroup: Facility Services
 tags: ['Facility', 'Services', 'Electrical', 'TRANSIENT', 'VOLTAGE', 'SUPPRESSION']
 ---
 
-1. SECTION 26 43 13
+
 1. TRANSIENT VOLTAGE SUPPRESSION
 
 ## General

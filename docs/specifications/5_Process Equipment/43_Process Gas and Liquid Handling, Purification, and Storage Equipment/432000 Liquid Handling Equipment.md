@@ -43,8 +43,8 @@ tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Sto
 			1. Performance data and curves with flow (gpm), head (FT), horsepower, efficiency, NPSH requirements, submergence requirement, MCSF.
 			2. Pump accessory data, parts and clearly annotated materials of construction.
 			3. Bearing supports, shafting details and lubrication provisions.
-				1. Bearing life calculations.
-				2. Critical speed calculations.
+			1. Bearing life calculations.
+			2. Critical speed calculations.
 			4. Solids passage information.
 	3. Certifications:
 		1. Certified pump performance curves as described in the SOURCE QUALITY CONTROL Article.
@@ -58,7 +58,7 @@ tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Sto
 4. Informational Submittals:
 	1. Certifications:
 		1. Provide a written statement that manufacturer's equipment has been installed properly, started up and is ready for operation by Owner's personnel.
-   ## Product
+## Product
 1. 2.1 Acceptable Manufacturers
    1. Subject to compliance with the Contract Documents, the following manufacturers are acceptable:
 	1. Pumps:

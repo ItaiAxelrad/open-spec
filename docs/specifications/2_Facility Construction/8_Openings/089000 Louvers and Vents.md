@@ -10,7 +10,7 @@ tags: ['Facility', 'Construction', 'Openings', 'Louvers', 'Vents']
 
 ## General
 
-   1. summary
+1. summary
    1. Refer to Section 018113 – Sustainable Design Requirements; 018113A – Appendix A - Materials Anticipated to be Used for Recycled Content; and 018113B – LEED Matrix for materials requiring contractor validation of recycled content.
    1. Section Includes:
       1. Metal wall louvers and screens exposed to view in finish work, including:
@@ -28,10 +28,7 @@ tags: ['Facility', 'Construction', 'Openings', 'Louvers', 'Vents']
    1. Grilles and Registers:
       1. Division 23 Grilles and Registers Sections.
    1. REFERENCES
-
-## General
-
-:
+	1. General:
       1. Standards listed by reference, including revisions by issuing authority, form a part of this specification section to extent indicated. Standards listed are identified buy issuing authority, authority abbreviation, designation number, title, or other designation established by issuing authority. Standards subsequently referenced herein are referred to by issuing authority abbreviation and standard designation.
    1. American Society for Testing and Materials (ASTM):
       1. ASTM B209 - Specification for Aluminum and Aluminum-Alloy Sheet and Plate.
@@ -48,11 +45,8 @@ tags: ['Facility', 'Construction', 'Openings', 'Louvers', 'Vents']
       1. Provide louvers, which have been manufactured, fabricated and installed to withstand loads from (Specify code/standard reference.) and to maintain performance criteria stated by manufacturer without defects, damage, or failure.
    1. Louver Performance:
       1. where louvers are indicated to comply with specific performance requirements, provide units whose performance ratings have been determined in compliance with Air Movement and Control Association (AMCA) Standard 500.
-   1. SUBMITTALS
-
-## General
-
-:
+1. SUBMITTALS
+	1. General:
       1. Submit listed submittals in accordance with Conditions of the Contract and Division 1 Submittal Procedures section.
    1. Product Data:
       1. Submit product data sheet for specified products.
@@ -69,23 +63,22 @@ tags: ['Facility', 'Construction', 'Openings', 'Louvers', 'Vents']
    1. Certificates:
       1. Product certificates signed by manufacturer certifying materials comply with specified performance characteristics and criteria, and physical requirements.
    1. DELIVERY, STORAGE & HANDLING
-
-## General
-
-:
+	1. General:
       1. Comply with Division 1 Product Requirements Sections.
    1. Ordering:
       1. Comply with manufacturer’s ordering instructions and lead-time requirements to avoid construction delays.
    1. Delivery:
       1. Deliver materials in manufacturer’s original, unopened, undamaged containers with identification labels intact.
    1. Deliver, store and handle products to avoid any distortion or damage due to moisture, physical abuse or other cause Louvers shall be free from nicks, scratches and blemishes. Replace defective or damaged materials with new.
-   1. PROJECT CONDITIONS
+1. PROJECT CONDITIONS
    1. Field Measurements:
       1. Verify actual measurements/openings by field measurements before fabrication; show recorded measurements on shop drawings. Coordinate field measurements and fabrication schedule with construction progress to avoid construction delays.
-   1. WARRANTY
+1. WARRANTY
    1. Project warranty refers to Conditions of the Contract for project warranty provisions. Manufacturer’s Warranty:
       1. Submit, for Owner’s acceptance, manufacturer’s standard warranty document executed by authorized company official. Manufacturer's warranty is in addition to, and not a limitation of, other rights owner may have under Contract Documents.
-   1. PRODUCTS
+
+## Products
+
    1. WALL LOUVERS
    1. Manufacturer:
       1. Industrial Louvers Inc. (ILI).
@@ -143,11 +136,13 @@ tags: ['Facility', 'Construction', 'Openings', 'Louvers', 'Vents']
    1. Finish Protection:
       1. Provide finish protection as recommended by louver manufacturer.
    1. Color to be selected from standard colors to match adjacent metal panel system finish and color.
-   1. EXECUTION
+
+## Execution
+
    1. MANUFACTURER’S INSTRUCTIONS
    1. Compliance:
       1. Comply with manufacturer’s product data, including product technical bulletins, product catalog installation instructions, and product carton instructions for installation.
-   1. EXAMINATION
+1. EXAMINATION
    1. Site Verification of Conditions:
       1. Verify substrate conditions, which have been previously installed under other sections, are acceptable for product installation in accordance with manufacturer’s instructions.
    1. Louver Installation
@@ -155,5 +150,4 @@ tags: ['Facility', 'Construction', 'Openings', 'Louvers', 'Vents']
    1. Form tight joints within work of this Section. Fit exposed connections accurately.
    1. Louvers shall be protected from damage from subsequent building operations.
    1. Protect metal surfaces from corrosion or galvanic action by application of a heavy coating of bituminous paint on surfaces, which shall be in contact with concrete, masonry or dissimilar metals.
-1. END OF SECTIONTHIS PAGE INTENTIONALLY BLANK
 

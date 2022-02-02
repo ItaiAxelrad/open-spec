@@ -12,9 +12,7 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Water', 'Utility', 'Transmission'
 
 ## General
 
-
-* 
-	1. **Summary
+1. SUMMARY
    1. Work under this section shall include:
       1. Water distribution piping, valves, fittings, and other related appurtenances to include flushing, testing, and disinfecting.
 2. Related Specification Sections include:
@@ -22,7 +20,7 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Water', 'Utility', 'Transmission'
 2. Quality Assurance
    1. Installation shall be per Colorado Department of Public Health and Environment requirements and shall be suitable for conveying potable water under pressure.
 2. Installation of Ductile Iron water mains and their appurtenances shall conform to ANSI/AWWA C600.
-	1. **Submittals
+	1. Submittals
 3. No substitutes will be considered for items listed by manufacturer’s name and/or model number in this section unless the words “or equal” are included as a part of the description.
 4. Submittals are required for all proposed substitutions and all items not specifically listed by manufacturer’s name and model number. All proposed substitutions must be approved by Mount Werner Water.
 5. Certification is required for all buried bolts.
@@ -35,10 +33,9 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Water', 'Utility', 'Transmission'
 3. Defective or Damaged Material:
       1. All such material shall be rejected and removed from the job site immediately. 
 4. All material shall be new and never previously used.
-   ## Product
+## Product
 
-* 
-	1. **Materials
+	1. Materials
    1. Ductile Iron Pipe:
 	1. Pipe: ANSI/AWWA C151/A21.51
 	2. Cement lining: ANSI/AWWA C104/A21.4
@@ -59,7 +56,7 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Water', 'Utility', 'Transmission'
 1. 3.1 Preparation
    1. The location of all piping and other items shown on the Drawings or called for in the Specifications that are not definitely located by dimensions or elevations, is approximate only. The exact locations and dimensions necessary for proper installation must be determined at the project site. The Contractor and Engineer shall stake the locations of pipe and appurtenances prior to installation.
 	1. See MWW Standard for Water and Wastewater Line Crossings, if applicable. 
-	2. **Pipe Installation
+	2. Pipe Installation
 2. General:
       1. Comply with the manufacturer’s recommendations and ANSI/AWWA C 600.
 	1. All pipe, joint restraint, fittings, and appurtenances regardless of soil resistivity shall be polyethylene encased in accordance with AWWA C-105. The polyethylene encasement shall cover service lines from the main 3 feet outward and hydrant barrels to the bury line. All metal surfaces and bolts on all valves shall be wrapped up to the operating nut, including all top bonnet bolts. AWWA approved tape materials are the only fastening materials allowed. Duct Tape is not acceptable. The polyethylene encasement shall prevent contact between the pipe and bedding material, but is not intended to be a completely airtight and watertight enclosure. The polyethylene shall have a minimum thickness of 8 mils. A 2-inch wide 10 mil thickness polyethylene pressure-sensitive tape shall be used to close seams or hold overlaps.
@@ -107,7 +104,6 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Water', 'Utility', 'Transmission'
    1. Refer to Manufacturer
    1. Recommendations
 
-* 
 	1. Mechanical Joints:
       1. ALLOWABLE DEFLECTION PER JOINT
 1. (Unless specified differently by the Manufacturer)
@@ -186,8 +182,7 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Water', 'Utility', 'Transmission'
    1. 1 full length of pipe
    1. 1 full length of pipe
 
-* 
-	1. **Gate Valve and Box Installation
+	1. Gate Valve and Box Installation
    1. Location:
       1. shall be subject to final approval by the Engineer. Valves shall have the interior cleaned of all foreign matter and shall be inspected in opened and closed positions before installation to insure that all parts are in working condition. A valve box shall be set so that it is centered and plumb over the valve operating nut.
 2. Grade:
@@ -200,14 +195,14 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Water', 'Utility', 'Transmission'
    1. Set flush to grade or as agreed with Engineer
    1. Valve Operator Nut Riser:
       1. Valve operator nut risers shall be provided on all valves to bring the operating nut to between 6” and 18” of finished grade.
-	1. **Disinfecting and Flushing
+	1. Disinfecting and Flushing
 2. The Engineer may require the Contractor to clean and disinfect pipeline materials which have noticeable contamination prior to installation.
 3. Disinfect the work in accordance with the procedures outlined in AWWA C651. If calcium hypochlorite tablets are used they must be attached to the top of the inside of the pipe with an adhesive (Permatex #1 or an approved equal). Sufficient tablets must be used to form a minimum of 25 PPM free chlorine at the time of filling. Do not use excessive chlorine. Filling of the water main shall be accomplished at a water velocity less than one foot/second. After 24 hours, the Engineer shall test the chlorine residual. If a minimum residual of 10 PPM is not met, the disinfecting procedure shall be repeated.
 4. After disinfecting of the water line(s) has been approved, flush the heavily chlorinated water from the mains until the chlorine residual is no higher than that generally prevailing in the system. Procedures to include de-chlorination if necessary, must be followed to prevent heavily chlorinated water from entering adjacent streams or irrigation ditches. The Owner shall make final tests to determine that chlorine and bacteriological levels are safe before the new water system is approved for domestic use. The final bacteria test must be made no sooner than 6 hours after the line was last flushed. The Contractor shall be responsible for any re-chlorination and flushing necessary to obtain safe bacteriological levels.
 5. Several days are required to obtain the results of bacteriological tests. Coordinate the construction schedule around the requirements of bacteriological testing. Mount Werner Water may require passing bacteriological tests on two consecutive days.
 6. Flushing shall ensure that sand, rocks or other foreign materials are not left in the pipeline. The contractor shall supply the water necessary for flushing if a sufficient quantity of water is not available from the existing water system. In such a case the Contractor shall present his flushing program to the Engineer before proceeding.
 7. Special care shall be taken when disinfecting and flushing sections of new mains to avoid contaminating the existing system or delivering highly chlorinated water to the system.
-	1. **Quality Control
+	1. Quality Control
 8. General
 	1. Conduct Pressure and leakage tests in accordance with ANSI/AWWA C600.
 	2. Notify the Engineer at least 48 hours in advance of conducting tests so that he may be present during the test.
@@ -216,10 +211,7 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Water', 'Utility', 'Transmission'
 	5. Joints that cannot be pressure tested, such as tie-in points, shall be visually inspected for leaks by the engineer while the joints are charged under static pressure. The Contractor must fully expose these joints for inspection.
 	6. Pressure testing against existing valves is strongly discouraged. Mount Werner Water does not warrant the condition of any existing valves.
 9. Pressure Test
-	
-## General
-
-: Pressure tests will only be allowed after the main has passed all disinfection and bacteriological tests. After concrete thrust blocks have cured, all newly laid pipe or any valved section thereof shall be subjected to a hydrostatic pressure of 200 PSI for mains 12 inch diameter or less and 150 PSI for mains greater than 12-inch diameter. 
+		1. General: Pressure tests will only be allowed after the main has passed all disinfection and bacteriological tests. After concrete thrust blocks have cured, all newly laid pipe or any valved section thereof shall be subjected to a hydrostatic pressure of 200 PSI for mains 12 inch diameter or less and 150 PSI for mains greater than 12-inch diameter. 
 	2. Test Location
 		1. Do not test through a fire hydrant.
 		2. If a service tap is to be make on the stretch of main to be tested, make the tap and perform the test through the tap.
@@ -240,8 +232,6 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Water', 'Utility', 'Transmission'
     1. 133,200
     1. in which L is the allowable leakage, in gallons per hour; S is the length of pipe tested in feet; D is the nominal diameter of the pipe, in inches; and P is the average test pressure during leakage test, in pounds per square inch gauge. 
 
-* 
-	+ 
 		1. In tabular form, the allowable leakage per 1000 feet of pipeline in gallons per hour for a test pressure of 200 psi is:
       1. Nominal Pipe ID (in.)
    1. Maximum allowable leakage in gallons
@@ -258,6 +248,5 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Water', 'Utility', 'Transmission'
 28.
    1. When hydrants are in the test section, the test shall be made against the closed hydrant.
 
-* 
 	1. When the test section of pipe is 100 LF or less the following applies: The test section shall be tested at 200 PSIG for a minimum period of 1 hour with zero pressure loss. If the assembly losses pressure, then the contractor shall locate and repair the leak and repeat the process until a passing test is observed by the Engineer.
 

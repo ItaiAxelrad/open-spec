@@ -12,9 +12,7 @@ tags: ['General', 'Requirements', 'Substitution', 'Procedures']
 
 ## General
 
-
-* 
-	1. **Summary
+1. SUMMARY
    1. Section Includes:
 	1. The procedure for requesting the approval of substitution of a product that is not equivalent to a product which is specified by descriptive or performance criteria or defined by reference to one or more of the following:
 		1. Name of manufacturer.
@@ -30,7 +28,7 @@ tags: ['General', 'Requirements', 'Substitution', 'Procedures']
 	3. Other types of equipment and kinds of material may be acceptable substitutions under the following conditions:
 		1. Or-equals are unavailable due to strike, discontinued production of products meeting specified requirements, or other factors beyond control of Contractor; or,
 		2. Contractor proposes a cost and/or time reduction incentive to the Owner.
-	4. **Quality Assurance
+	4. Quality Assurance
 3. In making request for substitution or in using an approved product, Contractor represents Contractor:
 	1. Has investigated proposed product, and has determined that it is adequate or superior in all respects to that specified, and that it will perform function for which it is intended.
 	2. Will provide same guarantee for substitute item as for product specified.
@@ -62,7 +60,10 @@ tags: ['General', 'Requirements', 'Substitution', 'Procedures']
 	2. Full size if requested by Engineer.
 	3. Held until substantial completion. The Contractor may submit a clarification request requesting that the Engineer’s retained sample be installed in the project. The Engineer may approve the request if, in his sole opinion, it is not critical that the sample be retained.
 	4. Engineer not responsible for loss or damage to samples.
-   ## Product (not used)
+
+## Product 
+
+ (Not Used)
 
 
 ## Execution
@@ -77,6 +78,4 @@ tags: ['General', 'Requirements', 'Substitution', 'Procedures']
 	3. In the Engineer's opinion, acceptance will require substantial revision of the original design.
 	4. In the Engineer's opinion, substitution will not perform adequately the function consistent with the design intent.
 5. Contractor shall reimburse Owner for the cost of Engineer's evaluation whether or not substitution is approved.
-
-*[this page intentionally left blank]*
 

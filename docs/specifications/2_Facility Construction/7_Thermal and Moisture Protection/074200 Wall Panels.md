@@ -10,7 +10,7 @@ tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Wall', 
 
 ## General
 
-   1. SUMMARY
+1. SUMMARY
    1. Refer to Section 01010 - Environmental Goals for the Project; 01010A – Appendix A - Materials Anticipated to be Used for Recycled Content; and 01010B – LEED Matrix for materials requiring contractor validation of recycled content.
    1. REFERENCES
    1. American Society for Testing and Materials (ASTM)
@@ -28,7 +28,7 @@ tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Wall', 
       1. Specification for Asphalt-Saturated Organic Felt Used in Roofing and Waterproofing
    1. Sheet Metal and Air Conditioning Contractors National Association, Inc. (SMACNA)
    1. Architectural Sheet Metal Manual
-   1. SUBMITTALS
+1. SUBMITTALS
    1. Submit the following in accordance with Section 01330:
       1. Product Data:
          1. Manufacturer's product literature for the sheet metal panel specified.
@@ -38,16 +38,18 @@ tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Wall', 
    1. 2 samples of each type of panel assembly, 12 inch by 12 inch minimum.
    1. 6 samples of each finish in color or colors selected, 3 inch by 5 inch minimum.
    1. Affidavit certifying that the material meets the requirements specified.
-   1. QUALITY ASSURANCE
+1. QUALITY ASSURANCE
    1. Manufacturer Qualifications:
       1. Minimum of 5 years experience in manufacturing metal panels similar to those specified.
    1. Installer Qualifications:
       1. Acceptable to panel manufacturer.
    1. DELIVERY, STORAGE, AND HANDLING
    1. Deliver materials to the project site in manufacturer's original crating, properly labeled for identification and installation purposes. Store materials in accordance with panel manufacturer’s recommendations. Handle materials carefully to avoid damage to panels and finishes.
-   1. WARRANTY
+1. WARRANTY
    1. The Contractor shall warrant the materials to be free of faults and defects in accordance with the General Conditions, except that the warranty shall be extended by paint manufacturer's standard multi-year warranty. The warranty shall be in writing and shall be signed by the manufacturer.
-   1. PRODUCTS
+
+## Products
+
    1. MANUFACTURER
    1. Copper Sales, Inc. or equal product by other manufacturers meeting the requirements of this section and Section 01010 for recycled content are acceptable.
    1. PANEL TYPE
@@ -75,13 +77,15 @@ tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Wall', 
    1. Number of Coats:
       1. 4-coat.
    1. Provide factory applied strippable plastic film for protection during fabrication and installation.
-   1. EXECUTION
-   1. EXAMINATION
+
+## Execution
+
+1. EXAMINATION
    1. Examine the areas and conditions under which materials are to be installed and notify the Contractor in writing of conditions detrimental to the proper and timely completion of the work. Do not proceed with the work until unsatisfactory conditions have been corrected.
    1. Surfaces to receive panels shall be even, smooth, sound, clean, dry, free of ice and snow, and free from defects.
-   1. PREPARATION
+1. PREPARATION
    1. Obtain field measurements prior to completion of manufacturing and finishing. When field measurements are not possible, provide method of installation which will allow minor adjustment in the field.
-   1. INSTALLATION
+1. INSTALLATION
    1. Install panel system plumb, level and true, in accordance with manufacturer's instructions, final shop drawings, and SMACNA Architectural Sheet Metal manual and standard practices.
    1. Install starter and edge strips before underlayment is installed.
    1. Install underlayment over entire substrate to receive panel system, in shingle fashion, lapping ends and edges 6 inches minimum.
@@ -91,5 +95,4 @@ tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Wall', 
    1. Remove panels damaged beyond repair and replace with new panels to match adjacent undamaged panels.
    1. Clean exposed panel surfaces promptly after installation in accordance with recommendations of panel and coating manufacturers.
    1. Remove protective film immediately after installation.
-1. END OF SECTIONTHIS PAGE INTENTIONALLY BLANK
 

@@ -7,20 +7,15 @@ subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Openings', 'Overhead', 'Coiling', 'Doors-alum']
 ---
 
-   1. section 08 33 00
-   1. aluminum rolling overhead doors
-
 ## General
 
-
-* 
-	1. **Summary
+1. SUMMARY
    1. Work under this section shall include Aluminum rolling overhead doors:
 	1. Motor operated
 	2. Insulated
 2. Related specifications include:
 	1. Section 11 01 00, Equipment: Basic Requirements.
-	2. **Quality Assurance
+	2. Quality Assurance
 3. Work shall be per:
 	1. Aluminum Association (AA):
 		1. DAF 45, Designation System for Aluminum Finishes.
@@ -32,7 +27,7 @@ tags: ['Facility', 'Construction', 'Openings', 'Overhead', 'Coiling', 'Doors-alu
 		1. 250, Enclosures for Electrical Equipment (1000 Volts Maximum).
 	4. International Energy Conservation Code (IECC), 2015 Edition including all amendments.
 	5. National Fenestration Rating Council (NFRC).
-	6. **Submittals
+	6. Submittals
 4. See Specification Section 01 33 00 for requirements for the mechanics and administration of the submittal process.
 5. Shop Drawings shall include the following:
 	1. Product technical data including acknowledgement that products submitted meet requirements of standards referenced as well as manufacturer’s installation instructions.
@@ -41,7 +36,7 @@ tags: ['Facility', 'Construction', 'Openings', 'Overhead', 'Coiling', 'Doors-alu
 	1. Metal color samples from manufacturer.
 7. Provide the Operation and Maintenance Manual.
 8. Provide certification of Installer’s qualifications. 
-   ## Product
+## Product
 1. 2.1 Acceptable Manufacturers
    1. Subject to compliance with the Contract Documents, only the following manufacturers are acceptable:
 	1. The Cookson Company.
@@ -61,7 +56,7 @@ tags: ['Facility', 'Construction', 'Openings', 'Overhead', 'Coiling', 'Doors-alu
       1. Galvanized steel.
 5. Fasteners:
       1. Aluminum or stainless steel.
-	1. **Accessories
+	1. Accessories
 6. Motor Operator:
 	1. Minimum ½ HP, 460/3/60
 		1. Motor shall be sized by door manufacturer for door size.
@@ -71,7 +66,7 @@ tags: ['Facility', 'Construction', 'Openings', 'Overhead', 'Coiling', 'Doors-alu
 	3. Opening/Closing rate: Between 2/3 and 1 FPS.
 	4. Standard oil tight three (3) pushbutton control(s).
 		1. NEMA 4/13.
-	5. **Fabrication
+	5. Fabrication
 7. General:
 	1. Door assemblies meet minimum 2015 IECC air leakage, insulation, and fenestration Door assemblies meet minimum 2015 IECC air leakage, insulation, and fenestration requirements. Products should be rated in accordance with NFRC.
 8. Door Curtain shall be insulated flat profile with interlocking face sheets.
@@ -118,9 +113,9 @@ tags: ['Facility', 'Construction', 'Openings', 'Overhead', 'Coiling', 'Doors-alu
 	1. Motor operated with chain operator backup.
 		1. Provide chain keeper on each operator.
 16. Insulated door system: Overhead Door Corp. "620" Series or equal.
-	1. **Quality Control
+	1. Quality Control
 17. Air Infiltration shall be 1.55 CFM/SF of opening maximum when tested in accordance with ASTM E283 with 25 mph wind load. 
-	1. **Maintenance Materials
+	1. Maintenance Materials
 18. Provide 2 OZ of touch-up paint properly labeled for each different color of door.
 
 

@@ -7,9 +7,6 @@ subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Thermoplastic', 'Polyolefin', 'TPO', 'Roofing']
 ---
 
-   1. SECTION 07 54 23
-   1. THERMOPLASTIC POLYOLEFIN ROOFING
-
 ## General
 
 1. RELATED DOCUMENTS
@@ -221,10 +218,7 @@ reinforced, uniform, flexible TPO sheet.
 4. Exposed Face Color:
       1. White.
 2. AUXILIARY MEMBRANE ROOFING MATERIALS
-
-## General
-
-:
+	1. General:
       1. Auxiliary membrane roofing materials recommended by roofing system 
 manufacturer for intended use, and compatible with membrane roofing.
    1. Sheet Flashing:
@@ -271,10 +265,7 @@ thickness indicated.
 with corrosion-resistance provisions in FM Approvals 4470, designed for fastening substrate board 
    1. to roof deck.
 4. ROOF INSULATION
-
-## General
-
-:
+	1. General:
       1. Preformed roof insulation boards manufactured or approved by TPO membrane roofing 
 manufacturer, selected from manufacturer's standard sizes suitable for application, of thicknesses 
    1. indicated and that produce FM Approvals-approved roof insulation.
@@ -289,10 +280,7 @@ I, Grade 3, felt or glass-fiber mat facer on both major surfaces. Provide a mini
    1. Provide preformed saddles, crickets, tapered edge strips, and other insulation shapes where 
 indicated for sloping to drain. Fabricate to slopes indicated.
 5. INSULATION ACCESSORIES
-
-## General
-
-:
+	1. General:
       1. Furnish roof insulation accessories recommended by insulation manufacturer for 
 intended use and compatibility with membrane roofing.
    1. Fasteners:
@@ -312,7 +300,9 @@ component moisture cured urethane insulation adhesive.
 walkway pads or rolls, approximately 3/16-inch-thick and acceptable to membrane roofing system 
    1. manufacturer.
    1. Provide temporary walkways for roof during construction.
-   1. Execution
+
+## Execution
+
 1. EXAMINATION
    1. Examine substrates, areas, and conditions, with Installer present, for compliance with the 
 following requirements and other conditions affecting performance of roofing system:
@@ -443,10 +433,7 @@ requirements; repair substrates; and repair or reinstall membrane roofing system
    1. Clean overspray and spillage from adjacent construction using cleaning agents and procedures 
 recommended by manufacturer of affected construction.
 11. ROOF SYSTEM SCHEDULE
-
-## General
-
-:
+	1. General:
       1. Provide roofing systems identical to systems below at locations shown on the 
 drawings.
    1. System A:

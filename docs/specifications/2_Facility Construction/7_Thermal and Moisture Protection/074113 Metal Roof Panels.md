@@ -10,7 +10,7 @@ tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Metal',
 
 ## General
 
-   1. SUMMARY
+1. SUMMARY
    1. Refer to Section 018113 – Sustainable Design Requirements; 018113A – Appendix A - Materials Anticipated to be Used for Recycled Content; and 018113B – LEED Matrix for materials requiring contractor validation of recycled content.
    1. References
    1. American Architectural Manufacturers Association (AAMA)
@@ -74,7 +74,9 @@ tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Metal',
    1. Special Warranty
    1. Warrant metal roof panels for two years against defective materials, workmanship and leaks, except leaks caused by abuse, lightning, hurricane, tornado, hail storm, unusual climatic phenomena or failure of related work installed by other parties.
    1. During the warranty period, restore defective Work to the standard of the Contract Documents, including all materials, labor, refinishing and other costs incidental to the Work. Within 24 hours after receipt of notice from the Owner, inspect the Work and immediately repair leaks. Restore Work found to be defective as defined in the Contract Documents within 10 days after receipt of notice from the Owner.
-   1. PRODUCTS
+
+## Products
+
    1. manufacturer
    1. Copper Sales, Inc. or as approved.
    1. roofing type
@@ -136,7 +138,9 @@ tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Metal',
       1. Minimum coefficient of abrasion, 55.
    1. Application
    1. Apply organic finish in accordance with formulator's instructions to a dry film thickness of not less than 0.004 mm (0.75 mil) nor more than 0.006 mm (0.85 mil) for primer and not less than 0.020 mm (0.8 mil) nor more than 0.033 mm (1.3 mils) for finish.
-   1. EXECUTION
+
+## Execution
+
    1. preparation
    1. Protection
    1. Protect this Work and adjacent construction against damage during progress of Work until completion. Take precautions to prevent damage to Work from traffic or placement of heavy materials thereon.
@@ -154,5 +158,4 @@ tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Metal',
    1. Seam panels and battens together with seaming machine supplied by manufacturer.
    1. Penetrations
    1. Provide premolded EPDM boot with metal collar for round penetrations.
-1. END OF SECTIONTHIS PAGE INTENTIONALLY BLANK
 

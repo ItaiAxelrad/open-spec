@@ -7,15 +7,11 @@ subgroup: Facility Services
 tags: ['Facility', 'Services', 'Electrical', 'Medium', 'Voltage', 'Transformers']
 ---
 
-1. Copyright 2004 and 2005 by The American Institute of Architects (AIA)
-1. Exclusively published and distributed by Architectural Computer Services, Inc. (ARCOM) for the AIA
-1. Verify that Section titles referenced in this Section are correct for this Project's Specifications; Section titles may have changed.
-
 ## General
 
-   1. RELATED DOCUMENTS
+1. RELATED DOCUMENTS
    1. Drawings and general provisions of the Contract, including General and Supplementary Conditions and Division 1 Specification Sections, apply to this Section.
-   1. SUMMARY
+1. SUMMARY
    1. This Section includes pad mounted transformers and transformer accessories.
    1. REFERENCES
    1. AMERICAN NATIONAL STANDARDS INSTITUTE (ANSI)
@@ -43,7 +39,7 @@ tags: ['Facility', 'Services', 'Electrical', 'Medium', 'Voltage', 'Transformers'
    1. UL 467 - Grounding and Bonding Equipment
    1. SYSTEM DESCRIPTION
    1. This specification shall cover three phase, mineral oil immersed, self-cooled pad-mounted transformers of low silhouette design with ratings as shown below. The equipment shall be designed, built, and tested in accordance with the latest revision of all applicable standards of IEEE, NEMA, and ANSI. Transformers shall be designed for outdoor application at altitudes of 6,100 feet above sea level, in an ambient not exceeding 40˚C maximum, and average ambient for any 24-hour period not exceeding 30˚C.
-   1. SUBMITTALS
+1. SUBMITTALS
    1. Submit the following in accordance with related Division 1 sections of the Specifications.
    1. Product Data:
       1. Include rated nameplate data, capacities, weights, dimensions, minimum clearances, installed devices and features, location of each field connection, and performance for each type and size of transformer indicated.
@@ -52,9 +48,9 @@ tags: ['Facility', 'Services', 'Electrical', 'Medium', 'Voltage', 'Transformers'
    1. Field quality-control test reports.
    1. Operation and Maintenance Data:
       1. For transformer and accessories to include in operation and maintenance manuals.
-   1. QUALITY ASSURANCE
-   1. Any exceptions to the specifications shall be in written, detailed format with paragraphs referenced and presented with the Bid Documents and must be approved by NREL before bid acceptance.
-   1. WARRANTY 
+1. QUALITY ASSURANCE
+   1. Any exceptions to the specifications shall be in written, detailed format with paragraphs referenced and presented with the Bid Documents and must be approved by Owner before bid acceptance.
+1. WARRANTY 
    1. Transformer shall carry a one-year warranty from the date of final acceptance for repair or replacement of defective material and workmanship.
    1. During the warranty period, the supplier/manufacturer shall be required to make the necessary repairs or replacements on site. The Owner shall not accept or pay for travel time, mileage, airfare, freight, labor, rental charges, or any costs incurred to warranty this equipment. If necessary, the repair shall be made on a premium time basis without cost to the Owner.
 1. PRODUCTS
@@ -167,8 +163,7 @@ tags: ['Facility', 'Services', 'Electrical', 'Medium', 'Voltage', 'Transformers'
    1. Induced potential tests - 400 hz (low frequency dielectric)
    1. Mechanical leak and pressure test on tank and coolers
    1. In addition to the above standard tests, each unit shall be given a Production Line Impulse Test.
-1. EXECUTION** 
-   1. INSTALLATION 
+1. EXECUTION*1. INSTALLATION 
 
 ## General
 
@@ -200,7 +195,6 @@ tags: ['Facility', 'Services', 'Electrical', 'Medium', 'Voltage', 'Transformers'
       1. 
    1. Insulation power factor test.
    1. Insulation resistance test. Conform to manufacturer's recommendations for the test voltage. 
-   1. END OF SECTION 261200
-
+   
 (THIS PAGE INTENTIONALLY BLANK)
 

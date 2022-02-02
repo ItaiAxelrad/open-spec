@@ -7,9 +7,6 @@ subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Roof', 'Specialties']
 ---
 
-   1. SECTION 07 71 00
-   1. ROOF SPECIALTIES
-
 ## General
 
 1. RELATED DOCUMENTS
@@ -92,10 +89,7 @@ resisting polyethylene-film top surface laminated to layer of butyl or SBS-modif
 2. Low-Temperature Flexibility:
       1. ASTM D 1970; passes after testing at minus 20 deg F.
 5. MISCELLANEOUS MATERIALS
-
-## General
-
-:
+	1. General:
       1. Provide materials and types of fasteners, protective coatings, sealants, and other 
 miscellaneous items required by manufacturer for a complete installation.
    1. Fasteners:
@@ -200,12 +194,11 @@ Ventmin20. Subject to compliance with requirements of the contract documents and
       1. Insect screen.
 5. Color:
       1. As selected by the Architect. 
-   1. Execution
+
+## Execution
+
 1. INSTALLATION, GENERAL
-
-## General
-
-:
+	1. General:
       1. Install roof specialties according to manufacturer's written instructions. 
 Anchor roof specialties securely in place, with provisions for thermal and structural movement. 
    1. Use fasteners, solder, protective coatings, separators, sealants, and other miscellaneous items as 
@@ -247,10 +240,7 @@ with concealed fasteners.
 1. Interlock face and back leg drip edges of snap-on coping cap into cleated anchor plates 
    1. anchored to substrate at manufacturer's required spacing that meets performance requirements.
 3. ROOF-EDGE DRAINAGE-SYSTEM INSTALLATION
-
-## General
-
-:
+	1. General:
       1. Install components to produce a complete roof-edge drainage system according to 
 manufacturer's written instructions.
    1. Gutters:

@@ -28,11 +28,7 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. National Electrical Manufacturers' Association (NEMA) MG-1 - Motors and Generators
    1. National Fire Protection Association (NFPA) 70 - National Electrical Code (NEC)
    1. Underwriters Laboratories (UL) 778 - Motor Operated Water Pumps.
-1. Submittals** 
-
-## General
-
-:
+1. Submittals*	1. General:
       1. Submit the following in accordance with Division 23 section “Common Work Results for HVAC”:
       1. Product data including certified performance curves of selected models indicating selected pump's operating point, weights (shipping, installed, and operating), furnished specialties and accessories.
    1. Shop drawings showing layout and connections for HVAC pumps. Include setting drawings with templates and directions for installation of foundation bolts and other anchorages.
@@ -52,7 +48,7 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Design Criteria:
       1. The Drawings indicate sizes, profiles, connections, and dimensional requirements of HVAC pumps and are based on the specific manufacturer types and models indicated. Pumps having equal performance characteristics by other manufacturers may be considered, provided deviations in dimensions, profiles, pump curves, and efficiencies do not change the design concept or intended performance as judged by the Owner.
    1. Dimension Deviations:
-      1. Subcontractor is responsible to install the supplied pumps. Any interferences or alterations arising from using pumps different from those specified in the design documents must be remedied by the Subcontractor at no expense to NREL. This applies even to pumps with approved submittals. Remedies must be in a neat, workmanlike manner.
+      1. Subcontractor is responsible to install the supplied pumps. Any interferences or alterations arising from using pumps different from those specified in the design documents must be remedied by the Subcontractor at no expense to Owner. This applies even to pumps with approved submittals. Remedies must be in a neat, workmanlike manner.
 1. DELIVERY, STORAGE AND PROTECTION
    1. Store pumps in a dry location.
    1. Retain shipping flange protective covers and protective coatings during storage.
@@ -108,10 +104,7 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Examine equipment foundations and inertia bases for suitable conditions where pumps are to be installed.
    1. Do not proceed until unsatisfactory conditions have been corrected.
 1. ERECTION INSTALLATION APPLICATION
-
-## General
-
-:
+	1. General:
       1. Comply with the manufacturer's written installation and alignment instructions.
    1. Install pumps in locations indicated and arranged to provide access for periodic maintenance, including removal of motors, impellers, couplings, and accessories.
    1. Support pumps and piping separately so that the weight of the piping system does not rest on the pump.
@@ -121,14 +114,11 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Adjust the metal supports or wedges until the shafts of the pump and driver are level. Check the coupling faces and suction and discharge flanges of the pump to verify that they are level and plumb.
    1. Alignment:
       1. Align pump and motor shafts and piping connections after setting on foundations, after grout has been set and foundations bolts have been tightened, and after piping connections have been made.
-   1. Adjust alignment of pump and motor shafts for angular and parallel alignment by method detailed in NREL Alignment Specification.
+   1. Adjust alignment of pump and motor shafts for angular and parallel alignment by method detailed in Owner Alignment Specification.
    1. After alignment is correct, tighten the foundation bolts evenly but not too firmly. Fill the base plate completely with nonshrink, nonmetallic grout, with metal blocks and shims or wedges in place. After grout has cured, fully tighten foundation bolts.
    1. Alignment tolerances shall meet manufacturer's recommendations.
    1. Connections:
-
-## General
-
-:
+	1. General:
          1. Install valves that are same size as the piping connecting the pump.
    1. Install suction and discharge pipe sizes equal to or greater than the diameter of the pump nozzles.
    1. Install a nonslam check valve matching the pipe size on the discharge side of the pump. Install a butterfly (over 2 inch pipe size) or ball (2 inch and under) isolation valve on the discharge side of inline pumps. Isolation valves are to be installed downstream of the check valve.
@@ -158,5 +148,4 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Check suction line connections for tightness to avoid drawing air into the pump.
    1. Check all connections for tightness to avoid water leakage.
    1. Subcontractor is responsible for cleaning up and repairing damage due to leaking joints.
-1. END OF SECTION 232123
 

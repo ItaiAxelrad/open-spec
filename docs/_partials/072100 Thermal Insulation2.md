@@ -10,18 +10,20 @@ tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Insulat
 
 ## General
 
-   1. SUMMARY
+1. SUMMARY
    1. Section Includes
    1. Furnishing and installation of mineral or glass fiber insulation in the walls indicated on the Drawings, and rigid insulation required for roof and foundation walls.
    1. Related Sections
    1. Section 054000 - Cold formed metal framing
    1. Section 075300 - Elastomeric Membrane Roofing
    1. Section 092900 - Gypsum Board System
-   1. SUBMITTALS
+1. SUBMITTALS
    1. Comply with all pertinent provisions of Section 013300.
    1. Provide product data for all products to be utilized.
    1. Submit manufacturer's catalog data, performance information, and published certification data indicating compliance with the specifications.
-   1. PRODUCTS
+
+## Products
+
    1. MATERIALS
    1. Mineral or Glass Fiber Insulation Batt
    1. FS HH-I-421E, Type I.
@@ -47,7 +49,9 @@ tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Insulat
    1. Foundation Walls
    1. 2" expanded polystyrene (EPS).
    1. R=8.33.
-   1. EXECUTION
+
+## Execution
+
    1. ERECTION INSTALLATION APPLICATION
    1. Install insulation as recommended by manufacturer.
    1. Insulation shall be continuous, without voids or interruptions, and on cold side of pipes.
@@ -68,5 +72,5 @@ tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Insulat
       1. 6" loose fill, R=23; Batts R=19
    1. Interior partitions (sound insulation):
       1. 3 1/2" acoustic blanket
-1. END OF SECTION
+
 

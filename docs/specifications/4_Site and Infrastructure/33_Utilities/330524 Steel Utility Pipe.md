@@ -7,7 +7,7 @@ subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Utilities', 'Steel', 'Utility', 'Pipe']
 ---
 
-1. SECTION 15053
+
    1. CARBON STEEL PIPE AND FITTINGS
 1. 
 ## General
@@ -17,7 +17,6 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Steel', 'Utility', 'Pipe']
 02. REFERENCE STANDARDS
    1. The publications listed below form part of this specification to the extent referenced and are referred to in the text by the basic designation only. Reference shall be made to the latest edition of said standards unless otherwise called for.
 
-* 
 	1. ASTM C 150 - Standard Specification for Portland Cement
 	2. AWWA C200 – Steel Water Pipe - 6inches and Larger
 	3. AWWA C205 – Cement –Mortar protective Lining and Coating for Steel Water Pipe-4 In, and Larger-Shop Applied
@@ -33,11 +32,7 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Steel', 'Utility', 'Pipe']
    1. Shop drawings shall be submitted in accord with the General Provisions and the following.
 2. Submit materials list showing material of pipe and fittings with ASTM reference and grade.
 05. DESIGN REQUIREMENTS
-
-## General
-
-
-:
+	 1. General:
 	1. Steel fittings shall be manufactured per AWWA C208 
 	2. Steel fittings shall be flanged, push-on and welded joints in accordance with AWWA C200, C206, and C207.
 	3. Except as amended herein, or otherwise shown on the Approved Plans, joints for steel fittings shall have a pressure rating equal to or greater than the adjacent piping.
@@ -49,7 +44,6 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Steel', 'Utility', 'Pipe']
    1. Delivery, storage, and handling of steel pipe and fittings shall follow the recommendations of AWWA C604 and shall also be as specified herein:
       1. 
 
-* 
 	1. Handling of fittings shall be performed with lifts, cranes, or other suitable equipment and devices. Slings, hooks, or pipe tongs shall be padded and used in such a manner as to prevent damage to the fittings, linings, and coatings. The fittings shall not be dropped or dragged.
 	2. During transport, fittings shall be supported and secured against movement using padded devices in such a manner to prevent damage.
 	3. Stored fittings shall be protected from damage and kept free from dirt and foreign materials by closing the ends of the pipe. Other pipeline materials shall be protected by appropriate packaging or wrapping. Gaskets shall be stored in a cool location out of direct sunlight. Bolts, nuts, and washers shall be handled and stored in a dry location.
@@ -86,19 +80,11 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Steel', 'Utility', 'Pipe']
       1. Piping located above ground or in vaults and structures shall be coated per Section 09910, Painting and Coating.
 1. 2.08 FLANGES
 
-* 
-	
-## General
-
-: Weld-neck flanges (conforming to ANSI B16.5) shall be provided for piping 3-inches in diameter and smaller to connect to flanged valves, fittings, or equipment. Slip-on or weld-neck flanges shall be provided for piping larger than 3-inches in diameter. Flanges shall match the connecting flanges on the adjacent fitting, valve, or piece of equipment. Flange material shall conform to ASTM A 105, A 181, or A 182. Flanges shall be flat face. 
+		1. General: Weld-neck flanges (conforming to ANSI B16.5) shall be provided for piping 3-inches in diameter and smaller to connect to flanged valves, fittings, or equipment. Slip-on or weld-neck flanges shall be provided for piping larger than 3-inches in diameter. Flanges shall match the connecting flanges on the adjacent fitting, valve, or piece of equipment. Flange material shall conform to ASTM A 105, A 181, or A 182. Flanges shall be flat face. 
 	2. Pressure Class: The pressure class of flanges shall be determined based on the test pressures listed in the Special Provisions. For test pressures 200 psi and less, Class 150 flanges, ANSI B16.5 shall be used. For test pressures greater than 200 psi, Class 300 flanges, ANSI B16.5 shall be used.
 1. 2.09 Bolts and Nuts for Flanges
 
-
-## General
-
-
-: Bolts and nuts for flanges, shall be Type 316 stainless steel conforming to ASTM A 193 (Grade B8M) for bolts and ASTM A 194 (Grade 8M) for nuts. 
+	 1. General: Bolts and nuts for flanges, shall be Type 316 stainless steel conforming to ASTM A 193 (Grade B8M) for bolts and ASTM A 194 (Grade 8M) for nuts. 
 2. Flange Insulation Kits:
       1. Bolts for flange insulation kits shall conform to ASTM A 193, Grade B7. Nuts shall conform to ASTM A 194, Grade 2H. 
 3. Washers:
@@ -164,5 +150,5 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Steel', 'Utility', 'Pipe']
    1. Disinfection, bacteriological testing, and flushing shall be performed in accordance with Section 15041.
 1. 3.13 HYDROSTATIC TESTING
    1. Field hydrostatic testing shall be performed in accordance with Section 15044.
-1. END OF SECTION
+
 

@@ -7,14 +7,9 @@ subgroup: Process Equipment
 tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Storage', 'Vertical', 'Turbine', 'Open', 'Lineshaft']
 ---
 
-1. SECTION 43 24 16** 
-1. VERTICAL TURBINE OPEN LINESHAFT** 
-
 ## General
 
-
-* 
-	1. SCOPE
+1. SCOPE
    1. Pumps that are supplied under this specification shall be vertical turbine open lineshaft design and shall include:
 	1. product lubrication
 	2. bowl assembly
@@ -24,7 +19,7 @@ tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Sto
 		1. The discharge head shall be designed to carry the entire weight of the bowl and column assembly along with the specified driver without excessive vibration or noise.
 
    1.  All of the supplied equipment shall conform to this specification.
-	1. QUALITY ASSURANCES
+1. QUALITY ASSURANCES
 2. Warranty
     1. The manufacturer shall warrant their pumps to be free of defects for a period of one year after the product is put into operation or eighteen months from the shipment date, whichever occurs first.
    1.  Certifications
@@ -37,7 +32,6 @@ tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Sto
    1. Testing Standards
     1. All vertical turbine pumps shall conform to ANSI/AWWA E101-88 and to the most current edition of Hydraulic Institute Standards
 
-* 
 	1. SUBMITTALS
    1.  With the proposal, the contractor shall submit complete fabrication and assembly drawings together with detailed specifications covering materials, parts, devices, and accessories. The data and specifications for each pumping unit shall include, but not be limited to the following:
     1. 
@@ -61,7 +55,6 @@ tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Sto
 18. Complete performance curves showing capacity versus head, NPSH required, efficiency, and BHP plotted scales consistent with performance requirements
    1. Product
 
-* 
 	1. MANUFACTURER
    1. The equipment covered by this specification shall be standard products as manufactured by Gould’s Water Technology or an equivalent having a minimum of 20 years’ experience in the production of such equipment. All pumps and pump components specified in this specification shall be supplied by a single pump manufacturer. The pump manufacturer shall be required to supply the pumps and drivers, and shall be responsible for their compatibility only.
 2. A factory authorized service facility shall have trained service technicians and be able to show evidence of parts inventory for routine maintenance items such as bearings, gaskets, shafts, and sleeves. 
@@ -81,7 +74,6 @@ tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Sto
 	2. The bearing spacing shall be selected to insure operation at a minimum of 25% above or below the first critical speed.
 
 
-* 
 	1. The interior of the column shall be free of offsets, burrs, discontinuities and irregularities. 
 	2. The lineshaft shall be of adequate size to transmit the full power of the pump without slip, excessive vibration or elongation, and shall have keyed joints. Lineshaft lengths shall not exceed 10 feet. The lineshaft shall have left hand threads that tighten during pump operation.
    1. Discharge Head Assembly
@@ -93,7 +85,6 @@ tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Sto
    1. Can
    1. The can diameter shall be sized such that the velocity in the can does not exceed the standards recommended by the Hydraulic Institute. The suction can shall be supplied by the manufacturer. 
 
-* 
 	1. TESTING
    1. All factory testing shall conform to the most current edition of the Hydraulic Institute Standards. All pump performance testing shall be performed at the manufacturer’s facility. (Specify if there are any additional standards)
 2. Performance testing shall be witnessed and performed on the fully assembled unit with job motor. The test shall cover seven points including the design point (HI 14.6). The design point shall be used for any performance evaluation.
@@ -102,7 +93,9 @@ tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Sto
 5. A written approval for all witness testing is required prior to release for shipment. All non-witness testing shall require written prior to release for shipment. 
 6. Field/functional testing will be performed by the contractor to insure proper mechanical operation at the jobsite. All testing data to be used for evaluation shall be performed at the pump manufacturer's facility.
 7. Motor tests and test reports shall be provided as required in accordance with the motor specification.
-   1. Execution
+
+## Execution
+
 1. 3.01** SHIPPING
     1. Pumps that are less than 30 feet in length shall be shipped fully assembled with the driver, suction can, and shaft seal unmounted. The discharge flange shall be protected with a wooden flange cover.
 1. 3.02** STORAGE, HANDLING, AND INSTALLATION

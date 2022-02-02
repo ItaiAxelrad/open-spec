@@ -10,17 +10,19 @@ tags: ['Facility', 'Construction', 'Specialties', 'Toilet', 'Accessories']
 
 ## General
 
-   1. SUMMARY
+1. SUMMARY
    1. Section Includes
    1. Provide toilet accessories as shown on Drawings and as herein specified.
    1. Locate units as shown or, if not shown, as directed by Owner.
    1. SYSTEM DESCRIPTION
    1. Bobrick products are specified typically, but equal products of the above manufacturers will be accepted.
-   1. SUBMITTALS
+1. SUBMITTALS
    1. Comply with all pertinent provisions of Section 013300.
    1. Provide product data for all products to be utilized.
    1. Manufacturer's data, installation, finish samples and catalog cuts.
-   1. PRODUCTS
+
+## Products
+
    1. MANUFACTURERS
    1. Accessory Specialties, Inc.
    1. American Dispenser Co.
@@ -53,7 +55,9 @@ tags: ['Facility', 'Construction', 'Specialties', 'Toilet', 'Accessories']
    1. Provide 2
    1. Grab Bars:
       1. Series B-6206 - sizes and quantities as indicated on Drawings.
-   1. EXECUTION
+
+## Execution
+
    1. ERECTION INSTALLATION APPLICATION
    1. Use concealed fastenings wherever possible.
    1. Provide anchors, bolts and other necessary fasteners, and attach units securely to walls and partitions in locations as shown or directed.
@@ -61,5 +65,5 @@ tags: ['Facility', 'Construction', 'Specialties', 'Toilet', 'Accessories']
    1. Install concealed mounting devices and fasteners fabricated of the same material as the accessories or of the galvanized steel.
    1. Install exposed mounting devices and fasteners finished to match the accessories.
    1. Provide theft-resistant fasteners for all necessary mountings.
-1. END OF SECTION
+
 

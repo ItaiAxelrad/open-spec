@@ -7,11 +7,6 @@ subgroup: Facility Services
 tags: ['Facility', 'Services', 'Electrical', 'Packaged', 'Engine', 'Generators']
 ---
 
-1. Copyright 2003 and 2005 by The American Institute of Architects (AIA)
-1. Exclusively published and distributed by Architectural Computer Services, Inc. (ARCOM) for the AIA
-1. This Section uses the term "Architect." Change this term to match that used to identify the design professional as defined in the General and Supplementary Conditions.
-1. Verify that Section titles referenced in this Section are correct for this Project's Specifications; Section titles may have changed.
-
 ## General
 
 1. RELATED DOCUMENTS
@@ -64,13 +59,13 @@ tags: ['Facility', 'Services', 'Electrical', 'Packaged', 'Engine', 'Generators']
    1. Included in the purchase of the engine generator and automatic transfer & bypass isolation switch the equipment supplier shall:
       1. Furnish the services of a factory certified technician during the start-up and adjustment period to insure that all items furnished are in proper operating condition.
    1. Technician must be completely knowledgeable in the operation, maintenance and start-up of the mechanical and electrical systems of the engine generator and automatic transfer & bypass isolation switch systems.
-   1. The technicians will instruct the NREL personnel regarding the operation and maintenance of all items supplied.
+   1. The technicians will instruct the Owner personnel regarding the operation and maintenance of all items supplied.
    1. Supply written handouts during the training period, and these handouts should be suitable for future reference after the training period is completed.
    1. Minimum required time on site by technician.
    1. One day prior to start up to inspect entire installation and perform pre-start-up activities.
    1. One days at start-up to test operation and conduct acceptance tests.
    1. 4 hours training period detailing all preventative maintenance and normal operational conditions.
-   1. SUBMITTALS
+1. SUBMITTALS
    1. Bid Submittal Requirements
    1. Miscellaneous Information to be furnished with bid
    1. Weight of engine generator skid
@@ -189,7 +184,7 @@ tags: ['Facility', 'Services', 'Electrical', 'Packaged', 'Engine', 'Generators']
    1. Complete MSDS forms for all substances.
    1. Locate in O&M manuals.
    1. Include separate manual labeled MSDS with additional copies of all MSDS forms.
-   1. QUALITY ASSURANCE
+1. QUALITY ASSURANCE
    1. Installer Qualifications:
       1. Manufacturer's authorized representative who is trained and approved for installation of units required for this Project.
    1. Maintenance Proximity:
@@ -237,23 +232,23 @@ tags: ['Facility', 'Services', 'Electrical', 'Packaged', 'Engine', 'Generators']
       1. 150 MPH
    1. Seismic Zone:
       1. 1
-   1. WARRANTY 
+1. WARRANTY 
    1. Without additional charge the equipment supplier shall replace any work or material they have provided which develops defects within two years or 1500 engine hours, whichever occurs first, from date of acceptance.
    1. All materials and equipment shall be guaranteed against defective materials, design and workmanship.
    1. During the guarantee period, the equipment supplier or his authorized dealer will be required to make the necessary repairs or replacements on site.
    1. Guarantees which mention that the part must be returned to the factory will not be acceptable.
-   1. During the guarantee period, the NREL will not accept charges for:
+   1. During the guarantee period, the Owner will not accept charges for:
       1. Travel time
    1. Mileage
    1. On-site repair labor
    1. Guarantee shall list any and all items excluded
-   1. If necessary, as determined by the NREL Technical Representative, any repairs must be made on a premium time basis without cost to the NREL.
+   1. If necessary, as determined by the Owner Technical Representative, any repairs must be made on a premium time basis without cost to the Owner.
    1. COORDINATION
    1. Coordinate size and location of concrete bases for package engine generators. Cast anchor-bolt inserts into bases. Concrete, reinforcement, and formwork requirements are specified in related Division 03 Sections.
    1. MAINTENANCE SERVICE
    1. Initial Maintenance Service:
       1. Beginning at Substantial Completion, provide 12 months' full maintenance by skilled employees of manufacturer's designated service organization. Include quarterly exercising to check for proper starting, load transfer, and running under load. Include routine preventive maintenance as recommended by manufacturer and adjusting as required for proper operation. Provide parts and supplies same as those used in the manufacture and installation of original equipment.
-   1. EXTRA MATERIALS
+1. EXTRA MATERIALS
    1. Furnish extra materials described below that match products installed and that are packaged with protective covering for storage and identified with labels describing contents.
    1. Fuses:
       1. One for every 10 of each type and rating, but no fewer than one of each.
@@ -596,14 +591,14 @@ When the engine speed increases beyond normal cranking speed, the control system
    1. ACCESSORIES 
    1. All items are contained is Specification Section 2.04 Equipment. 
 1. EXECUTION
-   1. PREPARATION 
+1. PREPARATION 
    1. Provide concrete pad for the Generator skid to be bolted onto.
    1. Provide all conductors and conduits required for a complete installation.
-   1. EXAMINATION
+1. EXAMINATION
    1. Examine areas, equipment bases, and conditions, with Installer present, for compliance with requirements for installation and other conditions affecting packaged engine-generator performance.
    1. Examine roughing-in of piping systems and electrical connections. Verify actual locations of connections before packaged engine-generator installation.
    1. Proceed with installation only after unsatisfactory conditions have been corrected.
-   1. INSTALLATION
+1. INSTALLATION
    1. Comply with packaged engine-generator manufacturers' written installation and alignment instructions and with NFPA 110.
    1. Install packaged engine generator to provide access, without removing connections or accessories, for periodic maintenance.
    1. Install packaged engine generator with restrained spring isolators having a minimum deflection of 1 inch (25 mm) on 4-inch- (100-mm-) high concrete base. Secure sets to anchor bolts installed in concrete bases. 
@@ -644,8 +639,8 @@ When the engine speed increases beyond normal cranking speed, the control system
    1. CLEANING
    1. Clean engine and generator surfaces.
    1. DEMONSTRATION 
-   1. Upon completion of the work, at a time to be designated by NREL Technical Representative, equipment supplier shall demonstrate to the NREL Technical Representative the operation of the engine generator and automatic transfer switch installation.
-   1. The equipment supplier will adjust, test and place the equipment into operation to the complete satisfaction of the NREL Technical Representative.
+   1. Upon completion of the work, at a time to be designated by Owner Technical Representative, equipment supplier shall demonstrate to the Owner Technical Representative the operation of the engine generator and automatic transfer switch installation.
+   1. The equipment supplier will adjust, test and place the equipment into operation to the complete satisfaction of the Owner Technical Representative.
    1. All control functions will be tested, and the tests will be made in conjunction with the engine generator start-up 
    1. These tests will include all normal starting and stopping functions as outlined in "Characteristics of Operation"
    1. Include the checkout and testing of all safety devices mentioned in the specifications.
@@ -749,9 +744,8 @@ When the engine speed increases beyond normal cranking speed, the control system
    1. Room ambient temperature.
    1. Apply building load for one hour and take readings each 15 minutes.
    1. The main circuit breaker arrangement for this installation will be part of this test with the automatic transfer equipment controlling the engine starting, stopping.
-   1. A written report will be furnished to the NREL Technical Representative after the acceptance tests. This report will outline the tests made, and it will also detail any items, which are to be corrected before the installation can be considered satisfactory.
+   1. A written report will be furnished to the Owner Technical Representative after the acceptance tests. This report will outline the tests made, and it will also detail any items, which are to be corrected before the installation can be considered satisfactory.
    1. Visual and Mechanical Inspection. Inspect for physical damage. Compare nameplate rating and connection with specifications and single line diagram. Inspect for proper anchorage and grounding. Engine cooling and fuel system integrity shall be verified.
    1. TRAINING
    1. Engage a factory-authorized service representative to train Owner's maintenance personnel to adjust, operate, and maintain packaged engine generators. Refer to related Division 1 sections of the Specifications.
-1. END OF SECTION 263213
 

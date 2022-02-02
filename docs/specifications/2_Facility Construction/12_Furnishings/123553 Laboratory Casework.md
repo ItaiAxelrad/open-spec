@@ -374,7 +374,9 @@ tags: ['Facility', 'Construction', 'Furnishings', 'Laboratory', 'Casework']
       1. Case aluminum with brushed satin finish:
       1. PED:
          1. Deck-mounted electrical and telecommunication pedestal, double gang, double faced, with two (2) duplex receptacles 20 amp, 120 volt, straight blade ground fault, and two (2) data outlets, CAT 5, J568B, duplex jacks.
-   1. EXECUTION
+
+## Execution
+
    1. preparation
    1. Protection
    1. Protect the Work and adjacent construction from damage during installation and subsequent operations under the Contract.
@@ -413,5 +415,5 @@ tags: ['Facility', 'Construction', 'Furnishings', 'Laboratory', 'Casework']
    1. Make final adjustments required for proper operation as determined by the Architect.
    1. Cleaning
    1. Following completion, clean finished surfaces and leave work free of imperfections. Touch up damaged finish equal to original condition as approved.
-1. END OF SECTION
+
 

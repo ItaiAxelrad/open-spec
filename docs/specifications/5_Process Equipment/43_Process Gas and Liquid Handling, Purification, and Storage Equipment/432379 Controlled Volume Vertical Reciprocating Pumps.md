@@ -12,9 +12,7 @@ tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Sto
 
 ## General
 
-
-* 
-	1. **Summary
+1. SUMMARY
    1. Section Includes:
 	1. Booster pumps for online turbidity analyzers.
 	2. Booster pumps for UVT analyzer.
@@ -23,7 +21,7 @@ tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Sto
 	2. Section 01 75 00, Operator Training.
 	3. Section 01 78 23, Maintenance Manuals.
 	4. Section 43 01 00, Product Technical Data.
-	5. **Quality Assurance
+	5. Quality Assurance
 3. All equipment and appurtenances to be furnished under this Section shall be equal to the named products.
 4. Reference Standards:
 	1. NSF International (NSF)
@@ -44,9 +42,9 @@ tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Sto
 	1. See Specification Section 01 78 23 for requirements for:
 		1. The mechanics and administration of the submittal process.
 		2. The content of Operation and Maintenance Manuals.
-	2. **Warranty
+	2. Warranty
 3. See Division 0 for project warranty requirements.
-   ## Product
+## Product
 1. 2.1 Acceptable Manufacturers
    1. Blue-White Industries, Ltd.
 1. 2.2 Pre-approved Products

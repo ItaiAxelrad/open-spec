@@ -7,10 +7,6 @@ subgroup: Facility Services
 tags: ['Facility', 'Services', 'Electrical', 'Elec', 'Power', 'Monitoring', 'Conrol']
 ---
 
-1. Copyright 2003 and 2005 by The American Institute of Architects (AIA)
-1. Exclusively published and distributed by Architectural Computer Services, Inc. (ARCOM) for the AIA
-1. Verify that Section titles referenced in this Section are correct for this Project's Specifications; Section titles may have changed.
-
 ## General
 
 1. RELATED DOCUMENTS
@@ -18,7 +14,7 @@ tags: ['Facility', 'Services', 'Electrical', 'Elec', 'Power', 'Monitoring', 'Con
 1. SUMMARY
    1. This Section includes:
       1. Provide a complete system capable of monitoring demand, consumption and power quality at designated points in the power distribution system.
-   1. Provide a system that is compatible in all respects, including equipment and software, with the General Electric PQM monitoring system presently in use on the NREL campus.
+   1. Provide a system that is compatible in all respects, including equipment and software, with the General Electric PQM monitoring system presently in use on the Owner campus.
    1. Include remote devices for monitoring and protective functions; device communication interface hardware; inter-communication wiring; analysis software; and accessories as specified and indicated.
 
 ## General
@@ -45,8 +41,7 @@ tags: ['Facility', 'Services', 'Electrical', 'Elec', 'Power', 'Monitoring', 'Con
    1. Replacement of all defective hardware and software furnished with this system under this contract for one year after date of acceptance.
 1. Retain one or both subparagraphs below. Retain first if work includes only local metering and monitoring, without connections to data transmission network. Retain both if monitoring and control are connected to a LAN.
 1. PRODUCTS
-1. LOCAL ELECTRONIC METERING UNIT** 
-   1. Main Distribution System (MDS) Metering
+1. LOCAL ELECTRONIC METERING UNIT*   1. Main Distribution System (MDS) Metering
    1. Provide local metering unit on each assembly, to directly display the following metered values for each selected feeder as shown on the drawings.
    1. Amperes:
       1. phase A, B, C at 1 percent accuracy. 
@@ -165,5 +160,4 @@ tags: ['Facility', 'Services', 'Electrical', 'Elec', 'Power', 'Monitoring', 'Con
 1. ON-SITE ASSISTANCE
    1. Occupancy Adjustments:
       1. When requested within 12 months of date of Substantial Completion, provide on-site assistance in adjusting system to suit actual occupied conditions. Provide up to three visits to Project during other-than-normal occupancy hours for this purpose.
-1. END OF SECTION 260913
 

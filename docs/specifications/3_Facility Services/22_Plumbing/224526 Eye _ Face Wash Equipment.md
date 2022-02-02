@@ -12,11 +12,9 @@ tags: ['Facility', 'Services', 'Plumbing', 'Eye', '_', 'Face', 'Wash', 'Equipmen
 
 ## General
 
-
-* 
-	1. **Summary
+1. SUMMARY
    1. Work under this section shall include eye and face wash equipment and installation.
-	1. **Quality Assurance
+	1. Quality Assurance
 2. Electrical Components, Devices, and Accessories:
       1. Listed and labeled as defined in NFPA 70, by a qualified testing agency, and marked for intended location and application.
 3. ANSI Standard:
@@ -25,12 +23,12 @@ tags: ['Facility', 'Services', 'Plumbing', 'Eye', '_', 'Face', 'Wash', 'Equipmen
       1. Comply with NSF 61, "Drinking Water System Components - Health Effects," for fixture materials that will be in contact with potable water.
 5. Regulatory Requirements:
       1. Comply with requirements in ICC/ANSI A117.1, "Accessible and Usable Buildings and Facilities"; Public Law 90-480, "Architectural Barriers Act"; and Public Law 101-336, "Americans with Disabilities Act"; for plumbing fixtures for people with disabilities.
-	1. **Submittals
+	1. Submittals
 6. See Specification Section 01 33 00 for requirements for the mechanics and administration of the submittal process.
 7. Provide product data sheets
 	1. Product data shall include flow rates and capacities, furnished specialties, and accessories.
 8. Provide Operation and Maintenance Manuals. 
-   ## Product
+## Product
 1. 2.1 Eye/ Face Wash
    1. Standard, wall mounted, plumbed, eyewash unit. 
 	1. Capacity: Not less than 3.0 gpm for at least 15 minutes. 

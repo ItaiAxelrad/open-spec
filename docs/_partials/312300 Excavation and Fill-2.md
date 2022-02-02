@@ -7,7 +7,7 @@ subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Earthwork', 'Excavation', 'Fill']
 ---
 
-   1. SECTION 02223
+
 1. TRENCHING, EXCAVATION, BACKFILL AND COMPACTION
 1. 
 ## General
@@ -33,7 +33,7 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Excavation', 'Fill']
 03. RELATED WORK SPECIFIED ELSEWHERE
    1. Standard Drawings
 2. Standard Specifications 01000, 01045, 01200, 01310, 01330, 01505, 01510, 01570, 02140, 02222, 02511, 02528, 02578, 03000, 03480, 03482, 09902, 09910, and Division 15.
-	1. **GEOTECHNICAL TESTING
+	1. GEOTECHNICAL TESTING
    1. The Contractor/or City shall engage the services of a geotechnical engineering firm or individual licensed in the State of California to monitor soil conditions during earthwork, trenching, bedding, backfill and compaction operations if any, other backfill material than 1 sack cement slurry is used. Sampling and testing procedures shall be performed in accordance with the Reference Standards and as follows:
       1. The soils technician shall be present at the site during all backfill and compaction operations. Failure to have the soils technician present will subject such operations to rejection.
 2. Density and optimum moisture content of soil shall be determined by the use of the sand cone method, ASTM D 1556, or nuclear density gauge method, ASTM D 2922 & D 3017. Since the composition of the pipe and the walls of the trench have an effect on the nuclear density gauge output, a minimum of 25% of the density and optimum moisture tests shall be made using the sand cone method.
@@ -89,7 +89,6 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Excavation', 'Fill']
    1. Filter fabric shall be manufactured from polyester, nylon, or polypropylene. Material shall be of non-woven construction and shall meet the following requirements:
       1. 
 
-* 
 	1. Grab tensile strength (ASTM D 4632): 45.4kg (100 lbs) minimum for a 1" raveled strip
 	2. Weight (ASTM D 3776): 4.5 oz./yd2 
 	3. Apparent opening size (ASTM D 4751): 0.006"
@@ -118,7 +117,6 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Excavation', 'Fill']
    1. Over excavations shall be corrected by backfilling with approved imported granular material or crushed rock, compacted to 90% relative compaction, as directed by the City Engineer.
 1. 3.06 FOUNDATION STABILIZATION
 
-* 
 	1. When unsuitable soil materials are encountered, the unsuitable material shall be removed to the depth determined necessary in the field by the Soils Technician, and as acceptable to the City Engineer. The sub-grade shall be restored with compacted Imported Granular Material or crushed rock as recommended by the Soils Technician. Place the appropriate bedding or base material on this restored foundation.
 	2. When rock encroachment is encountered, the rock shall be removed to a point below the intended trench or excavation sub-grade as determined necessary in the field by the Soils Technician, and as acceptable to the City Engineer. The sub-grade shall be restored with compacted Imported Granular Material as recommended by the Soils Technician. Place the appropriate bedding or base material on this restored foundation.
 	3. When excessively wet, soft, spongy, or similarly unstable material is encountered at the surface upon which the bedding or base material is to be placed, the unsuitable material shall be removed to the depth determined necessary in the field by the Soils Technician, and as acceptable to the City Engineer. Restore the trench with crushed rock enclosed in filter fabric as directed by the City Engineer. Larger size rocks, up to 3", with appropriate gradation, may be used if recommended by the Soils Technician. Place the appropriate bedding or base material on this restored foundation.
@@ -152,7 +150,6 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Excavation', 'Fill']
    1. Trench plugs shall be installed at 60m (200') intervals along the entire length of piping systems. Trench plugs shall be 3m (10') in length and shall encompass the entire pipe zone. Additional trench plugs may be required as directed by the City Engineer.
 1. 3.11 PIPE ZONE BACKFILL
 
-* 
 	1. Care shall be taken in placing the imported granular backfill material simultaneously around the main pipeline and appurtenance pipes so that the pipe barrel is completely supported and that no voids or uncompacted areas are left beneath the pipe or on the sides of the pipe. Care shall be taken to place material simultaneously on both sides of the pipe to prevent lateral movement. This area shall be mechanically compacted to attain 90% relative density. Care shall be taken when compacting appurtenance laterals 2” and smaller to prevent the crushing or denting of the copper lateral. Additional lifts of 12" or less thickness may be required on 16" or larger diameter pipe to attain complete support of the haunch area. Soils tests may be taken on this layer of backfill.
 	2. After the spring line backfill has been approved by the Soils Technician, backfill of the remainder of the Pipe Zone may proceed. Do not drop sharp, heavy pieces of material directly onto the pipe or the tamped material around the pipe.
 	3. Place and compact the imported granular material at a maximum of 12” lifts. Compact all material placed in the Pipe Zone by mechanical methods. Sand cone tests shall be taken on this layer of backfill.
@@ -164,5 +161,5 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Excavation', 'Fill']
 1. 3.13 PAVEMENT ZONE BACKFILL AND RESTORATION
    1. After the Trench Zone material has been placed, compacted, approved by the Soil Technician, and accepted by the City Engineer; backfill in the Pavement Zone may proceed as necessary in accordance with the requirements of the agency having jurisdiction.
 2. Replace bituminous and concrete pavement, curbs, and sidewalks removed or damaged during construction in accordance with the requirements of the agency having jurisdiction.
-1. END OF SECTION
+
 

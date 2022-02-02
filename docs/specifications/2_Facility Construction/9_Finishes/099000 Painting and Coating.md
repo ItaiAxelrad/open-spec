@@ -12,14 +12,12 @@ tags: ['Facility', 'Construction', 'Finishes', 'Painting', 'Coating']
 
 ## General
 
-
-* 
-	1. **Summary
+1. SUMMARY
    1. Section Includes:
 	1. High performance industrial coatings (HPIC).
 	2. Any other coating, thinner, accelerator, inhibitor, etc., specified or required as part of a complete System specified in this Specification Section.
 	3. Minimum surface preparation requirements.
-	4. **Quality Assurance
+	4. Quality Assurance
 2. Referenced Standards:
 	1. ASTM International (ASTM):
 		1. D4258, Standard Practice for Surface Cleaning Concrete for Coating.
@@ -62,7 +60,7 @@ tags: ['Facility', 'Construction', 'Finishes', 'Painting', 'Coating']
 	2. Coating used in all corridors and stairways shall meet requirements of NFPA 101 and ASTM E84.
 5. Deviation from specified mil thickness or product type is not allowed without written authorization of Engineer.
 6. Material shall not be thinned unless approved, in writing, by paint manufacturer's authorized representative.
-	1. **Definitions
+	1. Definitions
 7. Installer or Applicator:
 	1. Installer or applicator is the person actually installing or applying the product in the field at the Project site.
 	2. Installer and applicator are synonymous.
@@ -88,7 +86,7 @@ tags: ['Facility', 'Construction', 'Finishes', 'Painting', 'Coating']
 18. HPIC: High performance industrial coatings.
 19. SC: Special coatings.
 20. Water level for purposes of painting: Refer to Drawings.
-	1. **Submittals
+	1. Submittals
 21. See Specification Section 01 33 00 for requirements for the mechanics and administration of the submittal process.
 22. Shop Drawings:
 	1. Applicator experience qualifications.
@@ -112,7 +110,7 @@ tags: ['Facility', 'Construction', 'Finishes', 'Painting', 'Coating']
 	2. Approval of application equipment.
 	3. Applicator's daily records:
 		1. Submit daily records at end of each week in which painting work is performed unless requested otherwise by Engineer's on-site representative.
-	4. **Delivery, Storage, and Handling
+	4. Delivery, Storage, and Handling
 25. Deliver in original containers, labeled as follows:
 	1. Name or type number of material.
 	2. Manufacturer's name and item stock number.
@@ -145,36 +143,36 @@ tags: ['Facility', 'Construction', 'Finishes', 'Painting', 'Coating']
 			1. P1 = 1 coat, 3 mils, Series L69 Epoxoline (Polyamidoamine Epoxy).
 		2. Finish coat(s):
 			1. Interior:
-				1. F1 = 1 coat, 3 mils, Series L69 Epoxoline (Polyamidoamine Epoxy).
-				2. F2 = 1 coat, 3 mils, Series L69 Epoxoline (Polyamidoamine Epoxy).
+			1. F1 = 1 coat, 3 mils, Series L69 Epoxoline (Polyamidoamine Epoxy).
+			2. F2 = 1 coat, 3 mils, Series L69 Epoxoline (Polyamidoamine Epoxy).
 			2. Exterior:
-				1. F1 = 1 coat, 3 mils, Series L69 Epoxoline (Polyamidoamine Epoxy).
-				2. F2 = 1 coat, 2.5 mils, Series 1080 Endura-Shield. W.B. (Waterborne Acrylic Polyurethane).
+			1. F1 = 1 coat, 3 mils, Series L69 Epoxoline (Polyamidoamine Epoxy).
+			2. F2 = 1 coat, 2.5 mils, Series 1080 Endura-Shield. W.B. (Waterborne Acrylic Polyurethane).
 	2. System #2 - Zinc-Rich Urethane Primer with Polyamidoamine Epoxy or Waterborne Acrylic Polyurethane Finish Coat(s).
 		1. Prime coat:
 			1. P1 = 1 coat, 3.5 mils, Series 90-97 Tnemec-Zinc (Zinc-Rich Urethane).
 		2. Finish coat(s):
 			1. Interior:
-				1. F1 = 1 coat, 6 mils, Series L69 Epoxoline (Polyamidoamine Epoxy).
+			1. F1 = 1 coat, 6 mils, Series L69 Epoxoline (Polyamidoamine Epoxy).
 			2. Exterior:
-				1. F1 = 1 coat, 6 mils, Series L69 Epoxoline (Polyamidoamine Epoxy).
-				2. F2 = 1 coat, 2.5 mils, Series 1080 Endura-Shield W.B.(Waterborne Acrylic Polyurethane).
+			1. F1 = 1 coat, 6 mils, Series L69 Epoxoline (Polyamidoamine Epoxy).
+			2. F2 = 1 coat, 2.5 mils, Series 1080 Endura-Shield W.B.(Waterborne Acrylic Polyurethane).
 	3. System #3 - Polyamidoamine Epoxy Primer with Polyamidoamine Epoxy or Waterborne Acrylic Polyurethane Top Coat(s).
 		1. Prime coat:
 			1. P1 = 1 coat, 5 mils, Series L69 Epoxoline (Polyamidoamine Epoxy).
 		2. Finish coat(s):
 			1. Interior:
-				1. F1 = 1 coat, 5 mils, Series L69 Epoxoline (Polyamidoamine Epoxy).
+			1. F1 = 1 coat, 5 mils, Series L69 Epoxoline (Polyamidoamine Epoxy).
 			2. Exterior:
-				1. F1 = 1 coat, 2.5 mils, Series 1080 Endura-Shield W.B. (Waterborne Acrylic Polyurethane).
+			1. F1 = 1 coat, 2.5 mils, Series 1080 Endura-Shield W.B. (Waterborne Acrylic Polyurethane).
 	4. System #4 - Modified Polyamidoamine Epoxy Primer with Polyamidoamine Epoxy or Waterborne Acrylic Polyurethane Top Coat(s).
 		1. Prime coat:
 			1. P1 = 1 coat, 2.0 mils, Series 135 Chembuild (Modified Polyamidoamine Epoxy).
 		2. Finish coat(s):
 			1. Interior:
-				1. F1 = 1 coat, 2.5 mils, Series L69 Epoxoline (Polyamidoamine Epoxy).
+			1. F1 = 1 coat, 2.5 mils, Series L69 Epoxoline (Polyamidoamine Epoxy).
 			2. Exterior:
-				1. F1 = 1 coat, 2.0 mils, Series 1080 Endura-Shield W.B. (Waterborne Acrylic Polyurethane).
+			1. F1 = 1 coat, 2.0 mils, Series 1080 Endura-Shield W.B. (Waterborne Acrylic Polyurethane).
 	5. System #5 - Cycloaliphatic Amine Epoxy Primer with Aliphatic Polyester Polyurethane Top Coat(s).
 		1. Prime coat:
 			1. P1 = 1 coat, 10 mils, Series 104 H.S. Epoxy (Amine Epoxy).
@@ -185,23 +183,23 @@ tags: ['Facility', 'Construction', 'Finishes', 'Painting', 'Coating']
 			1. P1 = 1 coat, 2.5 mils, Series 90-97 Tneme-Zinc (Zinc-Rich Urethane).
 		2. Finish coat(s):
 			1. Interior:
-				1. F1 = 1 coat, 5 mils, Series L69 Epoxoline (Polyamidoamine Epoxy).
+			1. F1 = 1 coat, 5 mils, Series L69 Epoxoline (Polyamidoamine Epoxy).
 			2. Exterior:
-				1. F1 = 1 coat, 3.0 mils, Series 1080 Endura-Shield W.B. (Waterborne Acrylic Polyurethane).
+			1. F1 = 1 coat, 3.0 mils, Series 1080 Endura-Shield W.B. (Waterborne Acrylic Polyurethane).
 	7. System #7 - Waterborne Modified Polyamine Epoxy Primer with Specialized Acrylate Waterborne Top Coats.
 		1. Prime coat:
 			1. P1 = 1 coat, 1.5 mils, Series 151 Elasto-Grip FC (Waterborne Modified Polyamine Epoxy).
 		2. Finish coat(s):
 			1. Interior:
-				1. F1 = 1 coat, 6.5 to 7.5 mils, Series 158 Bio-Lastic (Specialized Waterborne Acrylate).
-				2. F2 = 1 coat, 6.5 to 7.5 mils, Series 158 Bio-Lastic (Specialized Waterborne Acrylate).
+			1. F1 = 1 coat, 6.5 to 7.5 mils, Series 158 Bio-Lastic (Specialized Waterborne Acrylate).
+			2. F2 = 1 coat, 6.5 to 7.5 mils, Series 158 Bio-Lastic (Specialized Waterborne Acrylate).
 	8. System #8 - Polyamidoamine Epoxy Primer with Polyamidoamine Epoxy Top Coat.
 		1. Prime coat:
 			1. P1 = 1 coat, 4 mils, Series L69 Epoxoline (Polyamidoamine Epoxy).
 		2. Finish coat:
 			1. Interior:
-				1. F1 = 1 coat, 6 mils, Series L69 Epoxoline (Polyamidoamine Epoxy).
-				2. F2 = 1 coat, 6 mils, Series L69 Epoxoline (Polyamidoamine Epoxy).
+			1. F1 = 1 coat, 6 mils, Series L69 Epoxoline (Polyamidoamine Epoxy).
+			2. F2 = 1 coat, 6 mils, Series L69 Epoxoline (Polyamidoamine Epoxy).
 	9. System #9 - Polyamidoamine Epoxy Coating.
 		1. Prime coat:
 			1. P1 = 1 coat, 5 mils, Series L69 Epoxoline (Polyamidoamine Epoxy).
@@ -210,7 +208,7 @@ tags: ['Facility', 'Construction', 'Finishes', 'Painting', 'Coating']
 			1. P1 = 1 coat, 3 mils, Series 91 H20 Hydro-Zinc (Zinc-Rich Urethane).
 		2. Finish coat(s):
 			1. Interior:
-				1. F1 = 1 coat, 25 mils, Series 22 Epoxoline (Modified Polyamine Epoxy).
+			1. F1 = 1 coat, 25 mils, Series 22 Epoxoline (Modified Polyamine Epoxy).
 	11. System #11 - Touch-up of galvanized surfaces not requiring a top coat.
 		1. Refer to ASTM A780.
 	12. System #13 – High Build Epoxy
@@ -224,11 +222,7 @@ tags: ['Facility', 'Construction', 'Finishes', 'Painting', 'Coating']
 ## Execution
 
 1. 3.1 Items to Be Painted
-
-## General
-
-
-:
+	 1. General:
 	1. Paint the following surfaces in a wet and/or corrosive area, whether exposed to view or not:
 		1. Conduit – paint conduit, device and junction boxes, and conduit supports and accessories in all areas indicated as wet areas on the Electrical Drawings.
 		2. Ducts.
@@ -254,19 +248,15 @@ tags: ['Facility', 'Construction', 'Finishes', 'Painting', 'Coating']
 			2. Piping, valves, fittings and hydrants except when covered by pipe jacketing and supports.
 			3. Miscellaneous ferrous metal surfaces.
 			4. Steel components of concrete lintels (plain or galvanized).
-				1. Steel components shall be completely painted (with both prime and finish coats) prior to installing in the wall.
+			1. Steel components shall be completely painted (with both prime and finish coats) prior to installing in the wall.
 			5. Structural steel.
-				1. May include: Pipe supports, duct supports, as well as other structural steel items.
+			1. May include: Pipe supports, duct supports, as well as other structural steel items.
 			6. Field welded connections of factory painted structural steel.
 			7. Galvanized metal surfaces specifically noted to be painted.
 			8. Copper and brass surfaces.
 			9. Hollow metal doors and frames.
 1. 3.2 Items Not to Be Painted
-
-## General
-
-
-: 
+	 1. General: 
 	1. Do not paint items listed in this Article unless specifically noted in the Contract Documents to be painted.
 2. Items with Approved Factory Finish:
       1. 
@@ -368,17 +358,13 @@ tags: ['Facility', 'Construction', 'Finishes', 'Painting', 'Coating']
    1. Interior Gypsum Board
    1. 7
 1. 3.4 Preparation
-
-## General
-
-
-:
+	 1. General:
 	1. Verify that atmosphere in area where painting is to take place is within paint manufacturer's acceptable temperature, humidity and sun exposure limits.
 		1. Provide temporary heating, shade and/or dehumidification as required to bring area within acceptable limits.
 			1. Provide temporary dehumidification equipment properly sized to maintain humidity levels required by paint manufacturer.
 			2. Provide clean heat with heat exchanger type equipment sufficient in size to maintain temperature on a 24 HR basis.
-				1. Vent exhaust gases to exterior environment.
-				2. No exhaust gases shall be allowed to vent into the space being painted or any adjacent space.
+			1. Vent exhaust gases to exterior environment.
+			2. No exhaust gases shall be allowed to vent into the space being painted or any adjacent space.
 	2. Prepare surfaces to be painted in accordance with coating manufacturer's instructions and this Specification Section unless noted otherwise in this Specification Section.
 		1. Where discrepancy between coating manufacturer's instructions and this Specification Section exists, the more stringent preparation shall be provided unless approved otherwise, in writing, by the Engineer.
 	3. Remove all dust, grease, oil, compounds, dirt and other foreign matter which would prevent bonding of coating to surface.
@@ -474,11 +460,7 @@ tags: ['Facility', 'Construction', 'Finishes', 'Painting', 'Coating']
 	2. Contractor shall prepare plan of action for safe, legal removal and disposal of contaminated paint.
 	3. Engineer, Contractor and Owner shall negotiate agreement for cost associated with removal.
 1. 3.5 Application
-
-## General
-
-
-:
+	 1. General:
 	1. Thin, mix and apply coatings by brush, roller, or spray in accordance with manufacturer's installation instructions.
 		1. Application equipment must be inspected and approved in writing by coating manufacturer.
 		2. Hollow metal shall be spray applied only.
@@ -533,14 +515,14 @@ tags: ['Facility', 'Construction', 'Finishes', 'Painting', 'Coating']
 	1. Apply finish coats in accordance with coating manufacturer's written instructions and in accordance with this Specification Section; manufacturer instructions take precedent over these Specifications.
 	2. Touch up damaged finish coats using same application method and same material specified for finish coat.
 		1. Prepare damaged area in accordance with this Specification Section.
-	3. **Color Coding
+	3. Color Coding
 4. See Specification Section 10 14 00 for color coding.
-	1. **Field Quality Control
+	1. Field Quality Control
 5. Contractor to provide protection for surfaces painted with epoxy coatings to prevent chalking.
 	1. Surfaces showing chalking will not be accepted regardless of condition of paint film.
 6. Contractor to make provisions to maintain work area within manufacturer's recommended application parameters including temporary heating, ventilation, cooling, dehumidification and provisions utilized to mitigate wind-blown dust and debris from contaminating the wet paint film.
 7. All paint and protective coatings shall be applied within the manufacturer’s acceptable environmental and application conditions.
-	1. **Cleaning
+	1. Cleaning
 8. Clean paint spattered surfaces.
 	1. Use care not to damage finished surfaces.
 9. Upon completion of painting, replace hardware, accessories, plates, fixtures, and similar items.

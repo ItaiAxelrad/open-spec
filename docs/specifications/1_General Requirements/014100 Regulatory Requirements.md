@@ -10,7 +10,7 @@ tags: ['General', 'Requirements', 'Regulatory']
 
 ## General
 
-   1. SUMMARY
+1. SUMMARY
    1. REFERENCES
    1. All references to Codes, Specifications and Standards referred to in the Technical Specifications and on the Drawings shall mean the Latest Edition, Amendment and/or Revision of such Referenced Standard in effect as of the date of these Contract Documents unless otherwise specifically indicated. The work of this Contract shall be completed under the applicable provisions of:
       1. ABBREVIATION TITLE
@@ -67,6 +67,10 @@ tags: ['General', 'Requirements', 'Regulatory']
    1. USDTS U.S. Dept. of Transportation Specifications
    1. USS United States Standard
    1. And other codes as listed in Specific Divisions and Sections of the Specifications as they apply to the Work.
-   1. PRODUCTS (NOT USED)
-   1. EXECUTION (NOT USED)
+
+## Products
+ (NOT USED)
+
+## Execution
+ (NOT USED)
 

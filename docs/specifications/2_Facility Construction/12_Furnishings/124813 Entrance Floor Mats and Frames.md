@@ -7,13 +7,12 @@ subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Furnishings', 'Entrance', 'Floor', 'Mats', 'Frames']
 ---
 
-   1. SECTION 12 48 13
+
    1. ENTRANCE FLOOR MATS and frames
 
 ## General
 
 
-* 
 	1. RELATED DOCUMENTS
    1. Construction Drawings.
 2. General and Special Provisions of the Contract.
@@ -38,9 +37,8 @@ tags: ['Facility', 'Construction', 'Furnishings', 'Entrance', 'Floor', 'Mats', '
 9. Accessibility Requirements:
       1. 
 	1. Provide installed floor mats that comply with Section 4.5 in the U.S. Architectural & Transportation Barriers Compliance Board's "Americans with Disabilities Act (ADA), Accessibility Guidelines for Buildings and Facilities (ADAAG)."
-   ## Product
+## Product
 
-* 
 	1. ENTRANCE MATS
    1. Carpet-Type Mats:
       1. 
@@ -51,7 +49,9 @@ tags: ['Facility', 'Construction', 'Furnishings', 'Entrance', 'Floor', 'Mats', '
 3. Walk-Off Mat Schedule:
       1. 
 	1. Provide materials and products that result in quality, colors, and textures of surfaces complying with the Material Legend and items indicated in the drawings.
-   1. Execution
+
+## Execution
+
 1. INSTALLATION
    1. Install surface-type units to comply with manufacturer's written instructions at locations indicated; coordinate with entrance locations and traffic patterns.
 	1. PROTECTION

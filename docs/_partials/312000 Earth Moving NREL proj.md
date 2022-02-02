@@ -1,28 +1,20 @@
 ---
-title: Earth Moving NREL proj
+title: Earth Moving Owner proj
 section: '312000'
 divNumb: 31
 divName: Earthwork
 subgroup: Site and Infrastructure
-tags: ['Site', 'Infrastructure', 'Earthwork', 'Earth', 'Moving', 'NREL', 'proj']
+tags: ['Site', 'Infrastructure', 'Earthwork', 'Earth', 'Moving', 'Owner', 'proj']
 ---
-
-1. Copyright 2007 by The American Institute of Architects (AIA)
-1. Exclusively published and distributed by Architectural Computer Services, Inc. (ARCOM) for the AIA
-1. SECTION 312000
-1. EARTH MOVING
-   1. Revise this Section by deleting and inserting text to meet Project-specific requirements.
-   1. This Section uses the term "Architect." Change this term to match that used to identify the design professional as defined in the General and Supplementary Conditions.
-   1. Verify that Section titles referenced in this Section are correct for this Project's Specifications; Section titles may have changed.
 
 ## General
 
-   1. RELATED DOCUMENTS
+1. RELATED DOCUMENTS
    1. Retain or delete this article in all Sections of Project Manual.
    1. Drawings and general provisions of the Contract, including General and Supplementary Conditions and Division 01 Specification Sections, apply to this Section. 
-   1. All current NREL standards and specifications shall apply, including but not limited to:
-      1. NREL CONSTRUCTION SPECIFICATIONS
-   1. SUMMARY
+   1. All current Owner standards and specifications shall apply, including but not limited to:
+      1. Owner CONSTRUCTION SPECIFICATIONS
+1. SUMMARY
    1. Section Includes:
       1. Preparing subgrades for slabs-on-grade, walks and pavements.
    1. Excavating and backfilling for buildings and structures.
@@ -86,7 +78,7 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Earth', 'Moving', 'NREL', 'proj']
       1. Uppermost surface of an excavation or the top surface of a fill or backfill immediately below subbase, drainage fill, drainage course, or topsoil materials.
    1. Utilities:
       1. On-site underground pipes, conduits, ducts, and cables, as well as underground services within buildings.
-   1. SUBMITTALS
+1. SUBMITTALS
    1. First two paragraphs below are defined in Division 01 Section "Submittal Procedures" as "Action Submittals."
    1. Remaining paragraphs are defined in Division 01 Section "Submittal Procedures" as "Informational Submittals."
    1. Coordinate first paragraph below with qualification requirements in Division 01 Section "Quality Requirements" and as supplemented in "Quality Assurance" Article.
@@ -105,7 +97,7 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Earth', 'Moving', 'NREL', 'proj']
    1. REFERENCES
    1. Section 200, “Earthwork” of the Standard Specifications for Road and Bridge Construction, State of Colorado Department of Highways (CDOT Standard Specifications) current edition and all supplemental provisions thereto.
    1. Section 203, “Excavation and Embankment” of the Standard Specifications for Road and Bridge Construction, State of Colorado Department of Highways (CDOT Standard Specifications) current edition and all supplemental provisions thereto.
-   1. QUALITY ASSURANCE
+1. QUALITY ASSURANCE
    1. Retain first paragraph below if explosives are permitted.
    1. Retain first paragraph below if rock is anticipated, explosives are permitted, and independent oversight is required. Revise reporting requirements to suit Project.
    1. Retain first paragraph below if Contractor selects agency for rock-definition testing. Qualification requirements are in addition to those specified in Division 01 Section "Quality Requirements."
@@ -122,7 +114,7 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Earth', 'Moving', 'NREL', 'proj']
    1. APPROVAL BY GEOTECHNICAL ENGINEER:
       1. 
    1. The Geotechnical Engineer to submit in writing to the Owner’s Representative, "that the site and building pad have been prepared per the Geotechnical Report, and both site and building pad are approved by the Geotechnical Engineer".
-   1. PROJECT CONDITIONS
+1. PROJECT CONDITIONS
    1. Traffic:
       1. Minimize interference with adjoining roads, streets, walks, and other adjacent occupied or used facilities during earth moving operations.
    1. Do not close or obstruct streets, walks, or other adjacent occupied or used facilities without permission from Owner and authorities having jurisdiction.
@@ -150,12 +142,11 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Earth', 'Moving', 'NREL', 'proj']
    1. Attachment of signs to or wrapping materials around trees or plants unless otherwise indicated.
    1. Do not direct vehicle or equipment exhaust towards protection zones.
    1. Prohibit heat sources, flames, ignition sources, and smoking within or near protection zones.
-   1. PRODUCTS
+
+## Products
+
    1. SOIL MATERIALS
-
-## General
-
-:
+	1. General:
       1. Provide borrow soil materials when sufficient satisfactory soil materials are not available from excavations.
    1. On-Site Material:
       1. All on-site fill material, if allowed by Geotechnical Report, shall be soil or soil-rock mixture which is free from debris, organic matter and other deleterious substance. It shall contain no rocks or lumps over two (2) inches in greatest dimension.
@@ -221,8 +212,10 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Earth', 'Moving', 'NREL', 'proj']
       1. Sewer systems.
    1. Purple:
       1. Recycled Water systems.
-   1. EXECUTION
-   1. PREPARATION
+
+## Execution
+
+1. PREPARATION
    1. Protect structures, utilities, sidewalks, pavements, and other facilities from damage caused by settlement, lateral movement, undermining, washout, and other hazards created by earth moving operations.
    1. Protect and maintain erosion and sedimentation controls during earth moving operations.
    1. Protect subgrades and foundation soils from freezing temperatures and frost. Remove temporary protection before placing subsequent materials.
@@ -252,7 +245,7 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Earth', 'Moving', 'NREL', 'proj']
    1. EXCAVATION FOR WALKS AND PAVEMENTS
    1. Excavate surfaces under walks and pavements to indicated lines, cross sections, elevations, and subgrades.
    1. EXCAVATION FOR UTILITY TRENCHES
-   1. PREPARATION
+1. PREPARATION
    1. Trench excavation is unclassified. Complete all excavation regardless of the type of materials encountered. The Contractor shall make his own estimate of the kind and extent of the various materials which will be encountered in the excavation.
    1. Trench Width:
       1. 
@@ -367,10 +360,7 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Earth', 'Moving', 'NREL', 'proj']
    1. Under turf or unpaved areas, scarify and recompact top 6 inches below subgrade and compact each layer of backfill or fill soil material to at least 90 percent.
    1. For utility trenches, compact each layer of initial and final backfill soil material to at least 95 percent.
    1. GRADING
-
-## General
-
-:
+	1. General:
       1. Uniformly grade areas to a smooth surface, free of irregular surface changes. Comply with compaction requirements and grade to cross sections, lines, and elevations indicated.
    1. Provide a smooth transition between adjacent existing grades and new grades.
    1. Cut out soft spots, fill low spots, and trim high spots to comply with required surface tolerances.
@@ -427,5 +417,5 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Earth', 'Moving', 'NREL', 'proj']
    1. Retain one of two paragraphs below.
    1. Remove surplus satisfactory soil and waste materials, including unsatisfactory soil, trash, and debris, and legally dispose of them off Owner's property.
    1. Transport surplus satisfactory soil to designated storage areas on Owner's property. Stockpile or spread soil as directed by Architect.
-1. END OF SECTION 31 20 00
+31 20 00
 

@@ -385,9 +385,6 @@ tags: ['Procurement', 'Contracting', 'Requirements', 'General', 'Conditions']
    1. The Contract Documents may be amended to provide for additions, deletions, and revisions in the Work or to modify the terms and conditions thereof by either a Change Order or a Work Change Directive.
    1. The requirements of the Contract Documents may be supplemented, and minor variations and deviations in the Work may be authorized, by one or more of the following ways:
       1. 
-* 
-	+ 
-		- 
 			1. A Field Order;
    1. Engineer’s approval of a Shop Drawing or Sample (subject to the provisions of Paragraph 6.17.D.3); or 
    1. Engineer’s written interpretation or clarification.

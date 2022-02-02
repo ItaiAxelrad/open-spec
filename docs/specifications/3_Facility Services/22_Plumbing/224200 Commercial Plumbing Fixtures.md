@@ -192,6 +192,5 @@ tags: ['Facility', 'Services', 'Plumbing', 'Commercial', 'Fixtures']
    1. Immediately before turning fixtures over to the Owner and as directed, remove temporary protection and provide final cleaning.
    1. Remove faucet spouts, strainers and aerators, remove sediment and debris, and reinstall.
    1. Remove sediment from drains and traps.
-1. END OF SECTION 224000
 1. (THIS PAGE INTENTIONALLY BLANK)
 

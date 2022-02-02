@@ -10,5 +10,3 @@ tags: ['Site', 'Infrastructure', 'Utilities']
    1. Division 33
    1. Utilities
 
-*[this page intentionally left blank]*
-

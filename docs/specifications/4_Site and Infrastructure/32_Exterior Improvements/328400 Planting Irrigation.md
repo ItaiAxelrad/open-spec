@@ -10,17 +10,17 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Planting', 'Irriga
 
 ## General
 
-   1. SUMMARY
+1. SUMMARY
    1. Section Includes
    1. This work shall consist of excavation, backfilling, installation of backflow preventers, piping, valves, drip components, automatic control system, sleeving and accessories.
    1. Related Sections
    1. Section 329200 - Turf and Grasses
    1. Section 329300 - Plants
-   1. SUBMITTALS
+1. SUBMITTALS
    1. Product Data
    1. Prior to construction, submit three (3) bound brochures including in each a full description and Manufacturer's catalog data for each type and piece of equipment specified herein to the Owner. Also, submit one (1) electronic copy.
    1. Shop Drawings
-   1. Prior to construction submit shop drawings indicating assembly of backflow preventer including plumbing and foundation/support system if the installation differs from the Manufacturer's recommended installation, valve connections and all typical head installations. Shop drawings shall be submitted in hard copy and electronic copy. See NREL CAD Manual for required format of electronic copy.
+   1. Prior to construction submit shop drawings indicating assembly of backflow preventer including plumbing and foundation/support system if the installation differs from the Manufacturer's recommended installation, valve connections and all typical head installations. Shop drawings shall be submitted in hard copy and electronic copy. See Owner CAD Manual for required format of electronic copy.
    1. Design
    1. Contractor shall design and install drip system as required including backflow preventer, pressure reducing valve, valves, wye-strainers, valve boxes, isolation valves, drip tubing, emitters, and any and all other miscellaneous components to provide a complete, functional system.
    1. Contract Close-out Submittals (comply with Section 01300)
@@ -34,7 +34,7 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Planting', 'Irriga
    1. Project Record Documents
    1. Keep up to date as the job progresses and make available to the Owner for inspection at all times.
    1. Revise Drawings to indicate changes made during installation.
-   1. QUALITY ASSURANCE
+1. QUALITY ASSURANCE
    1. Installer Qualifications
    1. Installer shall have satisfactorily installed an acceptable drip irrigation system on at least three (3) other comparable projects within the last two (2) years.
    1. DELIVERY, STORAGE AND PROTECTION
@@ -49,7 +49,7 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Planting', 'Irriga
    1. Contractor is responsible for knowing the information contained in the Drawing(s) and Specifications for all earthwork and other related operations and verifying that the existing site conditions are as specified and indicated in those documents before beginning work under this Section.
    1. Report unsatisfactory conditions in writing to the Owner.
    1. Beginning of installation means acceptance of existing conditions by this Contractor.
-   1. WARRANTY
+1. WARRANTY
    1. Irrigation System
    1. Provide one (1) year written warranty for material and installation from date of final acceptance.
    1. MAINTENANCE
@@ -64,7 +64,9 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Planting', 'Irriga
    1. Two (2) nozzles for each type used.
    1. One (1) valve key and hose swivel for every quick coupling valve indicated.
    1. Four (4) controller cabinet keys.
-   1. PRODUCTS
+
+## Products
+
    1. MATERIALS
    1. Equipment must have performance characteristics to operate per the site conditions.
    1. Pipe And Pipe Fittings
@@ -193,13 +195,15 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Planting', 'Irriga
    1. Wire insulation must be color dyed full depth.
    1. Electrical Work
    1. Comply with all applicable electrical codes.
-   1. EXECUTION
-   1. EXAMINATION
+
+## Execution
+
+1. EXAMINATION
    1. Verify existing site conditions per Article 1.05 this Section.
    1. Soil Conditions
    1. Investigate the type of soil and conditions in which these lines are to be installed and allow for same in proposal.
    1. No extra will be allowed due to difficulty in trenching.
-   1. PREPARATION
+1. PREPARATION
    1. Layout and stake system before beginning installation.
    1. Notify Owner five (5) working days in advance to inspect layout.
    1. Inspection does not relieve installer of coverage problems due to improper placement of heads after staking.
@@ -357,5 +361,5 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Planting', 'Irriga
    1. Take precaution to protect utilities.
    1. Repair or replace damaged lines to satisfaction of Owner at Contractor's expense.
    1. Complete the Pre-Excavation Check List shown on the Irrigation Plan(s) with each item checked off prior to excavation.
-   1. END OF SECTION
+   
 

@@ -10,10 +10,10 @@ tags: ['General', 'Requirements', 'Construction', 'Progress', 'Documentation']
 
 ## General
 
-   1. SUMMARY
+1. SUMMARY
    1. Section Includes
    1. The Contractor shall prepare and submit to the Owner estimated construction progress schedules for the work with sub-schedules of related activities that are essential to its progress.
-   1. The construction schedule shall respond to phasing discussed in Section 010000 of these Specifications, and shall be reviewed and approved by NREL. The schedules shall be revised and resubmitted periodically to show construction progress and effect on milestone dates.
+   1. The construction schedule shall respond to phasing discussed in Section 010000 of these Specifications, and shall be reviewed and approved by Owner. The schedules shall be revised and resubmitted periodically to show construction progress and effect on milestone dates.
    1. Related Sections
    1. Section 011100 - Summary of Work
    1. Section 013300 - Submittals, Shop Drawings, Product Data and Samples
@@ -37,11 +37,15 @@ tags: ['General', 'Requirements', 'Construction', 'Progress', 'Documentation']
    1. Progress Revisions
    1. Indicate progress of each activity to date of submission showing changes occurring since previous schedule and revised projections of progress and completion.
    1. Provide a narrative report defining problem areas, anticipated delays, recommended corrective action and effect of changes on subcontractors.
-   1. SUBMITTALS
+1. SUBMITTALS
    1. Comply with Section 013000.
    1. Submit revised progress schedules with each application for payment and as necessary to promptly reveal major delays that affect project completion.
    1. Distribute copies to subcontractors and other concerned parties.
-   1. PRODUCTS
-   1. EXECUTION
-1. END OF SECTION
+
+## Products
+
+
+## Execution
+
+
 

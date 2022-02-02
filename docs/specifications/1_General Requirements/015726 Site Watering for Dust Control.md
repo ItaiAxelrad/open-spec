@@ -4,10 +4,10 @@ section: '015726'
 divNumb: 1
 divName: General Requirements
 subgroup: General Requirements
-tags: ['General', 'Requirements', 'Site', 'Watering', 'for', 'Dust', 'Control']
+tags: ['General', 'Requirements', 'Site', 'Watering', 'Dust', 'Control']
 ---
 
-   1. SECTION 01 57 26 
+
    1. Site Watering for Dust Control
 
 ## General
@@ -17,8 +17,7 @@ tags: ['General', 'Requirements', 'Site', 'Watering', 'for', 'Dust', 'Control']
       1. the work under this section shall include all equipment, labor and materials necessary to control dust relating to or resulting from performance of the project work.
 2. Related work described elsewhere:
       1. In addition to the requirements described herein, comply with specific requirements for dust control as may be detailed in other sections of these specifications or as noted on the Drawings.
-2. Quality Assurance** 
-   1. Standards:
+2. Quality Assurance*   1. Standards:
       1. Comply with all pertinent requirements of Federal, State or Local agencies that have jurisdiction over dust control procedures and additives used to aid in dust abatement.
 2. Inspection:
       1. The Engineer, Contractor and Owner shall periodically review the adequacy of dust control efforts and procedures to assure they are satisfactorily meeting the needs of the project.
@@ -36,7 +35,9 @@ tags: ['General', 'Requirements', 'Site', 'Watering', 'for', 'Dust', 'Control']
    1. Calcium Chloride:
       1. Shall to conform to the requirements of AASHTO M 144 (ASTM-D-98) except that either pellet or flake shall be acceptable. 
 	1. Magnesium Chloride may also be used.
-   1. Execution
+
+## Execution
+
 1. 3.1 General
    1. During the performance of the work required by these specifications or any operations appurtenant thereto, the Contractor shall:
 	1. Furnish all labor, equipment, materials, and means required, 

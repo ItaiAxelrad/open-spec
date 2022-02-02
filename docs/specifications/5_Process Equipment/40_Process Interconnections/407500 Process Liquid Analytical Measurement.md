@@ -12,19 +12,17 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Liquid', 'Analytical', 'Meas
 
 ## General
 
-
-* 
-	1. **Summary
+1. SUMMARY
    1. Work under this section shall include sample taps, including their locations and installation. 
-	1. **Quality Assurance
+	1. Quality Assurance
 2. Work shall be per the Colorado Department of Public Health and Environment, State of Colorado Design Criteria for Potable Water Systems. 
-	1. **Submittals
+	1. Submittals
 3. Shop drawings
 	1. Shop drawings shall include product technical data including:
 		1. Acknowledgement that products submitted meet requirements of the aforementioned standards.
 		2. Manufacturer’s installation instructions.
 4. Provide Operation and Maintenance Manuals.
-   ## Product
+## Product
 1. 2.1 Sample Taps
    1. Type of tap:
 	1. Sample taps shall be smooth-nosed with no interior or exterior threads.
@@ -51,7 +49,7 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Liquid', 'Analytical', 'Meas
 
 1. 3.1 Installation
    1. Install based on manufacturer’s recommended installation instructions. 
-	1. **Schedules
+	1. Schedules
 2. The table below shows the parameters and purposes for all sample taps:
       1. Sample Tap #
    1. Parameters

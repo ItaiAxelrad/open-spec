@@ -7,13 +7,11 @@ subgroup: General Requirements
 tags: ['General', 'Requirements', 'Project', 'Management', 'Coordination']
 ---
 
-1. SECTION 013100
 
- **PROJECT MANAGEMENT AND COORDINATION
 
 ## General
 
-   1. COORDINATION
+1. COORDINATION
    1. Coordinate scheduling, submittals, and Work of the various sections of the Contract Documents to assure efficient and orderly sequence of installation of interdependent construction elements, with provisions for accommodating items installed later.
    1. The contractor shall contact the Utility Notification Center of Colorado at least 48 hours prior to construction.
    1. Verify utility requirements and characteristics of operating equipment are compatible with building utilities. Coordinate work of various sections having interdependent responsibilities for installing, connecting to, and placing in service such equipment.
@@ -27,7 +25,6 @@ tags: ['General', 'Requirements', 'Project', 'Management', 'Coordination']
       1. OWNER, Construction Manager, and Contractor.
    1. Agenda:
       1. 
-* 
 	1. Distribution of Contract Documents.
 	2. Submission of list of Subcontractors, list of Products, schedule of values, and progress schedule.
 	3. Designation of personnel representing the parties in Contract.
@@ -35,7 +32,6 @@ tags: ['General', 'Requirements', 'Project', 'Management', 'Coordination']
 	5. Scheduling.
    1. Construction Manager shall record minutes and distribute copies within five days after meeting to participants, with copies to CONTRACTOR, OWNER participants, and those affected by decisions made.
 
-* 
 	1. PROGRESS MEETINGS
    1. Construction manager will schedule and administer meetings throughout progress of the Work at maximum bi-monthly intervals.
 2. Construction manager will make arrangements for meetings, prepare agenda with copies for participants, and preside at meetings.
@@ -57,7 +53,6 @@ tags: ['General', 'Requirements', 'Project', 'Management', 'Coordination']
 	13. Other business relating to Work.
    1. Construction Manager shall record minutes and distribute copies within five days after meeting to participants, with copies to CONTRACTOR, OWNER participants, and those affected by decisions made.
 
-* 
 	1. PREINSTALLATION MEETING
    1. When required in individual specification sections, Construction manager will convene a preinstallation meeting at work site prior to commencing work of the section.
 2. Required attendance of parties directly affecting, or affected by work of the specific section.
@@ -66,19 +61,19 @@ tags: ['General', 'Requirements', 'Project', 'Management', 'Coordination']
 	1. Review conditions of installation, preparation and installation procedures.
 	2. Review coordination with related work.
    1. Construction Manager shall record minutes and distribute copies within five days after meeting to participants, with copies to CONTRACTOR, OWNER participants, and those affected by decisions made.
-   ## Product – NOT USED
+## Product – NOT USED
 
 
 ## Execution
 
-   1. EXAMINATION
+1. EXAMINATION
    1. Verify that existing site conditions and substrate surfaces are acceptable for subsequent Work. Beginning new Work means acceptance of existing conditions.
 2. Verify that existing substrate is capable of structural attachment of new Work being applied or attached.
 3. Examine and verify specific conditions described in individual specification sections.
 4. Verify that utility services are available, of the correct characteristics, and in the correct location.
-   1. PREPARATION
+1. PREPARATION
    1. Clean substrate surfaces prior to applying next material or substance.
 2. Seal cracks or openings of substrate prior to applying next material or substance.
 3. Apply any manufacturer required or recommended substrate primer, sealer, or conditioner prior to applying any new material or substance in contact or bond.
-1. END OF SECTION
+
 

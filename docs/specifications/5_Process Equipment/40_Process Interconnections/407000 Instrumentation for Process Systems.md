@@ -4,7 +4,7 @@ section: '407000'
 divNumb: 40
 divName: Process Interconnections
 subgroup: Process Equipment
-tags: ['Process', 'Equipment', 'Interconnections', 'Instrumentation', 'for', 'Systems']
+tags: ['Process', 'Equipment', 'Interconnections', 'Instrumentation', 'Systems']
 ---
 
    1. section 40 70 00
@@ -12,9 +12,7 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Instrumentation', 'for', 'Sy
 
 ## General
 
-
-* 
-	1. **Summary
+1. SUMMARY
    1. Work under this section shall include:
 	1. Flow components.
 	2. Pressure components.
@@ -24,7 +22,7 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Instrumentation', 'for', 'Sy
 	6. Instrument valves.
 2. Related Specification Sections include:
 	1. Section 40 50 00, Instrumentation for Process Control: Basic Requirements.
-	2. **Quality Assurance
+	2. Quality Assurance
 3. Work shall be per:
 	1. American National Standards Institute (ANSI).
 	2. American Society of Mechanical Engineers (ASME):
@@ -41,14 +39,14 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Instrumentation', 'for', 'Sy
 		1. 250, Enclosures for Electrical Equipment (1000 Volts Maximum).
 	5. US Department of Interior Bureau of Reclamation (USDIBR):
 		1. Water Measurement Manual.
-	6. **Submittals
+	6. Submittals
 4. See Specification Section 01 33 00 for requirements for the mechanics and administration of the submittal process.
 5. Shop drawings
 	1. Shop drawings shall include product technical data including:
 		1. Acknowledgement that products submitted meet requirements of the aforementioned standards. 
 		2. Manufacturer’s installation instructions.
 6. Operation and Maintenance Manuals.
-   ## Product
+## Product
 1. 2.1 Flow Components
    1. Magnetic Flow Meters:
 	1. Acceptable Manufacturers:
@@ -126,7 +124,7 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Instrumentation', 'for', 'Sy
 		3. Lower housing with flushing connection.
 		4. Fill fluid:
 			1. Utilize food safe fill for applications.
-				1. Ensure fill is suitable for application temperatures.
+			1. Ensure fill is suitable for application temperatures.
 		5. Process connections:
 			1. Instrument: 1/2 IN NPT.
 			2. Process: 0.5 IN female NPT.
@@ -198,7 +196,7 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Instrumentation', 'for', 'Sy
 			1. 0.1 gpm – 0.5 gpm
 		2. 0-30 psi operating pressure
 		3. Wall mounted interface
-	6. **Accessories
+	6. Accessories
 5. Furnish all mounting brackets, hardware and appurtenances required for mounting primary elements and transmitters.
 	1. Materials, unless otherwise specified, shall be as follows:
 		1. Bolts, nuts, washers, expansion anchors: 316 stainless steel.
@@ -222,10 +220,7 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Instrumentation', 'for', 'Sy
 ## Execution
 
 
-* 
-	1. **Installation
+	1. Installation
    1. Install products in accordance with manufacturer’s instruction.
 2. Install instrument mounting pipe stands level and plumb. 
-
-*[this page intentionally left blank]*
 

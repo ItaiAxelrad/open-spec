@@ -7,7 +7,7 @@ subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Utilities', 'Commissioning']
 ---
 
-   1. SECTION 33 08 00
+
 1. COMMISSIONING OF UTILITIES
 1. BASED ON DFD MASTER SPECIFICATION DATED 02/27/15
 1. *This section has been written to cover most (but not all) situations that you will encounter. Depending on the requirements of your specific project, you may have to add material, delete items, or modify what is currently written. The Division of Facilities Development expects changes and comments from you.*
@@ -57,8 +57,7 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Commissioning']
    1. Circle Yes or No for each commissioning form item. If the information requested for an item does not apply to the given stage of installation for the system, list it as “N/A”. Explain all discrepancies, negative responses or N/A responses in the negative responses section.
    1. Once the work is 100% complete and the responses to each item are complete and resolved for a given commissioning forms group, mark as complete, initial and date in the spaces provided.
    1. Provide copies of the commissioning forms to the commissioning agent 2 days prior to construction progress meetings. 
-1. *Edit the individual construction verification checklists and provide additional checklists as needed to reflect the verification requirements of assemblies, components, equipment and systems to be commissioned on this project.*** 
-1. *DO NOT INCLUDE ANY of the following*
+1. *Edit the individual construction verification checklists and provide additional checklists as needed to reflect the verification requirements of assemblies, components, equipment and systems to be commissioned on this project.**1. *DO NOT INCLUDE ANY of the following*
 1. *COMMISSIONING FORMS for PRELIMINARY review. Just edit the list in Part I above and only submit pages 33 08 00-1 through 33 08 00-2 with strikethroughs.*
 1. CV-33 07 00 – Utilities Insulation
 1. Equipment Identification/Tag:
@@ -253,7 +252,7 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Commissioning']
 3. Insulation installed with smooth and even surfaces, without the use of filler in voids.
 4. Butt joints and longitudinal seams closed tightly with a minimum of 2” lap on jacket seams and 2” tape on butt joints.
 5. Staples along seams and butt joints provided with vapor barrier mastic provided for staples on systems requiring vapor barrier.
-6. **F**ull-length material used as possible, with no scrap piecing or stretching of insulation utilized.
+6. F**ull-length material used as possible, with no scrap piecing or stretching of insulation utilized.
 7. Insulation continuous through sleeves and openings with vapor barriers continuous through all penetrations.
 8. Complete vapor barrier provided for all cold water make-up, chilled water, refrigerant, glycol/brine, and piping systems with surface temperatures below 65ºF.
 9. Exposed fiberglass insulation covered and sealed at all permanent terminations and at end of work day.
@@ -3255,8 +3254,7 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Commissioning']
 1. CV-33 50 00 – Fuel Distribution Utilities
 1. Equipment Identification/Tag:
       1. \_\_\_\_\_\_\_
-1. Location:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_** 
-1. A) PRE-INSTALLATION CHECKS
+1. Location:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_*1. A) PRE-INSTALLATION CHECKS
 1. Date
 1. Description of Work Performed
 1. %

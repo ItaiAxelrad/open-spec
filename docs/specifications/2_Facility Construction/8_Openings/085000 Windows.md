@@ -7,17 +7,12 @@ subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Openings', 'Windows']
 ---
 
-   1. Section 08 50 00
-   1. Windows
-
 ## General
 
-
-* 
-	1. **Summary
+1. SUMMARY
    1. Section Includes:
 	1. Aluminum windows.
-	2. **Quality Assurance
+	2. Quality Assurance
 2. Referenced Standards:
 	1. Aluminum Association (AA):
 		1. DAF 45, Designation System for Aluminum Finishes.
@@ -35,11 +30,11 @@ tags: ['Facility', 'Construction', 'Openings', 'Windows']
 		1. D1.2, Structural Welding Code - Aluminum.
 	5. International Energy Conservation Code (IECC), 2015 Edition.
 	6. National Fenestration Rating Council (NFRC).
-	7. **Definitions
+	7. Definitions
 3. Installer or Applicator:
 	1. Installer or applicator is the person actually installing or applying the product in the field at the Project site.
 	2. Installer and applicator are synonymous.
-	3. **Submittals
+	3. Submittals
 4. See Specification Section 01 33 00 for requirements for the mechanics and administration of the submittal process.
 5. Shop Drawings:
 	1. Product technical data for framing system and major accessories including:
@@ -55,13 +50,13 @@ tags: ['Facility', 'Construction', 'Openings', 'Windows']
 	1. Qualifications of testing laboratory.
 	2. Test results.
 	3. Warranty.
-	4. **Delivery, Storage, and Handling
+	4. Delivery, Storage, and Handling
 8. Store units in vertical position off ground with wood spacers between each unit.
-	1. **Warranty
+	1. Warranty
 9. Five (5) year warranty of weather-tightness of installation.
 	1. Air and water integrity and structural adequacy of units and hardware, including sealants and calking within and around perimeter of installation.
 	2. Signed jointly by fabricator, installer, and contractor.
-   ## Product
+## Product
 1. 2.1 Acceptable Manufacturers
    1. Match existing windows.
 2. Submit request for substitution in accordance with Specification Section 01 25 00.
@@ -80,11 +75,7 @@ tags: ['Facility', 'Construction', 'Openings', 'Windows']
 	2. Finish to match window frames.
 	3. Mill finish if concealed.
 1. 2.4 Fabrication
-
-## General
-
-
-:
+	 1. General:
 	1. Fully degrease and clean members prior to assembly or application of protective coatings.
 	2. Weld by methods recommended by manufacturer and 1 AWS D1.2 to avoid discoloration at welds.
 	3. Grind exposed welds smooth and restore finish.
@@ -184,7 +175,9 @@ tags: ['Facility', 'Construction', 'Openings', 'Windows']
 		3. Apply heat tape to exterior face to control surface temperature at 180°F 5 minutes before loading, as indicated by a thermocouple wire operated by an automatic controller.
 		4. Apply load to bearing plate centered on portion of glazing pocket to exterior side of thermal barrier, using a Universal Testing machine set in the 12,000 LB load range.
 		5. Test results: No loss of bond at 3900 LB load applied at strain rate of 0.05 IN/IN/MIN.
-   1. Execution
+
+## Execution
+
 1. 3.1 Installation
    1. Install products in accordance with manufacturer's instructions, IBC and IECC.
 2. Set units plumb, level, and true to line.
@@ -199,6 +192,4 @@ tags: ['Facility', 'Construction', 'Openings', 'Windows']
 10. See Specification Section 07 90 000 for sealants.
 1. 3.2 Field Quality Control
    1. Installation supervised or inspected by manufacturer's authorized representative.
-
-*[this page intentionally left blank]*
 

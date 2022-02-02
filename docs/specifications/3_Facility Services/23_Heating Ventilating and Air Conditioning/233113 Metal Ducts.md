@@ -7,12 +7,6 @@ subgroup: Facility Services
 tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 'Metal', 'Ducts']
 ---
 
-1. Copyright 2006 by The American Institute of Architects (AIA)
-1. Exclusively published and distributed by Architectural Computer Services, Inc. (ARCOM) for the AIA
-1. Revise this Section by deleting and inserting text to meet Project-specific requirements.
-1. This Section uses the term "Architect." Change this term to match that used to identify the design professional as defined in the General and Supplementary Conditions.
-1. Verify that Section titles referenced in this Section are correct for this Project's Specifications; Section titles may have changed.
-
 ## General
 
 1. RELATED DOCUMENTS
@@ -49,10 +43,7 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Airstream Surfaces:
       1. Surfaces in contact with the airstream shall comply with requirements in ASHRAE 62.1-2004.
 1. SUBMITTALS
-
-## General
-
-:
+	1. General:
       1. Submit the following in accordance with related sections of Division 23 Specifications.
    1. Product data including details of construction relative to materials, dimensions of individual components, profiles and finishes for the following items:
       1. Duct Liner.
@@ -99,8 +90,7 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Deliver and store stainless steel sheets with mill-applied adhesive protective paper maintained through fabrication and installation.
 1. Retain one of first two paragraphs below if welding is required. If retaining, also retain "Welding certificates" Paragraph in "Submittals" Article. Retain first paragraph if only one AWS standard is applicable. Retain second paragraph if more than one AWS standard is referenced.
 1. PRODUCTS
-1. MATERIALS** 
-   1. Sheet Metal Materials
+1. MATERIALS*   1. Sheet Metal Materials
    1. Sheet Metal, General:
       1. Provide sheet metal in thicknesses indicated, packaged and marked as specified in ASTM A700.
    1. Galvanized Sheet Steel:
@@ -110,10 +100,7 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Tie Rods:
       1. Galvanized steel, 1/4-inch minimum diameter for 36-inch length or less; 3/8-inch minimum diameter for lengths longer than 36 inches.
    1. Duct Liner
-
-## General
-
-:
+	1. General:
       1. Comply with NFPA 90A and TIMA AHC-101.
    1. Materials:
       1. ASTM C1071, Type II, with coated surface exposed to airstream to prevent erosion of glass fibers.
@@ -154,10 +141,7 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Where galvanized steel ducts are installed, provide hot-dipped-galvanized steel shapes and plates.
 1. FABRICATION
    1. Rectangular Duct Fabrication
-
-## General
-
-:
+	1. General:
       1. Except as otherwise indicated, fabricate rectangular ducts with galvanized sheet steel, in accordance with SMACNA "HVAC Duct Construction Standards," Tables 1-3 through 1-19, including their associated details. Conform to the requirements in the referenced standard for metal thickness, reinforcing types and intervals, tie rod applications, and joint types and intervals.
    1. Fabricate rectangular ducts in lengths appropriate to reinforcement and rigidity class required for pressure classification.
    1. Provide materials that are free from visual imperfections such as pitting, seam marks, roller marks, stains and discolorations.
@@ -249,7 +233,7 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Conduct tests, in the presence of the Engineer, at static pressures equal to the maximum design pressure of the system or the section being tested. If pressure classifications are not indicated, test entire system at the maximum system design pressure. Do not pressurize systems above the maximum design operating pressure. Give seven days advance notice for testing.
    1. Maximum Allowable Leakage:
       1. As described in ASHRAE 1989 Handbook, "Fundamentals" Volume, Chapter 32, Table 6 and Figure 10. Comply with requirements for leakage classification 3 for round and flat oval ducts, leakage classification 12 for rectangular ducts in pressure classifications less than and equal to 2 inches water gauge (both positive and negative pressures), and leakage classification 6 for pressure classifications greater than 2 inches water gauge and less than and equal to 10 inches water gauge.
-   1. NREL Technical Representative has the authority to require further duct sealing by the contractor if he determines there is excessive leakage. This determination may be based on noise, drafts, poor system performance, or other factors.
+   1. Owner Technical Representative has the authority to require further duct sealing by the contractor if he determines there is excessive leakage. This determination may be based on noise, drafts, poor system performance, or other factors.
    1. Remake leaking joints as required and apply sealants to achieve specified maximum allowable leakage.
    1. Leakage Test:
       1. Perform volumetric measurements and adjust air systems as described in ASHRAE 1987 "HVAC Systems and Applications" Volume, Chapter 57; ASHRAE 1989 "Fundamentals" Volume, Chapter 13; and Division 23 sections of the Specifications.
@@ -257,5 +241,4 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Adjust volume control devices as required by the testing and balancing procedures to achieve required airflow. See Division 22 sections of the Specifications for requirements and procedures for adjusting and balancing air systems.
 1. CLEANING
    1. Vacuum duct systems prior to final acceptance to remove dust and debris.
-1. END OF SECTION 233113
 

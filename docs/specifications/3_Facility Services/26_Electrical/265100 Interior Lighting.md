@@ -6,20 +6,11 @@ divName: Electrical
 subgroup: Facility Services
 tags: ['Facility', 'Services', 'Electrical', 'Interior', 'Lighting']
 ---
-
-1. Copyright 2003 and 2005 by The American Institute of Architects (AIA)
-1. Exclusively published and distributed by Architectural Computer Services, Inc. (ARCOM) for the AIA
-1. This Section uses the term "Architect." Change this term to match that used to identify the design professional as defined in the General and Supplementary Conditions.
-1. Verify that Section titles referenced in this Section are correct for this Project's Specifications; Section titles may have changed.
-1. If applying for LEED certification, LEED-NC Prerequisite EA 2 requires compliance with ASHRAE/IESNA 90.1-2004. ASHRAE/IESNA 90.1-2004, Section 9, "Lighting," sets minimum interior and exterior lighting power densities and minimum requirements for lighting controls. The selection of the lamp and ballast as a system is an important design decision to optimize energy efficiency of the lighting system.
-1. A reduction in lighting energy usage can be combined with other energy-conserving measures to meet the requirements of LEED-NC Credit EA 1.
-1. LEED-NC Credit SS 8 requires that the angle of the maximum candela of any of the interior light fixtures not spill through any of the building's transparent and translucent surfaces to the exterior areas, and that all interior, nonemergency lights be automatically turned off after-hours with manual override capabilities for after-hours use. Credit SS 8 also sets requirements for exterior lighting. See Division 26 Section "Exterior Lighting."
-
 ## General
 
-   1. RELATED DOCUMENTS
+1. RELATED DOCUMENTS
    1. Drawings and general provisions of the Contract, including General and Supplementary Conditions and Division 1 Specification Sections, apply to this Section.
-   1. SUMMARY
+1. SUMMARY
    1. This Section includes complete and satisfactorily operating lighting systems, of type and ratings specified and indicated, including lamps, ballasts, and accessories. 
    1. The specifications augment and elaborate on the lighting fixture schedule, notes and other details on the drawings.
    1. DEFINITIONS
@@ -69,7 +60,7 @@ tags: ['Facility', 'Services', 'Electrical', 'Interior', 'Lighting']
    1. 1572 - High-Intensity-Discharge Lighting Fixtures. 
    1. 1574 - Track Lighting Systems. 
    1. Retain abbreviations that remain after this Section has been edited.
-   1. SUBMITTALS
+1. SUBMITTALS
 
 ## General
 
@@ -128,7 +119,7 @@ tags: ['Facility', 'Services', 'Electrical', 'Interior', 'Lighting']
    1. Occupancy sensors.
    1. Access panels.
    1. Perimeter moldings and soffits.
-   1. QUALITY ASSURANCE
+1. QUALITY ASSURANCE
    1. Manufacturer Qualifications:
       1. Firm regularly engaged in the manufacture of lighting fixtures of sizes, types and ratings specified, and whose products have been in satisfactory use in similar service for not less than five years. 
    1. Electrical Components, Devices, and Accessories:
@@ -136,7 +127,7 @@ tags: ['Facility', 'Services', 'Electrical', 'Interior', 'Lighting']
    1. Luminaire Photometric Data Testing Laboratory Qualifications:
       1. Provided by an independent agency, with the experience and capability to conduct the testing indicated, that is an NRTL as defined by OSHA in 29 CFR 1910.7.
    1. Retain one or both of first two paragraphs below to specify qualifications for laboratories providing photometric data to be submitted for lighting fixtures.
-   1. WARRANTY
+1. WARRANTY
    1. Special Warranty for Emergency Lighting Batteries:
       1. Manufacturer's standard form in which manufacturer of battery-powered emergency lighting unit agrees to repair or replace components of rechargeable batteries that fail in materials or workmanship within specified warranty period.
    1. Warranty Period for Emergency Lighting Unit Batteries:
@@ -267,8 +258,7 @@ tags: ['Facility', 'Services', 'Electrical', 'Interior', 'Lighting']
       1. PL series
    1. OSRAM SYLVANIA INC.:
       1. Dulux series
-1. FLUORESCENT LAMP BALLASTS** 
-
+1. FLUORESCENT LAMP BALLASTS*
 ## General
 
 
@@ -387,7 +377,7 @@ tags: ['Facility', 'Services', 'Electrical', 'Interior', 'Lighting']
    1. Provide high power factor, pulse-start for available wattages; otherwise lead-peak auto type.
 1. Edit this Article with other Part 2 articles or with Interior Lighting Fixture Schedule on Drawings in which manufacturers and products are named. See Division 01 Section "Product Requirements" for an explanation of the terms "Available Manufacturers," "Manufacturers," and "Basis-of-Design Product" and the effect these terms have on "Comparable Product" and "Product Substitution" requirements.
 1. EXECUTION
-   1. INSTALLATION
+1. INSTALLATION
 
 ## General
 
@@ -445,5 +435,4 @@ tags: ['Facility', 'Services', 'Electrical', 'Interior', 'Lighting']
    1. Adjust the lamp socket position in downlight lighting fixtures per the manufacturer's recommendations for the specified lamp type and voltage. Optimize the lighting output of the lighting fixture by properly locating the light center within the reflector.
    1. Upon final completion of the installation of the lighting fixtures and any associated lighting control systems, notify the Contracting Officer in writing to arrange for the final adjustment and aiming of lighting equipment requiring aiming and adjustment.
    1. In cooperation with the Contracting Officer, aim and adjust lighting equipment after dark. Provide all necessary experienced labor, tools, and equipment. Provide sufficient sessions for aiming and adjusting until all lighting fixtures and systems are properly aimed and adjusted to achieve the desired lighting effects to the Contracting Officer’s satisfaction.
-1. END OF SECTION 265100
 

@@ -4,36 +4,25 @@ section: '260529'
 divNumb: 26
 divName: Electrical
 subgroup: Facility Services
-tags: ['Facility', 'Services', 'Electrical', 'Hangers', 'Supports', 'for', 'Elec', 'Syst']
+tags: ['Facility', 'Services', 'Electrical', 'Hangers', 'Supports', 'Elec', 'Syst']
 ---
-
-1. Copyright 2004 and 2005 by The American Institute of Architects (AIA)
-1. Exclusively published and distributed by Architectural Computer Services, Inc. (ARCOM) for the AIA
-1. Verify that Section titles referenced in this Section are correct for this Project's Specifications; Section titles may have changed.
 
 ## General
 
 1. RELATED DOCUMENTS
    1. Drawings and general provisions of the Contract, including General and Supplementary Conditions and Division 1 Specification Sections, apply to this Section.
-1. SUMMARY** 
-   1. This Section includes:
+1. SUMMARY*   1. This Section includes:
       1. 
    1. Provide supports, anchors, sleeves, concrete equipment pads, seals and other related supporting devices and methods as specified and indicated. 
    1. Refer to related Division 26, 27 and 28 Specification sections of the Specifications for specific and supplemental supporting device requirements. 
-1. SUBMITTALS** 
-
-## General
-
-:
+1. SUBMITTALS*	1. General:
       1. Submit specific details for supporting electrical equipment with the appropriate electrical equipment submittal. 
    1. Product Data:
       1. Submit manufacturer's technical product data on supporting devices specified and indicated. 
-1. QUALITY ASSURANCE** 
-   1. Manufacturer Qualifications 
+1. QUALITY ASSURANCE*   1. Manufacturer Qualifications 
    1. Firms regularly engaged in the manufacture of supporting devices, of types, sizes, and ratings required, whose products have been in satisfactory use in similar service for not less than 3 years. 
 1. PRODUCTS
-1. MANUFACTURED SUPPORTING DEVICES** 
-   1. U-channel Strut Systems:
+1. MANUFACTURED SUPPORTING DEVICES*   1. U-channel Strut Systems:
       1. 
    1. Manufacturers
    1. Cooper B-Line, Inc. 
@@ -125,5 +114,4 @@ tags: ['Facility', 'Services', 'Electrical', 'Hangers', 'Supports', 'for', 'Elec
       1. Comply with requirements in related Division 9 Sections of the Specifications for cleaning and touchup painting of field welds, bolted connections, and abraded areas of shop paint on miscellaneous metal.
    1. Galvanized Surfaces:
       1. Clean welds, bolted connections, and abraded areas and apply galvanizing-repair paint to comply with ASTM A 780.
-1. END OF SECTION 260529
 

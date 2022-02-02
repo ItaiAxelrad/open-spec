@@ -8,12 +8,11 @@ tags: ['Process', 'Equipment', 'Water', 'Wastewater', 'Differential', 'Head', 'C
 ---
 
    1. 46 43 16 Differential Head Clarifier Equipment
-   1. SECTION 446320 - FINAL CLARIFIER EQUIPMENT
+
 
 ## General
 
 
-* 
 	1. RELATED DOCUMENTS
 		1. Drawings, General and Special Provisions of the Contract, and Division 01 Specification Sections apply to this Section.
 	2. SUMMARY
@@ -53,7 +52,6 @@ tags: ['Process', 'Equipment', 'Water', 'Wastewater', 'Differential', 'Head', 'C
 		1. Special Warranty: The manufacturer shall warrant that the work described here shall be free from defects in workmanship and material for a period of one (1) year from the date of acceptance. Any faulty workmanship or defective material furnished that is found within the warranty period shall be corrected without cost to the Owner.
    1. Product
 
-* 
 	1. MANUFACTURERS
 		1. The equipment under this Section and the equipment under Section 446200 – Verticel Equipment shall be supplied by the same manufacturer as a complete system to satisfy the Process Performance Warranty described in paragraph 1.2.D of Section 446200. Subject to compliance with requirements, manufacturers offering products that may be incorporated into the Work include the following:
 			1. Siemens Water Technologies, Waukesha, WI
@@ -64,16 +62,16 @@ tags: ['Process', 'Equipment', 'Water', 'Wastewater', 'Differential', 'Head', 'C
 
 
 			1. Furnish and deliver suction type sludge collectors for installation in three (3) new concrete settling tanks.
-				1. Tank diameter to be 130 feet.
-				2. Tank side water depth at maximum water elevation to be 16 feet.
-				3. Floor slope to be 1/16-inch per foot.
+			1. Tank diameter to be 130 feet.
+			2. Tank side water depth at maximum water elevation to be 16 feet.
+			3. Floor slope to be 1/16-inch per foot.
 			2. Sludge Collector Mechanism
-				1. Provide a center pier supported, siphon feed design with peripheral overflow.
-				2. Provide a center drive mechanism that supports and rotates a structural steel cage to which attached are two (2) truss arms and a Unitube sludge collection header and manifold.
-				3. The header shall be parallel to the tank floor and have a series of inlet orifices such that the entire tank bottom is swept clean in a single revolution.
-				4. The header shall be designed to uniformly remove sludge in proportion to the area swept with the removal of a larger volume of sludge at greater distances from the tank center.
-				5. Sludge shall be transported through the header to the center manifold, with removal being accomplished by pumping.
-				6. Fabricated steel structures shall be shipped in the largest sub-assemblies permitted by carrier regulations, properly matchmarked and identified for ease of field erection.
+			1. Provide a center pier supported, siphon feed design with peripheral overflow.
+			2. Provide a center drive mechanism that supports and rotates a structural steel cage to which attached are two (2) truss arms and a Unitube sludge collection header and manifold.
+			3. The header shall be parallel to the tank floor and have a series of inlet orifices such that the entire tank bottom is swept clean in a single revolution.
+			4. The header shall be designed to uniformly remove sludge in proportion to the area swept with the removal of a larger volume of sludge at greater distances from the tank center.
+			5. Sludge shall be transported through the header to the center manifold, with removal being accomplished by pumping.
+			6. Fabricated steel structures shall be shipped in the largest sub-assemblies permitted by carrier regulations, properly matchmarked and identified for ease of field erection.
 		2. Design Criteria
 			1. Hydraulics shall be designed (per clarifier) to handle:
       1. MIN.
@@ -96,9 +94,6 @@ tags: ['Process', 'Equipment', 'Water', 'Wastewater', 'Differential', 'Head', 'C
 0.
 3.
 
-* 
-	+ 
-		- 
 			1. Maximum headloss for header 1.30 ft.  4.0MGD peak return flow
 			2. Minimum flow velocity in header 0.50 fps
 			3. Minimum header orifice diameter 2.0 inches
@@ -107,11 +102,11 @@ tags: ['Process', 'Equipment', 'Water', 'Wastewater', 'Differential', 'Head', 'C
 			6. Influent well size 31'-2" diameter x 6'-0" depth
 			7. Effluent trough dimensions 3'-3" wide x 3'-3" deep
 			8. Drive
-				1. Internal gear pitch diameter 55-inch.
-				2. Ball race diameter 59-inch.
-				3. Motor horsepower 0.50 HP.
-				4. AGMA rated torque 33,300 ft. lbs. with 1.25 service factor
-				5. Speed 0.025 RPM.
+			1. Internal gear pitch diameter 55-inch.
+			2. Ball race diameter 59-inch.
+			3. Motor horsepower 0.50 HP.
+			4. AGMA rated torque 33,300 ft. lbs. with 1.25 service factor
+			5. Speed 0.025 RPM.
 		1. Structural Members
 			1. Structural steel to conform to ASTM A36.
 			2. Structural steel components shall have minimum thickness of 1/4".
@@ -124,34 +119,34 @@ tags: ['Process', 'Equipment', 'Water', 'Wastewater', 'Differential', 'Head', 'C
 ## General
 
 
-				1. Drive mechanism consisting of primary helical gear reduction, intermediate worm gear reduction unit and enclosed final reduction unit consisting of internal spur gear and pinion in a turntable base is to be completely assembled and finish painted in the Manufacturer’s shop.
-				2. All gearing shall be enclosed in gray cast iron ASTM A-48 Class 40B housings. Fabricated steel housings, exposed gearing and submerged bearings will not be acceptable.
-				3. The drive shall be designed to allow removal and replacement of internal gear, balls and strip liners without raising the walkway.
-				4. All components of the drive mechanism shall be designed in accordance with AGMA Standard 6034-B92 (February 1992) “Practice for Enclosed Cylindrical Worm Gear Speed Reducers and Gearmotors”, and Standard 2001-C95 (January, 1995) “Fundamental Rating Factors and Calculation Methods for Involute Spur and Helical Gear Teeth”; for 24-hour continuous, uniform load duty and 20-year design gear life at the specified output speed. The AGMA rated torque of the drive shall be the lowest value computed for worm gear set, spur gear and pinion for strength and durability.
-				5. Select conservative values for bending strength and pitting resistance life factors Kl and Cl based on a minimum of 420,000 cycles of the main gear. The drive AGMA torque rating shall be as specified above with a minimum 1.25 service factor.
-				6. All bearings shall be designed for a minimum B-10 life of 200,000 hours.
+			1. Drive mechanism consisting of primary helical gear reduction, intermediate worm gear reduction unit and enclosed final reduction unit consisting of internal spur gear and pinion in a turntable base is to be completely assembled and finish painted in the Manufacturer’s shop.
+			2. All gearing shall be enclosed in gray cast iron ASTM A-48 Class 40B housings. Fabricated steel housings, exposed gearing and submerged bearings will not be acceptable.
+			3. The drive shall be designed to allow removal and replacement of internal gear, balls and strip liners without raising the walkway.
+			4. All components of the drive mechanism shall be designed in accordance with AGMA Standard 6034-B92 (February 1992) “Practice for Enclosed Cylindrical Worm Gear Speed Reducers and Gearmotors”, and Standard 2001-C95 (January, 1995) “Fundamental Rating Factors and Calculation Methods for Involute Spur and Helical Gear Teeth”; for 24-hour continuous, uniform load duty and 20-year design gear life at the specified output speed. The AGMA rated torque of the drive shall be the lowest value computed for worm gear set, spur gear and pinion for strength and durability.
+			5. Select conservative values for bending strength and pitting resistance life factors Kl and Cl based on a minimum of 420,000 cycles of the main gear. The drive AGMA torque rating shall be as specified above with a minimum 1.25 service factor.
+			6. All bearings shall be designed for a minimum B-10 life of 200,000 hours.
 			2. Primary Reduction Unit
-				1. Provide commercially available helical gear reducer or gearmotor in a cast housing.
-				2. All bearings shall be anti-friction type running in oil.
-				3. Motor shall be totally enclosed, ball bearing type, of ample power for starting and continuously operating the drive mechanism without overloading.
-				4. Motor to conform to NEMA standards and be suitable for operation on 230/460 volt, 3 phase, 60 Hertz current.
-				5. Primary reduction unit shall drive the intermediate reduction through a chain and sprocket arrangement with #80L self-lubricating chain and non-corrosive OSHA approved removable chain guard.
-				6. Provide proper chain tension by an adjustable steel base mounted on the intermediate reduction unit.
+			1. Provide commercially available helical gear reducer or gearmotor in a cast housing.
+			2. All bearings shall be anti-friction type running in oil.
+			3. Motor shall be totally enclosed, ball bearing type, of ample power for starting and continuously operating the drive mechanism without overloading.
+			4. Motor to conform to NEMA standards and be suitable for operation on 230/460 volt, 3 phase, 60 Hertz current.
+			5. Primary reduction unit shall drive the intermediate reduction through a chain and sprocket arrangement with #80L self-lubricating chain and non-corrosive OSHA approved removable chain guard.
+			6. Provide proper chain tension by an adjustable steel base mounted on the intermediate reduction unit.
 			3. Intermediate Reduction Unit
-				1. Provide worm gear speed reduction with grease and oil lubricated anti-friction type bearings in cast iron housing securely bolted on the machined top face of the final reduction unit. Worm and shaft shall be a two-piece assembly for ease of maintenance. Cycloidal and planetary gearing will not be acceptable.
-				2. Align and maintain accurate centers with the final reduction gearing. Swivel base mounting of the intermediate unit will not be acceptable.
-				3. Mount an electro-mechanical overload device on the thrust end of the worm shaft consisting of plate spring assembly, plunger, indicator dial two (2) microswitches (one N.O. and one N.C.) and a terminal block, all enclosed in a weather tight, gray cast iron housing. Amperage metering devices will not be considered equal to the overload device specified.
-				4. Microswitches shall be factory set to: (1) sound an alarm when the load on the mechanism reaches 100% of the AGMA torque; and (2) stop the motor when the load reaches 120% of the AGMA torque.
-				5. Provide a shear pin device, set for 130% of the AGMA torque mounted on the drive end of the worm shaft.
+			1. Provide worm gear speed reduction with grease and oil lubricated anti-friction type bearings in cast iron housing securely bolted on the machined top face of the final reduction unit. Worm and shaft shall be a two-piece assembly for ease of maintenance. Cycloidal and planetary gearing will not be acceptable.
+			2. Align and maintain accurate centers with the final reduction gearing. Swivel base mounting of the intermediate unit will not be acceptable.
+			3. Mount an electro-mechanical overload device on the thrust end of the worm shaft consisting of plate spring assembly, plunger, indicator dial two (2) microswitches (one N.O. and one N.C.) and a terminal block, all enclosed in a weather tight, gray cast iron housing. Amperage metering devices will not be considered equal to the overload device specified.
+			4. Microswitches shall be factory set to: (1) sound an alarm when the load on the mechanism reaches 100% of the AGMA torque; and (2) stop the motor when the load reaches 120% of the AGMA torque.
+			5. Provide a shear pin device, set for 130% of the AGMA torque mounted on the drive end of the worm shaft.
 			4. Final Reduction
-				1. Provide internal, full depth involute tooth design, ductile iron spur gear driven by a heat-treated steel pinion from the slow speed shaft of the intermediate reduction unit. Stub tooth design will not be acceptable.
-				2. Provide bearings at top and bottom of pinion to ensure complete tooth contact between mating surfaces. Pinion and pinion shaft shall be furnished as a two-piece assembly for ease of maintenance.
-				3. Provide cast iron turntable base with annular raceway to contain balls upon which the internal gear rotates. The ball race shall ensure low unit ball load, long life and stability without the use of submerged guide shoes, bumpers or steady bearings.
-				4. Provide four (4) 3/8-inch thick x 3/4-inch wide renewable special hardened (38-42 Rockwell C) steel liner strips force fitted (pins and cap screws not permitted) into the turntable base and internal gear for balls to bear on vertically and horizontally.
-				5. Provide an internal gear of split design with precision mating surfaces for ease of removal of gear, balls and liner strips without raising bridge.
-				6. Internal gear, pinion and balls to run in an oil bath and be protected by a felt seal and vertical steel dust shield.
-				7. Provide oil filling and level pipe along with a drain plug and sight gauge.
-				8. Turntable base shall be bolted to the center column and be designed to support the bridge, internal gear and rotating mechanism.
+			1. Provide internal, full depth involute tooth design, ductile iron spur gear driven by a heat-treated steel pinion from the slow speed shaft of the intermediate reduction unit. Stub tooth design will not be acceptable.
+			2. Provide bearings at top and bottom of pinion to ensure complete tooth contact between mating surfaces. Pinion and pinion shaft shall be furnished as a two-piece assembly for ease of maintenance.
+			3. Provide cast iron turntable base with annular raceway to contain balls upon which the internal gear rotates. The ball race shall ensure low unit ball load, long life and stability without the use of submerged guide shoes, bumpers or steady bearings.
+			4. Provide four (4) 3/8-inch thick x 3/4-inch wide renewable special hardened (38-42 Rockwell C) steel liner strips force fitted (pins and cap screws not permitted) into the turntable base and internal gear for balls to bear on vertically and horizontally.
+			5. Provide an internal gear of split design with precision mating surfaces for ease of removal of gear, balls and liner strips without raising bridge.
+			6. Internal gear, pinion and balls to run in an oil bath and be protected by a felt seal and vertical steel dust shield.
+			7. Provide oil filling and level pipe along with a drain plug and sight gauge.
+			8. Turntable base shall be bolted to the center column and be designed to support the bridge, internal gear and rotating mechanism.
 		3. Flocculation Baffles
 			1. Provide inlet baffles to promote effective mixing and tapered flocculation.
 			2. Flow shall impinge three (3) overlapping vertical target baffles in secession with a series of four (4) increasing port areas.
@@ -216,22 +211,23 @@ tags: ['Process', 'Equipment', 'Water', 'Wastewater', 'Differential', 'Head', 'C
 		12. Control Panel
 			1. Each clarifier shall be provided with a local control panel constructed per the requirements of Section 409513 Control Panels for an outdoor, wet/process location with mounting hardware suitable for mounting the panel from the bridge structural steel. Panels shall be mounted so as to be near the drive mechanisms, fully accessible from the bridge, but mounted so as not to interfere with access to the drive mechanisms.
 			2. Control panels shall have the following devices:
-				1. A “Hand-Off-Auto” switch for the clarifier drive motor
-				2. Run indicating light
-				3. Fault indicating light with integral reset pushbutton
-				4. Clarifier drive motor torque warning indicator light
-				5. Clarifier drive motor torque fault indicator light
-				6. The clarifier drive motor torque fault switch shall have a latching relay. The drive motor can only be restarted after an over torque shutdown by manual reset.
+			1. A “Hand-Off-Auto” switch for the clarifier drive motor
+			2. Run indicating light
+			3. Fault indicating light with integral reset pushbutton
+			4. Clarifier drive motor torque warning indicator light
+			5. Clarifier drive motor torque fault indicator light
+			6. The clarifier drive motor torque fault switch shall have a latching relay. The drive motor can only be restarted after an over torque shutdown by manual reset.
 			3. Controls shall be capable of local (manual) operation or remote operation through the VCR PLC.
 			4. Controls shall provide status outputs for: torque warning, torque fault, and Auto / Manual (Hand) condition.
 			5. Modes of Operation
-				1. In “Auto” the clarifier drive motor will be started and stopped by commands from the VCR PLC.
-				2. In “Off ” the clarifier drive motor will stop and remain stopped regardless of any remote signal input.
-				3. In “Hand” the clarifier drive motor will run and continue to run regardless of any remote signal input except that over torque protection will function with the unit in “Hand”.
-				4. An over torque condition will stop the clarifier drive motor and produce an alarm.
-   1. Execution
+			1. In “Auto” the clarifier drive motor will be started and stopped by commands from the VCR PLC.
+			2. In “Off ” the clarifier drive motor will stop and remain stopped regardless of any remote signal input.
+			3. In “Hand” the clarifier drive motor will run and continue to run regardless of any remote signal input except that over torque protection will function with the unit in “Hand”.
+			4. An over torque condition will stop the clarifier drive motor and produce an alarm.
 
-* 
+## Execution
+
+
 	1. INSTALLATION
 		1. Equipment shall be installed in accordance with the Manufacturer’s recommendations to provide a complete installation.
 		2. The Contractor shall plumb, adjust for true plane of rotation, grout beneath center pier, manifold seal plate and drive unit and grout the floor in accordance with the Manufacturer’s recommendations.
@@ -249,5 +245,4 @@ tags: ['Process', 'Equipment', 'Water', 'Wastewater', 'Differential', 'Head', 'C
 		2. Operating Instructions and/or Operator Training
 			1. Provide for one (1) four (4) hour working period total to instruct plant Operators for the equipment supplied. The training period will be integrated by the Owner with overall training.
 			2. An additional one (1) trip not less than one-half day shall be provided for operation assistance of the equipment supplied.
-   1. END OF SECTION 446320
-
+   

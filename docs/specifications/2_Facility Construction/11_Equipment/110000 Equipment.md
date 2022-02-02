@@ -10,5 +10,3 @@ tags: ['Facility', 'Construction', 'Equipment']
    1. Division 11
    1. Equipment
 
-*[this page intentionally left blank]*
-

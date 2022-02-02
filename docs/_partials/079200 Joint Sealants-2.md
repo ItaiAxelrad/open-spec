@@ -10,7 +10,7 @@ tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Joint',
 
 ## General
 
-   1. SUMMARY
+1. SUMMARY
    1. Section Includes
    1. Work is to include the sealing of all penetrations and attachments to provide air and water tight integrity, where specified, and the juncture of materials to seal for finishes and overall appearance.
    1. Related Sections
@@ -18,9 +18,11 @@ tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Joint',
    1. Section 081113 – Hollow Metal Doors and Frames
    1. Section 088000 - Glazing
    1. Section 099100 - Painting
-   1. SUBMITTALS
+1. SUBMITTALS
    1. Submit manufacturer's catalog data, performance information and published certification data indicating compliance with the specifications.
-   1. PRODUCTS
+
+## Products
+
    1. MATERIALS
    1. Joint Fillers and Gaskets
    1. Materials to be exactly as recommended by sealant manufacturer as to type of material, size, location for use and any other requirements.
@@ -43,7 +45,9 @@ tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Joint',
    1. Use for all interior joints to be painted.
    1. Colors
    1. Colors as shown or selected by Owner; or if none shown or selected, manufacturers highest-performance color.
-   1. EXECUTION
+
+## Execution
+
    1. ERECTION INSTALLATION APPLICATION
    1. Caulk (seal) all joints as indicated on Drawings.
    1. Caulk all joints not indicated, as necessary to weatherproof enclosed spaces.
@@ -54,5 +58,5 @@ tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Joint',
    1. Finish joints as recommended by sealant manufacturer.
    1. Consult with Owner and sealant manufacturer in the event of conflicting recommendations.
    1. Use only experienced applicators for all of sealant systems.
-1. END OF SECTION
+
 

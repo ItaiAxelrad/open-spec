@@ -10,14 +10,14 @@ tags: ['General', 'Requirements', 'Operation', 'Maintenance', 'Data']
 
 ## General
 
-   1. SUMMARY
+1. SUMMARY
    1. Section Includes
    1. Compile product data and related information appropriate for Owner's maintenance and operation of products furnished under the contract.
    1. Prepare operating and maintenance data as specified in this section and as referenced in other pertinent sections.
    1. Related Sections
    1. Section 013300 - Submittals, Shop Drawings, Product Data and Samples
    1. Section 017800 - Project Record Documents
-   1. SUBMITTALS
+1. SUBMITTALS
    1. Form of Submittals
    1. Prepare in the form of an instructional manual for use by Owner's personnel.
    1. Format shall be 8-1/2" X 11".
@@ -55,7 +55,11 @@ tags: ['General', 'Requirements', 'Operation', 'Maintenance', 'Data']
    1. Submittal Schedule
    1. Submit two copies of preliminary draft of proposed formats and completed data fifteen days prior to final inspection or acceptance. Owner shall review and return one copy with comments.
    1. Submit three compact disc copies of approved data in final form fifteen days after final inspection.
-   1. PRODUCTS (NOT USED)
-   1. EXECUTION (NOT USED)
-1. END OF SECTION
+
+## Products
+ (NOT USED)
+
+## Execution
+ (NOT USED)
+
 

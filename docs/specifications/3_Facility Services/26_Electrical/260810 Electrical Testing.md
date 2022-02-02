@@ -7,10 +7,6 @@ subgroup: Facility Services
 tags: ['Facility', 'Services', 'Electrical', 'Testing']
 ---
 
-1. Copyright 2003 and 2005 by The American Institute of Architects (AIA)
-1. Exclusively published and distributed by Architectural Computer Services, Inc. (ARCOM) for the AIA
-1. Verify that Section titles referenced in this Section are correct for this Project's Specifications; Section titles may have changed.
-
 ## General
 
 1. RELATED DOCUMENTS
@@ -459,5 +455,4 @@ tags: ['Facility', 'Services', 'Electrical', 'Testing']
    1. Simulation of process parameters shall be considered only upon receipt of a written request by the Contractor.
    1. Motor current tabulation report shall reflect the values occurring during commissioning.
    1. The indications of all switchboard ammeters and kilowatt meters shall be recorded every half-hour during commissioning.
-1. END OF SECTION 260810
 

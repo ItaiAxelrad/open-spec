@@ -10,7 +10,7 @@ tags: ['General', 'Requirements', 'Project', 'Record', 'Documents']
 
 ## General
 
-   1. SUMMARY
+1. SUMMARY
    1. Section Includes
    1. Maintain at the site for the Owner one record copy of all drawings, specifications, addenda, change orders and other modifications to the contract, approved shop drawings, product data and samples. Also include all field test records, installation instructions, operating and maintenance data and warranties and bonds.
    1. Recording
@@ -24,14 +24,18 @@ tags: ['General', 'Requirements', 'Project', 'Record', 'Documents']
    1. Related Sections
    1. Section 01300 - Shop Drawings
    1. Section 01730 - Operating and Maintenance Data
-   1. SUBMITTALS
+1. SUBMITTALS
    1. At Contract closeout, deliver Record Documents to Owners Representative for the Owner with electronic copies of final mark-ups of specifications and drawings.
    1. Accompany submittal with transmittal letter in duplicate, containing the date, project title and number, Contractors name and address, title and number of each Record Document and the signature of Contractor or his authorized representative.
    1. MAINTENANCE
    1. Store documents and samples in Contractor's field office apart from documents used for construction. Provide files and racks for storage of documents. Provide locked cabinet or secure storage space for storage of samples.
    1. Maintain documents in a clean, dry, legible condition and in good order. Do not use record documents for construction purposes.
    1. Make documents and samples available at all times for inspection by Owners Representative.
-   1. PRODUCTS (NOT USED)
-   1. EXECUTION (NOT USED)
-1. END OF SECTION
+
+## Products
+ (NOT USED)
+
+## Execution
+ (NOT USED)
+
 

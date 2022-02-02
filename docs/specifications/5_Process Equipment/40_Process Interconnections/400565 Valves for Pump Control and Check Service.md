@@ -4,7 +4,7 @@ section: '400565'
 divNumb: 40
 divName: Process Interconnections
 subgroup: Process Equipment
-tags: ['Process', 'Equipment', 'Interconnections', 'Valves', 'for', 'Pump', 'Control', 'Check', 'Service']
+tags: ['Process', 'Equipment', 'Interconnections', 'Valves', 'Pump', 'Control', 'Check', 'Service']
 ---
 
    1. section 40 05 65
@@ -12,15 +12,13 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Valves', 'for', 'Pump', 'Con
 
 ## General
 
-
-* 
-	1. **Summary
+1. SUMMARY
    1. Work under this section shall include:
       1. 
 	1. Check valves.
 2. Related Specification Sections include:
 	1. Section 40 05 51, Valves: Basic Requirements.
-	2. **Quality Assurance
+	2. Quality Assurance
 3. Work shall be per:
 	1. American Society of Mechanical Engineers (ASME):
 		1. B16.1, Gray Iron Pipe Flanges and Flanged Fittings: Classes 25, 125, and 250.
@@ -29,18 +27,14 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Valves', 'for', 'Pump', 'Con
 	3. Manufacturers Standardization Society of the Valve and Fittings Industry Inc. (MSS):
 		1. SP-71, Cast Iron Swing Check Valves, Flanged and Threaded Ends.
 		2. SP-80, Bronze Gate, Globe, Angle and Check Valves.
-	4. **Submittals
+	4. Submittals
 4. See Specification Section 01 33 00 for requirements for the mechanics and administration of the submittal process.
 5. See Specification Section 40 05 51 for additional submittal requirements.
 6. Operation and Maintenance Manuals.
-   ## Product
+## Product
 1. 2.1 Check Valves:
       1. 
-
-## General
-
-
-:
+	 1. General:
 	1. Comply with AWWA C508.
 	2. Acceptable Manufacturers:
 		1. Clow.

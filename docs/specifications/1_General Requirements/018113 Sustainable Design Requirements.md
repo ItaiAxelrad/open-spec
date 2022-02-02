@@ -55,7 +55,7 @@ Create spaces that are healthy for occupants:
    1. Contractor to validate required recycled content and local/regional availability within 500 mile radius of project.
    1. Utilize attached recycle content worksheet to identify materials noted above. See 018113A, Appendix A Materials Anticipated to be Used for Recycle Content.
    1. Refer to attached LEED rating system matrix for project requirements. See 018113B, Appendix B LEED Matrix.
-1. END OF SECTION
+
    1. The utilization of building materials with recycled content will be maximized in the construction of this project. The requirements established by Executive Order 13101, with regard to building construction materials will be met or exceeded. A listing of the materials anticipated to be of recycled content is provided below. The materials listed below, not indicating recycled content require the contractor to provide and list as much recycled content as feasible and the contractor may list additional materials to be considered/utilized with the recycled content and local/regional availability in the chart below to validate required recycled content and local/regional availability within 500 miles of project site.
    1. Specification
    1. Recycle Content
@@ -70,5 +70,4 @@ Create spaces that are healthy for occupants:
    1. Division 9
    1. Division 10
    1. Division 11
-1. END OF SECTIONTHIS PAGE INTENTIONALLY BLANK
 

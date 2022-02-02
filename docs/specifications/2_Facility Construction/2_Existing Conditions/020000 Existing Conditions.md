@@ -9,6 +9,3 @@ tags: ['Facility', 'Construction', 'Existing', 'Conditions']
 
    1. Division 02
    1. Existing Conditions
-
-*[this page intentionally left blank]*
-

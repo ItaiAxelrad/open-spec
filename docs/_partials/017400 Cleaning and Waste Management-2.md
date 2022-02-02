@@ -10,21 +10,25 @@ tags: ['General', 'Requirements', 'Cleaning', 'Waste', 'Management']
 
 ## General
 
-   1. SUMMARY
+1. SUMMARY
    1. Section Includes
    1. Throughout the construction period, maintain the buildings and site in a standard of cleanliness as described in this Section.
    1. Each phase of Work shall be subject to these requirements prior to Owner acceptance.
    1. Related Sections
    1. Documents affecting work of this Section include, but are not necessarily limited to, General Conditions, Supplementary conditions, and Sections in Division 1 of these Specifications.
    1. In addition to standards described in this Section, comply with requirements for cleaning as described in pertinent other Sections of these Specifications.
-   1. QUALITY ASSURANCE
+1. QUALITY ASSURANCE
    1. Conduct daily inspection, and more often if necessary, to verify that requirements for cleanliness are being met.
    1. In addition to these standards described in this Section, comply with pertinent requirements of governmental agencies having jurisdiction.
-   1. PRODUCTS
+
+## Products
+
    1. MATERIALS
    1. Provide required personnel, equipment, and materials needed to maintain the specified standards of cleanliness.
    1. Use only the cleaning materials and equipment which are compatible with the surface being cleaned, as recommended by the manufacturer of the material.
-   1. EXECUTION
+
+## Execution
+
    1. CLEANING
    1. Progress Cleaning
 
@@ -71,5 +75,4 @@ tags: ['General', 'Requirements', 'Cleaning', 'Waste', 'Management']
    1. Schedule final cleaning as approved by the Owner to enable the Owner to accept a completely clean Work Area.
    1. Cleaning During Owner's Occupancy
    1. Should the Owner occupy the Work Area or any portion thereof prior to its completion by the Contractor and acceptance by the Owner, responsibilities for interim and final cleaning shall be as determined by the Owner in accordance with the General Conditions of the Contract.
-1. END OF SECTIONTHIS PAGE INTENTIONALLY BLANK
 

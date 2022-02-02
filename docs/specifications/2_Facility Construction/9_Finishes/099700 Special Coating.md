@@ -7,7 +7,7 @@ subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Finishes', 'Special', 'Coating']
 ---
 
-   1. SECTION 099700 – SPECIAL COATING 
+
 ## General
 
 1. RELATED DOCUMENTS
@@ -34,10 +34,7 @@ Sections, apply to this Section.
 5. Labels:
       1. Do not paint over Underwriters Laboratories (UL), Factory Mutual (FM), or other code-required labels or equipment name, identification, performance rating, or nomenclature plates.
 3. DEFINITIONS
-
-## General
-
-:
+	1. General:
       1. Standard coating terms defined in ASTM D 16 apply to this Section.
 1. Flat refers to a lusterless or matte finish with a gloss range below 15 when measured at an
    1. 85-degree meter.
@@ -83,10 +80,7 @@ or at temperatures less than 5 deg F (3 deg C) above the dew point; or to damp o
 1. Painting may continue during inclement weather if surfaces and areas to be painted are enclosed and heated within temperature limits specified by manufacturer during application and drying periods.
    1. Product
 1. MANUFACTURERS
-
-## General
-
-:
+	1. General:
       1. Materials specified are those that have been evaluated for the specific service.
 
 ## Product
@@ -111,10 +105,7 @@ s of the paint manufacturers are listed in the paint schedules at the end of thi
       1. Review other Sections in which primers are provided to ensure compatibility of the total system for various substrates. On request, furnish information on characteristics of finish materials to ensure use of compatible primers.
 1. Notify the Engineer about anticipated problems using the materials specified over substrates primed by others.
 2. PREPARATION
-
-## General
-
-:
+	1. General:
       1. Remove hardware and hardware accessories, plates, machined surfaces, lighting fixtures, and similar items already installed that are not to be painted. If removal is impractical or impossible because of the size or weight of the item, provide surface-applied protection before surface preparation and painting.
 1. After completing painting operations in each space or area, reinstall items removed using workers skilled in the trades involved.
    1. Cleaning:
@@ -142,10 +133,7 @@ s of the paint manufacturers are listed in the paint schedules at the end of thi
       1. Suitable industrial type vacuum cleaners shall be provided and used to remove all residual sand and dust from all surfaces after sandblasting and prior to coating. All coated surfaces shall be cleaned before subsequent coats are applied. Particular attention shall be given to removal of sand and dust from welds, lids and edges of structural shapes and other crevices where sand may be trapped.
    1. Special Coatings Ventilation:
       1. Adequate ventilation shall be maintained by the Contractor at all times inside the tank during and following sandblasting and painting. Ventilation should have sufficient capacity to maintain a clean atmosphere within the tank during both sandblasting and coating operations. In addition, ventilation shall be maintained at least 24 hours after each day’s painting and during the entire period in which the coating is curing prior to being filled, this will prevent entrapment of solvent in the painted surface. Adequate lighting shall be provided for all blasting and coating operations inside the tank. Floodlighting shall be sufficient to light the entire working area without shadow areas. Only vapor tight lighting shall be used.
-
-## General
-
-:
+	1. General:
       1. Apply paint according to manufacturer's written instructions. Use applicators and techniques best suited for substrate and type of material being applied. All paint shall be free from cracks, blisters, crazing and other defects.
 1. Paint colors, surface treatments, and finishes are indicated in the schedules.
 2. Do not paint over dirt, rust, scale, grease, moisture, scuffed surfaces, or conditions detrimental to formation of a durable paint film.
@@ -384,5 +372,4 @@ taken using a dry film thickness gauge. Readings shall be taken uniformly over a
 1) First Coat: Hi-Build Tneme-Tar (8-10 mils DFT)
    1. 2) Second Coat:
       1. Hi-Build Tneme-Tar (8-10 mils DFT)
-   1. END OF SECTION 099700
-
+   

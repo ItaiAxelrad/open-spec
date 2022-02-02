@@ -121,5 +121,5 @@ tags: ['Procurement', 'Contracting', 'Requirements', 'Supplementary', 'Condition
 1. The Application for Payment with Engineer’s recommendations will be presented to the Owner and Agency for consideration. If both the Owner and Agency find the Application for Payment acceptable, the recommended amount less any reduction under the provisions of Paragraph 14.02.D will become due ten days after the Application for Payment is presented to the Owner, and the Owner will make payment to the Contractor.
    1. SC-18.08 Delete paragraph 18.08.A in its entirety and insert the following in its place:
       1. If this Contract exceeds $100,000, the Contractor shall comply with all applicable standards, orders, or requirements issued under Section 306 of the Clean Air Act (42 USC §1857(h)), Section 508 of the Clean Water Act (33 USC §1368), Executive Order 11738, and Environmental Protection Agency regulations (40 CFR Part 15).
-1. END OF SECTION
+
 

@@ -7,12 +7,12 @@ subgroup: General Requirements
 tags: ['General', 'Requirements', 'Traffic', 'Control']
 ---
 
-1. SECTION 01570
+
    1. TRAFFIC CONTROLS
 
 ## General
 
-01. SECTION INCLUDES
+
    1. Traffic plan and controls.
    1. Pedestrian and patron controls.
    1. Construction operations under traffic.
@@ -36,7 +36,9 @@ tags: ['General', 'Requirements', 'Traffic', 'Control']
       1. Specification for Sound Level Meters.
 PART 2 – MATERIALS
    1. Any materials used shall conform to the Traffic Control Plans. 
-   1. Execution
+
+## Execution
+
 1. 3.01 PEDESTRIAN AND PATRON CONTROLS
    1. Pedestrian Handling Plan
 1. The contractor shall prepare a pedestrian handling plan for the Work to reflect any changes in pedestrian and patron paths including the accessible path. The accessible path shall be as determined by the City in accordance with the requirements of California Building Code and the Americans with Disabilities Act and Architectural Barriers Act Accessibility Guidelines. The pedestrian handling plan shall include drawing(s) showing proposed pedestrian handling devices including temporary signage and way finding signs. The contractor shall submit the plan for review and approval by the City Engineer. Where the plan affects public right-of-way controlled by other jurisdictions, the contractor shall also apply to the jurisdictional agency for approval and obtain the necessary permits. All pedestrian handling devices and signage shall be in compliance with the accessibility requirements of the California Building Code and the Americans with Disabilities Act and Architectural Barriers Act Accessibility Guidelines. 
@@ -153,5 +155,5 @@ PART 2 – MATERIALS
    1. All egress from the site shall be maintained in a dry condition, and any mud tracked onto streets, sidewalks, or driveways shall be immediately removed, and the affected area shall be cleaned. The City Engineer may order such work at any time the conditions warrant. 
    1. Where trucks will leave a muddy site and enter paved public streets, the Contractor shall maintain a suitable truck wheel-washing facility and crew. All trucks, or other vehicles leaving the site, shall be cleaned of mud and dirt, including mud and dirt clinging to exterior body surfaces of vehicles. 
 1. All trucks coming to the jobsite or leaving the jobsite with materials or loose debris shall be loaded in a manner that will prevent dropping of materials or debris on streets. Spillage resulting from hauling operations along or across any public traveled way shall be removed immediately.
-1. END OF SECTION
+
 

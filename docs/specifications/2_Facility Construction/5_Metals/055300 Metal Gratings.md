@@ -6,15 +6,9 @@ divName: Metals
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Metals', 'Metal', 'Gratings']
 ---
-
-   1. SECTION 05 53 00
-   1. METAL GRATINGS
-
 ## General
 
-
-* 
-	1. RELATED DOCUMENTS
+1. RELATED DOCUMENTS
    1. Drawings, General and Special Provisions of the Contract, and Division 01 Specification
 Sections apply to this Section.
 2. SUMMARY
@@ -60,10 +54,7 @@ products that may be incorporated into the Work include, but are not limited to,
          1. ASTM B 221, Alloy 6061-T6 or 6063-T6; Alloy 6061-T1,
    1. for grating crossbars.
 3. FASTENERS
-
-## General
-
-:
+	1. General:
       1. Provide Type 304 stainless-steel fasteners.
 4. MISCELLANEOUS MATERIALS
    1. Bituminous Paint:
@@ -99,7 +90,9 @@ welded construction to sizes, shapes, and profiles indicated and as necessary to
 2. Equip units indicated to be cast into concrete with integrally welded anchors. Unless
    1. otherwise indicated, space anchors 24 inches o.c. and provide minimum anchor units in
    1. the form of aluminum straps 1 inch wide by 1/4 inch thick by 5 inches long.
-   1. Execution
+
+## Execution
+
 1. INSTALLATION, GENERAL
    1. Perform cutting, drilling, and fitting required for installing gratings. Set units accurately in
 location, alignment, and elevation; measured from established lines and levels and free of rack.

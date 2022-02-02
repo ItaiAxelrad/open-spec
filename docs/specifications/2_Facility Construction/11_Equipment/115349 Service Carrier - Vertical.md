@@ -10,7 +10,7 @@ tags: ['Facility', 'Construction', 'Equipment', 'Service', 'Carrier', 'Vertical'
 
 ## General
 
-   1. SUMMARY
+1. SUMMARY
    1. Section Includes:
       1. Vertical Service Carriers
    1. Related sections:
@@ -33,11 +33,11 @@ tags: ['Facility', 'Construction', 'Equipment', 'Service', 'Carrier', 'Vertical'
    1. Vertical structural components are self-supporting, but tied to the building structure.
    1. Carrier type support structures with service fittings, teledata fixtures, HVAC exhaust ductwork and supply lines using commercially available pipe clamps.
    1. Access doors can be removed without the use of tools.
-   1. SUBMITTALS
+1. SUBMITTALS
    1. Comply with Pertinent Provisions of Section 013300
    1. Shop Drawings:
       1. Provide 3/4"=1'-0" scale elevations of all components, cross sections, rough-in and anchor placements, tolerances and clearances. Provide 1/4"= 1'-0" rough-in plan drawings for coordination with trades. Rough-in shall show free area.
-   1. QUALITY ASSURANCE
+1. QUALITY ASSURANCE
    1. Single source responsibility:
       1. Laboratory furniture system, casework, work surfaces, laboratory equipment, chemical fume hoods and accessories shall be manufactured or furnished by a single laboratory furniture company.
    1. Manufacturer's qualifications:
@@ -53,11 +53,13 @@ tags: ['Facility', 'Construction', 'Equipment', 'Service', 'Carrier', 'Vertical'
    1. DELIVERY, STORAGE AND HANDLING
    1. Schedule delivery of laboratory furniture system so that spaces are sufficiently complete that material can be installed immediately following delivery.
    1. Protect finished surfaces from soiling or damage during handling and installation.
-   1. PROJECT CONDITIONS
+1. PROJECT CONDITIONS
    1. Do not deliver or install equipment until the following conditions have been met:
       1. Ceiling, overhead ductwork and lighting are installed.
    1. All painting is completed and floor tile is installed.
-   1. PRODUCTS
+
+## Products
+
    1. MANUFACTURER
    1. Design, materials, construction and finish of the Vertical Service Carrier specified is the minimum acceptable standard of quality for adaptable laboratory casework.
    1. CARRIER BODIES
@@ -97,17 +99,19 @@ tags: ['Facility', 'Construction', 'Equipment', 'Service', 'Carrier', 'Vertical'
       1.2 mil average.
    1. Cabinet Surface Finish Tests:
       1. All casework construction and performance characteristics shall be in full compliance with SEFA 8 standards.
-   1. EXECUTION
-   1. INSTALLATION
+
+## Execution
+
+1. INSTALLATION
    1. Carrier system installation:
       1. Install system in strict accordance with manufacturer's instructions.
    1. Set system components plumb, square, and straight with no distortion and securely anchored to building structure.
    1. ADJUSTING
-   1. Repair or remove and replace defective work, as directed by NREL upon completion of installation.
+   1. Repair or remove and replace defective work, as directed by Owner upon completion of installation.
    1. CLEANING
    1. Clean shop finished laboratory furniture system surfaces and touch up as required.
    1. PROTECTION OF FINISHED WORK
    1. Provide all necessary protective measures to prevent exposure of laboratory furniture system and attached components to other construction activity.
    1. Advise contractor of procedures and precautions for protection of material, installed laboratory furniture system, casework and fixtures from damage by work of other trades.
-1. END OF SECTION
+
 

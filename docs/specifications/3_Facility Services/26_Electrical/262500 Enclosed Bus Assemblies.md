@@ -7,10 +7,6 @@ subgroup: Facility Services
 tags: ['Facility', 'Services', 'Electrical', 'Enclosed', 'Bus', 'Assemblies']
 ---
 
-1. Copyright 2004 and 2005 by The American Institute of Architects (AIA)
-1. Exclusively published and distributed by Architectural Computer Services, Inc. (ARCOM) for the AIA
-1. Verify that Section titles referenced in this Section are correct for this Project's Specifications; Section titles may have changed.
-
 ## General
 
 1. RELATED DOCUMENTS
@@ -26,7 +22,7 @@ tags: ['Facility', 'Services', 'Electrical', 'Enclosed', 'Bus', 'Assemblies']
    1. Underwriters Laboratories Inc. (UL) 
    1. 98 - Enclosed and Dead-Front Switches. 
    1. 857 - Busways and Associated Fittings. 
-   1. SUBMITTALS 
+1. SUBMITTALS 
    1. Product Data 
    1. Submit manufacturer's technical product data for each type of busway provided. 
    1. Provide product data on fittings and plug-in units. 
@@ -34,7 +30,9 @@ tags: ['Facility', 'Services', 'Electrical', 'Enclosed', 'Bus', 'Assemblies']
       1. Submit dimensioned drawings of busways including plan layouts, elevations, and supporting system details. Provide details of wall and floor penetrations. 
    1. Quality Control Submittals:
       1. Submit results of specified field tests. 
-   1. PRODUCTS
+
+## Products
+
    1. FEEDER AND PLUG-IN BUSWAY (225A TO 5000A) 
    1. Manufacturers 
    1. Cutler-Hammer 
@@ -74,8 +72,10 @@ tags: ['Facility', 'Services', 'Electrical', 'Enclosed', 'Bus', 'Assemblies']
    1. Provide plug-in unit enclosure which makes positive ground connection to the busway housing before contact with bus bars is made. 
    1. Fittings and Accessories 
    1. Provide end closures, end cable top boxes, center cable top boxes, hangers, and other accessories for a complete system and as recommended by the busway system manufacturers. 
-   1. PRODUCTS
-   1. INSTALLATION 
+
+## Products
+
+1. INSTALLATION 
 
 ## General
 
@@ -112,5 +112,4 @@ tags: ['Facility', 'Services', 'Electrical', 'Enclosed', 'Bus', 'Assemblies']
    1. Use an infrared-scanning device designed to measure temperature or detect significant deviations from normal values. Provide documentation of device calibration.
    1. Perform 2 follow-up infrared scans of bus assembly, one at 4 months and the other at 11 months after Substantial Completion.
    1. Prepare a certified report identifying bus assembly checked and describing results of scanning. Include notation of deficiencies detected, remedial action taken, and scanning observations after remedial action.
-1. END OF SECTION 262500
 

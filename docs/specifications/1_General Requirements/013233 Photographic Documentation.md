@@ -7,7 +7,7 @@ subgroup: General Requirements
 tags: ['General', 'Requirements', 'Photographic', 'Documentation']
 ---
 
-   1. SECTION 01 32 33
+
    1. PHOTOGRAPHIC DOCUMENTATION
 
 ## General
@@ -45,14 +45,13 @@ Sections apply to this Section.
 1. PHOTOGRAPHIC MEDIA
    1. Digital Images:
       1. Provide images in JPG format, with minimum size of 8 megapixels.
-   1. Execution
+
+## Execution
+
 1. CONSTRUCTION PHOTOGRAPHS
    1. Photographer:
       1. Engage a qualified photographer to take construction photographs.
-
-## General
-
-:
+	1. General:
       1. Take photographs using the maximum range of depth of field, and that are in focus, to clearly show the Work. Photographs with blurry or out-of-focus areas will not be accepted.
    1. Digital Images:
       1. Submit digital images exactly as originally recorded in the digital camera, without alteration, manipulation, editing, or modifications using image-editing software.

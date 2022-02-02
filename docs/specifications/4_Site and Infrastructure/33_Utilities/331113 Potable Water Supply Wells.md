@@ -7,18 +7,11 @@ subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Utilities', 'Potable', 'Water', 'Supply', 'Wells']
 ---
 
-1. Copyright 2010 by The American Institute of Architects (AIA)
-1. Exclusively published and distributed by Architectural Computer Services, Inc. (ARCOM) for the AIA
-1. SECTION 33 21 00
-1. WATER SUPPLY WELLS
-   1. This Section uses the term "Architect." Change this term to match that used to identify the design professional as defined in the General and Supplementary Conditions.
-   1. Verify that Section titles referenced in this Section are correct for this Project's Specifications; Section titles may have changed.
-
 ## General
 
-   1. RELATED DOCUMENTS
+1. RELATED DOCUMENTS
    1. Drawings and general provisions of the Contract, including General and Supplementary Conditions and Division 01 Specification Sections, apply to this Section.
-   1. SUMMARY
+1. SUMMARY
    1. This Section includes the following:
       1. Adjust list below to suit Project.
 
@@ -95,7 +88,7 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Potable', 'Water', 'Supply', 'Wel
    1. CLOSEOUT SUBMITTALS
    1. Operation and Maintenance Data:
       1. For each well pump to include in emergency, operation, and maintenance manuals.
-   1. QUALITY ASSURANCE
+1. QUALITY ASSURANCE
    1. Retain paragraph below if required; delete if not available at Project location.
    1. Well Driller Qualifications:
       1. An experienced water supply well driller licensed in the jurisdiction where Project is located.
@@ -105,7 +98,7 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Potable', 'Water', 'Supply', 'Wel
    1. Electrical Components, Devices, and Accessories:
       1. Listed and labeled as defined in NFPA 70, Article 100, by a testing agency acceptable to authorities having jurisdiction, and marked for intended use.
    1. Comply with AWWA A100 for water supply wells.
-   1. PROJECT CONDITIONS
+1. PROJECT CONDITIONS
    1. Retain paragraph and subparagraphs below if interruption of existing water service is required. Coordinate with requirements specified in Section 015000 "Temporary Facilities and Controls" for temporary utilities.
    1. Interruption of Existing Water Service:
       1. Do not interrupt water service to facilities occupied by Owner or others unless permitted under the following conditions and then only after arranging to provide temporary water service according to requirements indicated:
@@ -114,7 +107,7 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Potable', 'Water', 'Supply', 'Wel
    1. Retain paragraph below if required. Verify with Owner that water for drilling will be available to Contractor; determine if Owner will charge Contractor for use of well drilling water.
    1. Well Drilling Water:
       1. [**Owner will provide**] [**Provide**] temporary water and piping for drilling purposes. Provide necessary piping for water supply.
-   1. WARRANTY
+1. WARRANTY
    1. For complete details, please refer to our *Standard Terms and Conditions* and *Warranty* *and* *Limitations of Liability* at:
       1. http://www.apollovalves.com/\_docs/Terms\_and\_Warranty.pdf.
    1. Manufacturer's Special Warranty on Domestic Products:
@@ -122,7 +115,9 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Potable', 'Water', 'Supply', 'Wel
    1. Manufacturer's Special Warranty on International Products:
       1. products will be free of defects in workmanship or material for a period of two years. Manufacturer will correct such defects by suitable repair or replacement at Manufacturer's discretion.
    1. Manufacturer's Warranty on fittings products will be free of defects in workmanship for a period of three (3) years from date of installation. The manufacturers liability under expressed or implied warranty or for any reason is limited to furnishing replacement units or granting a credit for defective units. No labor expense or consequential damages will be paid by LASCO Fittings, Inc.
-   1. PRODUCTS
+
+## Products
+
    1. WELL CASINGS
    1. Select one of first three paragraphs below. Authorities having jurisdiction may require or allow other materials.
    1. Steel Casing:
@@ -374,14 +369,16 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Potable', 'Water', 'Supply', 'Wel
       1. Minimum size as indicated. If not indicated, large enough so driven load will not require motor to operate in service factor range above 1.0.
    1. Controllers, Electrical Devices, and Wiring:
       1. Electrical devices and connections are specified in electrical Sections.
-   1. EXECUTION
-   1. PREPARATION
+
+## Execution
+
+1. PREPARATION
    1. Retain one of two paragraphs in this Article. Retain first if data are available from Owner; retain second if data are available from neighborhood wells.
    1. Pilot-Hole Data:
       1. Review pilot-hole test analysis furnished by Owner.
    1. Neighborhood Well Data:
       1. Review operating and test analyses.
-   1. INSTALLATION
+1. INSTALLATION
    1. Retain well construction method in first paragraph below that matches previous selections.
    1. Construct well using [**cable-tool**] [**rotary drilling**] [**reverse-rotary drilling**] [**driven**] method.
    1. Take samples of substrata formation at 10-foot (3-m) intervals and at changes in formation throughout entire depth of each water supply well. Carefully preserve samples on-site in glass jars properly labeled for identification.
@@ -481,5 +478,4 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Potable', 'Water', 'Supply', 'Wel
    1. Provide casings, seals, sterilizing agents, and other materials to eliminate contamination; shut off contaminated water.
    1. Exercise care to prevent breakdown or collapse of strata overlaying that from which water is to be drawn.
    1. Protect water supply wells to prevent tampering and introducing foreign matter. Retain temporary well cap until installation is complete.
-   1. END OF SECTION 332100
-
+   

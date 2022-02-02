@@ -7,7 +7,7 @@ subgroup: Facility Services
 tags: ['Facility', 'Services', 'Electrical', 'EXTERIOR', 'LIGHTING']
 ---
 
-1. SECTION 26 56 00
+
 1. EXTERIOR LIGHTING
 
 ## General
@@ -170,10 +170,7 @@ Architectural and Metal Products" for recommendations for applying and designati
 1. Relay with locking-type receptacle shall comply with NEMA C136.10.
 2. Adjustable window slide for adjusting on-off set points.
 4. LED LUMINAIRES
-
-## General
-
-:
+	1. General:
       1. Except as otherwise indicated, provide LED luminaires, of types and sizes indicated on fixture schedules.
    1. Material and specifications for each luminaire are as follows:
       1. Each luminaire shall consist of an assembly that utilizes LEDs as the light source. In addition, a complete luminaire shall consist of a housing, LED array, and electronic driver (power supply).
@@ -377,9 +374,9 @@ s" for recommendations for applying and designating finishes.
 6. Lens:
       1. glass**.
 7. IESNA Lateral Distribution Class:
-      1. **IV**.
+      1. IV**.
 8. IESNA Cutoff Category:
-      1. **Cutoff**.
+      1. Cutoff**.
 9. If retaining first subparagraph below, coordinate with Drawings to indicate area to be shielded.
 10. See Editing Instruction No. 8 in the Evaluations for discussion of ballast factor. Driver
    1. Power Factor:

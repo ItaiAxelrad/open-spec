@@ -7,10 +7,9 @@ subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Aggregate', 'Base', 'Courses']
 ---
 
-
 ## General
 
-   1. SUMMARY
+1. SUMMARY
    1. Section Includes
    1. This Section includes aggregate base course.
    1. Soil and portland cement base course plant mix.
@@ -31,16 +30,18 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Aggregate', 'Base'
    1. D560 - Test Methods for Freezing and Thawing Compacted Soil-Cement Mixtures.
    1. D1556 - Test Method for Density and Unit Weight of Soil in Place by the Sand-Cone Method.
    1. D1633 - Test Method for Compressive Strength of Molded Soil-Cement Cylinders.
-   1. QUALITY ASSURANCE
+1. QUALITY ASSURANCE
    1. Contractor's Qualifications
    1. Submit a list of projects, including locations, total area covered and dates, he has constructed a cement-treated base course during the past 3 years and a list of available equipment.
    1. DELIVERY, STORAGE, AND HANDLING
    1. Deliver materials, except bulk materials, in their original unopened containers, bearing label clearly identifying manufacturer's name, brand name, grade or type, and other pertinent information.
    1. Store materials in dry storage facilities until ready for use.
-   1. PROJECT CONDITIONS
+1. PROJECT CONDITIONS
    1. Place the cement treated base course mixture only when the temperature in the shade is 4 degrees C (40 degrees F) or more.
-   1. PRODUCTS
-   1. MATERIALS
+
+## Products
+
+1. MATERIALS
    1. Aggregate shall conform to CDOT Section 703.03, Class 1.
    1. Aggregate shall be furnished and placed in conformance with CDOT Section 304.
    1. Portland Cement
@@ -57,10 +58,10 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Aggregate', 'Base'
    1. Sand, stone screenings, chips or other suitable material passing a 4.75-mm (No. 4) sieve.
    1. Lean Concrete
    1. A mixture of portland cement, fine aggregate and coarse aggregate, with a minimum compressive strength of 10.3 MPa (1500 psi) at 28 days.
-   1. EQUIPMENT
+1. EQUIPMENT
    1. Maintain all equipment, tools, and machines used in the performance of the Work required by this Section in a satisfactory working condition at all times.
    1. Equipment shall conform to applicable CDOT requirements and be subject to the approval of the Owner.
-   1. COMPOSITION OF MIXTURE
+1. COMPOSITION OF MIXTURE
    1. Testing
    1. Testing laboratory will take representative soil samples and test for strength of soil-cement mixture at Owner's expense.
    1. Moisture Content
@@ -72,8 +73,10 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Aggregate', 'Base'
    1. Compressive Strength
    1. Minimum unconfined compressive strength:
       1. 2070 kPa (300 psi) after curing for 7 days in a moist room.
-   1. EXECUTION
-   1. PREPARATION
+
+## Execution
+
+1. PREPARATION
    1. Protection
    1. Protect the Work and adjacent construction against damage during progress of the Work.
    1. Stockpiles
@@ -89,7 +92,7 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Aggregate', 'Base'
    1. Engineer will inspect for adequate compaction and surface tolerances.
    1. Grade Control
    1. Establish and maintain by means of grade stakes placed in lanes parallel to the centerline of the area to be paved and spaced so string lines may be stretched between stakes.
-   1. ERECTION INSTALLATION APPLICATION
+1. ERECTION INSTALLATION APPLICATION
    1. Processing Aggregate
    1. Spread aggregate uniformly over the area to be surfaced at a rate of 300 pounds per square yard.
    1. Process aggregate in accordance with CDOT Section 300.
@@ -97,7 +100,7 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Aggregate', 'Base'
    1. Spread additional aggregate uniformly over the processed surface area at rate of 300 pounds per square yard, conforming to requirements of CDOT Section 304.
    1. Maintenance
    1. Maintain finished surface course in a condition satisfactory to the Owner until final acceptance.
-   1. CONSTRUCTION METHODS - GENERAL
+1. CONSTRUCTION METHODS - GENERAL
    1. Cement-Treated Base Course
    1. Uniformly mix, moisten, compact, finish, and cure the soil and portland cement as specified, conforming to the lines, grades, thickness and cross-section indicated.
    1. Equipment
@@ -147,5 +150,5 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Aggregate', 'Base'
    1. Maintain complete base course and protect from damage until application of paving. Provide and maintain immediate repair of any defective or damaged portions of the base course. Make repairs or replacement with lean concrete.
    1. Do not allow traffic other than essential construction equipment related to paving on the completed base course before application of paving. After completion of base course, allow at least 5 days to elapse before construction of paving.
    1. Remove and replace completed base course which has been placed over unstable base course or has been damaged by traffic or climatic conditions.
-   1. END OF SECTION
+   
 

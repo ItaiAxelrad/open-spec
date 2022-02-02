@@ -27,8 +27,7 @@ tags: ['Procurement', 'Contracting', 'Requirements', 'Exhibit', 'J']
    1. Description of Modifications
    1. Attachment 1, “Modifications”
 
-*[List other Attachments, if any]* 
-   1. Owner and Engineer hereby agree to modify the above-referenced Agreement as set forth in this Amendment. All provisions of the Agreement not modified by this or previous Amendments remain in effect. The Effective Date of this Amendment is .
+*[List other Attachments, if any]   1. Owner and Engineer hereby agree to modify the above-referenced Agreement as set forth in this Amendment. All provisions of the Agreement not modified by this or previous Amendments remain in effect. The Effective Date of this Amendment is .
    1. OWNER:
       1. ENGINEER:
             1. By:

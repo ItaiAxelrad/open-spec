@@ -13,13 +13,11 @@ tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Sto
 
 ## General
 
-
-* 
-	1. **Summary
+1. SUMMARY
    1. Section Includes:
 	1. Backwash to waste submersible pumps.
 	2. Backwash recycle submersible pumps.
-	3. **Quality Assurance
+	3. Quality Assurance
 2. All pump manufacturers must be pre-qualified by the engineer in order to qualify as acceptable manufacturers. Prequalification shall be no later than two (2) weeks prior to published bid date for this project. Failure to pre-qualify will be grounds for disqualification after the bid opening date. All decisions of qualification shall reside with the engineer of record at time of bidding.
 	1. Submittals
 3. See Specification Section 01 33 00 for requirements for the mechanics and administration of the submittal process.
@@ -28,7 +26,7 @@ tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Sto
 	2. Annotated materials of construction.
 	3. Dimensional drawings.
 	4. Manufacturer's installation instructions.
-   ## Product
+## Product
 1. 2.1 Acceptable Manufacturers
    1. Backwash to waste pump:
 	1. Goulds Water Technology or equal
@@ -41,8 +39,7 @@ tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Sto
 2. Backwash recycle pump:
 	1. WS\_D3 Series Model 3888D3 or equal
 		1. Order Number: WS1534D3
-1. 2.3 General** 
-   1. Pump Design
+1. 2.3 General*   1. Pump Design
 	1. Pump(s) shall have 3 inch ANSI discharge flange.
 	2. Backwash to waste pump should be capable of pumping 40 gpm at 19 ft (water) of head.
 	3. Backwash recycle pump should be capable of pumping 60 gpm at 32 ft (water) of head.

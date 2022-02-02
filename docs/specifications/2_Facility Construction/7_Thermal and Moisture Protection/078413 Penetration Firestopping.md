@@ -7,9 +7,6 @@ subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Penetration', 'Firestopping']
 ---
 
-   1. SECTION 07 84 13
-   1. PENETRATION FIRESTOPPING
-
 ## General
 
 1. RELATED DOCUMENTS
@@ -21,10 +18,7 @@ Specification
  fire- resistance-rated constructions, including both empty openings and openings containing 
    1. penetrating items.
 3. PERFORMANCE REQUIREMENTS
-
-## General
-
-:
+	1. General:
       1. For penetrations through fire-resistance-rated constructions, including both 
 empty openings and openings containing penetrating items, provide through-penetration firestop 
    1. systems that are produced and installed to resist spread of fire according to requirements 
@@ -218,7 +212,9 @@ of grade indicated below:
    1. For those products requiring mixing before application, comply with 
 through-penetration firestop system manufacturer's written instructions for accurate proportioning 
    1. of materials, water (if required), type of mixing equipment, selection of mixer speeds, mixing containers, mixing time, and other items or procedures needed to produce products of uniform quality with optimum performance characteristics for application indicated.
-   1. Execution
+
+## Execution
+
 1. EXAMINATION
    1. Examine substrates and conditions, with Installer present, for compliance with requirements 
 for opening configurations, penetrating items, substrates, and other conditions 
@@ -246,10 +242,7 @@ from contacting adjoining surfaces that will remain exposed on completion of Wor
    1. smears from firestop system materials. Remove tape as soon as possible without disturbing firestop 
    1. system's seal with substrates.
 3. THROUGH-PENETRATION FIRESTOP SYSTEM INSTALLATION
-
-## General
-
-:
+	1. General:
       1. Install through-penetration firestop systems to comply with Part 1 
 "Performance Requirements" Article and with firestop system manufacturer's written installation 
    1. instructions and published drawings for products and applications indicated.

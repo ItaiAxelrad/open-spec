@@ -12,21 +12,19 @@ tags: ['General', 'Requirements', 'Schedule', 'Values']
 
 ## General
 
-
-* 
-	1. **Summary
+1. SUMMARY
    1. Section Includes:
 	1. Administrative and procedural requirements for:
 		1. Schedule of Values.
-	2. **Quality Assurance
+	2. Quality Assurance
 2. Referenced Standards:
 	1. Building Code:
 		1. International Code Council (ICC):
 			1. International Building Code and associated standards, 2015 Edition including all amendments, referred to herein as Building Code.
-	2. **Definitions
+	2. Definitions
 3. Schedule of Values:
       1. A Schedule prepared and maintained by the Contractor, allocating portions of the Contract Price to various portions of the Work and used as a basis for reviewing the Contractor’s Applications for Payment. 
-	1. **Submittals
+	1. Submittals
 4. Preliminary Schedule of Values:
 	1. Within ten (10) days after Notice to Proceed, submit preliminary Schedule of Values including:
 		1. Quantities.
@@ -46,7 +44,7 @@ tags: ['General', 'Requirements', 'Schedule', 'Values']
 		10. Total value of HVAC work.
 		11. Total value of all other work not indicated above.
 5. Following receipt of the preliminary schedule, Owner, Engineer, and Contractor will meet within ten (10) days to review the schedule and make any adjustments as needed. 
-	1. **Schedule of Values
+	1. Schedule of Values
 6. Within thirty (30) days after Notice to Proceed, submit a final Schedule of Values.
 7. Where a Contract is awarded on a lump sum basis, the Contractor shall file with the Engineer a balanced price segregation of the lump sum bid into items similar to the various subdivisions of the general and detailed specifications, the sum of which shall equal the lump sum bid.
 	1. The cost of various materials shall be furnished upon request of the Engineer, and such data will then be used as a basis for making progress estimates.
@@ -58,7 +56,7 @@ tags: ['General', 'Requirements', 'Schedule', 'Values']
 	2. Consent of Surety: If Contractor and Engineer cannot mutually agree on a Schedule of Values, Engineer will approve a Schedule of Values approved by the Surety providing the Performance Bond.
 9. Contractor's costs shall not govern the allocation of values when application of Contractor's costs to a component part of the Work results in any other component part or combination of component parts being under-valued in relation to conventional estimating guides.
 10. The final Schedule of Values shall be agreed upon prior to first Application for Payment.
-   ## Product (not applicable to this specfication section)
+## Product (not applicable to this specfication section)
 
 
 ## Execution

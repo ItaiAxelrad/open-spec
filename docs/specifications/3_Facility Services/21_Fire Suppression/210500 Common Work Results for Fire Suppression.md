@@ -4,15 +4,15 @@ section: '210500'
 divNumb: 21
 divName: Fire Suppression
 subgroup: Facility Services
-tags: ['Facility', 'Services', 'Fire', 'Suppression', 'Common', 'Work', 'Results', 'for']
+tags: ['Facility', 'Services', 'Fire', 'Suppression', 'Common', 'Work', 'Results']
 ---
 
 
 ## General
 
-   1. RELATED DOCUMENTS
+1. RELATED DOCUMENTS
    1. Drawings and general provisions of the Contract, including General and Supplementary Conditions and Division 1 Specification Sections, apply to this Section.
-   1. SUMMARY
+1. SUMMARY
    1. This Section includes the basic materials and methods for components associated with the following Fire Suppression Systems:
       1. Wet-pipe fire-suppression system, including piping, valves, specialties, automatic sprinklers, and standpipe.
    1. DEFINITIONS
@@ -176,10 +176,7 @@ tags: ['Facility', 'Services', 'Fire', 'Suppression', 'Common', 'Work', 'Results
    1. NFPA Standards:
       1. Equipment, specialties, accessories, installation, and testing complying with NFPA 13, 13R, 14, and 230.
 1. warranty
-
-## General
-
-:
+	1. General:
       1. Submit Special Warranties for the products so specified elsewhere in Divisions 21 sections of the Specifications. 
    1. Submit Statements of Compliance for the products so specified elsewhere in Divisions 2, and 21 sections of the Specifications. 
    1. Service During Contract Correction Period:
@@ -229,10 +226,7 @@ tags: ['Facility', 'Services', 'Fire', 'Suppression', 'Common', 'Work', 'Results
    1. Steel, Press-Seal Fittings:
       1. UL 213 and FM-approved, 175-psig pressure rating; with steel housing, butylene O-rings, and pipe stop; for use with Schedule 5, plain-end, steel pipe. Include UL 45-listed fitting manufacturer's pressure-sealing tools.
    1. Above Ground Fire Protection Service Valves:
-
-## General
-
-:
+	1. General:
          1. UL listed and FM approved, with minimum 175-psig nonshock working-pressure rating. Valves for grooved-end piping may be furnished with grooved ends instead of type of ends specified.
    1. Gate Valves, NPS 2 and Smaller:
       1. UL 262; cast-bronze, threaded ends; solid wedge; OS&Y; and rising stem.
@@ -289,8 +283,7 @@ tags: ['Facility', 'Services', 'Fire', 'Suppression', 'Common', 'Work', 'Results
    1. Plug valves
    1. Lever-operated ball valves.
 1.  Post indicator valves shall have an indicator, visible through an opening in the post that shows whether the valve is opened or closed.*
-1. ALARM VALVE** 
-   1. Provide a UL-listed and FM-approved alarm check valve, rated at a minimum of 300 psig working pressure, capable of being installed vertically or horizontally. Provide valve body of ductile iron with flanged or grooved connections. Provide valve with a brass seat, and single hinge pin and latch design. Provide variable pressure trim set with retard chamber, drain connections, pressure gauges, and connections for water motor gong alarm. Do not discharge the drip cup assembly into the main drain piping. The Viking Corp. "Model J-1", or as approved.
+1. ALARM VALVE*   1. Provide a UL-listed and FM-approved alarm check valve, rated at a minimum of 300 psig working pressure, capable of being installed vertically or horizontally. Provide valve body of ductile iron with flanged or grooved connections. Provide valve with a brass seat, and single hinge pin and latch design. Provide variable pressure trim set with retard chamber, drain connections, pressure gauges, and connections for water motor gong alarm. Do not discharge the drip cup assembly into the main drain piping. The Viking Corp. "Model J-1", or as approved.
 1. FIRE DEPARTMENT CONNECTIONS
    1. Wall, Fire Department Connections:
       1. UL 405; cast-brass body with brass, wall, escutcheon plate; brass, lugged caps with gaskets and brass chains; and brass, lugged swivel connections. Include inlets with threads according to NFPA 1963 and matching local fire department sizes and threads, outlet with pipe threads, extension pipe nipples, check devices or clappers for inlets, and escutcheon plate with marking "AUTO SPKR & STANDPIPE."
@@ -304,11 +297,7 @@ tags: ['Facility', 'Services', 'Fire', 'Suppression', 'Common', 'Work', 'Results
       1. UL 405, cast-brass body, inlets with threads according to NFPA 1963 and matching local fire department sizes and threads, and bottom outlet with pipe threads. Include brass, lugged caps, gaskets, and brass chains; brass, lugged swivel connection and drop clapper for each hose-connection inlet; 18-inch-high brass sleeve; and round, floor, brass, escutcheon plate with marking "AUTO SPKR & STANDPIPE."
    1. Finish Including Sleeve:
       1. Polished brass.
-1. ELECTRIC MOTORS** 
-
-## General
-
-:
+1. ELECTRIC MOTORS*	1. General:
       1. All motors (except as noted) shall conform to the following specifications:
       1. Comply with requirements in this Section except when stricter requirements are specified in fire suppression equipment schedules or sections.
    1. 1/2 hp and Small:
@@ -374,8 +363,7 @@ tags: ['Facility', 'Services', 'Fire', 'Suppression', 'Common', 'Work', 'Results
       1. Pre-lubricated, antifriction ball bearings or sleeve bearings suitable for radial and thrust loading.
    1. Thermal Protection:
       1. Internal protection to automatically open power supply circuit to motor when winding temperature exceeds a safe value calibrated to temperature rating of motor insulation. Thermal-protection device shall automatically reset when motor temperature returns to normal range.
-1. POWER FACTOR CORRECTION** 
-   1. Capacitors shall be installed on all motors 25 hp and larger that have an uncorrected power factor of less than 90% at rated load. KVAR size shall be as required to correct motor power factor to 95% lagging.
+1. POWER FACTOR CORRECTION*   1. Capacitors shall be installed on all motors 25 hp and larger that have an uncorrected power factor of less than 90% at rated load. KVAR size shall be as required to correct motor power factor to 95% lagging.
    1. Capacitors shall have:
       1. Individual unit cells
    1. All welded steel housings
@@ -383,8 +371,7 @@ tags: ['Facility', 'Services', 'Fire', 'Suppression', 'Common', 'Work', 'Results
    1. Craft tissue insulation
    1. Aluminum foil electrodes
    1. Each capacitor shall be internally fused. 
-1. MOTOR CONTROLLERS** 
-
+1. MOTOR CONTROLLERS*
 ## General
 
  Motor Controller Characteristics:
@@ -405,8 +392,7 @@ tags: ['Facility', 'Services', 'Fire', 'Suppression', 'Common', 'Work', 'Results
    1. Auxiliary contacts, one normally open and one normally closed minimum.
 
 “Run” pilot light.
-1. INDENTIFCATION** 
-   1. Equipment Labels:
+1. INDENTIFCATION*   1. Equipment Labels:
       1. Metal Labels for Equipment:
             1. Material and Thickness:
       1. Brass, 0.032-inch minimum thickness, and having predrilled or stamped holes for attachment hardware.
@@ -472,8 +458,7 @@ tags: ['Facility', 'Services', 'Fire', 'Suppression', 'Common', 'Work', 'Results
    1. Valve Schedules:
       1. For each piping system, on 8-/2-by-11-inch bond paper. Tabulate valve number, piping system, system abbreviation (as shown on valve tag), location of valve (room or space), normal-operating position (open or closed), and variations for identification. Mark valves for emergency shutoff and similar special uses.
    1. Valve-tag schedule shall be included in operation and maintenance data.
-1. ACCESSORIES** 
-   1. Hangers and Supports:
+1. ACCESSORIES*   1. Hangers and Supports:
       1. Furnish hangers and supports in accordance with Divisions 22 and 23 sections of the Specifications. 
    1. Sleeves and Cover Plates (Escutcheons):
       1. 
@@ -549,17 +534,13 @@ tags: ['Facility', 'Services', 'Fire', 'Suppression', 'Common', 'Work', 'Results
       1. Comply with procedures in ASTM F 402 for safe handling when joining CPVC piping with solvent cements.
    1. Welding:
       1. 
-
-## General
-
-:
+	1. General:
       1. Shop welding of steel piping is permitted for automatic sprinkler systems in lieu of screwed or flanged fittings. Join steel pipe for installation by means of screwed fittings, flanged fittings or by mechanical grooved couplings. Field welding or torch cutting is not permitted. 
    1. Welded Fittings:
       1. Provide welded fittings in compliance with ASME B16.9 for factory made wrought steel buttweld fittings, and ASTM A234 for piping fittings of wrought carbon steel and alloy steel for moderate and elevated temperatures. 
    1. Factory fabricated reinforcing saddles with threaded outlets shall be permitted provided the outlet size does not exceed 1/2 of the pipe diameter and the fittings are shop welded only. 
 1. WELDER QUALIFICATIONS AND PROCEDURES:
-      1. SPECIFICATIONS FOR THE FABRICATION AND ERECTION OF PIPING SYSTEMS** 
-   1. Piping:
+      1. SPECIFICATIONS FOR THE FABRICATION AND ERECTION OF PIPING SYSTEMS*   1. Piping:
       1. ANSI B31.1.
    1. Boiler external piping:
       1. Section I of the ASME Boiler and Pressure Vessel Code.
@@ -601,13 +582,9 @@ tags: ['Facility', 'Services', 'Fire', 'Suppression', 'Common', 'Work', 'Results
    1. Install check valve in each water-supply connection. Install backflow preventers instead of check valves in potable-water supply sources.
    1. Alarm Check Valves:
       1. Install valves in vertical position for proper direction of flow, including bypass check valve and retard chamber drain-line connection.
-1. FIELD QUALITY CONTROL** 
-   1. Testing:
+1. FIELD QUALITY CONTROL*   1. Testing:
       1. 
-
-## General
-
-:
+	1. General:
       1. 
    1. Test piping in accordance with NFPA 13 and 14 for aboveground piping and NFPA 24 for underground piping. 
    1. Submit the request for formal inspection to the Owner at least five working days prior to the date of the inspection. Inspect the system, including actual operation of all mechanical and electrical equipment, in the presence of a competent representative of the Contractor and other required authorities.
@@ -657,6 +634,5 @@ tags: ['Facility', 'Services', 'Fire', 'Suppression', 'Common', 'Work', 'Results
 1. DEMONSTRATION
    1. Demonstrate equipment, specialties, and accessories. Review operating and maintenance information.
    1. Schedule demonstration with Owner with at least seven days' advance notice.
-1. END OF SECTION 210500
 1. (THIS PAGE INTENTIONALLY BLANK)
 

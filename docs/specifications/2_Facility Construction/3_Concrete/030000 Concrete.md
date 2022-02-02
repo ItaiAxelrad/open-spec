@@ -7,8 +7,4 @@ subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Concrete']
 ---
 
-   1. Division 03
-   1. Concrete
-
-*[this page intentionally left blank]*
-
+Division 03 - Concrete

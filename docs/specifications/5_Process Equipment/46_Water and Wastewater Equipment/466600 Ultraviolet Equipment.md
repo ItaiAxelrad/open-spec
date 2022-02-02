@@ -12,9 +12,7 @@ tags: ['Process', 'Equipment', 'Water', 'Wastewater', 'Ultraviolet']
 
 ## General
 
-
-* 
-	1. Summary
+1. SUMMARY
    1. Section includes:
 	1. Ultraviolet (UV) Disinfection System
 	2. Referenced Standards
@@ -135,7 +133,7 @@ tags: ['Process', 'Equipment', 'Water', 'Wastewater', 'Ultraviolet']
    1. 1Derived from Yampa Wells Water Treatment Facility Improvements Pilot Study Report (2016).
    1. 2Derived from source water quality data provided by MWWSD.
    1. The dose-monitoring strategy shall consist of the Calculated Dose Approach as discussed in the USEPA’s UVDGM.
-   ## Product
+## Product
 1. Acceptable Manufacturers
    1. Manufacturers:
 	1. TrojanUV

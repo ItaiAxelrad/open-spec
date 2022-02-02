@@ -7,17 +7,12 @@ subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Insulation']
 ---
 
-   1. Section 07 21 00
-   1. Building Insulation
-
 ## General
 
-
-* 
-	1. **Summary
+1. SUMMARY
    1. Section Includes:
 	1. Insulation and air sealing system, including insulation, foam sealant and accessories.
-	2. **Submittals
+	2. Submittals
 2. See Specification Section 01 33 00 for requirements for the mechanics and administration of the submittal process.
 3. Product Data:
       1. Submit data on product characteristics, performance criteria, and limitations, including the following:
@@ -49,11 +44,7 @@ tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Insulat
       1. Arrange storage of products to permit access for inspection. Periodically inspect to verify products are undamaged and are maintained in acceptable condition.
    1. Product
 1. 2.1 System Description
-
-## General
-
-
-:
+	 1. General:
 	1. System consists of an air infiltration barrier applied to joints between materials of the exterior and interior wall framing to eliminate air infiltration into the building and the installation of insulation to reduce thermal transmission.
 1. 2.2 Materials
    1. Glass-Fiber Loose-Fill Insulation:
@@ -106,7 +97,9 @@ tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Insulat
 			1. Corrosion-resistant wire spindles.
 		6. Ventilation Baffles:
 			1. Formed plastic, metal, or cardboard sized to fit full width of rafter spaces.
-   1. Execution
+
+## Execution
+
 1. 3.1 Examination
    1. Examine substrates, flashing conditions, penetrations, adjoining construction and the conditions under which work is to be installed. Verify that surfaces are dry and free of oil, grease, dust, rust, or other contaminant.
 2. Report unacceptable conditions in writing. Do not proceed with the Work until unsatisfactory conditions have been corrected and surfaces are acceptable.

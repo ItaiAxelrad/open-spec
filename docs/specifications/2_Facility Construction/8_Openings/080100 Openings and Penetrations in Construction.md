@@ -7,20 +7,15 @@ subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Openings', 'Penetrations', 'in']
 ---
 
-   1. Section 08 01 00
-   1. openings and penetrations in construction
-
 ## General
 
-
-* 
-	1. **Summary
+1. SUMMARY
    1. Work shall include methods of installing and sealing openings and penetrations in construction.
 2. Related specifications include:
 	1. 05 50 00 Metal Fabrications
 	2. Section 07 60 00 Flashing and Sheet Metal
 	3. Section 07 90 00 Joint Sealants
-	4. **Quality Assurance
+	4. Quality Assurance
 3. Work shall be per:
 	1. American Concrete Institute (ACI):
 		1. 318, Building Code Requirements for Structural Concrete.
@@ -39,23 +34,22 @@ tags: ['Facility', 'Construction', 'Openings', 'Penetrations', 'in']
 			1. Article 501, Class 1 Locations.
 		2. 90A, Standard for Installation of Air Conditioning and Ventilating Systems.
 		3. Sheet Metal and Air Conditioning Contractors' National Association (SMACNA).
-	4. **Submittals
+	4. Submittals
 4. See Specification Section 01 33 00 for requirements for the mechanics and administration of the submittal process.
 5. Shop drawings shall include the following:
 	1. Fabrication or layout drawings showing vertical and horizontal location of all required openings, size of all openings, opening type, and seal type. 
 	2. Manufacturer’s installation instructions. 
-	3. **Definitions
+	3. Definitions
 6. Definitions
 	1. The following areas are defined as corrosive areas:
 		1. None
 	2. Wash-down Areas: Areas having floor drains or hose bibs.
-	3. **Project Conditions
+	3. Project Conditions
 7. For purposes of this project, water table level is above the proposed additions
 
-   ## Product
+## Product
 
-* 
-	1. **Materials
+	1. Materials
    1. Pipe sleeves:
       1. 
 	1. Stainless steel, Type 304L.

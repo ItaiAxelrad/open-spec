@@ -7,12 +7,10 @@ subgroup: Procurement and Contracting Requirements
 tags: ['Procurement', 'Contracting', 'Requirements', 'Scopes']
 ---
 
-   1. SECTION 00 24 00
-   1. PROCUREMENT SCOPE
-   1. Scope and cost proposal form Design/build lump sum (ls) services.
-   1. BASE BID SCOPE LADDER TOTAL PROJECT COST PREMIUM*
+1. Scope and cost proposal form Design/build lump sum (ls) services.
+2. BASE BID SCOPE LADDER TOTAL PROJECT COST PREMIUM*
 
-   1. D/B General Conditions $ \_\_\_\_\_\_\_\_\_\_\_\_\_\_ + $ \_\_\_\_\_\_\_\_\_\_\_\_\_\_ = $ \_\_\_\_\_\_\_\_\_\_\_\_\_\_
+3. D/B General Conditions $ \_\_\_\_\_\_\_\_\_\_\_\_\_\_ + $ \_\_\_\_\_\_\_\_\_\_\_\_\_\_ = $ \_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
  (lump sum)
    1. Design Cost $ \_\_\_\_\_\_\_\_\_\_\_\_\_\_ + $ \_\_\_\_\_\_\_\_\_\_\_\_\_\_ = $ \_\_\_\_\_\_\_\_\_\_\_\_\_\_

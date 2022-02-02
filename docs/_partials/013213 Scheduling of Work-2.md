@@ -7,7 +7,7 @@ subgroup: General Requirements
 tags: ['General', 'Requirements', 'Scheduling', 'Work']
 ---
 
-1. SECTION 013200
+
 
  **CONSTRUCTION SCHEDULES
 
@@ -18,7 +18,6 @@ tags: ['General', 'Requirements', 'Scheduling', 'Work']
    1. RELATED SECTIONS
    1. 013300 - Submittals
 
-* 
 	1. SUBMITTALS
    1. Submittals shall be in accordance with the requirements of these Contract Documents and shall include the following as a minimum:
       1. 
@@ -33,7 +32,7 @@ tags: ['General', 'Requirements', 'Scheduling', 'Work']
       1. Submit the number of copies required by the Contractor for distribution to subcontractors and/or suppliers, plus four (4) copies to be retained by the Owner.
    1. Weekly Work Schedule
 1. The Contractor shall also submit a schedule of his work for each week. The weekly work schedule shall be delivered no later than 4:00 p.m. of the last regular workday of the preceding week to the Construction Manager’s office.
-   ## Product
+## Product
    1. OVERALL PROJECT SCHEDULE
    1. Form of Overall Project Schedule:
       1. The overall project schedule shall:

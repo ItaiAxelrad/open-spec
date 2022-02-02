@@ -12,9 +12,7 @@ tags: ['Facility', 'Services', 'Plumbing', 'General', 'Service', 'Compressed-Air
 
 ## General
 
-
-* 
-	1. **Summary
+1. SUMMARY
    1. Section Includes:
 	1. Compressed air system including:
 		1. Regenerative Air Blower.
@@ -45,7 +43,7 @@ tags: ['Facility', 'Services', 'Plumbing', 'General', 'Service', 'Compressed-Air
 		1. See Specification Section 01 78 23 for requirements for the mechanics, administration, and the content of Operation and Maintenance Manual submittals.
 4. Warranty
    1. See Division 0 for project warranty requirements.
-   ## Product
+## Product
 1. 2.1 Acceptable Manufacturers
    1. Subject to compliance with the Contract Documents, the following manufacturers are acceptable:
 	1. Air Compressor Unit:
@@ -69,7 +67,7 @@ tags: ['Facility', 'Services', 'Plumbing', 'General', 'Service', 'Compressed-Air
 	1. Soft metals such as aluminum are not acceptable.
 	2. Flanges shall be Nickel plated.
 8. All hardware shall be stainless steel. Plated hardware shall not be acceptable.
-	1. **Motors
+	1. Motors
 9. Integrally mounted, direct-drive, motors shall be NEMA frame.
 	1. The motor ball bearings shall be permanently sealed and B10 Life rated for 15,000 hours of continual maintenance-free operation.
 10. The blower shall be designed for the proper plant classification:
@@ -80,7 +78,7 @@ tags: ['Facility', 'Services', 'Plumbing', 'General', 'Service', 'Compressed-Air
 13. Service Factor
 	1. TEFC Motors shall be with a 1.15 SF.
 14. Motors shall be designed to meet applicable U.L. and CSA standards.
-	1. **Blower Filter
+	1. Blower Filter
 15. Design:
 	1. Filters shall be of low pressure drop design utilizing an 8 to 10 micron or finer element.
 	2. Filter elements shall be polyester with a metal wrapped screen.
@@ -90,7 +88,7 @@ tags: ['Facility', 'Services', 'Plumbing', 'General', 'Service', 'Compressed-Air
 	2. Surfaces are prime coated, followed with a final coat of manufacturer’s standard finish.
 	3. Connection to be threaded or flanged. Threaded connections shall be NPT, while flanges are matched to 125 lb. ANSI Flanges.
 	4. Weather hoods are included on inlet filters and inlet filter silencers.
-	5. **Silencers
+	5. Silencers
 17. Silencers shall be installed on both the inlet and outlets and be compatible with the blower and filter design.
 18. Connection to be threaded or flanged. Threaded connections shall be NPT, while flanges are matched to 125 lb. ANSI Flanges.
 19. Silencers shall provide for noise reduction in accordance with OSHA Standards.
@@ -119,6 +117,4 @@ tags: ['Facility', 'Services', 'Plumbing', 'General', 'Service', 'Compressed-Air
 	2. Supervise pre-start adjustments and installation checks.
 	3. Conduct initial start-up of equipment and perform operational checks.
 	4. See Section 01 75 00 for Operator training requirements.
-
-*[this page intentionally left blank]*
 

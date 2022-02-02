@@ -10,7 +10,7 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Concrete', 'Paving
 
 ## General
 
-   1. SUMMARY
+1. SUMMARY
    1. Section Includes
    1. Concrete paving
    1. Curb and gutter
@@ -31,15 +31,17 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Concrete', 'Paving
       1. ACI
    1. ASTM
    1. CRSI
-   1. SUBMITTALS
+1. SUBMITTALS
    1. Submit two hard copies and one electronic copy of materials certificates signed by material producer and contractor. Certificates shall state that each material item meets specified requirements.
    1. Submit job-mix formulas for each required concrete and aggregate mixture. Mix designs shall be written within allowable tolerances as specified for the particular application.
-   1. QUALITY ASSURANCE
+1. QUALITY ASSURANCE
    1. Use adequate numbers of skilled workman who are thoroughly trained and experienced in the necessary crafts and who are completely familiar with the specified requirements and the methods needed for a proper performance of the work of this Section.
    1. Work shall be in conformance with requirements of ACI 301.
    1. PROJECT/SITE CONDITIONS
    1. Do not apply in-laid thermo-plastic marking when surface or air temperature is less than 55ºF., or when moisture content of substrate is above manufacturer's recommendations.
-   1. PRODUCTS
+
+## Products
+
    1. MATERIALS
    1. Concrete for paving, sidewalks and curb and gutter shall be:
       1. As specified in Section 033000 - Cast In Place Concrete
@@ -59,8 +61,10 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Concrete', 'Paving
    1. In-Laid Thermo-Plastic Markings:
       1. Provide "Cata-Therm" by Cataphote, Inc., 1-800-221-2574, white reflective color, or approved substitute alkyd-based thermo-plastic material complying with AASHTO M249.
    1. Provide drop-in glass beads which are skid-resistant and which comply with the local standards.
-   1. EXECUTION
-   1. PREPARATION
+
+## Execution
+
+1. PREPARATION
    1. Preparation of Sub grade
    1. Prior to any work of this Section, the sub grade may require scarifying and recompacting to a minimum of 95% of the maximum density as determined in accordance with AASHTO T-180. No paving shall be started until the results of the compaction tests are known, the final grade has been checked, and the Contractor has been given notice to proceed by the Owner.
    1. Apply soil sterilization to sub grade at the rate of 1 gallon of solution to 100 square feet. Do not overspray onto adjacent vegetation.
@@ -85,6 +89,6 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Concrete', 'Paving
    1. Apply with mechanical equipment to produce a wet film thickness not less than 0.015" and 4" line widths unless otherwise required.
    1. Handicap Parking:
       1. International symbol for handicap parking.
-   1. END OF SECTION
-   1. THIS PAGE INTENTIONALLY BLANK 
+   
+    
 

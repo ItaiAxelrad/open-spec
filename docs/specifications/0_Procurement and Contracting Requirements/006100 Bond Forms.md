@@ -7,7 +7,7 @@ subgroup: Procurement and Contracting Requirements
 tags: ['Procurement', 'Contracting', 'Requirements', 'Bond', 'Forms']
 ---
 
-1. SECTION 00 61 00
+
 1. BID BOND
    1. Any singular reference to Bidder, Surety, Owner, or other party shall be considered plural where applicable.
 1. BIDDER** (Name and Address):

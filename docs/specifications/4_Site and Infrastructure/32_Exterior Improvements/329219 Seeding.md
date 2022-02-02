@@ -7,12 +7,12 @@ subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Seeding']
 ---
 
-   1. SECTION 329219
+
    1. SEEDING
 
 ## General
 
-   1. SUMMARY
+1. SUMMARY
    1. The contractor shall supply all material and labor necessary for seeding of irrigated seed mix, dryland grasses, non-irrigated seed mix, and wetland seeding, in areas shown on plans.
    1. The contractor will be expected to produce a lush stand of grasses by the end of the second full growing season.
    1. REFERENCES
@@ -30,7 +30,7 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Seeding']
    1. Bidders shall assume that all seed areas will require an initial seeding and a second overseeding. The second seeding may be drill seeded or overseeded depending on the amount of coverage achieved in the first attempt at seeding. 
    1. Seeding shall generally be completed in spring and fall. It may be necessary to alter the production schedule or installation practices to ensure the majority of the seed is installed at the optimal time. For instance it may be necessary to eradicate weeds and seed prior to installing irrigation. Then install irrigation and repair the limited areas where lines were installed.
    1. If seeding occurred in the early fall/late summer, it may be required to perform the second seeding during the following landscape season. The second seeding shall not be a condition of initial acceptance, but will be required when reviewing the performance of areas as part of the warranty and final inspections.
-   1. SUBMITTALS
+1. SUBMITTALS
    1. Refer to submittals in General Landscape Section.
    1. PROJECT/SITE CONDITIONS
    1. Existing Conditions
@@ -78,8 +78,10 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Seeding']
    1. Seed and seed labels shall conform to current State and Federal regulations and be subject to testing provisions of the Association of Official Seed Analysis.
    1. The Owner’s Representative may require tests of seed verification at the Contractor’s expense.
    1. All tags from seed bags shall be retained by the contractor and submitted to the Owner’s Representative as a means to ensuring the proper seed rate and seed mixtures were applied to areas. If seed tags are not submitted it will be assumed that the area was improperly seeded and the contractor will apply a comprehensive herbicide to the space and reseed areas at their own expense.
-   1. execution
-   1. EXAMINATION
+
+## Execution
+
+1. EXAMINATION
    1. Verify that existing site conditions are as specified and indicated before beginning work under this section.
    1. Layout
    1. Verify layout of seeding areas as indicated prior to starting seeding operations.
@@ -89,7 +91,7 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Seeding']
    1. Report in writing to General Contractor with a copy to the Owner’s representative.
    1. Acceptance
    1. Beginning of installation means acceptance of existing conditions by this Contractor.
-   1. PREPARATION
+1. PREPARATION
    1. Protection
    1. Be responsible for proper repair to landscape, utilities, fences, pavements and other site improvements damaged by operations under this Section.
    1. Pay for repairs made by Contractor(s) designated by Owner.
@@ -142,5 +144,5 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Seeding']
    1. Remove mulch, from seeding operations, immediately from fences, structures, walls, trees, shrubs and sod to prevent damage to same.
    1. PROTECTION
    1. Provide and install barriers as required and as directed by Owner’s representative, or as needed to protect seeded areas from damage from pedestrian and vehicular traffic. Contractor is responsible for malicious destruction of seeding caused by others.
-   1. END OF SECTION
+   
 

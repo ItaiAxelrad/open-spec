@@ -13,7 +13,6 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Prestressed', 'Ground', 'Anchors'
 ## General
 
 
-* 
 	1. Description
    1. This Item shall govern for the installation of post-tensioned ground anchors in place, with grouting as required in accordance with the plans and with these specifications. The ground anchors shall provide the load carrying capacities as required in the anchors that will develop the load as required in the plans and the approved working drawings in accordance with testing requirements of this specification. 
 2. The Contractor shall have the option of furnishing any type of post-tensioning system meeting the requirements of these specifications. The Contractor may also propose the use of proprietary systems which do not conform to all provisions of this specification, if the concept is approved by the Engineer. The system selected shall provide the magnitude and distribution of design prestressing force and minimum ultimate strength required by the plans without exceeding allowable temporary stresses. All design procedures, coefficients and allowable stresses shall be in accordance with the latest Standard AASHTO Specifications for Highway Bridges. 
@@ -65,11 +64,7 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Prestressed', 'Ground', 'Anchors'
 2. Rust on prestressing steel which can be removed by light rubbing is acceptable. Streaks or spots, which may remain after rust removal are acceptable if no pitting is present. Tight mill scale is acceptable but loose mill scale shall be removed. 
 3. Prefabricated ground anchor assemblies shall be protected from moisture by taping, wrapping or by other acceptable means. 
 2. Construction
-
-## General
-
-
-:
+	 1. General:
 	1. Prior to stressing, the Contractor shall furnish the Engineer certified copies of load calibration curves on all jacks and gauge systems to be used in the work. Stressing systems shall be recalibrated when required by the Engineer.
 2. Drilling:
 	1. The hole shall be drilled not more than +/- 3 degrees from the line specified on the approved working drawings.
@@ -116,7 +111,6 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Prestressed', 'Ground', 'Anchors'
    1. AL = Alignment 
    1. DL = Design Load
 
-* 
 	1. The maximum test load shall be held for 10 minutes. The anchor movement with respect to a fixed reference shall be recorded at 1, 2, 3, 4, 5, and 10 minutes. If the movement between 1 minute and 10 minutes exceeds 0.04 inch, the test shall be continued for an additional 50 minutes. If the test is extended, the movement shall be recorded at 15, 20, 30, and 60 minutes. Time will be measured from when the pump is started after the 1.20 DL load increment. 
 		1. Lift off tests shall be performed 48 hours after initial tensioning on the first three permanent anchors installed at each wall location prior to final grouting. The lift off load shall be within 10 percent of the lock off load. 
 		2. Final grouting of the anchor plate area as indicated in the plans shall be performed within 3 days after tensioning and lift off tests for a soil anchor are complete.

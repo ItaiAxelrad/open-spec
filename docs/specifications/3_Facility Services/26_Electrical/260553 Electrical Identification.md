@@ -7,7 +7,7 @@ subgroup: Facility Services
 tags: ['Facility', 'Services', 'Electrical', 'Identification']
 ---
 
-1. SECTION 26 05 53
+
 1. ELECTRICAL IDENTIFICATION
 
 ## General
@@ -68,7 +68,9 @@ ANSI C2, NFPA 70, OSHA standards, and authorities having jurisdiction.
    1. Retain one or more of four paragraphs below. Coordinate with "Identification Schedule" Article. See Editing Instruction No. 1 in the Evaluations for a discussion on self-adhesive products.
    1. Self-Adhesive Warning Labels:
       1. Factory-printed, multicolor, pressure-sensitive adhesive labels, configured for display on front cover, door, or other access to equipment unless otherwise indicated.
-   1. Execution
+
+## Execution
+
 01. INSTALLATION
    1. Identification Materials and Devices:
       1. Install at locations for most convenient viewing without interference with operation and maintenance of equipment.
@@ -160,5 +162,5 @@ ANSI C2, NFPA 70, OSHA standards, and authorities having jurisdiction.
 20. TV/audio-monitoring master station.
 21. Fire alarm master station or control panel.
 22. Security-monitoring master station or control panel.
-   1. END OF SECTION 26 05 53
+   26 05 53
 

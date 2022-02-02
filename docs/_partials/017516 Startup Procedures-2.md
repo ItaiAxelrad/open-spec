@@ -69,7 +69,7 @@ tags: ['General', 'Requirements', 'Startup', 'Procedures']
 	20. FPS #10 – Air compressor systems
 8. Cost of Start-up
    1. Contractor to pay all costs associated with System start-up.
-   ## Product
+## Product
 
 
 ## Execution
@@ -196,6 +196,4 @@ tags: ['General', 'Requirements', 'Startup', 'Procedures']
 			6. Accepted by Owner.
 			7. Accepted by Contractor.
 		4. Upon successful completion of Demonstration Period, Engineer will endorse certificate attesting to the successful demonstration, and citing the hour and date of ending the successful Demonstration Period of functional integrity as the effective date of Substantial Completion.
-
-*[this page intentionally left blank]*
 

@@ -4,7 +4,7 @@ section: '226700'
 divNumb: 22
 divName: Plumbing
 subgroup: Facility Services
-tags: ['Facility', 'Services', 'Plumbing', 'Processed', 'Water', 'Systems', 'for', 'Laboratory', 'Healthcare', 'Facilities']
+tags: ['Facility', 'Services', 'Plumbing', 'Processed', 'Water', 'Systems', 'Laboratory', 'Healthcare', 'Facilities']
 ---
 
 
@@ -37,16 +37,14 @@ tags: ['Facility', 'Services', 'Plumbing', 'Processed', 'Water', 'Systems', 'for
    1. Manufacturers Standardization Society of the Valve and Fittings Industry, Inc. (MSS):
       1. SP-43 - Wrought Stainless Steel Butt-Welding Fittings.
    1. National Sanitation Foundation (NSF)
-1. Submittals** 
-   1. See Division 22 sections of the Specifications. 
+1. Submittals*   1. See Division 22 sections of the Specifications. 
    1. Submit Product Data on the following:
       1. Underground piping materials
    1. Aboveground piping materials
 1. warranty
    1. Follow procedures specified in Division 1 sections of the Specifications. 
 1. EXECUTION
-1. piping materials – underground** 
-   1. Domestic Water Piping System:
+1. piping materials – underground*   1. Domestic Water Piping System:
       1. Outside buildings to within 5 feet of building:
          1. See Division 2 sections of the Specifications.
    1. NPS 3 and larger inside building to 5 feet outside building:
@@ -61,8 +59,7 @@ tags: ['Facility', 'Services', 'Plumbing', 'Processed', 'Water', 'Systems', 'for
       1. ASTM E11.
    1. Sand:
       1. Natural particles of granular material which does not contain excessive amounts of clay, silt, or organic material, passing a 3/8-inch sieve. Sand found on the job site may be used if it is approved by the Architect.
-1. Piping Materials - Aboveground** 
-   1. Deionized Water:
+1. Piping Materials - Aboveground*   1. Deionized Water:
       1. Polypropylene (PP) (limit service to 140°F  60 psi):
             1. Item
 1. Type Joint
@@ -142,8 +139,7 @@ Para. 934.1.2
    1. 4 inches
    1. Single entry Nibco SE Series
 1. EXECUTION
-1. Underground Piping Installation** 
-   1. Trench Excavation:
+1. Underground Piping Installation*   1. Trench Excavation:
       1. Excavate trenches so that piping may be laid correctly on line and grade. Remove any large rocks or other debris encountered in the excavation and dispose of appropriately. 
    1. Excavate to a sufficient depth and width to provide adequate room for construction and installation of the work except that the width of the trench from the pipe invert to a point 12 inches above the top of the pipe shall not be greater than 30 inches. 
    1. Where it is impossible to maintain proper line and grade, excavate below grade and replace the bedding with compacted sand. 
@@ -178,11 +174,7 @@ Para. 934.1.2
       1. Do not embed natural gas or liquified petroleum gas piping in concrete or conceal it below ground floor slabs within building. 
    1. Pipes Through Grade Beams:
       1. Provide pipes and tubing passing through or under building grade beams with a Schedule 40 pipe sleeve with 4-inch clearance to prevent possible damage from building settlement. 
-1. Aboveground Piping Installation** 
-
-## General
-
-:
+1. Aboveground Piping Installation*	1. General:
       1. 
    1. Install pipe and pipe fittings in accordance with recognized industry practices to achieve permanently leakproof systems, capable of performing the indicated service without failure.
    1. Install each piping run with a minimum number of joints and couplings but with adequate and accessible unions/flanges for disassembly and maintenance/replacement of valves and equipment.
@@ -214,5 +206,4 @@ Para. 934.1.2
    1. Support the pipe by cushioned pipe hangers at spacing as detailed in the manufacturer's catalogue; on horizontal piping provide continuous support by means of angle or channel members. Provide plastic style pipe clips. Install pipe so that slight movement as a result of thermal changes is allowed. Provide expansion joints where lateral or vertical runs in excess of 100 feet are required.
    1. Install deburred sleeves where pipe passes through floors, walls or partitions. 
    1. Provide a completed installation which is capable of passing all tests specified in the applicable plumbing code.
-1. END OF SECTION 226700
 

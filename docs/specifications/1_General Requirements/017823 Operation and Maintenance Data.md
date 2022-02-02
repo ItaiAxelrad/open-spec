@@ -41,11 +41,7 @@ tags: ['General', 'Requirements', 'Operation', 'Maintenance', 'Data']
 		2. Equipment field testing data.
 		3. Equipment start-up reports.
 5. Preparation of Submittals
-
-## General
-
-
-:
+	 1. General:
 	1. All pages of the Operation and Maintenance Manual submittal shall be legible.
 		1. Submittals which, in the Engineer’s sole opinion, are illegible will be rejected without review.
 	2. Identify each equipment item in a manner consistent with names and identification number used in the Contract Documents, not the manufacturer’s catalog numbers.
@@ -72,11 +68,11 @@ tags: ['General', 'Requirements', 'Operation', 'Maintenance', 'Data']
 		3. 3-Ring Binder:
 			1. Provide D-ring binder with clear vinyl sleeves (i.e. view binder) on front and spine.
 			2. Insert binder title sheet with the following information under the front and spine sleeves:
-				1. Project name.
-				2. Specification Section.
-				3. Equipment names and summary of tag(s) covered.
-				4. Manufacturer name.
-				5. Date (month, year).
+			1. Project name.
+			2. Specification Section.
+			3. Equipment names and summary of tag(s) covered.
+			4. Manufacturer name.
+			5. Date (month, year).
 			3. Provide plastic sheet lifters prior to first page and following last page.
 		4. Drawings:
 			1. Provide all drawings at 11 x 17 IN size, triple folded and three-hole punched for insertion into manual.
@@ -146,7 +142,7 @@ tags: ['General', 'Requirements', 'Operation', 'Maintenance', 'Data']
 		1. Include product data listing, applicable reference standards, chemical composition, and details of installation.
 		2. Provide recommendations for inspections, maintenance and repair.
 	7. Additional requirements as specified in individual product specifications.
-	8. **Engineer’s Review Action
+	8. Engineer’s Review Action
 5. Draft Electronic (PDF) Submittals:
 	1. Engineer will review and indicate one of the following review actions:
 		1. A – ACCEPTABLE
@@ -161,7 +157,10 @@ tags: ['General', 'Requirements', 'Operation', 'Maintenance', 'Data']
 	2. Submittals marked as Acceptable will be retained with the transmittal form returned as noted.
 	3. Submittals marked as Rejected will be returned with the transmittal form marked to indicate deficient areas.
 	4. Resubmit until approved.
-   ## Product (Not Used)
+
+## Product 
+
+ (Not Used)
 
 
 ## Execution

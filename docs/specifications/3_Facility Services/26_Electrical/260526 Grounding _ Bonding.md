@@ -7,7 +7,7 @@ subgroup: Facility Services
 tags: ['Facility', 'Services', 'Electrical', 'Grounding', '_', 'Bonding']
 ---
 
-1. SECTION 26 05 26
+
 1. GROUNDING AND BONDING
 
 ## General
@@ -85,7 +85,9 @@ unless indicated otherwise), with insulators.
       1. 3/4 diameter by 10’ in length.
    1. Chemical Electrodes:
       1. Copper tube, straight or L-shaped, filled with nonhazardous chemical salts, terminated with a 4/0 bare conductor. Provide backfill material recommended by manufacturer.
-   1. Execution
+
+## Execution
+
 01. APPLICATION
    1. Use only copper conductors for both insulated and bare grounding conductors in direct contact with earth, concrete, masonry, crushed stone, and similar materials.
    1. In raceways, use insulated equipment grounding conductors.
@@ -144,10 +146,7 @@ Connect to pipe with grounding clamp connectors.
 1. If concrete foundation is less than 20 feet long, coil excess conductor within base of foundation.
 2. Bond grounding conductor to reinforcing steel in at least four locations and to anchor bolts. Extend grounding conductor below grade and connect to building grounding grid or to grounding electrode external to concrete.
 05. CONNECTIONS
-
-## General
-
-:
+	1. General:
       1. Make connections so galvanic action or electrolysis possibility is minimized. Select connectors, connection hardware, conductors, and connection methods so metals in direct contact will be galvanically compatible.
 1. Use electroplated or hot-tin-coated materials to ensure high conductivity and to make contact points closer to order of galvanic series.
 2. Make connections with clean, bare metal at points of contact.
@@ -171,5 +170,5 @@ Connect to pipe with grounding clamp connectors.
 3. Excessive Ground Resistance:
       1. If resistance to ground exceeds specified values, notify
    1. Engineer promptly and include recommendations to reduce ground resistance.
-   1. END OF SECTION 26 05 26
+   26 05 26
 

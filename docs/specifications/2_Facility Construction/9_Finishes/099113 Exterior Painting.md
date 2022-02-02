@@ -7,7 +7,7 @@ subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Finishes', 'Exterior', 'Painting']
 ---
 
-   1. SECTION 09910
+
 1. FIELD PAINTING AND COATING
    1. PART1 GENERAL
 01. DESCRIPTION
@@ -86,8 +86,7 @@ ly, the following items or materials are not to be field painted unless specific
 1. 2.02 EPOXY PAINT SYSTEM
    1. Prime, Intermediate, Finish and Touch-Up Coats:
       1. VOC-compliant, two-component, chemically cured epoxy. 
-1. 2.03 EPOXY/URETHANE PAINT SYSTEM** 
-   1. Prime and Intermediate Coats:
+1. 2.03 EPOXY/URETHANE PAINT SYSTEM*   1. Prime and Intermediate Coats:
       1. Field-applied, VOC-compliant, surface tolerant, two-component, chemically cured epoxy. Finish and Touch-Up Coats:
       1. Field-applied, VOC-compliant, two-component, chemically cured aliphatic urethane semi-gloss enamel. 
 1. 2.04 ACRYLIC PAINT SYSTEM
@@ -116,7 +115,9 @@ ly, the following items or materials are not to be field painted unless specific
    1. White paint color shall be as specified by the California Department of Transportation for striping.
    1. Green paint color shall be as specified in Article 2.06 herein.
    1. Successive coats of each paint color shall be of a slightly different shade, as directed by the City Engineer, to facilitate the inspection of surface coverage of each coat. The true colors specified above shall be used for all Finish and Touch-up coats.
-   1. Execution
+
+## Execution
+
 1. 3.01 LIMITATIONS TO THE APPLICATION OF COATINGS
    1. Apply coatings in accordance with the manufacturer’s recommendations. Do not apply coatings under adverse weather conditions. If any of the following minimum conditions are present, the application of coatings shall be delayed or postponed until conditions are favorable.
 1. During rain, fog, or mist, or when the relative humidity exceeds 80 percent.
@@ -125,8 +126,7 @@ ly, the following items or materials are not to be field painted unless specific
 4. When the temperature of the surface to be coated is more than 2.8° C (5° F) below the air temperature or when the surface temperature is 49 C (120° F) or above.
 5. When the surface temperature is less than 2.8° C (5° F) above the dew point or is expected to be so within twelve hours after application of coating.
    1. If a change in weather conditions results in damage to a newly applied coating, restore the affected coatings to their specified condition as directed by the City Engineer. 
-1. 3.02 PROTECTION OF SURFACES NOT TO BE PAINTED** 
-   1. Remove, mask, or otherwise protect hardware, switch plates, aluminum surfaces, machined surfaces, couplings, shafts, nameplates and other surfaces not intended to be painted. Protect working parts of mechanical and electrical equipment from damage during surface preparation and the painting process. Provide drop cloths or masking to prevent paint materials from dripping or accumulating on adjacent surfaces. 
+1. 3.02 PROTECTION OF SURFACES NOT TO BE PAINTED*   1. Remove, mask, or otherwise protect hardware, switch plates, aluminum surfaces, machined surfaces, couplings, shafts, nameplates and other surfaces not intended to be painted. Protect working parts of mechanical and electrical equipment from damage during surface preparation and the painting process. Provide drop cloths or masking to prevent paint materials from dripping or accumulating on adjacent surfaces. 
 1. 3.03 FIELD TOUCH-UP OF SHOP-APPLIED PRIME COATS
    1. Prior to field touch-up, prepare the surface in accordance with the manufacturer's recommendations and as directed by the City Engineer.
    1. Reapply primer as required to cover all scratched, abraded, or deficient areas.

@@ -7,8 +7,4 @@ subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection']
 ---
 
-   1. Division 07
-   1. Thermal and Moisture Protection
-
-*[this page intentionally left blank]*
-
+Division 07 - Thermal and Moisture Protection

@@ -13,13 +13,11 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
 
 ## General
 
-
-* 
-	1. **Summary
+1. SUMMARY
    1. Work under this section shall include adjusting, balancing, and testing of all heating, ventilating and air conditioning (HVAC) systems. 
 2. Related specification sections include:
 	1. Section 23 09 00, HVAC: Instrumentation and Control
-	2. **Quality Assurance
+	2. Quality Assurance
 3. Work shall be per:
 	1. Associated Air Balance Council (AABC):
 		1. National Standards for Total System Balance.
@@ -35,7 +33,7 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
 	2. National Environmental Balancing Bureau (NEBB).
 	3. Other certification entity approved by Engineer.
 5. The independent firm shall not be the same firm installing the HVAC equipment, nor under contract to the firm installing the equipment. 
-	1. **Submittals
+	1. Submittals
 6. See Specification Section 01 33 00 for requirements for the mechanics and administration of the submittal process.
 7. Shop drawings shall include:
 	1. Certifications:
@@ -49,7 +47,7 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
 		2. Additional written verification and other related information clearly identifying project, date and specifics of verification.
 		3. Utilize report forms similar to those shown in Section V of AABC Standard.
 		4. Provide forms typed and signed by the testing and balancing firm.
-   ## Product (not applicable to this section)
+## Product (not applicable to this section)
 
 
 ## Execution

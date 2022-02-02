@@ -7,8 +7,4 @@ subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Wood', 'Plastics', 'Composites']
 ---
 
-         1. Division 06
-   1. Wood and Plastics
-
-*[this page intentionally left blank]*
-
+Division 06 - Wood and Plastics

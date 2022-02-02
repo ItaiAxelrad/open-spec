@@ -10,7 +10,7 @@ tags: ['Facility', 'Construction', 'Finishes', 'Painting']
 
 ## General
 
-   1. SUMMARY
+1. SUMMARY
    1. Section Includes
    1. All labor, materials, equipment, and services necessary to complete all painting and finishing required for surfaces as indicated or specified.
    1. Related Sections
@@ -21,12 +21,12 @@ tags: ['Facility', 'Construction', 'Finishes', 'Painting']
       1. Substances that cause odor in liquid finishes.
    1. SYSTEM DESCRIPTION
    1. Colors are from Kelly Moore.
-   1. SUBMITTALS
-   1. Provide samples of paint colors as specified by NREL
+1. SUBMITTALS
+   1. Provide samples of paint colors as specified by Owner
    1. Refer to the "Finish Schedule" on the drawing for designated finishes of areas.
    1. Items listed are acceptable products or some major manufacturers.
    1. Responsibility for recommending, scheduling and using the proper paint for the job conditions rests with the manufacturer and painting subcontractor.
-   1. QUALITY ASSURANCE
+1. QUALITY ASSURANCE
    1. All material shall comply with the following standards:
       1. All liquid surface finishes to contain no VOCs.
    1. All liquid surface finishes to be without out-gassing and odor.
@@ -52,7 +52,9 @@ tags: ['Facility', 'Construction', 'Finishes', 'Painting']
    1. Finishing of the following items and materials will not be required UNLESS SPECIFIED AS SUCH, and shall be protected:
       1. Stainless steel, brass, bronze, copper, chromium, anodized aluminum; specially finished articles such as porcelain enamel, plastic-coated fabrics, and baked enamel.
    1. Finished products such as ceramic tile, windows, glass, brick, resilient flooring, acoustical tiles, board and metal tees; other architectural features, such as "finish" hardware, finished in aluminum, bronze or plated ferrous metal, prefinished panels, or other items that are installed prefinished.
-   1. PRODUCTS
+
+## Products
+
    1. MANUFACTURERS
    1. Glidden Lifemaster
    1. EcoTech Safecoat
@@ -60,16 +62,18 @@ tags: ['Facility', 'Construction', 'Finishes', 'Painting']
    1. MATERIALS
    1. Brands of paint, varnishes, and stains are specified herein.
    1. All paint materials shall be factory fresh.
-   1. Basic painting materials such as linseed oil, shellac, turpentine, thinners, driers, etc. shall be of highest quality, made by reputable manufacturers as specified, have identifying labels on containers and shall be approved by NREL.
+   1. Basic painting materials such as linseed oil, shellac, turpentine, thinners, driers, etc. shall be of highest quality, made by reputable manufacturers as specified, have identifying labels on containers and shall be approved by Owner.
    1. As part of the list of proposed subcontractors, the painting subcontractor shall indicate the name of the manufacturer whose material painting subcontractor will use.
-   1. EXECUTION
-   1. PREPARATION
+
+## Execution
+
+1. PREPARATION
    1. Inspection of Surfaces
    1. Do not begin painting on any surface until it has been inspected and is in proper condition to receive the paint as specified.
    1. The General Contractor shall be notified in writing of any unsuitable surfaces for a proper paint finish.
    1. Apply no material until the unsuitable surfaces have been made satisfactory.
    1. After acceptance of surface, by application of first coat of paint, painting contractor is responsible for rectifying any unsatisfactory finish.
-   1. If, after treatment, the completed finish (or any portion thereof) blisters, checks, peels, or otherwise shows indication of dampness or other irregular condition of surface, the painting contractor shall, at his own expense, remove the applied treatment and refinish the part affected to the satisfaction of the NREL.
+   1. If, after treatment, the completed finish (or any portion thereof) blisters, checks, peels, or otherwise shows indication of dampness or other irregular condition of surface, the painting contractor shall, at his own expense, remove the applied treatment and refinish the part affected to the satisfaction of the Owner.
    1. The painting contractor shall determine dryness of all moisture-holding materials by use of a reliable electronic moisture meter.
    1. Wood
    1. Sandpaper to smooth and even surface and then dust off.
@@ -84,7 +88,7 @@ tags: ['Facility', 'Construction', 'Finishes', 'Painting']
    1. Thoroughly clean by wiping surfaces with surface conditioner and prime with galvanized iron primer as recommended by paint manufacturer.
    1. Concrete and Concrete Masonry
    1. Prepare surfaces to be painted by removing all dirt, dust, oil and grease stains and efflorescence.
-   1. The method of surface preparation shall be left to the discretion of the painter, provided the results are satisfactory to NREL.
+   1. The method of surface preparation shall be left to the discretion of the painter, provided the results are satisfactory to Owner.
    1. Before first paint coat is applied, spot prime any nails and other exposed metal occurring in the surfaces with an oil-base masonry primer as recommended by paint manufacturer.
    1. Plaster Surfaces
    1. Fill cracks, holes or imperfections in plaster with patching plaster and smooth off to match adjoining surfaces.
@@ -100,8 +104,8 @@ tags: ['Facility', 'Construction', 'Finishes', 'Painting']
    1. Finished work shall be uniform, of approved color, smooth and free from runs, sags, clogging or excessive flooding.
    1. Make edges of paint adjoining other materials or colors sharp and clean, without overlapping.
    1. Where high gloss enamel is used, lightly sand undercoats to obtain a smooth finish coat.
-   1. Each coat of material applied must be inspected and approved by NREL before the application of the succeeding specified coat; otherwise no credit for the concealed coat will be given, and the Contractor shall assume the responsibility to recoat the work in question.
-   1. Painting Contractor shall notify NREL when each coat is completed.
+   1. Each coat of material applied must be inspected and approved by Owner before the application of the succeeding specified coat; otherwise no credit for the concealed coat will be given, and the Contractor shall assume the responsibility to recoat the work in question.
+   1. Painting Contractor shall notify Owner when each coat is completed.
    1. At completion, touch up and restore finish where damaged and leave finish surfaces in good condition.
-1. END OF SECTION
+
 

@@ -12,14 +12,12 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Specialized', 'Pressure', 'F
 
 ## General
 
-
-* 
-	1. **Summary
+1. SUMMARY
    1. Work under this section includes automatic control valves, and air release valves. 
 2. Related Specification Sections include:
 	1. Section 11 01 00, Equipment: Basic Requirements
 	2. Section 40 05 51, Valves: Basic Requirements
-	3. **Quality Assurance
+	3. Quality Assurance
 3. Work shall be per:
 	1. American Society of Mechanical Engineers (ASME):
 		1. B16.1, Gray Iron Pipe Flanges and Flanged Fittings: Classes 25, 125, and 250.
@@ -29,14 +27,13 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Specialized', 'Pressure', 'F
 	3. Canadian Standards Association (CSA).
 	4. National Electrical Manufacturers Association (NEMA):
 		1. 250, Enclosures for Electrical Equipment (1000 Volts Maximum).
-	5. **Submittals
+	5. Submittals
 4. See Specification Section 01 33 00 for requirements for the mechanics and administration of the submittal process.
 5. See Specification Section 40 05 51 for additional submittal requirements.
 6. Operation and Maintenance Manuals.
-   ## Product
+## Product
 
-* 
-	1. **Pump Control Valves
+	1. Pump Control Valves
    1. Acceptable Manufacturers:
 	1. Bermad, Model 745.
 2. Design:
@@ -62,7 +59,7 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Specialized', 'Pressure', 'F
 		2. Seals: Buna-N.
 	4. Coating:
 		1. Fusion bonded inside and outside.
-	5. **Vacuum Relief Valve
+	5. Vacuum Relief Valve
 5. Design:
 	1. Shall prevent back siphonage of water. 
 	2. Features lightweight, durable “disc float”.
@@ -71,7 +68,7 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Specialized', 'Pressure', 'F
 	2. Disc material: Silicone.
 	3. Up to 200 psi for water.
 	4. Spring material: stainless steel. 
-	5. **Pressure Relief Valve
+	5. Pressure Relief Valve
 7. Acceptable Manufacturer:
 	1. Cla-Val, Model 50-01.
 8. Design:
@@ -89,7 +86,7 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Specialized', 'Pressure', 'F
 	4. Disc: Buna-N Rubber.
 	5. Diaphragm: Nylon reinforced Buna-N Rubber.
 	6. Stem, nut and spring: Stainless Steel. 
-	7. **Air Relief Valve
+	7. Air Relief Valve
 10. Acceptable Manufacturers:
 	1. DeZurik.
 	2. Or approved equivalent.
@@ -112,6 +109,4 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Specialized', 'Pressure', 'F
 
 1. 3.1 Installation
    1. Install products based on manufacturer’s recommended installation instructions. 
-
-*[this page intentionally left blank]*
 

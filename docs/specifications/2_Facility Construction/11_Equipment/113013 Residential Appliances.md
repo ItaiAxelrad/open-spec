@@ -7,14 +7,12 @@ subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Equipment', 'Residential', 'Appliances']
 ---
 
-   1. SECTION 11 30 13
+
    1. RESIDENTIAL APPLIANCES
 
 ## General
 
-
-* 
-	1. Summary
+1. SUMMARY
    1. This Section includes the following:
 	1. Cooking equipment including:
 		1. Electric cooktops.
@@ -54,7 +52,6 @@ tags: ['Facility', 'Construction', 'Equipment', 'Residential', 'Appliances']
 4. Maintenance data.
    1. Product
 
-* 
 	1. Manufacturers
    1. In other Part 2 articles where titles below introduce lists, the following requirements apply to product selection:
 	1. Basis-of-Design Product: 
@@ -83,9 +80,10 @@ tags: ['Facility', 'Construction', 'Equipment', 'Residential', 'Appliances']
 8. Stainless-Steel Finish:
       1. 
 	1. Provide appliances with manufacturer's standard finish complying with manufacturer's written instructions for surface preparation including ground and polished stainless-steel surfaces for uniform, directionally textured finish.
-   1. Execution
 
-* 
+## Execution
+
+
 	1. Installation
    1. Built-in Equipment:
       1. 

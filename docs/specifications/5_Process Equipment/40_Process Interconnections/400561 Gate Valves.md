@@ -12,14 +12,12 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Gate', 'Valves']
 
 ## General
 
-
-* 
-	1. **Summary
+1. SUMMARY
    1. Work under this section shall include:
 	1. Gate valves and their installation.
 2. Related Specifications:
 	1. Section 40 05 51, Valves: Basic Requirements.
-	2. **Quality Assurance
+	2. Quality Assurance
 3. Work shall be per:
 	1. ASTM International (ASTM):
 		1. A126, Standard Specification for Gray Iron Castings for Valves, Flanges, and Pipe Fittings.
@@ -34,14 +32,14 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Gate', 'Valves']
 		1. SP-9, Spot Facing for Bronze, Iron and Steel Flanges.
 		2. SP-70, Cast Iron Gate Valves, Flanged and Threaded Ends.
 		3. SP-80, Bronze Gate, Globe, Angle and Check Valves.
-	4. **Submittals
+	4. Submittals
 4. See Specification Section 01 33 00 for requirements for the mechanics and administration of the submittal process.
 5. See Specification Section 40 05 51 for additional submittal requirements.
 6. Operation and Maintenance Manuals. 
-	1. **Definitions
+	1. Definitions
 7. EPDM:
       1. Ethylene Propylene Diene Monomer. 
-   ## Product
+## Product
 1. 2.1 Valves:
       1. Water (Process)
    1. Materials:

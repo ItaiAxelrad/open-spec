@@ -7,18 +7,13 @@ subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Flashing', 'Sheet', 'Metal']
 ---
 
-   1. Section 07 60 00
-   1. Flashing and Sheet Metal
-
 ## General
 
-
-* 
-	1. **Summary
+1. SUMMARY
    1. Section Includes:
 	1. Architectural flashing and sheet metal work.
 	2. Prefinished gutters and downspouts.
-	3. **Quality Assurance
+	3. Quality Assurance
 2. Referenced Standards:
 	1. American Architectural Manufacturers Association (AAMA):
 		1. 2605, Voluntary Specification, Performance Requirements and Test Procedures for Superior Performing Organic Coatings on Aluminum Extrusions and Panels.
@@ -35,13 +30,13 @@ tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Flashin
 3. Qualifications:
 	1. Sheet metal fabricator shall have minimum 10 years’ experience in fabrication of sheet metal items similar to items specified.
 	2. Sheet metal installer shall have minimum five (5) years’ experience installing sheet metal items specified.
-	3. **Definitions
+	3. Definitions
 4. Installer or Applicator:
 	1. Installer or applicator is the person actually installing or applying the product in the field at the Project site.
 	2. Installer and applicator are synonymous.
 5. PVDF:
       1. Polyvinylidene fluoride.
-	1. **Submittals
+	1. Submittals
 6. See Specification Section 01 33 00 for requirements for the mechanics and administration of the submittal process.
 7. Shop Drawings:
 	1. Product technical data including:
@@ -58,7 +53,7 @@ tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Flashin
 	2. For final color selection, provide two (2) 2 IN x 3 IN colored metal samples for each color selected during the preliminary color selection.
 9. Informational Submittals:
 	1. Warranty: Manufacturer's sample warranty language.
-   ## Product
+## Product
 1. 2.1 Materials
    1. Sheet Metal:
 	1. Aluminum: ASTM B209.
@@ -81,11 +76,7 @@ tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Flashin
 7. Dissimilar Metal Protection:
       1. Comply with Specification Section 09 90 00.
 1. 2.2 Fabricated Items
-
-## General
-
-
-:
+	 1. General:
 	1. Shop fabricate items to maximum extent possible.
 		1. Fabricate true and sharp to profiles and sizes indicated on Drawings.
 			1. Shop fabricate and weld or solder all corners.
@@ -158,6 +149,4 @@ tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Flashin
 	7. Maximum spacing of hanger straps shall be 10 FT with minimum of two (2) hanger straps per vertical piece of downspout.
 	8. Spacing and location of hanger straps shall be consistent from downspout to downspout.
 	9. Install downspout heat tape per manufacturer recommendations and as required by the local building code.
-
-*[this page intentionally left blank]*
 

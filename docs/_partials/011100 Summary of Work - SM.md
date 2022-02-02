@@ -7,8 +7,6 @@ subgroup: General Requirements
 tags: ['General', 'Requirements', 'Summary', 'Work', 'SM']
 ---
 
-   1. SECTION 01000
-
 ## General
 
  REQUIREMENTS
@@ -97,8 +95,6 @@ tags: ['General', 'Requirements', 'Summary', 'Work', 'SM']
 05. LICENSE
    1. The Contractor installing any new facilities or performing work on existing facilities within the City shall possess, prior to the start of the Project, a License, defined by the latest edition of the California Contractor's License Law and Reference Book, as:
       1. 
-* 
-	+ 
 		1. Class A or C-34 for water pipeline installations.
    1. Any Contractor possessing a license other than a Class A must obtain written approval from the City prior to initiating the work.
 06. GEOTECHNICAL REPORT
@@ -205,8 +201,7 @@ tags: ['General', 'Requirements', 'Summary', 'Work', 'SM']
 18. ENVIRONMENTAL CONTROL
    1. The Contractor shall abide by all applicable local, state and federal regulations, and by the conditions of the Regional Water Quality Control Board. The Contractor shall provide effective measures where necessary to prevent operations from producing dust in an amount damaging to property or causing a nuisance as determined by the City. The Contractor shall be responsible for any damage due to dust originating from its operations.
    1. The Contractor shall anticipate and correct any erosion problem arising from its operations.
-19. PUBLIC SAFETY** 
-   1. The Contractor shall at all times conduct operations in a manner causing the minimum obstruction and inconvenience to public traffic. The Contractor shall not interfere with the normal operation of public transit vehicles unless otherwise authorized. Open trenches and excavations shall be covered and provided with adequate barricades in accordance with the approved traffic control plan or the requirements of the agency of jurisdiction. At night, lights shall mark all open work and obstructions. The Contractor shall install and maintain all signs, lights, flares, barricades, traffic plates, railings, runways, stairs, bridges and other equipment necessary to safeguard the public. Safety instructions received from governmental authorities shall be followed, but compliance with such instructions shall not diminish the Contractor’s responsibility or liability for accidents to workers or damage or injury to persons or property. In accordance with generally accepted construction practices, the Contractor shall be solely and completely responsible for conditions of the job site, including safety of all persons and property during performance of the work, and the Contractor shall fully comply with all state, federal, and other laws, rules, regulations, and orders relating to the safety of workers and others. The right of the City to conduct construction review or observation of the Contractor's performance does not include review or observation of the adequacy of the Contractor's safety measures in, on, or near the construction site. 
+19. PUBLIC SAFETY*   1. The Contractor shall at all times conduct operations in a manner causing the minimum obstruction and inconvenience to public traffic. The Contractor shall not interfere with the normal operation of public transit vehicles unless otherwise authorized. Open trenches and excavations shall be covered and provided with adequate barricades in accordance with the approved traffic control plan or the requirements of the agency of jurisdiction. At night, lights shall mark all open work and obstructions. The Contractor shall install and maintain all signs, lights, flares, barricades, traffic plates, railings, runways, stairs, bridges and other equipment necessary to safeguard the public. Safety instructions received from governmental authorities shall be followed, but compliance with such instructions shall not diminish the Contractor’s responsibility or liability for accidents to workers or damage or injury to persons or property. In accordance with generally accepted construction practices, the Contractor shall be solely and completely responsible for conditions of the job site, including safety of all persons and property during performance of the work, and the Contractor shall fully comply with all state, federal, and other laws, rules, regulations, and orders relating to the safety of workers and others. The right of the City to conduct construction review or observation of the Contractor's performance does not include review or observation of the adequacy of the Contractor's safety measures in, on, or near the construction site. 
    1. The Contractor shall take immediate action to correct any condition adversely affecting public safety.
    1. Refer to GENERAL CONDITIONS Article 10.2 for additional Safety Requirements.
 20. PROTECTION OF WORKERS IN TRENCH EXCAVATION
@@ -221,7 +216,6 @@ tags: ['General', 'Requirements', 'Summary', 'Work', 'SM']
    1. All materials for use in the work shall be stored by the Contractor in such manner as to prevent damage from exposure to the elements, admixture of foreign materials, or from any other cause. The Contractor shall be entirely responsible for damage or loss by weather or other causes. The Material Safety Data Sheets (MSDS) for all products to be used in the work shall be kept on-site by the Contractor, and the material manufacturer's recommendations for proper storage of its products shall be strictly followed.
    1. Materials shall not be stored on City property without the written permission of the City. The Contractor shall be responsible to provide its own storage area or property. Materials for use on the work shall be stored on private property only as allowed by law and with the written permission of the property owner, and a copy of such permission shall be provided to the City. In addition, a release letter signed by said property owner and stating that materials are no longer stored on the property and that Contractor has restored the area to original condition is required prior to the filing of the Notice of Completion.
 
-* 
 	1.  **HOURS OF WORK
    1. The normal hours of work shall be between the hours of 8:00 a.m. and 6:00 p.m., Monday through Friday, except City-recognized holidays and holiday moratoriums. 
 2. The hours for night work shall be between:
@@ -281,5 +275,5 @@ tags: ['General', 'Requirements', 'Summary', 'Work', 'SM']
 ## Execution
 
  -** Not Used
-1. END OF SECTION
+
 

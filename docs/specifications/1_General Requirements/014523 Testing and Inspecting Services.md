@@ -12,9 +12,7 @@ tags: ['General', 'Requirements', 'Testing', 'Inspecting', 'Services']
 
 ## General
 
-
-* 
-	1. **Summary
+1. SUMMARY
    1. Section Includes:
 	1. Contractor responsibilities for special inspection and testing.
 	2. Special Inspection program and reporting requirements.
@@ -22,7 +20,7 @@ tags: ['General', 'Requirements', 'Testing', 'Inspecting', 'Services']
 	1. This Document was developed to address the requirements of the 2015 International Building Code:
 		1. The contractor will be required to hire one or more special inspectors to provide inspections during constructions on the types of work listed under IBC Section 1704.
 	2. A Statement of Special Inspections will be submitted to the Building Code Official as a condition for permit issuance. 
-	3. **Definitions
+	3. Definitions
 3. NICET:
       1. National Institute for Certification in Engineering Technologies.
 4. Special Inspector:
@@ -35,7 +33,7 @@ tags: ['General', 'Requirements', 'Testing', 'Inspecting', 'Services']
       1. Document provided to the Building Code Official outlining special inspections and tests to be done on the project and frequency of required test.
 8. Testing Agency:
       1. Approved agency, not affiliated with or hired by the Contractor, which is responsible for the materials testing and special inspection requirements of the project including but not limited to concrete cylinder breaks, soils testing, and masonry materials testing.
-	1. **Contractor’s Responsibilities
+	1. Contractor’s Responsibilities
 9. Cooperate with Owner, Engineer, testing agency personnel, special inspector, and agents of the Building Code Official and provide access to the work.
 	1. Contractor shall provide timely access to work for allowing testing and special inspections and shall provide a schedule of work every two weeks to coordinate with Owner and Engineer such that testing agency may be made available as required.
 	2. Providing access to the work shall include all labor and facilities to perform inspections and tests as listed in the specifications for the duration of the inspections or tests involved.
@@ -48,7 +46,7 @@ tags: ['General', 'Requirements', 'Testing', 'Inspecting', 'Services']
 14. Work to be inspected should be complete at time of inspector's arrival on-site.
 15. Payment for Special Inspection services will be in accordance with the following:
 	1. The contractor is responsible for payment and all costs pertaining to the special inspections and testing.
-	2. **Qualifications
+	2. Qualifications
 16. Referenced Standards:
 	1. International Code Council (ICC):
 		1. International Building Code and associated standards, 2015 Edition including all amendments, referred to herein as Building Code.
@@ -95,12 +93,15 @@ tags: ['General', 'Requirements', 'Testing', 'Inspecting', 'Services']
 		1. International Code Council Spray-Applied Fireproofing Certification and (3) years of related experience; or
 		2. International Code Council Fire Inspector 1 Certification and (3) years of related experience.
 	10. Other equivalent certifications will not be acceptable unless approved by the Engineer.
-	11. **Reporting Duties and Authority
+	11. Reporting Duties and Authority
 21. Special Inspector shall promptly report acceptability of or deficiency in the work to the Engineer and Contractor.
 	1. Deficient work that has been covered up or concealed prior to re-inspection shall be reported to the Engineer and the Building Code Official.
 	2. Owner retains the responsibility and prerogative for ultimately rejecting or approving any portion of the work.
 22. Special Inspector does not have authority to stop work or modify the requirements of the Contract Documents.
-   ## Product (Not Used)
+
+## Product 
+
+ (Not Used)
 
 
 ## Execution

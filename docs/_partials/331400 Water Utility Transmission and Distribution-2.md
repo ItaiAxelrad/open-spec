@@ -7,14 +7,13 @@ subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Utilities', 'Water', 'Utility', 'Transmission', 'Distribution']
 ---
 
-1. SECTION 33 11 00
+
    1. water UTILITY distribution PIPING
 1. BASED ON DFD MASTER SPECIFICATION DATED 09/01/2015
    1. This section has been written to cover most (but not all) situations that you will encounter. Depending on the requirements of your specific project, you may have to add material, delete items, or modify what is currently written. The Division of Facilities Development expects changes and comments from you.
 1. *Modify this document to account for project specific conditions.*
 1. *Note to the Designer:
-      1. If project also includes plumbing coordinate this section with:*** 
-
+      1. If project also includes plumbing coordinate this section with:**
 * ***Section 22 11 00 – Facility Water Distribution*
 
  ***and clearly define party responsible for testing of the respective utility on the Drawings.*
@@ -52,7 +51,9 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Water', 'Utility', 'Transmission'
    1. Locator Tape
    1. Chlorine
    1. Pipe Joint Lubricant
-   1. Execution
+
+## Execution
+
 
 ## General
 
@@ -308,8 +309,7 @@ Value
 1. locator tape
    1. Tape shall be detectable metallic locator tape, specifically manufactured for marking utilities with a minimum width of 6 inches and detectable at a depth of 18”.
    1. Tape for potable water shall be marked “WATER” and blue colored. Tape for non-potable water shall be marked “NON-POTABLE WATER” and purple colored.
-1. chlorine** 
-   1. Chlorine disinfectant shall be calcium hypochlorite tablets or granules. Calcium hypochlorite product shall meet requirements for AWWA C651 – Standard for Disinfecting Water Mains - latest revision.
+1. chlorine*   1. Chlorine disinfectant shall be calcium hypochlorite tablets or granules. Calcium hypochlorite product shall meet requirements for AWWA C651 – Standard for Disinfecting Water Mains - latest revision.
    1. Arch “HTH”, or approved equal.
 1. Pipe joint lubricant
    1. Petroleum free pipe lubricant formulated for use with potable water systems. Product shall meet the requirements of ANSI/AWWA C111/A21.11 - latest revision.
@@ -481,5 +481,5 @@ Value
 * Results of sample analysis
    1. If sample results indicate water is “Unsafe – Coliform Bacteria Present”, Contractor shall re-disinfect watermain and water services by introducing additional chlorine into the line and re-flushing the main. This process shall be repeated as necessary until a clean sample is obtained. The Contractor shall be responsible for all costs associated with all efforts necessary to obtain a “Safe – Coliform Bacteria Not Present” sample.
    1. Submit reports documenting bacteriological sample collection and analysis. 
-1. END OF SECTION
+
 

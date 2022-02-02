@@ -73,8 +73,7 @@ tags: ['General', 'Requirements', 'Closeout', 'Procedures']
 
 1.  
 
-* 
-	1. **CLOSEOUT PROCEDURES
+	1. CLOSEOUT PROCEDURES
    1. CONTRACTOR shall notify OWNER in writing the “Substantial Completion” has been reached. CONTRACTOR shall provide a list of items to be completed or corrected. 
 2. OWNER shall inspect the work to determine if it is substantially complete, and will issue a Certificate of Substantial Completion and a punch list of items to be completed and/or corrected.
 3. CONTRACTOR will complete and/or correct all punch list items and notify OWNER in writing that the work is ready for final inspection. CONTRACTOR shall also submit Application for Final Payment at that time.
@@ -82,5 +81,5 @@ tags: ['General', 'Requirements', 'Closeout', 'Procedures']
 5. If CONTRACTOR has failed to complete and/or correct any punch list items, such that additional inspection is necessary by OWNER, then CONTRACTOR will be billed at OWNER’S customary rate for additional services. CONTRACTOR should submit a Request for Clarification to OWNER, if there is any doubt about final acceptability.
 1. PART 4 - MEASUREMENT AND PAYMENT
 1. When not listed in the proposal, all ACONTRACT CLOSEOUT costs will be considered incidental work for which no separate payment will be made.
-1. END OF SECTION
+
 

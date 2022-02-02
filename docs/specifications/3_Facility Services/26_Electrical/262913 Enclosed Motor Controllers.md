@@ -7,14 +7,6 @@ subgroup: Facility Services
 tags: ['Facility', 'Services', 'Electrical', 'Enclosed', 'Motor', 'Controllers']
 ---
 
-1. Copyright 2002 and 2005 by The American Institute of Architects (AIA)
-1. Exclusively published and distributed by Architectural Computer Services, Inc. (ARCOM) for the AIA
-1. This Section uses the term "Architect." Change this term to match that used to identify the design professional as defined in the General and Supplementary Conditions.
-1. Verify that Section titles referenced in this Section are correct for this Project's Specifications; Section titles may have changed.
-1. If applying for LEED certification, LEED-NC Prerequisite EA 2 requires compliance with ASHRAE/IESNA 90.1-2004, which requires the use of mechanical or electrical variable speed drives on fan motors used in VAV system fans that are 15 hp and larger and on motors in variable flow hydronic systems that are larger than 50 hp.
-1. Energy savings resulting from the use of variable frequency motor controllers on motors other than required by Prerequisite EA 2 can be combined with other energy-saving measures to meet the requirements of LEED-NC Credit EA 1.
-1. LEED-NC Credit EA 5 requires the development of a Measurement & Verification (M&V) Plan to achieve this credit. Energy used by each VFC can be used in the simulation calibration process required by the International Performance Measurement & Verification Protocol (IPMVP), Volume III, Chapter 4, "Whole Building Calibrated Simulation" (Option D) to verify the building's compliance with this credit.
-
 ## General
 
 1. RELATED DOCUMENTS
@@ -22,8 +14,7 @@ tags: ['Facility', 'Services', 'Electrical', 'Enclosed', 'Motor', 'Controllers']
 1. SUMMARY
    1. This Section includes:
       1. manual motor starters, combination starters, motor starter panelboards, and motor control centers.
-1. References** 
-   1. National Electrical Manufacturers Association (NEMA) 
+1. References*   1. National Electrical Manufacturers Association (NEMA) 
    1. ICS 2 - Industrial Control Devices, Controllers and Assemblies. 
    1. ICS 6 - Enclosures for Industrial Control and Systems. 
    1. PB 1 - Panelboards. 
@@ -32,8 +23,7 @@ tags: ['Facility', 'Services', 'Electrical', 'Enclosed', 'Motor', 'Controllers']
    1. 98 - Enclosed and Dead-Front Switches. 
    1. 508 - Electric Industrial Control Equipment. 
    1. 845 - Electric Motor Control Centers. 
-1. Submittals** 
-   1. Product Data 
+1. Submittals*   1. Product Data 
    1. Submit manufacturer's technical product data for each type of motor control product provided. 
    1. Shop Drawings 
    1. Submit dimensioned drawings of products including elevations of motor control centers and motor starter panelboards. Indicate Circuit number from Motor Control Center Schedule, which each unit serves.
@@ -41,9 +31,7 @@ tags: ['Facility', 'Services', 'Electrical', 'Enclosed', 'Motor', 'Controllers']
    1. Provide typewritten table itemizing each motor served, horsepower, field-verified full-load amperes and size of overload relays and elements provided. Indicate Circuit number from Motor Control Center Schedule, which each unit serves.
    1. Quality Control Submittals 
    1. Submit results of specified field tests. 
-1. Products** 
-1. Manual Motor Starter** 
-   1. Manufacturers 
+1. Products*1. Manual Motor Starter*   1. Manufacturers 
    1. Allen-Bradley Co. 
    1. Cutler-Hammer
    1. GE Company 
@@ -55,8 +43,7 @@ tags: ['Facility', 'Services', 'Electrical', 'Enclosed', 'Motor', 'Controllers']
    1. Provide single-phase, 60 hertz, fractional HP, nonreversing, full voltage manual motor starter with quick-make, quick-break, toggle mechanism. 
    1. Provide NEMA 1 enclosure, unless otherwise indicated, suitable for surface mounting applications. Provide brushed stainless steel face plate for flush mounting applications. 
    1. Provide starter with one thermal overload element, red "running" pilot light, and padlock guard. Select element to match installed, field verified, motor characteristics. 
-1. Combination Motor Control Starter** 
-   1. Manufacturers 
+1. Combination Motor Control Starter*   1. Manufacturers 
    1. Allen-Bradley Co. 
    1. Cutler-Hammer
    1. GE Company. 
@@ -89,11 +76,9 @@ tags: ['Facility', 'Services', 'Electrical', 'Enclosed', 'Motor', 'Controllers']
    1. Provide legend plate for cover mounted control devices with information as indicated. 
    1. For starters serving multispeed speed motors, match controller to motor type, application and number of speeds.
    1. Provide NEMA 1 type enclosure unless indicated otherwise. Provide corrosion resistant primer treatment and light gray baked acrylic enamel finish. 
-1. Branch Circuit/Feeder Disconnect** 
-   1. Disconnect 
+1. Branch Circuit/Feeder Disconnect*   1. Disconnect 
    1. Provide disconnect of same type and features as disconnect specified for combination motor starters. 
-1. Motor Starter Panelboard** 
-   1. Manufacturers 
+1. Motor Starter Panelboard*   1. Manufacturers 
    1. Cutler-Hammer:
       1. Mac 
    1. GE Company:
@@ -112,8 +97,7 @@ tags: ['Facility', 'Services', 'Electrical', 'Enclosed', 'Motor', 'Controllers']
    1. Provide wiring gutters sized per UL 67. 
    1. Provide combination starter units and branch circuit/feeder disconnects of type and number as specified and indicated. 
    1. Provide copper bussing designed to accommodate plug-on or bolted starter units and branch circuit feeder disconnects. 
-1. Motor Control Center (Mcc)** 
-   1. Manufacturers 
+1. Motor Control Center (Mcc)*   1. Manufacturers 
    1. Allen-Bradley Co.:
       1. Bulletin 2100 
    1. Cutler-Hammer:
@@ -172,9 +156,7 @@ tags: ['Facility', 'Services', 'Electrical', 'Enclosed', 'Motor', 'Controllers']
    1. Wiring 
    1. Provide MCC with NEMA class I, type A wiring unless otherwise indicated. 
    1. Provide 600-volt, 90-degree C. insulated, stranded copper, single conductor, minimum no. 14 AWG size, for control and power wire. 
-1. Execution** 
-1. Installation** 
-
+1. Execution*1. Installation*
 ## General
 
 
@@ -188,8 +170,7 @@ tags: ['Facility', 'Services', 'Electrical', 'Enclosed', 'Motor', 'Controllers']
    1. Equipment designation (e.g., "MCC-1A") 
    1. Electrical characteristics (e.g., "480V, 3Ph, 3W") 
    1. Main bus ratings (e.g., "800A") 
-1. Field Quality Control** 
-   1. Field Tests:
+1. Field Quality Control*   1. Field Tests:
       1. Motor Control Center 
    1. Provide mechanical inspection and operation to determine that the equipment performs mechanically as specified. 
    1. Verify that fuses and circuit breakers are as specified. 
@@ -199,6 +180,5 @@ tags: ['Facility', 'Services', 'Electrical', 'Enclosed', 'Motor', 'Controllers']
    1. Provide insulation resistance test. 
    1. Provide contact resistance test on the starter contacts. 
    1. Test overload relays to prove that they function as specified. Apply primary test current to one overload relay at a time. Provide sufficient test current to cause relay to perform its design function. Leave overload relays at their in-service setting. 
-1. END OF SECTION 262913
 1. (THIS PAGE INTENTIONALLY BLANK)
 

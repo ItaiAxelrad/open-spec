@@ -7,7 +7,7 @@ subgroup: General Requirements
 tags: ['General', 'Requirements', 'Final', 'Cleaning']
 ---
 
-1. SECTION 01 74 23
+
 1. FINAL CLEANING
 
 ## General
@@ -15,19 +15,21 @@ tags: ['General', 'Requirements', 'Final', 'Cleaning']
 01. RELATED DOCUMENTS
    1. Drawings and general provisions of the Contract, including General and Supplementary
 Conditions and Division 01 Specification Sections, apply to this Section.
-   1. SUMMARY
+1. SUMMARY
 1. Section Includes:
       1. Procedural requirements to perform final cleaning.
       1. Pollution Control:
          1. Conduct clean up and disposal operations to comply with applicable anti-pollution laws and local ordinances.
-   1. SUBMITTALS
+1. SUBMITTALS
 1. Provide product data for all cleaning materials for approval by owner.
 
 ## Product
 
 01. CLEANING MATERIALS
    1. Use only cleaning materials that meet or exceed owner’s standards. The site shall be inspected for cleanliness prior to the application of finish materials. Use methods recommended by manufacturer of surface to be cleaned and by the manufacturer of the cleaning materials or as specified within this section.
-   1. Execution
+
+## Execution
+
 01. FINAL CLEANING GENERAL
    1. Perform final cleaning just prior to completion observation.
 1. Use experienced workers or professional cleaners.
@@ -45,5 +47,5 @@ Conditions and Division 01 Specification Sections, apply to this Section.
 13. Replace air supply unit filters if units were operated during construction or if not protected during construction, by mechanical installer.
 14. Clean ducts, blowers, and coils if air supply units were operated without filters during construction, by mechanical installer.
 15. Maintain cleaning until the building or portion thereof, is occupied or accepted by owner.
-1. END OF SECTION
+
 

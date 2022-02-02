@@ -10,5 +10,3 @@ tags: ['Facility', 'Services', 'Electrical']
    1. Division 26
    1. Electrical
 
-*[this page intentionally left blank]*
-

@@ -29,7 +29,7 @@ tags: ['Facility', 'Construction', 'Specialties', 'Other']
       1. Metal finishes.
    1. Maintenance Instructions
    1. Submit maintenance instructions for finished materials and operating and maintenance instructions for operating components.
-   1. PROJECT CONDITIONS
+1. PROJECT CONDITIONS
    1. Field Measurements
    1. Take field measurements to verify or supplement dimensions indicated. Be responsible for accurate fit of the Work.
    1. products
@@ -76,8 +76,10 @@ tags: ['Facility', 'Construction', 'Specialties', 'Other']
       1. extruded aluminum, alloy 6063-T52, neatly coped at corners and assembled with stainless steel screws, for 4-inch nominal recess.
    1. Finish for aluminum:
       1. mill finish, surfaces in contact with concrete coated with zinc chromate paint.
-   1. execution
-   1. PREPARATION
+
+## Execution
+
+1. PREPARATION
    1. Protection
    1. Protect the Work and adjacent construction against damage.
    1. Installation
@@ -97,5 +99,4 @@ tags: ['Facility', 'Construction', 'Specialties', 'Other']
    1. Install frame surface mounted in recess in concrete floor in a level and accurate plane. Set grating in frame.
    1. CLEANING
    1. Upon completion, clean the Work in accordance with manufacturer's instructions.
-1. END OF SECTIONTHIS PAGE INTENTIONALLY BLANK
 

@@ -4,7 +4,7 @@ section: '260543'
 divNumb: 26
 divName: Electrical
 subgroup: Facility Services
-tags: ['Facility', 'Services', 'Electrical', 'Undergroud', 'Ducts', 'Raceways', 'for', 'Systems']
+tags: ['Facility', 'Services', 'Electrical', 'Undergroud', 'Ducts', 'Raceways', 'Systems']
 ---
 
 
@@ -27,14 +27,18 @@ tags: ['Facility', 'Services', 'Electrical', 'Undergroud', 'Ducts', 'Raceways', 
    1. Submit dimensioned drawings of underground duct system, showing layout of ducts, spatial relationships to adjoining underground utility lines and connections to building electrical equipment and other structures.
    1. Quality Control Submittals
    1. Submit results of field tests.
-   1. Products
+
+## Products
+
    1. Conduit And Duct
    1. Material
    1. Galvanized rigid steel conduit and rigid non-metallic conduit as specified for installation condition.
    1. Conduit And Duct Accessories
    1. Material
    1. Provide fittings, bushings, and other accessories designed to match and mate with the size and type of conduit and duct provided.
-   1. Execution
+
+## Execution
+
    1. Installation
    1. Excavation and Backfilling
    1. Provide excavation and backfilling as specified in Section 312000, "Earth Moving".
@@ -76,6 +80,5 @@ tags: ['Facility', 'Services', 'Electrical', 'Undergroud', 'Ducts', 'Raceways', 
    1. Field Quality Control
    1. Field Tests
    1. Upon completion of the duct bank, test each conduit for clearance by pulling a mandrel through the conduit. For straight runs, use a mandrel diameter of 1/4 inch less than the nominal diameter of the conduit. For curved runs use a tapered mandrel having a length of 6 inches and end diameters of 6 and 1/4 and 1/2 inch less than the conduit diameter. After the mandrel test, clean the ducts by pulling a wire brush through.
-   1. END OF SECTION
-   1. THIS PAGE INTENTIONALLY BLANK
-
+   
+   

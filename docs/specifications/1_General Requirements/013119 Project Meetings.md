@@ -10,7 +10,7 @@ tags: ['General', 'Requirements', 'Project', 'Meetings']
 
 ## General
 
-   1. SUMMARY
+1. SUMMARY
    1. Section Includes
    1. Pre-Construction Conferences
    1. Prior to the commencement of construction, the Contractor and major Sub-Contractors shall attend a pre-construction conference at the site of the construction where administrative construction procedures and instruction shall be discussed. These items include:
@@ -46,7 +46,11 @@ tags: ['General', 'Requirements', 'Project', 'Meetings']
    1. Pending changes and substitutions.
    1. Personnel whose presence is requested are required to attend.
    1. Discussions agreed upon during those meetings are binding on all parties, if all parties agree. If consensus is not reached, disputes shall be settled as provided for in the General Conditions. Owner, Project Manager and Contractor's Superintendent will document such meetings.
-   1. PRODUCTS
-   1. Execution
-1. END OF SECTION
+
+## Products
+
+
+## Execution
+
+
 

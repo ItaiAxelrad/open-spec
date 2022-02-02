@@ -7,84 +7,80 @@ subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Finishes', 'High', 'Performance', 'Coatings']
 ---
 
-
 ## General
 
-   1. Summary
+1. Summary
    1. The Work includes the application of special coating systems to items and surfaces as shown or specified, including surface preparation, prime coats and topcoats.
-
-## General
-
- painting for the Project is specified in another Division-9 Section of the Specifications.
-   1. Extent of special coating work is indicated on the Drawings and schedules, and as herein specified.
-   1. Coating systems for the Project include:
+   2. General painting for the Project is specified in another Division-9 Section of the Specifications.
+   3. Extent of special coating work is indicated on the Drawings and schedules, and as herein specified.
+   4. Coating systems for the Project include:
       1. Special coatings for exterior use
-   1. Two-component polyamide epoxy coal-tar.
-   1. Two-component, pigmented aliphatic polyurethane coating.
-   1. Silicone alkyd gloss enamel coating.
-   1. Heat-resistant, silicone aluminum coating (400 degrees F.)
-   1. Heat-resistant aluminum coating (1200 degrees F.)
-   1. Special coatings for interior use
-   1. Two-component, high performance polyamide epoxy coating (HIPAC).
-   1. Two-component, polyester epoxy coating (HIPAC).
-   1. Two-component, pigmented aliphatic polyurethane coating.
-   1. Two-component, epoxy emulsion (water base).
-   1. References
-   1. SSPC:
+   5. Two-component polyamide epoxy coal-tar.
+   6. Two-component, pigmented aliphatic polyurethane coating.
+   7. Silicone alkyd gloss enamel coating.
+   8. Heat-resistant, silicone aluminum coating (400 degrees F.)
+   9. Heat-resistant aluminum coating (1200 degrees F.)
+   10. Special coatings for interior use
+   11. Two-component, high performance polyamide epoxy coating (HIPAC).
+   12. Two-component, polyester epoxy coating (HIPAC).
+   13. Two-component, pigmented aliphatic polyurethane coating.
+   14. Two-component, epoxy emulsion (water base).
+15. References
+   16. SSPC:
       1. The Society for Protective Coatings
-   1. SSPC-SP 6 - Commercial Blast Cleaning
-   1. SSPC-SP 10 - Near-White Blast Cleaning
-   1. definitions
-   1. Special coating systems are defined as those types of materials and methods of application requiring more than the normal skills and techniques for mixing, handling and application specified in the "Painting" Section.
-   1. The term "special coating systems" as used in this Section includes applied materials used in prime, intermediate and finish coats.
-   1. The term "exposed surfaces" is defined to include areas visible when permanent or built-in fixtures, convector covers, covers for finned tube radiation, grilles, and similar components are in place in areas to be coated. Extend special coatings in these areas as necessary to maintain the coating system integrity and provide desired protection.
-   1. Submittals
-   1. Product Data
-   1. Submit manufacturer's technical information, including application instructions for each coating material specified.
-   1. List each material and cross-reference to the specific coating and finish system and application. Identify each material by the manufacturer's catalog number and general classification.
-   1. Substitutions
-   1. The products of manufacturers not named may be submitted for use provided they are equal in quality and grade to the primers and finishes specified as approved by the Architect. If substitute paint products are desired, submit a statement to the Architect giving the manufacturer's name, proposed primer and finish for each paint system, analysis of each type of paint, and the use or uses intended. Failure to submit such statement will be cause for rejection.
-   1. The substitute manufacturer shall provide a letter of certification stating that all coatings proposed are in compliance with the restrictions on the lead and chromium content in the "Hazardous Restrictions" Article below.
-   1. Samples
-   1. Prior to beginning Work, the Architect will furnish color chips for surfaces to be coated. Use representative colors when preparing Samples for review. Submit Samples for the Architect's review of color and texture only. Provide a listing of material and application for each coat of each finish Sample.
-   1. Provide Samples of each color and material to be applied, with texture to simulate actual conditions, on representative Samples of the actual substrate. Resubmit Samples as requested until the required sheen, color and texture is achieved.
-   1. Concrete:
-      1. provide two 4-inch-square Samples for each type of color and finish; define prime and finish coats.
-   1. Concrete masonry:
-      1. provide two 8-inch-square samples of masonry, with mortar joint in the center, for each type of finish and color; define block filler, prime coat and finish coat.
-   1. Wood:
-      1. provide two 12-inch-square Samples of hardboard for each type of finish and color.
-   1. Ferrous metal:
-      1. provide two 4-inch-square Samples of flat metal surfaces and two 8-inch-long samples of solid metal for each type of color and finish; define prime and finish coats.
-   1. Quality Assurance
-   1. Single Source Responsibility
-   1. Provide primers and other undercoat material produced by the same manufacturer as the finish coats. Use only thinners recommended by the manufacturer, and only within recommended limits.
-   1. Coordination of Work
-   1. Review other Sections of the Specifications in which other coatings are being provided to ensure compatibility of the total coatings systems for various substrates. Upon request, furnish information on the characteristics of specified finish materials, to ensure that compatible prime coats are use.
-   1. Notify the Architect of any anticipated problems involved in using the coatings systems as specified.
-   1. Field Samples
-   1. On actual wall surfaces and other interior and exterior building components, duplicate coating finishes of prepared samples. Provide full-coat finish samples on at least 100 square feet of surface as directed, until required sheen, color, and texture is obtained; simulate finished lighting conditions for review of in-place Work.
-   1. Final acceptance of colors will be from samples applied on the job.
-   1. The Architect will select one room, area or surface to represent typical job surfaces and conditions for each type of coating and substrate to be coated. Apply special coatings in this room, area or surface in accordance with the schedule, or as specified. After finishes are accepted, this room, area or surface is used for evaluation of other coating systems of a similar nature.
-   1. Material Quality
-   1. Provide the best quality grade of the various types of coatings as regularly manufactured by acceptable coating manufacturers. Materials not displaying manufacturer's identification as a standard, best-grade product is not acceptable.
-   1. Proprietary names used to designate colors or materials are not intended to imply that products of named manufacturers are required to the exclusion of equivalent products of other manufacturers.
-   1. Delivery, Storage And Handling
-   1. Delivery
-   1. Deliver materials to the job site in the manufacturer's original, new, unopened packages and containers bearing manufacturer's name and label and the following information:
-      1. Name or title of material.
-   1. Federal specification number, if applicable.
-   1. Manufacturer's stock number and date of manufacture.
-   1. Manufacturer's name.
-   1. Contents by volume, for major pigment and vehicle constituents.
-   1. Thinning instructions.
-   1. Application instructions.
-   1. Color name and number.
-   1. Handling instructions and precautions.
-   1. Storage
-   1. Store materials not in actual use in tightly covered containers, at a minimum ambient temperature of 45 degrees F, in a well ventilated area. Maintain containers used in storage of coatings in a clean condition, free of foreign materials and residue.
-   1. Protect from freezing where necessary. Keep storage area neat and orderly. Remove oil rags and waste daily. Take all necessary precautionary measures to ensure that workmen and work areas are adequately protected from fire hazards and health hazards resulting from handling, mixing and application of stains.
-   1. Project Conditions
+   17. SSPC-SP 6 - Commercial Blast Cleaning
+   18. SSPC-SP 10 - Near-White Blast Cleaning
+   19. definitions
+   20. Special coating systems are defined as those types of materials and methods of application requiring more than the normal skills and techniques for mixing, handling and application specified in the "Painting" Section.
+   21. The term "special coating systems" as used in this Section includes applied materials used in prime, intermediate and finish coats.
+   22. The term "exposed surfaces" is defined to include areas visible when permanent or built-in fixtures, convector covers, covers for finned tube radiation, grilles, and similar components are in place in areas to be coated. Extend special coatings in these areas as necessary to maintain the coating system integrity and provide desired protection.
+23. Submittals
+   24. Product Data
+   25. Submit manufacturer's technical information, including application instructions for each coating material specified.
+   26. List each material and cross-reference to the specific coating and finish system and application. Identify each material by the manufacturer's catalog number and general classification.
+   27. Substitutions
+   28. The products of manufacturers not named may be submitted for use provided they are equal in quality and grade to the primers and finishes specified as approved by the Architect. If substitute paint products are desired, submit a statement to the Architect giving the manufacturer's name, proposed primer and finish for each paint system, analysis of each type of paint, and the use or uses intended. Failure to submit such statement will be cause for rejection.
+   29. The substitute manufacturer shall provide a letter of certification stating that all coatings proposed are in compliance with the restrictions on the lead and chromium content in the "Hazardous Restrictions" Article below.
+   30. Samples
+   31. Prior to beginning Work, the Architect will furnish color chips for surfaces to be coated. Use representative colors when preparing Samples for review. Submit Samples for the Architect's review of color and texture only. Provide a listing of material and application for each coat of each finish Sample.
+   32. Provide Samples of each color and material to be applied, with texture to simulate actual conditions, on representative Samples of the actual substrate. Resubmit Samples as requested until the required sheen, color and texture is achieved.
+   33. Concrete:
+      2. provide two 4-inch-square Samples for each type of color and finish; define prime and finish coats.
+   34. Concrete masonry:
+      3. provide two 8-inch-square samples of masonry, with mortar joint in the center, for each type of finish and color; define block filler, prime coat and finish coat.
+   35. Wood:
+      4. provide two 12-inch-square Samples of hardboard for each type of finish and color.
+   36. Ferrous metal:
+      5. provide two 4-inch-square Samples of flat metal surfaces and two 8-inch-long samples of solid metal for each type of color and finish; define prime and finish coats.
+   37. Quality Assurance
+   38. Single Source Responsibility
+   39. Provide primers and other undercoat material produced by the same manufacturer as the finish coats. Use only thinners recommended by the manufacturer, and only within recommended limits.
+   40. Coordination of Work
+   41. Review other Sections of the Specifications in which other coatings are being provided to ensure compatibility of the total coatings systems for various substrates. Upon request, furnish information on the characteristics of specified finish materials, to ensure that compatible prime coats are use.
+   42. Notify the Architect of any anticipated problems involved in using the coatings systems as specified.
+   43. Field Samples
+   44. On actual wall surfaces and other interior and exterior building components, duplicate coating finishes of prepared samples. Provide full-coat finish samples on at least 100 square feet of surface as directed, until required sheen, color, and texture is obtained; simulate finished lighting conditions for review of in-place Work.
+   45. Final acceptance of colors will be from samples applied on the job.
+   46. The Architect will select one room, area or surface to represent typical job surfaces and conditions for each type of coating and substrate to be coated. Apply special coatings in this room, area or surface in accordance with the schedule, or as specified. After finishes are accepted, this room, area or surface is used for evaluation of other coating systems of a similar nature.
+   47. Material Quality
+   48. Provide the best quality grade of the various types of coatings as regularly manufactured by acceptable coating manufacturers. Materials not displaying manufacturer's identification as a standard, best-grade product is not acceptable.
+   49. Proprietary names used to designate colors or materials are not intended to imply that products of named manufacturers are required to the exclusion of equivalent products of other manufacturers.
+   50. Delivery, Storage And Handling
+   51. Delivery
+   52. Deliver materials to the job site in the manufacturer's original, new, unopened packages and containers bearing manufacturer's name and label and the following information:
+      6. Name or title of material.
+   53. Federal specification number, if applicable.
+   54. Manufacturer's stock number and date of manufacture.
+   55. Manufacturer's name.
+   56. Contents by volume, for major pigment and vehicle constituents.
+   57. Thinning instructions.
+   58. Application instructions.
+   59. Color name and number.
+   60. Handling instructions and precautions.
+   61. Storage
+   62. Store materials not in actual use in tightly covered containers, at a minimum ambient temperature of 45 degrees F, in a well ventilated area. Maintain containers used in storage of coatings in a clean condition, free of foreign materials and residue.
+   63. Protect from freezing where necessary. Keep storage area neat and orderly. Remove oil rags and waste daily. Take all necessary precautionary measures to ensure that workmen and work areas are adequately protected from fire hazards and health hazards resulting from handling, mixing and application of stains.
+   64. Project Conditions
 
 ## General
 
@@ -99,7 +95,9 @@ tags: ['Facility', 'Construction', 'Finishes', 'High', 'Performance', 'Coatings'
    1. Do not use mercurial fungicides paints containing lead or chromium in excess of 0.06 percent by weight of the total nonvolatile content (calculated as lead or chromium metal).
    1. Mercury
    1. Do not use mercurial fungicides.
-   1. Products
+
+## Products
+
    1. Manufacturers
    1. Subject to compliance with specified requirements, provide products of one of the following:
       1. Ameron International, Protective Coatings Group (Ameron)
@@ -312,7 +310,9 @@ tags: ['Facility', 'Construction', 'Finishes', 'High', 'Performance', 'Coatings'
    1. PPG 98-1 Series Semi-Gloss Aquapon WB Waterborne Polyamide Epoxy.
    1. SW Water Based Catalyzed Epoxy, B70 Series/B60V25.
    1. Tnemec Series 114 Tneme-Tufcoat.
-   1. Execution
+
+## Execution
+
    1. Inspection
    1. Starting of coating Work is construed as the applicator's acceptance of surfaces within any particular area.
    1. Preparation
@@ -519,5 +519,5 @@ tags: ['Facility', 'Construction', 'Finishes', 'High', 'Performance', 'Coatings'
    1. Metal primer as recommended by the coating manufacturer
    1. First coat epoxy emulsion
    1. Second coat epoxy emulsion.
-1. END OF SECTION
+
 

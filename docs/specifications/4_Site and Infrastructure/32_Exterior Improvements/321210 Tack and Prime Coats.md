@@ -7,9 +7,6 @@ subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Tack', 'Prime', 'Coats']
 ---
 
-1. SECTION 321210
-1. BITUMINOUS TACK AND PRIME COATS
-
 ## General
 
 1. REFERENCES
@@ -54,35 +51,32 @@ Building Rating System for New Construction (LEED-NC)
    1. Waybills and Delivery Tickets
 1. The Contractor shall file with the Owner certified waybills and certified delivery tickets for all bituminous materials used in the construction of the pavement covered by the contract, before the final statement is allowed. These submittals are required for Unit Pricing bid only. The Contractor shall not remove bituminous material from storage until the initial outage and temperature measurements have been taken. The delivery or storage units shall not be released until the final outage has been taken.
 4. PLANT, EQUIPMENT, MACHINES AND TOOLS
-
-## General
-
- Requirements
-1. Plant, equipment, machines and tools used in the work shall be subject to approval and shall be maintained in a satisfactory working condition at all times. Calibrated equipment such as asphalt distributors, scales, batching equipment, spreaders and similar equipment, shall have been recalibrated by a calibration laboratory within 12 months prior to commencing work and every 12 months thereafter, by such laboratory from the date of recalibration, during the term of the contract.
-   1. Bituminous Distributor
-1. The distributor shall have pneumatic tires of such size and number that the load produced on the base surface does not exceed 650 psi of tire width and to prevent rutting, shoving or otherwise damaging the base surface or other layers in the pavement structure. The distributor shall be designed and equipped to spray the bituminous material in a uniform coverage at the specified temperature, at readily determined and controlled rates from 0.05 to 2.0 gallons per square yard, with a pressure range of 25 to 75 psi and with an allowable variation from the specified rate of not more than plus or minus 5 percent, and at variable widths. Distributor equipment shall include a separate power unit for the bitumen pump, full-circulation spray bars, tachometer, pressure gauges, volume-measuring devices, adequate heaters for heating of materials to the proper application temperature, a thermometer for reading the temperature of tank contents, and a hand hose attachment suitable for applying bituminous material manually to areas inaccessible to the distributor. The distributor shall be equipped to circulate and agitate the bituminous material during the heating process.
+   1. General Requirements
+      1. Plant, equipment, machines and tools used in the work shall be subject to approval and shall be maintained in a satisfactory working condition at all times. Calibrated equipment such as asphalt distributors, scales, batching equipment, spreaders and similar equipment, shall have been recalibrated by a calibration laboratory within 12 months prior to commencing work and every 12 months thereafter, by such laboratory from the date of recalibration, during the term of the contract.
+   2. Bituminous Distributor
+5. The distributor shall have pneumatic tires of such size and number that the load produced on the base surface does not exceed 650 psi of tire width and to prevent rutting, shoving or otherwise damaging the base surface or other layers in the pavement structure. The distributor shall be designed and equipped to spray the bituminous material in a uniform coverage at the specified temperature, at readily determined and controlled rates from 0.05 to 2.0 gallons per square yard, with a pressure range of 25 to 75 psi and with an allowable variation from the specified rate of not more than plus or minus 5 percent, and at variable widths. Distributor equipment shall include a separate power unit for the bitumen pump, full-circulation spray bars, tachometer, pressure gauges, volume-measuring devices, adequate heaters for heating of materials to the proper application temperature, a thermometer for reading the temperature of tank contents, and a hand hose attachment suitable for applying bituminous material manually to areas inaccessible to the distributor. The distributor shall be equipped to circulate and agitate the bituminous material during the heating process.
    1. Heating Equipment for Storage Tanks
-1. The equipment for heating the bituminous material shall be steam, electric, or hot oil heaters. Steam heaters shall consist of steam coils and equipment for producing steam, so designed that the steam cannot get into the material. Fix an armored thermometer to the tank with a temperature range from 40 to 400 degrees F so that the temperature of the bituminous material may be determined at all times.
+6. The equipment for heating the bituminous material shall be steam, electric, or hot oil heaters. Steam heaters shall consist of steam coils and equipment for producing steam, so designed that the steam cannot get into the material. Fix an armored thermometer to the tank with a temperature range from 40 to 400 degrees F so that the temperature of the bituminous material may be determined at all times.
    1. Power Brooms and Power Blowers
-1. Power brooms and power blowers shall be suitable for cleaning the surfaces to which the bituminous coat shall be applied.
-5. WEATHER LIMITATIONS
+7. Power brooms and power blowers shall be suitable for cleaning the surfaces to which the bituminous coat shall be applied.
+8. WEATHER LIMITATIONS
    1. Bituminous coat shall be applied only when the surface to receive the bituminous coat is dry. Bituminous coat shall be applied only when the atmospheric temperature in the shade is 50 degrees F or above and when the temperature has not been below 35 degrees F for the 12 hours prior to application.
-6. DELIVERY AND STORAGE
+9. DELIVERY AND STORAGE
    1. Materials delivered to the site shall be inspected for contamination and damage. Materials shall be unloaded and stored with a minimum of handling.
-1. ## Product
-1. PRIME COAT
-   1. Asphalt shall conform to AASHTO M 81 or AASHTO M 82, Grade CSS-1H and specified in the following two subparagraphs.
-   1. Cutback Asphalt
-1. Cutback asphalt shall conform to ASTM D 2026, Grade SC-70, ASTM D 2027, Grade MC-30 MC-70 or ASTM D 2028, Grade RC-70.
-   1. Emulsified Asphalt
-1. Emulsified asphalt shall conform to ASTM D 977, Type SS-1 or SS1h or ASTM D 2397, Type CSS-1 or CSS-1h.
-2. TACK COAT
-   1. Asphalt shall conform to ASTM D 2028, ASTM D 946, ASTM D 3381, ASTM D 977, ASTM D 2397 or AASHTO M 81, AASHTO M 20, AASHTO M 226 Grade CSS-1H.
-   1. Cutback Asphalt
-1. Cutback asphalt shall conform to ASTM D 2026, Grade SC-70, ASTM D 2027, Grade MC-30, MC-70 or ASTM D 2028, Grade RC-70.
-   1. Emulsified Asphalt
-1. Emulsified asphalt shall conform to ASTM D 977, Type SS-1 or SS1h or ASTM D 2397, Type CSS-1 or CSS-1h. Dilute the emulsified asphalt with equal parts of water. The base asphalt used to manufacture the emulsion shall show a negative spot when tested in accordance with AASHTO T 102 using standard naphtha.
-1. 
+10. ## Product
+11. PRIME COAT
+   2. Asphalt shall conform to AASHTO M 81 or AASHTO M 82, Grade CSS-1H and specified in the following two subparagraphs.
+   3. Cutback Asphalt
+12. Cutback asphalt shall conform to ASTM D 2026, Grade SC-70, ASTM D 2027, Grade MC-30 MC-70 or ASTM D 2028, Grade RC-70.
+   4. Emulsified Asphalt
+13. Emulsified asphalt shall conform to ASTM D 977, Type SS-1 or SS1h or ASTM D 2397, Type CSS-1 or CSS-1h.
+14. TACK COAT
+   5. Asphalt shall conform to ASTM D 2028, ASTM D 946, ASTM D 3381, ASTM D 977, ASTM D 2397 or AASHTO M 81, AASHTO M 20, AASHTO M 226 Grade CSS-1H.
+   6. Cutback Asphalt
+15. Cutback asphalt shall conform to ASTM D 2026, Grade SC-70, ASTM D 2027, Grade MC-30, MC-70 or ASTM D 2028, Grade RC-70.
+   7. Emulsified Asphalt
+16. Emulsified asphalt shall conform to ASTM D 977, Type SS-1 or SS1h or ASTM D 2397, Type CSS-1 or CSS-1h. Dilute the emulsified asphalt with equal parts of water. The base asphalt used to manufacture the emulsion shall show a negative spot when tested in accordance with AASHTO T 102 using standard naphtha.
+17. 
 
 ## Execution
 
@@ -155,5 +149,4 @@ objectionable material shall be removed from the surface to be treated. The surf
 1. Quality control sampling and testing shall be performed as required in paragraph FIELD QUALITY CONTROL.
 8. TRAFFIC CONTROLS
    1. Keep traffic off surfaces freshly treated with bituminous material. Sufficient warning signs and barricades shall be provided so that traffic shall not travel over freshly treated surfaces.
-1. END OF SECTION 321210
 

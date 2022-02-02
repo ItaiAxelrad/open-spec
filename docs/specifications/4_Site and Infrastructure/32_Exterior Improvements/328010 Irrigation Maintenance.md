@@ -43,7 +43,9 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Irrigation', 'Main
    1. Whenever possible do not shut down the irrigation pumps, meter, or backflows to isolate damaged areas – gate valves in the mainline should be the first course of corrective action always.
    1. products
    1. Refer to plans.
-   1. execution
+
+## Execution
+
    1. field quality control
    1. The contractor shall perform a full irrigation system inspection immediately after the irrigation pump has become active and provide a written report of all damages observed. All damages shall be repaired prior to May 1st.
    1. The contractor shall have staff present to monitor the operation of the irrigation system on a daily basis. The daily morning inspection shall focus on the previous night’s irrigation areas to ensure all zones that were scheduled to water were watered. On days when the irrigation system is not operating because of rain delays or shut downs by the central control operator, the inspection will not be required. Monitoring of the irrigation system will be necessary every morning of the week, regardless of holidays or non-standard working periods. Monitor each zone to ensure adequate, but not excessive water is being applied.
@@ -80,5 +82,5 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Irrigation', 'Main
    1. Start pumping compressed air into the system only after the first station on the controller is activated or opened. If no valves are open, severe damage can result from the high air pressure in the mainline. At the controller, cycle through each station, allowing each valve to open for approximately 5 minutes or until all the water is evacuated from each zone.
    1. Open manual drain valves.
    1. Winterization of the irrigation pump is required.
-   1. END OF SECTION
+   
 

@@ -4,10 +4,10 @@ section: '331419'
 divNumb: 33
 divName: Utilities
 subgroup: Site and Infrastructure
-tags: ['Site', 'Infrastructure', 'Utilities', 'Valves', 'Hydrants', 'for', 'Water', 'Utility', 'Service']
+tags: ['Site', 'Infrastructure', 'Utilities', 'Valves', 'Hydrants', 'Water', 'Utility', 'Service']
 ---
 
-   1. SECTION 15300
+
 1. FIRE HYDRANTS
 1. 
 ## General
@@ -29,11 +29,10 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Valves', 'Hydrants', 'for', 'Wate
    1. Fire hydrants shall be installed on potable water mains only. Fire hydrants shall not be installed on urban-treated runoff water mains.
 2. Wet-barrel hydrants shall generally be used for pressures up to 200 psi. System pressures up to and including 150 psi require standard wet-barrel hydrants, and pressures up to 200 psi require high-pressure wet-barrel hydrants in accordance with the Approved Materials List, or approved equal.
 3. All fire hydrants shall be equipped with a Water Loss and Cross-Contamination Reduction Valve (Check Valve). 
-	1. **DELIVERY, STORAGE AND HANDLING
+	1. DELIVERY, STORAGE AND HANDLING
    1. Fire hydrants shall be delivered and stored in accordance with AWWA C210, AWWA C213, and AWWA C550. The port openings shall be covered with plastic, cardboard or wood while in transit and during storage in the field. These covers shall remain in place until the valve is ready to be installed. Fire hydrants shall not be stored in contact with bare ground. Fire hydrants shall not be stacked.
 
-* 
-	1. **WARNING / IDENTIFICATION TAPE
+	1. WARNING / IDENTIFICATION TAPE
    1. Warning/Identification tape shall be installed for fire hydrant assemblies in accordance with Section 15000.
 1. PART 2 MATERIALS
 1. 2.01 HYDRANTS
@@ -73,15 +72,11 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Valves', 'Hydrants', 'for', 'Wate
    1. The fire hydrant assembly shall be disinfected in accordance with Section 15041, as part of the process of disinfecting the main pipeline. The assembly valves shall be operated and the assembly flushed to completely disinfect all internal parts.
 1. 3.06 FIELD PAINTING AND COATING
    1. The fire hydrant exterior shall be field painted in accordance with Section 09910.
-1. 3.07 FIRE HYDRANT INSTALLATION** 
-
-## General
-
-:
+1. 3.07 FIRE HYDRANT INSTALLATION*	1. General:
        1. Install each fire hydrant with separate gate valve in supply pipe, anchor with restrained joints or thrust blocks, and support in upright position in accordance with Approved Plans.
     1. AWWA-Type Fire Hydrants:
        1. Comply with AWWA M17.
 1. 3.08 REFLECTIVE FIRE HYDRANT MARKERS
    1. The Contractor shall provide and install two (2) blue reflective pavement markers at each existing and new fire hydrant, whether an existing marker was obliterated or not. One marker shall be placed on the top of curb, and one marker shall be placed three feet (3’) toward the fire hydrant from the centerline or the median curb.
-1. END OF SECTION
+
 

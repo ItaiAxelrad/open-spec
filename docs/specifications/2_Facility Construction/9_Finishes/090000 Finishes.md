@@ -7,8 +7,4 @@ subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Finishes']
 ---
 
-   1. Division 09
-   1. Finishes
-
-*[this page intentionally left blank]*
-
+Division 09 - Finishes

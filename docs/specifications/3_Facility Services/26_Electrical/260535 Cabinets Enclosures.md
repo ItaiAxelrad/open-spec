@@ -14,16 +14,12 @@ tags: ['Facility', 'Services', 'Electrical', 'Cabinets', 'Enclosures']
    1. Drawings and general provisions of the Contract, including General and Supplementary Conditions and Division 1 Specification Sections, apply to this Section.
 1. SUMMARY
    1. This Section includes provision of enclosures, terminal cabinets, terminal blocks and accessories as specified and indicated. 
-1. REFERENCES** 
-   1. National Electrical Manufacturers Association (NEMA) 
+1. REFERENCES*   1. National Electrical Manufacturers Association (NEMA) 
    1. 250 - Enclosures for Electrical Equipment (1000 Volts Maximum). 
    1. ICS 4 - Terminal Blocks for Industrial Control Equipment and Systems. 
-1. SUBMITTALS** 
-   1. Product Data:
+1. SUBMITTALS*   1. Product Data:
       1. Submit manufacturer's technical product data on enclosures, terminal cabinets, terminal blocks and accessories. 
-1. PRODUCTS** 
-1. HINGED COVER ENCLOSURES** 
-   1. Manufacturers:
+1. PRODUCTS*1. HINGED COVER ENCLOSURES*   1. Manufacturers:
       1. Cooper B-Line, Inc.
    1. Hoffman Enclosures, Inc.
    1. Square D Co.
@@ -102,8 +98,7 @@ tags: ['Facility', 'Services', 'Electrical', 'Cabinets', 'Enclosures']
    1. Provide interior insert panel constructed of 14 gauge steel with white enamel finish, suitable for mounting of terminal blocks and other equipment. 
    1. Provide enclosure with corrosion-resistant primer treatment and light gray, baked acrylic enamel finish. 
    1. Provide enclosure size as indicated. 
-1. TERMINAL CABINETS** 
-   1. Manufacturers:
+1. TERMINAL CABINETS*   1. Manufacturers:
       1. Cooper B-Line, Inc.
    1. Hoffman Enclosures, Inc. 
    1. Square D Co. 
@@ -114,8 +109,7 @@ tags: ['Facility', 'Services', 'Electrical', 'Cabinets', 'Enclosures']
    1. Provide cabinet size as indicated. 
    1. Provide corrosion-resistant primer treatment and light gray, baked acrylic enamel finish. 
    1. Provide endwall conduit knockouts. 
-1. EMI/RFI-TIGHT ENCLOSURES** 
-   1. Manufacturers:
+1. EMI/RFI-TIGHT ENCLOSURES*   1. Manufacturers:
       1. 
    1. Hoffman Enclosures, Inc:
       1. Bulletin A-51 
@@ -127,18 +121,12 @@ tags: ['Facility', 'Services', 'Electrical', 'Cabinets', 'Enclosures']
    1. Provide cadmium plating for enclosure at gasket contact areas. 
    1. Provide a combination door gasket of woven-plated steel mesh and oil-resistant gasket held in place with retainers. 
    1. Provide hinged cover with stainless steel door clamps on three sides of door. 
-1. ACCESSORIES** 
-   1. Terminal Blocks:
+1. ACCESSORIES*   1. Terminal Blocks:
       1. 
    1. Provide terminal blocks per NEMA ICS 4 for the indicated enclosures and cabinets. 
    1. Provide power terminals, for voltages above 50 volts, of the unit-construction, closed-back design, with tubular pressure screw terminal connectors, rated 600 volts. Provide barriers between each set of terminals. 
    1. Provide signal and control terminals for voltages 50 volts and less of the modular construction type, channel mounted with tubular pressure-screw terminal connectors, rated 300 volts. 
-1. EXECUTION** 
-1. INSTALLATION** 
-
-## General
-
-:
+1. EXECUTION*1. INSTALLATION*	1. General:
       1. 
    1. Install cabinets and enclosures plumb. 
    1. Anchor securely to wall and structural supports at each corner minimum. 
@@ -148,6 +136,5 @@ tags: ['Facility', 'Services', 'Electrical', 'Cabinets', 'Enclosures']
       1. Provide engraved plastic laminate sign, per Section 260553, "Electrical Identification", mounted at top center of cabinet cover, indicating the following information:
       1. 
    1. Cabinet and enclosure designation (e.g., "TC-1"). 
-1. END OF SECTION 260535
 1. (THIS PAGE INTENTIONALLY BLANK)
 

@@ -10,5 +10,3 @@ tags: ['Facility', 'Construction', 'Openings']
    1. Division 08
    1. Openings
 
-*[this page intentionally left blank]*
-

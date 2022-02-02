@@ -12,9 +12,7 @@ tags: ['General', 'Requirements', 'References']
 
 ## General
 
-
-* 
-	1. **Summary
+1. SUMMARY
    1. Work included:
       1. 
 	1. Throughout the Contract Documents, reference is made to codes and standards which establish qualities and types of workmanship and materials, and which establish methods for testing and reporting on pertinent characteristics.
@@ -26,7 +24,7 @@ tags: ['General', 'Requirements', 'References']
 	2. Section 01 42 16, Definitions
 	3. Section 01 42 19, Reference Standards
 	4. Specific naming of codes or standards occurs on the drawings and in other sections of these Specifications.
-	5. **Quality Assurance
+	5. Quality Assurance
 3. Familiarity with pertinent codes and standards:
       1. 
 	1. In procuring all items used in this work, it is the Contractor’s responsibility to verify the detailed requirements of the specifically named codes and standards and to verify that the items procured for use in this work meet or exceed the specified requirements.
@@ -43,7 +41,10 @@ tags: ['General', 'Requirements', 'References']
 12. Copies of Standards:
 	1. Copies of applicable referenced standards are not bound in this Contract Document.
 	2. Where the contractor needs copies of standards for work superintendence and quality control, obtain a copy or copies directly from the publication sources and maintain copies at the job site, making them available to Contractor personnel, subcontractors, OWNER, and ENGINEER.
-   ## Product (Not Used)
+
+## Product 
+
+ (Not Used)
 
 
 ## Execution

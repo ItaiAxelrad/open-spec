@@ -7,17 +7,12 @@ subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Joint', 'Sealants']
 ---
 
-1. Section 0**7 **90 00
-   1. Joint Sealants
-
 ## General
 
-
-* 
-	1. **Summary
+1. SUMMARY
    1. Section Includes:
 	1. Sealant work.
-2. C. Work included consists of but is not necessarily limited to:
+2. Work included consists of but is not necessarily limited to:
 	1. Sealing all joints which will permit penetration of dust, air or moisture, unless sealing work is specifically required under other Specification Sections.
 		1. Work includes but is not limited to:
 			1. Flashing, reglets and retainers.
@@ -32,7 +27,7 @@ tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Joint',
 			10. Plumbing fixtures.
 			11. Perimeter and penetrations of sound insulated walls.
 			12. Other joints where sealant, expanding foam sealant or compressible sealant is indicated.
-	2. **Quality Assurance
+	2. Quality Assurance
 3. Referenced Standards:
 	1. American Concrete Institute (ACI):
 		1. 302.1R, Guide for Concrete Floor and Slab Construction.
@@ -46,7 +41,7 @@ tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Joint',
 	5. International Energy Conservation Code (IECC), 2015 Edition including all amendments.
 4. Qualifications:
       1. Sealant applicator shall have minimum five (5) years’ experience using products specified on projects with similar scope.
-	1. **Definitions
+	1. Definitions
 5. Defect(ive):
       1. Failure of watertightness or airtightness.
 6. Finish sealant:
@@ -58,7 +53,7 @@ tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Joint',
       1. Toilets, showers, laboratories, basins and similar areas.
 9. "Seal," "sealing" and "sealant":
       1. Joint sealant work.
-	1. **Submittals
+	1. Submittals
 10. See Specification Section 01 33 00 for requirements for the mechanics and administration of the submittal process.
 11. Shop Drawings:
 	1. Product technical data including:
@@ -75,9 +70,9 @@ tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Joint',
 	2. Color chart not acceptable.
 14. Informational Submittals:
 	1. See Specification Section 01 33 00 for requirements for the mechanics and administration of the submittal process.
-	2. **Delivery, Storage, and Handling
+	2. Delivery, Storage, and Handling
 15. See Specification Section 01 33 00 for requirements for delivery, storage, and handling.
-   ## Product
+## Product
 1. 2.1 Acceptable Manufacturers
    1. Subject to compliance with the Contract Documents, the following manufacturers are acceptable:
 	1. Compressible sealant
@@ -241,9 +236,9 @@ tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Joint',
 	2. Interior areas:
 		1. Noncorrosive areas:
 			1. Wet exposure: Polyether.
-				1. Toilet rooms, locker rooms, janitor closets or similar areas: Mildew resistant silicone.
+			1. Toilet rooms, locker rooms, janitor closets or similar areas: Mildew resistant silicone.
 			2. Dry exposure: Polyether, unless noted otherwise.
-				1. Sound insulated construction: Acoustical sealant.
+			1. Sound insulated construction: Acoustical sealant.
 		2. Corrosive areas:
 			1. Wet exposure: Polysulfide.
 			2. Dry exposure: Polyurethane.
@@ -253,32 +248,27 @@ tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Joint',
 	3. Immersion:
 		1. Prolonged contact with or immersion in:
 			1. Potable water:
-				1. Polysulfide.
-				2. NSF 61 approved.
+			1. Polysulfide.
+			2. NSF 61 approved.
 			2. Non-potable water, wastewater or sewage: Polysulfide.
 	4. Compressible sealant: Where indicated.
 	5. Exterior wall penetrations: Expanding urethane foam, with finish sealant.
 		1. Finish sealant:
 			1. Exterior side:
-				1. Above grade: Polyether.
-				2. Below grade: Polyurethane.
+			1. Above grade: Polyether.
+			2. Below grade: Polyurethane.
 			2. Interior side:
-				1. Noncorrosive area:
+			1. Noncorrosive area:
       1. Wet exposure:
          1. Polyether.
    1. Dry exposure:
       1. Polyether , unless noted otherwise.
 
-* 
-	+ 
-		- 
-			* 
-				1. Corrosive area:
+		1. Corrosive area:
       1. Wet exposure:
          1. Polysulfide.
    1. Dry exposure:
       1. Polyurethane.
 
-* 
 	1. Interior concrete slab formed or saw-cut control joints: Polyurea joint filler.
 

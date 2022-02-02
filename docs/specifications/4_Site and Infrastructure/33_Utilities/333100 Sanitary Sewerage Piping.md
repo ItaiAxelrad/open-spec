@@ -12,18 +12,16 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Sanitary', 'Sewerage', 'Piping']
 
 ## General
 
-
-* 
-	1. **Summary
+1. SUMMARY
    1. Work under this section includes:
       1. wastewater collection main lines, laterals, services and other related appurtenances to include flushing and testing. 
-	1. **Quality Assurance
+	1. Quality Assurance
 2. Installation shall meet Colorado Department of Public Health and Environment requirements and manufacturer’s recommendations.
-	1. **Submittals
+	1. Submittals
 3. See Specification Section 01 33 00 for requirements for the mechanics and administration of the submittal process.
 4. No substitutes will be considered for items listed by manufacturer’s name and/or model number in this section unless the words “or equal” are included as a part of the description.
 5. Submittals are required for all proposed substitutions and all items not specifically listed by manufacturer’s name and model number.
-	1. **Product Delivery, Storage and Handling
+	1. Product Delivery, Storage and Handling
 6. All Material:
       1. Use proper implements tools and facilities as necessary to safely and efficiently handle all material, and to avoid shock, abrasion or other damage. Under no circumstances shall any materials be dropped. Extra care shall be taken when the temperature approaches or is below freezing. 
 7. Pipe shall be stacked per the manufacturer’s recommendations but shall not be stacked higher than five feet. Evenly support the barrel of all stored pipe. In distributing material at the work site do not interfere with access to private property, parking, or traffic. It is recommended that only as much pipe as is expected to be laid during the day be strung out along the ditch.
@@ -31,7 +29,7 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Sanitary', 'Sewerage', 'Piping']
       1. Do not store PVC materials in direct sunlight for prolonged periods. The Engineer may reject PVC material that have scratches, cuts or evidence of excessive exposure to direct sunlight, all of which can reduce the strength and longevity of the materials. The Contractor is urged to take precautions to avoid abrading or cutting the pipe.
 9. Defective or Damaged Material:
       1. All such material shall be rejected and removed from the job site immediately.
-   ## Product
+## Product
 1. 2.1 Materials
    1. Polyvinyl Chloride (PVC) Pipe and Fittings:
 	1. 4-inch to 15-inch inside diameter: ASTM D 3034, SDR35
@@ -52,24 +50,19 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Sanitary', 'Sewerage', 'Piping']
 ## Execution
 
 
-* 
-	1. **Pipe Installation
-
-## General
-
-
-: Pipe placement shall conform to manufacturer’s recommendations. Materials shall not be dropped into the trench but shall be lowered by either hand or machine. Pipe laying shall proceed upgrade with the spigot ends of bell-and-spigot pipe pointing in the direction of flow.
+	1. Pipe Installation
+	 1. General: Pipe placement shall conform to manufacturer’s recommendations. Materials shall not be dropped into the trench but shall be lowered by either hand or machine. Pipe laying shall proceed upgrade with the spigot ends of bell-and-spigot pipe pointing in the direction of flow.
 	1. The entire surface of all pipes shall be clean when laid. Interior surfaces of pipe sockets shall be cleaned when the pipe is laid and the joints completed. No debris, tools, clothing or other material shall be placed in the pipe. When pipe laying operations are not being conducted or are temporarily suspended, all pipe openings are to be plugged with an appropriate size wastewater plug. Pipes not making a good fit shall be removed from the job site
 	2. Field cut sections of pipe shall only be used for making connections to manholes, other structures or existing pipelines when makeup piping is needed to make the closure.
 	3. Each pipe shall be laid true to line and grade to form a tight concentric joint with the adjoining pipe and to prevent sudden offsets to the flow line. Pipe grade shall be uniform between manholes. No pipes are to be placed in the trench or final joints made, until unstable trench bottoms have been stabilized and fine grading of the trench bottom to accommodate the pipe invert has been completed. Immediate partial backfill may be required to prevent accidental deflection of the pipe.
 	4. State Health regulations require that wastewater mains be installed at a 10-foot minimum clear horizontal distance from potable water mains. If this separation cannot be maintained consult with the Engineer for any special precautions that may be required.
 	5. When authorized to connect new pipe to an existing plain end pipe use an approved transition coupling tightened to a watertight fit. No Fernco or Caulder couplings are allowed.
-	6. **Cleanout Installation
+	6. Cleanout Installation
 
    1. Cleanout structures shall be located and constructed as shown in the Drawings, or as directed by the Engineer or District. The cleanout shall have a true and smooth interior to allow easy access for inspection lights, plugs, and cleaning equipment.
 2. Cleanouts shall be installed at intervals not to exceed one hundred (100) feet in straight runs and for each aggregate horizontal change in direction exceeding one hundred thirty-five (135) degrees. Sizing locations and installation shall be in accordance with the Uniform Plumbing Code (UPC).
 3. Final grade of the cleanout cover shall be as specified for manhole lids.
-	1. **Quality Control
+	1. Quality Control
 4. General:
       1. Test pipe line promptly after installation through completion of backfill. No more than 800-feet shall be installed without testing the completed portions.
 5. Lamping:
@@ -212,6 +205,4 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Sanitary', 'Sewerage', 'Piping']
 		13. Observed defects
 		14. A scalable map of the project limits bound into the video log. The map shall include the location of all manholes and sewer mains within the project limits. All manholes shall be numbered per Mount Werner Water numbering system.
 	6. The maximum amount of standing water allowed in any pipe or manhole shall be 3 percent of the pipe’s diameter or 1/2 inch whichever is smaller.
-
-*[this page intentionally left blank]*
 

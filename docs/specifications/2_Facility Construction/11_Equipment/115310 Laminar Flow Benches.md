@@ -65,10 +65,11 @@ tags: ['Facility', 'Construction', 'Equipment', 'Laminar', 'Flow', 'Benches']
    1. Provide each laminar flow bench with the following service fixtures:
       1. Duplex receptacle pre-wired to the junction box on top of the filter module. Locate receptacle on front face of unit.
    1. Nitrogen gas valve and regulator located in the back panel of the unit. Pre-pipe units using tubing as specified in Section 15207. Valve and regulator shall be Watersaver L3171-366-158WSA stainless steel with removable 1/4” quick connect fitting or approved equal.
-   1. execution
+
+## Execution
+
    1. Installation - General
    1. Install Laminar Flow Benches completely and in accordance with manufacturer's recommendations.
    1. Make electrical connections in accordance with Division 16.
    1. Touch up damaged finishes equal to original condition as approved. Make final adjustments required for proper operation as determined by the Architect.
-1. END OF SECTIONTHIS PAGE INTENTIONALLY BLANK
 

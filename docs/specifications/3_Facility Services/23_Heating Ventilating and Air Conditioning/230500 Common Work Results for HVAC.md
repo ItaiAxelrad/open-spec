@@ -4,7 +4,7 @@ section: '230500'
 divNumb: 23
 divName: Heating Ventilating and Air Conditioning
 subgroup: Facility Services
-tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 'Common', 'Work', 'Results', 'for', 'HVAC']
+tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 'Common', 'Work', 'Results', 'HVAC']
 ---
 
 
@@ -24,7 +24,7 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Cutting and patching.
    1. Touch-up painting and finishing.
    1. The plans and specifications are complimentary and shall be used together in order to fully describe the Work. In the case of a conflict between the plans and specifications, the plans take precedence.
-   1. The NREL Technical Representative has based the drawings and design on non-certified information furnished by various equipment manufacturers. It is incumbent on the part of the CONTRACTOR to include in the bid all material and labor needed to install the actual equipment furnished.
+   1. The Owner Technical Representative has based the drawings and design on non-certified information furnished by various equipment manufacturers. It is incumbent on the part of the CONTRACTOR to include in the bid all material and labor needed to install the actual equipment furnished.
    1. Related Sections:
       1. The following is work of Division 26 sections of the Specifications:
             1. Power supply wiring from power source to power connection on equipment. Include starters, disconnects, and required electrical devices, except where specified as furnished, or factory-installed, by manufacturer.
@@ -93,10 +93,10 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Welder certificates signed by Contractor certifying that welders comply with requirements specified under the “Quality Assurance” article of this section.
 1. QUALITY ASSURANCE
    1. Qualify welding processes and operators for structural steel according to AWS D1.1.
-   1. All welding on pressure piping shall conform with the requirements of the American National Standard Code for Pressure Piping, ANSI B31.3, "Chemical Plant and Petroleum Refinery Piping." All welds on piping having working pressures of 300 psig or greater shall be subjected to a full X-ray examination and will not be accepted until all welds meet the requirements of ANSI B31.1, "Power Piping." Faulty welds shall be removed at no additional cost to NREL. X-ray testing shall be performed by others at no additional cost to the Contractor.
+   1. All welding on pressure piping shall conform with the requirements of the American National Standard Code for Pressure Piping, ANSI B31.3, "Chemical Plant and Petroleum Refinery Piping." All welds on piping having working pressures of 300 psig or greater shall be subjected to a full X-ray examination and will not be accepted until all welds meet the requirements of ANSI B31.1, "Power Piping." Faulty welds shall be removed at no additional cost to Owner. X-ray testing shall be performed by others at no additional cost to the Contractor.
    1. Certify that each welder has passed AWS qualification tests for the welding processes involved and that certification is current.
    1. Pressure Vessels:
-      1. Prior to installation and acceptance, any power boiler, low-pressure heating boiler, or unfire pressure vessel operated at pressures of 15 pounds per square inch or greater, furnished under this contract will be stamped with ASME Boiler and Pressure Vessel Code Symbol and a National Board of Boiler and Pressure Vessel Inspector's number, thus certifying that the vessel has been fabricated and tested per the provisions of the ASME Boiler and Pressure Vessel Code. Manufacturers' data reports (unless exempted by the ASME Code) will be filed with the National Board in Columbus, Ohio. Two copies of these data reports shall be submitted to NREL. Testing, certification, and registration will be at the expense of the Contractor.
+      1. Prior to installation and acceptance, any power boiler, low-pressure heating boiler, or unfire pressure vessel operated at pressures of 15 pounds per square inch or greater, furnished under this contract will be stamped with ASME Boiler and Pressure Vessel Code Symbol and a National Board of Boiler and Pressure Vessel Inspector's number, thus certifying that the vessel has been fabricated and tested per the provisions of the ASME Boiler and Pressure Vessel Code. Manufacturers' data reports (unless exempted by the ASME Code) will be filed with the National Board in Columbus, Ohio. Two copies of these data reports shall be submitted to Owner. Testing, certification, and registration will be at the expense of the Contractor.
    1. Electrical Characteristics for Plumbing Equipment:
       1. Equipment of higher electrical characteristics may be furnished provided such proposed equipment is approved in writing and connecting electrical services, circuit breakers, and conduit sizes are appropriately modified. If minimum energy ratings or efficiencies are specified, equipment shall comply with requirements.
 1. DELIVERY, STORAGE, AND PROTECTION
@@ -105,7 +105,7 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Protect flanges, fittings, and piping specialties from moisture and dirt.
    1. Store plastic pipes protected from direct sunlight. Support to prevent sagging and bending.
    1. Materials and equipment furnished by others.
-   1. When equipment or materials are indicated to be furnished by others (F.B.O.) or by government furnished equipment (GFE) to the CONTRACTOR for installation and connection, the CONTRACTOR shall make a complete check of all materials and furnish a receipt to the NREL detailing the products received and the condition of the products delivered to him. After executing the receipt and acceptance by the CONTRACTOR, the CONTRACTOR shall assume full responsibility for the safe keeping, handling, and installation of the materials and equipment furnished by others or furnished by government, until completed installation and final approval by the NREL Technical Representative.
+   1. When equipment or materials are indicated to be furnished by others (F.B.O.) or by government furnished equipment (GFE) to the CONTRACTOR for installation and connection, the CONTRACTOR shall make a complete check of all materials and furnish a receipt to the Owner detailing the products received and the condition of the products delivered to him. After executing the receipt and acceptance by the CONTRACTOR, the CONTRACTOR shall assume full responsibility for the safe keeping, handling, and installation of the materials and equipment furnished by others or furnished by government, until completed installation and final approval by the Owner Technical Representative.
    1. If the CONTRACTOR fails to issue said receipt it shall be assumed that all equipment and materials were then delivered to the CONTRACTOR in the proper quantities and in perfect condition.
 1. PROJECT SITE CONDITIONS
    1. Altitude Ratings:
@@ -116,11 +116,11 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Coordinate the installation of required supporting devices and set sleeves in poured-in-place concrete and other structural components, as they are constructed.
    1. Sequence, coordinate, and integrate installations of mechanical materials and equipment for efficient flow of the work. Coordinate installation of large equipment requiring positioning prior to closing in the building.
    1. Interruption of Mechanical Utilities:
-      1. The Contractor shall not interrupt any main interior or exterior mechanical utility without written request for an outage and a subsequent approval of NREL Construction Manager nor shall he interrupt any branch line to an outlet or item of equipment without approval from the NREL Construction Manager.
+      1. The Contractor shall not interrupt any main interior or exterior mechanical utility without written request for an outage and a subsequent approval of Owner Construction Manager nor shall he interrupt any branch line to an outlet or item of equipment without approval from the Owner Construction Manager.
    1. Written request for outages shall be submitted seven calendar days in advance of the outage date. This request will delineate the particular utility or service in question, the time the service will be interrupted and the approximate hours the utility shall be off. 
    1. Unless otherwise noted on the drawings, or directed, any tie-ins or connections to existing utilities or equipment that necessitate interruptions of service shall be performed on a during non standard hours
    1. The work to be performed during the interruption, will be preceded by all possible preparation, and will be carefully coordinated to minimize the duration of the interruption and work will proceed continuously until the system is restored to normal.
-   1. Unless otherwise directed, the manipulation of existing main valves to isolate piping, the shutdown of fans, pumps, and other equipment will be done by NREL maintenance personnel.
+   1. Unless otherwise directed, the manipulation of existing main valves to isolate piping, the shutdown of fans, pumps, and other equipment will be done by Owner maintenance personnel.
    1. Coordinate installation of identifying devices after completion of covering and painting, where devices are applied to surfaces. Install identifying devices prior to installation of acoustical ceilings and similar concealment.
 1. PRODUCTS
 1. MATERIALS
@@ -223,10 +223,7 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
 1. EXECUTION
 1. ERECTION INSTALLATION APPLICATION
    1. Piping Systems - Common Requirements:
-
-## General
-
-:
+	1. General:
          1. Install piping as described below, except where system sections specify otherwise. Individual piping system specification sections in Division 23 specify piping installation requirements unique to the piping system.
 
 ## General
@@ -278,7 +275,7 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
       1. Install dielectric coupling and nipple fittings to connect piping materials of dissimilar metals.
    1. Equipment Installation - Common Requirements:
       1. Install equipment to provide the maximum possible head room, where mounting heights are not indicated.
-   1. Install equipment according to approved submittal data. Portions of the Work are shown only in diagrammatic form. Refer conflicts to the NREL.
+   1. Install equipment according to approved submittal data. Portions of the Work are shown only in diagrammatic form. Refer conflicts to the Owner.
    1. Install equipment level and plumb, parallel and perpendicular to other building systems and components in exposed interior spaces, except where otherwise indicated.
    1. Install mechanical equipment to facilitate servicing, maintenance, and repair or replacement of equipment components. Connect equipment for ease of disconnecting, with minimum of interference with other installations. Extend grease fittings to an accessible location.
    1. Install equipment giving right-of-way to piping systems installed at a required slope.
@@ -325,6 +322,5 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Place grout on concrete bases to provide a smooth bearing surface for equipment.
    1. Place grout around anchors.
    1. Cure placed grout according to manufacturer's printed instructions.
-1. END OF SECTION 230500
 1. (THIS PAGE INTENTIONALLY BLANK)
 

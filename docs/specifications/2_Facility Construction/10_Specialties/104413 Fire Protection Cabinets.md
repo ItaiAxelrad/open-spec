@@ -7,7 +7,7 @@ subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Specialties', 'Fire', 'Protection', 'Cabinets']
 ---
 
-1. SECTION 10 44 13
+
 1. FIRE PROTECTION CABINETS
 
 ## General
@@ -101,7 +101,9 @@ Finish 1 (smooth or polished).
 4. FABRICATION
    1. Fire Protection Cabinets:
       1. Provide manufacturer's standard box (tub), with trim, frame, door, and hardware to suit cabinet type, trim style, and door style indicated. Miter and weld joints and grind smooth.
-   1. Execution
+
+## Execution
+
 1. INSTALLATION
    1. Examine walls and partitions for suitable framing depth and blocking where [] recessed and semirecessed cabinets will be installed and prepare recesses as required by type and size of cabinet and trim style.
    1. Install fire protection cabinets in locations and at mounting heights indicated or, if not indicated, at heights acceptable to authorities having jurisdiction.

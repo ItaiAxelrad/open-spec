@@ -6,15 +6,9 @@ divName: Thermal and Moisture Protection
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Polymer-Based', 'Exterior', 'Insulation', 'Finish', 'System']
 ---
-
-   1. SECTION 07 24 13
-   1. POLYMER-BASED EXTERIOR INSULATION AND FINISH SYSTEM
-
 ## General
 
-
-* 
-	1. RELATED DOCUMENTS
+1. RELATED DOCUMENTS
    1. Drawings and general provisions of the Contract, including General and Supplementary
 Conditions and Division 1 Specification Sections, apply to this Section.
 2. SUMMARY
@@ -215,15 +209,14 @@ chemically curing, elastomeric sealant that is compatible with joint fillers, jo
    1. Sealant Color:
       1. As selected by Architect from manufacturer's full range.
 4. MIXING
-
-## General
-
-:
+	1. General:
       1. Comply with EFS manufacturer's requirements for combining and mixing materials.
 Do not introduce admixtures, water, or other materials except as recommended by EFS manufacturer. 
    1. Mix materials in clean containers. Use materials within time period specified by EFS manufacturer 
    1. or discard.
-   1. Execution
+
+## Execution
+
 1. EXAMINATION
    1. Examine substrates, areas, and conditions, with Installer present, for compliance with 
 requirements for installation tolerances and other conditions affecting performance of EFS.

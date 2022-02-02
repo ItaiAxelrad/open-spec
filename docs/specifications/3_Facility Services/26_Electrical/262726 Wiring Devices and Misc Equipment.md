@@ -10,7 +10,7 @@ tags: ['Facility', 'Services', 'Electrical', 'Wiring', 'Devices', 'Misc', 'Equip
 
 ## General
 
-   1. RELATED DOCUMENTS
+1. RELATED DOCUMENTS
    1. Drawings and general provisions of the Contract, including General and Supplementary Conditions and Division 1 Specification Sections, apply to this Section.
    1. Summary
    1. This Section includes:
@@ -42,7 +42,9 @@ tags: ['Facility', 'Services', 'Electrical', 'Wiring', 'Devices', 'Misc', 'Equip
       1. Provide wiring devices per NEMA WD 1 and WD 6.
    1. Provide wiring devices per UL 20, 498, and 1472.
    1. Provide wiring devices per Fed. Spec. W-C-596F.
-   1. Products
+
+## Products
+
    1. Wall Switches
    1. Wall Switch - General Purpose:
       1. Heavy-duty construction, totally enclosed, thermoset material, construction base and cover, quiet type toggle handle, rated 120-277 volts AC and 20 amperes, silver alloy contacts, equipped with insulated mounting yoke, plaster ears, side and rear wiring terminals, and ground wire terminal.
@@ -92,10 +94,7 @@ tags: ['Facility', 'Services', 'Electrical', 'Wiring', 'Devices', 'Misc', 'Equip
    1. Hubbell, Inc.
    1. Pass & Seymour
    1. telecommunications Outlets
-
-## General
-
-:
+	1. General:
       1. Coordinate with the requirements of Division 27.
    1. Wiring Device Plates
    1. Manufacturers:
@@ -118,19 +117,15 @@ tags: ['Facility', 'Services', 'Electrical', 'Wiring', 'Devices', 'Misc', 'Equip
       1. Mono-Systems, Inc.
    1. Airey-Thompson Co. (Aluminum only)
    1. The Wiremold Co.
-
-## General
-
-:
+	1. General:
       1. Two-piece, steel construction with factory-applied, grey baked enamel finish], with devices, junction fittings and other matching accessories as required for a complete system and per UL 5.
    1. Surface Raceway:
       1. Two-compartment, with full-length divider, with devices circuiting, and dimensions as indicated on drawings.
-   1. Execution
+
+## Execution
+
    1. Installation
-
-## General
-
-:
+	1. General:
       1. Install devices, used with concealed conduit systems, in single or multiple gang flush-mounted outlet boxes. Provide pressed steel boxes with gang plates, unless otherwise specified or indicated.
    1. Install devices, used with exposed conduit systems, in single or double gang type "FS" or "FD" cast metal boxes.
    1. Install devices and wall plate flush and level.
@@ -143,5 +138,4 @@ tags: ['Facility', 'Services', 'Electrical', 'Wiring', 'Devices', 'Misc', 'Equip
    1. Install raceway after finish painting work on mounting surfaces is completed.
    1. Identification:
       1. Comply with requirements of related Division 26 sections.
-1. END OF SECTION 262726
 

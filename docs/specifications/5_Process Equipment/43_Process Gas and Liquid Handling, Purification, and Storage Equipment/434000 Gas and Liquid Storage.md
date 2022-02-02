@@ -16,8 +16,7 @@ tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Sto
    1. Section includes:
 	1. Sodium Hypochlorite storage tank requirements.
 	2. Hydrogen detection and dilution system requirements for sodium hypochlorite storage.
-2. References, Codes and Standards** 
-   1. American Society of Testing Materials (ASTM).
+2. References, Codes and Standards*   1. American Society of Testing Materials (ASTM).
 2. ANSI Standards:
       1. B-16.5, Pipe Flanges and Flanged Fittings
 3. Building Code:
@@ -26,7 +25,7 @@ tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Sto
       1. Low Temperature Impact Resistance (Falling Dart Test Procedure).
 5. NSF/ANSI Standard 61, AWWA – Drinking Water System Components
 6. ASTM D-1998, Standard Specification for Polyethylene Upright Storage Tanks
-	1. **Submittals
+	1. Submittals
 7. See Specification Section 01 33 00 for requirements for the mechanics and administration of the submittal process.
 8. Product technical data as required in Specification Section 43 01 00.
 9. Shop Drawings:
@@ -57,13 +56,12 @@ tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Sto
 	5. Impact test.
 	6. Gel test.
 	7. Hydrostatic test.
-4. Quality Assurance** 
-   1. The Contractor shall provide a vertical tank of high density cross-linked polyethylene with full drain capability and molded in flange.
+4. Quality Assurance*   1. The Contractor shall provide a vertical tank of high density cross-linked polyethylene with full drain capability and molded in flange.
 2. Tanks shall be manufactured from virgin materials.
 3. Tanks shall be manufactured from materials certified to NSF/ANSI Standard 61 for chemical storage and submit form from NSF supporting chemical certification.
 5. Warranty
    1. See Specification Section 01 77 00 for warranty requirements.
-   ## Product
+## Product
 1. 2.1 General
    1. A tank similar to the existing sodium hypochlorite storage tank shall be provided.
 	1. The tank shall be installed complete with a hydrogen detector and hydrogen dilution system matching that installed on the existing tank.
@@ -71,10 +69,8 @@ tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Sto
 3. Tanks shall be adequately vented.
 4. Where indicated, tanks shall be provided with ancillary mechanical fittings and accessories. 
 5. Tanks shall be marked to identify the manufacturer, date of manufacture and serial numbers must be permanently embossed into the tank.
-1. 2.2 Polyethylene Storage Tanks** 
-   1. High Density Cross-linked Polyethylene resin used in the tank manufacture shall be Poly CL™ or equal and shall contain ultraviolet stabilizer as recommended by resin manufacturer.
-	* 
-		1. Where black tanks are indicated, the resin shall have a carbon black compounded into it.
+1. 2.2 Polyethylene Storage Tanks*   1. High Density Cross-linked Polyethylene resin used in the tank manufacture shall be Poly CL™ or equal and shall contain ultraviolet stabilizer as recommended by resin manufacturer.
+			1. Where black tanks are indicated, the resin shall have a carbon black compounded into it.
 2. The tank shall be provided with the following connections and accessories:
 	1. Drain connection.
 	2. Solution inlet connection.
@@ -97,8 +93,6 @@ tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Sto
    1. OD = outside diameter, ft
    1. SD = hydrostatic design stress, 600 psi
 
-* 
-	+ 
 		1. The minimum wall thickness shall be sufficient to support its own weight in an upright position without external support but shall not be less than 0.187” thick.
 	1. On closed top tanks the top head shall be integrally molded with the cylindrical wall. Its minimum thickness shall be equal to the thickness of the top of the straight sidewall. 
 		1. Flat areas shall be provided for attachment of large fittings on the dome of the tank when required.
@@ -110,7 +104,6 @@ tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Sto
    1. greater than 6
    1. 1-1/2
 
-* 
 	1. Tanks with 3000 gal capacity or larger shall have at least 3 lifting lugs. Lugs shall be designed for lifting the tank when empty.
 		1. Unless otherwise indicated by Contract drawings, for indoor pneumatic fill, manways shall be 24-in diameter or greater and equipped with an emergency pressure relief device or SAFE-Surge™ Manway with pressure relief at 6” water column or equal to prevent over-pressurization. The SAFE-Surge manway shall be chemically compatible with the chemical being stored. Gaskets shall be closed cell, cross-linked polyethylene foam, Viton GF, or EPDM materials.
 		2. Unless otherwise indicated by Contract drawings, for outdoor pneumatic fill, manways shall be 24-in diameter or greater and equipped with Poly Processing Company’s F.S.2650® combined manway or equal and vent to prevent over pressurization of tank. Manway must be capable of relieving a volume flow rate of up to 2650 ACFM. Gaskets shall be closed cell, cross-linked polyethylene foam, Viton GF, or EPDM materials.
@@ -163,30 +156,29 @@ tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Sto
 1. 2.5 Level Indication
 
    1. Provide ultrasonic level indication similar to existing tank.
-1. 2.6 Factory Testing** 
-   1. Material Testing
+1. 2.6 Factory Testing*   1. Material Testing
 	1. Perform gel and low temperature impact tests in accordance with ASTM D 1998 on condition samples cut from each polyethylene chemical storage tank.
 	2. Degree of Crosslinking. Use Method C of ASTM D 1998- Section11.4 to determine the ortho-xylene insoluble fraction of cross-linked polyethylene gel test. Samples shall test at no less than 60 percent.
 2. Tank Testing
 	1. Dimensions: Take exterior dimensions with the tank empty, in the vertical position. Outside diameter tolerance, including out-of-roundness, shall be per ASTM D 1998. Fitting placement tolerance shall be +/- 1/2-in vertical and +/- 1 degree radial.
 	2. Visual: Inspect for foreign inclusions, air bubbles, pimples, crazing, cracking, and delamination.
 	3. Hydrostatic test: Following fabrication, the bottom tanks, including inlet and outlet fittings, shall be hydraulically tested with water by filling to the top sidewall for a minimum of 1 hour and inspected for leaks. Following successful testing, the tank shall be emptied and cleaned prior to shipment.
-	4. **Secondary Containment
+	4. Secondary Containment
 3. Provide concrete secondary containment as shown in the Contract drawings.
-   1. Execution
+
+## Execution
+
 1. 3.1 Delivery, Storage and Handling
    1. See Specification Section 01 66 00.
 2. The tank shall be shipped upright or lying down on their sides with blocks and slings to keep them from moving. AVOID sharp objects on trailers. 
 3. All fittings shall be installed and, if necessary, removed for shipping and shipped separately unless otherwise noted by the contractor.
 4. Upon arrival at the destination, inspect the tank(s) and accessories for damage in transit. If damage has occurred, notify manufacturer and engineer immediately.
-1. 3.2 Installation** 
-   1. Install the tanks in strict accordance with the manufacturer’s installation manual and shop drawings.
+1. 3.2 Installation*   1. Install the tanks in strict accordance with the manufacturer’s installation manual and shop drawings.
 2. Installation will be inspected by manufacturer to verify system flexible connections, venting and fittings are properly installed. In addition to on-sight inspection tank system(s) to be reviewed using tank manual check list as supplied by manufacture as listed below. 
 3. Manufacturer to provide 1 hour training session to prepare operators to service and maintain the tank system.
 4. Manufacturer’s trained technician to do an onsite inspection of installation. 
 	1. Inspection will verify chemical application, plumbing connections, venting, and applicable ancillary equipment such as ladders, restraints, etc.
 	2. A verification of proper installation certificate shall be supplied when equipment passes installation checklist.
 5. Tank manuals will consist of installation check lists, tank drawing(s) as built, fitting drawings referencing nozzle schedule on tank drawing, materials of construction, and recommended maintenance program.
-1. 3.3 Field Testing** 
-   1. Tanks shall be hydro-tested for at least 24 hours prior to commissioning.
+1. 3.3 Field Testing*   1. Tanks shall be hydro-tested for at least 24 hours prior to commissioning.
 

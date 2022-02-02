@@ -7,15 +7,9 @@ subgroup: Facility Services
 tags: ['Facility', 'Services', 'Electrical', 'Lightning', 'Protection']
 ---
 
-1. Copyright 2006 by The American Institute of Architects (AIA)
-1. Exclusively published and distributed by Architectural Computer Services, Inc. (ARCOM) for the AIA
-1. Revise this Section by deleting and inserting text to meet Project-specific requirements.
-1. This Section uses the term "Architect." Change this term to match that used to identify the design professional as defined in the General and Supplementary Conditions.
-1. Verify that Section titles referenced in this Section are correct for this Project's Specifications; Section titles may have changed.
-
 ## General
 
-   1. RELATED DOCUMENTS
+1. RELATED DOCUMENTS
    1. Retain or delete this article in all Sections of Project Manual.
    1. Drawings and general provisions of the Contract, including General and Supplementary Conditions and Division 1 Specification Sections, apply to this Section.
    1. WORK INCLUDED
@@ -28,7 +22,7 @@ tags: ['Facility', 'Services', 'Electrical', 'Lightning', 'Protection']
    1. Grounds
    1. Transient Voltage Surge Suppression
    1. Bonds
-   1. SUBMITTALS
+1. SUBMITTALS
    1. The ESE installer shall provide shop drawings for review as described in Division 1, showing location of ESE air terminal, mast conductors, installation procedures and details. Detailed manufacturer's data sheets on all components, accessories and miscellaneous equipment to be used in the installation shall also be submitted.
    1. One complete set of independent performance testing documents on the ESE air terminal system shall be submitted to show compliance with the protection area of the unit submitted for the installation.
    1. Qualification Data:
@@ -88,7 +82,7 @@ tags: ['Facility', 'Services', 'Electrical', 'Lightning', 'Protection']
 
 ## General
 
-   1. INSTALLATION
+1. INSTALLATION
    1. Install lightning protection components and systems according to UL 96A and NFPA 780.
    1. Install conductors with direct paths from air terminals to ground connections. Avoid sharp bends.
    1. Installation shall be accomplished in a professional manner by an installer of verifiable ESE system installation. 
@@ -114,5 +108,4 @@ tags: ['Facility', 'Services', 'Electrical', 'Lightning', 'Protection']
       1. Meet requirements to obtain a UL Master Label for system.
    1. LPI System Inspection:
       1. Meet requirements to obtain an LPI System Certificate.
-1. END OF SECTION 264113
 

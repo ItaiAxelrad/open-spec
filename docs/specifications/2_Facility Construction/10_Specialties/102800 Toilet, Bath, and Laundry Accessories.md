@@ -7,7 +7,7 @@ subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Specialties', 'Toilet', 'Bath', 'Laundry', 'Accessories']
 ---
 
-1. SECTION 10 28 00
+
 1. TOILET, BATH, AND LAUNDRY ACCESSORIES
 
 ## General

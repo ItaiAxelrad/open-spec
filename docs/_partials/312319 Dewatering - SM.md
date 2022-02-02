@@ -7,7 +7,7 @@ subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Earthwork', 'Dewatering', 'SM']
 ---
 
-   1. SECTION 31 23 00
+
 1. DEWATERING
 1. 
 ## General
@@ -44,5 +44,5 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Dewatering', 'SM']
 1. 3.02 RECORDS
    1. Provide a daily record of the average flow rate. Provide water quality testing as required by the Regional Water Quality Control Board.
 2. Observe and record the elevation of the groundwater during the period that the dewatering system is in operation.
-1. END OF SECTION
+
 

@@ -7,12 +7,11 @@ subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Earthwork', 'Anchor', 'Tiebacks']
 ---
 
-1. SECTION 315100** 
-1. tieback anchors
+
 
 ## General
 
-   1. SUMMARY
+1. SUMMARY
    1. Related Documents:
       1. Drawings and general provisions of the Subcontract apply to this Section.
    1. Review these documents for coordination with additional requirements and information that apply to work under this Section.
@@ -25,10 +24,7 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Anchor', 'Tiebacks']
    1. Division 01 Section "Special Procedures."
    1. Division 31 Section "Driven Piles" for placement of concrete for driven piles.
    1. REFERENCES 
-
-## General
-
-:
+	1. General:
       1. The following documents form part of the Specifications to the extent stated. Where differences exist between codes and standards, the one affording the greatest protection shall apply.
    1. Unless otherwise noted, the referenced standard edition is the current one at the time of commencement of the Work.
    1. Refer to Division 01 Section "General Requirements" for the list of applicable regulatory requirements.
@@ -36,7 +32,7 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Anchor', 'Tiebacks']
 "Recommendations for Pre-stressed Rock and Soil Anchors," Post Tensioning Institute.
 
 "Tiebacks," FHWA/RA-82/047, Federal Highway Administration.
-   1. SUBMITTALS
+1. SUBMITTALS
    1. Submit under provisions of Division 01 Section "General Requirements."
    1. Certified mill test reports for steel.
    1. Foundry test reports for cast items.
@@ -51,12 +47,14 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Anchor', 'Tiebacks']
    1. Project Record Documents, including the following:
       1. As built locations of tieback anchors.
    1. Reports of field load tests of tieback anchors.
-   1. QUALITY ASSURANCE
+1. QUALITY ASSURANCE
    1. The Subcontractor performing the work specified shall have at least 10 years of experience in the construction of permanently anchored walls. Written verification of two projects on which the Subcontractor has installed permanent anchors of similar load capacity in the past 5 years shall be submitted prior to Subcontract award.
    1. The Subcontractor shall retain a supervising engineer with at least 3 years of experience in the design and construction of tieback anchors.
    1. Drilling operators and foreman shall have a minimum of 1-year experience installing permanent anchors.
    1. Before Subcontract award, submit documentation that company and project personnel have appropriate qualifications. Inadequate proof of the qualifications of the aforementioned personnel, as judged by the University, shall be cause for withholding Subcontract award and rejection of the bid.
-   1. PRODUCTS
+
+## Products
+
 
 <**Select one of the following two Articles (MATERIALS).** >
    1. MATERIALS
@@ -91,7 +89,6 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Anchor', 'Tiebacks']
 
 <**Select the Article (MATERIALS) below or the one above**>
 
-* 
 	1. MATERIALS
    1. Pre-stressing steel:
       1. Deformed grade 150K anchors conforming to ASTM A-722. Permanent anchors shall be covered with corrugated polyvinylchloride (PVC) sheathing filled with cement grout over the entire length. Bars shall be centered in the sheathing.
@@ -106,8 +103,10 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Anchor', 'Tiebacks']
    1. Cast ductile iron anchor heads shall conform to ASTM A-536, grade 80-55-06.
    1. Centralizers:
       1. Centralizers shall be placed at 10-foot (3 m) intervals in the bond length starting at the end so that no less than 1/2 inches (12 mm) of grout cover is achieved along the tendon. Multi-element tendons shall also employ spacers at 10-foot (3 m) intervals throughout the tendon length to insure grout cover on elements. Centralizers and spacers may be made of material, except wood, not deleterious to the pre-stressing steel or plastic sheathing.
-   1. EXECUTION
-   1. PREPARATION
+
+## Execution
+
+1. PREPARATION
    1. Identify required lines, levels, contours, and datum.
    1. Existing Utilities:
       1. Verify the location of active utilities protect them from harm to prevent damage and to maintain their use. Consult the University if utility lines or piping are encountered during drilling of anchors. Use care in drilling so that the following indications of utilities in the way will be recognized.
@@ -119,7 +118,7 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Anchor', 'Tiebacks']
    1. Protect bench marks, existing structures, fences, sidewalks, paving, and curbs from excavation equipment and vehicular traffic.
    1. CORROSION PROTECTION OF PERMANENT TIEBACK ANCHORS
    1. Anchorage assembly shall include a bearing plate, washer and nut. Steel pipe (trumpet) and studs shall also be included in the anchorage assembly where required. Trumpet pipe shall have a minimum thickness of 0.2” and be sized to fit over the rod and corrugation. Anchorage assembly shall be hot-dipped galvanized.
-   1. INSTALLATION
+1. INSTALLATION
    1. Drilling:
       1. Drill holes for the tiebacks at the locations indicated in the plans. A tolerance of plus or minus 3 degrees will be permitted on the angle of inclination and plus or minus 6 inches on the location. Minimum embedded length of the stressing length shall be as shown on the drawings.
    1. Drilling equipment shall be suitable for the strata encountered. Drilling may be accomplished by rotary or percussion methods. The method selected shall not cause cavitation or subsidence of the soils in and around the site.
@@ -159,10 +158,7 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Anchor', 'Tiebacks']
    1. The University reserves the right to perform Creep Test in accordance with provision of "Recommendations Pre-stressed Rock and Soil Anchors" of Post-Tensioning Institute if warranted by the results of the Performance Test. The Subcontractor's compensation by the University for the test will be on a time and material basis.
    1. FIELD QUALITY CONTROL
    1. Field inspection will be performed under provisions of Division 01 Section "General Requirements." Record and maintain the following data which will be submitted to the University for retention at the end of construction:
-
-## General
-
-:
+	1. General:
             1. Project Identification
    1. Location
    1. Tieback number
@@ -195,5 +191,4 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Anchor', 'Tiebacks']
       1. In the event that the Project Manager deems a tieback unsuitable based on the observations of the University’s Geotechnical Engineer, the Project Manager shall establish remedial work and the Subcontractor shall bear the cost of such remedial work.
    1. The University’s Geotechnical Engineer shall determine whether anchors are acceptable per the requirements of the Contract Documents.
    1. Any tieback drilled or installed without continuous observation by the University’s Geotechnical Engineer will be deemed unsuitable.
-   1. END OF SECTION 315100
-
+   

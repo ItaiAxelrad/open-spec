@@ -28,5 +28,5 @@ Use a licensed land surveyor to replace all property corners or other monuments 
  C NOT USED
 1. PART 4 - MEASUREMENT AND PAYMENT** **C NOT USED
 
-1. END OF SECTION
+
 

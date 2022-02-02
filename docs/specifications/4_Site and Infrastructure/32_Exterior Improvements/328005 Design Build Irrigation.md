@@ -7,12 +7,12 @@ subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Design', 'Build', 'Irrigation']
 ---
 
-   1. SECTION 328005
+
    1. design-build irrigation systems
 
 ## General
 
-   1. SUMMARY 
+1. SUMMARY 
    1. This section describes the expectations of the owner, and provides provisions for the contract to design and install an proper irrigation system.
    1. Section Includes
    1. Trenching, stockpiling excavation materials, refilling and compacting trenches.
@@ -27,7 +27,7 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Design', 'Build', 
    1. Conform to requirements of reference information listed below except where more stringent requirements are shown or specified in Contract Documents.
    1. American Society for Testing and Materials (ASTM) - Specifications and Test Methods specifically referenced in this Section.
    1. Underwriters Laboratories (UL) - UL Wires and Cables.
-   1. SUBMITTALS
+1. SUBMITTALS
    1. Prepare and make submittals in accordance with conditions of the Contract.
    1. Irrigation Design
    1. Contractor shall prepare a complete irrigation system design providing 100% coverage to all landscaped areas. Design shall follow these specifications and attached details and shall be based on the following. Final design shall be submitted to Owners Representative for review and approval prior to commencement of construction.
@@ -72,7 +72,7 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Design', 'Build', 
    1. Charts shall be completed and reviewed prior to initial acceptance of the work.
    1. Shop Drawings
    1. Submit Shop Drawings for review by the Owner’s Representative, including a complete materials list indicating manufacturer, model number, and description of all materials and equipment to be used. Show appropriate dimensions and adequate detail to accurately portray intent of construction.
-   1. QUALITY ASSURANCE
+1. QUALITY ASSURANCE
    1. Installer Qualifications
    1. Installer shall have had considerable experience and demonstrate ability in the installation of irrigation system(s) of specific type(s) in a neat orderly, and responsible manner in accordance with recognized standards of workmanship. 
    1. Special Requirements
@@ -96,7 +96,7 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Design', 'Build', 
    1. Request Owner, in writing, to locate all private utilities (i.e., electrical service to outside lighting) before proceeding with excavation. If, after such request and necessary staking, private utilities which were not staked are encountered and damaged by Installer, they shall be repaired by Owner at no cost to Installer. If Contractor damages staked or located utilities, they shall be repaired by Utility Owner at Contractor's expense unless other arrangements have been made.
    1. Replacement of Paving and Curbs
    1. Where trenches and lines cross existing roadways, paths, curbing, etc., damage to these shall be kept to a minimum and shall be restored to original condition.
-   1. WARRANTY
+1. WARRANTY
    1. Manufacturer shall warrant materials against defects for a period of one year from date of Initial Acceptance. 
    1. Installer(s) shall guarantee workmanship for similar period.
    1. Settling of backfilled trenches which may occur during guarantee period shall be repaired at no expense to Owner, including complete restoration of damaged property.
@@ -114,9 +114,10 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Design', 'Build', 
    1. Two aluminum drain valve keys of sufficient length for operation of drain valves.
    1. Winterization and Spring Start Up
    1. Include cost to winterize the complete system at conclusion of sprinkling season (in which system received final acceptance) within 3 days notification by the Owner. System shall be voided of water using compressed air or similar method reviewed by Owners Representative. Reopen, operate, and adjust system malfunctions accordingly during April of following season (or as dictated by the weather).
-   1. PRODUCTS
 
-* 
+## Products
+
+
 	1. MATERIALS:
 
 ## General
@@ -228,7 +229,9 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Design', 'Build', 
    1. Clean, fine granular soil as approved by the Owner’s Representative.
    1. Drainage backfill
    1. Cleaned gravel or crushed stone, graded from 3” maximum to 0.75” minimum size.
-   1. EXECUTION
+
+## Execution
+
    1. INSPECTION
    1. Examine areas and conditions under which Work of this Section is to be performed. Do not proceed with Work until unsatisfactory conditions have been corrected.
    1. Grading operations, with the exception of final grading, shall be completed, and approved by Owner, before staking or installation of any irrigation system begins.
@@ -237,7 +240,7 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Design', 'Build', 
    1. System layout
    1. Coverage tests prior to planting
    1. Final review.
-   1. PREPARATION
+1. PREPARATION
    1. Staking shall Occur as Follows
    1. Mark, with powdered lime, paint, or flagging, routing of pressure supply line and flag heads. Contact Owners Representative three days in advance and request review of staking. Owners Representative will advise installer as to the amount of staking to be prepared. Owners Representative will review staking and direct changes if required. Review does not relieve installer from coverage problems due to improper placement of heads after staking.
    1. If Project has significant topography, freeform planting beds, or other amenities which could require alteration of irrigation equipment layout as deemed necessary by Owners Representative, do not install irrigation equipment in these areas until Owners Representative has reviewed equipment staking.
@@ -257,7 +260,7 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Design', 'Build', 
    1. Drip Tubing - 4 inches from top of pipe.
    1. Emitter Tubing (Micro-tubing) - 2 inches from top of pipe.
    1. Boring will be permitted only where pipe must pass under obstruction(s) which cannot be removed. In backfilling bore, final density of backfill shall match that of surrounding soil. It is acceptable to use sleeves of suitable diameter installed first by jacking or boring, and pipe laid through sleeves. Observe same precautions as though pipe were installed in open trench.
-   1. INSTALLATION
+1. INSTALLATION
    1. Locate other equipment as near as possible to locations designated. Deviations shall be reviewed by Owners Representative prior to installation. Make minor adjustments to trench locations as necessary to avoid conflicts with landscape. Plant locations shall take precedence over irrigation lines.
    1. PVC piping
    1. Snake pipe in trench as much as possible to allow for expansion and contraction. 
@@ -384,5 +387,5 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Design', 'Build', 
    1. Areas which do not conform to designated operation requirements due to unauthorized changes or poor installation practices shall be immediately corrected at no additional cost to the Owner.
    1. CLEANING
    1. Maintain continuous cleaning operation throughout duration of work. Dispose of, off-site at not additional cost to Owner, all trash or debris generated by installation of irrigation system.
-   1. END OF SECTION
+   
 

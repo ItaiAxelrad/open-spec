@@ -7,8 +7,4 @@ subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Transportation']
 ---
 
-   1. Division 34
-   1. Transportation
-
-*[this page intentionally left blank]*
-
+Division 34 - Transportation

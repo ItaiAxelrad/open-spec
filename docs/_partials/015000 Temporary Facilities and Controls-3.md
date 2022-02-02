@@ -7,7 +7,7 @@ subgroup: General Requirements
 tags: ['General', 'Requirements', 'Temporary', 'Facilities', 'Controls']
 ---
 
-1. SECTION 015000
+
    1. CONSTRUCTION AND TEMPORARY FACILITIES
 
 ## General
@@ -21,22 +21,21 @@ tags: ['General', 'Requirements', 'Temporary', 'Facilities', 'Controls']
 2. Security
    1. Provide fencing, barricades, warning signs, and lights to secure all work areas, equipment, and materials.
 
-* 
 	1. DUST CONTROL
    1. Be responsible for dust control, providing all equipment and personnel to for the Work. Furnish OWNER with the name(s) and telephone number(s) of the person(s) responsible for dust control during evenings and weekends. If this person cannot be contacted, OWNER may, at Contractor expense, perform the Work or contract the Work out.
 
-* 
 	1. Haul Routes
    1. Obtain OWNER approval of haul routes.
 1. PART 2 – PRODUCT — NOT USED
-   1. Execution
+
+## Execution
+
 1.  
 
-* 
 	1. SIGNAGE — NOT USED
 
  **PART 4 – MEASUREMENT AND PAYMENT
 1. PAYMENT
    1. All items in Part 1 are incidental to the Work and no separate payment is made for these items.
-   1. END OF SECTION
+   
 

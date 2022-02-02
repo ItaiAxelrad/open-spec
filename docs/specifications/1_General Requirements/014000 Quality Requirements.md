@@ -7,13 +7,12 @@ subgroup: General Requirements
 tags: ['General', 'Requirements', 'Quality']
 ---
 
-   1. SECTION 014000
+
    1. QUALITY REQUIREMENTS
 
 ## General
 
 
-* 
 	1. RELATED DOCUMENTS
    1. Drawings, General and Special Provisions of the Contract, and other Division 01 Specification
 Sections, apply to this Section.
@@ -197,10 +196,7 @@ and quality-control services with a minimum of delay and to avoid necessity of r
 ## Execution
 
 1. REPAIR AND PROTECTION
-
-## General
-
-:
+	1. General:
       1. On completion of testing, inspecting, sample taking, and similar services, repair
 damaged construction and restore substrates and finishes.
 1. Provide materials and comply with installation requirements specified in other Sections

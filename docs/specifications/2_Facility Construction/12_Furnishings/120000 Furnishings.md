@@ -10,5 +10,3 @@ tags: ['Facility', 'Construction', 'Furnishings']
    1. Division 12
    1. Furnishings
 
-*[this page intentionally left blank]*
-

@@ -7,22 +7,22 @@ subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Openings', 'Access', 'Doors', 'Panels']
 ---
 
-1. SECTION 08 31 00
+
 1. FLOOR ACCESS DOORS
 
 ## General
 
-   1. SUMMARY
+1. SUMMARY
    1. Work Included:
       1. Provide factory-fabricated floor access doors.
-   1. SUBMITTALS
+1. SUBMITTALS
    1. Product Data:
       1. Submit manufacturer’s product data.
    1. Shop Drawings:
       1. Submit shop drawings including profiles, accessories, location, adjacent construction interface, and dimensions.
    1. Warranty:
       1. Submit executed copy of manufacturer’s standard warranty.
-   1. QUALITY ASSURANCE
+1. QUALITY ASSURANCE
    1. Manufacturer:
       1. A minimum of 5 years experience manufacturing similar products.
    1. Installer:
@@ -31,10 +31,12 @@ tags: ['Facility', 'Construction', 'Openings', 'Access', 'Doors', 'Panels']
       1. Registered to ISO 9001 Quality Standards including in-house engineering for product design activities.
    1. DELIVERY, STORAGE AND HANDLING
    1. Deliver products in manufacturer’s original packaging. Store materials in a dry, protected, well-vented area. Inspect product upon receipt and report damaged material immediately to delivering carrier and note such damage on the carrier’s freight bill of lading.
-   1. WARRANTY
+1. WARRANTY
    1. Manufacturer’s Warranty:
       1. Provide manufacturer’s standard warranty. Materials shall be free of defects in material and workmanship for a period of five years from the date of purchase. Should a part fail to function in normal use within this period, manufacturer shall furnish a new part at no charge.
-   1. PRODUCTS
+
+## Products
+
    1. manufacturer
    1. Basis-of-Design Manufacturer:
       1. Type J-H20 Floor Access Door by The Bilco Company, P.O. Box 1203, New Haven, CT 06505, 1-203-934-6363, Fax:
@@ -71,15 +73,17 @@ tags: ['Facility', 'Construction', 'Openings', 'Access', 'Doors', 'Panels']
       1. Compression spring tubes shall be an anti-corrosive composite, all fasteners shall be Type 316 stainless steel material, and all other hardware shall be zinc plated and chromate sealed. [For installation in highly corrosive environments or when prolonged exposure to hot water or steam is anticipated, specify Type 316 stainless steel hardware]. 
    1. Finishes:
       1. Factory finish shall be red oxide primed steel.
-   1. EXECUTION
-   1. EXAMINATION
+
+## Execution
+
+1. EXAMINATION
    1. Examine substrates and openings for compliance with requirements for installation tolerances and other conditions affecting performance. Proceed with installation only after unsatisfactory conditions have been corrected.
-   1. INSTALLATION
+1. INSTALLATION
    1. Install products in strict accordance with manufacturer’s instructions and approved submittals. Locate units level, plumb, and in proper alignment with adjacent work. 
    1. Test units for proper function and adjust until proper operation is achieved.
    1. Repair finishes damaged during installation. 
    1. Restore finishes so no evidence remains of corrective work.
    1. ADJUSTING AND CLEANING
    1. Clean exposed surfaces using methods acceptable to the manufacturer which will not damage finish.
-   1. END OF SECTION
+   
 

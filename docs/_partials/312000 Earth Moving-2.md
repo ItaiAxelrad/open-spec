@@ -10,7 +10,7 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Earth', 'Moving']
 
 ## General
 
-   1. SUMMARY
+1. SUMMARY
    1. Section Includes
    1. This Section includes earthwork activities.
    1. Excavation, sheeting, bracing, and all operations necessary for the preparation of trenches for bedding of pipes and pipe appurtenances, conduit, and buried cable.
@@ -39,21 +39,21 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Earth', 'Moving']
    1. D1557 – Modified Proctor Analysis.
    1. OSHA
    1. Part 1926 - Safety and Health Regulations for Construction.
-   1. SUBMITTALS
+1. SUBMITTALS
    1. Submit as specified in DIVISION 1.
    1. Where selecting an option for excavation, trenching and shoring design from "OSHA Part 1926" which request design by a registered professional engineer, submit for information only and not for Engineer approval copies of design calculations and notes for sloping, benching, support systems, shield systems, and other protective systems approved by the registered professional engineer in the state where construction is occurring and obtained by Contractor.
-   1. Submit site specific Erosion and Sediment and Control plan in accordance with the NREL Storm Water Pollution Prevention Plan.
-   1. QUALITY ASSURANCE
+   1. Submit site specific Erosion and Sediment and Control plan in accordance with the Owner Storm Water Pollution Prevention Plan.
+1. QUALITY ASSURANCE
    1. Site Compaction Testing
    1. Testing of compacted fill materials will be performed by an independent testing laboratory. Testing will be performed so as to least encumber the performance of the work, yet enough to ensure the quality of the work.
    1. When work or portions of the work of this Section are completed, notify the independent testing laboratory to perform density tests. Do not proceed with additional portions of the work until results have been verified.
-   1. If, during progress of the work, tests indicate that compacted materials do not meet the specified requirements, remove defective work, replace, and retest at no additional cost to NREL.
+   1. If, during progress of the work, tests indicate that compacted materials do not meet the specified requirements, remove defective work, replace, and retest at no additional cost to Owner.
    1. Establish optimum moisture/density relationship in accordance with ASTM D 698 (For Cohesive Soils).
    1. Perform in-place density and moisture tests for each lift of soil compacted. Such tests shall be made not less frequently than one (1) test each lift. Retest, after further compaction, soil which has been compacted to less than the required density.
    1. DELIVERY, STORAGE AND PROTECTION
    1. Protect existing landscaping, bench marks, monuments and existing structures, roads, sidewalks, paving, and curbs against any damage from excavations, and from equipment and vehicular or foot traffic.
    1. Protect excavations by shoring, bracing, sheet piling, underpinning, or other methods, as required to prevent cave-ins or loose dirt from falling into excavations.
-   1. Notify NREL of any unexpected subsurface conditions and discontinue work in the area until directed to proceed.
+   1. Notify Owner of any unexpected subsurface conditions and discontinue work in the area until directed to proceed.
    1. Protect the bottom of all excavations and soil around and beneath foundations from frost.
    1. Grade around excavation(s) to prevent surface water run-off into excavated area(s).
    1. PROJECT/SITE CONDITIONS
@@ -64,11 +64,11 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Earth', 'Moving']
    1. Logs of soil borings are included only as “Information to Bidders” and are not part of the Contract Documents. The data on indicated subsurface condition is not intended as representation or warranties of accuracy or continuity between soil borings.
    1. Existing Utilities:
       1. Before starting any work disturbing, moving or penetrating the ground, call the Utility Notification Center of Colorado, 534-6700 or 1-800-922-1987, to locate, stake and identify depth of all buried utilities within the construction limits or affected by the Work.
-   1. After and/or in conjunction with the locating, staking and identifying notify the NREL representative to verify that all utilities have been located in accordance with the as-built drawings of the site.
+   1. After and/or in conjunction with the locating, staking and identifying notify the Owner representative to verify that all utilities have been located in accordance with the as-built drawings of the site.
    1. The existence and location of underground utilities and construction indicated as existing are not guaranteed. Excavate carefully so as not to damage uncharted utilities.
    1. Should uncharted, or incorrectly charted, utilities be encountered, notify the Owner immediately for direction.
-   1. Do not interrupt existing utilities without NREL and utility owner's consent and approval of affected users at least 72 hours in advance of interruption.
-   1. Demolish and completely remove from site existing underground utilities indicated to be removed. Coordinate with utility companies and NREL for shut-off of services if lines are active.
+   1. Do not interrupt existing utilities without Owner and utility owner's consent and approval of affected users at least 72 hours in advance of interruption.
+   1. Demolish and completely remove from site existing underground utilities indicated to be removed. Coordinate with utility companies and Owner for shut-off of services if lines are active.
    1. Protect structures, utilities, and all other improvements from damage during earthwork operations.
    1. Contractor is required to maintain adjacent sidewalks and streets free of dirt accumulation arising out of earthwork.
    1. Use of Explosives
@@ -76,7 +76,9 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Earth', 'Moving']
    1. Protection of Persons and Property
    1. Barricade open excavations occurring as part of the Work and post with warning lights. Operate warning lights as recommended by authorities having jurisdiction.
    1. Protect utilities, pavements and other facilities from damages caused by settlement, lateral movements, undermining, wash-out and other hazards created by excavation operations.
-   1. PRODUCTS
+
+## Products
+
    1. MATERIALS
    1. Fill and backfill materials shall be classified as that material which is required to construct the subgrade to the required levels. Obtain all materials from approved sources. Submit samples for testing. Obtain approval from the independent testing laboratory at the source of supply.
    1. Materials suitable for use in embankment and fill include material:
@@ -161,7 +163,9 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Earth', 'Moving']
    1. Have moisture content enabling satisfactory placement and compaction.
    1. Blended or otherwise processed to provide required gradation and obtain moisture content at time of placement of not less than 2% below or more than 2% above optimum as determined by AASHTO T99/ASTM D698.
    1. Use granular material as specified for pipe embedment under driveways.
-   1. EXECUTION
+
+## Execution
+
    1. STRIPPING AND CONSERVATION OF TOPSOIL
    1. Stripping
    1. Remove grass, sod, decayed vegetation and other unsuitable material to 5 feet outside of the building perimeter.
@@ -336,7 +340,7 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Earth', 'Moving']
    1. 98% for road and parking areas
    1. 90% for all other areas
    1. In fill areas greater than 7 feet deep, fill shall be compacted to not less than 98% relative density.
-   1. If tests indicate work does not meet specified requirements, remove work, replace and retest at no cost to NREL.
+   1. If tests indicate work does not meet specified requirements, remove work, replace and retest at no cost to Owner.
    1. PROTECTION
    1. Maintenance
    1. Protect newly graded and topsoiled areas from actions of the elements.
@@ -351,5 +355,5 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Earth', 'Moving']
    1. Restore appearance, quality, and condition of surface or finish to match adjacent work, and eliminate evidence of restoration to greatest extent possible.
    1. Make repairs within 10 days from and after due notification by Owner of backfill settlement and resulting damage.
    1. Make own arrangements for access to the site for purposes of repair.
-   1. END OF SECTION
+   
 

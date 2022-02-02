@@ -7,7 +7,7 @@ subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Utilities', 'Copper', 'Utility', 'Pipe', 'Tubing']
 ---
 
-   1. SECTION 15057
+
 1. COPPER PIPE, FITTINGS, and APPURTENANCES
 
 
@@ -16,19 +16,16 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Copper', 'Utility', 'Pipe', 'Tubi
 
 1.  
 
-01. DESCRIPTION** 
-
+01. DESCRIPTION*
    1. This section describes materials, installation, and testing of copper and brass pipe, and copper, brass and bronze fittings, appurtenances and meter boxes. All materials shall be in accordance with NSF 61 Annex G and California legislation (AB1953). Demonstrate and provide the proper connections and compatibility of all pipe, fittings and valves. The minimum pressure rating for all pipes, fittings, valves and appurtenance shall not be less than the test pressure listed in Section 15000 and shall be considered as a high pressure service. The Contractor shall furnish and replace 3/4-inch piping with 1-inch piping and the required transition fittings to connect to existing ¾-inch meters to remain in place. 
    1. Refer to Table 2:
       1. Water Meter Replacement Schedule and construction plans for meter replacement locations as designated by the City. The City will provide meters for the project.
-02. RELATED WORK SPECIFIED ELSEWHERE** 
-   1. Standard Drawings
+02. RELATED WORK SPECIFIED ELSEWHERE*   1. Standard Drawings
 2. Standard Specifications 01000, 01045, 01200, 01310, 01330, 01505, 01510, 01570, 02140, 02222, 02223, 02511, 02528, 02578, 03000, 03480, 03482, 09902, 09910, and Division 15.
 03. REFERENCE STANDARDS
    1. The publications listed below form part of this specification to the extent referenced and are referred to in the text by the basic designation only. Reference shall be made to the latest edition of said standards unless otherwise called for.
    1. American National Standards Institute
-	* 
-		1. B.1.1 Unified Inch Screw Threads
+			1. B.1.1 Unified Inch Screw Threads
 		2. B1.20.1 Pipe Threads, General Purpose
 		3. B16.15 Cast Bronze Threaded Fittings
 		4. B16.18 Cast Copper Alloy Solder Joint Pressure Fittings
@@ -36,8 +33,7 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Copper', 'Utility', 'Pipe', 'Tubi
 		6. B 16.24 Cast Copper Alloy Pipe Flanges and Flanged Fittings
 		7. B31.3 Chemical Plant and Petroleum Refinery Piping
 2. American Society of Mechanical Engineers
-	* 
-		1. Section IX Boiler and Pressure Vessel Code
+			1. Section IX Boiler and Pressure Vessel Code
 3. American Society for Testing and Materials
 	1. A307 Carbon Steel Bolts and Studs
 	2. B32 Specification for Solder Metal
@@ -78,23 +74,17 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Copper', 'Utility', 'Pipe', 'Tubi
 
    1. Solder shall be tin-silver solder conforming to ASTM B 32, latest revision, Grade Sn94, Sn95 or Sn96. Cored solder shall not be used. Solder and flux used in joints of potable waterlines shall contain no more than 0.2 percent lead.
 2. Refer to Approved Materials List, or approved equal.
-1. 2.05 BRASS PIPE AND NIPPLES** 
-   1. Short threaded nipples and brass pipe shall conform to ASTM B 43, regular wall thickness, except that nipples and pipe of sizes 1 inch and smaller shall be extra strong. Threads shall conform to ANSI B1.20.1.
+1. 2.05 BRASS PIPE AND NIPPLES*   1. Short threaded nipples and brass pipe shall conform to ASTM B 43, regular wall thickness, except that nipples and pipe of sizes 1 inch and smaller shall be extra strong. Threads shall conform to ANSI B1.20.1.
 2. Refer to Approved Materials List, or approved equal.
-1. 2.06 BRONZE APPURTENANCES** 
-
-
-## General
-
-
-: All items specified herein shall be manufactured of bronze conforming to ASTM B62, "Composition Brass or Ounce Metal Castings” and AWWA C800. 
+1. 2.06 BRONZE APPURTENANCES*
+	 1. General: All items specified herein shall be manufactured of bronze conforming to ASTM B62, "Composition Brass or Ounce Metal Castings” and AWWA C800. 
 2. Service Saddles:
       1. Service saddle bodies shall be manufactured of bronze, with flattened silicon bronze straps. Saddles shall be tapped with a female iron pipe thread outlet. The seal with the outer wall of the pipe shall be affected with either a rubber gasket or an O-ring. Refer to the Approved Materials list, or approved equal, for service saddles manufacturers and model numbers shall be as follows:
 3. Corporation Stops:
       1. Corporation stops shall be the “ball” valve type, manufactured of bronze. The inlet fitting shall be a male iron pipe thread when used with a service saddle and the outlet connection shall be a compression type pack joint or 110 compression. Refer to the Approved Materials List, or approved equal.
 4. Corporation ball valves within the meter boxes shall have lock wings with female iron pipe thread for the inlet and outlet connections. Refer to the Approved Materials List, or approved equal.
 5. Angle Meter Stops:
-      1. Angle meter stops shall be of the "ball valve" style and shall be manufactured of bronze. The inlet connection shall be a compression type or iron-pipe thread and the outlet fitting shall be a meter flange or meter coupling. The inlet and outlet shall form an angle of 90 degrees on a vertical plane through the centerline of the meter stop. A rectangular lug and lock wing shall be provided on the top of the fitting to operate the shutoff mechanism. Refer to the Approved Materials List, or approved equal. **PRIOR APPROVAL IS REQUIRED BEFORE USING ANGLE METER STOPS.
+      1. Angle meter stops shall be of the "ball valve" style and shall be manufactured of bronze. The inlet connection shall be a compression type or iron-pipe thread and the outlet fitting shall be a meter flange or meter coupling. The inlet and outlet shall form an angle of 90 degrees on a vertical plane through the centerline of the meter stop. A rectangular lug and lock wing shall be provided on the top of the fitting to operate the shutoff mechanism. Refer to the Approved Materials List, or approved equal. PRIOR APPROVAL IS REQUIRED BEFORE USING ANGLE METER STOPS.
 6. Customer Service Valve:
       1. Customer service valves shall be "ball valve" style manufactured of bronze with lever-type turn handle. The inlet connection shall be a meter flange or a meter coupling and the outlet female iron pipe thread. Refer to the Approved Materials List, or approved equal.
 1. 2.07 FLANGES, GASKETS, BOLTS AND NUTS
@@ -103,23 +93,19 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Copper', 'Utility', 'Pipe', 'Tubi
 1. 2.08 WARNING/IDENTIFICATION TAPE
    1. Warning/Identification Tape materials shall be in accordance with Section 15000. 
 2. Refer to the Approved Materials List, or approved equal.
-   1. Execution
-1. 3.01 GENERAL** 
 
+## Execution
+
+1. 3.01 GENERAL*
    1. Pipe shall be installed without springing, forcing, or stressing the pipe or any adjacent connecting valves or equipment. Pipe hangers and supports, and pipe penetrations through walls, slabs, and floors shall be as detailed on the drawings.
 1. 3.02 STORAGE AND HANDLING
    1. Exercise care in handling, loading, unloading and storage of pipe and fittings to avoid distortion, scratches, gouges, cracks, dents and scuffing. Store all pipe and fittings protected from the elements until ready for installation.
-1. 3.03 INSTALLING FLANGE BOLTS AND NUTS** 
-   1. Bolt Thread Lubrication:
+1. 3.03 INSTALLING FLANGE BOLTS AND NUTS*   1. Bolt Thread Lubrication:
       1. Bolt threads shall be lubricated with an anti-seize compound prior to installation. Anti-seize compound shall be as manufactured by Tri-Flow, Permatex, Crouse-Hinds or approved equal. 
 2. Flange Alignment:
       1. Flanged pipe shall be set with the flange bolt holes straddling the pipe horizontal and vertical centerlines. This is referred to as the "two holing" procedure.
-1. 3.04 INSTALLATION** 
+1. 3.04 INSTALLATION*
 
-
-* 
-	+ 
-		- 
 			1. Related Installation Specification: Pipe shall be installed in accord with the requirements of Section 15051, Installation of Pressure Pipelines.
 
    1. Pipe/Tubing Preparation:
@@ -142,8 +128,7 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Copper', 'Utility', 'Pipe', 'Tubi
     1. Clean threaded joints by wire brushing or swabbing. Apply Teflon joint compound or Teflon tape to male pipe threads before installing threaded fitting. Joints shall be watertight.
     1. Provide an insulating union at the point of transition from copper tubing to ferrous piping.
     1. Assemble copper tubing and fittings per the manufacturer's recommendation and in accordance with the Standard Drawings.
-1. 3.05 SERVICE SADDLES** 
-
+1. 3.05 SERVICE SADDLES*
    1. Proximity to Valves, Couplings, Joints, and Fittings:
       1. Service saddles shall be no closer than 18-inches to valves, couplings, joints, or fittings unless it is at the end of the main. 
    1. Service saddles for connections shall be located a minimum of 24” from other saddles. Additionally, multiple service saddles for connections that are installed on the same side of a single pipe length shall be alternately staggered between 10° and 30° to prevent a weak plane in the pipe.
@@ -160,5 +145,5 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Copper', 'Utility', 'Pipe', 'Tubi
    1. Disinfection, bacteriological testing, and flushing shall be performed in accordance with Section 15041.
 1. 3.07 HYDROSTATIC TESTING
    1. Field hydrostatic testing shall be performed in accordance with Section 15044.
-1. END OF SECTION
+
 

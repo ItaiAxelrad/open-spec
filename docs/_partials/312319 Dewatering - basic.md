@@ -7,31 +7,31 @@ subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Earthwork', 'Dewatering', 'basic']
 ---
 
-1. SECTION 31 23 19
+
 1. DEWATERING
 1.  NOTE TO SPECIFIER ** This is a generic ARCAT specification, provided in the style and format of all ARCAT manufacturer's specifications. The Notes to Specifier are intended to provide guidance in editing the text. Delete and add text as required for your individual project.
 
 ## General
 
-   1. SECTION INCLUDES
+
 1.  NOTE TO SPECIFIER ** Delete items below not required for project.
    1. Dewatering system.
    1. Observation wells.
    1. RELATED SECTIONS
 1.  NOTE TO SPECIFIER ** Delete any sections below not relevant to this project; add others as required.
    1. Section 31 20 00 - Earth Moving.
-   1. SUBMITTALS
+1. SUBMITTALS
    1. Submit under provisions of Section 01 30 00 - Administrative Requirements.
    1. Shop Drawings:
       1. Submit shop drawings indicating layout of dewatering system, details of construction, connections, and relationship with adjacent construction.
-   1. QUALITY ASSURANCE
+1. QUALITY ASSURANCE
    1. Installer Qualifications:
       1. Minimum 2-year experience installing similar products.
    1. PRE-INSTALLATION MEETINGS
    1. Convene minimum two weeks prior to starting work of this section.
    1. DELIVERY, STORAGE, AND HANDLING
    1. Deliver and store products in manufacturer's unopened packaging bearing the brand name and manufacturer's identification until ready for installation.
-   1. PROJECT CONDITIONS
+1. PROJECT CONDITIONS
    1. Maintain environmental conditions (temperature, humidity, and ventilation) within limits recommended by manufacturer for optimum results. Do not install products under environmental conditions outside manufacturer's recommended limits.
    1. SEQUENCING
    1. Ensure that products of this section are supplied to affected trades in time to prevent interruption of construction progress.
@@ -48,10 +48,10 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Dewatering', 'basic']
       1. Provide, take measurements, and maintain observation wells indicated and additional observation wells as may be required by governing authorities.
    1. Remove observation wells when dewatering is completed.
    1. - execution
-   1. EXAMINATION
+1. EXAMINATION
    1. Do not begin installation until substrates have been properly prepared.
    1. If substrate preparation is the responsibility of another installer, notify Architect of unsatisfactory preparation before proceeding.
-   1. INSTALLATION
+1. INSTALLATION
    1. Install in accordance with manufacturer's instructions and in proper relationship with adjacent construction. Test for proper operation and adjust until satisfactory results are obtained. Install system to provide the following:
       1. Lowering and controlling groundwater levels during excavation and construction.
    1. Control of hydrostatic pressures during excavation and construction.
@@ -60,5 +60,5 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Dewatering', 'basic']
    1. Establishment and monitoring of observation wells.
    1. Legal disposal of water removed from excavations.
    1. Removal of observation wells when no longer required.
-1. END OF SECTION
+
 

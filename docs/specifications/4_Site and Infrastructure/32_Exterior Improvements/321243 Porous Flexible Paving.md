@@ -7,16 +7,9 @@ subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Porous', 'Flexible', 'Paving']
 ---
 
-1. DIVISION 32 – EXTERIOR IMPROVEMENTS
-1. Section 32 12 43 – Porous Asphalt Concrete
-1. March 2016 32 12 43 - 1
-   1. DESIGNER NOTE:
-      1. The specifications below are based on the best available
-      1. Designer should modify the specifications to satisfy project-specific constraints.
-DESIGNER NOTE: Green text corresponds to notes to the designer.
-1. PART 1** - **GENERAL
-01.
-   1. SUMMARY
+## GENERAL
+
+1. SUMMARY
    1. This section includes:
       1.** Porous Asphalt Pavement
 1. 2.** Pavement Base
@@ -24,7 +17,6 @@ DESIGNER NOTE: Green text corresponds to notes to the designer.
    1. Related Sections:
 DESIGNER NOTE: The designer should list any additional specification
    1. sections which relate to the porous asphalt work (i.e., traffic control, temporary erosion control, utilities, earthwork, etc.)
-02.
    1. STANDARDS AND CODES
    1. Reference Standards:
       1. This section incorporates by reference the latest revisions of the following documents. These references are a part of this section as specified and modified.
@@ -51,18 +43,16 @@ Reference Title
    1. The Owner
    1. OGFC
    1. Porous Asphalt
-03.
-04.
-   1. REFERENCES
-   1. DESIGNER NOTE:
+   2. REFERENCES
+   3. DESIGNER NOTE:
       1. Designer to provide references to related industry manuals and guidance and all project specific documents (e.g., geotechnical report).
-   1. SUBMITTALS
+2. SUBMITTALS
    1. Bid Submittals:
       1. The Contractor shall submit to the Owner the following as part of the bid proposal:
       1.** Project experience and personnel qualification examples as specified in Section 1.05.B for the contractor and personnel assigned to this project.
-   1. DESIGNER NOTE:
+   2. DESIGNER NOTE:
       1. The designer should incorporate by reference these requirements in Division 00 of the Specifications.
-   1. Pre-Installation Submittals:
+   3. Pre-Installation Submittals:
       1. Submittals shall conform to the requirements of
 Caltrans Standard Specifications including:
    1.** Proposed job mix formula per Section 1.05.B of this Specification.
@@ -82,10 +72,7 @@ AASHTO 283.
          1. 3.** Source certificates, gradations, R-values, LA abrasion, and cleanness values of aggregates for base and reservoir course materials performed within one (1) month of product delivery to site.
 1. 4.** Product data sheets for geotextiles.
 1. 5.** Testing agency qualifications as specified in Section 1.05.A. QUALITY CONTROL AND QUALITY ASSURANCE
-
-## General
-
-:
+	1. General:
       1. Test and inspect asphalt materials and operations as Work progresses as described in this section. Failure to detect defective Work or materials at any time will not prevent rejection if a defect is discovered later, nor shall it constitute final acceptance.
 DESIGNER NOTE: This specification does not include a test panel/mockup due to the difficulty of installation and because physical properties of the material are known from the plant test. Consider whether project design objectives warrant the cost of a test panel/mockup.
 1.** Contractor and Personnel Qualifications
@@ -832,5 +819,5 @@ The type of rollers to be used and their relative position in the compaction seq
 07.
    1. REJECTION
    1. Porous asphalt that does not meet the acceptance criteria set forth in Section 1.05.E will be rejected by the Engineer. Porous asphalt that has been rejected by the Engineer shall be removed and replaced at the Contractor’s expense.
-1. END OF SECTION
+
 

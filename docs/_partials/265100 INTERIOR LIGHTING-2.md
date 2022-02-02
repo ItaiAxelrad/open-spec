@@ -7,7 +7,7 @@ subgroup: Facility Services
 tags: ['Facility', 'Services', 'Electrical', 'INTERIOR', 'LIGHTING']
 ---
 
-1. SECTION 26 51 00
+
 1. INTERIOR LIGHTING
 
 ## General
@@ -198,10 +198,7 @@ NEMA LE 5A.
 3. Compatibility:
       1. Certified by manufacturer for use with specific dimming control system and lamp type indicated.
 05. LED LUMINAIRES
-
-## General
-
-:
+	1. General:
       1. Except as otherwise indicated, provide LED luminaries, of types and sizes indicated on fixture schedules.
    1. Material and specifications for each luminaire are as follows:
       1. Each luminaire shall consist of an assembly that utilizes LEDs as the light source. In addition, a complete luminaire shall consist of a housing, LED array, and electronic driver (power supply).
@@ -254,10 +251,7 @@ NEMA LE 5A.
 
 +105°C), long life ( > 5000 hours ), and operated at no more than 70% of their rated voltage, and 70% of rated current.
 06. HIGH-INTENSITY DISCHARGE LAMP BALLASTS
-
-## General
-
-:
+	1. General:
       1. Comply with NEMA C82.4 and UL 1029. Shall include the following features, unless otherwise indicated.
 1. Type:
       1. Constant-wattage autotransformer or regulating high-power-factor type.
@@ -275,10 +269,7 @@ NEMA LE 5A.
    1. Auxiliary, Instant-On, Quartz System:
       1. Automatically switches quartz lamp on when fixture is initially energized and when momentary power outages occur. Automatically turns quartz lamp off when high-intensity-discharge lamp reaches approximately 60 percent light output.
 07. EXIT SIGNS
-
-## General
-
-:
+	1. General:
       1. Comply with UL 924; for sign colors and lettering size, comply with authorities having jurisdiction.
    1. Internally Lighted Signs:
       1. Lamps for AC Operation:
@@ -293,10 +284,7 @@ NEMA LE 5A.
       1. Relay automatically energizes lamp from battery when circuit voltage drops to
    1. 80 percent of nominal voltage or below. When normal voltage is restored, relay disconnects lamps from battery, and battery is automatically recharged and floated on charger.
 08. EMERGENCY LIGHTING UNITS
-
-## General
-
-:
+	1. General:
       1. Self-contained units complying with UL 924.
 1. Battery:
       1. Sealed, maintenance-free, nickel-cadmium type.

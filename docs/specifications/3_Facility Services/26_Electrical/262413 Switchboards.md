@@ -7,12 +7,6 @@ subgroup: Facility Services
 tags: ['Facility', 'Services', 'Electrical', 'Switchboards']
 ---
 
-1. Copyright 2005 by The American Institute of Architects (AIA)
-1. Exclusively published and distributed by Architectural Computer Services, Inc. (ARCOM) for the AIA
-1. Revise this Section by deleting and inserting text to meet Project-specific requirements.
-1. This Section uses the term "Architect." Change this term to match that used to identify the design professional as defined in the General and Supplementary Conditions.
-1. Verify that Section titles referenced in this Section are correct for this Project's Specifications; Section titles may have changed.
-
 ## General
 
 1. RELATED DOCUMENTS
@@ -299,6 +293,5 @@ tags: ['Facility', 'Services', 'Electrical', 'Switchboards']
    1. Test and adjust controls, remote monitoring, and safeties. Replace damaged and malfunctioning controls and equipment.
    1. Switchboard will be considered defective if it does not pass tests and inspections.
    1. Prepare test and inspection reports, including a certified report that identifies switchboards included and that describes scanning results. Include notation of deficiencies detected, remedial action taken, and observations after remedial action.
-1. END OF SECTION 262413
 1. (THIS PAGE INTENTIONALLY BLANK)
 

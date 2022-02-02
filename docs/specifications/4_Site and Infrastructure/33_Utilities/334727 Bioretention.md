@@ -7,15 +7,6 @@ subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Utilities', 'Bioretention']
 ---
 
-1. SECTION 33 47 27
-1. BIORETENTION
-   1. DESIGNER NOTE:
-      1. Green text corresponds to notes to the designer. Remove prior to
-   1. use.
-   1. DESIGNER NOTE:
-      1. Replace “Engineer/Landscape Architect” with person in responsible
-   1. charge for the project (e.g., Owner, Engineer, Landscape Architect).
-1. 
 ## General
 
 01. SUMMARY
@@ -111,10 +102,7 @@ DESIGNER NOTE: Designer should include relevant submittal
    1. requirements for mulch and streambed gravel (e.g., sieve
    1. analysis), to ensure quality of delivered products.
 06. QUALITY CONTROL AND QUALITY ASSURANCE
-
-## General
-
-:
+	1. General:
       1. Test and inspect bioretention materials and operations as Work
 progresses as described in this section. Failure to detect defective Work or
    1. materials at any time will not prevent rejection if a defect is discovered after
@@ -193,10 +181,7 @@ with bioretention facility excavation and soil installation. A written schedule
    1. silt fence)
 1. ## Product
 01. BIORETENTION SOIL MIX (BSM)
-
-## General
-
-:
+	1. General:
       1. BSM shall be a well-blended mixture of sand and compost, shall
 have sufficient moisture retention to support healthy plant growth, and shall
    1. meet the following criteria:

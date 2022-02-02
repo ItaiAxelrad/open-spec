@@ -18,13 +18,9 @@ tags: ['General', 'Requirements', 'Submittal', 'Procedures']
 2. Quality Assurance
    1. The work is based on the standards of quality established in the Contract Documents. All Products proposed for use, including those specified by required attributes and performance, shall require review by the engineer before being incorporated into the work.
 2. The Contractor shall bear ultimate responsibility for providing a complete working system and shall guarantee that all installed systems components are compatible and will provide for the intended operation of the component and the system of which it is a part.
-   ## Product
+## Product
 1. 2.1 Submittal Schedule
-
-## General
-
-
-: At the pre-construction conference or within 10 days after Notice of Award, whichever comes first, compile and submit 2 copies of a complete and comprehensive schedule of all submittals anticipated to be made during progress of the work. Include a list of each type of item for which Contractor’s Drawings, Shop Drawings, Certificates of Compliance, material samples, guarantees, or other types of submittals are required. Upon approval by the engineer, this section will become part of the Contract and the Contractor will be required to adhere to the schedule except when specifically permitted otherwise.
+	 1. General: At the pre-construction conference or within 10 days after Notice of Award, whichever comes first, compile and submit 2 copies of a complete and comprehensive schedule of all submittals anticipated to be made during progress of the work. Include a list of each type of item for which Contractor’s Drawings, Shop Drawings, Certificates of Compliance, material samples, guarantees, or other types of submittals are required. Upon approval by the engineer, this section will become part of the Contract and the Contractor will be required to adhere to the schedule except when specifically permitted otherwise.
 2. Coordination:
       1. Coordinate the schedule with all necessary subcontractors and materials suppliers to ensure their understanding of the importance of adhering to the approved schedule and their ability to so adhere. Coordinate as required to ensure grouping of submittals as described in Paragraph 3.2 below.
 3. Revisions:
@@ -49,13 +45,11 @@ tags: ['General', 'Requirements', 'Submittal', 'Procedures']
       1. In the event specified items will not be available, the Contractor shall notify the Engineer prior to receipt of bids.
 3. Delays:
       1. The costs of delays resulting from non-availability of specified items, when delays could have been avoided by the Contractor, will be the Contractor’s liability and shall not be borne by the owner.
-   1. Execution
+
+## Execution
+
 1. 3.1 Identification of Submittals
-
-## General
-
-
-: Consecutively number all submittals. Accompany each submittal with a letter of transmittal containing all pertinent information required for identification and checking of submittals.
+	 1. General: Consecutively number all submittals. Accompany each submittal with a letter of transmittal containing all pertinent information required for identification and checking of submittals.
 2. Internal Identification:
       1. On each copy of each submittal, and elsewhere as required for positive identification, clearly indicate the submittal number in which the item was included.
 3. Re-submittals:
@@ -71,21 +65,13 @@ tags: ['General', 'Requirements', 'Submittal', 'Procedures']
 2. Grouping of submittals:
       1. Unless otherwise specified, make all submittals in groups containing all associated items to ensure that information is available for checking each item when it is received. Partial submittals may be rejected as not complying with the provisions of the Contract Documents and the Contractor shall be strictly liable for all delays so occasioned.
 1. 3.3 Timing of Submittals
-
-## General
-
-
-: Make all submittals far enough in advance of scheduled dates for installation to provide all time required for reviews, for securing necessary approvals, for possible revisions and re-submittals, and for placing orders and securing delivery.
+	 1. General: Make all submittals far enough in advance of scheduled dates for installation to provide all time required for reviews, for securing necessary approvals, for possible revisions and re-submittals, and for placing orders and securing delivery.
 2. Engineer’s Review Time:
       1. In scheduling, allow at least 10 calendar days for review by the Engineer following receipt of the submittal.
 3. Delays:
       1. delays caused by tardiness in receipt of submittals will not be an acceptable basis for extensions of the contract completion date.
 1. 3.4 Engineer’s Review
-
-## General
-
-
-: Review by the Engineer shall not be construed as a complete check, but only that the general method of construction and detailing is satisfactory. Review shall not relieve the Contractor from the responsibility for errors which may exist.
+	 1. General: Review by the Engineer shall not be construed as a complete check, but only that the general method of construction and detailing is satisfactory. Review shall not relieve the Contractor from the responsibility for errors which may exist.
 2. Authority to Proceed:
       1. The notations “NO EXCEPTION TAKEN”, “MAKE CORRECTIONS NOTED”, and others, authorize the contractor to proceed with fabrication, purchase, or both , of the items as noted, subject to the revisions, if any, required by the Engineer’s review comments.
 3. Revisions:

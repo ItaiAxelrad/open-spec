@@ -10,7 +10,7 @@ tags: ['Facility', 'Construction', 'Equipment', 'Biological', 'Safety', 'Cabinet
 
 ## General
 
-   1. SUMMARY
+1. SUMMARY
    1. Section Includes
    1. Furnish and install Biological Safety Cabinet as specified herein and as indicated on the contract drawings.
    1. Hood shall be completely factory assembled with only connections to the exhaust system, process gasses and electrical required.
@@ -28,7 +28,7 @@ tags: ['Facility', 'Construction', 'Equipment', 'Biological', 'Safety', 'Cabinet
    1. REFERENCES
    1. NSF 49 - Method of Testing Performance of Biological Safety Cabinets
    1. ANSI/AIHA Z9.5 - American National Standard for Laboratory Ventilation
-   1. SUBMITTALS
+1. SUBMITTALS
    1. Comply with all pertinent provisions of Section 013300.
    1. Shop construction drawings comprised of the following:
       1. Complete dimensional drawings.
@@ -44,12 +44,14 @@ tags: ['Facility', 'Construction', 'Equipment', 'Biological', 'Safety', 'Cabinet
    1. Installation and maintenance instructions
    1. Parts and accessories list.
    1. Certified test reports for all specified performance tests.
-   1. Samples of hood liner material and work surface (bench top) for NREL testing and approval.
-   1. QUALITY ASSURANCE
+   1. Samples of hood liner material and work surface (bench top) for Owner testing and approval.
+1. QUALITY ASSURANCE
    1. Use adequate numbers of skilled workman who are thoroughly trained and experienced in the necessary crafts and who are completely familiar with the specified requirements and the methods needed for proper performance of the work of this Section.
    1. Hood manufacturer is responsible for analyzing laboratory layouts and supply and exhaust design parameters with respect to their equipment's ability to perform properly during NSF 49 tests.
    1. If design parameters are not adequate, in the opinion of the manufacturer, he must inform Owner in writing prior to manufacturer of hoods.
-   1. PRODUCTS
+
+## Products
+
    1. MANUFACTURERS
    1. Nuaire Model Nu- 407 or approved equal.
    1. COMPONENTS
@@ -85,8 +87,10 @@ tags: ['Facility', 'Construction', 'Equipment', 'Biological', 'Safety', 'Cabinet
    1. Manufacturer shall conduct NSF 49 performance test on a hood manufactured of type ordered, at the manufacturer's test facility.
    1. The hood must be designed to achieve a control level of 0.05 ppm or lower as manufactured.
    1. Manufacturer to submit test room description and testing proposal and notify Owner at least 10 working days before all tests.
-   1. Representatives of NREL to be allowed to be present during test.
-   1. EXECUTION
+   1. Representatives of Owner to be allowed to be present during test.
+
+## Execution
+
    1. ERECTION INSTALLATION APPLICATION
    1. Install Fume hoods plumb, level, rigid, securely anchored with manufacturer's instructions.
    1. Coordinate sequence of work with general contractor.
@@ -99,14 +103,14 @@ tags: ['Facility', 'Construction', 'Equipment', 'Biological', 'Safety', 'Cabinet
    1. The velocity profile shall have a uniformity of +/- 20% of specified design air velocity at all points of hood face as measured in accordance with NSF 49 performance test.
    1. CLEANING
    1. Clean surfaces, including both sides of glass.
-   1. Clean shop-finished surfaces, touch-up as required, and remove or refinish damaged or soiled areas, as acceptable to NREL
+   1. Clean shop-finished surfaces, touch-up as required, and remove or refinish damaged or soiled areas, as acceptable to Owner
    1. Protection:
-      1. Advise the general contractor of procedures and precautions for protection of materials and installed laboratory furniture from damage by the work of other trades until acceptance of the work by NREL.
+      1. Advise the general contractor of procedures and precautions for protection of materials and installed laboratory furniture from damage by the work of other trades until acceptance of the work by Owner.
    1. Damaged Work:
-      1. Repair equal to new undamaged work, or replace with new units, as acceptable to NREL
+      1. Repair equal to new undamaged work, or replace with new units, as acceptable to Owner
    1. DEMONSTRATION
    1. Manufacturer to guarantee 10% or a minimum of 1 (whichever is greater) of each hood type to pass the ASHRAE performance test (maximum control level of 0.1 ppm) after installation with hood and HVAC system balanced and operating normally in accordance with hood manufacturer's specifications and the guidelines of the 17th or newer addition of the Industrial Ventilation Manual.
-   1. Tests will be conducted by NREL at NREL’s expense.
+   1. Tests will be conducted by Owner at Owner’s expense.
    1. Representatives of the hood manufacturer will be allowed to be present during testing.
    1. Manufacturer will review and comment on plans for hood layout in rooms and supply air distribution system prior to manufacture of any hoods.
    1. Manufacturer's commitment to the after-installation performance guarantee will be conditioned on manufacturer's approval and sign-off of hood layout and supply air plans.
@@ -114,16 +118,15 @@ tags: ['Facility', 'Construction', 'Equipment', 'Biological', 'Safety', 'Cabinet
    1. In the event that hood selected for after-installation testing fail the ASHRAE test (maximum control level of 0.1 ppm), the manufacturer shall perform the following:
       1. Evaluate the supply and exhaust system design as installed.
    1. Evaluate air balance report.
-   1. Submit a written report of recommended corrective measures to the mechanical systems serving the hood and associated lab space to be undertaken by NREL.
-   1. If, after completion of corrective measures by NREL and verification that HVAC systems are operating properly and in accordance with hood manufacturer's specifications, the hood fails the ASHRAE test (maximum control level 0.1 ppm) at the previously described compliance level, the hood manufacturer shall, at his own expense, identify hood performance problems, submit corrective measures for NREL’s approval, and implement approved corrective measures.
+   1. Submit a written report of recommended corrective measures to the mechanical systems serving the hood and associated lab space to be undertaken by Owner.
+   1. If, after completion of corrective measures by Owner and verification that HVAC systems are operating properly and in accordance with hood manufacturer's specifications, the hood fails the ASHRAE test (maximum control level 0.1 ppm) at the previously described compliance level, the hood manufacturer shall, at his own expense, identify hood performance problems, submit corrective measures for Owner’s approval, and implement approved corrective measures.
    1. Corrective measures shall not compromise the construction integrity or functional effectiveness of the hood.
-   1. At the completion of the corrective measures, the manufacturer shall, at his own expense re-test the hood in the presence of an NREL’s representative.
+   1. At the completion of the corrective measures, the manufacturer shall, at his own expense re-test the hood in the presence of an Owner’s representative.
    1. If the re-test fails, the hood manufacturer shall, at his own expense, make additional corrective measurers to the hood.
    1. If the second re-test fails, the hood manufacturer shall remove the hood of this type from the premises and fully refund all costs for the hood and installation.
    1. SOURCE QUALITY CONTROL
    1. Manufacturer shall conduct ASHRAE 110 performance test on a hood manufactured of type ordered, at the manufacturer's test facility.
    1. The hood must be designed to achieve a control level of 0.05 ppm or lower as manufactured.
-   1. Manufacturer to submit test room description and testing proposal and notify NREL at least 10 working days before all tests.
-   1. Representatives of NREL to be allowed to be present during test.
-1. END OF SECTIONTHIS PAGE INTENTIONALLY BLANK
+   1. Manufacturer to submit test room description and testing proposal and notify Owner at least 10 working days before all tests.
+   1. Representatives of Owner to be allowed to be present during test.
 

@@ -7,17 +7,12 @@ subgroup: Facility Services
 tags: ['Facility', 'Services', 'Communications', 'PA', 'Mass', 'Notification']
 ---
 
-      1. Copyright 2005 by The American Institute of Architects (AIA)
-1. Exclusively published and distributed by Architectural Computer Services, Inc. (ARCOM) for the AIA
-1. Revise this Section by deleting and inserting text to meet Project-specific requirements.
-1. Verify that Section titles referenced in this Section are correct for this Project's Specifications; Section titles may have changed.
-
 ## General
 
-   1. RELATED DOCUMENTS
+1. RELATED DOCUMENTS
    1. Retain or delete this article in all Sections of Project Manual.
    1. Drawings and general provisions of the Contract, including General and Supplementary Conditions and Division 1 Specification Sections, apply to this Section.
-   1. SUMMARY
+1. SUMMARY
    1. This Section includes the requirements for a public address PA system and all related components.
    1. DEFINITIONS
    1. Channels:
@@ -29,8 +24,8 @@ tags: ['Facility', 'Services', 'Communications', 'PA', 'Mass', 'Notification']
       1. National Electrical Code
    1. National Fire Protection Association
    1. SYSTEM DESCRIPTION
-   1. Paging may be initiated to all speakers in the building, and integrated with the NREL site wide paging system. Pages shall be of the volume set on the amplifier. Local volume controls shall not affect paging.
-   1. SUBMITTALS
+   1. Paging may be initiated to all speakers in the building, and integrated with the Owner site wide paging system. Pages shall be of the volume set on the amplifier. Local volume controls shall not affect paging.
+1. SUBMITTALS
    1. Furnish submittals which shall include but not be limited to the following:
       1. Product data:
          1. Manufacturers descriptive literature of each type of product with descriptive specifications, engineering data sheets. These items are to be submitted with the bid.
@@ -57,7 +52,7 @@ tags: ['Facility', 'Services', 'Communications', 'PA', 'Mass', 'Notification']
    1. Submit final programming information, Zone Maps, Zone Configuration Tables and any other items relating the setup and programming.
    1. Submit a list of amplifier programming, connections and switch settings.
    1. Submit a list of head end controller programming, connections and switch settings.
-   1. QUALITY ASSURANCE
+1. QUALITY ASSURANCE
    1. All material shall comply with the following standards:
       1. Electrical Components, Devices, and Accessories:
          1. Listed and labeled as defined in NFPA 70, by a qualified testing agency, and marked for intended location and application.
@@ -72,7 +67,7 @@ tags: ['Facility', 'Services', 'Communications', 'PA', 'Mass', 'Notification']
    1. Contractor shall submit an installation schedule for this project.
    1. The schedule shall indicate equipment arrival dates, building equipment installation dates and system testing dates.
    1. Coordinate layout and installation of system components and suspension system with other construction that penetrates ceilings or is supported by them, including light fixtures, HVAC equipment, fire-suppression system, and partition assemblies.
-   1. WARRANTY
+1. WARRANTY
    1. Provide one (1) year warranty on all components
    1. Provide one (1) year warranty on cable installation and cable connection to speakers.
    1. Warranty shall include all repair labor and parts and travel time.
@@ -104,7 +99,7 @@ tags: ['Facility', 'Services', 'Communications', 'PA', 'Mass', 'Notification']
    1. Additional zone modules can be added to the head end controller system to increase zone capacity.
    1. The system should have a minimum capacity of 56 zones.
    1. Paging system power is 120 volts AC.
-   1. Paging shall be done using the NREL communications system telephone switches and cable plant. This system will be capable of paging based upon the telephone phone switch configuration. This will result in four separate phone switch paging systems.
+   1. Paging shall be done using the Owner communications system telephone switches and cable plant. This system will be capable of paging based upon the telephone phone switch configuration. This will result in four separate phone switch paging systems.
    1. Paging System amplifiers
    1. Designed to provide audio power that can be used to operate 4 Ohm, 25 volt or 70 volt type speakers or horns for voice paging.
    1. Telephone line input
@@ -171,7 +166,7 @@ tags: ['Facility', 'Services', 'Communications', 'PA', 'Mass', 'Notification']
     1. Plenum rated cable, West Penn 25224B or equal.
 1. See Editing Instruction No. 1 in the Evaluations for cautions about naming manufacturers. Retain paragraph and list of manufacturers below. See Division 01 Section "Product Requirements."
 1. EXECUTION
-   1. INSTALLATION 
+1. INSTALLATION 
    1. Conduit Installation
    1. Wiring to be installed in conduit in the following areas and as otherwise noted:
       1. In areas where protection is required for the cable, in open areas, and where bridle ring installation is not possible.
@@ -207,7 +202,7 @@ tags: ['Facility', 'Services', 'Communications', 'PA', 'Mass', 'Notification']
    1. The separate cable runs will permit implementation of separate paging of each wing and floor as a future option without total re-cabling.
    1. Use existing telephone cable trays for the speaker cable installation, where possible.
    1. Where existing pull rope is used to pull speaker cable into a telephone voice conduit, a new pull rope shall be pulled in with the speaker cable.
-   1. Use voice telephone conduits, as necessary, after obtaining approval from the NREL technical representative.
+   1. Use voice telephone conduits, as necessary, after obtaining approval from the Owner technical representative.
    1. Wall-Mounted Outlets:
       1. Flush mounted.
    1. Floor-Mounted Outlets:
@@ -227,19 +222,19 @@ tags: ['Facility', 'Services', 'Communications', 'PA', 'Mass', 'Notification']
    1. Speaker location shall provide good quality sound in installed area.
    1. Speakers will be connected using the speaker-to-speaker method.
    1. The hole in the ceiling tile shall be neatly cut.
-   1. NREL Telephone System Interconnection
-   1. NREL telecommunications interconnection will be the items related to any interface with the NREL cable plant or telephone equipment.
-   1. NREL telecommunications cable is the telecommunications wiring between the buildings, the wiring to telephone switches, the wiring from telephone switches or punch down blocks to PA system equipment.
-   1. NREL telecommunication equipment is comprised of the telephone switches, punch down blocks or other hardware related to telecommunications.
-   1. NREL telecommunication department will make all connections to the telephone related equipment.
-   1. NREL telecommunications shall provide the cable and terminations from the telephone equipment to the PA system head end controller and building PA system amplifiers.
-   1. Contractor will provide the connection information (phone circuit input, zone output, zone inputs, priority page input) for the NREL telecommunications connections to the PA system equipment (head end controller, building amplifiers)
+   1. Owner Telephone System Interconnection
+   1. Owner telecommunications interconnection will be the items related to any interface with the Owner cable plant or telephone equipment.
+   1. Owner telecommunications cable is the telecommunications wiring between the buildings, the wiring to telephone switches, the wiring from telephone switches or punch down blocks to PA system equipment.
+   1. Owner telecommunication equipment is comprised of the telephone switches, punch down blocks or other hardware related to telecommunications.
+   1. Owner telecommunication department will make all connections to the telephone related equipment.
+   1. Owner telecommunications shall provide the cable and terminations from the telephone equipment to the PA system head end controller and building PA system amplifiers.
+   1. Contractor will provide the connection information (phone circuit input, zone output, zone inputs, priority page input) for the Owner telecommunications connections to the PA system equipment (head end controller, building amplifiers)
    1. Daily Installation and Clean Up
-   1. Coordinate with NREL technical representatives speaker installation on a day-to-day basis in order to minimize impact on NREL activities. Make every effort to minimize disruption of NREL activities consistent with the need to locate speakers to provide good sound quality. This may require installation of speakers in an area to be re-scheduled to another time.
+   1. Coordinate with Owner technical representatives speaker installation on a day-to-day basis in order to minimize impact on Owner activities. Make every effort to minimize disruption of Owner activities consistent with the need to locate speakers to provide good sound quality. This may require installation of speakers in an area to be re-scheduled to another time.
    1. Daily clean up and removal of scrap leaving current work area clean at end of each day.
    1. Ceiling tiles shall be cleaned or replaced as related to the installation of PA system components.
    1. As installation progresses in an area the floor area shall be swept clean using a vacuum sweeper.
-   1. Provided portable trash bins to contain scrap, boxes, and other waste. Remove such waste from the NREL premises at the end of each day.
+   1. Provided portable trash bins to contain scrap, boxes, and other waste. Remove such waste from the Owner premises at the end of each day.
    1. GROUNDING
    1. Ground cable shields and equipment to eliminate shock hazard and to minimize ground loops, common-mode returns, noise pickup, cross talk, and other impairments.
    1. Signal Ground Terminal:
@@ -305,9 +300,8 @@ tags: ['Facility', 'Services', 'Communications', 'PA', 'Mass', 'Notification']
    1. As each building is completed a general PA system test shall be performed to verify amplifier operation and speaker coverage and volume levels.
    1. The entire Public Address system will be tested after all to the building public address systems have been installed and tested.
    1. Programming for the Public Address system head end controller and associated components (amplifiers, power supplies, etc.) shall be performed by the Contractor.
-   1. Inspection and testing shall be held in the presence of NREL Technical representatives and to their satisfaction. 
+   1. Inspection and testing shall be held in the presence of Owner Technical representatives and to their satisfaction. 
    1. The Contractor shall supply personnel and all required auxiliary equipment for the public address system test.
    1. The Public Address system technical representative shall supply personnel to train Owner’s personnel in operation and maintenance of the system installed.
 1. Retain one of first two paragraphs below and coordinate with Drawings. Delete both if wiring methods for system are indicated on Drawings. Coordinate selection with "Raceways" Article.
-1. END OF SECTION 275116
 

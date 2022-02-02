@@ -13,14 +13,12 @@ tags: ['Facility', 'Services', 'Plumbing', 'Piping']
 
 ## General
 
-
-* 
-	1. **Summary
+1. SUMMARY
    1. Work under this section shall include plumbing piping. 
 2. Referenced specification sections include:
 	1. Section 40 05 45, Pipe Support Systems
 	2. Section 40 05 51, Valves: Basic Requirements
-	3. **Quality Assurance
+	3. Quality Assurance
 3. Work shall be per:
       1. 
 	1. American Society of Mechanical Engineers (ASME).
@@ -34,14 +32,14 @@ tags: ['Facility', 'Services', 'Plumbing', 'Piping']
 		1. International Code Council (ICC):
 			1. International Building Code and associated standards, 2009 Edition including all amendments, referred to herein as Building Code.
 			2. International Plumbing Code and associated standards, 2009 Edition including all amendments, referred to herein as Building Code.
-	9. **Submittals
+	9. Submittals
 4. See Specification Section 01 33 00 for requirements for the mechanics and administration of the submittal process.
 5. Shop Drawings shall include:
 	1. Provide product technical data including acknowledgement that products submitted meet the aforementioned references, manufacturer’s installation instructions, and schedule sheet for each piping system. 
 	2. Provide welder’s certificates.
 6. Provide Operation and Maintenance Manuals.
 7. Provide qualifications for the lab performing disinfection analysis on water systems as well as test reports including pressure test results on all piping systems, results of dielectric testing and corrective action taken, disinfection test report and time and date for aforementioned testing. 
-   ## Product
+## Product
 1. 2.1 Acceptable Manufacturers
    1. Subject to compliance with the Contract Documents, the following manufacturers are acceptable:
 	1. Couplings:
@@ -71,10 +69,10 @@ tags: ['Facility', 'Services', 'Plumbing', 'Piping']
 		4. Joints:
 			1. Flared.
 			2. Soldered or Brazed:
-				1. Above ground below 180 °F: ASTM B32 solder with a tin/antimony ratio of 95/5 and non-corrosive flux.
-				2. Above ground 180 °F and above: use brazing alloy with melting temperature above 1000 °F and suitable flux.
-				3. Buried: Silver solder per AWS A5.8M/A5.8.
-				4. Provide unions and valves and equipment.
+			1. Above ground below 180 °F: ASTM B32 solder with a tin/antimony ratio of 95/5 and non-corrosive flux.
+			2. Above ground 180 °F and above: use brazing alloy with melting temperature above 1000 °F and suitable flux.
+			3. Buried: Silver solder per AWS A5.8M/A5.8.
+			4. Provide unions and valves and equipment.
 		5. Unions: Class 150, bronze.
 1. 2.3 Manufactured Units
    1. Unions
@@ -94,8 +92,7 @@ tags: ['Facility', 'Services', 'Plumbing', 'Piping']
 ## Execution
 
 
-* 
-	1. **Exterior Buried Piping Installation
+	1. Exterior Buried Piping Installation
    1. Unless otherwise shown on the Drawings, provide a minimum of 4 FT and maximum of 8 FT earth cover over exterior buried piping systems and appurtenances conveying water, fluids, or solutions subject to freezing.
 2. Enter and exit through structure walls, floors, and ceilings by using penetrations and seals specified in Division 11 and 15 specifications and as shown on Drawings.
 3. When entering or leaving structures with buried mechanical joint piping, install joint within 2 FT of point where pipe enters or leaves structure.
@@ -122,7 +119,7 @@ tags: ['Facility', 'Services', 'Plumbing', 'Piping']
 		1. Concrete blocks shall not cover pipe joints.
 	3. Provide bearing area of concrete in accordance with drawing detail.
 8. Install insulating components where dissimilar metals are joined together.
-	1. **Interior and Exposed Exterior Piping Installation
+	1. Interior and Exposed Exterior Piping Installation
 9. Install piping in vertical and horizontal alignment as shown on Drawings.
 10. Alignment of piping smaller than 4 IN may not be shown; however, install according to Drawing intent and with clearance and allowance for:
 	1. Expansion and contraction.
@@ -165,7 +162,7 @@ tags: ['Facility', 'Services', 'Plumbing', 'Piping']
 		1. Size trap as required by IPC.
 	5. Stub piping for equipment, sinks, lavatories, supply and drain fittings, key stops, "P" traps, miscellaneous traps and miscellaneous brass through wall or floor and cap and protect until such time when later installation is performed.
 23. Provide insulating components where dissimilar metals are joined together.
-	1. **Connections with Existing Pipes
+	1. Connections with Existing Pipes
 24. Where connection between new work and existing work is made, use suitable and proper fittings to suit conditions encountered.
 25. Perform connections with existing piping at time and under conditions which will least interfere with service to customers affected by such operation.
 26. Undertake connections in fashion which will disturb system as little as possible.
@@ -173,7 +170,7 @@ tags: ['Facility', 'Services', 'Plumbing', 'Piping']
 28. Where connections to existing systems necessitate employment of past installation methods not currently part of trade practice, utilize necessary special piping components.
 29. Where connection involves potable water systems, provide disinfection methods as prescribed in this Specification Section.
 30. Once tie-in to each existing system is initiated, continue work continuously until tie-in is made and tested.
-	1. **Access Provisions
+	1. Access Provisions
 31. Provide access doors or panels in walls, floors, and ceilings to permit access to valves, piping and piping appurtenances requiring service.
 32. Size of access panels to allow inspection and removal of items served, minimum 10 x 14 IN size.
 33. Fabricate door and frame of minimum 14 GA, stretcher leveled stock, cadmium plated or galvanized after fabrication and fitted with screw driver lock of cam type.
@@ -181,12 +178,12 @@ tags: ['Facility', 'Services', 'Plumbing', 'Piping']
 35. Furnish panels with prime coat of paint.
 36. Style and type as required for material in which door installed.
 37. Where door is installed in fire-rated construction, provide door bearing UL label required for condition.
-	1. **Cathodic Protection
+	1. Cathodic Protection
 38. Isolate, dielectrically, all piping from all other metals including reinforcing bars in concrete slabs, other pipe lines, and miscellaneous metal.
 39. Make all connections from wire or cable by Thermit Cad welding accomplished by operators experienced in this process.
 40. Install all cables with a loop and overhead knot around 1 each pipe and slack equal to at least 50 percent of the straight line length.
 41. After cad welding, coat all exposed metallic surfaces with hot applied tape.
-	1. **Installation – Pipe System Specific
+	1. Installation – Pipe System Specific
 42. Potable Water Piping Installation:
 	1. Slope water lines down to drain points not less than 1 IN in 60 FT.
 	2. Install all threaded piping with clean-cut tapered threads and with ends thoroughly reamed after cutting to remove burrs.
@@ -214,7 +211,7 @@ tags: ['Facility', 'Services', 'Plumbing', 'Piping']
 	8. Install piping true to grade and alignment. 
 		1. Begin at the system low point.
 	9. Install concealed, in finished structures such as administration and office facilities and at locations shown on Drawings.
-	10. **Joining
+	10. Joining
 44. Install products in accordance with manufacturer's instructions.
 45. Joining Methods – Solvent Cement:
 	1. PVC pipe shall have joints made with solvent cement elastomeric, threading, (threading of Schedule 80 Pipe is allowed only where required for disconnection and inspection; threading of Schedule 40 Pipe is not allowed), or mated flanged.
@@ -260,7 +257,7 @@ tags: ['Facility', 'Services', 'Plumbing', 'Piping']
 	4. Leave not more than three (3) pipe threads exposed at each branch connection.
 	5. Ream ends of pipe after threading and before assembly to remove burrs.
 	6. Use Teflon thread tape on male thread in mating joints.
-	7. **Quality Control
+	7. Quality Control
 50. Pressure Testing:
 	1. Testing medium:
 		1. Water systems: Water.
@@ -273,10 +270,7 @@ tags: ['Facility', 'Services', 'Plumbing', 'Piping']
 		1. Natural gas systems, all exposed piping systems, all pressure piping systems and all buried, insulated piping systems which are hydrostatically pressure tested shall have zero leakage at the specified test pressure throughout the duration of the test.
 		2. Non-hazardous gas and air systems which are tested with air shall have a maximum pressure drop of 5 percent of the specified test pressure throughout the duration of the test.
 	4. Hydrostatic pressure testing methodology:
-		
-## General
-
-:
+			1. General:
 			1. All joints, including welds, are to be left exposed for examination during the test.
 			2. Provide additional temporary supports for piping systems designed for vapor or gas to support the weight of the test water.
 			3. Provide temporary restraints for expansion joints for additional pressure load under test.
@@ -290,7 +284,7 @@ tags: ['Facility', 'Services', 'Plumbing', 'Piping']
 		3. A non-combustible odorant, such as wintergreen, may be added to help locate leaks.
 51. Dielectric Testing Methods and Criteria:
 	1. Provide electrical check between metallic non-ferrous pipe or appurtenances and ferrous elements of construction to assure discontinuity has been maintained.
-	2. **Cleaning, Disinfection, and Purging
+	2. Cleaning, Disinfection, and Purging
 52. Cleaning:
 	1. Clean interior of piping systems thoroughly before installing.
 	2. Maintain pipe in clean condition during installation.
@@ -314,7 +308,7 @@ tags: ['Facility', 'Services', 'Plumbing', 'Piping']
 		1. Repeat entire disinfection procedures until satisfactory results are obtained.
 	9. Secure and deliver to Owner, satisfactory bacteriological reports on samples taken from system.
 		1. Ensure sampling and testing procedures are in full compliance to AWWA C651, local water purveyor and applicable requirements of State of Colorado.
-	10. **Schedules
+	10. Schedules
 54. System 1: Potable Water
 	1. Piping symbol and service:
 		1. CW – Potable Water Cold

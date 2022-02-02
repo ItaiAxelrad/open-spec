@@ -7,24 +7,19 @@ subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Wood', 'Plastics', 'Composites', 'Fiberglass', 'Reinforced', 'Gratings']
 ---
 
-         1. Section 06 74 13
-   1. Fiberglass Reinforced Gratings
-
 ## General
 
-
-* 
-	1. **Summary
+1. SUMMARY
    1. Section Includes:
       1. 
 	1. Furnishing, fabrication (where necessary), and installation of all fiberglass reinforced plastic (FRP) items, with all appurtenances, accessories and incidentals necessary to produce a complete, operable and serviceable installation as shown on the contract drawings and as specified herein, and in accordance with the requirements of the contract documents.
-	2. **Quality Assurance
+	2. Quality Assurance
 2. Referenced Standards:
 	1. Applicable Standards: The following standards are referenced herein.
 		1. American Society for Testing and Materials (ASTM)
 			1. Test Methods
-				1. ASTM D 635 Rate of Burning and/or Extent and Time of Burning of Self-Supporting Plastics in a Horizontal Position
-				2. ASTM E 84 Surface Burning Characteristics of Building Materials
+			1. ASTM D 635 Rate of Burning and/or Extent and Time of Burning of Self-Supporting Plastics in a Horizontal Position
+			2. ASTM E 84 Surface Burning Characteristics of Building Materials
 		2. American National Standards Institute (ANSI) 
 		3. NSF International
 3. Qualifications:
@@ -33,13 +28,13 @@ tags: ['Facility', 'Construction', 'Wood', 'Plastics', 'Composites', 'Fiberglass
 	3. Manufacturer shall be certified to the ISO 9001-2008 standard.
 	4. Manufacturer shall provide proof of certification from at least two other quality assurance programs for its facilities or products (DNV, ABS, USCG, AARR).
 	5. Manufacturer shall provide proof, via independent testing, that materials proposed as a solution do not contain heavy metals in amounts greater than that allowed by current EPA requirements.
-	6. **Submittals
+	6. Submittals
 4. Submittals shall include:
 	1. Shop drawings of all fabricated gratings and accessories in accordance with the provisions of this Section.
 	2. Manufacturer's shop drawings clearly showing material sizes, types, styles, part or catalog numbers, complete details for the fabrication and erection of components including, but not limited to, location, lengths, type and sizes of fasteners, clip angles, member sizes, and connection details.
 	3. Manufacturer’s published literature including structural design data, structural properties data, grating load/deflection tables, corrosion resistance tables, certificates of compliance, test reports as applicable, concrete anchor systems and their allowable load tables, and design calculations for systems not sized or designed in the contract documents.
 5. The Contractor may be requested to submit sample pieces of each item specified herein for acceptance by the Engineer as to quality and color. Sample pieces shall be manufactured by the method to be used in the Work.
-	1. **Delivery, Storage, and Handling
+	1. Delivery, Storage, and Handling
 6. Delivery of Materials:
       1. Manufactured materials shall be delivered in original, unbroken pallets, packages, containers, or bundles bearing the label of the manufacturer. Adhesives, resins and their catalysts and hardeners shall be crated or boxed separately and noted as such to facilitate their movement to a dry indoor storage facility. 
 7. Storage of Products:
@@ -47,7 +42,7 @@ tags: ['Facility', 'Construction', 'Wood', 'Plastics', 'Composites', 'Fiberglass
 5. Warranty
    1. Manufacturer warranty
 	1. Manufacturer shall provide standard product warranty executed by authorized company official.
-   ## Product
+## Product
 1. 2.1 Acceptable Manufacturers
    1. Fibergrate Composite Structures Inc.
 2. Nucor Grating
@@ -113,16 +108,16 @@ tags: ['Facility', 'Construction', 'Wood', 'Plastics', 'Composites', 'Fiberglass
 1. 3.1 Preparation
    1. Coordinate and furnish anchorages, setting drawings, diagrams, templates, instructions and directions for installation of anchorages, including concrete inserts, sleeves, anchor bolts and miscellaneous items having integral anchors that are to be embedded in concrete or masonry construction. 
 2. Coordinate delivery of such items to project site.
-	1. **Inspection and Testing
+	1. Inspection and Testing
 3. The design engineer shall have the right to inspect and test all materials to be furnished under these specifications prior to their shipment from the point of manufacture.
 4. All labor, power, materials, equipment and appurtenances required for testing shall be furnished by the contractor at no cost to the owner.
-	1. **Installation (General)
+	1. Installation (General)
 5. Fastening to in-place construction:
       1. Provide anchorage devices and fasteners where necessary for securing miscellaneous FRP fabrications to in-place construction; include threaded fasteners for concrete and masonry inserts, toggle bolts, throughbolts, lag bolts and other connectors as determined by the Design Engineer.
 6. Cutting, fitting and placement:
       1. Perform cutting, drilling and fitting required for installation of miscellaneous FRP fabrications. Set FRP fabrication accurately in location, alignment and elevation; with edges and surfaces level, plumb, true and free of rack; measured from established lines and levels.
 7. Provide temporary bracing or anchors in form work for items that are to be built into concrete masonry or similar construction.
-	1. **All FRP Installation
+	1. All FRP Installation
 8.  If required, all field cut and drilled edges, holes and abrasions shall be sealed with a catalyzed resin compatible with the original resin as recommended by the manufacturer. Fasten grating panels securely in place with hold-down fasteners as specified herein. 
 9. Install items specified as indicated and in accordance with manufacturer’s instructions.
 

@@ -7,18 +7,10 @@ subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Porous', 'Unit', 'Paving']
 ---
 
-1. DIVISION 32 – EXTERIOR IMPROVEMENTS
-1. Section 32 14 43 – Permeable/Porous Unit Pavers
-   1. DESIGNER NOTE:
-      1. The specifications below are based on the best available information. Designer should modify the specifications to satisfy project-specific constraints. The City uses the term “Permeable Unit Pavers” when infiltration achieved via aggregate filled joints and “Porous Unit Pavers” when infiltration is achieved through the paver material itself.
-   1. DESIGNER NOTE:
-      1. Green text corresponds to notes to the designer.
-1. PART 1
-
 ## General
 
 01.
-   1. SUMMARY
+1. SUMMARY
    1. This section Includes:
       1. Permeable/Porous Unit Pavers
 2. Joint Filter Aggregate
@@ -60,7 +52,7 @@ Reference Title
    1. DESIGNER NOTE:
       1. The designer should consider the use of the ICPI Permeable Design Pro software for structural design and determination of adequate depth for the pavement section.
 04.
-   1. SUBMITTALS
+1. SUBMITTALS
    1. Bid Submittals:
       1. The Contractor shall submit to the Owner the following as part of the bid proposal:
       1. Paver Installation Subcontractor:
@@ -82,10 +74,7 @@ DESIGNER NOTE: The designer should incorporate by reference these requirements i
       1. Especially when using colored pavers, consider requiring submittal of full-size samples of each paver type, thickness, color, and finish. Require submittal of samples indicating the range of color expected in the finished installation. Accepted samples would become the standard of acceptance for the work of this Section.
 05.
    1. QUALITY CONTROL AND QUALITY ASSURANCE
-
-## General
-
-:
+	1. General:
       1. Test and inspect permeable/porous unit paver materials and operations as Work progresses as described in this section. Failure to detect defective Work or materials at any time will not prevent rejection if a defect is discovered later, nor shall it constitute final acceptance.
 1. Paver Installation Subcontractor Qualifications:
 2. Installer shall provide documentation showing three (3) successful permeable/porous unit paver installations completed in the last three (3) years, collectively totaling more than 10,000 square feet. Documentation shall include name and address of project, and contact information for project owner.
@@ -144,10 +133,7 @@ DESIGNER NOTE: Designer to specify the number and location(s) of required post c
    1. 6 mm) above the final designed elevations after compaction. This helps compensate for possible minor settling normal to pavements.
 06.
    1. DELIVERY, STORAGE, AND HANDLING
-
-## General
-
-:
+	1. General:
       1. Comply with Division 1 Product Requirement Section.
    1. Comply with manufacturer’s ordering instructions and lead-time requirements to avoid construction delays.
 1. March 2016 32 14 43 - 5
@@ -538,5 +524,5 @@ Section 1.05.C.
 1. March 2016 32 14 43 - 13
 1. DIVISION 32 – EXTERIOR IMPROVEMENTS
 1. Section 32 14 43 – Permeable/Porous Unit Pavers
-1. END OF SECTION
+
 

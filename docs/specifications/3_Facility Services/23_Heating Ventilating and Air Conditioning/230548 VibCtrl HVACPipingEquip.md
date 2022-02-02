@@ -35,10 +35,7 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. OSHPD:
       1. Office of Statewide Health Planning and Development for the State of California.
 1. SUBMITTALS
-
-## General
-
-:
+	1. General:
       1. Submit the following in accordance with requirements elsewhere in Division 22 sections of the Specifications.
    1. Product Data:
       1. Submit manufacturer's technical product data and installation instructions for each type of vibration control product. Submit schedule showing size, type, deflection, and location for each product furnished.
@@ -87,18 +84,12 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
 1. EXAMINATION
    1. Examine areas and conditions under which vibration control units are to be installed. Do not proceed with work until unsatisfactory conditions have been corrected in manner acceptable to Installer.
 1. PREPARATION
-
-## General
-
-:
+	1. General:
       1. Except as otherwise indicated, select vibration control products in accordance with ASHRAE Handbook, 2007 HVAC Applications Volume, Chapter 47 "Sound and Vibration Control," Table 48. Where more than one type of product is offered, selection is Installer's option.
    1. Piping:
       1. For piping connected to equipment mounted on vibration control products, install isolation hangers as indicated, and for first 3 points of support for pipe sizes 4 inches and less, for first 4 points of support for pipe sizes 5 inches through 8 inches, and for first 6 points of support for pipe sizes 10 inches and over.
 1. ERECTION INSTALLATION APPLICATION
-
-## General
-
-:
+	1. General:
       1. Except as otherwise indicated, comply with manufacturer's instructions for installation and load application to vibration control materials and units. Adjust to ensure that units have equal deflection, do not bottom out under loading, and are not short-circuited by other contacts or bearing points. Remove space blocks and similar devices intended for temporary support during installation.
    1. Install units between substrate and equipment as required for secure operation and to prevent displacement by normal forces, and as indicated.
    1. Adjust leveling devices as required to distribute loading uniformly onto isolators. Shim units as required where substrate is not level.
@@ -111,12 +102,8 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
 1. CLEANING
    1. Clean each vibration control unit, and verify that each is working freely, and that there is no dirt or debris in immediate vicinity of unit that could possibly short-circuit unit isolation.
 1. DEMONSTRATION
-
-## General
-
-:
+	1. General:
       1. Comply with minimum static deflections recommended by ASHRAE, for selection and application of vibration isolation materials and units as indicated.
    1. Manufacturer's Recommendations:
       1. Except as otherwise indicated, comply with manufacturer's recommendations for selection and application of vibration isolation materials and units.
-1. END OF SECTION 220548
 

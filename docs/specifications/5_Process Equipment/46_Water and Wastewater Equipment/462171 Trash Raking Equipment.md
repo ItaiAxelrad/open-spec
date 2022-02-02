@@ -7,7 +7,7 @@ subgroup: Process Equipment
 tags: ['Process', 'Equipment', 'Water', 'Wastewater', 'Trash', 'Raking']
 ---
 
-1. SECTION 46 21 71
+
 1. TRASH RAKING EQUIPMENT
 1. 
 ## General
@@ -64,7 +64,7 @@ instructions.
    1. Field Measurements:
       1. Verify field measurements prior to fabrication. Indicate field measurements on Shop Drawings.
 11. WARRANTY
-   1. Furnish a minimum warranty as required in the overall product Bridging documents. **## Product
+   1. Furnish a minimum warranty as required in the overall product Bridging documents. ## Product
 1. GRAB-TYPE TRASH RAKES A. Description:
       1. Trash rake, consisting of grab rake, boom, support structure, cables, and fasteners.
 2. Support Type:
@@ -100,5 +100,5 @@ instructions.
       1. Adjust, repair, modify, or replace components failing to perform as specified, and rerun tests.
 2. Make final adjustments to equipment under direction of manufacturer's representative.
    1. Furnish installation certificate from equipment manufacturer's representative attesting equipment has been properly installed and is ready for startup and testing.
-1. END OF SECTION
+
 

@@ -12,9 +12,7 @@ tags: ['Process', 'Equipment', 'Water', 'Wastewater', 'Filter', 'Media']
 
 ## General
 
-
-* 
-	1. Summary
+1. SUMMARY
    1. This Section includes:
 	1. Removal and disposal of the existing filter media for four (4) filters as indicated on the Drawings and as specified in this section.
 	2. Furnishing and installing new filter media for four (4) dual media filters consisting of anthracite and Greensand as indicated on the Drawings and as specified in this section.
@@ -87,7 +85,7 @@ tags: ['Process', 'Equipment', 'Water', 'Wastewater', 'Filter', 'Media']
 		1. Contaminated or dirty media, as judged by the Engineer, will be rejected.
 	3. Provide temporary protection after installation as required until acceptance.
 	4. Store filter media for no more than 30 days.
-   ## Product
+## Product
 
 ## General
 
@@ -179,8 +177,8 @@ tags: ['Process', 'Equipment', 'Water', 'Wastewater', 'Filter', 'Media']
 		2. At least two samples shall be taken from each filter not less than 30 minutes apart and tested for the presence of coliform.
 			1. If no coliforms are detected, the filter may be placed in service.
 			2. If coliforms are present in any of the samples, proceed with 1 or 2 as follows:
-				1. Take samples 24 hours apart until no coliforms are present.
-				2. Rechlorinate filter and conduct bacteriological testing as described.
+			1. Take samples 24 hours apart until no coliforms are present.
+			2. Rechlorinate filter and conduct bacteriological testing as described.
 3.**3 Field Quality Control
    1. Media Manufacturer’s Field Service Representative
 	1. The media manufacturer’s field service representative shall:
@@ -189,6 +187,4 @@ tags: ['Process', 'Equipment', 'Water', 'Wastewater', 'Filter', 'Media']
 		3. Assist in field test of filter media.
 		4. Submit a certification of proper installation and satisfactory performance.
 2. Filter media not meeting the criteria specified herein will be rejected and replaced at no cost to the Owner.
-
-*[this page intentionally left blank]*
 

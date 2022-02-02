@@ -7,14 +7,9 @@ subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Metals', 'Pipe', 'Tube', 'Railings']
 ---
 
-   1. SECTION 05 52 13
-   1. PIPE AND TUBE RAILINGS
-
 ## General
 
-
-* 
-	1. RELATED DOCUMENTS
+1. RELATED DOCUMENTS
    1. Drawings, General and Special Provisions of the Contract, and Division 01 Specification
 Sections apply to this Section.
 2. SUMMARY
@@ -132,7 +127,9 @@ and anchors to interconnect railing members to other work unless otherwise indic
 6. ALUMINUM FINISHES
    1. Clear Anodic Finish:
       1. AAMA 611, AA-M12C22A41, Class I, 0.018 mm or thicker.
-   1. Execution
+
+## Execution
+
 1. INSTALLATION
    1. Set railings accurately in location, alignment, and elevation; measured from established lines
 and levels and free of rack.

@@ -10,32 +10,31 @@ tags: ['Facility', 'Construction', 'Openings', 'Glazing']
 
 ## General
 
-   1. SUMMARY
+1. SUMMARY
    1. Section Includes
    1. Furnish and install all glass and glazing on the Drawings including windows and door lites.
    1. Related Sections
    1. Section 081113 – Hollow Metal Doors and Frames
    1. Section 081416 – Flush Wood Doors
-   1. REFERENCES
-
-## General
-
- Glass Standard:
+1. REFERENCES
+   1. Glass Standard:
       1. PPG industries products are specified, except as indicated, but equivalent products of other manufacturers will be accepted upon approval of Architect.
-   1. Comply with recommendations of "Glazing Sealing System Manual" and "Glazing Manual" by Flat Glass Marketing Association, except as otherwise indicated or recommended by product manufacturer.
-   1. Fire Resistive Glass Standard 15.
-   1. SUBMITTALS
+   2. Comply with recommendations of "Glazing Sealing System Manual" and "Glazing Manual" by Flat Glass Marketing Association, except as otherwise indicated or recommended by product manufacturer.
+   3. Fire Resistive Glass Standard 15.
+2. SUBMITTALS
    1. Comply with all pertinent provisions of Section 013300.
-   1. Provide product data for all products to be utilized.
-   1. Submit materials list of all items to be provided.
-   1. Include manufacturers specifications and all other data needed to prove compliance.
-   1. Provide samples of all glass types, at least 12" x 12", and gaskets.
-   1. Submit glass deflection calculations based on wind load.
-   1. Submit statement, stamped on drawing, certifying that the glazing frame and glass requirements have been coordinated with the structural wall system. (Deflection)
-   1. WARRANTY
+   2. Provide product data for all products to be utilized.
+   3. Submit materials list of all items to be provided.
+   4. Include manufacturers specifications and all other data needed to prove compliance.
+   5. Provide samples of all glass types, at least 12" x 12", and gaskets.
+   6. Submit glass deflection calculations based on wind load.
+   7. Submit statement, stamped on drawing, certifying that the glazing frame and glass requirements have been coordinated with the structural wall system. (Deflection)
+3. WARRANTY
    1. Guarantee:
       1. Provide manufacturer's standard guarantee.
-   1. PRODUCTS
+
+## Products
+
    1. MATERIALS
    1. Glass
    1. Thickness:
@@ -62,7 +61,9 @@ tags: ['Facility', 'Construction', 'Openings', 'Glazing']
    1. Glazing Materials
    1. Provide all other materials, not specifically described but required for a complete installation.
    1. As recommended by manufacturer and to be completely adequate for particular application.
-   1. EXECUTION
+
+## Execution
+
    1. ERECTION INSTALLATION APPLICATION
    1. Completely follow manufacturer's instructions.
    1. Any manufacturer recommended system of installation is acceptable provided design concept is maintained.
@@ -79,5 +80,4 @@ tags: ['Facility', 'Construction', 'Openings', 'Glazing']
    1. Each piece of exterior glass must be airtight and water tight, and without glass breakage, through normal weather/temperature cycles, and through normal door/window operation.
    1. Provide heat-strengthened glass where, in manufacturer's opinion, such glass is required for proper performance.
    1. Note, that the project is located in an area subject to extremely high winds and rapid changes in climatic conditions.
-1. END OF SECTIONTHIS PAGE INTENTIONALLY BLANK
 

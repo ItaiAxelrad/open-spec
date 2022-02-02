@@ -7,16 +7,11 @@ subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Roof', 'Hatches']
 ---
 
-1. SECTION 07 72 33
-1. ROOF HATCHES
-1. Milcor™ Roof Access Hatches – Single Leaf
-
 ## General
 
-* 
-	1. **RELATED DOCUMENTS
+1. RELATED DOCUMENTS
    1. All of the Contract Documents, including General and Supplementary Conditions and Division 01 General Requirements, apply to the work of this Section.
-	1. **SCOPE
+	1. SCOPE
 2. Section Includes:
       1. Furnishing and installing factory fabricated roof hatches.
 3. Related Sections:
@@ -30,7 +25,7 @@ tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Roof', 
 10. Section 07 72 43 – Roof Walkboards
 11. Section 07 72 46 – Roof Walkways
 12. Section 07 81 00 – Applied Fireproofing
-	1. **REFERENCE STANDARDS
+	1. REFERENCE STANDARDS
    1. The following standards and publications are applicable to the extent referenced in the text. 
    1. American Society of Testing and Materials (ASTM) and Others:
 ASTM A36-93a Standard Specifications for Structural Steel
@@ -47,17 +42,13 @@ ASTM A36-93a Standard Specifications for Structural Steel
    1. ASTM D4549-11 Standard Classification System and Basis for Specification for Polystyrene and Rubber-Modified Polystyrene Molding and Extrusion Materials (PS)
    1. IBC 2015 2015 International Building Codes
 
-* 
-	1. **SYSTEM DESCRIPTION
-   1. **Milcor™** Roof Access Hatch:
+	1. SYSTEM DESCRIPTION
+   1. Milcor™** Roof Access Hatch:
       1. Spring Mounted in Frame:
       1. Galvanized Steel, painted:
-      1. **Model M-3.
-	1. **SUBMITTALS
-
-## General
-
-:
+      1. Model M-3.
+	1. SUBMITTALS
+	1. General:
       1. Submit in accordance with Section 01 33 00.
    1. Product Data:
       1. Submit manufacturer’s product literature and installation instructions, use limitations and recommendations.
@@ -84,11 +75,10 @@ in 1.09.
    1. Manufacturer’s Representative:
       1. Arrange to have trained representative of the manufacturer on site periodically to review installation procedures.
 
-* 
-	1. **DELIVERY, STORAGE, HANDLING
+	1. DELIVERY, STORAGE, HANDLING
    1. Store products per manufacturers’ instructions in unopened packaging until ready for installation.
 2. Store products under cover and elevated above grade.
-	1. **PROJECT CONDITIONS
+	1. PROJECT CONDITIONS
    1. Work should be performed only when existing and forecasted weather conditions are within the limits established by the manufacturer. 
    1. Verify that other trades with related work are complete before installing roof hatch(es).
    1. Mounting surfaces shall be straight and secure; substrates shall be of proper width.
@@ -96,9 +86,8 @@ in 1.09.
    1. Waste Disposal:
       1. This material is not defined as hazardous by the Resource Conservation and Recovery Act. It is the product users’ responsibility to determine at the time of disposal. Dispose of in accordance with all federal, state and local regulations. 
 
-* 
-	1. **WARRANTY
-   1. **Milcor™** warrants all goods sold to be free from defects in workmanship, but limits liability to five years from date of shipment and expressly to the replacement of goods not complying with this warranty; or, at our election, a credit to original purchaser for the original purchase price paid less 1/60th of the price for each month elapsed from the original invoice date to the date of claim against this warranty.
+	1. WARRANTY
+   1. Milcor™** warrants all goods sold to be free from defects in workmanship, but limits liability to five years from date of shipment and expressly to the replacement of goods not complying with this warranty; or, at our election, a credit to original purchaser for the original purchase price paid less 1/60th of the price for each month elapsed from the original invoice date to the date of claim against this warranty.
    1. Electric motors, special finishes and any other optional special components required shall be warranted separately by the manufacturers of those products.
 
 ## Product
@@ -117,36 +106,32 @@ in 1.09.
    1. Website:
       1. http://www.milcorinc.com
 1. 2.02 ROOF ACCESS HATCH
-   1. **Milcor™ M-3,** Single Leaf:
+   1. Milcor™ M-3,** Single Leaf:
       1. Spring Mounted in Frame.
 2. Size:
       1. Width 2’6” x Length 8’0”. Length denotes hinge side.
 3. Curb:
       1. One-piece curb and frame with integral cap flashing; 3-1/2" wide mounting flanges with pre-drilled holes. 
-	* 
-		+ 
-			1. Material: Galvanized steel, 14 gauge, .079 inch thick.
+		1. Material: Galvanized steel, 14 gauge, .079 inch thick.
 			2. Finish: Painted white.
 			3. Insulation: 1 inch fiberboard.
 			4. Height: 12 inches.
 4. Metal Cover:
       1. Flush, insulated, hollow metal construction.
-	* 
-		+ 
-			1. Material: Galvanized steel, outer cover 14 gauge, .079 inch thick, liner 22 gauge, .034 inch thick.
+		1. Material: Galvanized steel, outer cover 14 gauge, .079 inch thick, liner 22 gauge, .034 inch thick.
 			2. Finish: Painted white.
 			3. Insulation: 1 inch rigid foam.
 			4. Load Carrying Capacity: Capable of supporting 70 psf. live load.
 			5. Gasket: Extruded EPDM rubber gasket adhered to cover, continuous around cover perimeter.
 5. Operating Hardware
-	* 
-		+ 
-			1. Material/Finish: Steel, zinc coated and chrome plate sealed, unless otherwise indicated or required by manufacturer.
+		1. Material/Finish: Steel, zinc coated and chrome plate sealed, unless otherwise indicated or required by manufacturer.
 			2. Lifting Mechanisms: Torsion coil spring operator assists opening upon release of latch. Covers open to 90 degrees.
 			3. Hinges: Manufacturer’s recommended type for specified model.
 			4. Hold-Open: Automatic locking hold-open arm with vinyl coated handle for manual release.
 			5. Latch: Inside latching device, with inside and outside handles and inside padlock hasp, automatically engages upon closing.
-   1. Execution
+
+## Execution
+
 1. 3.01 INSPECTION
    1. Verify that Milcor™ Roof Access Hatch installation will not disrupt other trades. Verify that the substrate is dry, clean, and free of foreign matter. Report and correct any defects prior to any installation.
    1. Verify by comparing packing slip and box label that product is per specification.
@@ -159,5 +144,5 @@ in 1.09.
 1. 3.04 CLEANING AND PROTECTION
    1. Product requires no spill or leak containment. Dispose of damaged material in accordance with all governmental regulations. 
    1. Protect completed work from subsequent construction activities as recommended by manufacturer.
-1. END OF SECTION 07 72 33
+07 72 33
 

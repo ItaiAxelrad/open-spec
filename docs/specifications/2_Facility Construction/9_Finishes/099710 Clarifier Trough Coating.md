@@ -7,7 +7,7 @@ subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Finishes', 'Clarifier', 'Trough', 'Coating']
 ---
 
-1. SECTION 09 97 10
+
 1. CLARIFIER TROUGH COATING
 
 ## General

@@ -7,7 +7,7 @@ subgroup: General Requirements
 tags: ['General', 'Requirements', 'Submittal', 'Procedures']
 ---
 
-1. SECTION 013000
+
 
  **SUBMITTALS
 
@@ -22,7 +22,7 @@ tags: ['General', 'Requirements', 'Submittal', 'Procedures']
       1. The Contractor shall carefully review the correctness and thoroughness of the material, verify all field measurements, and coordinate all aspects of each item being submitted.
    1. The Contractor shall carefully review and ensure that all submittals are tailored to the project by highlighting appropriate information and/or deleting or crossing out non-applicable information, and that all options and equipment furnished are indicated.
 1. The Contractor shall verify his review by affixing his stamp of approval and signature to the front page of each copy of the submittal.
-   ## Product
+## Product
 
 ## General
 
@@ -55,9 +55,6 @@ tags: ['General', 'Requirements', 'Submittal', 'Procedures']
    1. Manufacturers' Literature:
       1. Literature indicating the compliance of the product with the Specifications shall be included with all submittals. This shall include catalog sheets and other descriptive bulletins. Manufacturer's literature shall also include, but not be limited to the following:
       1. 
-* 
-	+ 
-		- 
 			1. Manufacturer's catalog data
 			2. Materials of construction
 			3. Manufacturer's name and model number
@@ -79,9 +76,6 @@ tags: ['General', 'Requirements', 'Submittal', 'Procedures']
    1. Shop Drawings:
       1. Shop drawings shall include the following as applicable to the equipment or system along with any special requirements listed in the individual Specification Sections:
       1. 
-* 
-	+ 
-		- 
 			1. Scaled details
 			2. Scaled dimensional drawings
 			3. Sectional assembly drawings
@@ -184,7 +178,7 @@ Any material or equipment on-site, which is rejected by the Owner after review o
       1. 
    1. Signed
    1. Title
-1. *****************************************************************************************************************
+1. ***************************************************************************************************************
    1. RESPONSE TO SUBMITTAL:
       1. ( ) NO EXCEPTIONS NOTED ( ) REVISE AND RESUBMIT
 
@@ -206,7 +200,6 @@ Any material or equipment on-site, which is rejected by the Owner after review o
 
    1. The undersigned certifies that the following paragraphs, unless modified or clarified by attachments, are correct:
       1. 
-* 
 	1. The proposed substitution does not affect dimensions shown on the Drawings.
 	2. The undersigned will reimburse Owner for review or redesign services associated with re-approval by authorities.
 	3. The undersigned will coordinate installation and make changes to other Work, which may be required for the Work to be complete with no additional cost to Owner.

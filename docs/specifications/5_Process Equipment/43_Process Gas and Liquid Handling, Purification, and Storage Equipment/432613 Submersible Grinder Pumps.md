@@ -7,7 +7,7 @@ subgroup: Process Equipment
 tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Storage', 'Submersible', 'Grinder', 'Pumps']
 ---
 
-   1. SECTION 43 26 13
+
    1. SUBMERSIBLE GRINDER PUMPS
 
 ## General
@@ -58,7 +58,7 @@ tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Sto
 	3. All parts and equipment shall be properly protected so that no damage or deterioration will occur during a prolonged delay from the time of shipment until installation is completed and the units and equipment are ready for operation. Finished surfaces of all exposed pump openings shall be protected by securely bolted wood planks. Finished iron or steel surfaces not painted shall be properly protected to prevent rust and corrosion during periods of storage and installation and shall be satisfactory up to the time of the final acceptance test.
 5. WARRANTY
 	1. The pump manufacturer shall warrant the pumps being supplied against defects in workmanship and materials for a period of 5-years or 10,000-hours under normal use, operation and service. The warranty shall apply to 100% parts and labor for the time specified and shall not be prorated.
-   ## Product
+## Product
 
 ## General
 
@@ -69,10 +69,7 @@ tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Sto
 3. MATERIALS
 	1. All hardware and accessories in the wet well or vault shall be Type 316 stainless steel.
 4. PUMPS AND ACCESSORIES
-	
-## General
-
-:
+		1. General:
 		1. Brass or stainless-steel nameplates identifying the name of the manufacturer, voltage, phase, rated horsepower, speed and any other pertinent data shall be attached to each pump.
 	2. Anchors and Fasteners: 
 		1. All necessary foundation bolts, plates, nuts, and washers shall be furnished by the equipment manufacturer and shall be Type 316 stainless steel.
@@ -129,10 +126,10 @@ tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Sto
 
 ## Execution
 
-   1. INSTALLATION
+1. INSTALLATION
 	1. All materials and equipment shall be installed as shown on the Drawings and as recommended by the manufacturers.
 	2. Additional items of construction, such as concrete work, interior grouting, piping, vents, valves, controls, and other items necessary for the complete installation of the system shall conform to specific details on the Drawings and shall be constructed of materials conforming to the applicable portions of these Specifications.
 2. INSPECTION, TESTING and CERTIFICATION
 	1. Inspection, Testing and Certification shall comply with Division 1 of the technical specifications.
-1. END OF SECTION
+
 

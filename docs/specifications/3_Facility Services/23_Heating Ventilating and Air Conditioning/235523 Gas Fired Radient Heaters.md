@@ -7,11 +7,6 @@ subgroup: Facility Services
 tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 'Gas', 'Fired', 'Radient', 'Heaters']
 ---
 
-1. Copyright 2004 and 2005 by The American Institute of Architects (AIA)
-1. Exclusively published and distributed by Architectural Computer Services, Inc. (ARCOM) for the AIA
-1. If applying for LEED certification, LEED-NC Prerequisite EA 2 requires compliance with ASHRAE/IESNA 90.1-2004. ASHRAE/IESNA 90.1-2004, Section 6.5.8 - "Radiant Heating Systems," requires that radiant heat be used to heat unenclosed spaces except loading docks equipped with air curtains.
-1. Verify that Section titles referenced in this Section are correct for this Project's Specifications; Section titles may have changed.
-
 ## General
 
 1. RELATED DOCUMENTS
@@ -28,10 +23,7 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. 54 - National Fuel Gas Code
    1. 70 - National Electrical Code (NEC)
 1. SUBMITTALS
-
-## General
-
-:
+	1. General:
       1. Submit the following in accordance with Division 23 Specifications.
    1. Product data including weights, dimensions, metal gauges, and data on features and components. Include plan and elevation views of units, minimum clearances, and data on ratings and capacities.
    1. Maintenance data for products for inclusion in Division 23 Specification sections.
@@ -62,10 +54,7 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Control Transformer:
       1. Integrally mounted. 120 VAC/24 VAC.
    1. Gas-Fired Tubular Infrared Heaters
-
-## General
-
-:
+	1. General:
       1. Comply with ANSI Z83.6.
    1. Electric Ignition:
       1. 115vac rating.
@@ -106,7 +95,7 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
 1. ERECTION INSTALLATION APPLICATION
    1. Installation and connection of gas-fire heaters and associated fuel and vent features and systems installed and connected in accordance with NFPA 54, applicable local codes and regulations, and manufacturer's printed installation instructions.
    1. Connect gas piping in accordance with Division 23 of the Specifications.
-   1. Connect vent in accordance with manufacturer's recommended method. NREL Technical Representative to approve vent design before installation.
+   1. Connect vent in accordance with manufacturer's recommended method. Owner Technical Representative to approve vent design before installation.
    1. Install guards designed to prevent entrance of birds, insects, and dirt.
    1. Suspended Units:
       1. Suspend from roof structure using manufacturer’s recommended methods to allow for thermal expansion. Adjust hangers so unit is plumb and level. Use Installation methods that will maintain the straightness of tube/reflector assembly for the life of the system.
@@ -127,5 +116,4 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
       1. Arrange and pay for services of a factory authorized service representative to demonstrate adjustment, operation, and maintenance of heater and heater systems and to train Owner's personnel.
    1. Conduct a minimum of two hours of training.
    1. Schedule training with project manager.
-1. END OF SECTION 235523
 

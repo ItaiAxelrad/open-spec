@@ -12,14 +12,12 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Curbs', 'Gutters',
 
 ## General
 
-
-* 
-	1. **Summary
+1. SUMMARY
    1. Work under this section shall include work related to the installation of concrete curb and gutter.
 2. Related Specification Sections include:
 	1. Section 03 31 00, Concrete Materials, and Proportioning 
 	2. Section 03 31 01, Concrete Mixing, Placing, Jointing and Curing
-	3. **Quality Assurance
+	3. Quality Assurance
 3. Work shall be per:
 	1. American Association of State Highway and Transportation Officials (AASHTO):
 		1. M153, Preformed Sponge Rubber and Cork Expansion Joint Fillers for Concrete Paving and Structural Construction.
@@ -40,13 +38,13 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Curbs', 'Gutters',
 		7. D4254, Standard Test Methods for Minimum Index Density and Unit Weight of Soils and Calculation of Relative Density.
 	4. Federal Specification (FS):
 		1. SS-S-1614, Sealants, Joint, Jet-Fuel-Resistant, Hot-Applied for Portland Cement and Tar Concrete Pavements.
-	5. **Submittals
+	5. Submittals
 4. See Specification Section 01 33 00 for requirements for the mechanics and administration of the submittal process.
 5. Shop Drawings shall include:
 	1. Product technical data including acknowledgement that products submitted meet requirements of the aforementioned standards as well as the manufacturer’s installation instructions.
 	2. Concrete cylinder test results for quality control.
 6. Samples of fabricated jointing materials and devices. 
-   ## Product
+## Product
 1. 2.1 Acceptable Manufacturers
    1. Chemical admixtures:
 	1. Sika Chemical Corporation
@@ -54,7 +52,7 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Curbs', 'Gutters',
 	3. Protex Industries 
 	4. W. R. Grace and Company
 2. Submit requires for substitution in accordance with Specification Section 01 25 00.
-	1. **Materials
+	1. Materials
 3. Portland Cement:
 	1. ASTM C150, Type I or II.
 4. Aggregates:
@@ -81,7 +79,7 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Curbs', 'Gutters',
 	1. Polyethylene film, AASHTO M171.
 13. Concrete Treatment:
 	1. Boiled linseed oil mixture.
-	2. **Mixes
+	2. Mixes
 14. Mix design to provide 4,000 psi 28-day compressive strength, 1-1/2 IN + 1 IN slump, 6 percent air.
 
 
@@ -190,6 +188,6 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Curbs', 'Gutters',
 11. Clean Up:
 	1. Assure clean-up work is completed within two (2) weeks after work has been opened to traffic.
 	2. No new work will begin until clean-up work has been completed, or is maintained within two (2) weeks after work has been opened to traffic.
-	3. **Quality Control
+	3. Quality Control
 12. Provide test cylinders for concrete placed. 
 

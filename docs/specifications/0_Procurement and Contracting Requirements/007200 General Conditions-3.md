@@ -625,8 +625,7 @@ Construction Specification Institute
    1. Submit number of copies specified in the General Requirements.
    1. Data shown on the Shop Drawings will be complete with respect to quantities, dimensions, specified performance and design criteria, materials, and similar data to show Engineer the services, materials, and equipment Contractor proposes to provide and to enable Engineer to review the information for the limited purposes required by Paragraph 6.17.D.
 
-*Samples* 
-   1. Submit number of Samples specified in the Specifications.
+*Samples   1. Submit number of Samples specified in the Specifications.
    1. Clearly identify each Sample as to material, Supplier, pertinent data such as catalog numbers, the use for which intended and other data as Engineer may require to enable Engineer to review the submittal for the limited purposes required by Paragraph 6.17.D.
    1. Where a Shop Drawing or Sample is required by the Contract Documents or the Schedule of Submittals, any related Work performed prior to Engineer’s review and approval of the pertinent submittal will be at the sole expense and responsibility of Contractor.
 

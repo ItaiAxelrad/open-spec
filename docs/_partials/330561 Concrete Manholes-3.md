@@ -16,13 +16,15 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Concrete', 'Manholes']
       1. Excavation, Trenching and Site Earthwork - Section 02220
    1. Cast-in-Place Concrete - Section 03300
    1. Precast Concrete-Section 03400
-   1. QUALITY ASSURANCE:
+1. QUALITY ASSURANCE:
       1. Refer to Section 02600.
-   1. SUBMITTALS:
+1. SUBMITTALS:
       1. Refer to Section 02600.
    1. JOB CONDITIONS:
       1. This paragraph is not used.
-   1. PRODUCTS
+
+## Products
+
    1. sanitary Sewer MANHOLES:
       1. Manholes shall be constructed of a poured-in-place reinforced concrete base and precast reinforced concrete components in accordance with the details shown on the Drawings. A precast base may be used if approved by the Engineer. The top section required for change of diameter shall be eccentric cone, or flat slab when permitted by the Engineer. All precast components, including the riser sections, grade rings, tops, appurtenances, and base sections shall conform to ASTM C478.
    1. Manholes shall have a minimum inside diameter of 4 feet. Manholes shall be constructed and installed in accordance with the "Standard Precast Concrete Manhole", "Shallow Precast Concrete Manhole", "Drop Detail for Manhole."
@@ -52,12 +54,11 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Concrete', 'Manholes']
       1. Grout shall be a non-shrink type with aluminum filings; grouts with iron filings are not acceptable. Grout shall be “Five Star Grout”, “Embeco Grout” or equal. The Contractor may substitute a 2 component, 100% solids epoxy resin (Sikadur Hi-Mod LV) for the specified grout.
    1. Sealants:
       1. Sealants shall be a one component polyurethane base, elastomeric sealant. When required due to moisture or immersion, provide a primer for application onto the substrate according to manufacturer’s recommendation. Sealants shall be SIKAFLEX-la, and primer shall be SIKAFLEX 429 or equal.
-   1. EXECUTION
 
-## General
+## Execution
 
-:
-      1. INSTALLATION OF Sanitary Sewer MANHOLES:
+	1. General:
+   1. INSTALLATION OF Sanitary Sewer MANHOLES:
 
 ## General
 
@@ -145,7 +146,7 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Concrete', 'Manholes']
    1. MEASUREMENT AND PAYMENT
    1. TRENCHING:
       1. Trench excavation and backfill will be paid for as described in Section 02222.
-   1. END OF SECTION
+   
 
    1. MWE STD:
       1. BURIED PIPELINES INSTALLATION:
@@ -171,5 +172,5 @@ THE FOLLOWING APPLIES TO THE EXECUTION SECTION OF THIS SPECIFICATION:
    1. 
 1-5 MODIFICATIONS
    1. 1-6 USE OF SPECIFICATION
-   1. END OF SECTION
+   
 

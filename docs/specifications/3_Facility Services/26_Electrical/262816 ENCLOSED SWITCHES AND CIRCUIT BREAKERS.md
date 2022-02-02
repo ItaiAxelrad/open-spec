@@ -4,10 +4,10 @@ section: '262816'
 divNumb: 26
 divName: Electrical
 subgroup: Facility Services
-tags: ['Facility', 'Services', 'Electrical', 'ENCLOSED', 'SWITCHES', 'AND', 'CIRCUIT', 'BREAKERS']
+tags: ['Facility', 'Services', 'Electrical', 'ENCLOSED', 'SWITCHES', 'CIRCUIT', 'BREAKERS']
 ---
 
-1. SECTION 26 28 16
+
 1. ENCLOSED SWITCHES AND CIRCUIT BREAKERS
 
 ## General
@@ -128,7 +128,9 @@ Section "Closeout Procedures," include the following:
       1. NEMA 250, Type 4.
 4. Hazardous Areas Indicated on Drawings:
       1. NEMA 250, Type 8 (Class 1, Division 1).
-   1. Execution
+
+## Execution
+
 01. EXAMINATION
    1. Examine elements and surfaces to receive enclosed switches and circuit breakers for compliance with installation tolerances and other conditions affecting performance.
    1. Proceed with installation only after unsatisfactory conditions have been corrected.

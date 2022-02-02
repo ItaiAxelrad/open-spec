@@ -12,9 +12,7 @@ tags: ['General', 'Requirements', 'Definitions']
 
 ## General
 
-
-* 
-	1. **Summary
+1. SUMMARY
    1. Work included:
       1. 
 2. Related work described elsewhere:
@@ -23,7 +21,7 @@ tags: ['General', 'Requirements', 'Definitions']
 	2. Section 01 42 16, Definitions
 	3. Section 01 42 19, Reference Standards
 	4. Specific naming of terms or definitions occurs on the drawings and in other sections of these Specifications.
-	5. **Definitions
+	5. Definitions
 3. These specifications use “Article 1 - Definitions” of the Standard General Conditions of the Construction Contract Funding Agency Edition, Form No. C-710 prepared and issued by the Engineer’s Joint Contract Documents Committee (EJCDC), for the definition of terms herein. Changes to definitions are by either substitution for the article or in Supplementary Conditions.
 4. Additional definitions to terms commonly found in these specifications:
 	1. Ballast Factor (BF):
@@ -40,7 +38,10 @@ tags: ['General', 'Requirements', 'Definitions']
 		1. Luminaire support structure, including tower used for large area illumination.
 	7. Standard: 
 		1. Same definition as "Pole" above.
-   ## Product (Not Used)
+
+## Product 
+
+ (Not Used)
 
 
 ## Execution

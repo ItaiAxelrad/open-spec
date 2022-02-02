@@ -7,12 +7,12 @@ subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Concrete', 'Paving']
 ---
 
-         1. SECTION 321313
+
    1. concrete paving
 
 ## General
 
-   1. SUMMARY
+1. SUMMARY
    1. This section specifies cast-in-place concrete, including formwork, reinforcing, mix design, placement procedures, and finishes.
    1. Cast-in-place concrete includes the following.
    1. Footings and foundations
@@ -20,7 +20,7 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Concrete', 'Paving
    1. Foundation walls and pedestals
    1. Miscellaneous concrete
    1. Seat walls 
-   1. QUALITY ASSURANCE
+1. QUALITY ASSURANCE
    1. Conform to applicable codes and standards including but not limited to the following except as herein modified:
       1. ACI 301 Specifications for Structural Concrete for Buildings ACI 304 Recommended Practice for Measuring, Mixing, Transporting and Placing Concrete.
    1. ACI 305 Hot Weather Concreting.
@@ -32,12 +32,14 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Concrete', 'Paving
       1. Tops of footings, piers and pad shall not be out of level more than 1/4" in 10' above or below elevation(s) shown. Slabs, floors, ramps, platforms, aprons and walks shall not be out of level more than 1/8" in 10' above or below the elevation shown.
    1. Notification:
       1. The contractor shall notify the Owner's representative a minimum of 48 hours before pouring any footings, walls and/or slabs. Concrete shall not be placed until forming; reinforcing, piping and conduit have been observed and approved by the Owner's representative.
-   1. SUBMITTALS
+1. SUBMITTALS
    1. Laboratory test reports for concrete materials and mix design tests.
    1. GUARANTEE
    1. The contractor shall guarantee all work performed for a period of one year following the date of acceptance of the work by the Owner. 
    1. Repairs made during the guarantee period shall be done in a manner acceptable to the Owner and at the contractor’s expense.
-   1. PRODUCTS
+
+## Products
+
    1. reinforcing materials
    1. Reinforcing Bars:
       1. ASTM A 615, Grade 60, deformed.
@@ -51,7 +53,9 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Concrete', 'Paving
    1. 4,000 psi
    1. 2-4”
    1. 5-8%
-   1. EXECUTION
+
+## Execution
+
    1. CONCRETE MIXING AND DELIVERY:
       1. Concrete used for walks shall contain at least 6.0 sacks of cement per cubic yard and 5-8% entrained air.
    1. Deliver concrete to the job and discharge entire contents within 1 1/2 hours, or before drum has turned 300 revolutions, whichever occurs first, after introduction of mixing water. In hot weather, or under conditions contributing to quick set of concrete, shorter times may be required by the Owner's representative.
@@ -91,5 +95,5 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Concrete', 'Paving
    1. EVALUATION OF CONCRETE STRENGTH:
       1. Strengths of concrete shall be considered satisfactory if the average of any three consecutive strength tests of the laboratory cured specimens representing each specified strength of concrete is equal to or greater than the specified strength, or if test cylinders taken are equal to or greater than the specified strength.
    1. Concrete Compressive Strength If the concrete fails to meet the compressive strength requirements, additional curing may be required and modifications may be required in the concrete mix design for the remaining concrete work. Replace concrete already in place that fails to meet strength requirements.
-   1. END OF SECTION
+   
 

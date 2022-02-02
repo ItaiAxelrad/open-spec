@@ -7,7 +7,7 @@ subgroup: Process Equipment
 tags: ['Process', 'Equipment', 'Interconnections', 'High-Density', 'Polyethylene', 'Pipe']
 ---
 
-1. SECTION 40 05 33
+
 1. HIGH DENSITY POLYETHYLENE (HDPE) PIPE AND FITTINGS
 
 ## General
@@ -29,7 +29,7 @@ tags: ['Process', 'Equipment', 'Interconnections', 'High-Density', 'Polyethylene
 6. WARRANTY AND ACCEPTANCE
    1. Warrant all work to be free from defects in workmanship and materials for a period of one year from the date of completion of all construction. If work meets these specifications, a letter of acceptance, subject to the one-year warranty period, shall be given at the time of completion. A final acceptance letter shall be given upon final inspection at the end of the one-year warranty period, provided the work still complies with these specifications. In the event deficiencies are discovered during the warranty period, the contractor shall correct them without additional charge to the owner before final acceptance. During the warranty period, the engineer will determine if warranty repairs or replacement work shall be performed by the contractor. The decision of the engineer shall be binding upon the contractor.
 2. The contractor installing thermal butt fused HDPE pipe shall be certified in this type of work and have a minimum of five (5) years’ experience performing this type of work. The contractor shall provide certification to the Engineer of Record, who will provide the Engineering Review Services Department with the certification.
-   ## Product
+## Product
 1. 2.1 POLYETHYLENE PIPE AND FITTINGS
    1. Provide polyethylene pressure pipe manufactured from PE3408 polyethylene meeting AWWA C906 standards. When specified by the engineer on the construction drawings, as an alternate to PVC, HDPE (ductile iron pipe sized) piping can be used for buried applications. Iron pipe sized (IPS) HDPE piping can be used for below-ground applications as determined by the engineer.
 2. The diameter of DR 11 HDPE casing pipe provided for roadway crossings or other purposes shall conform to DOT standards.
@@ -100,7 +100,7 @@ tags: ['Process', 'Equipment', 'Interconnections', 'High-Density', 'Polyethylene
    1. Make branch connections to the main with saddle fittings or tees. Saddle fuse polyethylene saddle fittings to the main pipe.
 1. 3.5 EXCAVATION
    1. Excavate trenches in conformance to this specification, the plans and drawings, or as authorized in writing by the owner or designee, and in accordance with all applicable codes. Remove excess groundwater. Where necessary, shore or reinforce trench walls.
-	1. **LARGE DIAMETER FABRICATED FITTINGS
+	1. LARGE DIAMETER FABRICATED FITTINGS
 2. Butt fuse fabricated directional fittings 16" IPS and larger to the end of a pipe. Make up the flanged directional outlet connections in the trench.
 1. 3.7 MECHANCIAL JOINT AND FLANGE INSTALLATION
    1. Install mechanical joints and flange connections in accordance with the Manufacturer's recommended procedure. Center and align flange faces to each other before assembling and tightening bolts. Do not use the flange bolts to draw the flanges into alignment. Lubricate bolt threads, and fit flat washers under the flange nuts. Tighten bolts evenly according to the tightening pattern and torque step recommendations of the Manufacturer. At least one hour after initial assembly, re-tighten flange connections following the tightening pattern and torque step recommendations of the Manufacturer. The final tightening torque shall be 100 ft-lbs. or less as recommended by the Manufacturer.
@@ -112,7 +112,5 @@ tags: ['Process', 'Equipment', 'Interconnections', 'High-Density', 'Polyethylene
    1. Hydrostatic Pressure Testing:
       1. Pressure test and flush HDPE pipes after swabbing in accordance with Section 40 05 00, Pipe and Pipe Fittings:
       1. Basic Requirements.
-1. END OF SECTION
 
-*[this page intentionally left blank]*
 

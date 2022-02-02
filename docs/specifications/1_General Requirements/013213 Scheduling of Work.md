@@ -12,9 +12,7 @@ tags: ['General', 'Requirements', 'Scheduling', 'Work']
 
 ## General
 
-
-* 
-	1. **Summary
+1. SUMMARY
    1. Section Includes:
 	1. Specific requirements for the preparation, submittal, updating, and status reporting of the construction Progress Schedule.
 2. Review of the CPM Schedule:
@@ -38,7 +36,7 @@ tags: ['General', 'Requirements', 'Scheduling', 'Work']
 		1. Schedule prepared by the Contractor reflecting the work planned for the coming weeks.
 		2. This is also known as a Look-Ahead Schedule.
 	8. RESOURCES: Manpower, materials, permanent equipment, and construction equipment needed to construct the work.
-   ## Product
+## Product
 1. 2.1 Submittals
    1. Project Schedule Preparation:
 	1. Within five (5) days from Execution of the Contract, Contractor shall submit the name of the person responsible for the preparation, maintenance, updating and revision of all schedules.
@@ -56,34 +54,34 @@ tags: ['General', 'Requirements', 'Scheduling', 'Work']
 	2. Submittal package:
 		1. CPM time-scaled network diagram:
 			1. A printed logic diagram and PDF that include the following information:
-				1. Unique activity number/identifier; numeric, alpha or combination of numeric/alpha.
-				2. Activity description.
-				3. Activity duration.
-				4. Early start and early finish for each activity.
-				5. Late start and late finish for each activity.
-				6. Total float (TF) for each activity.
-				7. Predecessor activities.
-				8. Successor activities.
-				9. Cost/budget to complete the work in the activity.
-				10. Resources needed to complete the activity.
-				11. Bar showing the early start and completion dates of each activity.
+			1. Unique activity number/identifier; numeric, alpha or combination of numeric/alpha.
+			2. Activity description.
+			3. Activity duration.
+			4. Early start and early finish for each activity.
+			5. Late start and late finish for each activity.
+			6. Total float (TF) for each activity.
+			7. Predecessor activities.
+			8. Successor activities.
+			9. Cost/budget to complete the work in the activity.
+			10. Resources needed to complete the activity.
+			11. Bar showing the early start and completion dates of each activity.
 			2. The Baseline Schedule must include broad-based activities for start-up, operator training, and final completion.
 			3. The activities will be sorted by area, trades, and subcontractors as agreed on with the Engineer.
 			4. Print the CPM time-scaled network diagram on minimum sheet size of 11 IN x 17 IN.
 		2. Narrative report:
 			1. The Contractor shall provide a Narrative Report along with the CPM time-scaled network diagram that will include the following information:
-				1. Executive Summary explaining how the Contractor plans to execute its plan to construct the project.
-				2. Assumptions used to develop the schedule.
-				3. Constraints included in the schedule as defined by the Contract Documents.
-				4. The critical path and near critical path activities with an explanation of why those activities are included on those paths.
-				5. Number of planned working days per week including shifts per day.
-				6. Manpower plan including craft on site per day.
-				7. Production rates assumptions.
-				8. Major equipment planned for the project and durations for their use.
-				9. Resource constraints.
-				10. Identification of unusual conditions or restrictions regarding labor, equipment or material.
-				11. Calendar(s) used in the contract and how the multiple calendars are used.
-				12. Holidays observed during construction.
+			1. Executive Summary explaining how the Contractor plans to execute its plan to construct the project.
+			2. Assumptions used to develop the schedule.
+			3. Constraints included in the schedule as defined by the Contract Documents.
+			4. The critical path and near critical path activities with an explanation of why those activities are included on those paths.
+			5. Number of planned working days per week including shifts per day.
+			6. Manpower plan including craft on site per day.
+			7. Production rates assumptions.
+			8. Major equipment planned for the project and durations for their use.
+			9. Resource constraints.
+			10. Identification of unusual conditions or restrictions regarding labor, equipment or material.
+			11. Calendar(s) used in the contract and how the multiple calendars are used.
+			12. Holidays observed during construction.
 3. Schedule Updates including:
 	1. Submittal and Review:
 		1. The Contractor shall provide a Schedule Update on the 4th of each month after the Baseline Schedule is completed.

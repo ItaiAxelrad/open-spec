@@ -7,17 +7,12 @@ subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Openings', 'Hollow', 'Metal', 'Doors', 'Frames']
 ---
 
-   1. Section 08 10 00
-   1. Hollow Metal Doors and Frames
-
 ## General
 
-
-* 
-	1. **Summary
+1. SUMMARY
    1. Section includes:
 	1. Metal doors and frames.
-	2. **Quality Assurance
+	2. Quality Assurance
 2. Referenced Standards:
 	1. ASTM International (ASTM):
 		1. A653, Standard Specification for Steel Sheet, Zinc-Coated (Galvanized) or Zinc-Iron Alloy-Coated (Galvannealed) by the Hot-Dip Process.
@@ -40,9 +35,9 @@ tags: ['Facility', 'Construction', 'Openings', 'Hollow', 'Metal', 'Doors', 'Fram
 3. Qualifications:
       1. Manufacturer must be current member of SDI, and NAAMM (HMMA).
 4. Wipe coat galvanized steel is not acceptable as substitute for galvanizing finish specified.
-	1. **Definitions
+	1. Definitions
 5. As identified in SDI/ANSI A250.7.
-	1. **Submittals
+	1. Submittals
 6. See Specification Section 01 33 00 for requirements for the mechanics and administration of the submittal process.
 7. Shop Drawings:
 	1. Product technical data including:
@@ -50,9 +45,9 @@ tags: ['Facility', 'Construction', 'Openings', 'Hollow', 'Metal', 'Doors', 'Fram
 		2. Manufacturer's installation instructions.
 	2. Schedule of doors and frames using same reference numbers as used on Drawings.
 	3. SDI certification.
-	4. **Delivery, Storage, and Handling
+	4. Delivery, Storage, and Handling
 8. Store doors and frames in accordance with SDI/ANSI A250.11.
-   ## Product
+## Product
 1. 2.1 Acceptable Manufacturers
    1. Subject to compliance with the Contract Documents, the following manufacturers are acceptable:
 	1. Metal doors and frames:
@@ -60,7 +55,7 @@ tags: ['Facility', 'Construction', 'Openings', 'Hollow', 'Metal', 'Doors', 'Fram
 		2. Steelcraft Manufacturing Co.
 		3. Curries Company.
 2. Submit request for substitution in accordance with Specification Section 01 25 00.
-	1. **Materials
+	1. Materials
 3. Steel Sheet:
       1. Hot-dipped galvannealed steel, ASTM A653, A60 coating.
 4. Frames:
@@ -76,13 +71,13 @@ tags: ['Facility', 'Construction', 'Openings', 'Hollow', 'Metal', 'Doors', 'Fram
 9. Thermal Insulation:
       1. Polyurethane, CFC free.
 10. Sound Insulation: Fiberglass batt insulation or impregnated Kraft honeycomb.
-	1. **Accessories
+	1. Accessories
 11. Frame Anchors:
 	1. Jamb anchors:
 		1. Masonry wire anchors: Minimum 0.1875 IN wire, galvanized.
 		2. Existing wall anchor: Minimum 18 GA, galvanized.
 		3. Stud partition and base anchors: Minimum 18 GA, galvanized.
-	2. **Fabrication
+	2. Fabrication
 12. General:
 	1. SDI/ANSI A250.8.
 	2. Fabricate rigid, neat in appearance and free from defects.
@@ -97,26 +92,23 @@ tags: ['Facility', 'Construction', 'Openings', 'Hollow', 'Metal', 'Doors', 'Fram
 	10. Hinge cut-out depth and size on doors and frames shall match hinge specified in Specification Section 08 70 00.
 	11. Design and fabricate doors to requirements of the Building Code.
 13. Hollow Metal Doors:
-	
-## General
-
-:
+		1. General:
 		1. 1-3/4 IN thick.
 		2. Fabricate with flush top caps.
 			1. Thickness and material to match door face.
 			2. Exterior doors: Seal weld top cap to door face and grind smooth and flush.
 			3. Interior doors:
-				1. Attach top cap to door with concealed fasteners or by welding.
-				2. Factory seal if attached with fasteners.
-				3. No exposed fasteners will be accepted.
+			1. Attach top cap to door with concealed fasteners or by welding.
+			2. Factory seal if attached with fasteners.
+			3. No exposed fasteners will be accepted.
 		3. Continuously wire weld all joints and dress, smooth and flush.
 	2. Exterior:
 		1. Doors 48 IN wide, or less: SDI/ANSI A250.8, Level 3, and physical performance level A, Model 2.
 			1. Face sheet minimum thickness: 16 GA.
 			2. Insulated: Minimum R10.
 			3. Meets minimum 2009 IECC air leakage requirements.
-				1. Provide labeling on door/frame indicating conformance.
-				## Product rated in accordance with NFRC.
+			1. Provide labeling on door/frame indicating conformance.
+			## Product rated in accordance with NFRC.
 	3. Interior:
 		1. Doors 48 IN wide, or less: SDI/ANSI A250.8, Level 2, and physical performance level "B", Model 2.
 			1. Face sheet minimum thickness: 18 GA.
@@ -165,6 +157,4 @@ tags: ['Facility', 'Construction', 'Openings', 'Hollow', 'Metal', 'Doors', 'Fram
 7. Install three (3) silencers on strike jamb of single door frame and two (2) on head of double door frame.
 	1. See Specification Section 08 70 00.
 8. Protect doors and frames during construction.
-
-*[this page intentionally left blank]*
 

@@ -7,9 +7,8 @@ subgroup: Process Equipment
 tags: ['Process', 'Equipment', 'Water', 'Wastewater', 'Open-Channel', 'Low-Pressure', 'Low-Intensity', 'Ultraviolet']
 ---
 
-1. SECTION 46 66 53
-1. OPEN-CHANNEL LOW-PRESSURE / LOW-INTENSITY** 
-1. ULTRAVIOLET TREATMENT EQUIPMENT
+
+1. OPEN-CHANNEL LOW-PRESSURE / LOW-INTENSITY*1. ULTRAVIOLET TREATMENT EQUIPMENT
 1. 
 ## General
 
@@ -292,5 +291,5 @@ treatment equipment.
    1. Section 017000 - Execution and Closeout Requirements:
       1. Requirements for demonstration and training.
    1. Demonstrate equipment startup, shutdown, routine maintenance, and emergency repair procedures to Owner's personnel.
-1. END OF SECTION
+
 

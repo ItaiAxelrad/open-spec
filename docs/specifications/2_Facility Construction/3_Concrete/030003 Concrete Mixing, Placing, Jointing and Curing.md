@@ -7,14 +7,9 @@ subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Concrete', 'Mixing', 'Placing', 'Jointing', 'Curing']
 ---
 
-   1. section 03 31 01
-   1. concrete mixing, placing, jointing and curing
-
 ## General
 
-
-* 
-	1. **Summary
+1. SUMMARY
    1. Work under this section shall include:
 	1. Mixing, placing, jointing and curing of concrete construction.
 2. Related Specification Sections include:
@@ -23,7 +18,7 @@ tags: ['Facility', 'Construction', 'Concrete', 'Mixing', 'Placing', 'Jointing', 
 	3. Section 03 31 00, Concrete Materials and Proportioning.
 	4. Section 03 01 00, Concrete Finishing and Repair of Surface Defects.
 	5. Section 03 01 01, Concrete Testing.
-	6. **Quality Assurance
+	6. Quality Assurance
 3. Work shall be per:
 	1. American Concrete Institute (ACI):
 		1. CT-13, Cement and Concrete Terminology.
@@ -49,7 +44,7 @@ tags: ['Facility', 'Construction', 'Concrete', 'Mixing', 'Placing', 'Jointing', 
 4. Qualifications:
 	1. Ready mixed concrete batch plant shall be certified by NRMCA.
 	2. Waterstop manufacturer’s representative shall provide on-site training of waterstop installation, field splicing, welding and inspection procedures prior to construction, and at no additional cost. If waterstop installers have prior training, provide proof of training.
-	3. **Submittals
+	3. Submittals
 5. Shop Drawings shall include:
 	1. Product technical data including: 
 		1. Acknowledgement that products submitted meet requirements of the aforementioned standards.
@@ -68,7 +63,7 @@ tags: ['Facility', 'Construction', 'Concrete', 'Mixing', 'Placing', 'Jointing', 
 6. Information submittals:
 	1. Copies of concrete delivery tickets.
 	2. Description of proposed curing methods.
-	3. **Delivery, Storage, and Handling
+	3. Delivery, Storage, and Handling
 7. Delivery:
 	1. Concrete:
 		1. Prepare a delivery ticket for each load of ready mixed concrete.
@@ -83,10 +78,10 @@ tags: ['Facility', 'Construction', 'Concrete', 'Mixing', 'Placing', 'Jointing', 
 			7. Time of discharge.
 			8. Amount of water that may be added at the site without exceeding the specified water-cement ratio.
 			9. Amount of water added at the site.
-	2. **Project Conditions
+	2. Project Conditions
 8. Adjust concrete mix design when material characteristics, job conditions, weather, strength test results or other circumstances warrant.
 	1. Revised concrete mix design must be approved by the Engineer.
-   ## Product
+## Product
 1. 2.1 Components
    1. Neoprene Expansion Joint Fillers:
 	1. Acceptable manufacturers:
@@ -168,11 +163,7 @@ tags: ['Facility', 'Construction', 'Concrete', 'Mixing', 'Placing', 'Jointing', 
 ## Execution
 
 1. 3.1 Preparation
-
-## General
-
-
-:
+	 1. General:
 	1. Complete formwork per Specification Section 03 11 00.
 	2.  Remove earth, snow, ice, water, and other foreign materials from areas that will receive concrete.
 	3. Secure reinforcement in place.
@@ -196,11 +187,7 @@ tags: ['Facility', 'Construction', 'Concrete', 'Mixing', 'Placing', 'Jointing', 
 	2. Sufficiently strong to support vibrating screeds or roller pipe screeds, if required.
 	3. Use strike off templates, or approved vibrating type screeds, to align concrete surfaces to contours of screed strips.
 1. 3.2 Concrete Mixing
-
-## General
-
-
-:
+	 1. General:
 	1. Provide all concrete from a central plant conforming to Checklist for Certification of Ready Mixed Concrete Production Facilities of the NRMCA.
 	2. Batch, mix, and transport in accordance with ASTM C94/C94M.
 2. Control of Admixtures:
@@ -229,11 +216,7 @@ tags: ['Facility', 'Construction', 'Concrete', 'Mixing', 'Placing', 'Jointing', 
 		4. Perform strength test on any concrete to which water has been added at the jobsite.
 			1. See Specification Section 03 01 01.
 1. 3.3 Placing of Concrete
-
-## General
-
-
-:
+	 1. General:
 	1. Place concrete as such a rate that concrete, which is being integrated with fresh concrete, is still workable.
 		1. Select placement equipment and manpower in order to assure timely delivery of concrete into forms to avoid cold joints and placement issues.
 	2. Comply with ACI 304R and ACI 304.2R.
@@ -323,7 +306,7 @@ tags: ['Facility', 'Construction', 'Concrete', 'Mixing', 'Placing', 'Jointing', 
 		3. Loss of slump in pumping or pneumatic conveying equipment shall not exceed 1-1/2 IN.
 		4. Do not convey concrete through pipe made of aluminum or aluminum alloy.
 		5. Provide pumping equipment without Y sections.
-	5. **Joints and Embedded Items
+	5. Joints and Embedded Items
 6. Construction Joints – General:
 	1. Locate joints as indicated on the Drawings.
 	2. Unplanned construction joints will not be allowed.
@@ -375,20 +358,20 @@ tags: ['Facility', 'Construction', 'Concrete', 'Mixing', 'Placing', 'Jointing', 
 		3. Floor slab, construction joints:
 			1. Placements to be approximately square and not to exceed 2000 SQ FT.
 			2. Maximum side dimension of a slab pour to be less than:
-				1. Twice the length of the short side.
-				2. 60 FT.
+			1. Twice the length of the short side.
+			2. 60 FT.
 		4. Elevated slab construction joints:
 			1. Placements to be approximately square and not to exceed 4000 SQ FT.
 			2. Maximum side dimension of a slab pour to be less than:
-				1. Twice the length of the short side.
-				2. 70 FT.
+			1. Twice the length of the short side.
+			2. 70 FT.
 8. Construction Joints – Bonding:
 	1. Obtain bond between concrete pours at construction joints by thoroughly cleaning and removing all laitance from construction joints.
 	2. Before new concrete is placed, all construction joints shall be coated with cement grout, or dampened, as outlined below:
 	3. Roughen construction joints:
 		1. Roughen the surface of the concrete to expose the coarse aggregate uniformly with 1/4 IN minimum amplitude.
 			1. Remove laitance, loosened particles of 1 aggregate or damaged concrete at the surface, or at the Contractor's option, use an approved chemical retarder which delays but does not prevent setting of the surface of the mortar in accordance with the manufacturer's recommendations.
-				1. Retarded mortar shall be removed within 24 HRS after placing to produce a clean exposed aggregate bonding surface.
+			1. Retarded mortar shall be removed within 24 HRS after placing to produce a clean exposed aggregate bonding surface.
 		2. Dampen the hardened concrete immediately prior to placing of fresh concrete or grout.
 	4. Keyed construction joints:
 		1. Thoroughly clean construction joints and remove all laitance.
@@ -431,7 +414,7 @@ tags: ['Facility', 'Construction', 'Concrete', 'Mixing', 'Placing', 'Jointing', 
 	1. Position expansion joint material, waterstops, and other embedded items accurately.
 	2. Support against displacement.
 	3. Fill voids in sleeves, inserts and anchor slots temporarily with readily removable material to prevent entry of concrete into voids.
-	4. **Installation of Grout
+	4. Installation of Grout
 14. Grout Schedule of Use:
 	1. Sand Cement Grout:
 		1. Fill keyways of precast slabs.
@@ -465,7 +448,7 @@ tags: ['Facility', 'Construction', 'Concrete', 'Mixing', 'Placing', 'Jointing', 
 		3. Completely fill all cavities and spaces around dowels and anchors without voids.
 		4. Grout base and bed plates as specified for non-shrinking, non-metallic grout.
 		5. Obtain manufacturer's field technical assistance as required to assure proper placement.
-	4. **Curing and Protection
+	4. Curing and Protection
 16. Protect concrete from premature drying, excessively hot or cold temperatures, and mechanical injury immediately after placement, and maintain with minimal moisture loss at relatively constant temperature for period necessary for hydration of cement, hardening, and compressive strength gain.
 	1. Follow recommendations of ACI 308.1 except as modified herein.
 	2. All traffic shall be kept from the surface as necessary to protect the concrete but not less than the first 48 HRS of curing.

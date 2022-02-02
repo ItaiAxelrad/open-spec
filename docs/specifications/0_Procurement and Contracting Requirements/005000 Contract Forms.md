@@ -10,7 +10,6 @@ tags: ['Procurement', 'Contracting', 'Requirements', 'Contract', 'Forms']
    1. Section 00 50 00
    1. Contract Forms
 
-* 
 	1. Notice of Award
 	2. Contract Agreement
 	3. Notice to Proceed

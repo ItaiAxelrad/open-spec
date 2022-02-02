@@ -13,12 +13,10 @@ tags: ['Facility', 'Construction', 'Equipment', 'Operation', 'Maintenance']
 
 ## General
 
-
-* 
-	1. **Summary
+1. SUMMARY
    1. Section Includes:
 	1. Requirements of this Specification Section apply to all equipment provided on the Project including those found in other Divisions even if not specifically referenced in individual "Equipment" Articles of those Specification Sections.
-	2. **Quality Assurance
+	2. Quality Assurance
 2. Referenced Standards:
 	1. American Bearing Manufacturers Association (ABMA).
 	2. American Gear Manufacturers Association (AGMA).
@@ -63,7 +61,7 @@ tags: ['Facility', 'Construction', 'Equipment', 'Operation', 'Maintenance']
 		2. No manufacturer is listed.
 	2. Equipment, electrical assemblies, related electrical wiring, instrumentation, controls, and system components shall fully comply with specific NEC requirements related to area classification and to NEMA 250 and NEMA ICS 6 designations, as shown on Electrical drawings, and defined in the Electrical specifications.
 	3. Variable speed equipment applications: The driven equipment manufacturer shall have single source responsibility for coordination of the equipment and VFD system and verify their compatibility.
-	4. **Definitions
+	4. Definitions
 5. Product:
       1. Manufactured materials and equipment.
 6. Major Equipment Supports - Supports for Equipment:
@@ -77,7 +75,7 @@ tags: ['Facility', 'Construction', 'Equipment', 'Operation', 'Maintenance']
 8. Installer or Applicator:
 	1. Installer or applicator is the person actually installing or applying the product in the field at the Project site.
 	2. Installer and applicator are synonymous.
-	3. **Submittals
+	3. Submittals
 9. See Specification Section 01 33 00 for requirements for the mechanics and administration of the submittal process.
 10. Shop Drawings:
 	
@@ -146,16 +144,16 @@ tags: ['Facility', 'Construction', 'Equipment', 'Operation', 'Maintenance']
 			3. Include minimum speed at which the motor may be operated for the driven machinery.
 		15. Electrical gear:
 			1. Unless specified in a narrow-scope Specification Section, provide the following:
-				1. Equipment ratings: Voltage, continuous current, kVA, watts, short circuit with stand, etc., as applicable.
+			1. Equipment ratings: Voltage, continuous current, kVA, watts, short circuit with stand, etc., as applicable.
 			2. Control panels:
-				1. Panel construction, material, and enclosure rating
-				2. Point-to-point ladder diagrams.
-				3. Scaled panel face and subpanel layout.
-				4. Technical product data on panel components.
-				5. Panel and subpanel dimensions and weights.
-				6. Panel access openings.
-				7. Nameplate schedule.
-				8. Panel anchorage.
+			1. Panel construction, material, and enclosure rating
+			2. Point-to-point ladder diagrams.
+			3. Scaled panel face and subpanel layout.
+			4. Technical product data on panel components.
+			5. Panel and subpanel dimensions and weights.
+			6. Panel access openings.
+			7. Nameplate schedule.
+			8. Panel anchorage.
 	4. Systems schematics and data:
 		1. Provide system schematics where required in system specifications.
 			1. Acknowledge all system components being supplied as part of the system.
@@ -186,7 +184,7 @@ tags: ['Facility', 'Construction', 'Equipment', 'Operation', 'Maintenance']
 	10. Preliminary field quality control testing format to be used as a basis for final field quality control reporting.
 	11. Testing and monitoring reports in accordance with PART 3 of this Specification Section.
 	12. Certification that driven equipment and VFD are compatible.
-   ## Product
+## Product
 1. 2.1 Manufactured Units
    1. Electric Motors:
 	1. Where used in conjunction with adjustable speed AC or DC drives, provide motors that are fully compatible with the speed controllers.
@@ -218,7 +216,7 @@ tags: ['Facility', 'Construction', 'Equipment', 'Operation', 'Maintenance']
 		3. For vertical motors provide 15 year, average-life thrust bearings conforming to ABMA standards.
 		4. Thermal protection:
 			1. For motors controlled from a variable frequency drive and for all other motors 100 HP and above, provide integral thermal detectors with normally closed contacts that will open on over temperature.
-				1. Two (2) thermal sensing devices per phase in each phase hot-spot location.
+			1. Two (2) thermal sensing devices per phase in each phase hot-spot location.
 	13. Severe duty motor to have the following minimum features:
 		1. All cast iron construction.
 		2. Gasketed conduit box.
@@ -245,33 +243,19 @@ tags: ['Facility', 'Construction', 'Equipment', 'Operation', 'Maintenance']
 	8. Motor enclosure and winding insulation application:
 		1. The following shall apply unless modified by specific Specification Sections:
 			1. In Indoor Areas:
-				1. Motor Enclosure:
+			1. Motor Enclosure:
       1. TEFC
 
-* 
-	+ 
-		- 
-			* 
-				1. Winding Insulation:
+		1. Winding Insulation:
       1. Standard insulation
 
-* 
-	+ 
-		- 
 			1. Wet Outdoor Areas:
-				1. Motor Enclosure:
+			1. Motor Enclosure:
       1. TEFC
 
-* 
-	+ 
-		- 
-			* 
-				1. Winding Insulation:
+		1. Winding Insulation:
       1. Extra Dip and Bake for Moisture
 
-* 
-	+ 
-		- 
 			1. Provide TENV motors in the smaller horsepower ratings where TEFC is not available.
 	1. Provide oversize conduit box complete with clamp type grounding terminals inside the conduit box.
    1. Submersible Motors:
@@ -409,11 +393,7 @@ tags: ['Facility', 'Construction', 'Equipment', 'Operation', 'Maintenance']
 5. Connections to carry full ampacity of conductors without temperature rise.
 6. Terminate spare conductors with electrical tape.
 1. 3.6 Field Quality Control
-
-## General
-
-
-:
+	 1. General:
 	1. Furnish equipment manufacturer’s field quality control services and testing as specified in the individual equipment Specification Sections.
 	2. Perform and report on all tests required by the equipment manufacturer’s Operation and Maintenance Manual.
 	3. Provide testing of electrical equipment and connections in accordance with the Electrical specifications.

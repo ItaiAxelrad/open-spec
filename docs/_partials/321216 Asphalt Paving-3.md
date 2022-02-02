@@ -7,9 +7,8 @@ subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Asphalt', 'Paving']
 ---
 
-1. SECTION 321216
-1. HOT-MIX ASPHALT (HMA)** 
-1. 
+
+1. HOT-MIX ASPHALT (HMA)*1. 
 ## General
 
 1. REFERENCES
@@ -223,5 +222,4 @@ Table 1. Surface Temperature Limitations of Underlying Course
       1. Profilograph Testing. Location and data from all profilograph measurements shall be recorded. When the Profile Index of a 0.1 mile segment of a lot exceeds the tolerance specified in paragraph Smoothness Requirements above by 1.0 inch/mile, but less than 2.0 inches/mile, after any reduction of high spots or removal and replacement, the computed pay factor for that lot based on surface smoothness shall be 95 percent. When the Profile Index exceeds the tolerance by 2.0 inches/mile, but less than 3.0 inches/mile, the computed pay factor shall be 90 percent. When the Profile Index exceeds the tolerance by 3.0 inches/mile, but less than 4.0 inches/mile, the computed pay factor shall be 75 percent. When the Profile Index exceeds the tolerance by 4.0 inches/mile or more, the lot shall be removed and replaced at no additional cost to the Owner. Regardless of the above, any small individual area with surface deviation which exceeds the tolerance given above by more than 5.0 inches/mile or more, shall be corrected by grinding to meet the specification requirements above or shall be removed and replaced at no additional cost to the Owner.
       1. Bumps ("Must Grind" Areas). Any bumps ("must grind" areas) shown on the profilograph trace which exceed 0.3 inch in height shall be reduced by diamond grinding until they do not exceed 0.3 inch when retested. Such grinding shall be tapered in all directions to provide smooth transitions to areas not requiring grinding. The following shall not be permitted:
          1. (1) skin patching for correcting low areas, (2) planing or milling for correcting high areas. At the Contractor's option, pavement areas, including ground areas, may be rechecked with the profilograph in order to record a lower Profile Index.
-1. END OF SECTION 321216
 

@@ -7,21 +7,23 @@ subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Soil', 'Preparation']
 ---
 
-   1. SECTION 329110
+
    1. SOIL PREPARATION
 
 ## General
 
-   1. SUMMARY
+1. SUMMARY
    1. Work in this Section includes, ripping, fertilizing, soil conditioning, and fine grading as shown on plans and details, included on construction drawings, as under this contract.
-   1. SUBMITTALS
+1. SUBMITTALS
    1. Submit product data sheet for compost.
    1. DELIVERY, STORAGE AND HANDLING
    1. Comply with related sections
    1. PROJECT/SITE CONDITIONS
    1. Do not perform work when climate and existing site conditions will not provide satisfactory results.
    1. Vehicular accessibility on site shall be as directed by the Owner’s Representative. Repair damage to prepared ground and surface caused by vehicular movement during work under this section to original condition at no additional cost to the Owner.
-   1. PRODUCTS
+
+## Products
+
    1. materials
    1. Compost
    1. A totally organic product that has been aerobically and naturally processed without the addition of coarse wood chips, in such a manner as to maintain a consistent temperature of 140 degrees Fahrenheit or greater for a period of time sufficient to create the following characteristics, measured by dry weight.
@@ -105,8 +107,10 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Soil', 'Preparatio
    1. Proper tilling of the soil. Soil will be judged on how easily a soil probe can be inserted into the ground.
    1. Proper depth of tilling, and homogeneity of the soil. The soil sample will be judged on uniformity of the soil profile in the top six to eight inches.
    1. A visual inspection for adequate compost will be conducted. An area that has similar soil structures, that has not received compost will be used as the basis of comparison. Should a disagreement exist, multiple soil samples will be sent to an independent testing laboratory to determine the amount of organic matter present. The cost of this testing will be absorbed by the Owner’s Representative.
-   1. EXECUTION
-   1. EXAMINATION
+
+## Execution
+
+1. EXAMINATION
 
 ## General
 
@@ -124,7 +128,7 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Soil', 'Preparatio
    1. Report in writing to General Contractor with copy to Owner.
    1. Acceptance
    1. Beginning of installation means acceptance of existing conditions by installer.
-   1. PREPARATION
+1. PREPARATION
    1. Protection
    1. Locate sewer, water, irrigation, gas, electric, phone and other pipelines or conduits and equipment prior to commencing work.
    1. Be responsible for proper repair to landscape, utilities, walls, pavements and other site improvements damaged by operations under this section.
@@ -141,7 +145,7 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Soil', 'Preparatio
    1. No areas of the site may remain unprotected for more than 30 days, or as directed by the storm water management plan.
    1. The contractor shall assume maintenance and management responsibilities for erosion control in an area upon commencement of activities in that area. Erosion control practices must be compliant with Douglas County, the GESC plan, and any Storm Water Management Plans/Programs in place.
    1. The contractor will be expected to begin repair to damaged erosion control devices, siltation, wash outs, etc. with in twenty four hours of a storm event or upon notification by the Owner’s Representative.
-   1. INSTALLATION
+1. INSTALLATION
    1. Soil Amendment
    1. Evenly distribute soil amendments, conditioners, and fertilizer, and first application of fertilizer in landscaped areas at the rates outlined in Part 2.01 of this Section.
    1. Mixing
@@ -169,5 +173,5 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Soil', 'Preparatio
    1. Remove debris and excess materials from site. Clean out drainage inlet structures. Clean paved and finished surfaces soiled as a result of work under this Section, in accordance with direction given by Owner’s Representative.
    1. PROTECTION
    1. Provide and install barriers as required and as directed by Owner’s Representative to protect completed areas against damage from pedestrian and vehicular traffic until acceptance by Owner. Contractor is not responsible for malicious destruction caused by Others.
-   1. END OF SECTION
+   
 

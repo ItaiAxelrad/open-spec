@@ -10,7 +10,7 @@ tags: ['Facility', 'Construction', 'Furnishings', 'Accessories']
 
 ## General
 
-   1. SUMMARY
+1. SUMMARY
    1. Section Includes
    1. Specifications of General Office Furniture
    1. Conference Tables
@@ -48,7 +48,7 @@ tags: ['Facility', 'Construction', 'Furnishings', 'Accessories']
       1. Wobble and/or shake frequently resulting from a base size not in proportion to the top size of a table.
    1. Welt:
       1. A fabric-covered cord sewn into the seam of upholstery for ornamental purposes or to improve the durability of the covering.
-   1. QUALITY ASSURANCE
+1. QUALITY ASSURANCE
    1. All general office furniture shall comply with the following standards:
       1. Tables shall comply with ANSI voluntary standard ANSI/BIFMA x5.5 "Table Stability Test."
    1. Plastic laminates must pass NEMA standards.
@@ -64,7 +64,9 @@ tags: ['Facility', 'Construction', 'Furnishings', 'Accessories']
    1. All fabrics shall pass ASTM E84, "Class A," and also shall pass the Wyzenbeek rub test
    1. Upholstery foams shall pass all local flammability requirements.
    1. Task chairs shall have a 5-prong base with casters.
-   1. PRODUCTS
+
+## Products
+
    1. MANUFACTURERS
    1. Kimball
    1. Krueger Internations
@@ -103,10 +105,12 @@ tags: ['Facility', 'Construction', 'Furnishings', 'Accessories']
    1. Task chair seats shall be adjustable from 16" to 20" above finished floor.
    1. Ergonomic task chairs shall have a minimum 7-degree range of seat adjustment and a minimum 15-degree range of back tilt adjustment.
    1. Ergonomic task chairs shall have a minimum 3" range of adjustable back height.
-   1. EXECUTION
+
+## Execution
+
    1. ERECTION INSTALLATION APPLICATION
    1. All installations of open office furniture systems shall be done by qualified, knowledgeable people.
    1. DEMONSTRATION
    1. A qualified ergonomically knowledgeable person shall instruct a first time user of an ergonomic chair.
-1. END OF SECTION
+
 

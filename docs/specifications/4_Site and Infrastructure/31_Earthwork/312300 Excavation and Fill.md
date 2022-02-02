@@ -12,9 +12,7 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Excavation', 'Fill']
 
 ## General
 
-
-* 
-	1. **Summary
+1. SUMMARY
    1. Work under this section shall include:
       1. Excavation, dewatering, preparation of the trench bottom; installation of foundation, bedding, and shading material; backfill, and disposal of waste material for the installation of pipelines, manholes, and their related appurtenances.
 2. Quality Assurance
@@ -49,13 +47,11 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Excavation', 'Fill']
 3. Backfill Materials:
 	1. Native Material: Shall include all material not classified as unsuitable and material that meets the compaction and density requirements. 
 	2. Imported Pit Run: Class 3 Aggregate Base Course per Section 703 of the Standard Specifications with the following modifications. Material to be 6 inch minus reasonably well graded pit or back run material.
-   1. Execution
+
+## Execution
+
 1. 3.1 Trench Excavation
-
-## General
-
-
-: Limit operations to as small an area as possible in order to minimize damage to adjacent property. If necessary clear and grub the area to be excavated. In areas where topsoil exists remove and salvage the topsoil for replacement. Keep topsoil segregated from other excavation materials.
+	 1. General: Limit operations to as small an area as possible in order to minimize damage to adjacent property. If necessary clear and grub the area to be excavated. In areas where topsoil exists remove and salvage the topsoil for replacement. Keep topsoil segregated from other excavation materials.
 	1. The maximum amount of trench left open at one time shall be limited to 100-feet or such length as the Engineer considers reasonable and necessary. No trench shall be left open overnight unless specified otherwise in the Special Provisions.
 	2. A guide for desirable trench width at the top of the pipe shall be the nominal diameter of the pipe plus 12-inches on each side of the pipe.
 	3. All utility lines and water courses met shall be maintained and provided for by the Contractor without damage, or nuisance to other parties. Shoring, bracing, sheeting, other trench support methods, and trench boxes shall be used when necessary to protect the work, property and persons. The need, appropriateness and adequacy of all such devices shall be the responsibility of the Contractor.
@@ -68,21 +64,13 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Excavation', 'Fill']
 	1. The Trench shall be maintained dry so that the work may be completed efficiently, and pipes can be laid, joined, bedded, inspected and backfilled in dewatered conditions. The pipe shall not be used to dewater the trench. No water shall be allowed to flow over or rise upon fresh concrete or mortar, and no water shall be allowed to enter the pipe.
 	2. The water shall be disposed of by the Contractor in accordance with the Contract Documents and applicable laws and regulations. The Contractor is responsible for obtaining all necessary dewatering or discharge permits and complying with their requirements.
 1. 3.2 Foundation
-
-## General
-
-
-: Verify that a sound stable trench bottom free from soft, lose, rocky, excessively hard or other unsuitable native material exists before proceeding
+	 1. General: Verify that a sound stable trench bottom free from soft, lose, rocky, excessively hard or other unsuitable native material exists before proceeding
 2. Required Foundation:
       1. Install imported foundation material at all locations specifically required by the Drawings or Specification.
 3. Unsuitable Foundation:
       1. Where unsuitable foundation is encountered over excavate the trench bottom to the depth authorized by the Engineer and bring the foundation to grade with the appropriate imported foundation material authorized by the Engineer and compacted in lifts to 90 percent of maximum dry density.
 1. 3.3 Bedding and Shading
-
-## General
-
-
-: Holes for pipe bells shall be provided at each joint. Bell holes shall be no larger than necessary for joint assembly and assurance that the pipe barrel will lie flat on the trench bottom. Generally, 2-inches of clearance beneath the joint is desired. Push-on type joints require minimum depressions for bell holes. In no case shall the bell support the weight of the pipe at the time of shading and backfill. Under no circumstances shall the pipe be permanently joined in the trench until the trench bottom has been fine graded to provide uniform pipe support at the required invert elevation.
+	 1. General: Holes for pipe bells shall be provided at each joint. Bell holes shall be no larger than necessary for joint assembly and assurance that the pipe barrel will lie flat on the trench bottom. Generally, 2-inches of clearance beneath the joint is desired. Push-on type joints require minimum depressions for bell holes. In no case shall the bell support the weight of the pipe at the time of shading and backfill. Under no circumstances shall the pipe be permanently joined in the trench until the trench bottom has been fine graded to provide uniform pipe support at the required invert elevation.
 2. Required Embedment:
       1. Imported bedding and shading materials are required for all main-line pipes and appurtenances.
 3. Procedures and Bedding and Shading:
@@ -92,11 +80,7 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Excavation', 'Fill']
 	3. Any damages to the pipe that occurs from improper compaction procedures or the use of mechanical compaction too close to the pipe shall immediately be repaired by the Contractor. If compaction equipment which is narrower than full trench width is used, the equipment shall be operated first on each side of the pipe between the edge of the pipe and the trench walls and then centered over the pipe.
 	4. Horizontal placement of bedding and shading shall extend the full trench width to undisturbed trench width to undisturbed trench wall material.
 1. 3.4 Trench Backfill
-
-## General
-
-
-: Backfill materials shall be placed in lifts and compacted to 95 percent. Road crossings will in general, be backfilled with imported material. All excavation and backfill within the City Right of Way shall follow all current City requirements at the time of construction.
+	 1. General: Backfill materials shall be placed in lifts and compacted to 95 percent. Road crossings will in general, be backfilled with imported material. All excavation and backfill within the City Right of Way shall follow all current City requirements at the time of construction.
 	1. Salvaged topsoil shall be replaced to its approximate original depth in all open areas and areas to be re-vegetated.
 2. For Manholes Located in Gravel or Paved Areas:
       1. Backfill materials shall be compacted to 95 percent in lifts recommended not to exceed 6-inches.
@@ -122,10 +106,7 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Excavation', 'Fill']
 	2. Washed rock shall be tested for gradation.
 	3. Imported Pit Run shall be tested for AASHTO soil classification plasticity index, liquid limit and gradation.
 4. Trench Settlement:
-	
-## General
-
-: Variations in soil type and moisture conditions along with inconsistencies in compactive effort may cause settlement to occur in portions of the backfill. The specified compaction requirements shall be considered a minimum. Spot testing for in place density by the Engineer during construction shall not relieve the contractor of the responsibility to assure that the trench backfill does not settle beyond the limits established below. The Contractor shall be responsible for repair of areas of excessive settlement.
+		1. General: Variations in soil type and moisture conditions along with inconsistencies in compactive effort may cause settlement to occur in portions of the backfill. The specified compaction requirements shall be considered a minimum. Spot testing for in place density by the Engineer during construction shall not relieve the contractor of the responsibility to assure that the trench backfill does not settle beyond the limits established below. The Contractor shall be responsible for repair of areas of excessive settlement.
 	2. Measurement: Measurement of settlement shall generally take place in July or August, one winter season following completion of trench backfill.
 	3. Limits: The following limits to trench backfill settlement shall apply.
 		1. Asphaltic Concrete Paved Areas: Settlement greater than 1/2 inch but less than 1-1/2 inches shall be repaired by removing the asphalt to a minimum of 2 feet on either side of the settled area and replacing it with a new, thicker section of asphalt to produce a final level surface. Settlement greater than 1-1/2 inches shall be repaired by removing the asphalt and recompacting or replacing the trench backfill and gravels then applying a new asphalt surface.

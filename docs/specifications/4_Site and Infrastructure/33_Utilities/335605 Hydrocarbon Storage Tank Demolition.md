@@ -7,16 +7,11 @@ subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Utilities', 'Hydrocarbon', 'Storage', 'Tank', 'Demolition']
 ---
 
-1. SECTION 33 56 10** 
-1. FUEL STORAGE TANK DEMOLITION
-1. BASED ON DFD MASTER SPECIFICATION DATED 10/1/12
-1. *(Note to the designer:
-      1. This section has been written to cover most (but not all) situations that you will encounter. Depending on the requirements of your specific project, you may have to add material, delete items, or modify what is currently written. The Division of Facilities Development expects changes and comments from you.*
-1. P A R T 1 - G E N E R A L
+## General
+
 1. SCOPE
    1. Provide all work needed for removal and closure of underground fuel storage tanks as required in these specifications and on the drawings. Work shall be completed in compliance with applicable local, state, and federal rules and regulations governing tank removals and the handling, transport, and disposal of sludge and liquid wastes, tanks and associated piping, and other waste materials.
-    1. Part 1 - **General
-    1. Summary of Work Included  
+1. Summary of Work Included  
  Related Work Covered Elsewhere  
  References
     1. Quality Assurance  
@@ -105,7 +100,7 @@ Tank Preparation/Purging/Bottom Wastes
 1. PROVISIONS FOR FUTURE WORK
 1. *(Note to the designer:
       1. in this subsection explain what future extensions, options, or additions to the currently proposed work that need to be observed by the Contractor in this work.)*
-   1. The Contractor shall coordinate hiswork and site access requirements to the site with the DFD Project Representative and user agency prior to start of work to avoid conflicts with other site activities or future work.
+   1. The Contractor shall coordinate his work and site access requirements to the site with the DFD Project Representative and user agency prior to start of work to avoid conflicts with other site activities or future work.
 1. CONSTRUCTION LIMITS
    1. The work of this Section shall be confined to the Construction Limits as indicated on the drawings. In the absence of such a designation on the drawings, the work shall be confined to the minimum area reasonably necessary to undertake the work as determined by the Engineer. All areas disturbed by the site demolition, excavation, and tank removal work, plus such additional areas as are disturbed by construction related activities including construction access and storage shall be considered the "Construction Area."
 1. NOTIFICATION/ PERMITS
@@ -145,7 +140,7 @@ Madison, WI 53707
    1. Use Contractor's normal equipment for demolition and tank removal which meets all safety requirements imposed on such equipment and provides adequate safeguards against ignition of flammable vapors.
 1. BARRICADES AND WARNING DEVICES
    1. Provide traffic barricades and warning devices in accordance with governing codes and regulations and the Manual of Uniform Traffic Control Devices (MUTCD).
-   1. Provide protective barrier fencing in ***[plastic, blaze orange color OR chain link fence sections OR plywood barriers*]** together with all supports and braces necessary to provide an adequate safety barrier to unattended excavations. **(Also see S*pecification Section 02835 - Temporary Construction Site Barriers, that may be used for complex sites)*
+   1. Provide protective barrier fencing in ***[plastic, blaze orange color OR chain link fence sections OR plywood barriers*]** together with all supports and braces necessary to provide an adequate safety barrier to unattended excavations. (Also see S*pecification Section 02835 - Temporary Construction Site Barriers, that may be used for complex sites)*
    1. Provide all necessary warning signing as required by OSHA, these specifications, or as shown on the drawings.
 1. CONTROLLED BACKFILL
    1. Provide sand or pit-run sand/gravel, graded from 1 inch maximum downward through the particle range. Not more than 5% of material passing #4 sieve shall pass number 200 sieve.
@@ -154,7 +149,8 @@ Madison, WI 53707
 1. ITEMS FOR STORAGE/ REUSE
 1. *(Note to the Designer:
       1. Include a listing of items known to require storage and/ or reuse.)*
-1. P A R T I I I - E X E C U T I 0 N
+
+## EXECUTI0N
 
 ## General
 
@@ -224,8 +220,7 @@ Madison, WI 53707
    1. Remove tank from excavation and place it on a level surface, and block to prevent movement. Use screwed plugs to plug any corrosion holes in the tank shell.
    1. The tank must be thoroughly cleaned of any remaining sludge or other residues before transport from the site. Tank washwater or other non‑hazardous wastes should be collected separately and properly disposed in accordance with the contractor's Waste Management Plan. The tank becomes the property of the Contractor and should be cut up on site and sold as scrap or properly disposed as solid waste. 
    1. Document the chain of custody and tank disposal method used. Tanks removed from the site should be properly labeled and transported in accordance with local, state, and federal regulations.
-1. SITE ASSESSMENT** 
-    1. Soil sample collection and analysis procedures shall be completed in accordance with the contractors Field Procedures Plan. Samples must be collected by persons who are familiar with the plan and who are certified by the Department of Commerce to perform site assessments, or are working under the supervision of a certified person.
+1. SITE ASSESSMENT*    1. Soil sample collection and analysis procedures shall be completed in accordance with the contractors Field Procedures Plan. Samples must be collected by persons who are familiar with the plan and who are certified by the Department of Commerce to perform site assessments, or are working under the supervision of a certified person.
    1. Field instruments including photoionization detectors (PID's), flame ionization detectors (FID's), and portable gas chromatographs (GC's) may be used for field screening of soil samples and to choose samples for lab testing. by a certified lab. Field instruments shall be used in accordance with DNR approved techniques, WI Admin. Code COM 10, Appendix B. 
    1. Soil samples shall be taken following recommended procedures in the DNR publication, “Site Assessments for Underground Tanks” and in the WI Admin. Code, COM 10 Appendix B, and submitted to a DNR certified lab for appropriate analysis per DNR requirements. Up to Three soil samples and lab tests shall be included in the base bid for each tank, including heating oil tanks less than 4,000 gals. If additional samples and lab tests are needed, they will be paid as an extra based on actual costs.
    1. If groundwater is found within the tank excavation, a sample of groundwater must also be properly collected and submitted to lab for appropriate analysis. The cost of groundwater testing will be paid as an extra based on actual costs.
@@ -252,5 +247,5 @@ Madison, WI 53707
    1. Surface restoration in tank excavation area shall consist of the placement of least four inches of top soil in non‑paved areas and crushed gravel base course in paved areas. Crushed gravel must be mechanically compacted to eight inches depth. Finish grades must conform with surrounding area.
    1. The Contractor is responsible for repairing all site damage outside the tank excavation area as directed by the Project Representative. All debris and excess materials shall be removed from the site, and waste storage areas shall be properly cleaned up and restored. Site utility systems disconnected for tank removal must be completely restored. 
    1. If directed by the Project Representative, contractor shall provide repairs to bituminous concrete pavement, concrete walks, sod, seeding, or other site finishes within the tank excavation area. Site finishes shall match existing. Costs for optional site finishes will be paid as an extra based on actual documented costs.
-   1. END OF SECTION
+   
 

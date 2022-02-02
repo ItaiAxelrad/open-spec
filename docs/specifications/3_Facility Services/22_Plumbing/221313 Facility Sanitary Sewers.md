@@ -189,7 +189,9 @@ tags: ['Facility', 'Services', 'Plumbing', 'Sanitary', 'Sewers']
    1. If requested by the Architect, require the manufacturer or seller of the pipe to furnish specimens for testing equal to 0.5 percent of the order, but not less than two specimens of each size and type, as selected from the Project site by the Architect.
    1. Deliver the specimens for testing by an approved independent testing laboratory and furnish two copies of the test results to the Architect.
    1. Pipe of diameter 680 mm (27 inches) and larger shall bear the stamp of an approved testing laboratory as having been tested and delivered from the tested stock of the manufacturer.
-   1. EXECUTION
+
+## Execution
+
    1. Examination
    1. Verification
    1. Before any work is done on the Project, uncover the existing utility at each point of connection and determine the actual location and elevation of the utility.
@@ -219,7 +221,7 @@ tags: ['Facility', 'Services', 'Plumbing', 'Sanitary', 'Sewers']
       1. ABS sewer pipe and fittings.
    1. PSM Poly (pvc) sewer pipe and fittings.
    1. Vitrified clay sewer pipe and fittings.
-   1. INSTALLATION, GENERAL
+1. INSTALLATION, GENERAL
 
 ## General
 
@@ -360,6 +362,5 @@ tags: ['Facility', 'Services', 'Plumbing', 'Sanitary', 'Sewers']
    1. Should the sewer systems fail to meet the test requirements, make the necessary repairs to the systems and re-test. Submit all test results and calculations to the Architect for final approval.
    1. Cleaning
    1. Prior to final acceptance of the Contract, make necessary corrections and adjustments and finish cleanup operations. Clean sewer pipes, manholes, and other related drainage structures and flush them out with water, after paving and lawn work has been completed and accepted. Leave drainage systems clean, clear of debris and other materials.
-   1. END OF SECTION
-   1. THIS PAGE INTENTIONALLY BLANK
-
+   
+   

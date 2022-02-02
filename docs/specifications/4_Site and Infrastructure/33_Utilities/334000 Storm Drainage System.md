@@ -12,17 +12,15 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Storm', 'Drainage', 'System']
 
 ## General
 
-
-* 
-	1. **Summary
+1. SUMMARY
    1. Work under this section includes Checkmate Check Valves and their subsequent installation for storm drainage systems. 
 2. Related specification sections include:
 	1. Section 31 20 00, Trenching, Bedding and Backfilling
-	2. **Quality Assurance
+	2. Quality Assurance
 3. Work shall be per:
 	1. American National Standards Institute (ANSI).
 	2. Manufacturers Standardization Society of the Valve and Fittings Industry Inc. (MSS).
-	3. **Submittals
+	3. Submittals
 4. See Specification Section 01 33 00 for requirements for the mechanics and administration of the submittal process.
 5. Shop Drawings shall include:
       1. 
@@ -30,10 +28,9 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Storm', 'Drainage', 'System']
 	2. Certifications.
 	3. Test report
 		1. Flow test data from an accredited hydraulics laboratory to confirm pressure drop and hydraulic data.
-   ## Product
+## Product
 
-* 
-	1. **Materials
+	1. Materials
    1. Valves and Appurtenances:
 	1. Check Valve:
 		1. Acceptable Manufacturer:
@@ -50,7 +47,7 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Storm', 'Drainage', 'System']
 			9. The valve shall incorporate a custom shaped notch in the end of the bill to reduce cracking pressure. 
 			10. The outside diameter must be in contact with the inside diameter of the pipe.
 			11. Shall include stainless steel expansion clamps.
-				1. Shall be installed in the upstream or downstream cuff of the valve
+			1. Shall be installed in the upstream or downstream cuff of the valve
 
 
 ## Execution

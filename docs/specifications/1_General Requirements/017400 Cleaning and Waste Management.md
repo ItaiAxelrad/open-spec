@@ -12,9 +12,7 @@ tags: ['General', 'Requirements', 'Cleaning', 'Waste', 'Management']
 
 ## General
 
-
-* 
-	1. **Summary
+1. SUMMARY
    1. Work included:
       1. Maintain the project site in an orderly manner to the standard of cleanliness described in this section.
 2. Related work described elsewhere:
@@ -29,7 +27,9 @@ tags: ['General', 'Requirements', 'Cleaning', 'Waste', 'Management']
    1. Provide all personnel, equipment and materials to maintain the specified standards of cleanliness.
 1. 2.2 Compatibility
    1. Use cleaning materials and equipment which are compatible with the surface being cleaned, as recommended by the manufacturer of the material and which will not damage the surface being cleaned.
-   1. Execution
+
+## Execution
+
 1. 3.1 Storage of Materials and Periodic Cleanup
    1. Store all items to be used on the project in an orderly manner allowing maximum access. Stored materials shall not impede drainage or traffic.
 2. Do not allow the accumulation of scrap, debris, waste material, and other items not required for construction of the project on the work site.

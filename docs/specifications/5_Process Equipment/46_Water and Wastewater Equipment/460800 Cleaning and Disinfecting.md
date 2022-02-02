@@ -31,7 +31,7 @@ tags: ['Process', 'Equipment', 'Water', 'Wastewater', 'Cleaning', 'Disinfecting'
    1. Commence disinfection after completion of the following:
 	1. Hydrostatic and pneumatic testing, pressure testing, functional and performance testing and acceptance of piplines, pumping systems, and equipment. 
 	2. Cleaning and flushing.
-   ## Product
+## Product
 1. Materials
    1. Water for disinfection and testing:
 	1. Clean, uncontaminated, and potable. 
@@ -113,7 +113,6 @@ tags: ['Process', 'Equipment', 'Water', 'Wastewater', 'Cleaning', 'Disinfecting'
 120.
 60.
 
-* 
 	1. Disinfection of Pumps
    1. Solution:
       1. Minimum free chlorine concentration of 200 mg/L. 

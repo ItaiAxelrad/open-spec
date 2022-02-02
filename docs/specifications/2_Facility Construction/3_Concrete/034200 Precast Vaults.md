@@ -7,14 +7,9 @@ subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Concrete', 'Precast', 'Vaults']
 ---
 
-   1. Section 03 42 00
-   1. PRECAST CONCRETE VAULTS
-
 ## General
 
-
-* 
-	1. **Summary
+1. Summary
    1. Work under this section shall include materials, design, and installation of precast concrete vaults with factory applied waterproofing.
 2. Related Specification Sections include:
 	1. Section 03 01 00, Concrete Finishing and Repair of Surface Defects
@@ -23,7 +18,7 @@ tags: ['Facility', 'Construction', 'Concrete', 'Precast', 'Vaults']
 	4. Section 05 50 00, Metal Fabrications
 	5. Section 08 30 00, Access Doors and Hatches
 	6. Section 31 01 00, Earthwork
-	7. **Quality Assurance
+	7. Quality Assurance
 3. Work shall be per:
 	1. American Concrete Institute (ACI):
 		1. CT-13, Concrete Terminology.
@@ -48,12 +43,12 @@ tags: ['Facility', 'Construction', 'Concrete', 'Precast', 'Vaults']
 		2. Welders shall be qualified in accordance with AWS D1.1.
 	4. Preconstruction conference
 		1. Arrange a conference with Architect, Engineer, Contractor, and precast supplier and erector two weeks prior to start of work to discuss handling, erecting, proposed concrete mix designs, finishing and curing. Prepare and issue agenda covering all pertinent issues ten days before the conference.
-	5. **Submittals
+	5. Submittals
    1. Submit submittal packages in accordance with Standard Specification Section 01 33 00
 2. Submit manufacturer's catalog data on precast concrete items. Show dimensions of vault and location of openings including thicknesses of walls, floor and top slab. Show reinforcing wire and steel. Show materials of construction by ASTM reference and grade.
 3. Submit manufacturer's design calculations and certification signed and sealed by a professional civil or structural engineer registered in the State of California that vault design and construction comply with the specified design load conditions and the referenced ASTM specification (e.g., ASTM C 857 and C 858).
 4. Submit manufacturer's catalog data, descriptive literature, and installation instructions for the waterproofing material.
-	1. **Delivery, Storage, and Handling
+	1. Delivery, Storage, and Handling
 5. Delivery and Acceptance Requirements
 	1. Engineer may inspect and test all precast structures, fittings, lining and joint material after delivery to site or at factory.
 	2. Manufacturer or Supplier: Furnish materials for tests and labor to assist Engineer with tests.
@@ -67,8 +62,10 @@ tags: ['Facility', 'Construction', 'Concrete', 'Precast', 'Vaults']
 		4. Joint ends: Keep clean and off ground.
 	2. Manufacturer's Batching Plant, Casting Equipment, and Curing Facilities: Complete, operating properly, and of proper size and range.
 	3. Manufacturer's Records: Show evidence of continual maintenance and quality control over casting forms and joint forming rings.
-   ## Product
-   1. **Acceptable Manufacturers
+
+## Product
+
+1. Acceptable Manufacturers
 2. Subject to compliance with the Contract Documents, the following manufacturers are acceptable:
 	1. Vaughn Concrete Products, Inc.
 	2. Oldcastle Infrastructure
@@ -99,15 +96,11 @@ tags: ['Facility', 'Construction', 'Concrete', 'Precast', 'Vaults']
 1. 2.8 Vault Appurtenances
    1. Provide ladders, covers and frames, vents, supports, inserts, eyebolts, and other miscellaneous metalwork. Refer to Section 05 50 00.
 
-
 ## Execution
 
-   1. Excavating and Backfilling for Vaults
+1. Excavating and Backfilling for Vaults
 2. Perform earthwork as specified in Standard Specification Section 31 01 00. Provide 6-inch minimum thickness 3/4-inch crushed rock over the full width of the vault base and extend 12 inches beyond the edges of the vault. After repairing the waterproofing, backfill and compact around the vault with structural backfill material. Excavated material may be used for structural backfill provided it conforms to the Standard Specifications for structural backfill material.
-	1. **Installation of Vaults and Risers
+	1. Installation of Vaults and Risers
 3. Set each precast concrete vault section or riser plumb on a double layer bed of sealant at least 1/2-inch thick to make a watertight joint with the preceding unit. Point the inside joint and wipe off the excess sealant.
-	1. **Waterproofing
+	1. Waterproofing
 4. Waterproofing shall be factory applied to all exterior surfaces of vaults and risers. This includes the bottom of the vault to be coated as an exterior surface. Apply two coats at a rate of 65 square feet per gallon per coat. Prior to backfilling, field apply waterproofing material on joints and damaged surfaces. Protect coating from damage during backfilling and compacting.
-
-*[this page intentionally left blank]*
-

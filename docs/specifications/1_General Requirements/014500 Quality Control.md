@@ -7,11 +7,10 @@ subgroup: General Requirements
 tags: ['General', 'Requirements', 'Quality', 'Control']
 ---
 
-   1. SECTION 01 45 00
+
    1. QUALITY CONTROL 
    1. PART 1 -GENERAL 
 
-* 
 	1. Description
    1. This section covers quality control requirements supplementary to those of the General Conditions and other sections of the Technical Specifications. 
 	1. Quality Assurance

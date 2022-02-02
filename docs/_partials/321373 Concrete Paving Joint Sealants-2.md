@@ -7,21 +7,14 @@ subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Concrete', 'Paving', 'Joint', 'Sealants']
 ---
 
-1. Copyright 2007 by The American Institute of Architects (AIA)
-1. Exclusively published and distributed by Architectural Computer Services, Inc. (ARCOM) for the AIA
-1. SECTION 321373 - CONCRETE PAVING JOINT SEALANTS
-   1. Revise this Section by deleting and inserting text to meet Project-specific requirements.
-   1. This Section uses the term "Architect." Change this term to match that used to identify the design professional as defined in the General and Supplementary Conditions.
-   1. Verify that Section titles referenced in this Section are correct for this Project's Specifications; Section titles may have changed.
-
 ## General
 
-   1. RELATED DOCUMENTS
+1. RELATED DOCUMENTS
    1. Retain or delete this article in all Sections of Project Manual.
    1. Drawings and general provisions of the Contract, including General and Supplementary Conditions and Division 01 Specification Sections, apply to this Section.
-   1. All current NREL standards and specifications shall apply, including but not limited to:
-      1. NREL CONSTRUCTION SPECIFICATIONS
-   1. SUMMARY
+   1. All current Owner standards and specifications shall apply, including but not limited to:
+      1. Owner CONSTRUCTION SPECIFICATIONS
+1. SUMMARY
    1. Section Includes:
       1. Cold-applied joint sealants.
    1. Cold-applied, jet-fuel-resistant joint sealants.
@@ -40,7 +33,7 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Concrete', 'Paving
    1. For materials failing tests, obtain joint-sealant manufacturer's written instructions for corrective measures including use of specially formulated primers.
    1. Retain subparagraph below if generic test data are acceptable.
    1. Testing will not be required if joint-sealant manufacturers submit joint-preparation data that are based on previous testing, not older than 24 months, of sealant products for compatibility with and adhesion to joint substrates and other materials matching those submitted.
-   1. SUBMITTALS
+1. SUBMITTALS
    1. First three paragraphs below are defined in Division 01 Section "Submittal Procedures" as "Action Submittals."
    1. Product Data:
       1. For each joint-sealant product indicated.
@@ -71,7 +64,7 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Concrete', 'Paving
    1. Section 408, “Joint and Crack Sealant” of the Standard Specifications for Road and Bridge Construction, State of Colorado Department of Highways (CDOT Standard Specifications) current edition and all supplemental provisions thereto.
    1. Section 409, “Seal Coat” of the Standard Specifications for Road and Bridge Construction, State of Colorado Department of Highways (CDOT Standard Specifications) current edition and all supplemental provisions thereto.
    1. Section 412, “Portland Cement Concrete Pavement” of the Standard Specifications for Road and Bridge Construction, State of Colorado Department of Highways (CDOT Standard Specifications) current edition and all supplemental provisions thereto.
-   1. QUALITY ASSURANCE
+1. QUALITY ASSURANCE
    1. Installer Qualifications:
       1. Manufacturer's authorized representative who is trained and approved for installation of units required for this Project.
    1. Source Limitations:
@@ -83,13 +76,15 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Concrete', 'Paving
    1. Retain paragraph below if Work of this Section is extensive or complex enough to justify a preinstallation conference.
    1. Preinstallation Conference:
       1. Conduct conference at Site Location.
-   1. PROJECT CONDITIONS
+1. PROJECT CONDITIONS
    1. Do not proceed with installation of joint sealants under the following conditions:
       1. When ambient and substrate temperature conditions are below 50 degrees for cold-applied and 40 degrees for hot applied. Manufactures recommendations shall be followed if a higher temperature is recommended.
    1. When joint substrates are wet.
    1. Where joint widths are less than those allowed by joint-sealant manufacturer for applications indicated.
    1. Where contaminants capable of interfering with adhesion have not yet been removed from joint substrates.
-   1. PRODUCTS
+
+## Products
+
    1. MATERIALS
    1. Compatibility:
       1. Provide joint sealants, backing materials, and other related materials that are compatible with one another and with joint substrates under conditions of service and application, as demonstrated by joint-sealant manufacturer based on testing and field experience.
@@ -134,10 +129,7 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Concrete', 'Paving
       1. Meadows, W. R., Inc.;.
    1. Right Pointe; D-3405 Hot Applied Sealant.
    1. JOINT-SEALANT BACKER MATERIALS
-
-## General
-
-:
+	1. General:
       1. Provide joint-sealant backer materials that are nonstaining; are compatible with joint substrates, sealants, primers, and other joint fillers; and are approved for applications indicated by joint-sealant manufacturer based on field experience and laboratory testing.
    1. Retain one of first two paragraphs below for use in joints such as contraction joints cut partially through paving material.
    1. Round Backer Rods for Cold- and Hot-Applied Joint Sealants:
@@ -154,21 +146,20 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Concrete', 'Paving
 ly retain this article unless it is known that priming of substrates is not required with joint sealants specified. Purpose of primers is to improve adhesion of joint sealant to substrate.
    1. Primers:
       1. Product recommended by joint-sealant manufacturer where required for adhesion of sealant to joint substrates indicated, as determined from preconstruction joint-sealant-substrate tests and field tests.
-   1. EXECUTION
-   1. EXAMINATION
+
+## Execution
+
+1. EXAMINATION
    1. Examine joints indicated to receive joint sealants, with Installer present, for compliance with requirements for joint configuration, installation tolerances, and other conditions affecting joint-sealant performance.
    1. Proceed with installation only after unsatisfactory conditions have been corrected.
-   1. PREPARATION
+1. PREPARATION
    1. Surface Cleaning of Joints:
       1. Clean out joints immediately before installing joint sealants to comply with joint-sealant manufacturer's written instructions.
    1. As previously noted in "Primers" Article, purpose of primers is to improve adhesion of joint sealant to substrate.
    1. Joint Priming:
       1. Prime joint substrates where indicated or where recommended in writing by joint-sealant manufacturer, based on preconstruction joint-sealant-substrate tests or prior experience. Apply primer to comply with joint-sealant manufacturer's written instructions. Confine primers to areas of joint-sealant bond; do not allow spillage or migration onto adjoining surfaces.
-   1. INSTALLATION OF JOINT SEALANTS
-
-## General
-
-:
+1. INSTALLATION OF JOINT SEALANTS
+	1. General:
       1. Comply with joint-sealant manufacturer's written installation instructions for products and applications indicated unless more stringent requirements apply.
    1. Joint-Sealant Installation Standard:
       1. Comply with recommendations in ASTM C 1193 for use of joint sealants as applicable to materials, applications, and conditions indicated.
@@ -201,5 +192,5 @@ ly retain this article unless it is known that priming of substrates is not requ
    1. Clean off excess joint sealant or sealant smears adjacent to joints as the Work progresses, by methods and with cleaning materials approved in writing by manufacturers of joint sealants and of products in which joints occur.
    1. PROTECTION
    1. Protect joint sealants, during and after curing period, from contact with contaminating substances and from damage resulting from construction operations or other causes so sealants are without deterioration or damage at time of Substantial Completion. If, despite such protection, damage or deterioration occurs, cut out and remove damaged or deteriorated joint sealants immediately and replace with joint sealant so installations in repaired areas are indistinguishable from the original work.
-1. END OF SECTION 32 13 73
+32 13 73
 

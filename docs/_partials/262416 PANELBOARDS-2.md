@@ -7,7 +7,7 @@ subgroup: Facility Services
 tags: ['Facility', 'Services', 'Electrical', 'PANELBOARDS']
 ---
 
-1. SECTION 26 24 16
+
 1. PANELBOARDS
 
 ## General
@@ -225,7 +225,9 @@ Concrete, reinforcement, and formwork requirements are specified in Division 3.
    1. Control-Power Source:
       1. 120-V branch circuit.
    1. n
-   1. Execution
+
+## Execution
+
 01. INSTALLATION
    1. Install panelboards and accessories according to NEMA PB 1.1.
    1. Mount top of trim 74 inches above finished grade, unless otherwise indicated.

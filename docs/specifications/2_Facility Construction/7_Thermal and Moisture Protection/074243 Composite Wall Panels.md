@@ -10,7 +10,7 @@ tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Composi
 
 ## General
 
-   1. SUMMARY
+1. SUMMARY
    1. Refer to Section 018113 – Sustainable Design Requirements; 018113A – Appendix A - Materials Anticipated to be Used for Recycled Content; and 018113B – LEED Matrix for materials requiring contractor validation of recycled content.
    1. Section Includes
    1. Preformed, prefinished composite panels.
@@ -28,7 +28,7 @@ tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Composi
       1. Test Method for Measurement of Coating Mass Per Unit Area of Anodically Coated Aluminum
    1. ASTM B209:
       1. Specification for Aluminum and Aluminum-Alloy Sheet and Plate
-   1. SUBMITTALS
+1. SUBMITTALS
    1. Submit the following in accordance with Section 013300:
       1. Product Data:
          1. Manufacturer's product literature for the panel specified.
@@ -38,16 +38,18 @@ tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Composi
    1. 2 samples of each type of panel assembly, 12 inch by 12 inch minimum.
    1. 6 samples of each finish in color or colors selected, 3 inch by 5 inch minimum.
    1. Affidavit certifying that the material meets the requirements specified.
-   1. QUALITY ASSURANCE
+1. QUALITY ASSURANCE
    1. Manufacturer Qualifications:
       1. Minimum of 5 years experience in manufacturing panels similar to those specified.
    1. Installer Qualifications:
       1. Acceptable to panel manufacturer.
    1. DELIVERY, STORAGE, AND HANDLING
    1. Deliver materials to the project site in manufacturer's original crating, properly labeled for identification and installation purposes. Store materials in accordance with panel manufacturer’s recommendations. Handle materials carefully to avoid damage to panels and finishes.
-   1. WARRANTY
+1. WARRANTY
    1. The Contractor shall warrant the materials to be free of faults and defects in accordance with the General Conditions, except that the warranty shall be extended by paint manufacturer's standard multi-year warranty. The warranty shall be in writing and shall be signed by the manufacturer.
-   1. PRODUCTS
+
+## Products
+
    1. MANUFACTURER
    1. Copper Sales, Inc., or equal product by other manufacturers meeting the requirements of this section and Section 018113 for recycled content are acceptable. At contractor option provide Una-Clad Series 3000 UNA-FAB panels, ¼” thick by Copper Sales, Inc.
    1. PANEL TYPE
@@ -85,13 +87,15 @@ tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Composi
    1. Number of Coats:
       1. 4-coat.
    1. Provide factory applied strippable plastic film for protection during fabrication and installation.
-   1. EXECUTION
-   1. EXAMINATION
+
+## Execution
+
+1. EXAMINATION
    1. Examine the areas and conditions under which materials are to be installed and notify the Contractor in writing of conditions detrimental to the proper and timely completion of the work. Do not proceed with the work until unsatisfactory conditions have been corrected.
    1. Surfaces to receive panels shall be even, smooth, sound, clean, dry, and free from defects.
-   1. PREPARATION
+1. PREPARATION
    1. Obtain field measurements prior to completion of manufacturing and finishing. When field measurements are not possible, provide method of installation which will allow minor adjustment in the field.
-   1. INSTALLATION
+1. INSTALLATION
    1. Erect panels plumb, level, and true.
    1. Anchor panels securely in place, in accordance with final approved shop drawings.
    1. Comply with panel manufacturer’s instructions for installation of concealed fasteners.
@@ -101,5 +105,4 @@ tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Composi
    1. Remove panels damaged beyond repair and replace with new panels to match adjacent undamaged panels.
    1. Clean exposed panel surfaces promptly after installation in accordance with recommendations of panel and coating manufacturers.
    1. Remove protective film immediately after installation.
-1. END OF SECTIONTHIS PAGE INTENTIONALLY BLANK
 

@@ -8,8 +8,7 @@ tags: ['Facility', 'Services', 'Communications', 'Raceway']
 ---
 
       1. 
-1. RELATED documents** 
-   1. Drawings and general provisions of the Contract, including General and Supplementary Conditions and Division 1 Specification Sections, apply to this section.
+1. RELATED documents*   1. Drawings and general provisions of the Contract, including General and Supplementary Conditions and Division 1 Specification Sections, apply to this section.
 2. summary
    1. This Section includes telecommunication service raceways and telecommunication raceway systems. Requirements specified in this Section may be supplemented by special requirements of systems described in other Sections.
 3. REFERENCES
@@ -77,14 +76,11 @@ tags: ['Facility', 'Services', 'Communications', 'Raceway']
    1. Firestops and seals shall be provided for penetrations through fire-rated walls and floors. Firestops and seals shall be Dow Corning's Firestop Series #2000, 3M's fire barrier composite sheets #CS195, or equal, and shall be applied in accordance with manufacturer's recommendations. Products which are affected by water are not acceptable.
    1. Use of 90-degree ells is prohibited.
 
-* 
-	1. **IDENTIFICATION
+	1. IDENTIFICATION
    1. Label all telecommunication cabinets, junction boxes, pull boxes, etc., as indicated in Division 26 sections of the Specifications. 
    1. Labels shall be preprinted or computer-printed type.
    1. For fire-resistant plywood, do not paint over manufacturer’s label.
 
-* 
-	1. **CLEANING AND PROTECTION
+	1. CLEANING AND PROTECTION
    1. On completion of installation and prior to final acceptance, inspect components. Remove burrs, dirt, and construction debris, clean system components and protect from damage and deterioration.
-1. END OF SECTION 271510
 

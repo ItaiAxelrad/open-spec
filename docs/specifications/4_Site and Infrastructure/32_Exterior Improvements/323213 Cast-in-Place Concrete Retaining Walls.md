@@ -10,7 +10,7 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Cast-in-Place', 'C
 
 ## General
 
-   1. SUMMARY
+1. SUMMARY
    1. Section Includes:
       1. Concrete steps, walls and structures as indicated on Drawings and specified herein.
    1. Related Sections:
@@ -25,7 +25,7 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Cast-in-Place', 'C
    1. 315-80, Revised 1986 - Details and Detailing of Concrete Reinforcement.
    1. American Society for Testing and Materials (ASTM)
    1. C42 - Test Method for Obtaining and Testing Drilled Cores and Sawed Beams of Concrete.
-   1. SUBMITTALS
+1. SUBMITTALS
    1. Submit Shop Drawings for fabrication, bending and placement of concrete reinforcement. Comply with ACI 315, showing bar schedules, stirrup spacing, diagrams of bent bars and arrangement of concrete reinforcements. Include special reinforcement required and openings through concrete structures.
    1. Submit two copies of laboratory test reports for concrete materials and mix design test as specified.
    1. Provide material certificates in lieu of material laboratory test reports only when permitted by the Architect. Material certificates shall be signed by the manufacturer and the Contractor certifying that each material item complies with, or exceeds, the specified requirements.
@@ -96,11 +96,13 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Cast-in-Place', 'C
    1. Norton Company "Alundum CF".
    1. JOINT SEALING
    1. Comply with Section 321373, Site Joint Sealants.
-   1. EXECUTION
+
+## Execution
+
    1. INSPECTION
    1. Examine subgrade upon which concrete work is to be placed for improper grade, poor compaction, or other conditions which will adversely affect execution or quality of the work.
    1. Do not place concrete until conditions are satisfactory.
-   1. PREPARATION
+1. PREPARATION
    1. Forms
    1. Use forms which are free from warp and substantial enough to maintain their shape and position without springing or settlement when the concrete is placed and mechanically vibrated. Stake, brace and/or securely tie forms. Use new forms or used forms which are clean and approved by the Architect. Construct formwork so that concrete structures are of correct size, shape, alignment, elevation and position.
    1. Tightly and evenly butt forms or liner joints. Rework the damaged edges of reused high-density overlay plywood form liners as required to maintain tight joints. Severely damaged liners will be rejected.
@@ -185,5 +187,5 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Cast-in-Place', 'C
    1. Repair and patch defective areas with cement mortar immediately after removal of forms, but only when acceptable to the Architect.
    1. Cut out honeycomb, rock pockets, voids over 6 mm (1/4 inch) in any dimension, and holes left by tie rods and bolts down to solid concrete, but in no case to a depth of less than 25 mm (1 inch). Make edges of cuts perpendicular to the concrete surface. Before placing cement mortar or proprietary patching compound, thoroughly clean, dampen with water, and brush-coat the area to be patched with neat cement grout, or proprietary bonding agent.
    1. For exposed-to-view surfaces, blend white portland cement and standard portland cement so that, when dry, patching mortar will match surrounding color. Provide test areas at inconspicuous locations to verify mixture and color match before proceeding with patching. Compact mortar in place and strike off slightly higher than surrounding surface.
-   1. END OF SECTION 
+   
 

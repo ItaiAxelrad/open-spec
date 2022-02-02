@@ -7,13 +7,12 @@ subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Earthwork', 'Excavation', 'Support', 'Protection']
 ---
 
-   1. SECTION 31 50 00
+
    1. EXCAVATION SUPPORT AND PROTECTION
 
 ## General
 
 
-* 
 	1. RELATED DOCUMENTS
    1. Drawings, General and Special Provisions of the Contract, and Division 01 Specification Sections, apply to this Section.
 	1. SUMMARY
@@ -62,11 +61,7 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Excavation', 'Support', 'Protecti
 	2. During installation of excavation support and protection systems, regularly resurvey benchmarks, maintaining an accurate log of surveyed elevations and positions for comparison with original elevations and positions. Promptly notify Architect if changes in elevations or positions occur or if cracks, sags, or other damage is evident in adjacent construction.
    1. Product
 1. MATERIALS
-
-## General
-
-
-: 
+	 1. General: 
 	1. Provide materials that are either new or in serviceable condition.
 2. Structural Steel:
       1. 
@@ -80,9 +75,10 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Excavation', 'Support', 'Protecti
 5. Wood Lagging:
       1. 
 	1. Lumber, mixed hardwood, nominal rough thickness of 3 inches.
-   1. Execution
 
-* 
+## Execution
+
+
 	1. PREPARATION
    1. Protect structures, utilities, sidewalks, pavements, and other facilities from damage caused by settlement, lateral movement, undermining, washout, and other hazards that could develop during excavation support and protection system operations.
 2. Shore, support, and protect utilities encountered.

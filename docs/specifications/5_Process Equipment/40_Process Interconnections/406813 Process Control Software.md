@@ -20,13 +20,13 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Control', 'HMI', 'Software']
 	6. Owner shall supply and install the HMI equipment and develop the Graphical screens.
 	7. Contractor shall supply specific equipment/software as listed herein and coordinate data translation and general control requirements to the Owner through process meetings.
 	8. Data to be made available will represent the data requirements stated on the P&IDs as well as that data which is not on the P&ID but is listed in the Control Strategy Narrative. 
-	9. **Quality Assurance
+	9. Quality Assurance
 3. Work shall be per:
 	10. Institute of Electrical and Electronics Engineers, Inc. (IEEE):
 		1. 802.3, Information Technology - Local and Metropolitan Area Networks - Part 3: Carrier Sense Multiple Access with Collision Detection (CSMA/CD) Access Method and Physical Layer Specifications.
 			1. 802.3u: IEEE Standards for Local and Metropolitan Area Networks: Supplement to Carrier Sense Multiple Access with Collision Detection (CSMA/CD) Access Method and Physical Layer Specifications Media Access Control (MAC) Parameters, Physical Layer, Medium Attachment Units, and Repeater for 100 Mb/s Operation, Type 100BASE-T.
 			2. 802.3x: IEEE Standards for Local and Metropolitan Area Networks: Specification for 802.3 Full Duplex Operation.
-	11. **Submittals
+	11. Submittals
 4. See Specification Section 01 33 00 for requirements for the mechanics and administration of the submittal process.
 5. Shop drawings
 	12. Shop drawings shall include product technical data including:
@@ -59,7 +59,7 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Control', 'HMI', 'Software']
 		13. Environmental rating:
 			1. Operating temperature: 32 Deg F to 131 Deg F.
 			2. Humidity: 95 percent relative humidity, non-condensing.
-	14. **Software
+	14. Software
 8. Provide all software and associated programming/configuration required to meet performance requirements of the Contract Documents.
 	15. At substantial completion of the Project:
 		1. Turn current licenses for all software over to the Owner in the Owner's name and install the latest version, upgrade or service pack for all software.

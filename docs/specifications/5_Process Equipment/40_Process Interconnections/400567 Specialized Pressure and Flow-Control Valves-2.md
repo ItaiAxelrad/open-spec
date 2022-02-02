@@ -7,7 +7,7 @@ subgroup: Process Equipment
 tags: ['Process', 'Equipment', 'Interconnections', 'Specialized', 'Pressure', 'Flow-Control', 'Valves']
 ---
 
-1. SECTION 15112
+
    1. BACKFLOW PREVENTERS
 
 ## General
@@ -69,5 +69,5 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Specialized', 'Pressure', 'F
    1. Backflow assemblies shall not be hydrostatically tested as part of or in conjunction with the pipeline to which they are connected.
 1. 3.07 TESTING
    1. Backflow assemblies shall be tested and certified by a City-approved backflow tester after installation inspection by the City is complete. Required maintenance of the backflow prevention device and appurtenances and annual testing of the device shall be the owner’s responsibility.
-1. END OF SECTION
+
 

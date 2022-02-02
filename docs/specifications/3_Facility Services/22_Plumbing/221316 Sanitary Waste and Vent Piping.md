@@ -7,10 +7,6 @@ subgroup: Facility Services
 tags: ['Facility', 'Services', 'Plumbing', 'Sanitary', 'Waste', 'Vent', 'Piping']
 ---
 
-1. Copyright 2002 and 2005 by The American Institute of Architects (AIA)
-1. Exclusively published and distributed by Architectural Computer Services, Inc. (ARCOM) for the AIA
-1. Verify that Section titles referenced in this Section are correct for this Project's Specifications; Section titles may have changed.
-
 ## General
 
 1. RELATED DOCUMENTS
@@ -21,8 +17,7 @@ tags: ['Facility', 'Services', 'Plumbing', 'Sanitary', 'Waste', 'Vent', 'Piping'
    1. Pipe, tube, and fittings.
    1. Special pipe fittings.
    1. Encasement for underground metal piping.
-1. REFERENCES** 
-   1. American Society of Mechanical Engineers (ASME)
+1. REFERENCES*   1. American Society of Mechanical Engineers (ASME)
    1. B1.20.1 – Pipe Threads, General Purpose (Inch)
    1. B16.3 - Malleable Iron Threaded Fittings.
    1. B1.20.1 - Pipe Threads, General Purpose (Inch).
@@ -65,8 +60,7 @@ tags: ['Facility', 'Services', 'Plumbing', 'Sanitary', 'Waste', 'Vent', 'Piping'
       1. Polyvinyl chloride plastic.
    1. TPE:
       1. Thermoplastic elastomer.
-1. Submittals** 
-   1. See Division 22 sections of the Specifications.
+1. Submittals*   1. See Division 22 sections of the Specifications.
    1. Shop Drawings:
       1. Solvent Drainage System:
          1. Include plans, elevations, sections, and details.
@@ -78,11 +72,7 @@ tags: ['Facility', 'Services', 'Plumbing', 'Sanitary', 'Waste', 'Vent', 'Piping'
 1. PRODUCTS
 1. Piping Materials - Underground
 
-* 
-	+ 
-		- 
-			* 
-				1. Storm and sanitary sewer drainage systems - outside buildings to within 5 feet of building.
+		1. Storm and sanitary sewer drainage systems - outside buildings to within 5 feet of building.
    1. See Division 22 sections of the Specifications. 
    1. Storm and sanitary drainage systems - inside building to 5 feet outside building – 
    1. Up through NPS 10 size.
@@ -116,28 +106,15 @@ Up to NPS 4
    1. Ductile iron sewer pipe conforming to ASTM A746, Class 50 and ductile iron push-on fittings conforming to AWWA C110 with gasketed joint conforming to AWWA C111.
 1. bedding and backfill materials
 
-* 
-	+ 
-		- 
-			* 
-				1. Granular Material
+		1. Granular Material
    1. Crushed stone or pea gravel which will pass the 4-inch sieve but will be retained on the No. 4 sieve (U.S.A. Standard Series).
 
-* 
-	+ 
-		- 
-			* 
-				1. Sieves
+		1. Sieves
    1. ASTM E11.
 
-* 
-	+ 
-		- 
-			* 
-				1. Sand
+		1. Sand
    1. Natural particles of granular material which does not contain excessive amounts of clay, silt, or organic material, passing a 3/8-inch sieve. Sand found on the job site may be used if it is approved by the Architect.
-1. Piping Materials - Aboveground** 
-   1. Sanitary Drain, Plumbing Vent and Storm Drain 
+1. Piping Materials - Aboveground*   1. Sanitary Drain, Plumbing Vent and Storm Drain 
    1. Hubless, cast iron, soil pipe and cast iron fittings per ASTM A888. Provide standard duty coupling shields of 36 gage type 301/304 stainless steel, in conformance with ASTM C1277, and incorporating a neoprene gasket in accordance with ASTM C564, with sealing rings positioned under each stainless steel, worm gear clamp. Provide two clamps on pipe up to NPS 4 and four bands on piping NPS 5 through NPS 10. 
    1. Hubless, cast iron soil pipe and cast iron fittings per ASTM A888. Provide medium duty, type 304 stainless steel, extra wide coupling shields, in conformance with ASTM C1173 and FM 1680, 3-inch wide through NPS 4 and 4-inch wide NPS 5 through NPS 10.
    1. Provide shields with type 304 stainless steel, 5/16-inch socket drive, worm gear drive, clamps, tightened to a minimum of 80 inch pounds according to the following schedule:
@@ -222,8 +199,7 @@ Up to NPS 4
    1. Provide sand backfill mechanically compacted in 6-inch lifts to 95 percent of maximum density as determined by ASTM D1557, for all piping inside the building. 
    1. Pipes Through Grade Beams 
    1. Provide pipes and tubing passing through or under building grade beams with a schedule 40 pipe sleeve with 4-inch clearance to prevent possible damage from building settlement. 
-1. Aboveground Piping Installation** 
-
+1. Aboveground Piping Installation*
 ## General
 
 
@@ -254,8 +230,7 @@ Up to NPS 4
    1. Sleeves are not required for cast-iron soil piping passing through concrete slabs-on-grade if slab is without membrane waterproofing.
    1. Drains 
    1. Pipe drains from items such as boilers, water relief valves, tanks, cooling coil drain pans, air vents, environmental rooms evaporator condensate drain pans, and drip-pan elbows, to the nearest floor drain. 
-1. Pipe Jointing** 
-   1. Mechanical Joint Cast Iron Pipe 
+1. Pipe Jointing*   1. Mechanical Joint Cast Iron Pipe 
    1. Assemble mechanical joint cast iron pipe with a gasket suitable for the service, according to the manufacturer's recommendations. 
    1. Cast Iron Hub and Spigot Pipe 
    1. Spigot ends shall be less beads and pre-marked to assure proper joint connection by visual inspection. Bells shall be modified to receive rubber gaskets conforming to ASTM C564 gaskets for Type II pipe. 
@@ -297,6 +272,5 @@ Up to NPS 4
    1. Use only those thread compounds that are compatible with the liquid or gas being carried in the pipe and that are resistant to the action of the liquid or gas or to any other chemical constituents of the carried liquid or gas.
    1. Misalignment Couplings 
    1. Provide misalignment couplings in the suction and discharge piping of end and double suction pumps. Misalignment couplings shall be "dresser" couplings consisting of a four-diameter length of pipe between connections. 
-1. END OF SECTION 221316
 1. (THIS PAGE INTENTIONALLY BLANK)
 

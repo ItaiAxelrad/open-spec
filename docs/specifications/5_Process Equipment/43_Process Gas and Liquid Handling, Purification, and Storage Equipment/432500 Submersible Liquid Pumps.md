@@ -7,7 +7,7 @@ subgroup: Process Equipment
 tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Storage', 'Submersible', 'Pumps']
 ---
 
-   1. SECTION 43 25 00
+
    1. Submersible/Immersible Liquid Pumps
 
 ## General
@@ -61,12 +61,10 @@ tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Sto
 		2. The Contractor may furnish and install equipment of a manufacturer whose products have not been in similar services at 10 installations for five years, provided the equipment manufacturer
    1. submits a bond, or deposits a sum equal to the installed price of the equipment, for a period of five (5) years.
 
-* 
 	1. WARRANTY
 		1. Special Warranty: Manufacturer shall warrant that the work described here shall be free from defects in workmanship and material for a period of one (1) year from the date of acceptance. Any faulty workmanship or defective material furnished that is found within the warranty period shall be corrected without cost to Owner.
    1. Product
 
-* 
 	1. MANUFACTURERS
 		1. Available Manufacturers: Subject to compliance with requirements, manufacturers offering products that may be incorporated into the Work include, but are not limited to, the following:
 			1. ITT Flygt
@@ -90,8 +88,6 @@ tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Sto
 		3. The power cable shall be sized according to the NEC and ICEA standards and shall be of sufficient length to reach the junction box without the need of any splices. The outer jacket of
    1. the cable shall be oil resistant chloroprene. The motor and cable shall be capable of continuous submergence underwater without loss of watertight integrity to a minimum depth of 65 feet.
 
-* 
-	+ 
 		1. The motor horsepower shall be adequate so that the pump is non-overloading throughout the entire pump performance curve from shut-off through run-out.
 	1. BEARINGS
 		1. The pump shaft shall rotate on two bearings. Motor bearings shall be permanently grease lubricated. The upper bearing shall be a two row angular contact ball bearing (a single roller bearing for scum pumps and sump pumps). The lower bearing shall be a two row angular contact bearing to compensate for axial thrust and radial forces. Single row lower bearings (except for sump pumps) will not be acceptable. The minimum L10 bearing life shall be 50,000 hours at any usable portion of the pump curve.
@@ -127,15 +123,12 @@ tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Sto
 		1. Controls Equipment Description
    1. The Influent Pumps control system is a PLC-based system. The PLC is provided by the Influent Pump equipment manufacturer. Other equipment provided by others is also monitored and/or controlled by this control system as listed in paragraphs C and D below. The Influent Pump equipment manufacturer shall provide controls equipment as described below.
 
-* 
-	+ 
-		- 
 			1. PLC Control Panel
-				1. Construct the PLC Control Panel per the requirements of Section 409513 Control Panels.
-				2. The PLC Control panel will be located indoors in the headworks building electrical room. This is considered to be an environment-controlled location.
-				3. The control system PLC shall be housed in the PLC Control Panel
-				4. The “MiniCas” or approved equal controller shall be housed in the PLC Control Panel.
-				5. Include in the PLC Control Panel operator switches and indicator lights as listed below and as illustrated on the P&IDs.
+			1. Construct the PLC Control Panel per the requirements of Section 409513 Control Panels.
+			2. The PLC Control panel will be located indoors in the headworks building electrical room. This is considered to be an environment-controlled location.
+			3. The control system PLC shall be housed in the PLC Control Panel
+			4. The “MiniCas” or approved equal controller shall be housed in the PLC Control Panel.
+			5. Include in the PLC Control Panel operator switches and indicator lights as listed below and as illustrated on the P&IDs.
 1. CP-INFPLC-2A
    1. Amount
    1. Function
@@ -194,13 +187,10 @@ tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Sto
    1. E-stops
    1. Mounted near each of the Influent pumps (not on the control panel).
 
-* 
-	+ 
-		- 
 			1. Instrument Control Panels
-				1. Provide one (1) Instrument Panel, one (1) Instrument Panel for Influent Analyzer Equipment (IP-INFELEC).
-				2. Construct the Instrument Control Panels per the requirements of Section 409513 Control Panels.
-				3. Include in the Influent Instrument Panel operator switches, equipment, and indicator lights as listed below and as illustrated on the P&IDs.
+			1. Provide one (1) Instrument Panel, one (1) Instrument Panel for Influent Analyzer Equipment (IP-INFELEC).
+			2. Construct the Instrument Control Panels per the requirements of Section 409513 Control Panels.
+			3. Include in the Influent Instrument Panel operator switches, equipment, and indicator lights as listed below and as illustrated on the P&IDs.
 1. IP-INFELEC
    1. Amount
    1. Function
@@ -216,8 +206,6 @@ tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Sto
 
 (1) Total Flow Indicator
 
-* 
-	+ 
 		1. Programming Requirements:
 			1. Programming of the Influent Pumps PLC is the responsibility of the Influent Pumps equipment manufacturer.
 			2. The Influent Pumps equipment manufacturer must coordinate with the Systems Integrator during programming development, equipment fabrication, pre-commissioning testing, and startup to deliver an approved working system.
@@ -231,15 +219,12 @@ tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Sto
 			10. The graphical OI will provide alarm and alarm acknowledge function descriptions as described in Section 409423 Supervisory Control System. The PLC provided by the
    1. Influent Pumps equipment manufacturer shall provide alarm outputs as shown on the P&IDs and as listed in Section 409423 Supervisory Control System.
 
-* 
-	+ 
-		- 
 			1. The graphical OI will provide for the remote input of set points into the PLC from the graphical OI. The Influent Pumps equipment manufacturer shall provide for Inputs from the graphical OI for all Operator Adjustable set points in the PLC. The Set Points screen in the graphical OI is described in Section 409423 Supervisory Control System. Set points include–but are not limited to–analytical values, levels, timers, and flows.
 			2. The software tagging convention for control devices is described in Section 409423 Supervisory Control System and shall be followed explicitly by the Influent Pumps equipment manufacturer in setting up and programming the PLC unless specifically approved in writing by the Systems Integrator and the Engineer.
 			3. Special Alarms/Functions
-				1. The PLC provided by the Influent Pumps manufacturer shall continuously monitor the status of each piece of equipment and continuously compare that status to the current command for that equipment (either a PLC generated command or an operator command from the OI). If the equipment status does not agree with the PLC command (e.g. a pump commanded to run is not running or a valve commanded to close is not closed) the PLC shall generate a “Fault Logic Disagreement” alarm. This alarm shall be communicated to the OI.
-				2. For gates or valves, the “Fault Logic Disagreement” alarm shall be delayed for 120 seconds after a change in status to allow valves to fully open or close. For pumps, the “Fault Logic Disagreement” alarm shall be delayed for 10 seconds after a change in status to allow pumps to start or stop.
-				3. The PLC will input two wet well levels. Both will be transmitted and displayed at the OI. The operator will select (from the OI) which will be used in the control of the pumps. If, however, the levels disagree by more than 10% the PLC will generate a “Levels Disagree” alarm. The operator will need to decide whether to continue with the current transmitter or switch (from the OI) based on field observations.
+			1. The PLC provided by the Influent Pumps manufacturer shall continuously monitor the status of each piece of equipment and continuously compare that status to the current command for that equipment (either a PLC generated command or an operator command from the OI). If the equipment status does not agree with the PLC command (e.g. a pump commanded to run is not running or a valve commanded to close is not closed) the PLC shall generate a “Fault Logic Disagreement” alarm. This alarm shall be communicated to the OI.
+			2. For gates or valves, the “Fault Logic Disagreement” alarm shall be delayed for 120 seconds after a change in status to allow valves to fully open or close. For pumps, the “Fault Logic Disagreement” alarm shall be delayed for 10 seconds after a change in status to allow pumps to start or stop.
+			3. The PLC will input two wet well levels. Both will be transmitted and displayed at the OI. The operator will select (from the OI) which will be used in the control of the pumps. If, however, the levels disagree by more than 10% the PLC will generate a “Levels Disagree” alarm. The operator will need to decide whether to continue with the current transmitter or switch (from the OI) based on field observations.
 		1. Instrumentation
 			1. The Influent Pumps PLC shall monitor the following instruments:
       1. Tag No.
@@ -292,9 +277,6 @@ tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Sto
    1. Contractor
    1. Contractor
 
-* 
-	+ 
-		- 
 			1. The Influent Pumps manufacturer shall provide instruments as listed in the table above. Instruments are specified in Section 409100 Instrumentation. Where instruments are not specified in Section 409100 Instrumentation, the Influent Pumps equipment manufacturer shall provide their standard instruments.
 		1. PLC Controls Scope
 			1. The PLC shall control the following equipment:
@@ -335,26 +317,21 @@ tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Sto
    1. Sub. Pumps Mfr
    1. Contractor
 
-* 
-	+ 
 		1. Functional Description
    1. The following is a general description of the equipment functions. Complete and detailed functions and logic are to be provided by the Influent Pumps equipment manufacturer. All process set points shall be operator adjustable from the OI. The Influent Pumps manufacturer shall provide initial factory settings of set points based on the specific conditions of this project or “typical” settings if specifics do not apply.
 
-* 
-	+ 
-		- 
 			1. Operating Modes
-				1. In this description, hardware functions, such as field hand switches, are referred to as “hard” (e.g. hard switch); software functions performed at the OI are referred to as “soft” (e.g. soft switch). Regardless of the mode of operation (described below) process indications will remain active (these may include valve position, motor on or off, VFD speed, process flow measurements, etc) and hard wired alarms and safeties (such as motor overloads or high temperature, etc) will be active and reported by the PLC.
-				2. HAND OPERATION (Hard Switch): When the HAND position is selected at the hard switch, the associated equipment shall run and the system controls shall not control the device.
-				3. LOCAL OPERATION (Hard Switch): When the LOCAL position is selected at the hard switch, the equipment is controlled locally by hard switches, which may include on-off, open-close, etc. and the system controls shall not control the equipment.
-				4. OFF POSITION (Hard Switch): When the OFF position is selected at the hard switch, the associated equipment shall stop and the system controls shall not control the device.
-				5. AUTO OPERATION (Hard Switch): When the AUTO position is selected at the hard switch, the equipment shall be controlled automatically by the controls system.
-				6. REMOTE OPERATION (Hard Switch): When the REMOTE position is selected at the hard switch the equipment will be controlled automatically by the controls system.
-				7. AUTO OPERATION (Soft Switch): When the AUTO position is selected at the OI soft switch, the system automatic controls (logic) are enabled and the manual soft switches are disabled (these may include on-off, open close, etc).
-				8. MANUAL OPERATION (Soft Switch): When the MANUAL position is selected at the OI soft switch, the manual soft controls are enabled (these may include on-off, open close, etc) and the system automatic controls (logic) are disabled
-				9. EMERGENCY STOP (Hard Switch): Equipment can be deactivated at any time by pressing the EMERGENCY STOP push button (where present). The EMERGENCY STOP pushbutton overrides all other controls including remote or automatic controls and the hard HOA switch. EMERGENCY STOP pushbuttons shall be hardwired into the motor starting control circuitry, as shown on the schematics found in the Electrical drawings. For equipment where schematics have not been provided on the contract drawings, integration of hardwire EMERGENCY STOP control shall be included. EMERGENCY STOP push buttons must be manually reset to allow the equipment to run.
+			1. In this description, hardware functions, such as field hand switches, are referred to as “hard” (e.g. hard switch); software functions performed at the OI are referred to as “soft” (e.g. soft switch). Regardless of the mode of operation (described below) process indications will remain active (these may include valve position, motor on or off, VFD speed, process flow measurements, etc) and hard wired alarms and safeties (such as motor overloads or high temperature, etc) will be active and reported by the PLC.
+			2. HAND OPERATION (Hard Switch): When the HAND position is selected at the hard switch, the associated equipment shall run and the system controls shall not control the device.
+			3. LOCAL OPERATION (Hard Switch): When the LOCAL position is selected at the hard switch, the equipment is controlled locally by hard switches, which may include on-off, open-close, etc. and the system controls shall not control the equipment.
+			4. OFF POSITION (Hard Switch): When the OFF position is selected at the hard switch, the associated equipment shall stop and the system controls shall not control the device.
+			5. AUTO OPERATION (Hard Switch): When the AUTO position is selected at the hard switch, the equipment shall be controlled automatically by the controls system.
+			6. REMOTE OPERATION (Hard Switch): When the REMOTE position is selected at the hard switch the equipment will be controlled automatically by the controls system.
+			7. AUTO OPERATION (Soft Switch): When the AUTO position is selected at the OI soft switch, the system automatic controls (logic) are enabled and the manual soft switches are disabled (these may include on-off, open close, etc).
+			8. MANUAL OPERATION (Soft Switch): When the MANUAL position is selected at the OI soft switch, the manual soft controls are enabled (these may include on-off, open close, etc) and the system automatic controls (logic) are disabled
+			9. EMERGENCY STOP (Hard Switch): Equipment can be deactivated at any time by pressing the EMERGENCY STOP push button (where present). The EMERGENCY STOP pushbutton overrides all other controls including remote or automatic controls and the hard HOA switch. EMERGENCY STOP pushbuttons shall be hardwired into the motor starting control circuitry, as shown on the schematics found in the Electrical drawings. For equipment where schematics have not been provided on the contract drawings, integration of hardwire EMERGENCY STOP control shall be included. EMERGENCY STOP push buttons must be manually reset to allow the equipment to run.
 			2. AUTOMATIC OPERATION (AUTO or REMOTE mode selected)
-				1. Rising Level
+			1. Rising Level
    1. El 1137.00 Pump 1 starts (Variable Speed)
    1. El 1138.00 Pump 2 starts (Variable Speed)
    1. El 1139.00 Pump 3 starts (Variable Speed)
@@ -367,11 +344,7 @@ tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Sto
       1. The 8th pump is an installed spare and is never turned on.
    1. The VFD controlled pumps are modulated by the PLC per an algorithm provided by the Submersible Pump manufacturer to provide for smooth flow transitions and to maximize the efficiency of the VFD operations.
 
-* 
-	+ 
-		- 
-			* 
-				1. Falling Level – The pumps are stopped using First On-First Off (FOFO) logic; the block of constant pumps first, followed by the variable-speed pumps.
+		1. Falling Level – The pumps are stopped using First On-First Off (FOFO) logic; the block of constant pumps first, followed by the variable-speed pumps.
    1. El 1141.00 Pump 4 stops (Constant Speed)
    1. El 1140.50 Pump 5 stops (Constant Speed)
    1. El 1140.00 Pump 6 stops (Constant Speed)
@@ -381,11 +354,7 @@ tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Sto
    1. El 1135.50 Pump 3 stops (Variable Speed)
    1. The VFD controlled pumps are modulated by the PLC per an algorithm provided by the Submersible Pump manufacturer to provide for smooth flow transitions and to maximize the efficiency of the VFD operations.
 
-* 
-	+ 
-		- 
-			* 
-				1. The PLC will provide for additional functions with operator adjustable parameters. All operator-adjustable parameters shall be adjustable through the system OI:
+		1. The PLC will provide for additional functions with operator adjustable parameters. All operator-adjustable parameters shall be adjustable through the system OI:
       1. Level set points
    1. Maximum time off for any pump
    1. Maximum pump starts per hour (per pump)
@@ -393,22 +362,18 @@ tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Sto
    1. Maximum run time for any pump
    1. Well clean out (periodic pump down to off point)
 
-* 
 	1. INSTRUMENTATION AND CONTROLS – SUMP PUMPS
 		1. Controls Equipment Description
    1. The Sump Pump control systems are relay logic-based systems. The relay logic and the motor starters are provided by the Sump Pump equipment manufacturer. The Sump Pump equipment manufacturer shall provide controls equipment as described below.
 
-* 
-	+ 
-		- 
 			1. Full Voltage Non-Reversing Combination Motor Starters (FVNR)
-				1. The FVNR shall meet the requirements of Section 262923 - Motor Controllers
+			1. The FVNR shall meet the requirements of Section 262923 - Motor Controllers
 			2. Local Control Panel
-				1. Provide two (2) Local Control Panels. One for the sludge pumping station sump pumps and one for the service water pumping station sump pumps.
-				2. Construct the Local Control Panels per the requirements of Section 409513 Control Panels.
-				3. The Local Control panels will be located indoors near the Sumps. This is considered to be a wet / process location.
-				4. The control system relay logic shall be housed in the Local Control Panels.
-				5. Include in each Local Control Panel operator switches and indicator lights as listed below and as illustrated on the P&IDs.
+			1. Provide two (2) Local Control Panels. One for the sludge pumping station sump pumps and one for the service water pumping station sump pumps.
+			2. Construct the Local Control Panels per the requirements of Section 409513 Control Panels.
+			3. The Local Control panels will be located indoors near the Sumps. This is considered to be a wet / process location.
+			4. The control system relay logic shall be housed in the Local Control Panels.
+			5. Include in each Local Control Panel operator switches and indicator lights as listed below and as illustrated on the P&IDs.
 1. LCP-PMP110-A/B & LCP-PMP111-A/B
    1. Amount
    1. Function
@@ -435,12 +400,9 @@ tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Sto
 
 (1) Sump Pump No. 2 Run Time
 
-* 
-	+ 
-		- 
 			1. Motor Controller Enclosures
-				1. Provide separate enclosures to house the Motor Controllers. These enclosures will be located indoors near the Sumps. This is considered to be a wet/process location.
-				2. Construct the Motor Controller enclosures per Section 262913 - Enclosed Controllers.
+			1. Provide separate enclosures to house the Motor Controllers. These enclosures will be located indoors near the Sumps. This is considered to be a wet/process location.
+			2. Construct the Motor Controller enclosures per Section 262913 - Enclosed Controllers.
 		1. Programming Requirements:
 			1. Programming of the Sump Pumps relay logic is the responsibility of the Sump Pumps equipment manufacturer.
 			2. The Sump Pumps equipment manufacturer must coordinate with the Systems Integrator during programming development, equipment fabrication, pre-commissioning testing, and startup to deliver an approved working system.
@@ -469,9 +431,6 @@ tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Sto
    1. Pump Mfr.
    1. Contractor
 
-* 
-	+ 
-		- 
 			1. The Service Water Pumping Station Sump Pumps system controls shall monitor the following instruments:
       1. LSLL PMP 111
    1. Sump (Low-Low)
@@ -490,9 +449,6 @@ tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Sto
    1. Pump Mfr.
    1. Contractor
 
-* 
-	+ 
-		- 
 			1. The Sump Pumps manufacturer shall provide instruments as listed in the table above. Instruments are specified in Section 409100 Instrumentation. Where instruments are not specified in Section 409100 Instrumentation, the Sump Pumps equipment manufacturer shall provide his standard instruments.
 		1. Controls Scope
 			1. The Sludge Pumping Station Sump Pump controls shall control the following equipment:
@@ -509,9 +465,6 @@ tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Sto
    1. Pump Mfr.
    1. Contractor
 
-* 
-	+ 
-		- 
 			1. The Service Water Pumping Station Sump Pump controls shall control the following equipment:
       1. Tag No.
    1. Description
@@ -526,38 +479,30 @@ tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Sto
    1. Pump Mfr.
    1. Contractor
 
-* 
-	+ 
 		1. Functional Description
    1. The following is a general description of the equipment functions. Complete and detailed functions and logic are to be provided by the Sump Pumps equipment manufacturer.
 
-* 
-	+ 
-		- 
 			1. Operating Modes
    1. In this description, hardware functions, such as field hand switches, are referred to as “hard” (e.g. hard switch); software functions performed at the OI are referred to as “soft” (e.g. soft switch). Regardless of the mode of operation (described below) process indications will remain active (these may include valve position, motor on or off, VFD speed, process flow measurements, etc) and hard wired alarms and safeties (such as motor overloads or high temperature, etc) will be active and reported by the PLC.
 
-* 
-	+ 
-		- 
-			* 
-				1. HAND OPERATION (Hard Switch): When the HAND position is selected at the hard switch, the associated equipment shall run and the system controls shall not control the device.
-				2. LOCAL OPERATION (Hard Switch): When the LOCAL position is selected at the hard switch, the equipment is controlled locally by hard switches, which may include on-off, open-close, etc. and the system controls shall not control the equipment.
-				3. OFF POSITION (Hard Switch): When the OFF position is selected at the hard switch, the associated equipment shall stop and the system controls shall not control the device.
-				4. AUTO OPERATION (Hard Switch): When the AUTO position is selected at the hard switch, the equipment shall be controlled automatically by the controls system.
-				5. REMOTE OPERATION (Hard Switch): When the REMOTE position is selected at the hard switch the equipment will be controlled automatically by the controls system.
-				6. AUTO OPERATION (Soft Switch): When the AUTO position is selected at the OI soft switch, the system automatic controls (logic) are enabled and the manual soft switches are disabled (these may include on-off, open close, etc).
-				7. MANUAL OPERATION (Soft Switch): When the MANUAL position is selected at the OI soft switch, the manual soft controls are enabled (these may include on- off, open close, etc) and the system automatic controls (logic) are disabled
-				8. EMERGENCY STOP (Hard Switch): Equipment can be deactivated at any time by pressing the EMERGENCY STOP push button (where present). The EMERGENCY STOP pushbutton overrides all other controls including remote or automatic controls and the hard HOA switch. EMERGENCY STOP pushbuttons shall be hardwired into the motor starting control circuitry, as shown on the schematics found in the Electrical drawings. For equipment where schematics have not been provided on the contract drawings, integration of hardwire EMERGENCY STOP control shall be included. EMERGENCY STOP push buttons must be manually reset to allow the equipment to run.
+		1. HAND OPERATION (Hard Switch): When the HAND position is selected at the hard switch, the associated equipment shall run and the system controls shall not control the device.
+			2. LOCAL OPERATION (Hard Switch): When the LOCAL position is selected at the hard switch, the equipment is controlled locally by hard switches, which may include on-off, open-close, etc. and the system controls shall not control the equipment.
+			3. OFF POSITION (Hard Switch): When the OFF position is selected at the hard switch, the associated equipment shall stop and the system controls shall not control the device.
+			4. AUTO OPERATION (Hard Switch): When the AUTO position is selected at the hard switch, the equipment shall be controlled automatically by the controls system.
+			5. REMOTE OPERATION (Hard Switch): When the REMOTE position is selected at the hard switch the equipment will be controlled automatically by the controls system.
+			6. AUTO OPERATION (Soft Switch): When the AUTO position is selected at the OI soft switch, the system automatic controls (logic) are enabled and the manual soft switches are disabled (these may include on-off, open close, etc).
+			7. MANUAL OPERATION (Soft Switch): When the MANUAL position is selected at the OI soft switch, the manual soft controls are enabled (these may include on- off, open close, etc) and the system automatic controls (logic) are disabled
+			8. EMERGENCY STOP (Hard Switch): Equipment can be deactivated at any time by pressing the EMERGENCY STOP push button (where present). The EMERGENCY STOP pushbutton overrides all other controls including remote or automatic controls and the hard HOA switch. EMERGENCY STOP pushbuttons shall be hardwired into the motor starting control circuitry, as shown on the schematics found in the Electrical drawings. For equipment where schematics have not been provided on the contract drawings, integration of hardwire EMERGENCY STOP control shall be included. EMERGENCY STOP push buttons must be manually reset to allow the equipment to run.
 			1. AUTOMATIC OPERATION (AUTO or REMOTE mode selected)
-				1. The controls shall operate the pumps in a lead-lag operation (the lead pump switching to the lag pump after the “all pumps stop” (low-low) action.
-				2. LOW-LOW: On falling level, this stops all pumps. It has no affect on rising level.
-				3. LOW: On rising level, this starts the LEAD pump. There is no affect on falling level.
-				4. HIGH: On rising level, this starts the LAG pump while maintaining the LEAD pump running. There is no affect on falling level.
-				5. HIGH-HIGH: On rising level, this activates the HIGH-HIGH alarm. On falling level, this clears the HIGH-HIGH alarm.
-   1. Execution
+			1. The controls shall operate the pumps in a lead-lag operation (the lead pump switching to the lag pump after the “all pumps stop” (low-low) action.
+			2. LOW-LOW: On falling level, this stops all pumps. It has no affect on rising level.
+			3. LOW: On rising level, this starts the LEAD pump. There is no affect on falling level.
+			4. HIGH: On rising level, this starts the LAG pump while maintaining the LEAD pump running. There is no affect on falling level.
+			5. HIGH-HIGH: On rising level, this activates the HIGH-HIGH alarm. On falling level, this clears the HIGH-HIGH alarm.
 
-* 
+## Execution
+
+
 	1. EXAMINATION
 		1. Examine areas for compliance with manufacturer’s requirements for installation tolerances, pads, and other conditions necessary for proper operation.
 		2. Do not proceed until unsatisfactory conditions have been corrected.
@@ -570,7 +515,6 @@ tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Sto
 		1. The equipment manufacturer shall provide the services of a field representative for a total of five trips and a total of not more than five working days for the purpose of instructing and
    1. assisting the Contractor and the Owner's personnel in the start-up and proper operation of the equipment.
 
-* 
 	1. PUMP SCHEDULE
 		1. Influent Pumps
    1. Number of pumps:
@@ -588,8 +532,6 @@ tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Sto
    1. Basis of Design:
       1. ITT Flygt model NP3202.180/342mm
 
-* 
-	+ 
 		1. Future Replacement Pumps: The discharge elbow and guide rails of the influent pumps shall be such that the pumps can be replaced in the future without replacing the discharge elbows and guide rails. The future pump design operating point is 3,970 gpm at 44 ft TDH.
 		2. Sump Pumps at Sludge Pumping Station Number of pumps: 2
    1. Design operating point:
@@ -605,8 +547,6 @@ tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Sto
    1. Basis of Design:
       1. ITT Flygt model C-3045.180/74mm
 
-* 
-	+ 
 		1. Sump Pumps at Service Water Pumping Station Number of pumps: 2
    1. Design operating point:
       1. 75 gpm  10 ft
@@ -620,5 +560,4 @@ tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Sto
       1. 460 VAC, 3 phase, 60 Hz
    1. Basis of Design:
       1. ITT Flygt model C-3045.180/74mm
-   1. END OF SECTION 446051
-
+   

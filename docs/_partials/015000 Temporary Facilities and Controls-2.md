@@ -151,5 +151,5 @@ tags: ['General', 'Requirements', 'Temporary', 'Facilities', 'Controls']
    1. Exercise precaution for the protection of glass, both existing and glass installed under the Contract. Until the building is occupied and accepted by Owner, be responsible for the replacement of broken, scratched, or otherwise damaged glass with like material.
    1. Glass Cleaning
    1. Immediately before turning completed Work over to the Owner, have both sides of installed interior and exterior glass cleaned by professional window washers, except for glass cleaning as specified in a particular trade Section.
-1. END OF SECTION
+
 

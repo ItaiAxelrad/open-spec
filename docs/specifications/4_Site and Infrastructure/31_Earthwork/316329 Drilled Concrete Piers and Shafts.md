@@ -49,7 +49,9 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Drilled', 'Concrete', 'Piers', 'S
    1. SITE CONDITIONS
    1. Examine the site and become familiar with geological formation in the area of this project to ascertain the state and conditions under which the Work is to be done.
    1. Should the data contained in the Project Soils Report not be adequate for the contractor’s purposes, additional test borings and other exploratory operation may be performed at his own expense with the approval of the Architect and the Owner.
-   1. PRODUCTS
+
+## Products
+
    1. Materials
    1. Steel Casings
    1. ASTM A283/A283M, Grade C, or ASTM A36/A36M.
@@ -59,7 +61,9 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Drilled', 'Concrete', 'Piers', 'S
    1. Concrete
    1. Provide concrete with material properties as defined on the drawings.
    1. Provide a flowable, non-segregating concrete that does not exhibit rapid slump loss. Provide concrete with a retarder to prevent arching of concrete when casing is withdrawn.
-   1. EXECUTION
+
+## Execution
+
    1. preparation
    1. Layout of the Work
    1. Employ a registered surveyor to perform surveys, layout and measurements for drilled piers. Establish lines and levels for the drilled pier Work before excavation and record actual measurements of each drilled pier’s location, shaft diameter, bottom and top elevations and other pertinent data.
@@ -114,6 +118,6 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Drilled', 'Concrete', 'Piers', 'S
    1. To facilitate the specified tests, notify all concerned, at least 6 hours prior to the time excavation is ready for inspection. Consequences of and costs arising from delays incurred through lack of notification are the responsibility of the Contractor.
    1. Cleaning
    1. Upon completion of the Work, remove tools, equipment and rubbish resulting from the construction.
-   1. END OF SECTION
-   1. THIS PAGE INTENTIONALLY BLANK 
+   
+    
 

@@ -7,7 +7,7 @@ subgroup: Process Equipment
 tags: ['Process', 'Equipment', 'Interconnections', 'Piping', 'Insulation']
 ---
 
-   1. SECTION 33 07 00
+
 1. UTILITY INSULATION
 1. BASED ON DFD MASTER SPECIFICATION DATED 2/24/2014
 1. *This section has been written to cover most (but not all) situations that you will encounter. Depending on the requirements of your specific project, you may have to add material, delete items, or modify what is currently written. The Division of Facilities Development expects changes and comments from you.*
@@ -29,7 +29,9 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Piping', 'Insulation']
     1. Materials
     1. Insulation 
     1. Accessories
-   1. Execution
+
+## Execution
+
     1. Installation
     1. Piping, Valve and Fitting Insulation
     1. Construction Verification Items
@@ -83,8 +85,7 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Piping', 'Insulation']
 1. MATERIALS
    1. Materials or accessories containing asbestos will not be accepted.
    1. Use composite insulation systems (insulation, jackets, sealants, mastics, and adhesives) that have a flame spread rating of 25 or less and smoke developed rating of 150 or less.
-1. INSULATION** 
-   1. Manufacturers:
+1. INSULATION*   1. Manufacturers:
       1. Armacell, Certainteed, Manson, Childers, Dow, Extol, Fibrex, Halstead, H.B. Fuller, Imcoa, Johns Manville, Knauf, Owens-Corning, Partek, Pittsburgh Corning, Rubatex or approved equal.
    1. Insulating materials shall be fire retardant, moisture and mildew resistant, and vermin proof. Insulation shall be suitable to receive jackets, adhesives and coatings as indicated.
    1. FLEXIBLE FIBERGLASS INSULATION:
@@ -121,10 +122,10 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Piping', 'Insulation']
    1. MINERAL WOOL INSULATION:
       1. Rigid preformed mineral fiber, minimum nominal density of 8 lbs. per cu. ft., thermal conductivity of not more than 0.29 at 200 degrees F, minimum compressive strength of 3 psi, maximum wicking of 1%, maximum water adsorption of 1% by volume, rated for service of -120 degrees F to 1200 degrees F.
    1. INSULATION JACKET OR PROTECTIVE COVERING:
-      1. See associated underground utility piping specification. ***Reference section.*
+      1. See associated underground utility piping specification. *Reference section.*
 1. Make sure that the utility piping specification, e.g., chilled water, steam/condensate or hot water, adequately covers this underground piping insulation/and piping covering and corrosion protection requirements .
    1. INSULATION INSERTS AND PIPE SHIELDS:
-      1. As specified in the associated underground utility piping specification. ***Reference section.*
+      1. As specified in the associated underground utility piping specification. *Reference section.*
 1. *Again, make sure that insulation protection, e.g., saddles, high density insulation blocks, ect.., are adequately covered in the underground piping specifications.***.
 1. ACCESSORIES
    1. All products shall be compatible with surfaces and materials on which they are applied, and be suitable for use at operating temperatures of the systems to which they are applied.
@@ -142,10 +143,7 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Piping', 'Insulation']
    1. Install insulation with smooth and even surfaces. Poorly fitted joints or use of filler in voids will not be accepted. Provide neatly beveled and coated terminations at all nameplates, uninsulated fittings, or at other locations where insulation terminates. 
    1. Use full length material (as delivered from manufacturer) wherever possible. Scrap piecing of insulation or pieces cut undersize and stretched to fit will not be accepted. 
 1. PIPING, VALVE, AND FITTING INSULATION
-
-## General
-
-:
+	1. General:
       1. Install insulation with butt joints and longitudinal seams closed tightly. Secure with staples along seams and butt joints. 
    1. Install insulation continuous through supports on the exterior of insulation. 
    1. Insulation Inserts and Pipe Shields:
@@ -158,9 +156,8 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Piping', 'Insulation']
       1. Where practical, slip insulation on piping during pipe installation when pipe ends are open. Miter cut fittings allowing sufficient length to prevent stretching. Completely seal seams and joints for vapor tight installation. For elastomeric insulation, apply full bed of adhesive to both surfaces. For polyeolefin, seal factory preglued seams with roller and field seams and joints with full bed of hot melt polyolefin glue to both surfaces. Cover elastomeric insulation on systems operating below 40 degrees F with vapor barrier mastic.
    1. EXTRUDED POLYSTYRENE AND POLYISOCYANURATE:
       1. Secure insulation sections with two wraps of nylon filament tape 9”-12” on center. On single insulation layer systems and on the outer layer of double insulation layer systems, apply a thin coat of elastomeric joint sealant rated for system operating temperatures to all longitudinal and butt insulation joints covering entire face of joint. Allow sealant to fully cure before applying protective covering. Fill voids in factory molded or built-up valve and fitting insulation with foamed in place urethane insulation. Apply vapor stop bead of joint sealant between pipe and insulation on both sides of valves, expansion/contraction joints, flanges, and attached vent and drain lines. 
-1. *Protective jackets are required for exterior installations and where insulation is subject to physical abuse.*** 
-   1. Protective Jackets:
-      1. See associated underground utility piping specification. ***Reference section.*
+1. *Protective jackets are required for exterior installations and where insulation is subject to physical abuse.**   1. Protective Jackets:
+      1. See associated underground utility piping specification. *Reference section.*
 1. Make sure that the utility piping specification, e.g., chilled water, steam/condensate or hot water, adequately covers this underground piping insulation/and piping covering and corrosion protection requirements .
    1. Pipe Insulation Schedule:
       1. Provide insulation on new and existing remodeled piping as indicated in the following schedule:
@@ -197,5 +194,5 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Piping', 'Insulation']
 4. Direct buried ductile iron piping.
    1. CONSTRUCTION VERIFICATION ITEMS
    1. Contractor is responsible for utilizing the construction verification checklists supplied under specification Section 01 91 01 or 01 91 02 in accordance with the procedures defined for construction verification checklists.
-   1. END OF SECTION
+   
 

@@ -7,9 +7,6 @@ subgroup: General Requirements
 tags: ['General', 'Requirements', 'Price', 'Payment', 'Procedures']
 ---
 
-   1. Section 01 20 00
-   1. Measurement and Payment
-
 ## General
 
 1. Summary
@@ -85,10 +82,12 @@ tags: ['General', 'Requirements', 'Price', 'Payment', 'Procedures']
 	1. Base Bid price to be adjusted accordingly for Owner-selected Major Equipment Suppliers. Costs for bid alternates or substitutions to include associated general conditions, overhead and profit.
 	2. Contract amount to be adjusted based on add or deduct alternate lump sum price.
 	3. Payment will be made on a lump sum price basis relative to percent complete for each bid alternate.
-   ## Product (Not Used)
+
+## Product 
+
+(Not Used)
 
 
 ## Execution
 
- (Not Used) 
-
+(Not Used) 

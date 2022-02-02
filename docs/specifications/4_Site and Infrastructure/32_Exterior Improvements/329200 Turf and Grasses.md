@@ -7,10 +7,9 @@ subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Turf', 'Grasses']
 ---
 
-
 ## General
 
-   1. SUMMARY
+1. SUMMARY
    1. Section Includes
    1. Ripping
    1. Fertilizer
@@ -24,9 +23,9 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Turf', 'Grasses']
    1. Related Sections
    1. Section 329300 – Plants
    1. Section 328400 – Planting Irrigation
-   1. REFERENCES
+1. REFERENCES
    1. Comply with U.S. Department of Agriculture Rules and Regulations under Federal Seed Act and equal in quality to standards for Certified Seed.
-   1. SUBMITTALS
+1. SUBMITTALS
    1. Certificates
    1. State, federal and other inspection certificates shall accompany invoice for materials showing source or origin.
    1. Submit to Owner prior to acceptance of material.
@@ -40,7 +39,7 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Turf', 'Grasses']
    1. Submittal shall include directions for aeration, mowing, fertilizing, irrigation and spraying as required for continued and proper maintenance through a full growing season and dormant period.
    1. Quality Control Submittals
    1. Submit a copy of the seed analysis report for the seed lot to be used for approval by owner prior to purchase of seed materials. Hard copy and electronic copy required.
-   1. QUALITY ASSURANCE
+1. QUALITY ASSURANCE
    1. Source Quality Control
    1. Seed Materials
    1. Subject to inspection and acceptance.
@@ -68,7 +67,7 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Turf', 'Grasses']
    1. Thickness shall be 1.25 - 1.75" thick, including top growth and thatch.
    1. Thatch shall not exceed 1/2" compressed.
    1. Shall be cut in strips 18" wide x 6'-6" long no more than 24 hours prior to delivery.
-   1. DELIVERY, STORAGE AND PROTECTION
+1. DELIVERY, STORAGE AND PROTECTION
    1. Fertilizer
    1. Deliver inorganic or chemical fertilizer to site in original unopened containers bearing Manufacturer's guaranteed chemical analysis, name, trade name, trademark and conformance to state law, bearing name and warranty of producer.
    1. Soil Amendment
@@ -91,7 +90,7 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Turf', 'Grasses']
    1. Deliver inorganic or chemical fertilizer(s) to site in original unopened container bearing Manufacturer's guaranteed chemical analysis, name, trade name, trademark, warranty and conformance to state law.
    1. Material shall be inspected upon arrival at job site.
    1. Immediately remove unacceptable material from job site.
-   1. PROJECT/SITE CONDITIONS
+1. PROJECT/SITE CONDITIONS
    1. Do not perform work when climate and existing site conditions will not provide satisfactory results.
    1. Vehicular accessibility on site shall be as directed by Owner.
    1. Protection
@@ -112,12 +111,12 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Turf', 'Grasses']
    1. Repair damage to prepared grounds and surfaces caused by vehicular movement during work under this Section to original condition at no additional cost to Owner.
    1. Install sod between spring and fall - April 1 -October 1.
    1. Do not install sod on saturated or frozen soil.
-   1. WARRANTY
+1. WARRANTY
    1. Seeded areas shall be warranted for one growing season to be in a healthy vigorous growing condition.
    1. During original warranty period seeded areas that die due to natural causes or are unhealthy shall be replaced as required and at no additional cost to the Owner.
    1. Sodded areas shall be warranted for one growing season to be in a healthy vigorous growing condition.
    1. During original warranty period sodded areas that die due to natural causes or are unhealthy shall be replaced as required and at no additional cost to the Owner.
-   1. MAINTENANCE
+1. MAINTENANCE
    1. The maintenance period shall begin immediately after each area is seeded and continue until final acceptance of entire project.
    1. During the maintenance period, the Contractor is responsible for all work as necessary to ensure that seeded areas are in a vigorous growing condition.
    1. Provide all supervision, labor, material and equipment to maintain seeded areas.
@@ -136,8 +135,10 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Turf', 'Grasses']
    1. Water shall be free of substances harmful to plant growth.
    1. As required, provide weed control using selective herbicides approved by Owner and adhering to local environmental laws.
    1. As required, apply insecticide and fungicide approved by Owner and adhering to local environmental laws.
-   1. PRODUCTS
-   1. MATERIALS
+
+## Products
+
+1. MATERIALS
    1. Soil Materials
    1. Soil conditioner for all seeded and sodded areas shall be Biosol with a 6-1-3 composition, available from:
       1. Pawnee Buttes Seed, Inc., 800-782-5947, e-mail:
@@ -204,8 +205,10 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Turf', 'Grasses']
    1. Owner is responsible for watering sodded areas for one (1) full year from date of installation.
    1. Fertilizer
    1. Apply in accordance with specification; Section 02903
-   1. EXECUTION
-   1. EXAMINATION
+
+## Execution
+
+1. EXAMINATION
    1. Verify that existing site conditions are as specified and indicated before beginning work under this Section.
    1. Grades
    1. Remove existing soil, gravel, and plant material and re-establish grade to be even with tops of curbs once new gravel mulch, seed, and plant material has been installed.
@@ -227,7 +230,7 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Turf', 'Grasses']
    1. Verify that grades are within 1/2" of grades indicated and specified.
    1. Report in writing to Owner with copy to Owner any unsatisfactory conditions.
    1. Beginning of installation means acceptance of existing conditions by this Contractor.
-   1. PREPARATION
+1. PREPARATION
    1. Protection
    1. Locate sewer, water, irrigation, gas, electric, phone and other pipelines or conduits and equipment prior to commencing work.
    1. Contractor is responsible for proper repair to landscape, utilities, drainage structures, pavements and other site improvements damaged by operations under this section.
@@ -390,6 +393,5 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Turf', 'Grasses']
    1. PROTECTION
    1. Provide and install barriers as required and as directed by Owner to protect completed areas against damage from pedestrian and vehicular traffic until acceptance by Owner.
    1. Contractor is not responsible for malicious destruction caused by others.
-1. END OF SECTION
-1. THIS PAGE INTENTIONALLY BLANK
+
 

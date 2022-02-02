@@ -7,15 +7,12 @@ subgroup: General Requirements
 tags: ['General', 'Requirements', 'Submittal', 'Procedures']
 ---
 
-1. SECTION 01330
+
    1. CONTRACTOR SUBMITTALS 
 0
 ## General
 
-
-## General
-
-:
+	1. General:
       1. Wherever submittals are required hereunder, all such submittals by the Contractor shall be submitted to the Engineer. A Submittal is defined as any drawing, calculation, specification, product data, samples, manuals, requests for substitutes, spare parts, photographs, survey data, record drawings, bonds, or similar items required to be submitted to the City Engineer under the terms of the contract.
    1. Before issuance of Notice to Proceed, the Contractor shall submit the following submittal items to the Engineer for review:
       1. A Preliminary Construction Schedule indicating the starting and completion dates of the various stages of the Work. Section 01310 Progress Schedules.
@@ -63,10 +60,7 @@ tags: ['General', 'Requirements', 'Submittal', 'Procedures']
 08. DAILY REPORTS
    1. Provide for each work shift a written Daily Report to the Engineer describing the work performed, conditions encountered, weather conditions, delays to the work, accidents or safety concerns, and any construction problems or deviations from the requirements of the Contract Documents. Show on the Daily Report an itemized breakdown of all labor, material deliveries, equipment, and subcontract labor used in performing the work. Submit the Daily Report within two days after completion of the reported work shift.
 11. RECORD DRAWINGS
-
-## General
-
-:
+	1. General:
       1. The Contractor shall keep and maintain, at the job site, one record set of Contract Drawings. On these, it shall mark all project conditions, locations, configurations, and any other changes or deviations which may vary from the details represented on the original Contract Drawings, including buried or concealed construction and utility features which are revealed during the course of construction.
    1. Special attention shall be given to recording the horizontal and vertical location of all buried utilities that differ from the locations indicated, or which were not indicated on the Contract Drawings. Said record drawings shall be supplemented by any detailed sketches as necessary or directed to indicate, fully, the Work as actually constructed.
    1. These master record drawings of the Contractor's representation of "as-built" conditions, including all revisions made necessary by addenda, change orders, and the like shall be maintained up-to-date during the progress of the Work.
@@ -79,5 +73,5 @@ tags: ['General', 'Requirements', 'Submittal', 'Procedures']
    1. Effect on Final Payment. Final payment will not be approved until the Contractor- prepared Final Record Drawings have been delivered to the Engineer. Said up-to-date, Record Drawings may be in the form of a set of prints with carefully plotted information overlaid in pencil.
 12. CONSTRUCTION PHOTOGRAPHS
    1. The Contractor shall provide monthly construction photographs showing the daily progress of the Work.
-1. END OF SECTION
+
 

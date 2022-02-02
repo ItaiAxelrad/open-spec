@@ -7,12 +7,12 @@ subgroup: General Requirements
 tags: ['General', 'Requirements', 'Field', 'Offices', 'Sheds']
 ---
 
-1. SECTION 01 52 13
+
 1. FIELD OFFICES AND SHEDS
 1. 
 ## General
 
-01. SECTION INCLUDES
+
    1. Temporary field offices for use of Design/Build Entity.
 02. RELATED REQUIREMENTS
    1. Section 01 50 00 - Temporary Facilities and Controls:
@@ -43,5 +43,5 @@ Available Project Information.
 1. 3.03 REMOVAL
    1. At completion of Work remove buildings, foundations, utility services, and debris. Restore
 areas including access roadways to the original condition.
-1. END OF SECTION
+
 

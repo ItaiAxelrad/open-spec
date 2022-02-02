@@ -12,15 +12,13 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
 
 ## General
 
-
-* 
-	1. **Summary
+1. SUMMARY
    1. Work under this section shall include ventilating equipment. 
 2. Related Specification Sections include:
 	1. Section 11 01 00, Equipment: Basic Requirements
 	2. Section 23 09 00, HVAC: Instrumentation and Control
 	3. Section 23 05 00.93, HVAC: Balancing and Testing
-	4. **Quality Assurance:
+	4. Quality Assurance:
 3. Work shall be per:
 	1. Air Movement and Control Association (AMCA).
 	2. Air Conditioning and Refrigeration Institute (ARI).
@@ -39,7 +37,7 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
 	9. Building code:
 		1. International Code Council (ICC):
 			1. International Building Code and associated standards, 2009 Edition including all amendments, referred to herein as Building Code.
-	10. **Submittals
+	10. Submittals
 4. See Specification Section 01 33 00 for requirements for the mechanics and administration of the submittal process.
 5. Shop Drawings shall include product technical data including:
 	1. Acknowledgements that products submitted meet requirements of aforementioned standards. 
@@ -54,7 +52,7 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
 	10. Performance data on all equipment.
 6. Certifications related to thickness of corrosion-protection coating.
 7. Provide Operation and Maintenance Manuals.
-   ## Product
+## Product
 1. 2.1 Acceptable Manufacturers
    1. Subject to compliance with the Contract Documents, the following manufacturers, or equivalent, are acceptable:
 	1. Shutter exhaust fan:
@@ -63,12 +61,12 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
 		3. J&D Manufacturing.
 		4. Or approved equal.
 2. Submit request for substation in accordance with Specifications Section 01 25 00. 
-	1. **General
+	1. General
 3. All manufactured units must be factory wired and assembled, and use fasteners made of the same material as the unit.
 4. Manufactured units shall be constructed with corrosion resistant materials or have corrosion resistant coating. 
 	1. Corrosion resistant materials include aluminum, stainless steel, and FRP. 
 	2. Corrosion resistant coating shall be phenolic based or epoxy based. 
-	3. **Manufactured Units
+	3. Manufactured Units
 5. Shutter exhaust fan:
 	1. Shall be direct drive. 
 	2. Materials:
@@ -81,6 +79,4 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. part 3 –execution
 1. 3.1 Installation
    1. Install in accordance with manufacturer’s installation instructions. 
-
-*[this page intentionally left blank]*
 

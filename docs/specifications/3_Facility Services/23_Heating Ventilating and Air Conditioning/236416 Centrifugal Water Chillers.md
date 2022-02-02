@@ -7,11 +7,6 @@ subgroup: Facility Services
 tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 'Centrifugal', 'Water', 'Chillers']
 ---
 
-1. Copyright 2006 by The American Institute of Architects (AIA)
-1. Exclusively published and distributed by Architectural Computer Services, Inc. (ARCOM) for the AIA
-1. Revise this Section by deleting and inserting text to meet Project-specific requirements.
-1. This Section uses the term "Architect." Change this term to match that used to identify the design professional as defined in the General and Supplementary Conditions.
-1. Verify that Section titles referenced in this Section are correct for this Project's Specifications; Section titles may have changed.
 
 ## General
 
@@ -109,10 +104,7 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
 1. EQUIPMENT
    1. Water-cooled centrifugal water chillers:
       1. Retain subparagraph below for proprietary product using oil-free compressor technology. See Evaluations.
-
-## General
-
-:
+	1. General:
       1. Provide hermetic or open centrifugal water chillers where shown, installed in accordance with this specification and producing the specified tonnage with performance equal to or better than the listed data, as manufactured by Trane, McQuay or York Int. Corp. 
    1. Provide each unit as a complete factory package including a centrifugal compressor, open or hermetic motor, compressor motor starter, evaporator, condenser and purge or pump-out unit, factory assembled, piped, wired and tested. If the manufacturer does not provide a unit as a complete factory package, furnish the necessary labor and material to complete the assembly with the supervision of the manufacturer's representative. Require the chiller manufacturer to have a repair parts stock factory and a factory maintained service organization available to provide local service for the units.
    1. Design chillers so that they are compatible with and are capable of providing the specified capacity when operating on refrigerant 134A.
@@ -314,6 +306,5 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Operate chiller for the run-in period recommended by the manufacturer.
    1. Check static deflection of vibration isolators, including deflection during chiller startup and shutdown.
 1. First four options in first paragraph below limit competition; fifth option does not. Trane is the only listed manufacturer to offer a direct-drive, hermetic centrifugal chiller. YORK is the only listed manufacturer to offer an open-drive centrifugal chiller. Only Carrier and McQuay offer a gear-drive, hermetic centrifugal chiller.
-1. END OF SECTION 236416
 1. (THIS PAGE INTENTIONALLY BLANK)
 

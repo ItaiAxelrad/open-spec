@@ -7,19 +7,14 @@ subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Concrete', 'Reinforcement', 'Bars']
 ---
 
-   1. section 03 21 00
-   1. reinforcement bars
-
 ## General
 
-
-* 
-	1. **Summary
+1. Summary
    1. Work under this section shall include reinforcing bar requirements for concrete construction.
 2. Related Specification Sections include:
 	1. Section 03 11 00, Formwork.
 	2. Section 03 31 00. Concrete Mixing, Placing, Jointing, and Curing.
-	3. **Quality Assurance
+	3. Quality Assurance
 3. Work shall be per:
 	1. American Concrete Institute (ACI):
 		1. SP 66, ACI Detailing Manual.
@@ -35,7 +30,7 @@ tags: ['Facility', 'Construction', 'Concrete', 'Reinforcement', 'Bars']
 4. Qualifications:
 	1. Welding operators, processes, and procedures to be qualified in accordance with AWS D1.4. 
 	2. Welding operators to have been qualified during the previous 12 months prior to commencement of welding. 
-	3. **Submittals
+	3. Submittals
 5. Shop Drawings shall include:
 	1. Product technical data including:
 		1. Acknowledgement that products submitted meet requirements of standards referenced.
@@ -45,7 +40,7 @@ tags: ['Facility', 'Construction', 'Concrete', 'Reinforcement', 'Bars']
 	3. Rebar number, sizes, spacing, dimensions, configurations, locations, mark numbers, lap splice lengths and locations, concrete cover and rebar supports. 
 	4. Sufficient rebar details to permit installation of reinforcing.
 	5. Rebar details in accordance with ACI SP 66.
-	6. **Delivery, Storage, and Handling
+	6. Delivery, Storage, and Handling
 6. Support and store all reinforcing above ground.
 7. Handling of epoxy-coated rebar:
 	1. Use padded or nonmetallic slings and padded straps to protect coated reinforcement from damage.
@@ -53,7 +48,7 @@ tags: ['Facility', 'Construction', 'Concrete', 'Reinforcement', 'Bars']
 	3. Do not drop or drag rebars.
 	4. Store on wooden cribbing.
 	5. Coated rebars subject to rejection by Engineer if rebar coating has been damaged.
-   ## Product
+## Product
 1. 2.1 Materials
    1. Reinforcing bars:
       1. ASTM A619-79, grade 60.
@@ -103,26 +98,21 @@ tags: ['Facility', 'Construction', 'Concrete', 'Reinforcement', 'Bars']
 	3. Reinforcing support:
 		1. Uncoated reinforcing:
 			1. Support reinforcing and fasten together to prevent displacement by construction operations.
-				1. Locate and support reinforcement with bar supports to maintain minimum concrete cover.
-				2. Set wire ties with ends directed into concrete, not toward exposed concrete surfaces.
-				3. Reinforcement shown on the Contract Documents may not be repositioned for use a support for reinforcement. Additional drop bars may be provided for support of reinforcing,
+			1. Locate and support reinforcement with bar supports to maintain minimum concrete cover.
+			2. Set wire ties with ends directed into concrete, not toward exposed concrete surfaces.
+			3. Reinforcement shown on the Contract Documents may not be repositioned for use a support for reinforcement. Additional drop bars may be provided for support of reinforcing,
 			2. Reinforcing supported on ground:
-				1. Slab on grade and other members with only one mat of reinforcing:
+			1. Slab on grade and other members with only one mat of reinforcing:
       1. Provide metal bar supports with bottom plate.
    1. Do not use concrete blocks to support slab-on-grade reinforcing.
 
-* 
-	+ 
-		- 
-			* 
-				1. All other members: Provide supporting concrete blocks or metal bar supports with bottom plate.
+		1. All other members: Provide supporting concrete blocks or metal bar supports with bottom plate.
 			1. Reinforcing supported on formwork:
-				1. Concrete surfaces in contact with or over process liquid: All-Plastic chairs, runners and bar supports.
-				2. All other formed surfaces:
+			1. Concrete surfaces in contact with or over process liquid: All-Plastic chairs, runners and bar supports.
+			2. All other formed surfaces:
       1. Provide plastic-coated metal chairs, runners, bolsters, spacers, hangers and other reinforcing support.
    1. Only tips in contact with the forms need to be plastic coated.
 
-* 
 	1. Where parallel horizontal reinforcement in beams is indicated to be placed in two or more layers, rebars in the upper layers shall be placed directly above rebars in the bottom layer with clear distance between layers to be 1 IN.
 		1. Place spacer rebars at 3 FT maximum centers to maintain the required 1 IN clear distance between layers.
 	2. Extend reinforcement to within 2 IN of concrete perimeter edges.

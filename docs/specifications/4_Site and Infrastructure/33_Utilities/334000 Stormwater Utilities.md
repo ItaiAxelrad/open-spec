@@ -7,14 +7,13 @@ subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Utilities', 'Stormwater']
 ---
 
-1. SECTION 33 40 00
+
 1. STORM DRAINAGE UTILITIES
 1. BASED ON DFD MASTER SPECIFICATION DATED 09/01/2015
    1. This section has been written to cover most (but not all) situations that you will encounter. Depending on the requirements of your specific project, you may have to add material, delete items, or modify what is currently written. The Division of Facilities Development expects changes and comments from you.
    1. Modify this document to account for project specific conditions.
 1. *Note to the Designer:
-      1. If project also includes plumbing coordinate this section with:*** 
-
+      1. If project also includes plumbing coordinate this section with:**
 * ***Section 22 14 00 – Facility Storm Drainage*
 
  ***and clearly define party responsible for testing of the respective utility on the Drawings.*
@@ -49,7 +48,9 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Stormwater']
    1. Apron Endwalls
    1. Board Insulation
    1. Locator Tape
-   1. Execution
+
+## Execution
+
 
 ## General
 
@@ -196,8 +197,7 @@ Value
    1. Each length of straight and special HDPE pipe and each HDPE fitting shall be plainly marked on the outside to identify the design pressure or class of pipe, proper location of the pipe or fitting in the pipeline, and the date of manufacture. 
 1. HDPE corrugated WALL PIPE
 1. *Note to the designer:
-      1. This pipe is not acceptable for use under roadways, parking lots, loading docks or other vehicle traffic areas because the pipe’s strength and stability is dependent on bedding cover and backfill materials and proper compaction.*** 
-   1. Corrugated pipe with an integrally formed smooth liner. Pipes that are between 4 inch diameter and 36 inch diameter shall meet the requirements of AASHTO M252 and M294, Type S.
+      1. This pipe is not acceptable for use under roadways, parking lots, loading docks or other vehicle traffic areas because the pipe’s strength and stability is dependent on bedding cover and backfill materials and proper compaction.**   1. Corrugated pipe with an integrally formed smooth liner. Pipes that are between 4 inch diameter and 36 inch diameter shall meet the requirements of AASHTO M252 and M294, Type S.
    1. Pipe and fittings shall be manufactured from virgin PE compounds conforming to the requirements of ASTM D3350, cell class 324420C.
    1. Joints for fittings and pipe shall be soil-tight bell and spigot, provided with rubber gasket. Rubber gasket shall be installed by the pipe manufacturer. 
 1. corrugated metal pipe
@@ -253,9 +253,7 @@ Value
    1. Precompressed butyl gasket, 3/8” x 3½” shall be used between the top of the manhole and first adjustment ring, and between all subsequent rings. Butyl material shall be E-Z Stick, or equal.
 1. INLETS & CATCH BASINS
 1. *Note to the designer:
-      1. Determine the need for cast-in-place inlets and catch basins based on depth and configuration of inflow and outflow pipes.*** 
-1. *Provide details in drawings showing inlet sizes needed for project specific hydrology, pipe size, location and orientation as well as wall thickness and bottom thickness needed for external loads including depth, soils and vehicular traffic.*** 
-
+      1. Determine the need for cast-in-place inlets and catch basins based on depth and configuration of inflow and outflow pipes.**1. *Provide details in drawings showing inlet sizes needed for project specific hydrology, pipe size, location and orientation as well as wall thickness and bottom thickness needed for external loads including depth, soils and vehicular traffic.**
 ## General
 
    1. Inlets and catch basins shall be round or rectangular precast concrete unless otherwise shown or required. Cast-in-place inlets may only be used after receiving written approval by the DFD Project Representative and the A/E for customized sizes and shapes.
@@ -383,15 +381,13 @@ Value
    1. Make all necessary openings into existing structures or drainage pipes including the reconstruction of existing inverts or benches, as necessary. Patch all openings permanently watertight with concrete brick and mortar, hydraulic cement, or flexible watertight boots.
 1. DRAINAGE LATERALS
 1. *Note to the designer:
-      1. If connecting lateral to storm drainage main owned by municipality or drainage district, verify connection requirements and modify this specification accordingly. A manhole may be required at the connection of a lateral greater than 6-inches in diameter to the storm drainage main.*** 
-   1. Connect existing storm drainage laterals in accordance with all of the requirements of the storm drainage mains, including bedding, backfill, compaction, and jointing of the pipe. Connect drainage laterals to the storm drainage main by means of an approved "wye" fitting. Connect the new pipe to the existing lateral material using a no-hub coupling or approved transition fitting. Coupling/fitting shall be selected for the specific pipe material being connected. 
+      1. If connecting lateral to storm drainage main owned by municipality or drainage district, verify connection requirements and modify this specification accordingly. A manhole may be required at the connection of a lateral greater than 6-inches in diameter to the storm drainage main.**   1. Connect existing storm drainage laterals in accordance with all of the requirements of the storm drainage mains, including bedding, backfill, compaction, and jointing of the pipe. Connect drainage laterals to the storm drainage main by means of an approved "wye" fitting. Connect the new pipe to the existing lateral material using a no-hub coupling or approved transition fitting. Coupling/fitting shall be selected for the specific pipe material being connected. 
 1. PIPE INSULATION
    1. Provide insulation where indicated on the drawings. 
    1. Install insulation on compacted utility cover material, 6” above the top of the pipe. Stagger joints where more than one layer of insulation is required. Provide insulation with a minimum of 1’ of utility cover material. Place cover and backfill material in manner that does not damage insulation; replace any damaged insulation. 
 1. LOCATOR TAPE
    1. Install locator tape directly above new non-metallic storm sewer pipe approximately 15 inches below finished grade. Bring tape to surface and terminate in a drainage structure.
-1. DEFLECTION TESTING** 
-   1. Test all PVC and HDPE drainage pipe in the presence of the DFD Project Representative by a "go-no-go" deflection test mandrel furnished by the Contractor. Do not perform deflection testing any sooner than 30 days following the installation of the pipe. Pull the mandrel by hand, or hand operated winch so as to avoid any damages to the pipe that may be caused by mechanized pulling equipment.
+1. DEFLECTION TESTING*   1. Test all PVC and HDPE drainage pipe in the presence of the DFD Project Representative by a "go-no-go" deflection test mandrel furnished by the Contractor. Do not perform deflection testing any sooner than 30 days following the installation of the pipe. Pull the mandrel by hand, or hand operated winch so as to avoid any damages to the pipe that may be caused by mechanized pulling equipment.
    1. Size the mandrel to test the pipeline for a maximum allowable internal deflection of the pipe (in any direction) of not to exceed five (5) percent of the original internal diameter for the pipelines tested, regardless of how long after installation the testing takes place.
 1. *Note to the designer:
       1. If televising is not required for the storm drainage pipes on this project remove the paragraph below.*
@@ -407,8 +403,7 @@ Value
 
 *[Upon completion of the sewer construction all new sewers shall be televised to provide a record of the actual conditions inside the newly constructed sewers via closed circuit televising equipment. The DFD Project Representative may or may not be present during sewer inspections via this method.*
 
-*Utilize televising equipment with a color camera specially designed and equipped for the conditions of the sewers to be televised, and with a monitor screen.* 
-
+*Utilize televising equipment with a color camera specially designed and equipped for the conditions of the sewers to be televised, and with a monitor screen.
 *Transport the camera equipment through the sewers by means of mechanical or hand operated winches, coordinated to provide speed and directional control necessary to fully observe the sewer interior. Provide a light source for the necessary illumination.*
 
 *Provide televising equipment equipped with an on-screen distance meter, capable of registering distances in the sewer from the starting manhole, and accurate to the nearest 0.5’ station, so as to facilitate in the locating of sewer features and/or defects from the ground surface.*
@@ -420,5 +415,5 @@ Value
 *The Contractor shall provide to the DFD Project Representative with 2 DVD copies of the CCTV inspection videos and all inspection forms.]*
 1. ABANDON SEWER
    1. Where indicated on the drawings, existing sewer to be left in place shall be abandoned in accordance with Section 3.2.24 of the SSSWC. Sewer shall not be abandoned until existing laterals have been reconnected to the replacement sewer. Abandoning sewers is considered incidental to the construction.
-1. END OF SECTION
+
 

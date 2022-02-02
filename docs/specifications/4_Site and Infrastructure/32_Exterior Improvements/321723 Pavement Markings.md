@@ -7,7 +7,7 @@ subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Pavement', 'Markings']
 ---
 
-1. SECTION 32 17 23
+
 1. PAVEMENT MARKINGS
 1. 
 ## General

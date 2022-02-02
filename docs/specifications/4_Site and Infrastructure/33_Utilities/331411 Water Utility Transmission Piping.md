@@ -7,7 +7,7 @@ subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Utilities', 'Water', 'Utility', 'Transmission', 'Piping']
 ---
 
-   1. SECTION 33 14 11
+
    1. WATER UTILITY TRANSMISSION PIPING
 
 ## General
@@ -16,7 +16,7 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Water', 'Utility', 'Transmission'
    1. This section describes the installation of:
       1. 
 	1. Pressure pipelines fabricated of polyvinyl chloride (PVC), ductile iron, and welded steel, including pipeline closures and connections and pipeline encasement. 
-	2. **REFERENCE STANDARDS
+	2. REFERENCE STANDARDS
 2. The publications listed below form part of this specification to the extent referenced and are referred to in the text by the basic designation only. Reference shall be made to the latest edition of said standards unless otherwise called for. 
 	1. AWWA C210 - Liquid Epoxy Coating Systems for the Interior and Exterior of Steel Water Pipelines 
 	2. AWWA C213 - Fusion-Bonded Epoxy Coating for the Interior and Exterior of Steel Water Pipelines 
@@ -46,11 +46,12 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Water', 'Utility', 'Transmission'
 	5. Locations of junction structures.
    1. PART 2 – MATERIALS (NOT USED)
 1. 2.01 REFER TO SPECIFICATION DIVISION 15
-   1. Execution
+
+## Execution
+
 1. 3.01 GENERAL
    1. All pipe shall be installed per AWWA C600, C604, C605, and these Specifications, the referenced Standards, and the manufacturer installation requirements.
-1. 3.02 Material Delivery, Storage, and Protection** 
-   1. Piping materials, fittings, valves, and accessories shall be delivered in a clean and undamaged condition and stored off the ground for protection against oxidation caused by ground contact. Defective or damaged materials shall be replaced with new materials. 
+1. 3.02 Material Delivery, Storage, and Protection*   1. Piping materials, fittings, valves, and accessories shall be delivered in a clean and undamaged condition and stored off the ground for protection against oxidation caused by ground contact. Defective or damaged materials shall be replaced with new materials. 
 2. Piping, fittings, and appurtenances shall be installed in accordance with the requirements of all applicable Specification sections. Proprietary manufactured couplings shall be installed in accordance with the coupling manufacturer's recommendation. 
 3. Care shall be taken to ensure that piping flanges, mechanical-type couplings, sleeve-type couplings, flexible connectors, and expansion joints are properly installed as follows:
       1. 
@@ -86,8 +87,7 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Water', 'Utility', 'Transmission'
 4. Inspection of Pipe:
       1. 
 	1. The pipe and accessories shall be inspected for defects prior to lowering into the trench. Any defective, damaged or unsound pipe shall be repaired or replaced. All foreign matter or dirt shall be removed from the interior of the pipe before lowering into position in the trench.
-1. 3.05 PIPELINE INSTALLATION** 
-   1. The Contractor shall furnish all plant, equipment, materials, transportation, superintendence, labor and workmanship necessary to install new pressure class 350 ductile-iron, polyvinyl chloride (PVC), or welded water pipe at locations shown on the contract drawings and in accordance with these specifications. The work shall include but not be limited to traffic control, pavement marking, pavement saw-cutting and removal, utility/substructure potholing, excavation, cutting out and removal of conflicting existing pipe and fittings, installation of new pipe, fittings and couplings, pressure regulators, meters, backfill, hydrostatic pressure testing, disinfection, temporary and permanent trench resurfacing and pavement restoration, restoring damaged pavement striping and markers, storm water control, disposal of excess materials, and all incidentals, as directed by the Engineer. 
+1. 3.05 PIPELINE INSTALLATION*   1. The Contractor shall furnish all plant, equipment, materials, transportation, superintendence, labor and workmanship necessary to install new pressure class 350 ductile-iron, polyvinyl chloride (PVC), or welded water pipe at locations shown on the contract drawings and in accordance with these specifications. The work shall include but not be limited to traffic control, pavement marking, pavement saw-cutting and removal, utility/substructure potholing, excavation, cutting out and removal of conflicting existing pipe and fittings, installation of new pipe, fittings and couplings, pressure regulators, meters, backfill, hydrostatic pressure testing, disinfection, temporary and permanent trench resurfacing and pavement restoration, restoring damaged pavement striping and markers, storm water control, disposal of excess materials, and all incidentals, as directed by the Engineer. 
 2. All pipe material delivery, storage, protection and installation shall comply strictly with the standards set forth in AWWA C600, C604, C605, and these Specifications.
 3. Prior to any construction, Contractor shall pothole the alignment of the new water main for all existing utilities within the pipe trench width (parallel or crossing). The City shall inspect the pothole prior to Contractor proceeding with all work required. Contractor shall protect in place all existing facilities. Contractor shall record the following information on as-built drawings:
 	1. Type of utility
@@ -98,14 +98,9 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Water', 'Utility', 'Transmission'
 	6. Utility alignment
 	7. Location of collars, pipe bells, fittings or couplings, pipe collars, bells, fittings
 	8. All potential conflicts with existing utilities
-1. 3.06 PIPELINE ALIGNMENT** 
-   1. The proposed pipeline alignment is shown on the contract drawings. However, the Contractor shall make exploratory utility verification excavations a minimum distance of 200 feet in advance of trenching to determine the exact locations and depths of all utilities crossing the alignment, and review, with the Engineer, the pipeline profile so as to clear any obstructing substructures. Pipe joints shall be deflected to clear interference with obstructions or other utilities unless otherwise directed by the City Engineer.
+1. 3.06 PIPELINE ALIGNMENT*   1. The proposed pipeline alignment is shown on the contract drawings. However, the Contractor shall make exploratory utility verification excavations a minimum distance of 200 feet in advance of trenching to determine the exact locations and depths of all utilities crossing the alignment, and review, with the Engineer, the pipeline profile so as to clear any obstructing substructures. Pipe joints shall be deflected to clear interference with obstructions or other utilities unless otherwise directed by the City Engineer.
 1. 3.07 PLACEMENT OF PIPE IN TRENCH
-
-## General
-
-
-: 
+	 1. General: 
 	1. Dewatering, excavation, shoring, sheeting, bracing, backfilling material placement, material compaction, compaction testing, and pipe laying requirements and limitations shall be in accord with Section 02223 - Trenching, Backfilling and Compacting.
 2. Sanitation of Pipe Interior:
       1. 
@@ -161,11 +156,7 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Water', 'Utility', 'Transmission'
 1. 3.11 Installing Threaded Piping
    1. Threaded piping shall be reamed, deburred, and cleaned before making up joints. Thread lubricant approved by the City Engineer shall be applied to threaded pipe ends before installing fittings, couplings, unions, or joints.
 1. 3.12 Pipeline Closure Assemblies
-
-## General
-
-
-:
+	 1. General:
 	1. Pipeline closure assemblies shall be employed to unite sections of pipeline lay from opposite directions; to adjust the field length of the pipeline to meet structures, other pipelines, and points established by design stations; and to close areas left open to accommodate temporary test bulkheads for hydrostatic testing. Either follower ring design or butt strap design shall be used. Follower ring closures shall be installed as recommended by the pipe manufacturer.
 1. 3.15 Operations Incidental to Joint Completion
    1. Hydrostatic Testing:
@@ -198,11 +189,7 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Water', 'Utility', 'Transmission'
       1. 
 	1. Reinforcing steel tiedown rods shall be used on all in-line valves. Refer to the City Standard Drawings for typical valve anchor and thrust restraint details. Exposed metal portions shall be coated with bitumastic material as specified in Section 09910, Painting and Coating, System D-1, "Buried Metal Coating Systems".
 1. 3.19 Blow-off Assemblies
-
-## General
-
-
-: 
+	 1. General: 
 	1. In-line type or end-of-line type blow-off assemblies shall be installed in accord with the plans at locations noted, and at such additional locations as required by the City for removing water or sediment from the pipeline.
 2. Location:
       1. 
@@ -211,22 +198,14 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Water', 'Utility', 'Transmission'
       1. 
 	1. Blow-offs shall not be connected to any sewer, submerged in any stream, or installed in any manner that will potentially allow back siphoning into the distribution system.
 1. 3.20 Combination Air and Vacuum Release Valves
-
-## General
-
-
-: 
+	 1. General: 
 	1. Air release valve assemblies and combination air and vacuum valves shall be installed at each point in the pipeline as shown on the drawings or as specified by the City, and in accord with Section 15089: Air and Vacuum-Release Valves.
 2. Location:
       1. 
 	1. The tap for the air valves shall be made in a level section of pipe no closer than 18 inches to a bell, coupling, joint, or fitting. No tap shall be permitted in any machined section of asbestos cement pipe.
 1. 3.21 Above-ground Piping Installation/Support
    1. All above-ground piping installations shall be evaluated on a case-by-case basis and will require City approval prior to construction and connection to all existing piping.
-
-## General
-
-
-: 
+	 1. General: 
 	1. Installation of aboveground pipeline materials and appurtenances include requirements for buried pipeline materials and appurtenances as applicable.
 2. Supports:
       1. 
@@ -242,5 +221,5 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Water', 'Utility', 'Transmission'
    1. All potable water pipelines shall be disinfected in accord with Section 15041, Disinfection of Piping.
 1. 3.24 Testing
    1. All piping shall be hydrostatically pressure tested in accord with Section 15044, Hydrostatic Testing of Pressure Pipelines.
-1. END OF SECTION
+
 

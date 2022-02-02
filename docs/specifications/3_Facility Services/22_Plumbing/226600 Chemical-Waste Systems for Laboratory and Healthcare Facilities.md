@@ -4,7 +4,7 @@ section: '226600'
 divNumb: 22
 divName: Plumbing
 subgroup: Facility Services
-tags: ['Facility', 'Services', 'Plumbing', 'Chemical-Waste', 'Systems', 'for', 'Laboratory', 'Healthcare', 'Facilities']
+tags: ['Facility', 'Services', 'Plumbing', 'Chemical-Waste', 'Systems', 'Laboratory', 'Healthcare', 'Facilities']
 ---
 
 
@@ -40,8 +40,7 @@ tags: ['Facility', 'Services', 'Plumbing', 'Chemical-Waste', 'Systems', 'for', '
    1. Manufacturers Standardization Society of the Valve and Fittings Industry, Inc. (MSS):
       1. SP-43 - Wrought Stainless Steel Butt-Welding Fittings.
    1. National Sanitation Foundation (NSF) 
-1. Submittals** 
-   1. See Division 22 sections of the Specifications. 
+1. Submittals*   1. See Division 22 sections of the Specifications. 
    1. Submit Product Data on the following:
       1. Underground piping materials.
    1. Aboveground piping materials.
@@ -50,8 +49,7 @@ tags: ['Facility', 'Services', 'Plumbing', 'Chemical-Waste', 'Systems', 'for', '
 
 ## General
 
-1. Piping Materials - Underground** 
-   1. Laboratory waste gravity drainage system - inside building to 5 feet outside building foundations. 
+1. Piping Materials - Underground*   1. Laboratory waste gravity drainage system - inside building to 5 feet outside building foundations. 
    1. Polypropylene corrosive waste drainage system conforming to ASTM F1412 flame retardant pipe and fittings. Pipe and fittings shall be joined using an electrofusion system. Pipe shall be supplied in 10 foot lengths and shall meet or exceed schedule 40 dimensions. Each fitting socket shall be supplied with a molded electrofusion coli of heavy gauge stainless steel resistance wire. The joint system shall conform to ASTM 1290.
    1. Manufacturer shall be Orion or approved equal. 
 1. bedding and backfill materials
@@ -61,14 +59,12 @@ tags: ['Facility', 'Services', 'Plumbing', 'Chemical-Waste', 'Systems', 'for', '
       1. ASTM E11.
    1. Sand:
       1. Natural particles of granular material which does not contain excessive amounts of clay, silt, or organic material, passing a 3/8-inch sieve. Sand found on the job site may be used if it is approved by the Architect.
-1. Piping Materials - Aboveground** 
-   1. Laboratory Waste:
+1. Piping Materials - Aboveground*   1. Laboratory Waste:
       1. 
    1. Polypropylene corrosive waste drainage system conforming to ASTM F1412 flame retardant pipe and fittings. Pipe and fittings shall be joined using a mechanical joint coupling. The Pipe shall be supplied in factory grooved 10-foot lengths and shall meet or exceed schedule 40 dimensions. Each coupling shall have 300 series stainless steel outer band and 5/16” bolts, nuts and washers plated to meet a 100 hour spray test per ASTM B117. The polypropylene material shall conform to ASTM B4101.
    1. Manufacturer shall be Orion or approved equal.
 1. EXECUTION
-1. Underground Piping Installation** 
-   1. Trench Excavation:
+1. Underground Piping Installation*   1. Trench Excavation:
       1. Excavate trenches so that piping may be laid correctly on line and grade. Remove any large rocks or other debris encountered in the excavation and dispose of appropriately. 
    1. Excavate to a sufficient depth and width to provide adequate room for construction and installation of the work except that the width of the trench from the pipe invert to a point 12 inches above the top of the pipe shall not be greater than 30 inches. 
    1. Where it is impossible to maintain proper line and grade, excavate below grade and replace the bedding with compacted sand. 
@@ -102,11 +98,7 @@ tags: ['Facility', 'Services', 'Plumbing', 'Chemical-Waste', 'Systems', 'for', '
    1. Provide sand backfill mechanically compacted in 6-inch lifts to 95 percent of maximum density as determined by ASTM D1557, for all piping inside the building. 
    1. Pipes Through Grade Beams:
       1. Provide pipes and tubing passing through or under building grade beams with a schedule 40 pipe sleeve with 4-inch clearance to prevent possible damage from building settlement. 
-1. Aboveground Piping Installation** 
-
-## General
-
-:
+1. Aboveground Piping Installation*	1. General:
       1. 
    1. Make changes in direction for chemical waste and vent piping using appropriate branches, bends, and long-sweep bends. Sanitary tees and short-sweep 1/4 bends may be used on vertical stacks if change in direction of flow is from horizontal to vertical. Use long-turn, double Y-branch and 1/8-bend fittings if 2 fixtures are installed back to back or side by side with common drain pipe. Straight tees, elbows, and crosses may be used on vent lines. Do not change direction of flow more than 90 degrees. Use proper size of standard increasers and reducers if pipes of different sizes are connected. Reducing size of drainage piping in direction of flow is prohibited.
    1. Install pipe and pipe fittings in accordance with recognized industry practices to achieve permanently leakproof systems, capable of performing the indicated service without failure.
@@ -128,6 +120,5 @@ tags: ['Facility', 'Services', 'Plumbing', 'Chemical-Waste', 'Systems', 'for', '
       1. 2 percent downward in direction of flow for piping NPS 3 and smaller; 1 percent downward in direction of flow for piping NPS 4 and larger.
    1. Vent Piping:
       1. 1 percent down toward vertical fixture vent or toward vent stack.
-1. END OF SECTION 226600
 1. (THIS PAGE INTENTIONALLY BLANK)
 

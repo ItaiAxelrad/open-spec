@@ -7,32 +7,29 @@ subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Established', 'Landscape', 'Maintenance']
 ---
 
-   1. SECTION 329012
-   1. LANDSCAPE MAINTENANCE
-
 ## General
 
-
-	1. summary
-		1. This section provides guidance on long term maintenance and care for landscape areas.
-		2. The contractor will accomplish irrigation management, fertilization, pruning, weeding, pesticide applications, bed cultivation, mowing, edging and litter removal in landscape areas. Clean up of walkways, trails, and open space with in the project limits shall also be included.
-		3. Unit Prices
-   1. The contractor will furnish all materials, equipment, supplies and personnel necessary to perform the services contained herein.
-
-* 
-	+ 
-		1. Project Communication
-			1. The Contractor shall have one person designated as the Contract Manager. That person shall be available for a meeting and/or walk through of the property, at least once each month, upon the request of The Owner.
-			2. It is expected that the Contractor will advise The Owner or it’s representatives, of all actions the Contractor reasonably believes are prudent, necessary, or beneficial, to improve and maintain the appearance and health of the landscape at the property.
+1. summary
+   1. This section provides guidance on long term maintenance and care for landscape areas.
+   2. The contractor will accomplish irrigation management, fertilization, pruning, weeding, pesticide applications, bed cultivation, mowing, edging and litter removal in landscape areas. Clean up of walkways, trails, and open space with in the project limits shall also be included.
+   3. Unit Prices
+2. The contractor will furnish all materials, equipment, supplies and personnel necessary to perform the services contained herein.
+   1. Project Communication
+      1. The Contractor shall have one person designated as the Contract Manager. That person shall be available for a meeting and/or walk through of the property, at least once each month, upon the request of The Owner.
+      2. It is expected that the Contractor will advise The Owner or it’s representatives, of all actions the Contractor reasonably believes are prudent, necessary, or beneficial, to improve and maintain the appearance and health of the landscape at the property.
 	1. References
    1. GreenCO Best Management Practices
-   1. QUALITY ASSURANCE:
+3. QUALITY ASSURANCE:
       1. All work shall be performed to the highest standards of horticultural excellence and shall be in accordance with accepted standard practices. All work shall be performed in accordance with all applicable laws, codes, ordinances and regulations of all local, state and federal government agencies, and it will be the responsibility of the contractor to obtain at its cost all necessary certificates, permits and licenses required by such agencies.
    1. Contractor shall maintain a weekly landscape maintenance log, indicating services performed. Submit reports weekly to the Owner’s Representative using e-mail. 
-   1. Contractor shall assume all responsibility for plant material or turf which is damaged or stressed in any way as a result of poor maintenance. Contractor will assume all cost associated with replacement of damaged plant material. 
-   1. Products
+   2. Contractor shall assume all responsibility for plant material or turf which is damaged or stressed in any way as a result of poor maintenance. Contractor will assume all cost associated with replacement of damaged plant material. 
+
+## Products
+
    1. Refer to construction documents or record drawings for material specifications.
-   1. EXECUTION
+
+## Execution
+
    1. TREE MAINTENANCE
    1. Pruning 
    1. The following will be used as guidelines for pruning maintenance on trees. Pruning will be accomplished in the early spring and late winter. Pruning in this agreement will be initiated for the following.
@@ -232,5 +229,5 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Established', 'Lan
    1. The contractor shall be responsible to monitor all landscape and plants to determine if there is need for winter watering, tree wrapping to prevent sunscald, special pruning due to storm damage, etc. A semi-monthly soil moisture assessment, on the contractor's report, shall be provided to the Owner.
    1. When hand watering, use a water wand to break the water force. All trees and shrubs shall be winter watered using a needle type root feeder as required between irrigation system winterization and spring startup.
    1. The irrigation system will not be used for winter watering.
-   1. END OF SECTION
+   
 

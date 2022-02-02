@@ -12,9 +12,7 @@ tags: ['General', 'Requirements', 'Closeout', 'Procedures']
 
 ## General
 
-
-* 
-	1. **Summary
+1. SUMMARY
    1. Section Includes:
 	1. Closeout procedures.
 	2. Final cleaning.

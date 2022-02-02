@@ -7,7 +7,7 @@ subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Curbs', 'Gutters', 'Sidewalks', 'Driveways']
 ---
 
-1. SECTION 321613
+
 1. CONCRETE SIDEWALKS AND CURBS AND GUTTERS
 1. 
 ## General
@@ -196,5 +196,4 @@ Resilient Bituminous Types)
 1. In areas not meeting surface smoothness and plan grade requirements, high areas shall be reduced either by rubbing the freshly finished concrete with carborundum brick and water when the concrete is less than 36 hours old or by grinding the hardened concrete with an approved surface grinding machine after the concrete is 36 hours old or more. The area corrected by grinding the surface of the hardened concrete shall not exceed 5 percent of the area of any integral slab, and the depth of grinding shall not exceed 1/4 inch. Pavement areas requiring grade or surface smoothness corrections in excess of the limits specified above shall be removed and replaced.
    1. Appearance
 1. Exposed surfaces of the finished work shall be inspected by the Owner and any deficiencies in appearance shall be identified. Areas which exhibit excessive cracking, discoloration, form marks, or tool marks or which are otherwise inconsistent with the overall appearances of the work shall be removed and replaced.
-1. END OF SECTION 321613
 

@@ -12,20 +12,17 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Planting']
 
 ## General
 
-
-* 
-	1. **Summary
+1. SUMMARY
    1. Work under this section shall include the work associated with the re-vegetation of all areas disturbed by the Contractor. Re-vegetation shall include application of native or lawn seed, fertilizer, and soil retention blanket.
-	1. **Submittals
+	1. Submittals
 2. See Specification Section 01 33 00 for requirements for the mechanics and administration of the submittal process.
 3. Seed and Fertilizer:
       1. The Contractor shall submit the seed and fertilizer mix proposed for use on the project for approval prior to application.
 4. Sod:
       1. The Contractor shall submit a sample of the sod he proposes to furnish. The sample shall serve as the standard for the project. Sod furnished which is not compatible with the standard sample will not be accepted.
-   ## Product 
+## Product 
 
-* 
-	1. **Materials
+	1. Materials
    1. Permanent Seed Mix:
       1. Steamboat Grass Mix:
 	1. 20% Bromus Anomalus
@@ -55,11 +52,7 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Planting']
 ## Execution
 
 1. 3.1 Preparation
-
-## General
-
-
-: In all disturbed areas, topsoil is to be salvaged and replaced. Prior to any re-vegetation activity, the soil shall be tilled to provide at least 2 to 4-inches of loose surface.
+	 1. General: In all disturbed areas, topsoil is to be salvaged and replaced. Prior to any re-vegetation activity, the soil shall be tilled to provide at least 2 to 4-inches of loose surface.
 1. 3.2 Application
    1. Native Seed:
 	1. 3:1 Slopes or flatter: Seeding shall be accomplished by means of an approved drill-type seeder at a rate of 20lbs. per acre PLS or broadcast at 40 lbs. per acre PLS.
@@ -73,6 +66,4 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Planting']
 	3. In cases where one roll of mesh ends and a second roll starts, the up slope piece should be brought over the buried and of the second roll so that there is a 12-inch overlap to form a junction slot. Where two or more widths of mesh are applied side by side, an overlap of at least four (4) inches must be made.
 	4. Check slots should be made before the mesh is rolled out. A narrow trench should be dug across the slope perpendicular to the direction of flow. A piece of mesh, cut the same length as the trench, is folded lengthwise. The fold is placed in the trench and the trench is tamped closed. The portion of the mesh remaining above ground is unfolded and laid flat on the soil surface. Check slots will be spaced so that one check slope or junction slot occurs within each 50-feet of slope. Overlaps which run down the slope, outside edges and centers shall be of staples down the center as well as along each edge. Check slots and junction slots will be stapled across at 6-inch intervals. For extra hard soil, use sharp-pointed, hardened steel, 3-inch fence type staples.
 	5. Matting must be spread evenly and smoothly and be in contact with the seeded area at all points. It shall be pressed into the soil with a light lawn roller or by a similar method. The Contractor shall maintain the mesh areas until all work on the entire Contract has been completed and accepted. Maintenance shall consist of the repair of areas damaged by erosion, wind fire, or other causes. Such areas shall be repaired to e-establish the condition and grade of the soil prior to application of the mesh and shall be re-fertilized, reseeded and re-mulched as directed.
-
-*[this page intentionally left blank]*
 

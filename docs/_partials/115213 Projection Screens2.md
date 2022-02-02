@@ -7,19 +7,16 @@ subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Equipment', 'Projection', 'Screens']
 ---
 
-   1. SECTION 115213
+
    1. PROJECTION SCREENS
 
 ## General
 
 
-* 
 	1. RELATED DOCUMENTS
    1. Drawings, General and Special Provisions of the Contract, and Division 01 Specification
 Sections apply to this Section.
-
-* 
-	1. SUMMARY
+1. SUMMARY
    1. Section Includes:
       1. Electrically operated projection screens and controls.
    1. Related Sections:
@@ -73,10 +70,7 @@ ceiling suspension systems, light fixtures, HVAC equipment, fire-suppression sys
    1. partitions.
    1. Product
 1. ELECTRICALLY OPERATED PROJECTION SCREENS
-
-## General
-
-:
+	1. General:
       1. Manufacturer's standard units consisting of case, screen, motor, controls, mounting
 accessories, and other components necessary for a complete installation. Provide units that are
    1. listed and labeled as an assembly by UL or another testing and inspecting agency acceptable to
@@ -109,7 +103,9 @@ designed and fabricated for surface mounting in ceiling, fabricated from formed-
    1. provide the named product or an approved equal.
 2. Sizes:
       1. 10 foot by 6 foot.
-   1. Execution
+
+## Execution
+
 1. PROJECTION SCREEN INSTALLATION
    1. Install projection screens at locations indicated to comply with screen manufacturer's written
 instructions.

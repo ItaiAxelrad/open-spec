@@ -10,7 +10,7 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Sodding']
 
 ## General
 
-   1. SUMMARY
+1. SUMMARY
    1. Section Includes
    1. Slow Release Fertilizer
    1. Mychorrhizal Inoculum
@@ -28,8 +28,8 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Sodding']
    1. Section 334600- Subdrainage
    1. REFERENCES
    1. Comply with U.S. Department of Agriculture Rules and Regulations under Federal Seed Act and equal in quality to standards for Certified Seed.
-   1. SUBMITTALS
-   1. All submittals will be delivered to NREL Project Manager who will issue to NREL technical monitor for review and approval.
+1. SUBMITTALS
+   1. All submittals will be delivered to Owner Project Manager who will issue to Owner technical monitor for review and approval.
    1. Certification of Grass Seed:
       1. From seed vendor for each grass-seed mixture stating the botanical and common name, percentage by weight of each species and variety, and percentage of purity, germination and weed seed. Include the year of production and date of packaging. Submit a copy of the seed analysis report for the seed lot to be used for approval by owner prior to purchase of seed materials. Hard copy and electronic copy required.
    1. Product Data:
@@ -40,7 +40,7 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Sodding']
       1. Include product label and manufacturer's application instructions specific to this Project.
    1. Mycorrhizal Inoculum:
       1. Include product label and manufacturer's application instructions specific to this Project.
-   1. Proposed Fertilizers, Pesticides, and Herbicides must be submitted to and approved by NREL EHS prior to use on NREL campuses.
+   1. Proposed Fertilizers, Pesticides, and Herbicides must be submitted to and approved by Owner EHS prior to use on Owner campuses.
    1. Qualification Data:
       1. For qualified landscape Installer.
    1. State, federal and other inspection certificates shall accompany invoice for materials showing source or origin. Submit to Owner prior to acceptance of material.
@@ -50,7 +50,7 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Sodding']
    1. Operating and Maintenance Data
    1. At completion of work, submit three (3) copies and one (1) electronic copy.
    1. Submittal shall include directions for aeration, mowing, fertilizing, irrigation and spraying as required for continued and proper maintenance through a full growing season and dormant period.
-   1. QUALITY ASSURANCE
+1. QUALITY ASSURANCE
    1. Source Quality Control
    1. Seed Materials
    1. Subject to inspection and acceptance.
@@ -98,7 +98,7 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Sodding']
    1. Seed
    1. Deliver seed in sealed standard containers, with seed tags stating scientific and variety name of all species, % germination, year of preparation for seeding, name of project and acreage to be seeded by this shipment and mixture of seed.
    1. Seed damaged in transit or storage will not be accepted.
-   1. Notify the NREL PM, NREL EHS, and/or Sustainable NREL of delivery schedule in advance so that material may be inspected upon arrival at the project site as required. Seed tags are to be given to the NREL PM, NREL EHS, and/or Sustainable NREL.
+   1. Notify the Owner PM, Owner EHS, and/or Sustainable Owner of delivery schedule in advance so that material may be inspected upon arrival at the project site as required. Seed tags are to be given to the Owner PM, Owner EHS, and/or Sustainable Owner.
    1. Immediately remove unacceptable material from job site.
    1. Native Seeded Sod
    1. Deliver on pallets properly loaded on vehicles and with root system protected from exposure to sun, wind, and heat in accordance with standard practice and labeled with botanical and common name of each grass species in accordance with Federal Seed Act.
@@ -136,12 +136,12 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Sodding']
    1. Import and place any fill material required to adjust the fine grade to meet drainage requirements or to match adjacent surface fine grade.
    1. Repair damage to prepared grounds and surfaces caused by vehicular movement during work under this Section to original condition at no additional cost to Owner.
    1. Do not install sod on saturated or frozen soil.
-   1. WARRANTY
+1. WARRANTY
    1. Seeded areas shall be warranted for one growing season to be in a healthy vigorous growing condition and to meet EPA revegetation criteria of 70% of predisturbance vegetative cover. Landscape installer must provide adequate moisture and execute weed removal management to procure a healthy stand of grass.
-   1. During original warranty period, seeded areas that die due to natural causes, failure of germination, erosion, etc., or in opinion of the NREL PM, NREL EHS and/or Sustainable NREL are unhealthy, shall be replaced at no additional cost to the owner.
+   1. During original warranty period, seeded areas that die due to natural causes, failure of germination, erosion, etc., or in opinion of the Owner PM, Owner EHS and/or Sustainable Owner are unhealthy, shall be replaced at no additional cost to the owner.
    1. Should settling occur, fill and compact settled areas and reseed affected areas per grading and landscape plan.
    1. Sodded areas shall be warranted for one growing season to be in a healthy vigorous growing condition. Landscape installer must provide adequate moisture to sustain health
-   1. During original warranty period, sodded areas that die due to natural causes, failure of germination, erosion, etc., or in opinion of the NREL PM, NREL EHS and/or Sustainable NREL are unhealthy, shall be replaced at no additional cost to the owner.
+   1. During original warranty period, sodded areas that die due to natural causes, failure of germination, erosion, etc., or in opinion of the Owner PM, Owner EHS and/or Sustainable Owner are unhealthy, shall be replaced at no additional cost to the owner.
    1. MAINTENANCE
    1. The maintenance period shall begin immediately after each area is seeded or sodded and continue until final acceptance of entire project.
    1. During the maintenance period, the Contractor is responsible for all work as necessary to ensure that seeded areas are in a vigorous growing condition.
@@ -158,7 +158,9 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Sodding']
     1. Watering
    1. Contractor is responsible for watering seeded and sodded areas for one (1) full year from date of installation.
    1. Water shall be free of substances harmful to plant growth.
-   1. PRODUCTS
+
+## Products
+
    1. FERTILIZER
    1. Slow-Release Organic Fertilizer:
       1. Subject to compliance with requirements, products that may be incorporated into the Work include:
@@ -472,8 +474,7 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Sodding']
 1. Scientific Name
 1. Common Name
 1. Variety
-1. Drill Seed Rate Lbs./Acre (PLS) 1,2** 
-1. Hand Broadcast Rate
+1. Drill Seed Rate Lbs./Acre (PLS) 1,2*1. Hand Broadcast Rate
 1. Lbs./Acre (PLS) 1,2
 1. Graminoids
    1. Agropyron smithii
@@ -600,15 +601,17 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Sodding']
    1. Symphoricarpos albus, Snowberry
    1. Ribes cereum, wax currant
    1. Prunus besseyi, Western sand cherry
-   1. EXECUTION
-   1. EXAMINATION
+
+## Execution
+
+1. EXAMINATION
    1. Examine areas to be planted for compliance with requirements and other conditions affecting performance.
    1. Proceed with installation only after unsatisfactory conditions have been corrected.
    1. If contamination by foreign or deleterious material or liquid is present in soil within a planting area, remove the soil and contamination as directed by Architect and replace with new planting soil.
    1. Locate sewer, water, irrigation, gas, electric, phone and other pipelines or conduits and equipment prior to commencing work.
    1. Contractor is responsible for proper repair to landscape, utilities, fencing, drainage structures, pavements and other site improvements damaged by operations under this section.
    1. Identify prepared seeding areas requiring protection and erect barriers for proper protection and traffic control maintained throughout germination/development period.
-   1. PREPARATION
+1. PREPARATION
    1. Decompact any construction traffic, or staging areas prior to topsoiling by tilling to 12 inches.
    1. Layout of seeding areas is indicated on the Drawings. Verify locations with Landscape Architect, Ecologist or Project Supervisor prior to starting seeding operations.
    1. Base Preparation/Grading:
@@ -685,7 +688,7 @@ FIELD QUALITY CONTROL
    1. Provide and install barriers as required and as directed by Owner to protect completed areas against damage from pedestrian and vehicular traffic until acceptance by Owner.
    1. Contractor is not responsible for malicious destruction caused by others.
    1. MAINTENANCE AND ACCEPTANCE
-   1. Maintenance period shall begin immediately after each area is seeded or sodded, and continue for 1 year until final acceptance of landscaping work by NREL.
+   1. Maintenance period shall begin immediately after each area is seeded or sodded, and continue for 1 year until final acceptance of landscaping work by Owner.
    1. During this time water, mow, spot spray with approved herbicides (after seedlings are no longer sensitive to them), hand weed, as necessary to insure that seeded areas are in a vigorous growing condition until final acceptance.
    1. Bare areas over 1 square feet in size shall be reseeded and mulched if they fail to establish at least 6 desirable seedlings/sq. ft. (non-irrigated areas) or 12 desirable seedlings/sq. ft. (irrigated areas). The Landscape Architect or Ecologist will direct Contractor on what areas need to be reseeded during establishment inspection approximately 30 days after seeding (June-September).
    1. Seeded areas shall be mowed for annual weed control, if so directed by the Landscape Architect, at a height of not less than 6 inches and otherwise maintained until there is an acceptable uniform plant growth. A small tractor or mower shall be used to reduce possible crushing of seedling grasses and rutting of soil.
@@ -693,5 +696,5 @@ FIELD QUALITY CONTROL
    1. Acceptable uniform plant growth shall be defined as the following, whichever is the more strict:
       1. 70% of predisturbance vegetative cover.
    1. At least 6 desirable seedlings/sq. ft. (non-irrigated areas) or 12 desirable seedlings/sq. ft. (in irrigated areas). Scattered bare spots, no greater than 1 sq. ft. and not exceeding 5 percent of seeded area may be acceptable, if approved by Landscape Architect or Ecologist.
-1. END OF SECTION
+
 

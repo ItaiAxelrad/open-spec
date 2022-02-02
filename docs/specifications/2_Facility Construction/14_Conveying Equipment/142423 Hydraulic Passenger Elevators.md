@@ -10,7 +10,7 @@ tags: ['Facility', 'Construction', 'Conveying', 'Equipment', 'Hydraulic', 'Passe
 
 ## General
 
-   1. SUMMARY
+1. SUMMARY
    1. Section includes:
       1. Hydraulic passenger elevators as shown and specified. Elevator work includes:
       1. Commercial, standard pre-engineered hydraulic passenger elevators.
@@ -38,7 +38,7 @@ tags: ['Facility', 'Construction', 'Conveying', 'Equipment', 'Hydraulic', 'Passe
    1. Emergency power supply, transfer switch and auxiliary contacts.
    1. Heat and smoke sensing devices.
    1. Convenience outlets and illumination in machine room, hoistway and pit.
-   1. SUBMITTALS
+1. SUBMITTALS
    1. Product data:
       1. When requested, submit product data for the following:
       1. Elevator car enclosures and hoistway entrances.
@@ -56,7 +56,7 @@ tags: ['Facility', 'Construction', 'Conveying', 'Equipment', 'Hydraulic', 'Passe
    1. Operation and maintenance data. Include the following:
       1. Operation and maintenance instructions.
    1. Parts list, with recommended parts inventory.
-   1. QUALITY ASSURANCE
+1. QUALITY ASSURANCE
    1. Manufacturer Qualifications:
       1. An approved manufacturer regularly engaged in manufacturing, installing, and servicing elevators of the type required for the project.
    1. The manufacturer of the machine, controller, signal fixtures, door operators cab, entrances, and all other major parts of the elevator operating equipment.
@@ -79,7 +79,7 @@ tags: ['Facility', 'Construction', 'Conveying', 'Equipment', 'Hydraulic', 'Passe
    1. DELIVERY, STORAGE AND HANDLING
    1. Deliver elevator materials, components and equipment in manufacturer's protective packaging.
    1. Store materials in a dry protected area provided by others. Protect and handle materials in accordance with manufacturer's recommendations to prevent damage, soiling, or deterioration.
-   1. PROJECT CONDITIONS
+1. PROJECT CONDITIONS
     1. Prohibited Use:
        1. Elevators shall not be used for any purpose during the construction period before Substantial Completion.
    1. Painting:
@@ -89,7 +89,7 @@ tags: ['Facility', 'Construction', 'Conveying', 'Equipment', 'Hydraulic', 'Passe
    1. If a physical obstruction or hindrance is encountered below the ground surface, including boulders, rock, gravel, wood, metal, pilings, sand, water, quick sand, caves, public utilities or any other foreign material, obtain written authorization to proceed with excavating using special excavation equipment.
    1. Maintain a daily log of time and material costs involved.
    1. Elevator contractor will be compensated on a time and material basis for additional costs incurred after encountering the physical obstruction or hindrance, including the cost of the special excavation equipment.
-   1. WARRANTY
+1. WARRANTY
    1. Warranty:
       1. Submit elevator manufacturer's standard written warranty agreeing to repair, restore or replace defects in elevator work materials and workmanship not due to ordinary wear and tear or improper use or care for 12 months from date of Substantial Completion.
    1. MAINTENANCE
@@ -97,7 +97,9 @@ tags: ['Facility', 'Construction', 'Conveying', 'Equipment', 'Hydraulic', 'Passe
    1. Maintenance work, including 24 hour-per-day, 7 day-per-week emergency call back repair service, shall be performed by trained employees of the elevator contractor.
    1. Submit parts catalog and show evidence of local parts inventory with complete list of recommended spare parts. Parts shall be produced by manufacturer of original equipment.
    1. Manufacturer shall have a service office and full time service personnel within a 50 mile radius of the project site.
-   1. PRODUCTS
+
+## Products
+
    1. MANUFACTURERS
    1. Manufacturer:
       1. Thyssen Krupp Elevator, Memphis, TN or equal.
@@ -343,11 +345,13 @@ tags: ['Facility', 'Construction', 'Conveying', 'Equipment', 'Hydraulic', 'Passe
       1. When pump and motor are not submerged, provide panels manufactured of reinforced 14 gauge steel with 1-inch-thick 1-1/2 pound fiberglass core attached to interior and mounted on all four open sides of the power unit frame.
    1. Sound Isolating Couplings:
       1. When pump and motor are not submerged, install a minimum of two couplings in the oil line in the machine room between pump and jack.
-   1. Execution
-   1. EXAMINATION
+
+## Execution
+
+1. EXAMINATION
    1. Before starting elevator installation, inspect hoistway, hoistway openings, pits and machine rooms, as constructed, verify all critical dimensions, and examine supporting structures and all other conditions under which elevator work is to be installed. Do not proceed with elevator installation until unsatisfactory conditions have been corrected in a manner acceptable to the installer.
    1. Installation constitutes acceptance of existing conditions and responsibility for satisfactory performance.
-   1. INSTALLATION
+1. INSTALLATION
    1. Install elevator systems components and coordinate installation of hoistway wall construction.
    1. Work shall be performed by competent elevator installation personnel in accordance with ASME A17.1, manufacturer's installation instructions and approved shop drawings.
    1. Comply with the National Electrical Code for electrical work required during installation.
@@ -414,5 +418,4 @@ tags: ['Facility', 'Construction', 'Conveying', 'Equipment', 'Hydraulic', 'Passe
       1. 460 volts, 3 Phase, 60 Hz.
    1. Seismic requirements for zone 1
    1. Special Features:
-         1. END OF SECTIONTHIS PAGE INTENTIONALLY BLANK
-
+         

@@ -7,19 +7,14 @@ subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Openings', 'Hardware']
 ---
 
-   1. section 08 70 00
-1. finish hardware
-
 ## General
 
-
-* 
-	1. **Summary
+1. SUMMARY
    1. Work under this section shall include finish hardware as well as inspection and testing of door operation. 
 2. Related specifications include:
 	1. Section 08 10 00, Hollow Metal Doors and Frames
 	2. Section 28 10 00, Building Access System
-	3. **Quality Assurance
+	3. Quality Assurance
 3. All door hardware shall be provided by a single hardware supplier. 
 4. Work shall be per:
 	1. Americans with Disabilities Act (ADA):
@@ -43,14 +38,14 @@ tags: ['Facility', 'Construction', 'Openings', 'Hardware']
 			1. International Building Code and associated standards, 2015 Edition including all amendments, referred to herein as Building Code. 
 			2. International Energy Conservation Code (IECC), 2015 Edition including all amendments.
 5. Installation shall be inspected by a certified Architectural Hardware Consultant (AHC).
-	1. **Definitions
+	1. Definitions
 6. AHC:
       1. Architectural Hardware Consultant, certified by DHI.
 7. All weather:
       1. Capable of operation from -50 to +120 DegF
 8. Active Leaf:
       1. Right-hand leaf when facing door from keyed side unless noted otherwise. 
-	1. **Submittals
+	1. Submittals
 9. See Specification Section 01 33 00 for requirements for the mechanics and administration of the submittal process.
 10. Shop Drawings shall include:
 	1. Qualifications shall include AHC qualifications and certification.
@@ -59,9 +54,8 @@ tags: ['Facility', 'Construction', 'Openings', 'Hardware']
 	4. Warranty information for all hardware devices having extended warranties. 
 	5. Schedule of hardware used on each door.
 11. Certification from AHC stating all door hardware has been provided per approved Shop Drawings and in accordance with the manufacturer’s installation instructions. 
-   ## Product
-1. 2.1 Materials** 
-   1. Fasteners:
+## Product
+1. 2.1 Materials*   1. Fasteners:
       1. Stainless steel or aluminum.
 2. Closers:
 	1. Shell: Aluminum or cast iron.
@@ -164,10 +158,7 @@ ly prepare for Phillips head machine screw installation.
 10. Exit Devices:
 	1. ANSI/BHMA A156.3, Grade 1.
 11. Weatherstripping:
-	
-## General
-
-: Exterior envelope locations meet minimum 2015 IECC air leakage requirements.
+		1. General: Exterior envelope locations meet minimum 2015 IECC air leakage requirements.
 	2. Weather seal at jambs and head:
 		1. Self-adhesive strip: Reese #797W.
 		2. Color: Black.

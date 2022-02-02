@@ -7,7 +7,7 @@ subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Utilities', 'Storm', 'Drainage', 'System']
 ---
 
-1. SECTION 334000
+
 1. STORM DRAINAGE UTILITIES
 1. 
 ## General
@@ -345,5 +345,4 @@ an additional 24 hours.
       1. Acceptance tests for installed ferrous and plastic piping shall be in accordance with ASTM F 1417.
 5. Interior Inspection of Pipe
       1. Installed pipe shall be inspected when 2 feet of earth cover is in place and upon completion of project. Displaced or misaligned pipe, infiltration, accumulation of debris, or other defects shall be corrected by the Contractor at no additional cost to the Government.
-1. END OF SECTION 334000
 

@@ -10,13 +10,13 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Clearing']
 
 ## General
 
-   1. SUMMARY
+1. SUMMARY
    1. Section Includes
    1. This section includes site clearing activities and site improvement operations in a manner to protect improvements from destructive soil erosion and to reduce damages to downstream areas from sedimentation and accelerated runoff.
    1. Related Sections
    1. Section 312000 – Earth Moving
    1. Comply with
-   1. Provisions of the NREL Particulate Emissions Control Plan and the NREL Storm Water Pollution Prevention Plan.
+   1. Provisions of the Owner Particulate Emissions Control Plan and the Owner Storm Water Pollution Prevention Plan.
    1. REFERENCES
    1. AASHTO Standards:
       1. T99 - The Moisture-Density Relations of Soils Using a 5.5-Pound (2.5-kg) Rammer and a 12-Inch (305-mm) Drop.
@@ -27,8 +27,8 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Clearing']
    1. D2922 - Density of Soil and Soil-Aggregate In-Place by Nuclear Methods (Shallow Depth).
    1. D4253 - Maximum Index Density of Soils Using a Vibratory Table.
    1. D4254 - Minimum Index Density of Soils and Calculation of Relative Density.
-   1. SUBMITTALS
-   1. Submit site specific Erosion and Sediment and Control plan in accordance with the NREL Storm Water Pollution Prevention Plan.
+1. SUBMITTALS
+   1. Submit site specific Erosion and Sediment and Control plan in accordance with the Owner Storm Water Pollution Prevention Plan.
    1. QUALITY CONTROL
    1. Requirements of Regulatory Agencies
    1. Soil erosion and sedimentation control permit as may be required by the State of Colorado will be obtained by the Owner. Contractor must have a copy of the permit on site and comply with all requirements.
@@ -43,7 +43,9 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Clearing']
 ## General
 
    1. Provide materials as indicated on the Drawings, in compliance with Soil Erosion and Sedimentation Control, subject to approval and modification by the Architect and the local enforcing agency.
-   1. EXECUTION
+
+## Execution
+
 
 ## General
 
@@ -55,7 +57,7 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Clearing']
       1. Repair of all damaged installations.
    1. Replacement of lost facilities.
    1. Periodic removal of collected silt and sedimentation as required or directed to maintain effectiveness of the silt traps, filters and basins.
-   1. PREPARATION
+1. PREPARATION
    1. Cleaning and Grubbing
    1. Perform clearing and grubbing as indicated or as necessary to perform excavation, trenching, embankment, borrow, and other Work required, and where desired by Contractor for subsidiary purposes subject to approval.
    1. Clearing
@@ -79,6 +81,6 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Clearing']
    1. Contractor may claim and salvage any timber which he may consider of value, but shall not delay in any manner either this Contract or other Work with salvaging operations.
    1. CLEAN UP
    1. Remove temporary erosion control measures at the completion of construction, unless ordered by the Architect to remain in place. Take care during removal to minimize siltation of nearby drainage courses
-   1. END OF SECTION
-   1. THIS PAGE INTENTIONALLY BLANK 
+   
+    
 

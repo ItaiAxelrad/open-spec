@@ -7,7 +7,7 @@ subgroup: General Requirements
 tags: ['General', 'Requirements', 'Mobilization']
 ---
 
-1. SECTION 01505
+
 1. MOBILIZATION
 1. 
 ## General
@@ -38,5 +38,5 @@ the proper performance and completion of the work. Mobilization shall include, b
 ## Execution
 
   1. NOT USED
-1. END OF SECTION
+
 

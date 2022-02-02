@@ -13,14 +13,12 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Steel', 'Pipe']
 
 ## General
 
-
-* 
-	1. **Summary
+1. SUMMARY
    1. Work under this section shall include steel pipe, fittings, and appurtenances.
 2. Related Specification Sections include:
 	1. Section 09 90 00, Painting and Protective Coating
 	2. Section 40 05 00, Pipe and Pipe Fittings: Basic Requirements
-	3. **Quality Assurance
+	3. Quality Assurance
 3. Work shall be per:
 	1. American Society of Mechanical Engineers (ASME):
 		1. Unified Inch Screw Threads (UN and UNR Thread Form).
@@ -59,7 +57,7 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Steel', 'Pipe']
 4. Qualifications
 	1. Application of lining and coating materials including preparation of surfaces, priming, and lining and coating of pipe, fittings, and specials, in shop, repairs of any damage to lining or coating occurring during shipment or any other time, and field lining and coating of end s where linings or coatings have been held back for welded field joints, shall be done by established and recognized pipe company acceptable to the Engineer. 
 	2. Use only certified welders. 
-	3. **Submittals
+	3. Submittals
 5. See Specification Section 01 33 00 for requirements for the mechanics and administration of the submittal process.
 6. See Specification Section 40 05 00 for additional submittal requirements.
 7. Shop Drawings:
@@ -67,10 +65,9 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Steel', 'Pipe']
 	2. If mechanical grooved type coupling system is used, submit piping, fittings, and appurtenant items which will be utilized. 
 	3. Coating manufacturer’s qualifications.
 	4. Welder’s certifications.
-   ## Product
+## Product
 
-* 
-	1. **Materials
+	1. Materials
    1. All materials used in steel piping systems shall meet or exceed pressure test requirements specified for each respective system.
 2. Steel Pipe (Fabricated Type):
 	1. AWWA C200:
@@ -107,7 +104,7 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Steel', 'Pipe']
 9. Gaskets
 	1. 24 IN DIA and smaller pipe: Full face, 1/8 IN thick, nitrile.
 	2. Larger than 24 IN DIA pipe: Ring type, 1/8 IN thick, nitrile.
-	3. **Manufactured Units
+	3. Manufactured Units
 10. Couplings:
 	1. Flanged adaptors:
 		1. Steel or carbon steel body sleeve, flange, followers and Grade 30 rubber gaskets.
@@ -119,11 +116,11 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Steel', 'Pipe']
 		3. Flanges meeting standards of adjoining flanges.
 		4. Tie bolt assembly.
 		5. Provide field coating for buried couplings per AWWA C203.
-	3. **Accessories
+	3. Accessories
 11. Heating Water Application:
 	1. For steel heating lines, provide braided, flanged stainless steel connectors for connection to equipment.
 	2. Provide pump connectors with stainless steel construction, rubber filled bellows and flanged end connections.
-	3. **Fabrication
+	3. Fabrication
 12. Provide piping (mill or fabricated) for use in this Project with minimum wall thicknesses as follows:
 	1. 1/8 - 5 IN DIA pipe: Schedule 40.
 	2. 6 - 10 IN DIA pipe: 3/16 IN.

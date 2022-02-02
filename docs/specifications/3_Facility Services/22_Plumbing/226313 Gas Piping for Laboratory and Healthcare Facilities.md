@@ -4,7 +4,7 @@ section: '226313'
 divNumb: 22
 divName: Plumbing
 subgroup: Facility Services
-tags: ['Facility', 'Services', 'Plumbing', 'Gas', 'Piping', 'for', 'Laboratory', 'Healthcare', 'Facilities']
+tags: ['Facility', 'Services', 'Plumbing', 'Gas', 'Piping', 'Laboratory', 'Healthcare', 'Facilities']
 ---
 
 
@@ -48,8 +48,7 @@ tags: ['Facility', 'Services', 'Plumbing', 'Gas', 'Piping', 'for', 'Laboratory',
       1. As defined in NFPA 70 for circuits and equipment operating at less than 50 V or for remote-control, signaling power-limited circuits.
    1. Specialty Gas:
       1. Gas, other than medical gas, for nonmedical laboratory facility applications.
-1. Submittals** 
-   1. Refer to related Division 22 sections of the Specifications. 
+1. Submittals*   1. Refer to related Division 22 sections of the Specifications. 
    1. Submit Product Data on the following:
       1. Underground piping materials.
    1. Aboveground piping materials.
@@ -58,8 +57,7 @@ tags: ['Facility', 'Services', 'Plumbing', 'Gas', 'Piping', 'for', 'Laboratory',
 
 ## General
 
-1. Piping Materials - Aboveground** 
-   1. High purity Gas Installations:
+1. Piping Materials - Aboveground*   1. High purity Gas Installations:
       1. Copper Piping Specifications
    1. Applicability:
       1. This section defines the requirements for the fabrication, installation, and testing of high purity gas distribution systems using copper tubing. This includes such high purity gases as:
@@ -138,7 +136,7 @@ tags: ['Facility', 'Services', 'Plumbing', 'Gas', 'Piping', 'for', 'Laboratory',
    1. total Hydrocarbons < 1 ppm
    1. Particulates < 10 particles/ft3 (of size 0.5 microns diameter or larger)
    1. Labeling:
-      1. Use Brady labels or equivalent in compliance with NREL policy. Each service drop must have a label and label disc inserted in valve handle. Labels shall identify gas in each tube, plus, header location and column number. Labeling shall be placed on tubing every 10 feet on straight tube runs, before and after valves, and before and after breaching walls and partitions. Tubing 1/2 inch or larger requires labels having print at least 1/2-inch in height.
+      1. Use Brady labels or equivalent in compliance with Owner policy. Each service drop must have a label and label disc inserted in valve handle. Labels shall identify gas in each tube, plus, header location and column number. Labeling shall be placed on tubing every 10 feet on straight tube runs, before and after valves, and before and after breaching walls and partitions. Tubing 1/2 inch or larger requires labels having print at least 1/2-inch in height.
    1. Line Protection:
       1. All tubing passing through masonry partitions shall be fitted with pipe sleeves. Sleeves shall be standard width pipe of sufficient length to pass through the entire thickness of the partition and shall be cut flush with each surface, except as otherwise specified. All tubing passing through metal partitions shall be fitted with expanded in-place metal sleeves except as otherwise specified.
    1. Tubing shall be supported using plastic or neoprene coated clevis hangers or copper plated Unistrut clips. In areas where there may be danger of equipment damage to tubing (e.g., loading docks where forklifts may operate), channels shall be constructed to protect the tubing from physical damage.
@@ -227,7 +225,7 @@ tags: ['Facility', 'Services', 'Plumbing', 'Gas', 'Piping', 'for', 'Laboratory',
    1. Hydrocarbons < 1 ppm
    1. Particulates < 10 particles/ft3
    1. Labeling:
-      1. Use Brady labels or equivalent in compliance with NREL policy. Each service drop must have a label and label disc inserted in valve handle. Labels shall identify gas in each tube, plus, header location and column number. Labeling shall be placed on tubing every 10 feet on straight tube runs, before and after valves, and before and after breaching walls and partitions. Tubing 1/2 inch or larger requires labels having print at least 1/2 inch in height.
+      1. Use Brady labels or equivalent in compliance with Owner policy. Each service drop must have a label and label disc inserted in valve handle. Labels shall identify gas in each tube, plus, header location and column number. Labeling shall be placed on tubing every 10 feet on straight tube runs, before and after valves, and before and after breaching walls and partitions. Tubing 1/2 inch or larger requires labels having print at least 1/2 inch in height.
    1. Line Protection:
       1. For highly toxic and pyrophoric gases, all tubing outside of gas cabinets shall be enclosed in a ventilated chase or race way (see Division 23 sections of the Specifications) providing secondary containment, with this ventilated volume being monitored for the appropriate HPM. For house services such as hydrogen, secondary containment is not required for continuous tubing runs (i.e., all joints welded and no valves, couplings, regulators, etc.) within the laboratory or HPM source rooms.
    1. All tubing passing through masonry partitions shall be fitted with pipe sleeves. Sleeves shall be standard width pipe of sufficient length to pass through the entire thickness of the partition and shall be cut flush with each surface, except as otherwise specified. All tubing passing through metal partitions shall be fitted with expanded in-place metal sleeves except as otherwise specified.
@@ -283,8 +281,7 @@ tags: ['Facility', 'Services', 'Plumbing', 'Gas', 'Piping', 'for', 'Laboratory',
 6. Perform pneumatic pressure tests using dry nitrogen gas. Hold pressure for a minimum of 4 hours without pressure drop on test gauge.
 7. Provide 1 manday (8 hours) manufacturer's installation and startup assistance at the work site to make final checkout, conduct acceptance test, and certify that all vacuum-insulated pipe and accessories are properly installed, operable and ready for use.
 1. EXECUTION
-1. Underground Piping Installation** 
-   1. Trench Excavation:
+1. Underground Piping Installation*   1. Trench Excavation:
       1. Excavate trenches so that piping may be laid correctly on line and grade. Remove any large rocks or other debris encountered in the excavation and dispose of appropriately. 
    1. Excavate to a sufficient depth and width to provide adequate room for construction and installation of the work except that the width of the trench from the pipe invert to a point 12 inches above the top of the pipe shall not be greater than 30 inches. 
    1. Where it is impossible to maintain proper line and grade, excavate below grade and replace the bedding with compacted sand. 
@@ -314,11 +311,7 @@ tags: ['Facility', 'Services', 'Plumbing', 'Gas', 'Piping', 'for', 'Laboratory',
    1. Provide sand backfill mechanically compacted in 6-inch lifts to 95 percent of maximum density as determined by ASTM D1557, for all piping inside the building. 
    1. Pipes Through Grade Beams:
       1. Provide pipes and tubing passing through or under building grade beams with a schedule 40 pipe sleeve with 4-inch clearance to prevent possible damage from building settlement. 
-1. Aboveground Piping Installation** 
-
-## General
-
-:
+1. Aboveground Piping Installation*	1. General:
       1. 
    1. Install pipe and pipe fittings in accordance with recognized industry practices to achieve permanently leakproof systems, capable of performing the indicated service without failure.
    1. Install each piping run with a minimum number of joints and couplings but with adequate and accessible unions/flanges for disassembly and maintenance/replacement of valves and equipment.
@@ -334,8 +327,7 @@ tags: ['Facility', 'Services', 'Plumbing', 'Gas', 'Piping', 'for', 'Laboratory',
    1. Cutting, burning, or welding of structural steel is not permitted, unless indicated otherwise. 
    1. Personnel Protection From Suspended Work:
       1. Refer to related Division 22 sections of the Specifications.
-1. Pipe Jointing** 
-   1. Stainless Steel Tubing:
+1. Pipe Jointing*   1. Stainless Steel Tubing:
       1. Install piping to be completely drainable, pitching 1 inch in 50 feet to drain points and installing only eccentric type reducers.
    1. For tubing sizes up through NPS 1, instead of fittings, tubing may be bent, using a tubing bender in accordance with ANSI B11.15 and ASME B31.1.
    1. Install diaphragm valves and automatic flow controls oriented to permit drainage per manufacturer's instructions. 
@@ -356,6 +348,5 @@ tags: ['Facility', 'Services', 'Plumbing', 'Gas', 'Piping', 'for', 'Laboratory',
 “T-Drill” Tube Coupling System: Copper couplings may be made by means of mechanically formed couplings, providing:
       1. The couplings are formed by first annealing the area at the end of the tube where the expansion is to occur, inserting the tube expander to the die size required and expanding the tube to accept tubing of the same size.
    1. The resulting joint is a minimum of three times as long as the thickness of the tube and is brazed using B-CuP series filler metal.
-1. END OF SECTION 226313
 1. (THIS PAGE INTENTIONALLY BLANK)
 

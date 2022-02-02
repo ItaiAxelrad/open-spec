@@ -24,16 +24,12 @@ tags: ['General', 'Requirements', 'Commissioning']
    1. Submit Commissioning Plan as prepared by the Contractor or his Commissioning Representative. 
 	1. The commissioning plan shall outline the organization, scheduling, team members, and documentation pertaining to the overall commissioning process.
 2. Submit System Operating Manual.
-   ## Product
+## Product
 
 
 ## Execution
 
-
-## General
-
-
-:
+	 1. General:
 	1. Commissioning shall commence following system start-up. 
 	2. The contractor shall be responsible for commissioning all equipment and ensure their readiness for use. 
 	3. The acceptance of equipment shall be preceded by a seven (7) day trial run by the Contractor to prove all equipment and the plant as a whole performs to requirements. 

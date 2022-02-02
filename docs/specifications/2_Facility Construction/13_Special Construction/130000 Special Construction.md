@@ -10,5 +10,3 @@ tags: ['Facility', 'Construction', 'Special']
    1. Division 13
    1. Special Construction
 
-*[this page intentionally left blank]*
-

@@ -10,7 +10,7 @@ tags: ['Facility', 'Services', 'Electrical', 'Panelboards']
 
 ## General
 
-   1. RELATED DOCUMENTS
+1. RELATED DOCUMENTS
    1. Drawings and general provisions of the Contract, including General and Supplementary Conditions and Division 1 Specification Sections, apply to this Section.
    1. Summary
    1. This Section includes provision of power distribution, lighting and receptacle panelboards, complete with overcurrent devices and accessories, as specified and indicated.
@@ -34,7 +34,9 @@ tags: ['Facility', 'Services', 'Electrical', 'Panelboards']
       1. Submit dimensioned drawings of panelboards including elevations of power and distribution panelboards.
    1. Quality Control Submittals:
       1. Submit results of specified field tests.
-   1. Products
+
+## Products
+
    1. Lighting And Receptacle Panelboards
    1. Manufacturers:
       1. Panelboards rated 240V max.:
@@ -55,10 +57,7 @@ tags: ['Facility', 'Services', 'Electrical', 'Panelboards']
       1. AE
    1. Square D:
       1. NF, I Line
-
-## General
-
-:
+	1. General:
       1. Provide dead-front, safety-type, 60-hertz panelboards suitable for voltages, phases, and wires as indicated.
    1. Comply with the applicable requirements of NEMA PB 1 and UL 50 and 67.
    1. Provide minimum integrated equipment short circuit rating of 10,000 amperes RMS symmetrical at 240 volts for 240V maximum panelboards and 14,000 amperes RMS symmetrical at 277 volts for 480/277V panelboards unless otherwise indicated.
@@ -116,10 +115,7 @@ tags: ['Facility', 'Services', 'Electrical', 'Panelboards']
       1. CCB
    1. Square-D:
       1. I Line
-
-## General
-
-:
+	1. General:
       1. Provide dead-front, safety-type, 60-hertz panelboards suitable for voltages, phases, and wires as indicated.
    1. Comply with the applicable requirements of NEMA PB 1 and UL 50 and 67.
    1. Comply with the applicable requirements of UL 869A for panelboards used as service entrance equipment.
@@ -155,10 +151,7 @@ tags: ['Facility', 'Services', 'Electrical', 'Panelboards']
       1. Pow-R-Line 4
    1. GE Company, GE Industrial Systems:
       1. QMR
-
-## General
-
-:
+	1. General:
       1. Provide dead-front safety-type, 60 hertz panelboards suitable for voltages, phases, and wires as indicated.
    1. Comply with the applicable requirements of NEMA PB 1 and UL 50 and 67.
    1. Comply with the applicable requirements of UL 869A for panelboards used as service entrance equipment.
@@ -183,12 +176,11 @@ tags: ['Facility', 'Services', 'Electrical', 'Panelboards']
    1. Provide a circuit identification frame and card with a clear plastic covering on the front of each fusible switch unit. Provide minimum 25-mm-high (1-inch-high) by 75-mm-long (3-inch-long) space on the circuit identification card.
    1. Provide pole positions indicated as "spare" of fusible switches with the number of poles, switch ampacities, and fuse sizes as indicated.
    1. Provide pole positions indicated as "space" with bus connections ready for insertion of fusible switches of number of poles, switch ampacities, and fuse sizes as indicated.
-   1. Execution
+
+## Execution
+
    1. Installation
-
-## General
-
-:
+	1. General:
       1. Install and test panelboards in accordance with ANSI NECA 407.
    1. Surface or flush mount panelboards as indicated on drawings.
    1. Align, level and securely fasten panelboards to the building.
@@ -224,6 +216,5 @@ tags: ['Facility', 'Services', 'Electrical', 'Panelboards']
    1. After circuit changes, recheck loads during normal load period. Record all load readings before and after changes and submit test records.
    1. Tolerance:
       1. Difference exceeding 20 percent between phase loads, within a panelboard, is not acceptable. Rebalance and recheck as necessary to meet this minimum requirement.
-1. END OF SECTION 262416
 1. (THIS PAGE INTENTIONALLY BLANK)
 

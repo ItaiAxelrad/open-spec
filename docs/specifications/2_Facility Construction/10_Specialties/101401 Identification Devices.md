@@ -12,11 +12,9 @@ tags: ['Facility', 'Construction', 'Specialties', 'Identification', 'Devices']
 
 ## General
 
-
-* 
-	1. **Summary
+1. SUMMARY
    1. Work under this section shall include tag, and tape systems for equipment, piping, valves, pumps, ductwork and similar items, and hazard and safety signs. 
-	1. **Quality Assurance
+	1. Quality Assurance
 2. Work shall be per:
 	1. American Society of Mechanical Engineers (ASME):
 		1.  A13.1, Scheme for the Identification of Piping Systems.
@@ -32,12 +30,12 @@ tags: ['Facility', 'Construction', 'Specialties', 'Identification', 'Devices']
 		1.  29 CFR 1910.145, Specification for Accident Prevention Signs and Tags.
 	6. Colorado Department of Public Health and Environment:
 		1. State of Colorado Design Criteria for Potable Water Systems.
-	7. **Submittals
+	7. Submittals
 3. See Specification Section 01 33 00 for requirements for the mechanics and administration of the submittal process.
 4. Shop drawings shall include:
 	1. Product technical data including catalog information for all identification systems and acknowledgement that products submitted meet requirements of standards referenced. 
 	2. Include a signage plan.
-   ## Product
+## Product
 1. 2.1 Manufactured Units
    1. Type A1 - Round Metal Tags:
 	1. Materials:
@@ -124,7 +122,7 @@ tags: ['Facility', 'Construction', 'Specialties', 'Identification', 'Devices']
 			2. Solid.
 		2. Wire nuts: Waterproof type.
 		3. Split bolts: Brass.
-	2. **Accessories
+	2. Accessories
 9. Fasteners:
 	1. Bead chain: #6 brass, aluminum or stainless steel.
 	2.  Plastic strap: Nylon, urethane or polypropylene.
@@ -169,33 +167,33 @@ tags: ['Facility', 'Construction', 'Specialties', 'Identification', 'Devices']
 		4. Natural gas or digester gas:
 			1. Color: Yellow with black letters.
 			2. Legend:
-				1. First line: “CAUTION CAUTION CAUTION”
-				2. Second line: “BURIED GAS LINE BELOW”
+			1. First line: “CAUTION CAUTION CAUTION”
+			2. Second line: “BURIED GAS LINE BELOW”
 		5. Potable water:
 			1. Blue with black letters.
 			2. Legend:
-				1. First line: “CAUTION CAUTION CAUTION”
-				2. Second line: “BURIED WATER LINE BELOW”
+			1. First line: “CAUTION CAUTION CAUTION”
+			2. Second line: “BURIED WATER LINE BELOW”
 		6. Storm and sanitary sewer lines:
 			1. Color: Green with black letters.
 			2. Legend:
-				1. First line: “CAUTION CAUTION CAUTION”
-				2. Second line: “BURIED SEWER LINE BELOW”
+			1. First line: “CAUTION CAUTION CAUTION”
+			2. Second line: “BURIED SEWER LINE BELOW”
 		7. (Nonpotable) water piping, except 3 IN and smaller irrigation pipe:
 			1. Color: Green with black letters.
 			2. Legend:
-				1. First line: “CAUTION CAUTION CAUTION”
-				2. Second line: “BURIED NONPOTABLE WATER LINE BELOW”
+			1. First line: “CAUTION CAUTION CAUTION”
+			2. Second line: “BURIED NONPOTABLE WATER LINE BELOW”
 		8. Chemical feed piping (e.g., chlorine solution)
 			1. Color: Yellow with black letters.
 			2. Legend:
-				1. First line: “CAUTION CAUTION CAUTION”
-				2. Second line: “BURIED CHEMICAL LINE BELOW”
+			1. First line: “CAUTION CAUTION CAUTION”
+			2. Second line: “BURIED CHEMICAL LINE BELOW”
 		9. Other piping (e.g., compressed air, irrigation, refrigerant, heating water, etc.):
 			1. Color: Yellow with black letters.
 			2. Legend:
-				1. First line: “CAUTION CAUTION CAUTION”
-				2. Second line: “BURIED PIPE LINE BELOW”
+			1. First line: “CAUTION CAUTION CAUTION”
+			2. Second line: “BURIED PIPE LINE BELOW”
 	3. Yard valves, buried, with valve box and concrete pad:
 		1. Tag type: Type A2 - Rectangle Metal Tags.
 		2. Fastener: 3/16 IN x 7/8 IN plastic screw anchor with 1 IN #6 stainless steel pan head screw.
@@ -206,8 +204,8 @@ tags: ['Facility', 'Construction', 'Specialties', 'Identification', 'Devices']
 		1. Tag type:
 			1. Outdoor locations: Type B1 - Square Nonmetallic Tags.
 			2. Indoor noncorrosive:
-				1. Type A1 - Round Metal Tags.
-				2. Type B1 - Square Nonmetallic Tags.
+			1. Type A1 - Round Metal Tags.
+			2. Type B1 - Square Nonmetallic Tags.
 			3. Indoor corrosive:
 			4. Stainless steel Type A1 - Round Metal Tags.
 			5. Type B1 - Square Nonmetallic Tags.
@@ -229,7 +227,7 @@ tags: ['Facility', 'Construction', 'Specialties', 'Identification', 'Devices']
 	6. 6. Piping systems:
 		1. Tag type:
 			1. Indoor locations:
-				1. Type D - Self-Adhesive Tape Tags and Signs.
+			1. Type D - Self-Adhesive Tape Tags and Signs.
 		2. Fastener: Self.
 		3. Legend:
 			1. Letter height: Manufacturers standard for the pipe diameter.
@@ -266,11 +264,11 @@ tags: ['Facility', 'Construction', 'Specialties', 'Identification', 'Devices']
 		1. Tag type:
 			1. Outdoor locations: Type B1 - Square Nonmetallic Tags.
 			2. Indoor noncorrosive:
-				1. Type A1 - Round Metal Tags.
-				2. Type B1 - Square Nonmetallic Tags.
+			1. Type A1 - Round Metal Tags.
+			2. Type B1 - Square Nonmetallic Tags.
 			3. Indoor corrosive:
-				1. Stainless steel Type A1 - Round Metal Tags.
-				2. Type B1 - Square Nonmetallic Tags.
+			1. Stainless steel Type A1 - Round Metal Tags.
+			2. Type B1 - Square Nonmetallic Tags.
 		2. Fastener:
 			1. Type A1: Chain of the same material.
 			2. Type B1: Stainless steel chain.
@@ -318,24 +316,24 @@ tags: ['Facility', 'Construction', 'Specialties', 'Identification', 'Devices']
 		4. Electrical power (e.g., low and medium voltage):
 			1. Color: Red with black letters.
 			2. Legend:
-				1. First line: “CAUTION CAUTION CAUTION”.
-				2. Second line: “BURIED ELECTRIC LINE BELOW”.
+			1. First line: “CAUTION CAUTION CAUTION”.
+			2. Second line: “BURIED ELECTRIC LINE BELOW”.
 		5. Communications (e.g., telephone, instrumentation, LAN, SCADA):
 			1. Color: Orange with black letters.
 			2. Legend:
-				1. First line: “CAUTION CAUTION CAUTION”.
-				2. Second line: “BURIED COMMUNICATION LINE BELOW”.
+			1. First line: “CAUTION CAUTION CAUTION”.
+			2. Second line: “BURIED COMMUNICATION LINE BELOW”.
 	2. Switchgear, switchboards and motor control centers:
 		1. Tag type: Type C - Phenolic Name Plates.
 		2. Fastener: Screws.
 		3. Main equipment legend:
 			1. Letter height:
-				1. First line: 1 IN minimum.
-				2. Subsequent lines: 3/8 IN minimum.
+			1. First line: 1 IN minimum.
+			2. Subsequent lines: 3/8 IN minimum.
 			2. First line: Equipment name (e.g., "MAIN SWITCHBOARD MSBxxx").
 			3. Second line:
-				1. Source of power (e.g., "FED FROM MCCxxx LOCATED IN ROOM xxx").
-				2. Include the building name or number if the source is in another building.
+			1. Source of power (e.g., "FED FROM MCCxxx LOCATED IN ROOM xxx").
+			2. Include the building name or number if the source is in another building.
 			4. Third line: System voltage and phase (e.g., “480/277 V, 3PH”).
 		4. Main and feeder device legend:
 			1. Letter height: 3/8 IN minimum.
@@ -345,20 +343,20 @@ tags: ['Facility', 'Construction', 'Specialties', 'Identification', 'Devices']
 		2. Fastener: Screws.
 		3. Legend:
 			1. Letter height:
-				1. First line: 3/8 IN minimum.
-				2. Subsequent lines: 3/16 IN minimum.
+			1. First line: 3/8 IN minimum.
+			2. Subsequent lines: 3/16 IN minimum.
 			2. First line: Equipment name (e.g., "PANELBOARD LPxxx" or "TRANSFORMER Txxx").
 			3. Second line (panelboards only): System voltage and phase (e.g., “208/120V, 3PH”).
 			4. Third line:
-				1. Source of power (e.g., "FED FROM MCCxxx LOCATED IN ROOM xxx").
-				2. Include the building name or number if the source is in another building.
+			1. Source of power (e.g., "FED FROM MCCxxx LOCATED IN ROOM xxx").
+			2. Include the building name or number if the source is in another building.
 	4. Transfer switches:
 		1. Tag type: Type C - Phenolic Name Plates.
 		2. Fastener: Screws.
 		3. Legend:
 			1. Letter height:
-				1. First line: 3/8 IN minimum.
-				2. Subsequent lines: 3/16 IN minimum.
+			1. First line: 3/8 IN minimum.
+			2. Subsequent lines: 3/16 IN minimum.
 			2. First line: Equipment name (e.g., "AUTOMATIC TRANSFER SWITCH ATSxxx").
 	5. Safety switches, separately mounted circuit breakers and motor starters, VFD’s, etc.:
 		1. Tag type: Type C - Phenolic Name Plates.
@@ -427,7 +425,7 @@ tags: ['Facility', 'Construction', 'Specialties', 'Identification', 'Devices']
 		5. Legend:
 			1. OSHA Danger Sign.
 			2. Description of Danger: “MULTIPLE VOLTAGE SOURCES”.
-	15. **Color Coding
+	15. Color Coding
 5. Color and band piping in accordance with State of CDPHE, Design Criteria for Potable Water Systems.
 	1. Place bands:
 		1. Along continuous lines.
@@ -439,6 +437,6 @@ tags: ['Facility', 'Construction', 'Specialties', 'Identification', 'Devices']
 		2. Piping greater than 8 IN up to 24 IN DIA: 4 IN minimum.
 		3. Piping greater than 24 IN up to 48 IN DIA: 6 IN minimum.
 		4. Piping greater than 48 IN DIA: 8 IN minimum.
-	3. **Hazard and Safety Signs
+	3. Hazard and Safety Signs
 6. Provide Chemical Hazard and Safety Signs on all chemical tanks and on the exterior of the chemical storage room, pump room, and filter room.
 

@@ -7,7 +7,7 @@ subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Utilities', 'Water', 'Utility', 'Transmission', 'Distribution']
 ---
 
-1. SECTION 33 14 00
+
 1. WATER UTILITY TRANSMISSION AND DISTRIBUTION
 
 ## General
@@ -19,8 +19,7 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Water', 'Utility', 'Transmission'
    1. The Drawings define the general layout, configuration, routing, pipe size and pipe type. The Contract Drawings are not pipe construction or fabrication drawings. It is the Contractor’s responsibility to develop the details necessary to construct the piping system, to accommodate the equipment provided, and to provide and install spools, spacers, adapters and connectors for a complete and functional system. Flanges and joints in addition to those shown may be necessary to facilitate fabrication and installation. All project materials provided by the manufacturers and Contractor shall be pressure rated for the design pressures listed in Section 1.08 of this Specification.
    1. This section includes, but is not limited to:
       1. water mains, temporary bypass piping, tapping tee, joint restraint systems, reducing couplings, insulation unions & couplings, blow-off assembly, fire hydrants, service clamps, corporation ball valves, ball valves, copper tubing and fittings, meter boxes, polyethylene encasement, warning/identification tape, valve cans, water meters, meter boxes, flanged coupling adapters, straight and transition couplings, reducing couplings, blow off assemblies, fire hydrants, fire hydrant elbows, fire hydrant extensions, fire hydrant bolts, field touch up, flange gaskets , bolts, nuts, service clamps, corporation stops, ball valves, copper tubing and fittings, meter boxes, air release valves, polyethylene wrap, warning/identification tape, tracer wire, valve boxes and extension stems, abandonment and removal of existing facilities, and salvage. 
-02. REFERENCE STANDARDS** 
-   1. Without limiting the generality of other requirements of these Specifications, the work specified herein shall conform to or exceed the requirements of the Building Code, City of Santa Monica Standard Drawings, Standard Greenbook, applicable requirements of the Contract Documents (Special Conditions), and of the following documents to the extent that the provisions of such documents are not in conflict with the requirements of this section; provided, that for Building Codes and Greenbook Standard, the latest editions, as adopted as of the date of award by the Owner having jurisdiction, shall apply to the Work.
+02. REFERENCE STANDARDS*   1. Without limiting the generality of other requirements of these Specifications, the work specified herein shall conform to or exceed the requirements of the Building Code, City of Santa Monica Standard Drawings, Standard Greenbook, applicable requirements of the Contract Documents (Special Conditions), and of the following documents to the extent that the provisions of such documents are not in conflict with the requirements of this section; provided, that for Building Codes and Greenbook Standard, the latest editions, as adopted as of the date of award by the Owner having jurisdiction, shall apply to the Work.
    1. The publications listed below form part of this specification to the extent referenced and are referred to in the text by the basic designation only. Reference shall be made to the latest edition of said standards unless otherwise called for.
    1. American National Standards Institute (ANSI) 
 2. B16.1 Cast iron Pipe Flanges and Flanged Fittings
@@ -79,11 +78,9 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Water', 'Utility', 'Transmission'
 55. City of Santa Monica Standard Drawings
 56. California Department of Public Health Title 22
 57. NSF 61 
-03. RELATED SECTIONS** 
-   1. Standard Drawings
+03. RELATED SECTIONS*   1. Standard Drawings
 2. Standard Specifications 01000, 01045, 01200, 01310, 01330, 01505, 01510, 01570, 02140, 02222, 02223, 02511, 02528, 02578, 03000, 03480, 03482, 09902, 09910, and Division 15.
-04. SUBMITTALS** 
-   1. Furnish submittals in accordance with General Conditions and Section 01330 Submittal Procedures. 
+04. SUBMITTALS*   1. Furnish submittals in accordance with General Conditions and Section 01330 Submittal Procedures. 
 2. Submit manufacturer-prepared catalog data showing dimensions, materials of construction by ASTM reference and grade and coatings.
 3. Shop Drawings:
       1. Shop Drawings shall contain the following information:
@@ -97,8 +94,7 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Water', 'Utility', 'Transmission'
 	2. A certification from the pipe fabricator that each pipe will be manufactured subject to the fabricator’s or a recognized Quality Control Program. An outline of the program shall be submitted to the Engineer for review prior to the manufacture of any pipe.
 8. Construction Phasing and Detailed Procedure Plan:
       1. Plans shall include project location, date, valves requiring closures, length of time required for each valve closure and tie in connections, proposed hot tapping locations, construction by-pass piping plans, pressure testing procedure and schedule, abandonment, and line activation.
-05. CONTAMINATION PREVENTION** 
-   1. Volatile organic compounds present in the linings of items in contact with potable water or recycled water shall not exceed concentrations allowed by the latest requirements of the State Office of Drinking Water and Department of Health Services. All products in contact with potable water require proof of NSF certification on the lining materials to be used.
+05. CONTAMINATION PREVENTION*   1. Volatile organic compounds present in the linings of items in contact with potable water or recycled water shall not exceed concentrations allowed by the latest requirements of the State Office of Drinking Water and Department of Health Services. All products in contact with potable water require proof of NSF certification on the lining materials to be used.
 2. All materials shall comply with NSF 61 for materials for water-service piping and specialties for domestic water, including Annex G.
 3. All materials shall comply with NSF 14 for plastic potable-water-service piping, Include marking "NSF-PW" on piping.
 4. All materials shall comply with California Assembly Bill (AB) 1953 (Lead Free)
@@ -125,9 +121,8 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Water', 'Utility', 'Transmission'
 3. Flange Coating:
       1. Machined faces of metal blind flanges and pipe flanges shall be coated with a temporary rust-inhibitive coating to protect the metal until the installation is completed.
 4. Provide Affidavit of Compliance per requirements in Specification Section 01330.
-1. SECTION 2 – PRODUCTS
-1. 2.01 GENERAL** 
-   1. All products in contact with potable water shall be certified compliant with NSF/ANSI 61, Drinking Water System Components-Health effects including Annex G, in addition to the requirements of the Safe Drinking Water Act.
+
+1. 2.01 GENERAL*   1. All products in contact with potable water shall be certified compliant with NSF/ANSI 61, Drinking Water System Components-Health effects including Annex G, in addition to the requirements of the Safe Drinking Water Act.
 2. Refer to Approved Materials List in Appendix A for all project materials.
 1. 2.02 FLANGE GASKETS
    1. All pipe gaskets shall conform where applicable to the latest revision of AWWA C111, AWWA C115, and AWWA C207 standards.
@@ -138,8 +133,7 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Water', 'Utility', 'Transmission'
 6. The flange gaskets shall be a minimum pressure rating equal to the adjacent flanges including the system the test pressure. Refer to Section 15000, Article 1.08 Design.
 7. Provide Affidavit of Compliance per requirements in Specification Section 01330
 8. Refer to Approved Material List.
-1. 2.03 BOLTS AND NUTS** 
-   1. All pipe bolts and nuts shall conform where applicable to the latest revision of AWWA C111, AWWA C115, and AWWA C207 standards.
+1. 2.03 BOLTS AND NUTS*   1. All pipe bolts and nuts shall conform where applicable to the latest revision of AWWA C111, AWWA C115, and AWWA C207 standards.
 2. All bolts and nuts for ductile iron flanges shall be hot dipped galvanized or fluoropolymer coated carbon steel bolts conforming to ATSM A307 grade A with ASTM A563 heavy hex nuts.
 3. All bolts and nuts for steel flanges shall be hot dipped galvanized or fluoropolymer coated carbon steel bolts conforming to ATSM A193 grade B7 with ASTM A194 grade 2H heavy hex nuts.
 4. All bolts and nuts shall be provided with a washer under each nut and under each bolt head made of the same material as the nuts. Washers shall be sized such that no part of the washer shall project beyond the flange outside diameter. Washers shall be flush with the flange surface and shall not impinge on any welded surface between the flange and the pipe, valve, or fitting to which the flange is attached.
@@ -148,10 +142,8 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Water', 'Utility', 'Transmission'
 7. Provide Affidavit of Compliance per requirements in Specification Section 01330
 8. Fire hydrants shall be provided with break off type bolts conforming to ASTM A307 Grade A. Hex nuts shall conform to ASTM A563 with washers. All fire hydrant bolts, nuts and washers shall hot dipped galvanized.
 9. Refer to Approved Material List, or approved equal.
-1. 2.04 POLYETHYLENE ENCASEMENT** 
-   1. Polyethylene encasement shall be used for all ferrous metal materials, coated or uncoated. 
+1. 2.04 POLYETHYLENE ENCASEMENT*   1. Polyethylene encasement shall be used for all ferrous metal materials, coated or uncoated. 
 
-* 
 	1. Polyethylene wrap or sleeves shall be used for the protection of buried ductile-iron pipe, fittings, appurtenances, and valves.
 	2. Polyethylene sleeves shall be used for the protection of buried ductile iron pipe and fittings. Where the use of a sleeve is not practical, the fittings may be wrapped. Additionally, all bolted connections shall be coated with wax tape. 
 	3. Polyethylene wrap or sleeves may also be installed around buried PVC pipe for recycled water identification. 
@@ -166,8 +158,7 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Water', 'Utility', 'Transmission'
 5. Polyethylene encasement shall be secured with 2” wide polyethylene or vinyl adhesive tape or with plastic tie straps.
 	1. Provide Affidavit of Compliance per requirements in Specification Section 01330.
 	2. Refer to Approved Material List, or approved equal.
-1. 2.05 WARNING/IDENTIFICATION TAPE** 
-   1. Warning/identification tape shall be used to identify location of underground utilities and to act as a warning against accidental excavations of buried utilities. Warning/identification tape shall be used on all underground water and recycled water mains, potable and recycled water irrigation systems, sewer mains, and all related appurtenances. Warning/identification tape shall also be used on cathodic protection wiring systems and tracer wire brought into and out of access ports. 
+1. 2.05 WARNING/IDENTIFICATION TAPE*   1. Warning/identification tape shall be used to identify location of underground utilities and to act as a warning against accidental excavations of buried utilities. Warning/identification tape shall be used on all underground water and recycled water mains, potable and recycled water irrigation systems, sewer mains, and all related appurtenances. Warning/identification tape shall also be used on cathodic protection wiring systems and tracer wire brought into and out of access ports. 
    1. Warning/identification tape shall be as indicated below and in accordance with the Approved Materials List.
 
    1. Tape shall be an inert, metallic plastic film formulated for prolonged underground use that will not degrade when exposed to alkalis, acids and other destructive substances commonly found in soil.
@@ -207,8 +198,7 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Water', 'Utility', 'Transmission'
 7. Unless otherwise indicated on the Approved Plans or directed by the City Engineer, gate well lids for valves larger than 2” shall be Type Christy-G05T Traffic Valve Box 10-3/8” I.P.x 12” with an 8:
       1. PVC PIP per the Approved Materials List, or approved equal.
    1. Refer to the Approved Materials List, or approved equal.
-1. 2.08 VALVE STEM EXTENSION** 
-   1. Valves 4” and larger require valve stem extensions to be installed when the valve operating nut is more than 5' below grade or as required by the City Engineer. All valves 2” and smaller requiring the installation of a gate well shall include a valve stem extension in accordance with the Standard Drawings.
+1. 2.08 VALVE STEM EXTENSION*   1. Valves 4” and larger require valve stem extensions to be installed when the valve operating nut is more than 5' below grade or as required by the City Engineer. All valves 2” and smaller requiring the installation of a gate well shall include a valve stem extension in accordance with the Standard Drawings.
    1. Stem extensions shall be complete with operating nut, location ring, and lower socket to fit valve operating nuts. The configuration of the extension stem socket shall match that of the valve it operates.
    1. Valve stem extensions for valves 2” or smaller shall be in accordance with Water Agencies’ Standards WV5.
 2. Valve stem extensions for valves 4” or larger extensions may be round or square hot-dipped galvanized steel tubing of solid design (no pinned couplings permitted) with guides in accordance with Water Agencies’ Standards WV4. 
@@ -225,9 +215,7 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Water', 'Utility', 'Transmission'
 2. All sleeve couplings shall meet the latest revision of AWWA C219 standards.
 3. Center ring shall be:
       1. 
-	* 
-		+ 
-			1. Ductile Iron per ASTM A536, 65-45-12
+		1. Ductile Iron per ASTM A536, 65-45-12
 2. Steel per ASTM A283 Grade C or equivalent with a minimum yield of 30,000 psi.
    1. End rings shall be:
 2. Ductile Iron per ASTM A536, 65-45-12.
@@ -246,8 +234,7 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Water', 'Utility', 'Transmission'
 15. All couplings shall clearly be marked with a pressure rating per AWWA C219 Section 6.1.4.
 16. Affidavits of Compliance (Certifications) as described in Section 01300 shall be provided by the manufacturer and the contractor final material approval.
    1. Refer to Approved Material List, or approved equal.
-1. 2.11 JOINT RESTRAINT SYSTEMS** 
-   1. Joint restraint systems shall be used for rubber ring joint pipe. Joint restraint systems shall be used in conjunction with, concrete thrust blocks unless otherwise directed. Restrained joint systems shall be wax tape coated and polyethylene encased. Contractor shall submit manufacturer produced shop drawings, calculations, and catalog data for each joint restraint systems. All products shall be installed per manufacturer’s recommendations including all referenced AWWA standards.
+1. 2.11 JOINT RESTRAINT SYSTEMS*   1. Joint restraint systems shall be used for rubber ring joint pipe. Joint restraint systems shall be used in conjunction with, concrete thrust blocks unless otherwise directed. Restrained joint systems shall be wax tape coated and polyethylene encased. Contractor shall submit manufacturer produced shop drawings, calculations, and catalog data for each joint restraint systems. All products shall be installed per manufacturer’s recommendations including all referenced AWWA standards.
    1. Mechanical Joint Restraint Ductile Iron Pipe and PVC
 2. Restraint devices for joining plain end pipe to mechanical joint fittings and appurtenances shall conform to either ANSI/AWWA C111/A21.11 or ANSI/AWWA C153/A21.53. Restraint devices shall be Listed by Underwriters Laboratories (3-inch through 24-inch size) and approved by Factory Mutual (3- inch through 12-inch size).
 3. Restraint devices for nominal pipe sizes 3-inch through 48-inch shall consist of multiple gripping wedges incorporated into a follower gland meeting the applicable requirements of ANSI/AWWA C110/A21.10.
@@ -280,35 +267,29 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Water', 'Utility', 'Transmission'
 14. Coupling Restrainer for Asbestos Pipe: Restrainer for use over A/C coupling, MJ Couplings, and mechanical couplings use JCM Industries model JCM 631ACP/DIP RESTRAINED COUPLING, or approved equal.
 15. Provide Affidavit of Compliance for all restraining devices per requirements in Specification Section 01330.
 16. Refer to Approved Materials List, or approved equal.
-1. 2.12 GROOVED END (VICTAULIC) OR SHOULDERED COUPLINGS FOR DUCTILE IRON OR STEEL PIPE** 
-   1. Groove end or shouldered couplings shall be in accordance with the Approved Materials List, or approved equal, and as described below:
+1. 2.12 GROOVED END (VICTAULIC) OR SHOULDERED COUPLINGS FOR DUCTILE IRON OR STEEL PIPE*   1. Groove end or shouldered couplings shall be in accordance with the Approved Materials List, or approved equal, and as described below:
       1. 
 2. Use square-cut shouldered or grooved ends per AWWA C606. Grooved-end couplings shall be malleable iron per ASTM A 47, or ductile iron per ASTM A 536. Gaskets shall be per ASTM D 2000. 
 3. Bolts in exposed service shall conform to ASTM A 183, 69 MPa (10,000 psi) tensile strength.
 4. The minimum design working pressure shall be 250 psig. 
 5. The finish shall be fusion bonded epoxy per AWWA C213.
 6. Refer to Approved Materials List, or approved equal.
-	1. **DUCTILE-IRON PIPE
+	1. DUCTILE-IRON PIPE
    1. Refer to Specification 15055 and Approved Materials List, or approved equal.
 
-* 
-	1. **DUCTILE-IRON FITTINGS
+	1. DUCTILE-IRON FITTINGS
    1. Refer to Specification 15056 and Approved Materials List, or approved equal.
 
-* 
-	1. **COPPER TUBE AND FITTINGS
+	1. COPPER TUBE AND FITTINGS
    1. Refer to Specification 15057 and Approved Materials List, or approved equal.
 
-* 
-	1. **POLYVINYL CHLORIDE PVC PIPE
+	1. POLYVINYL CHLORIDE PVC PIPE
    1. Refer to Specification 15064 and Approved Materials List, or approved equal.
 
-* 
-	1. **RESILIENT WEDGE GATE VALVES
+	1. RESILIENT WEDGE GATE VALVES
    1. Refer to Specification 15100 and Approved Materials List, or approved equal.
 
-* 
-	1. **FIRE HYDRANTS
+	1. FIRE HYDRANTS
    1. Refer to Specification 15300 and Approved Materials List, or approved equal. 
 
 
@@ -318,7 +299,6 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Water', 'Utility', 'Transmission'
    1. All materials shall be installed per manufacturers’ recommendations including the applicable AWWA standards C600, C602, C604, 605 including the Standards referenced in Part 2 Materials of Specification 15000. 
 1. 3.02 TEMPORARY PIPELINES
 
-* 
 	1. All temporary piping, fittings, and service connections shall be furnished, installed, and maintained by the Contractor, and the Contractor shall make connections to a water source designated by the City. 
 	2. All pipe, valves, fittings, hose and connections furnished by the Contractor shall be of good quality, clean, and suitable for conveying potable water in the opinion of the City Engineer. 
 	3. The temporary pipe shall be installed in such a manner that it will not present a hazard to traffic and will not interfere with access to homes and driveways along its route.
@@ -404,8 +384,7 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Water', 'Utility', 'Transmission'
 1. 3.12 JOINT RESTRAINT SYSTEMS-DUCTILE IRON AND PVC PIPE
    1. Joint Restraint Systems shall be installed as shown on the Construction Documents, in accordance with the manufacturers’ recommendations and as described below:
       1. 
-* 
 	1. Split ring restraint shall be installed on the spigot end of pipe, connected to a back-up ring which seats behind the bell of the adjoining pipe or fitting or directly to the fitting. All joint restraint devices shall be installed in accordance with the manufacturers’ instructions
-1. END OF SECTION
+
 
 

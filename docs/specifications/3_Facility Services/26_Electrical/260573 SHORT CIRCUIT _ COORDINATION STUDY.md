@@ -7,7 +7,7 @@ subgroup: Facility Services
 tags: ['Facility', 'Services', 'Electrical', 'SHORT', 'CIRCUIT', '_', 'COORDINATION', 'STUDY']
 ---
 
-1. SECTION 26 05 73
+
 1. SHORT CIRCUIT/COORDINATION STUDY
 
 ## General
@@ -53,7 +53,9 @@ Software algorithms shall comply with requirements of standards and guides speci
 2. Simultaneous faults.
 3. Explicit negative sequence.
 4. Mutual coupling in zero sequence.
-   1. Execution
+
+## Execution
+
 01. EXAMINATION
    1. A.
    1. Examine Project overcurrent protective device submittals for compliance with electrical distribution system coordination requirements and other conditions affecting performance. Devices to be coordinated are indicated on Drawings.
@@ -149,5 +151,5 @@ IEEE 141 and IEEE 242 and the following:
       1. Verify that overcurrent protective devices meet parameters used in studies. b. Adjust devices to values listed in study results.
 2. Adjust devices according to recommendations in Chapter 7, "Inspection and Test
    1. Procedures," and Tables 10.7 and 10.8 in NETA ATS.
-   1. END OF SECTION 26 05 73
+   26 05 73
 

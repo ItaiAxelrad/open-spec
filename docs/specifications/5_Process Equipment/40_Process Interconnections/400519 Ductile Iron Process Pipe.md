@@ -13,13 +13,11 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Ductile', 'Iron', 'Pipe']
 
 ## General
 
-
-* 
-	1. **Summary
+1. SUMMARY
    1. Work under this section shall include ductile iron piping, fittings, and appurtenances. 
 2. Related Specification Sections include:
 	1. Section 40 05 00, Pipe and Pipe Fittings: Basic Requirements.
-	2. **Quality Assurance
+	2. Quality Assurance
 3. Work shall be per:
 	1. American Society of Mechanical Engineers (ASME):
 		1. B1.1 Unified Inch Screw Threads (UN and UNR Thread Form).
@@ -38,13 +36,13 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Ductile', 'Iron', 'Pipe']
 		6. C153/A21.53, Standard for Ductile-Iron Compact Fittings for Water Service.
 	5. Society of Automotive Engineers (SAE):
 		1. AMS-QQ-P-416, Cadmium Plating - Electro-deposited.
-	6. **Submittals
+	6. Submittals
 4. See Specification Section 01 33 00 for requirements for the mechanics and administration of the submittal process.
 5. See Specification Section 40 05 00 for additional submittal requirements.
 6. Shop Drawings shall include:
 	1. Certification of factory hydrostatic testing.
 	2. If mechanical coupling system is used, submit piping, fittings, and appurtenant items which will be utilized to meet system requirements.
-   ## Product
+## Product
 1. 2.1 Materials
    1. Ductile Iron Pipe:
 	1. AWWA/ANSI C115/A21.15.

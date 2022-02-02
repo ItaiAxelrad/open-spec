@@ -12,11 +12,9 @@ tags: ['General', 'Requirements', 'Temporary', 'Erosion', 'Sediment', 'Control']
 
 ## General
 
-
-* 
-	1. **Summary
+1. SUMMARY
    1. This work consists of providing all necessary erosion control for the Project. The Contractor shall develop the methods for handling erosion control. Contractor shall obtain permits and approvals and have erosion control in place prior to the start of construction.
-	1. **Work Included
+	1. Work Included
 2. This item of work shall consist of preparing an erosion and sediment control plan. The erosion and sediment control plan shall be prepared by the Contractor and submitted to the Project Engineer for review prior to initiating construction activities. 
 	1. As required contractor shall also obtain any required State of Colorado permits and submit a copy of the approved permit to the Project Engineer prior to start of construction.
 3. The elements required to implement the erosion and sediment control plan shall be in general conformance with:
@@ -32,14 +30,16 @@ tags: ['General', 'Requirements', 'Temporary', 'Erosion', 'Sediment', 'Control']
 8. The Contractor shall be responsible for installing and maintaining all erosion and sedimentation control measures in accordance with all City, County, State, and Federal guidelines and regulations.
 	1. The Contractor shall be responsible for maintaining appropriate documentation in accordance with all regulations.
 9. Copies of any state permits and the approved Erosion and Sediment Control plan shall be kept onsite at all times.
-	1. **Submittals
+	1. Submittals
 10. Prior to the start of any related construction:
 	1. Submit a copy of the site Erosion and Sediment Control Plan to the City of Steamboat Springs Construction Services Foreman for review and approval prior to start of construction
 	2. Submit a copy of any required State of Colorado construction related permits (for example dewatering permits or Storm water management permit for construction sites) to the City of Steamboat Springs Construction Services Foreman prior to the start of construction.
    1. Product
 1. 2.1 General
    1. Erosion control materials used shall conform to the requirements of Section 209 of the Colorado Department of Transportation Standards and Specifications for Road and Bridge Construction, 2005.
-   1. Execution
+
+## Execution
+
 1. 3.1 General
    1. The erosion and sediment control features shall be installed prior to clearing and grubbing and shall remain in place throughout construction.
 2. It is the Contractor’s responsibility to protect his work with adequate water control measures.
@@ -62,6 +62,4 @@ tags: ['General', 'Requirements', 'Temporary', 'Erosion', 'Sediment', 'Control']
 5. The Contractor shall at all times have at hand the necessary materials and equipment to provide for early slope treatment and corrective measures to damaged slopes. All damaged areas shall be repaired as soon as possible.
 1. 3.3 Removal
    1. All temporary erosion control materials shall be removed upon completion of the project.
-
-*[this page intentionally left blank]*
 

@@ -7,7 +7,7 @@ subgroup: Facility Services
 tags: ['Facility', 'Services', 'Electrical', 'Raceways', 'Boxes']
 ---
 
-1. SECTION 26 05 33
+
 1. RACEWAYS AND BOXES
 
 ## General
@@ -258,7 +258,9 @@ independent of box, raceway, or suspended ceiling supports.
       1. Conduit-terminating fittings shall mate with entering ducts for secure, fixed installation in enclosure wall.
 8. Handholes 60 Inches Wide by 60 Inches Long and Larger:
       1. Have inserts for cable racks and pulling-in irons installed before concrete is poured.
-   1. Execution
+
+## Execution
+
 01. RACEWAY APPLICATION A. Outdoors:
       1. Exposed:
       1. Rigid galvanized steel.
@@ -402,5 +404,5 @@ future cables but short enough to preserve adequate working clearances in enclos
    1. Provide final protection and maintain conditions that ensure coatings, finishes, and cabinets are without damage or deterioration at time of Substantial Completion.
 1. Repair damage to galvanized finishes with zinc-rich paint recommended by manufacturer.
 2. Repair damage to PVC or paint finishes with matching touchup coating recommended by manufacturer.
-   1. END OF SECTION 26 05 33
+   26 05 33
 

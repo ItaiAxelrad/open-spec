@@ -4,10 +4,10 @@ section: '330593'
 divNumb: 33
 divName: Utilities
 subgroup: Site and Infrastructure
-tags: ['Site', 'Infrastructure', 'Utilities', 'Common', 'Motor', 'Requirements', 'for', 'Utility', 'Equipment']
+tags: ['Site', 'Infrastructure', 'Utilities', 'Common', 'Motor', 'Requirements', 'Utility', 'Equipment']
 ---
 
-1. SECTION 33 05 12
+
 1. Common Motor Requirements for Utility Equipment
 1. BASED ON DFD MASTER SPECIFICATION DATED 10/01/2012
 1. *This section has been written to cover most (but not all) situations that you will encounter. Depending on the requirements of your specific project, you may have to add material, delete items, or modify what is currently written. The Division of Facilities Development expects changes and comments from you.*
@@ -30,7 +30,9 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Common', 'Motor', 'Requirements',
     1. Three Phase, Single Speed Motors
     1. Single Phase, Single Speed Motors
     1. Motors Used for Reduced Voltage Starting
-   1. Execution
+
+## Execution
+
     1. Installation
 1. RELATED WORK
    1. Section 23 09 14 - Pneumatic and Electric Instrumentation and Control Devices for HVAC
@@ -228,5 +230,5 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Common', 'Motor', 'Requirements',
    1. When motor will be connected to the driven device by means of a belt drive, mount sheaves on the appropriate shafts in accordance with the manufacturer's instructions. Use a straight edge to check alignment of the sheaves; reposition sheaves as necessary so that the straight edge contacts both sheave faces squarely. Misalignment on V-belt drives should be less than 0.1” per foot of center distance. Misalignment for synchronous belts should be less than 0.0625” per foot of center distance. After sheaves are aligned, loosen the adjustable motor base so that the belt(s) can be added and tighten the base so that the belt tension is in accordance with the drive manufacturer's recommendations. Frequently recheck belt tension and adjust if necessary during the first day of operation and again after 80 hours of operation.
    1. Verify the proper rotation of each three-phase motor as it is being wired or before the motor is energized for any reason.
    1. Lubricate all motors requiring lubrication. Record lubrication material used and the frequency of use. Include this information in the maintenance manuals.
-   1. END OF SECTION
+   
 

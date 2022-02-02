@@ -10,12 +10,12 @@ tags: ['Facility', 'Construction', 'Concrete', 'Finishing']
 
 ## General
 
-   1. SUMMARY
+1. SUMMARY
    1. This Section includes special concrete finishes for concrete flatwork. Other concrete finishes for precise concrete and vertical cast-in-place concrete are specified in the sections for those types of concrete.
    1. In addition to requirements contained in this section, concrete shall, except as otherwise specified, meet the requirements of Section 033000, Cast-In-Place Concrete, which forms a part of these specifications.
    1. Work shall include cast-in-place concrete flatwork noted on the drawings and schedules as “Ground Concrete Floor” (GC-1).
    1. The concrete shall have the finish approved by Architect. It shall be formed, placed and finished as hereinafter specified and as required to provide even, dense surface of uniform color and texture. The Contractor shall remove defective work, which does not meet the requirements of the drawings and specifications at no additional cost to the Owner.
-   1. QUALITY ASSURANCE
+1. QUALITY ASSURANCE
    1. Requirements of Regulatory Agencies:
       1. Comply with air pollution regulations of governing authorities.
    1. Prepare Sample areas not less than 1’-0” x 1’-0” size of each type of special concrete finish, indicating materials and methods used to produce finishes. Architect’s review will be for color and texture only.
@@ -26,7 +26,9 @@ tags: ['Facility', 'Construction', 'Concrete', 'Finishing']
    1. Aggregate mix design.
    1. SAMPLES
    1. Construct and deliver to the Owner’s Representative 1’-0” x 1’-0” concrete samples with specified finish as required to allow the review and acceptance of concrete finish by the Owner’s Representative prior to the building of the 8’-0” x 8’-0” mock-up as described in Section 01450. The materials and methods used to produce the finish will be indicated.
-   1. PRODUCTS
+
+## Products
+
    1. MATERIALS
    1. Use materials and methods for project work as used to produce sample finishes acceptable to Architect.
    1. MATERIAL FOR POLISHED CONCRETE
@@ -45,7 +47,9 @@ tags: ['Facility', 'Construction', 'Concrete', 'Finishing']
       1. Subject to compliance with requirements, products that may be incorporated in the work include, but are not limited to the following:
       1. Penetrating Sealer:
          1. Key Acrylic Sealer by Key Resin Company or equal.
-   1. EXECUTION
+
+## Execution
+
    1. CONCRETE MIXING
    1. Concrete mixing, placing, consolidation and curing shall be as specified in Section 033000 Cast-In-Place Concrete except as modified in this Section.
    1. CONCRETE FINISH SPECIAL
@@ -55,10 +59,7 @@ tags: ['Facility', 'Construction', 'Concrete', 'Finishing']
    1. Areas of concrete with cracks will be removed to nearest control or construction joints and replaced.
    1. Patching is not permitted.
    1. POLISHED CONCRETE
-
-## General
-
-:
+	1. General:
       1. Polished concrete is produced by grinding trowel finished cured concrete in a manner similar to that for terrazzo.
    1. Do not consolidate concrete with the use of tamping. Allow concrete to cure approximately 28 days.
    1. Preparation:
@@ -92,5 +93,5 @@ tags: ['Facility', 'Construction', 'Concrete', 'Finishing']
    1. The General Contractor shall protect the finished floor from damage and wear from the time that the concrete grinder completes the work.
    1. FINAL CLEANING
    1. Clean ground concrete as recommended by manufacturer of sealer and finish, and machine buff finished floor as required when building is ready for occupancy.
-1. END OF SECTION
+
 

@@ -10,5 +10,3 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning']
    1. Division 23
    1. Heating, Ventilation, and Air Conditioning
 
-*[this page intentionally left blank]*
-

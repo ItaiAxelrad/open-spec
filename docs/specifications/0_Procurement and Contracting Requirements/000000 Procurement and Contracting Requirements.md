@@ -10,5 +10,3 @@ tags: ['Procurement', 'Contracting', 'Requirements']
 1. Division 00
 2. Procurement and Contracting Requirements
 
-*[this page intentionally left blank]*
-

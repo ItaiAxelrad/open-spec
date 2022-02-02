@@ -7,16 +7,16 @@ subgroup: Process Equipment
 tags: ['Process', 'Equipment', 'Water', 'Wastewater', 'Ultraviolet']
 ---
 
-   1. SECTION 446400 – ULTRAVIOLET DISINFECTION EQUIPMENT
+
 
 ## General
 
 1.
-   1. RELATED DOCUMENTS
+1. RELATED DOCUMENTS
    1. A.
    1. Drawings, General and Special Provisions of the Contract, and Division 01 Specification Sections apply to this Section.
 2.
-   1. SUMMARY
+1. SUMMARY
    1. A.
    1. Furnish and install an open channel, gravity flow, low pressure high intensity ultraviolet (UV) lamp disinfection system complete with an automatic mechanical/chemical cleaning system and variable output electronic ballasts. The UV system to be complete and operational with all control equipment and accessories as shown and specified herein. This system shall be capable of disinfecting effluent to meet the water quality standards listed in this section.
    1. B.
@@ -33,18 +33,14 @@ tags: ['Process', 'Equipment', 'Water', 'Wastewater', 'Ultraviolet']
    1. Design Criteria
 1. Provide equipment that shall disinfect effluent with the following characteristics:
       1. 
-* 
-	+ 
-		- 
-			* 
-				1. Current Peak Flow: 36 MGD
-				2. Future Peak Flow: 45 MGD
-				3. Minimum Flow: 1 MGD
-				4. Total Suspended Solids: 30 mg/L, 30-Day Average of grab samples
-				5. Effluent Temperature Range: 33 to 85 F (1 to 30 °C)
-				6. Ultraviolet Transmittance  253.7 nm: 65 %, minimum
-				7. Maximum Mean Particle Size: 30 microns
-				8. Effluent standards to be achieved: 200 fecal coliform/100 ml based on a 30-day Geometric Mean of daily samples for the effluent standard as specified in
+		1. Current Peak Flow: 36 MGD
+			2. Future Peak Flow: 45 MGD
+			3. Minimum Flow: 1 MGD
+			4. Total Suspended Solids: 30 mg/L, 30-Day Average of grab samples
+			5. Effluent Temperature Range: 33 to 85 F (1 to 30 °C)
+			6. Ultraviolet Transmittance  253.7 nm: 65 %, minimum
+			7. Maximum Mean Particle Size: 30 microns
+			8. Effluent standards to be achieved: 200 fecal coliform/100 ml based on a 30-day Geometric Mean of daily samples for the effluent standard as specified in
    1. through g). Effluent standards shall be guaranteed regardless of influent count to UV system.
    1. The UV system is to be installed in 2 open channels having the following dimensions:
 	1. Length: 30 feet
@@ -111,13 +107,13 @@ tags: ['Process', 'Equipment', 'Water', 'Wastewater', 'Ultraviolet']
 7. Final panel wiring diagrams
 8. I/O wiring drawings for all devices that are monitored or controlled by the Ultraviolet Disinfection Equipment manufacturer’s PLC as listed in the Instrumentation and Controls paragraph of this specification. These drawings shall include the field wiring from the terminal block (showing terminal numbers) to the field device (showing the device tag number).
 5.
-   1. QUALITY ASSURANCE
+1. QUALITY ASSURANCE
    1. A.
    1. The equipment shall be supplied by a firm regularly engaged in the manufacturer of the equipment item, whose products have been used satisfactorily at a minimum of 10 installations in similar services for a minimum period of five (5) years.
    1. B.
    1. The Contractor may furnish and install equipment of a manufacturer whose products have not been in similar services at 10 installations for five years, provided the equipment manufacturer submits a bond, or deposits a sum equal to the installed price of the equipment, for a period of five (5) years.
 6.
-   1. WARRANTY
+1. WARRANTY
    1. A.
    1. Special Warranty:
       1. The manufacturer shall warrant that the work described here shall be free from defects in workmanship and material for a period of one (1) year from the date of acceptance. Any faulty workmanship or defective material furnished that is found within the warranty period shall be corrected without cost to the Owner.
@@ -126,7 +122,7 @@ tags: ['Process', 'Equipment', 'Water', 'Wastewater', 'Ultraviolet']
    1. C.
    1. Ballasts to be warranted for 5 years, prorated after 1 year.
 7.
-   1. EXTRA MATERIALS
+1. EXTRA MATERIALS
    1. A.
    1. The following spare parts and safety equipment to be supplied.
 1. Eight (8) UV Lamps
@@ -151,10 +147,7 @@ tags: ['Process', 'Equipment', 'Water', 'Wastewater', 'Ultraviolet']
 2.
    1. DESIGN, CONSTRUCTION AND MATERIALS
    1. A.
-
-## General
-
-:
+	1. General:
          1. All welded metal components in contact with effluent shall be Type 316L stainless steel.
 2. All metal components above the effluent shall be Type 304 stainless steel with the
    1. exception of the ballast enclosure, which is constructed of anodized aluminum.
@@ -184,8 +177,7 @@ tags: ['Process', 'Equipment', 'Water', 'Wastewater', 'Ultraviolet']
 7. Each UV Module shall be connected to a receptacle on the Power Distribution Center.
 8. At the point of exit from the UV Module frame the multi conductor cable shall pass through a waterproof strain relief.
 9. Each UV module shall have a rating of Type 6P.
-	* 
-		1. UV Lamps:
+			1. UV Lamps:
 			1. Lamps shall be high intensity low pressure amalgam design. The lamp shall be preheated to promote longevity. Lamps that are not amalgam or that are based on driving a low pressure lamp at amperages greater than 500 milliamps shall not be allowed.
 			2. The filament shall be of the clamped design, significantly rugged to withstand shock and vibration.
 			3. Electrical connections shall be at one end of the lamp and have four pins, dielectrically tested for 2,500 volts. Lamps that do not have 4 pins shall be considered instant start. To be considered as an alternate, instant start lamp systems shall supply replacement spare lamps equal to 50% of the total number of lamps in the system.
@@ -207,9 +199,9 @@ tags: ['Process', 'Equipment', 'Water', 'Wastewater', 'Ultraviolet']
 			1. The UV module support rack shall be minimum Type 304 stainless steel and be mounted above the effluent in the channel allowing adjustment to the precise height of the channel.
 		5. Effluent Level Controller:
 			1. Automatic Level Controller
-				1. Located at the discharge end of the UV channel.
-				2. Designed to maintain a minimum effluent level, within minimal variations as required to keep lamps submerged.
-				3. Constructed of Type 304 stainless steel, and other non-corroding materials. Counterweights to be constructed of galvanized mild steel.
+			1. Located at the discharge end of the UV channel.
+			2. Designed to maintain a minimum effluent level, within minimal variations as required to keep lamps submerged.
+			3. Constructed of Type 304 stainless steel, and other non-corroding materials. Counterweights to be constructed of galvanized mild steel.
 		6. Low Water Level Sensor:
 			1. One low water level sensor shall be provided by the UV Manufacturer for each UV channel.
 			2. During manual, automatic and remote modes of system operation, the water level sensor shall ensure that lamps extinguish automatically if the water level in the channel drops below an acceptable level.
@@ -253,25 +245,18 @@ tags: ['Process', 'Equipment', 'Water', 'Wastewater', 'Ultraviolet']
 		1. Controls Equipment Description
    1. The Ultraviolet Disinfection Equipment control system is a PLC-based system. The PLC is provided by the Ultraviolet Disinfection Equipment manufacturer. Other equipment provided by others is also monitored and/or controlled by this control system as listed in paragraphs C and D below. The Ultraviolet Disinfection Equipment manufacturer shall provide controls equipment as described below.
 
-* 
-	+ 
-		- 
 			1. PLC Control Panel
-				1. Construct the PLC Control Panel per the requirements of Section 409513 Control Panels.
-				2. The PLC Control panel will be located indoors in the Service Water building. This is considered to be an environment-controlled location.
-				3. The control system PLC shall be housed in the PLC Control Panel
-				4. Include in the PLC Control Panel an operator interface display screen, which shall be menu driven. This operator interface will provide–but is not limited to–the following functions:
+			1. Construct the PLC Control Panel per the requirements of Section 409513 Control Panels.
+			2. The PLC Control panel will be located indoors in the Service Water building. This is considered to be an environment-controlled location.
+			3. The control system PLC shall be housed in the PLC Control Panel
+			4. Include in the PLC Control Panel an operator interface display screen, which shall be menu driven. This operator interface will provide–but is not limited to–the following functions:
       1. Each bank may be placed either in Manual, Off, or Auto mode
    1. UV dose setting
    1. Elapsed run time of each bank will be recorded and displayed on the display screen when prompted
    1. Automatic fault message windows appearing upon alarm conditions
    1. An alarm history register of the 100 most recent alarms will be displayed when prompted.
 
-* 
-	+ 
-		- 
-			* 
-				1. Include in the PLC Control Panel:
+		1. Include in the PLC Control Panel:
       1. Leibert UPS or equal. The UPS power will be for supply to the PLC components and capable of providing at least 15 minutes of operation.
    1. The UPS unit will have an automatic transfer function for power loss.
    1. A remote monitoring modem:
@@ -279,11 +264,7 @@ tags: ['Process', 'Equipment', 'Water', 'Wastewater', 'Ultraviolet']
    1. Data transfer to the manufacturer’s remote computer to be available through a dedicated telephone line terminated in the Control Panel
    1. The modem can be enabled / disabled at the Control Panel.
 
-* 
-	+ 
-		- 
-			* 
-				1. The control panel shall provide a 4-20 mA output of the Parshall Flume flow meter signal (FIT UVD101) for direct connection to the Plant Effluent Flow Sampler.
+		1. The control panel shall provide a 4-20 mA output of the Parshall Flume flow meter signal (FIT UVD101) for direct connection to the Plant Effluent Flow Sampler.
 		1. Programming Requirements:
 			1. Programming of the Ultraviolet Disinfection Equipment PLC is the responsibility of the Ultraviolet Disinfection Equipment manufacturer.
 			2. The Ultraviolet Disinfection Equipment manufacturer must coordinate with the Systems Integrator during programming development, equipment fabrication, pre-commissioning testing, and startup to deliver an approved working system.
@@ -298,8 +279,8 @@ tags: ['Process', 'Equipment', 'Water', 'Wastewater', 'Ultraviolet']
 			11. The system graphical OI will provide for the remote input of set points into the PLC from the system graphical OI. The Ultraviolet Disinfection Equipment manufacturer shall provide for Inputs from the system graphical OI for all Operator Adjustable set points in the PLC. The Set Points screen in the system graphical OI is described in Section 409423 Supervisory Control System. Set points include–but are not limited to–analytical values, levels, timers, and flows.
 			12. The software tagging convention for control devices is described in Section 409423 Supervisory Control System and shall be followed explicitly by the Ultraviolet Disinfection Equipment manufacturer in setting up and programming the PLC unless specifically approved in writing by the Systems Integrator and the Engineer.
 			13. Special Alarms/Functions
-				1. The PLC provided by the Ultraviolet Disinfection Equipment manufacturer shall continuously monitor the status of each piece of equipment and continuously compare that status to the current command for that equipment (either a PLC generated command or an operator command from the system or UV OI). If the equipment status does not agree with the PLC command (e.g. a pump commanded to run is not running or a valve commanded to close is not closed) the PLC shall generate a “Fault Logic Disagreement” alarm. This alarm shall be communicated to the system OI.
-				2. For gates or valves, the “Fault Logic Disagreement” alarm shall be delayed for 120 seconds after a change in status to allow valves to fully open or close. For pumps, the “Fault Logic Disagreement” alarm shall be delayed for 10 seconds after a change in status to allow pumps to start or stop.
+			1. The PLC provided by the Ultraviolet Disinfection Equipment manufacturer shall continuously monitor the status of each piece of equipment and continuously compare that status to the current command for that equipment (either a PLC generated command or an operator command from the system or UV OI). If the equipment status does not agree with the PLC command (e.g. a pump commanded to run is not running or a valve commanded to close is not closed) the PLC shall generate a “Fault Logic Disagreement” alarm. This alarm shall be communicated to the system OI.
+			2. For gates or valves, the “Fault Logic Disagreement” alarm shall be delayed for 120 seconds after a change in status to allow valves to fully open or close. For pumps, the “Fault Logic Disagreement” alarm shall be delayed for 10 seconds after a change in status to allow pumps to start or stop.
 		2. Instrumentation
 			1. The Ultraviolet Disinfection Equipment PLC shall monitor the following instruments:
       1. Tag No.
@@ -347,9 +328,6 @@ tags: ['Process', 'Equipment', 'Water', 'Wastewater', 'Ultraviolet']
    1. UV System Manufacturer
    1. Contractor
 
-* 
-	+ 
-		- 
 			1. The Ultraviolet Disinfection Equipment manufacturer shall provide instruments as listed in the table above. Instruments are specified in Section 409100 Instrumentation. Where instruments are not specified in Section 409100 Instrumentation, the Ultraviolet Disinfection Equipment manufacturer shall provide his standard instruments.
 		1. PLC Controls Scope
 			1. The PLC shall control the following equipment:
@@ -382,14 +360,9 @@ tags: ['Process', 'Equipment', 'Water', 'Wastewater', 'Ultraviolet']
    1. Contractor
    1. Contractor
 
-* 
-	+ 
 		1. Functional Description
    1. The following is a general description of the equipment functions. Complete and detailed functions and logic are to be provided by the Ultraviolet Disinfection Equipment manufacturer.
 
-* 
-	+ 
-		- 
 			1. AUTO OPERATION: In the AUTO mode at the hand switch at each UV Bank, the UV bank is controlled by commands from the UV PLC, which may be automated software control or manual control from the panel OI. In the AUTO mode at the panel OI, the UV bank is controlled by the software programming in the UV PLC.
 			2. HAND OPERATION: When the Hand mode is selected at the hand switch at a UV Bank, the UV Bank shall run continuously at full power and the OI will not have the ability to control the device. When the Hand mode is selected at the panel OI, the UV Bank shall run continuously at full power and the software will not have the ability to control the device.
 			3. OFF POSITION: Placing the selector switch in the Off position at either the hand switch at the UV Bank or at the panel OI shall shut off the UV Bank and disable any remote or automatic start signal.
@@ -397,10 +370,12 @@ tags: ['Process', 'Equipment', 'Water', 'Wastewater', 'Ultraviolet']
 			5. The PLC shall modulate the UV lamp outputs in relationship to a 4-20 mA DC signal from the effluent flow meter (Parshall Flume).
 			6. The operator may vary the design dose setting either from the panel operator interface or from the plant central OI. Logic and time delays shall be provided to regulate UV bank ON/OFF cycling.
 			7. A submersible UV sensor shall continuously monitor the UV intensity produced in each bank of UV lamps. The sensor shall measure only the germicidal portion of the light emitted by the UV lamps. The detection system shall be factory calibrated. Detection systems that can be field calibrated shall not be permitted.
-   1. Execution
+
+## Execution
+
 1.
    1. A.
-   1. INSTALLATION
+1. INSTALLATION
    1. In accordance with contract drawings, manufacturers’ shop drawings and instructions.
    1. B.
    1. Install the two Davit cranes at location recommended by the UV system manufacturer.
@@ -415,5 +390,4 @@ tags: ['Process', 'Equipment', 'Water', 'Wastewater', 'Ultraviolet']
       1. 3 full days on site.
    1. Operator Training:
       1. 1 full day on site.
-   1. END OF SECTION 446400
-
+   

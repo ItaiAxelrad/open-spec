@@ -10,5 +10,3 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements']
    1. Division 32
    1. Exterior Improvements
 
-*[this page intentionally left blank]*
-

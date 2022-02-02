@@ -10,5 +10,3 @@ tags: ['Process', 'Equipment', 'Interconnections']
    1. Division 40
    1. Process integration
 
-*[this page intentionally left blank]*
-

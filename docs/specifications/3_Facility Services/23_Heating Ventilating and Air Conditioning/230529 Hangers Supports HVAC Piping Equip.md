@@ -33,10 +33,7 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
       1. Manufacturers Standardization Society for The Valve and Fittings Industry Inc.
    1. Terminology used in this Section is defined in MSS SP-90.
 1. SUBMITTALS
-
-## General
-
-:
+	1. General:
       1. Submit the following in accordance with Division 23 related sections of the Specifications.
    1. Product data including installation instructions for each type of support and anchor.
    1. Maintenance data for supports and anchors for inclusion in Operating and Maintenance Manual specified in Division 23 sections of the Specifications.
@@ -73,10 +70,7 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Examine substrates and conditions under which supports and anchors are to be installed. Do not proceed with installation until unsatisfactory conditions have been corrected.
 1. ERECTION INSTALLATION APPLICATION
    1. Examine substrates and conditions under which supports and anchors are to be installed. Do not proceed with installation until unsatisfactory conditions have been corrected.
-
-## General
-
-:
+	1. General:
       1. Install hangers, supports, clamps and attachments to support piping properly from building structure. Arrange for grouping of parallel runs of horizontal piping supported together on field-fabricated, heavy-duty trapeze hangers where possible. Install supports with maximum spacing complying with MSS SP-69. Where piping of various sizes is supported together by trapeze hangers, space hangers for smallest pipe size or install intermediate supports for smaller diameter pipe as specified above for individual pipe hangers.
    1. Attaching supports to bar joists:
       1. Pipe hangers for pipe 2 1/2" and over in diameter. Where pipe hangers and supports are to be attached to bar joists, the attachment is to be made from the top chord of the bar joists. Attachments to the bottom chord are unacceptable.
@@ -197,5 +191,4 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
       1. Immediately after erection of anchors and supports, clean field welds and abraded areas of shop paint and paint exposed areas with same material as used for shop painting to comply with SSPC-PA-1 requirements for touch-up of field-painted surfaces. Apply by brush or spray to provide a minimum dry film thickness of 2.0 mils.
    1. Touch-Up Painting:
       1. Cleaning and touch-up painting of field welds, bolted connections, and abraded areas of the shop paint on miscellaneous metal are specified in Division 23 sections of the Specifications. For galvanized surfaces, clean welds, bolted connections, and abraded areas, and apply cold galvanizing compound to comply with ASTM A780.
-1. END OF SECTION 220529
 

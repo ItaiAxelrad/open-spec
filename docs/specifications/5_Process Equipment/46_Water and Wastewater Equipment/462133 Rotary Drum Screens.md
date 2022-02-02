@@ -7,7 +7,7 @@ subgroup: Process Equipment
 tags: ['Process', 'Equipment', 'Water', 'Wastewater', 'Rotary', 'Drum', 'Screens']
 ---
 
-1. SECTION 46 21 33
+
 1. ROTARY DRUM SCREENS
 1. 
 ## General
@@ -127,5 +127,5 @@ instructions.
    1. Check control functions and adjust as required.
 5. DEMONSTRATION
    1. Demonstrate equipment startup, shutdown, routine maintenance, alarm condition responses, and emergency repair procedures to Owner's personnel.
-1. END OF SECTION
+
 

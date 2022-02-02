@@ -10,5 +10,3 @@ tags: ['Site', 'Infrastructure', 'Earthwork']
    1. Division 31
    1. Earthwork
 
-*[this page intentionally left blank]*
-

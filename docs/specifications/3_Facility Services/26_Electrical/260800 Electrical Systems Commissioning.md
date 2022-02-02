@@ -7,10 +7,6 @@ subgroup: Facility Services
 tags: ['Facility', 'Services', 'Electrical', 'Systems', 'Commissioning']
 ---
 
-1. Copyright 2003 and 2005 by The American Institute of Architects (AIA)
-1. Exclusively published and distributed by Architectural Computer Services, Inc. (ARCOM) for the AIA
-1. Verify that Section titles referenced in this Section are correct for this Project's Specifications; Section titles may have changed.
-
 ## General
 
 1. RELATED DOCUMENTS
@@ -82,6 +78,5 @@ tags: ['Facility', 'Services', 'Electrical', 'Systems', 'Commissioning']
    1. In addition to the requirements of Division 1, update Contract Documents to incorporate field changes and revisions to system designs to account for actual constructed configurations. All drawings shall be red-lined on two sets. Divisions 26, 27 and 28 as-built drawings shall include updated architectural floor plans, and the individual electrical systems in relation to actual building layout.
    1. Maintain as-built red-lines on the job site as required in Division 1. Given the size and complexity of this project, red-lining of the drawings at completion of construction, based on memory of key personnel, is not satisfactory. Continuous and regular red-lining and/or posting of drawings is considered essential and mandatory.
    1. In addition to the stated requirements for operation and maintenance data, provide one copy of equipment technical literature, operation and maintenance literature, and shop drawings to the CA as soon as they are available. This requirement is for review of these documents prior to distribution of multiple copies for the Owner's final use.
-1. END OF SECTION 260913
 1. (THIS PAGE INTENTIONALLY BLANK)
 

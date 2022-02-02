@@ -10,9 +10,9 @@ tags: ['Facility', 'Services', 'Electrical', 'Wire', 'Cables']
 
 ## General
 
-   1. RELATED DOCUMENTS
+1. RELATED DOCUMENTS
    1. Drawings and general provisions of the Contract, including General and Supplementary Conditions and Division 1 Specifications, apply to this Section.
-   1. SUMMARY
+1. SUMMARY
    1. This Section includes the requirements for the power and control cables, instrumentation cables and multi-conductor cable, and wire connections and related devices.
    1. DEFINITIONS
    1. Definitions of terms and other electrical considerations as set forth in the following:
@@ -20,7 +20,7 @@ tags: ['Facility', 'Services', 'Electrical', 'Wire', 'Cables']
    1. Institute of Electrical and Electronic Engineers
    1. Instrument Society of America
    1. National Fire Protection Association
-   1. SUBMITTALS
+1. SUBMITTALS
    1. Product Data for Wire and Cable, Wire Connections and Related Devices
    1. Test Reports:
       1. Submit in conformance with related Division 1 Sections of the Specifications, meggar testing results for feeders rated larger than 100A.
@@ -32,7 +32,7 @@ tags: ['Facility', 'Services', 'Electrical', 'Wire', 'Cables']
    1. Pulling means.
    1. Maximum calculated pulling tension for conduit system as installed.
    1. Submit for review and comment prior to acceptance and conduit installation.
-   1. QUALITY ASSURANCE
+1. QUALITY ASSURANCE
    1. Certificates:
       1. Deliver conductors to the site in their original unbroken packages or on their original cable reels.
    1. Mark or tag all conductor packages and cable reels plainly with UL label, AWG or circular mil size, voltage rating, insulation type, type of stranding, manufacturer's name, trade name and month and year when manufactured.
@@ -49,7 +49,9 @@ tags: ['Facility', 'Services', 'Electrical', 'Wire', 'Cables']
       1. UL listed as ITC/PLTC in compliance with UL 2250 and UL 13.
    1. Provide new conductors manufactured within 1 year of the date of delivery to the site. Store conductors out of the weather and where not subject to damage or deleterious conditions.
    1. Assembly and testing of cable shall comply with the applicable requirement of ICEA Publication No. S-68-516. MATERIALS.
-   1. Products
+
+## Products
+
    1. MANUFACTURERS
    1. Acceptable Power and Control Cable Manufacturers:
       1. Cablec.
@@ -84,8 +86,10 @@ tags: ['Facility', 'Services', 'Electrical', 'Wire', 'Cables']
    1. Solid wire shall be used on all receptacle outlets and toggle switches.
    1. Contractor may use stranded wire on toggle switches and receptacles if all terminations are made with compression type ring tongue terminals.
    1. Class B or Class C stranded or solid, annealed, uncoated per UL 83 or 1063.
-   1. Execution
-   1. EXAMINATION
+
+## Execution
+
+1. EXAMINATION
    1. Techniques:
       1. Where a common neutral is run for two or three home run circuits, phase conductors shall be connected to breakers in the panel, which are attached to separate phase legs in order that the neutral conductors will carry only the unbalanced current.
    1. Neutral conductors shall be of the same size as the phase conductors unless specifically noted otherwise.
@@ -212,5 +216,4 @@ tags: ['Facility', 'Services', 'Electrical', 'Wire', 'Cables']
    1. Install cable under the observation of the ENGINEER, ENGINEER shall witness cable dynamometer during cable installation to compare pulling tension with calculated and maximum values.
    1. Phase conductors, fire tape, and install terminators.
    1. Conduct HI-Pot test in the presence of ENGINEER and OWNER. Provide minimum of 5 days advanced notice of testing.
-1. END OF SECTION 260519
 

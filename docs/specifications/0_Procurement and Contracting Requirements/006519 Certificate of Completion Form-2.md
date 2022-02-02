@@ -7,7 +7,7 @@ subgroup: Procurement and Contracting Requirements
 tags: ['Procurement', 'Contracting', 'Requirements', 'Certificate', 'Completion', 'Form']
 ---
 
-   1. SECTION 006500
+
    1. Certificate of Substantial Completion
    1. Project:
       1. Owner:

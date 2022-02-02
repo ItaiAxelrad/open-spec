@@ -7,14 +7,9 @@ subgroup: Facility Services
 tags: ['Facility', 'Services', 'Electronics', 'Safety', 'Security', 'Fire', 'Detection', 'Alarm']
 ---
 
-1. Copyright 2001 and 2005 (R 06/03), The American Institute of Architects (AIA)
-1. Exclusively published and distributed by Architectural Computer Services, Inc. (ARCOM) for the AIA
-1. This Section uses the term "Architect." Change this term to match that used to identify the design professional as defined in the General and Supplementary Conditions.
-1. Verify that Section titles referenced in this Section are correct for this Project's Specifications; Section titles may have changed.
-
 ## General
 
-   1. RELATED DOCUMENTS
+1. RELATED DOCUMENTS
    1. Drawings and general provisions of the Contract, including General and Supplementary Conditions and Division 1 Specification Sections, apply to this Section.
    1. DEFINITIONS
    1. FACP:
@@ -65,7 +60,7 @@ tags: ['Facility', 'Services', 'Electronics', 'Safety', 'Security', 'Fire', 'Det
    1. Low-air-pressure switch operation on a dry-pipe or preaction sprinkler system.
    1. System Trouble and Supervisory Signal Actions:
       1. Ring trouble bell and annunciate at the FACP and remote annunciators. Record the event on system printer.
-   1. SUBMITTALS
+1. SUBMITTALS
    1. Shop Drawings
    1. The successful contractor shall provide eight sets of shop drawings immediately after award of the contract. Shop drawings shall be assumed to be “as specified” unless specifically identified as varying from contract requirements. Any variations from “as specified” status shall be specifically identified and their substitution approval status shall be documented.
    1. Shop Drawings shall be prepared by persons with the following qualifications:
@@ -97,12 +92,12 @@ tags: ['Facility', 'Services', 'Electronics', 'Safety', 'Security', 'Fire', 'Det
    1. The contractor (SimplexGrinnell) shall examine the drawings and specifications to ensure that they are familiar with the requirements of the specification as they apply to the installation site and the Owner’s requirements.
    1. CODE COMPLIANCE
    1. The contractor (SimplexGrinnell) is responsible for complying with the proper state and local code authority’s plan review and approval process. Copies of code approval submissions and approvals shall be provided to the Contracting Officer. The contractor is responsible for the cost of this process.
-   1. QUALITY ASSURANCE
+1. QUALITY ASSURANCE
    1. Installer Qualifications:
       1. Personnel shall be trained and certified by the manufacturer for installation of units required for this Project.
    1. Electrical Components, Devices, and Accessories:
       1. Listed and labeled as defined in NFPA 70, Article 100, by a testing agency acceptable to authorities having jurisdiction, and marked for intended use.
-   1. PROJECT CONDITIONS
+1. PROJECT CONDITIONS
    1. Interruption of Existing Fire Alarm Service:
       1. Do not interrupt fire alarm service to facilities occupied by Owner or others unless permitted under the following conditions and then only after arranging to provide temporary guard service according to requirements indicated:
       1. Notify Contracting Officer no fewer than 14 days in advance of proposed interruption of fire alarm service.
@@ -112,7 +107,7 @@ tags: ['Facility', 'Services', 'Electronics', 'Safety', 'Security', 'Fire', 'Det
       1. Maintain fully operational until new equipment has been tested and accepted. As new equipment is installed, label it "NOT IN SERVICE" until it is accepted. Remove labels from new equipment when put into service and label existing fire alarm equipment "NOT IN SERVICE" until removed from the building.
    1. Equipment Removal:
       1. After acceptance of the new fire alarm system, remove existing disconnected fire alarm equipment.
-   1. EXTRA MATERIALS
+1. EXTRA MATERIALS
    1. Furnish extra materials described below that match products installed and that are packaged with protective covering for storage and identified with labels describing contents.
    1. Lamps for Remote Indicating Lamp Units:
       1. Quantity equal to 10 percent of amount installed, but not less than 1 unit.
@@ -138,7 +133,7 @@ tags: ['Facility', 'Services', 'Electronics', 'Safety', 'Security', 'Fire', 'Det
    1. The control panel shall receive 120 VAC power (as noted on the plans) via a dedicated fused disconnect circuit.
    1. The system shall be provided with sufficient standby capacity to operate the entire system upon loss of normal 120 VAC power in a normal supervisory mode for a period of twenty-four (24) hours with 5minutes of alarm operation at the end of this period. The system shall automatically transfer to the standby power source upon power failure. All battery charging and recharging operations shall be automatic.
    1. All external circuits requiring system operating power shall be 24VDC and shall be individually fused at the control panel.
-   1. This fire alarm system shall be compatible in everyway with the system already existing at NREL.
+   1. This fire alarm system shall be compatible in everyway with the system already existing at Owner.
    1. Doors in firewalls are specified under other sections of the specifications to have magnetic holding devices. The Contractor shall integrate these devices so as to de-activate the magnets and allow the doors to swing closed in the event of a fire alarm. 
    1. FIRE ALARM CONTROL PANEL - MODEL 4120-8001
    1. Control Panel 
@@ -220,7 +215,7 @@ tags: ['Facility', 'Services', 'Electronics', 'Safety', 'Security', 'Fire', 'Det
       1. initiating circuit devices such as addressable sensors, including sensor type and sensor values; addressable manual stations; supervisory operation, such as sprinkler flow and tamper monitoring; control circuits, such as notification appliances, fan control, elevator control and other similar operations.
    1. Each point made public to the network shall be able to be programmed for operation by any other Fire Alarm Control Panel connected to the network. When point information is programmed into a node other than the “Owner”, a “replica” of that point is programmed into the other node. When a replica is so programmed, the node with the replica can operate on those points as though they were directly connected to that node.
 1. EXECUTION
-   1. INSTALLATION
+1. INSTALLATION
    1. Connecting to Existing Equipment:
       1. Verify that existing fire alarm system is operational before making changes or connections.
    1. Connect new equipment to the existing control panel in the existing part of the building.
@@ -297,11 +292,10 @@ tags: ['Facility', 'Services', 'Electronics', 'Safety', 'Security', 'Fire', 'Det
    1. Upon completion of the installation, four (4) copies of complete operational instructions shall be furnished, complete with record drawings. Instructions shall include part numbers and names, addresses, and telephone numbers of parts source. Final payment shall not be made until operational manuals have been received.
    1. Upon completion of the installation of the equipment, the electrical contractor shall provide to the Contracting Officer a signed statement form the equipment supplier that the system has been wired, tested, and functions properly according to the specifications.
    1. Nothing herein contained shall be construed to relieve the Contractor from furnishing a complete and acceptable electrical wiring system in all its categories. The Contracting Officer will condemn and reject any materials or labor, which are or may become detrimental to the accomplishment of the intentions of these specifications.
-   1. WARRANTY
+1. WARRANTY
    1. The contractor shall warrant the completed fire alarm system wiring and equipment to be free from inherent mechanical and electrical defects for a period of one (1) year from the date of the completed and certified test or from the date of first beneficial use.
    1. The equipment manufacturer shall make available to the Owner a maintenance contract proposal to provide a minimum of two (2) inspections and tests per year in compliance with NFPA-72H guidelines.
    1. TRAINING
    1. Training will be provided by SimplexGrinnell for a total of eight (8) hours over two (2) days.
-1. END OF SECTION 283100
 1. (THIS PAGE INTENTIONALLY BLANK)
 

@@ -10,7 +10,7 @@ tags: ['Facility', 'Construction', 'Metals', 'Steel', 'Joist', 'Framing']
 
 ## General
 
-   1. SUMMARY
+1. SUMMARY
    1. Section Includes
    1. Steel joists for floor and roof framing.
    1. Accessories needed for a complete and proper installation.
@@ -19,7 +19,7 @@ tags: ['Facility', 'Construction', 'Metals', 'Steel', 'Joist', 'Framing']
    1. Section 053100 - Metal Decking
    1. Section 054000 - Cold Formed Metal Framing
    1. Section 055000 - Metal Fabrications
-   1. SUBMITTALS
+1. SUBMITTALS
    1. Comply with pertinent provisions of Section 013300.
    1. Product data:
       1. Within 35 calendar days after the Contractor has received the Owner's Notice to Proceed, submit:
@@ -27,7 +27,7 @@ tags: ['Facility', 'Construction', 'Metals', 'Steel', 'Joist', 'Framing']
    1. Manufacturer's specifications and other data needed to prove compliance with the specified requirements.
    1. Shop Drawings showing sizes, spacing, and location of joists, connections, bridging, reinforcing, anchoring, cambers, loads, and other pertinent data, and showing welded connections and the length thereof, using AWS standard welding symbols.
    1. Manufacturer's recommended installation procedures which, when approved by the Architect, will become the basis for accepting or rejecting actual installation procedures used on the Work.
-   1. QUALITY ASSURANCE
+1. QUALITY ASSURANCE
    1. Use adequate numbers of skilled workmen who are thoroughly trained and experienced in the necessary crafts and who are completely familiar with the specified requirements and the methods needed for proper performance of the work of this Section.
    1. In addition, comply with:
       1. Pertinent requirements of governmental agencies having jurisdiction.
@@ -38,7 +38,9 @@ tags: ['Facility', 'Construction', 'Metals', 'Steel', 'Joist', 'Framing']
    1. DELIVERY, STORAGE AND PROTECTION
    1. Product Handling:
       1. Comply with pertinent provisions of Section 016000.
-   1. PRODUCTS
+
+## Products
+
    1. MATERIALS
    1. Provide steel joists and accessories system in dimensions and arrangements shown on the Drawings and in compliance with SJI specifications.
    1. Provide other materials, not specifically described but required for a complete and proper installation, as selected by the Contractor subject to the approval of the Architect.
@@ -56,13 +58,14 @@ tags: ['Facility', 'Construction', 'Metals', 'Steel', 'Joist', 'Framing']
 
 "Rustoleum No. 5769 Primer,"
    1. Or equal, approved in advance by the Architect, to a dry film thickness between 2.0 and 3.5 mils.
-   1. EXECUTION
-   1. EXAMINATION
+
+## Execution
+
+1. EXAMINATION
    1. Examine the areas and conditions under which work of this Section will be performed.
    1. Correct conditions detrimental to timely and proper completion of Work.
    1. Do not proceed until unsatisfactory conditions are corrected.
    1. ERECTION INSTALLATION APPLICATION
    1. Coordinate as required with other trades to assure proper and adequate provision in the work of those trades for interface with the work of this Section.
    1. Install the work of this Section in strict accordance with the original design, the approved Shop Drawings, pertinent requirements of governmental agencies having jurisdiction, and the manufacturer's recommended installation procedures as approved by the Architect, anchoring all components firmly into position for long life under hard use.
-1. END OF SECTIONTHIS PAGE INTENTIONALLY BLANK
 

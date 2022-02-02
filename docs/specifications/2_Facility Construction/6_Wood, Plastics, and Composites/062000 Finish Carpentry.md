@@ -7,9 +7,6 @@ subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Wood', 'Plastics', 'Composites', 'Finish', 'Carpentry']
 ---
 
-      1. SECTION 06200
-   1. FRAMING AND FINISH CARPENTRY
-
 ## General
 
 1. SCOPE
@@ -42,13 +39,11 @@ tags: ['Facility', 'Construction', 'Wood', 'Plastics', 'Composites', 'Finish', '
 ## Product
 
 
-* 
 	1. LUMBER
    1. Framing Lumber:
       1. (Western Woods Products Association Rules) bearing WWPA grade trademark, and mill name of sizes indicated.
    1. For light framing (2 to 4 inches thickness, 2 to 4 inches wide) provide the following grade and species:
-         1. * 
-	1. "No. 2" grade.
+         1. 	1. "No. 2" grade.
 	2. Douglas Fir-Larch graded under WWPA rules.
    1. Fascia:
       1. No. 1 Western Red Cedar or all heart redwood.
@@ -80,20 +75,16 @@ Class I of the U.S. Department of Commerce Commercial Standard CS236-66, hot pre
 	1. TRUSSES
    1. Unless otherwise shown on the drawings or approved by the Engineer, roof trusses shall be engineered pre-manufactured trusses meeting the requirements of the Uniform Building Code.
 
-* 
 	1. INSULATION
    1. Insulation shall be as specified in the applicable sections contained herein and shall be installed in accordance with manufacturer's specification.
    1. Insulation shall be the proper width to sit between studs, joists and rafters.
 
-* 
 	1. ROOFING
    1. Building felt and roofing system shall be as specified in the applicable sections contained herein.
 
-* 
 	1. GUTTERS AND DOWNSPOUTS
    1. Gutters and downspouts shall be as specified in the applicable sections contained herein.
 
-* 
 	1. CABINETRY
    1. All cabinets shall be constructed of cabinet grade dense particleboard cores.
 2. All drawers to be supplied with rollers and metal slides.
@@ -104,10 +95,11 @@ Class I of the U.S. Department of Commerce Commercial Standard CS236-66, hot pre
 	1. WORKBENCH
 7. All workbench material shall be ABX Douglas Fir plywood and No. 1 Douglas fir unless otherwise shown or specified.
 8. Unless otherwise shown on the drawings, Counter top shall be ¾-inch plywood with 12-gauge stainless steel top and backsplash.
-   1. Execution
+
+## Execution
+
 1.  
 
-* 
 	
 ## General
 
@@ -122,11 +114,9 @@ Class I of the U.S. Department of Commerce Commercial Standard CS236-66, hot pre
    1. All materials shall be sized to an even thickness and shall be firmly bridged, spiked, braced and tied together and shall be nailed in accordance with the following schedule. Other nailing shall be in proportion or as directed or required to be thoroughly secured. Exterior nails shall be galvanized iron. Plywood roof sheathing 8d at 4-inch o.c. at all edges of plywood units; 8d at 12-inch o.c. at intermediate supports; and 8d at 4-inch o.c. at roof opening. Support edge joints by plyclips.
    1. If splitting from nailing occurs, and where specifically shown, drill holes slightly smaller than nail size before nailing.
 
-* 
 	1. HARDWARE
    1. Supply and install all hardware including all nails, bolts, spikes, wall ties, anchor bolts, hinges, hasps, etc., as shown and as required for proper construction.
 
-* 
 	1. PLYWOOD DECKING AND ROOFING
    1. Provide thickness shown. Lay with long dimension perpendicular to supports and stagger joints. Nail with 8d common nails at 6-inches o.c. at ends and 12-inches o.c. at all intermediate supports. Use of two clips required.
 2. Building felt, metal roofing and asphalt roofing shall be installed in accordance with the latest edition of Uniform Building Code.
@@ -144,7 +134,6 @@ Class I of the U.S. Department of Commerce Commercial Standard CS236-66, hot pre
    1. When listed in the Proposal, payment for work specified under this section and related sections will be made at the units and prices named in the Proposal and as outlined below, complete and acceptable to the Engineer.
 1. Payment for all work specified under this and related sections as required for the completion of the Laboratory/Office Building to be made at the lump sum price named in the Proposal for "Laboratory/Office Building, Complete."
 
-* 
 	1. Payment for all work specified under this and related sections as required for the completion of the Blower/Disinfection Building to be made at the lump sum price named in the Proposal for "Blower/Disinfection Building, Complete."
 	2. Framing and finish carpentry work required for other than the Laboratory/Office and Blower/Disinfection Buildings will be considered incidental work for which no separate payment will be made.
    1. Payment indicated to include complete compensation for all labor, equipment, materials and incidentals associated with the structure indicated unless otherwise specified in other sections contained herein. No additional compensation to be allowed.

@@ -4,7 +4,7 @@ section: '400500'
 divNumb: 40
 divName: Process Interconnections
 subgroup: Process Equipment
-tags: ['Process', 'Equipment', 'Interconnections', 'Common', 'Work', 'Results', 'for']
+tags: ['Process', 'Equipment', 'Interconnections', 'Common', 'Work', 'Results']
 ---
 
    1. Section 40 05 00
@@ -12,16 +12,14 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Common', 'Work', 'Results', 
 
 ## General
 
-
-* 
-	1. **Summary
+1. SUMMARY
    1. Work under this section shall include process piping systems. 
 2. Related Specification Sections include:
 	1. Section 40 05 19, Pipe: Ductile
 	2. Section 40 05 01, Pipe: Plastic
 	3. Section 40 05 24, Pipe: Steel
 	4. Section 40 05 45, Pipe Support Systems
-	5. **Quality Assurance
+	5. Quality Assurance
 3. Work shall be per:
 	1. American Iron and Steel Institute (AISI).
 	2. American Society of Mechanical Engineers (ASME):
@@ -59,7 +57,7 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Common', 'Work', 'Results', 
 		4. C151/A21.51, Standard for Ductile-Iron Pipe, Centrifugally Cast, for Water.
 		5. C153/A21 1 .53, Standard for Ductile-Iron Compact Fittings for Water Service.
 4. Coordinate flange dimensions and drillings between piping, valves, and equipment. 
-	1. **Submittals
+	1. Submittals
 5. See Specification Section 01 33 00 for requirements for the mechanics and administration of the submittal process.
 6. Shop Drawings shall include:
 	1. Product technical data including:
@@ -74,17 +72,16 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Common', 'Work', 'Results', 
 		2. Reports defining results of dielectric testing and corrective action taken. 
 		3. Disinfection test report.
 		4. Notification of time and date of piping pressure tests.
-	5. **Delivery, Storage, and Handling
+	5. Delivery, Storage, and Handling
 7. Protect pipe coating during handling using methods recommended by the manufacturer.
 8. Prevent damage to pipe during transit and repair abrasions, scars, and blemishes, if needed. 
-   ## Product (not applicable to this specification section)
+## Product (not applicable to this specification section)
 
 
 ## Execution
 
 
-* 
-	1. **Exterior Buried Piping Installation
+	1. Exterior Buried Piping Installation
    1. Unless otherwise shown on the Drawings, provide a minimum of 4.5 FT and maximum of 8 FT earth cover over exterior buried piping systems and appurtenances conveying water, fluids, or solutions subject to freezing.
 2. Enter and exit through structure walls, floors, and ceilings by using penetrations and seals specified in Specification Section 08 10 00 and as shown on Drawings.
 3. When entering or leaving structures with buried mechanical joint piping, install joint with coupling within 2 FT of point where pipe enters or leaves structure.
@@ -98,7 +95,7 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Common', 'Work', 'Results', 
 		2. Provide bearing area of concrete in accordance with drawing detail.
 6. Install underground hazard warning tape per Specification Section 10 14 00.
 	1. Install insulating components where dissimilar metals are joined together.
-	2. **Interior and Exposed Exterior Piping Installation
+	2. Interior and Exposed Exterior Piping Installation
 7. Install piping in vertical and horizontal alignment as shown on Drawings.
 8. Alignment of piping smaller than 4 IN may not be shown; however, install according to Drawing intent and with clearance and allowance for:
 	1. Expansion and contraction.
@@ -155,13 +152,13 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Common', 'Work', 'Results', 
 		4. Furnish and install "P" trap for each waste piping connection to equipment if waste is connected directly to building sewer system.
 		5. Stub piping for equipment, sinks, lavatories, supply and drain fittings, key stops, "P" traps, miscellaneous traps and miscellaneous brass through wall or floor and cap and protect until such time when later installation is performed.
 20. Provide insulating components where dissimilar metals are joined together.
-	1. **Connections with Existing Piping
+	1. Connections with Existing Piping
 21. Where connection between new work and existing work is made, use suitable and proper fittings to suit conditions encountered.
 22. Undertake connections in fashion which will disturb system as little as possible.
 23. Provide suitable equipment and facilities to dewater, drain, and dispose of liquid removed without damage to adjacent property.
 24. Where connection involves potable water systems, provide disinfection methods as prescribed in this Specification Section.
 25. Once tie-in to each existing system is initiated, continue work continuously until tie-in is made and tested.
-	1. **Quality Control
+	1. Quality Control
 26. Pipe Testing - General:
 	1. Test exposed, non-insulated piping systems upon completion of system.
 	2. Test exposed, insulated piping systems upon completion of system but prior to application of insulation.
@@ -187,8 +184,6 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Common', 'Work', 'Results', 
    1. Greater than 3 psi
    1. Water
 
-* 
-	+ 
 		1. Natural gas systems: Cylinder Nitogen
 		2. Liquid Systems:
       1. Pipe Size (Dia.)
@@ -204,7 +199,6 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Common', 'Work', 'Results', 
    1. 250 psig or less
    1. Water
 
-* 
 	1. Allowable leakage rates:
 		1. Hazardous gas systems, all exposed piping systems, all pressure piping systems and all buried, insulated piping systems which are hydrostatically pressure tested shall have zero leakage at the specified test pressure throughout the duration of the test.
 		2. Non-hazardous gas and air systems which are tested with air shall have a maximum pressure drop of 5 percent of the specified test pressure throughout the duration of the test.
@@ -226,12 +220,8 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Common', 'Work', 'Results', 
    1. 18
 4.
 
-* 
 	1. Hydrostatic pressure testing methodology:
-		
-## General
-
-:
+			1. General:
 			1. All joints, including welds, are to be left exposed for examination during the test.
 			2. Provide additional temporary supports for piping systems designed for vapor or gas to support the weight of the test water.
 			3. Provide temporary restraints for expansion joints for additional pressure load under test.
@@ -243,14 +233,11 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Common', 'Work', 'Results', 
 		1. Maintain specified test pressure until each joint has been thoroughly examined for leaks by means of soap suds and glycerine.
 		2. Wipe joints clean after test.
 	3. Air testing methodology:
-		
-## General
-
-:
+			1. General:
 			1. Assure air is ambient temperature.
    1. Dielectric Testing Methods and Criteria:
 	1. Provide electrical check between metallic non-ferrous pipe or appurtenances and ferrous elements of construction to assure discontinuity has been maintained.
 	2. Wherever electrical contact is demonstrated by such test, locate the point or points of continuity and correct the condition.
-	3. **Cleaning Disinfection and Purging
+	3. Cleaning Disinfection and Purging
 2. Refer to Section 46 08 00 for Disinfection of Pipes and Tanks.
 

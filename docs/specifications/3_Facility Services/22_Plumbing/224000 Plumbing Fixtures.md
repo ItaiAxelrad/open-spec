@@ -12,14 +12,12 @@ tags: ['Facility', 'Services', 'Plumbing', 'Fixtures']
 
 ## General
 
-
-* 
-	1. **Summary
+1. SUMMARY
    1. Work under this section shall include plumbing fixtures, trim, and equipment.
 2. Related specification sections include:
 	1. Section 11 01 00, Equipment: Basic Requirements
 	2. Section 22 01 00, Pipe and Pipe Fittings: Basic Requirements
-	3. **Quality Assurance
+	3. Quality Assurance
 3. Work shall be per:
 	1. Americans with Disabilities Act (ADA):
 		1. Accessibility Guidelines for Buildings and Facilities (ADAAG).
@@ -37,14 +35,14 @@ tags: ['Facility', 'Services', 'Plumbing', 'Fixtures']
 	9. Building code:
 		1. International Code Council (ICC):
 			1. International Building Code and associated standards, 2009 Edition including all amendments, referred to herein as Building Code.
-	10. **Submittals
+	10. Submittals
 4. See Specification Section 01 33 00 for requirements for the mechanics and administration of the submittal process.
 5. Shop drawings shall include:
 	1. Color selection charts.
 	2. Fabrication or layout drawings showing dimensions and elevations as well as details showing connections, installations and rough-in locations. 
 	3. Product technical data including acknowledgement that products meet the aforementioned references, manufacturer’s installation instructions, and chemical resistance data.
 6. Provide Operation and Maintenance Manuals.
-   ## Product
+## Product
 1. 2.1 Manufactured Units
    1. Refer to plans for plumbing fixtures and equipment. 
 
@@ -52,8 +50,7 @@ tags: ['Facility', 'Services', 'Plumbing', 'Fixtures']
 ## Execution
 
 
-* 
-	1. **Installation
+	1. Installation
    1. Cross Connection:
       1. Do not install any plumbing components that will provide a cross connection between potable and non-potable or drainage systems.
 2. Fixtures:
@@ -95,6 +92,4 @@ tags: ['Facility', 'Services', 'Plumbing', 'Fixtures']
 		1. Silicone seal all piping and wiring penetrations.
 6. Backflow Preventer:
       1. Install on water lines as shown on the plans.
-
-*[this page intentionally left blank]*
 

@@ -67,7 +67,7 @@ tags: ['General', 'Requirements', 'Construction', 'Waste', 'Management', 'Dispos
       1. California Materials Exchange of the California Integrated Waste Management Board (916-255-2369).
    1. Waste Spec:
       1. Model Specifications for Construction Waste Reduction, Reuse, and Recycling. Available from the Triangle J Council of Governments (919-549-0551).
-   1. SUBMITTALS
+1. SUBMITTALS
    1. WASTE MANAGEMENT PLAN:
       1. Prior to any waste removal, the Contractor shall submit to the Owner a Waste Management Plan. The Plan shall contain the following:
       1. Analysis of the estimated job site waste to be generated, including types and quantities. Use estimate sheets provided.
@@ -97,15 +97,19 @@ tags: ['General', 'Requirements', 'Construction', 'Waste', 'Management', 'Dispos
    1. Date removed from the job site
    1. Receiving party
    1. Indicate the project information, including project title, name of company completing form, beginning and ending dates of period covered by summary form.
-   1. PRODUCTS:
+
+## Products
+:
       1. (Not Used)
-   1. EXECUTION:
+
+## Execution
+:
       1. (Not Used)
    1. WASTE MANAGEMENT PLAN IMPLEMENTATION
    1. Coordinate waste materials handling and separation for all trades and document results of the Waste Management Plan.
    1. Provide separation, handling, transportation, recycling, salvage, and landfilling for all service or landfill, and facility fee. Use Appendix A – Materials Disbursal Worksheet and Appendix B – Waste Management Progress Report Worksheet.
    1. Do not handle, separate, store, salvage, or recycle hazardous materials. Contact Project Manager if hazardous materials are encountered.
-   1. END OF SECTION
+   
    1. Appendix A
    1. MATERIALS DISBURSAL WORKSHEET
    1. Instructions:
@@ -173,6 +177,5 @@ tags: ['General', 'Requirements', 'Construction', 'Waste', 'Management', 'Dispos
    1. Destination
    1. Describe any unusual circumstances encountered in the distribution of the materials listed above:
       1. Describe any pre-construction information that would have helped in the process:
-         1. END OF SECTION
-1. THIS PAGE INTENTIONALLY BLANK
+         
 

@@ -7,7 +7,7 @@ subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Equipment', 'Playground']
 ---
 
-   1. SECTION 11 68 13
+
    1. PLAYGROUND EQUIPMENT
 
 ## General
@@ -116,7 +116,9 @@ tags: ['Facility', 'Construction', 'Equipment', 'Playground']
 		12. Freeze/ thaw: no change (-50°c (-58°f), 40 cycles)
 		13. Slip resistance: 65-70 units/ approved (est. London, 90609/1)
 		14. Tensile, psi: 200 psi (top surface) (ASTM d 412)
-   1. Execution
+
+## Execution
+
 1. INSPECTION
    1. Prior to application of the poured-in-place surface system, installer shall evaluate the substrate's structural performance and notify Owner's Representative of all discrepancies. Work shall not proceed until unsatisfactory conditions are corrected.
 2. Prior to equipment installation, installer shall examine the substrates and conditions under which all equipment is to be installed and notify the owner's representative in writing of conditions detrimental to the proper, complete, and timely completion of the work. Do not proceed with the work until unsatisfactory conditions have been corrected.
@@ -137,5 +139,5 @@ tags: ['Facility', 'Construction', 'Equipment', 'Playground']
 	1. Assemble all equipment that requires pre-assembly before installation begins.
 	2. Install equipment at the locations agreed upon. Install level, plumb, secure and in accordance with manufacturer's recommendations, directions, and detail drawings. Cooperate with other trades. Repair and replace damaged units as directed by the owner's representative.
 	3. Protect installed equipment from damage, blemishes, or indication of use until completion and acceptance of the project.
-   1. END OF SECTION
+   
 

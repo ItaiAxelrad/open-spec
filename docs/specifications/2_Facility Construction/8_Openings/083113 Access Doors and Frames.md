@@ -7,8 +7,6 @@ subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Openings', 'Access', 'Doors', 'Frames']
 ---
 
-   1. SECTION 083113 - ACCESS DOORS AND FRAMES
-
 ## General
 
 1. RELATED DOCUMENTS
@@ -88,10 +86,7 @@ Sections, apply to this Section.
 7. Latch:
       1. Self-latching device operated by knurled knob with interior release.
 4. FABRICATION
-
-## General
-
-:
+	1. General:
       1. Provide access door and frame assemblies manufactured as integral units ready for installation.
    1. Metal Surfaces:
       1. For metal surfaces exposed to view, provide materials with smooth, flat surfaces without blemishes.
@@ -101,7 +96,9 @@ Sections, apply to this Section.
       1. Furnish number required to hold doors in flush, smooth plane when closed.
    1. Extruded Aluminum:
       1. After fabrication, apply manufacturer's standard protective coating on aluminum that will come in contact with concrete.
-   1. Execution
+
+## Execution
+
 1. INSTALLATION
    1. Comply with manufacturer's written instructions for installing access doors and frames.
    1. Set frames accurately in position and attach securely to supports with plane of face panels aligned with adjacent finish surfaces.

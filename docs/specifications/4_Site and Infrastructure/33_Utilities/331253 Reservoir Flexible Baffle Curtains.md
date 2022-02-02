@@ -7,13 +7,12 @@ subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Utilities', 'Reservoir', 'Flexible', 'Baffle', 'Curtains']
 ---
 
-   1. SECTION 33 12 53 
+
    1. Reservoir Flexible Baffle Curtains
 
 ## General
 
 
-* 
 	1. WORK INCLUDED
    1. This specification covers the design, fabrication, and erection of tension-fabric baffle systems composed of NSF 61 compliant geo-membrane.
 2. The tank contractor shall furnish all labor, materials, and equipment required to design, fabricate, deliver and install the tensioned-fabric baffle system.
@@ -25,7 +24,7 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Reservoir', 'Flexible', 'Baffle',
 5. The baffle system shall be guaranteed for a period of 1 year from final acceptance against defective materials and workmanship.
 	1. WARRANTY
 6. The geo-membrane manufacturer shall confirm in writing, that the material to be furnished will be free of defects in materials and workmanship at the time of the sale, and against deterioration due to effects of ozone, ultraviolet or other normal weathering on a pro-rated basis for up to 10 years from the date of completed installation. Manufacturer shall furnish a sample warranty for review and approval prior to shipment.
-   ## Product
+## Product
 01. DESIGN REQUIREMENTS
    1. The baffles shall confirm to the specified dimensions and shall be designed for installation in potable water with chlorine and ammonia present in the tank. The baffle system shall be suitable for expected water levels with daily fluctuations and shall have adequate strength to resist 0.5 inch of water depth difference across the baffle. 
 2. The baffles shall be erected and anchored to the floor, walls, and roof as shown in the plans to provide a flow path for maximum contact time for potable water in the tank.
@@ -140,7 +139,6 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Reservoir', 'Flexible', 'Baffle',
    1. 8 x 10-6 in/in/°F max
 4. x 10-5 cm/cm/°C max
 
-* 
 	1. ASTENERS AND HARDWARE
    1. All bolts, washers, nuts, and expansion anchors shall be type 316 stainless steel, minimum 3/8-inch diameter.
 2. Batten connection shall be shall be type 316 stainless steel flat bar, minimum ¼-inch thickness by 2 inches wide.

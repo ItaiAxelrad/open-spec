@@ -18,17 +18,17 @@ tags: ['Procurement', 'Contracting', 'Requirements', 'Agreement', 'Form', 'Owner
 	2. The Work is generally described as:
 2. THE PROJECT
 	1. The Project for which the Work under the Contract Documents may be the whole or only a part is generally described as follows:
-3. **ENGINEER
+3. ENGINEER
 	1. The Project has been designed by the Engineer:
 	2. The Engineer, who is to act as Owner’s representative, assume all duties and responsibilities, and have the rights and authority assigned to Engineer in the Contract Documents in connection with the completion of the Work in accordance with the Contract Documents.
-4. **CONTRACT TIMES
+4. CONTRACT TIMES
 	1. *Time of the Essence*
 		1. All time limits for Milestones, if any, Substantial Completion, and completion and readiness for final payment as stated in the Contract Documents are of the essence of the Contract.
 	2. *Days to Achieve Substantial Completion and Final Payment*
 		1. The Work will be substantially completed within {300} days after the date when the Contract Times commence to run as provided in Paragraph 2.03 of the General Conditions.
 	3. *Liquidated Damages*
 		1. Contractor and Owner recognize that time is of the essence of this Agreement and that Owner will suffer financial loss if the Work is not completed within the times specified in Paragraph 4.02 above, plus any extensions thereof allowed in accordance with Article 12 of the General Conditions. The parties also recognize the delays, expense, and difficulties involved in proving in a legal or arbitration proceeding the actual loss suffered by Owner if the Work is not completed on time. Accordingly, instead of requiring any such proof, Owner and Contractor agree that as liquidated damages for delay (but not as a penalty), Contractor shall pay Owner {$300.00} for each day (calendar days) that expires after the time specified in Paragraph 4.02 for Substantial Completion until the Work is substantially complete.
-5. **CONTRACT PRICE
+5. CONTRACT PRICE
 	1. Owner shall pay Contractor for completion of the Work in accordance with the Contract Documents an amount in current funds equal to the sum of the amounts determined pursuant to Paragraphs 5.01.A below:
 		1. For all Unit Price Work, an amount equal to the sum of the established unit price for each separately identified item of Unit Price Work times the estimated quantity of that item as indicated in this paragraph 5.01.A:
 			1. As provided in Paragraph 11.03 of the General Conditions, estimated quantities are not guaranteed, and determinations of actual quantities and classifications are to be made by Engineer as provided in Paragraph 9.07 of the General Conditions. Unit prices have been computed as provided in Paragraph 11.03 of the General Conditions.
@@ -40,24 +40,23 @@ tags: ['Procurement', 'Contracting', 'Requirements', 'Agreement', 'Form', 'Owner
    1. Unit Price
    1. Total Estimated Price
 
-* 
 	1. Estimated total of all unit price work:
 		1. $(words).
 		2. $(figure).
-   1. **PAYMENT PROCEDURES
+   1. PAYMENT PROCEDURES
 	1. *Submittal and Processing of Payments*
 		1. Contractor shall submit Applications for Payment in accordance with Article 14 of the General Conditions. Applications for Payment will be processed by Engineer as provided in the General Conditions.
 	2. *Progress Payments; Retainage*
 		1. Owner shall make progress payments on account of the Contract Price on the basis of Contractor’s Applications for Payment once of each month during performance of the Work as provided in Paragraphs 6.02.A.1 and 6.02.A.2 below. All such payments will be on the basis of the progress of work measured by the number of units of each bid item completed times the bid unit price in the Unit Price Schedule of the Bid Form for that item.
 			1. Prior to Substantial Completion, progress payments will be made in an amount equal to the percentage indicated below but, in each case, less the aggregate of payments previously made and less such amounts as Engineer may determine or Owner may withhold, including but not limited to liquidated damages, in accordance with Paragraph 14.02 of the General Conditions:
-				1. 95 percent of Work completed (with the balance being retainage); and
-				2. 95 percent of cost of materials and equipment not incorporated in the Work (with the balance being retainage).
+			1. 95 percent of Work completed (with the balance being retainage); and
+			2. 95 percent of cost of materials and equipment not incorporated in the Work (with the balance being retainage).
 			2. Upon Substantial Completion, Owner shall pay an amount sufficient to increase total payments to Contractor to 95 percent of the Work completed, less such amounts as Engineer shall determine in accordance with Paragraph 14.02.B.5 of the General Conditions.
 	3. *Final Payment*
 		1. Upon receipt of the final Application for Payment accompanied by Engineer’s recommendation of payment in accordance with Paragraph 14.07 of the General Conditions, Owner shall pay Contractor as provided in Paragraph 14.07 of the General Conditions the remainder of the Contract Price as recommended by Engineer as provided in said Paragraph 14.07, less any sum Owner is entitled to set off against Engineer’s recommendation, including but not limited to liquidated damages.
-2. **INTEREST
+2. INTEREST
 	1. All moneys not paid when due as provided in Article 14 of the General Conditions shall bear interest at the maximum legal rate.
-3. **CONTRACTOR’S REPRESENTATIONS
+3. CONTRACTOR’S REPRESENTATIONS
 	1. In order to induce Owner to enter into this Agreement Contractor makes the following representations:
 		1. Contractor has examined and carefully studied the Contract Documents and the other related data identified in the Bidding Documents.
 		2. Contractor has visited the Site and become familiar with and is satisfied as to the general, local, and Site conditions that may affect cost, progress, and performance of the Work.
@@ -71,30 +70,30 @@ tags: ['Procurement', 'Contracting', 'Requirements', 'Agreement', 'Form', 'Owner
 		8. Contractor has correlated the information known to Contractor, information and observations obtained from visits to the Site, reports and drawings identified in the Contract Documents, and all additional examinations, investigations, explorations, tests, studies, and data with the Contract Documents.
 		9. Contractor has given Engineer written notice of all conflicts, errors, ambiguities, or discrepancies that Contractor has discovered in the Contract Documents, and the written resolution thereof by Engineer is acceptable to Contractor.
 		10. The Contract Documents are generally sufficient to indicate and convey understanding of all terms and conditions for performance and furnishing of the Work.
-4. **CONTRACT DOCUMENTS
+4. CONTRACT DOCUMENTS
 	1. *Contents*
 		1. The Contract Documents consist of the following:
 			1. This Agreement (pages 1 to 7, inclusive).
 			2. Performance bond (pages 1 to 2, inclusive).
 			3. Payment bond (pages 1 to 2, inclusive).
 			4. Other bonds (pages to , inclusive).
-				1. Bid bond (pages 1 to 2, inclusive).
+			1. Bid bond (pages 1 to 2, inclusive).
 			5. General Conditions (pages 1 to 61, inclusive).
 			6. Supplementary Conditions (pages to , inclusive).
 			7. Specifications as listed in the table of contents of the Project Manual.
 			8. Drawings consisting of sheets with each sheet bearing the following general title: .
 			9. Addenda (numbers to , inclusive).
 			10. Exhibits to this Agreement (enumerated as follows):
-				1. Contractor’s Bid (pages to , inclusive).
-				2. Documentation submitted by Contractor prior to Notice of Award (pages to , inclusive).
+			1. Contractor’s Bid (pages to , inclusive).
+			2. Documentation submitted by Contractor prior to Notice of Award (pages to , inclusive).
 			11. The following which may be delivered or issued on or after the Effective Date of the Agreement and are not attached hereto:
-				1. Notice to Proceed (pages to , inclusive).
-				2. Work Change Directives.
-				3. Change Order(s).
+			1. Notice to Proceed (pages to , inclusive).
+			2. Work Change Directives.
+			3. Change Order(s).
 		2. The documents listed in Paragraph 9.01.A are attached to this Agreement (except as expressly noted otherwise above).
 		3. There are no Contract Documents other than those listed above in this Article 9.
 		4. The Contract Documents may only be amended, modified, or supplemented as provided in Paragraph 3.04 of the General Conditions.
-5. **MISCELLANEOUS
+5. MISCELLANEOUS
 	1. *Terms*
 		1. Terms used in this Agreement will have the meanings stated in the General Conditions and the Supplementary Conditions.
 	2. *Assignment of Contract*

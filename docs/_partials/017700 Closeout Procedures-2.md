@@ -10,7 +10,7 @@ tags: ['General', 'Requirements', 'Closeout', 'Procedures']
 
 ## General
 
-   1. SUMMARY
+1. SUMMARY
    1. Section Includes
    1. Provide an orderly and efficient transfer of the completed Work to the Owner.
    1. Related Sections
@@ -45,7 +45,7 @@ tags: ['General', 'Requirements', 'Closeout', 'Procedures']
    1. If so required, the Owner will prepare a final Change Order showing adjustments to the Contract Sum, which were not made previously by Change Order.
    1. Instruction
    1. Instruct the Owner's personnel in proper operation and maintenance of systems, equipment, and similar items which were provided as part of the Work.
-   1. SUBMITTALS
+1. SUBMITTALS
    1. Closeout submittals include, but are not necessarily limited to:
       1. Project Record Documents described in Section 017800;
    1. Operation and maintenance data for items so listed in pertinent other Sections of these Specifications, and for other items when so directed by the Owner;
@@ -55,12 +55,15 @@ tags: ['General', 'Requirements', 'Closeout', 'Procedures']
    1. Certificates of Inspection for products and completed operations;
    1. Evidence of payment and release of liens;
    1. List of subcontractors, service organizations, and principal vendors, including names, addresses, and telephone numbers where they can be reached for emergency service at all times including nights, weekends, and holidays.
-   1. QUALITY ASSURANCE
+1. QUALITY ASSURANCE
    1. Prior to requesting inspection by the Owner, use adequate means to insure that the Work is completed in accordance with the specified requirements and is ready for the requested inspection.
-   1. WARRANTY
+1. WARRANTY
    1. The Contractor and each subcontractor shall remedy any defects due to faulty materials or workmanship and pay for any damage to other work resulting there from which shall appear in his work within a period of one year from the date of Notice of Acceptance and in accordance with the terms of any special warranties provided in the contract. The Owner shall give notice of observed defects with reasonable promptness.
    1. Upon completion of the work, the Contractor shall deliver to the Owner, in duplicate, a written warranty based on the provision of this Article properly signed and notarized. Warranty shall be addressed to the Owner.
-   1. PRODUCTS (NOT USED)
-   1. EXECUTION (NOT USED)
-1. END OF SECTIONTHIS PAGE INTENTIONALLY BLANK
+
+## Products
+ (NOT USED)
+
+## Execution
+ (NOT USED)
 

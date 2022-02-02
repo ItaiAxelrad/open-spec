@@ -7,21 +7,16 @@ subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Concrete', 'Maintenance']
 ---
 
-   1. Section 03 01 00
-   1. concrete finishing and repair of surface defects
-
 ## General
 
-
-* 
-	1. **Summary
+1. SUMMARY
    1. Work under this section shall include concrete finishing and repair of surface defects from new structures. 
 2. Related Specification Sections include:
 	1. Section 03 11 00, Formwork.
 	2. Section 03 20 00, Reinforcement.
 	3. Section 03 31 00, Concrete Materials and Proportioning.
 	4. Section 03 31 01, Concrete Mixing, Placing, Jointing and Curing.
-	5. **Quality Assurance
+	5. Quality Assurance
 3. Work shall be per:
 	1. American Concrete Institute (ACI):
 		1. CT-13, Concrete Terminology.
@@ -39,7 +34,7 @@ tags: ['Facility', 'Construction', 'Concrete', 'Maintenance']
 	3. Installer/applicator of shall have minimum of three (3) years experience installing similar coatings and shall be licensed or approved in writing by manufacturer to install/apply this product.
 	4. Applicator of concrete sealer, hardener, densifier shall be factory trained and approved, in writing, by the manufacturer to apply the product.
 		1. Applicator shall have a minimum of five (5) years experience successfully applying materials specified.
-	5. **Definitions
+	5. Definitions
 5. Vertical Surface Defects:
 	1. Any void in the face of the concrete deeper than 1/8 IN, such as:
 		1. Tie holes.
@@ -50,7 +45,7 @@ tags: ['Facility', 'Construction', 'Concrete', 'Maintenance']
 		1. Scabbing is defect in which parts of the form face, including release agent, adhere to concrete.
 	3. Foreign material embedded in face of concrete.
 	4. Fines 1/16 IN or more in height.
-	5. **Submittals
+	5. Submittals
 6. Shop Drawings shall include:
 	1. Product technical data including:
 		1. Acknowledgement that products submitted meet requirements of aforementioned standards.
@@ -58,9 +53,9 @@ tags: ['Facility', 'Construction', 'Concrete', 'Maintenance']
 	2. Certifications:
 		1. Certification of aggregate gradation.
 		2. Certification that products being used will not interfere with bonding of future floor or wall finishes.
-	3. **Delivery, Storage, and Handling
+	3. Delivery, Storage, and Handling
 7. Comply with manufacturer’s recommendations and requirements for materials used. 
-   ## Product
+## Product
 1. 2.1 Acceptable Manufacturers
    1. Subject to compliance with the Contract Documents, the following manufacturers are acceptable:
 	1. Chemical floor sealer (CS-1) (CS-3):
@@ -144,15 +139,12 @@ tags: ['Facility', 'Construction', 'Concrete', 'Maintenance']
 	10. Leave undisturbed for at least 60 minutes before finishing level with surrounding surface.
 		1. Do not use metal tools in finishing a patch in a formed wall which will be exposed or coated with other materials.
 	11. Keep areas damp in accordance with grout manufacturer or bonding agent manufacturer's directions.
-	12. **Installation and Application
+	12. Installation and Application
 6. Do not repair surface defects or apply wall or floor finishes when temperature is or is expected to be below 50 DegF.
 	1. If necessary, enclose and heat area to between 50 and 70 DegF during repair of surface defects and curing of patching material.
 		1. Use only clean fuel, indirect fired heating apparatus.
 7. Chemical Floor Sealer Application
-	
-## General
-
-:
+		1. General:
 		1. Immediately prior to Substantial Completion, thoroughly clean floor in accordance with ASTM D4258 and prepare to receive chemical floor sealer.
 			1. Remove previously applied membrane curing compounds.
 			2. Remove soil, oils, stains, discoloration, or any other imperfection having a negative impact on the appearance of the finished floor.
@@ -221,10 +213,7 @@ tags: ['Facility', 'Construction', 'Concrete', 'Maintenance']
 		1. If more than one (1) finish occurs immediately adjacent to unformed surface, provide surface with most stringent formed surface requirement.
 	3. Continue treatment uniformly across unformed surfaces.
 10. Concrete Finishes for Horizontal Slab Surfaces:
-	
-## General
-
-:
+		1. General:
 		1. Tamp concrete to force coarse aggregate down from surface.
 		2. Screed with straightedge, eliminate high and low places, bring surface to required finish elevations; slope uniformly to drains.
 		3. Dusting of surface with dry cement or sand during finishing processes not permitted.
@@ -255,7 +244,7 @@ tags: ['Facility', 'Construction', 'Concrete', 'Maintenance']
 	7. Underside of concrete slab finish:
 		1. Match finish as specified for adjacent vertical surfaces.
 		2. If more than one (1) finish occurs immediately adjacent to underside of slab surface, provide surface with most stringent formed surface requirement.
-	8. **Quality Control
+	8. Quality Control
 11. Horizontal slab finished will be accepted provided the following:
 	1. Application specification requirements are satisfied.
 	2. Water does not pond in areas sloped to drain. 
@@ -267,6 +256,4 @@ tags: ['Facility', 'Construction', 'Concrete', 'Maintenance']
 	5. Accuracy of floor finish does not adversely affect installation and operation of movable equipment, floor supported items, or items fitted to floor (doors, tracks, etc.)
 12. Unacceptable finished shall be replaced.
 
-
-*[this page intentionally left blank]*
 

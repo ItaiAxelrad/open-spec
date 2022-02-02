@@ -11,5 +11,3 @@ tags: ['General', 'Requirements']
 
 General Conditions
 
-*[this page intentionally left blank]*
-

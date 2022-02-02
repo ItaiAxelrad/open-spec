@@ -7,12 +7,6 @@ subgroup: Facility Services
 tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 'Duct', 'Accessories']
 ---
 
-1. Copyright 2006 by The American Institute of Architects (AIA)
-1. Exclusively published and distributed by Architectural Computer Services, Inc. (ARCOM) for the AIA
-1. Revise this Section by deleting and inserting text to meet Project-specific requirements.
-1. This Section uses the term "Architect." Change this term to match that used to identify the design professional as defined in the General and Supplementary Conditions.
-1. Verify that Section titles referenced in this Section are correct for this Project's Specifications; Section titles may have changed.
-
 ## General
 
 1. RELATED DOCUMENTS
@@ -31,10 +25,7 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
 1. Retain Sections in subparagraphs below that contain requirements Contractor might expect to find in this Section but are specified in other Sections.
 1. SUBMITTALS
    1. First two paragraphs below are defined in Division 01 Section "Submittal Procedures" as "Action Submittals."
-
-## General
-
-:
+	1. General:
       1. Submit the following:
       1. Product data including details for materials, dimensions of individual components, profiles, and finishes for the following items:
             1. Backdraft dampers.
@@ -53,8 +44,7 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Comply with HVAC Duct Construction Standards per SMACNA - Metal & Flexible, 1st Ed., 1985.
    1. Comply with UL 181 – “Factory-Made Air Ducts and Air Connectors,” UL 555 – “Fire Dampers and Ceiling Dampers,” and UL 555S – “Leakage Rate Dampers for Use in Smoke Control Systems.”
 1. PRODUCTS
-1. MATERIALS** 
-   1. Backdraft Dampers:
+1. MATERIALS*   1. Backdraft Dampers:
       1. Description:
          1. Suitable for horizontal or vertical installation.
    1. Frame:
@@ -74,10 +64,7 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Wing-Nut Operator:
       1. Galvanized steel, with 1/4-inch galvanized-steel rod.
    1. Manual Volume Control Dampers:
-
-## General
-
-:
+	1. General:
          1. 
    1. Provide factory-fabricated volume-control dampers, complete with required hardware and accessories. 
    1. Stiffen damper blades to provide stability under operating conditions. 
@@ -147,10 +134,7 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Acoustic Turning Vanes:
       1. Fabricate of airfoil-shaped aluminum extrusions with perforated faces and fiberglass fill.
    1. Duct-mounted Access Doors and Panels:
-
-## General
-
-:
+	1. General:
          1. 
    1. Refer to the Access Door Materials Schedule at the end of this section for frame and door thickness, number of hinges and locks, and location of locks. 
    1. Provide construction and air tightness suitable for duct pressure class.
@@ -167,10 +151,7 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Insulation:
       1. 1-inch-thick fiberglass or polystyrene foam board.
    1. Flexible Connectors:
-
-## General
-
-:
+	1. General:
          1. Flame-retarded or noncombustible fabrics, coatings, and adhesives complying with UL Standard 181, Class 1.
    1. Conventional, Indoor System Flexible Connectors Fabric:
       1. Glass fabric double coated with polychloroprene.
@@ -179,10 +160,7 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Tensile Strength:
       1. 480 pounds per inch in the warp and 360 pounds per inch in the filling.
    1. Flexible Ducts:
-
-## General
-
-:
+	1. General:
          1. Comply with UL 181, Class 1.
    1. Flexible Ducts - Insulated:
       1. 
@@ -296,5 +274,4 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. 26
    1. 24
    1. 24
-1. END OF SECTION 233300
 

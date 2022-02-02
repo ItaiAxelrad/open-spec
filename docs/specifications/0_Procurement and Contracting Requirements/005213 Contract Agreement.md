@@ -12,7 +12,7 @@ tags: ['Procurement', 'Contracting', 'Requirements', 'Contract', 'Agreement']
    1. An AGREEMENT by and between OWNER, and CONTRACTOR for PROJECT. 
 1. SECTION I - PARTIES
    1. This AGREEMENT, by and between the Owner, and Contractor, doing business as (a corporation) hereinafter called “Contractor”, made this day:
-         1. SECTION 2 - RECITALS AND PURPOSE
+
    1. WITNESSETH:
       1. That for and in consideration of the payments and agreements hereinafter mentioned:
             1. The Contractor will commence and complete the work hereinafter called “Project”.
@@ -52,7 +52,7 @@ tags: ['Procurement', 'Contracting', 'Requirements', 'Contract', 'Agreement']
 1. SECTION 7 - INDEMNIFICATION
    1. The Contractor agrees to indemnify and hold harmless the District, and its officers and its employees, from and against all liability, claims, demands, and expenses, including court costs, settlements, and attorney fees, on account of any injury, loss, death, or damage, which may arise out of, or are in any manner connected with the work to be performed under this contract. 
 1. SECTION 8 - INDEPENDENT CONTRACTOR
-   1. Contractor and any persons employed by Contractor for the performance of work hereunder shall be independent contractors and not agents of the District. Any provision in this Agreement that may appear to give the District the right to direct Contractor as to details of doing work or to exercise a measure of control over the work mean that Contractor shall follow the direction of the District as to end results of the work only. **As an independent contract, Contractor is not entitled to worker’s compensation benefits except as may be provided by the independent contractor nor to unemployment insurance benefits unless unemployment compensation coverage is provided by the independent contractor or some other entity. The Contractor is obligated to pay all federal and state income tax on any monies earned or paid to this contract.
+   1. Contractor and any persons employed by Contractor for the performance of work hereunder shall be independent contractors and not agents of the District. Any provision in this Agreement that may appear to give the District the right to direct Contractor as to details of doing work or to exercise a measure of control over the work mean that Contractor shall follow the direction of the District as to end results of the work only. As an independent contract, Contractor is not entitled to worker’s compensation benefits except as may be provided by the independent contractor nor to unemployment insurance benefits unless unemployment compensation coverage is provided by the independent contractor or some other entity. The Contractor is obligated to pay all federal and state income tax on any monies earned or paid to this contract.
 1. SECTION 9 - ASSIGNMENT
    1. Contractor shall not assign or delegate this Agreement or any portion thereof, or any monies due to or become due hereunder without the District’s prior written consent.
 1. SECTION 10 - DEFAULT

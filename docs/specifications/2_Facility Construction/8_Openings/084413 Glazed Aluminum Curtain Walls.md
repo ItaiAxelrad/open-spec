@@ -10,7 +10,7 @@ tags: ['Facility', 'Construction', 'Openings', 'Glazed', 'Aluminum', 'Curtain', 
 
 ## General
 
-   1. SUMMARY
+1. SUMMARY
    1. Section Includes
    1. Work of this Section includes all exterior window wall at building perimeter and all other exterior infill window walls.
    1. It is the window wall contractor's responsibility to analyze the proposed installation and determine ability of system to withstand all imposed loads.
@@ -21,7 +21,7 @@ tags: ['Facility', 'Construction', 'Openings', 'Glazed', 'Aluminum', 'Curtain', 
    1. Section 088000 - Glazing
    1. REFERENCES
    1. Window wall standards and recommendations published by NAAMM, AAMA, and AA apply to the work, except as otherwise indicated.
-   1. SUBMITTALS
+1. SUBMITTALS
    1. Comply with Section 013000.
    1. Submit materials list of all items to be provided, with manufacturer's standard details and specifications for all various window wall systems.
    1. Submit shop drawings showing complete application to the project, and submit samples of each exposed member and samples of finish showing complete range of color from darkest to lightest proposed for this work, workmanship and glazing system.
@@ -29,10 +29,12 @@ tags: ['Facility', 'Construction', 'Openings', 'Glazed', 'Aluminum', 'Curtain', 
    1. Submit maintenance manual, with instructions for cleaning, sealant/gasket repair, and glass replacement.
    1. Submit stamped, engineered drawings for all installation connections and reactions.
    1. PROJECT/SITE CONDITIONS
-   1. WARRANTY
+1. WARRANTY
    1. Upon completion of this portion of the Work, and as a condition of its acceptance, deliver to the Owner two copies of a written warranty agreeing to replace work of this Section, which fails due to defective materials or workmanship within one year after date of Substantial Completion as that date is determined in accordance with the General Conditions.
    1. Failure due to defective materials or workmanship is deemed to include, but not to be limited to, water and air infiltrations in excess of specific tolerances.
-   1. PRODUCTS
+
+## Products
+
    1. MANUFACTURERS
    1. Drawings and Specifications are based on Kawneer Company, Inc. Series TriFab II 451.
    1. Maintain design concept as shown (member sizes, basic profiles and component alignment).
@@ -64,7 +66,9 @@ tags: ['Facility', 'Construction', 'Openings', 'Glazed', 'Aluminum', 'Curtain', 
    1. FABRICATION
    1. The framing system shall provide for a flush glazing appearance, with no projecting stops.
    1. Vertical and horizontal framing members shall have a nominal dimension of 2" x 4 1/2".
-   1. EXECUTION
+
+## Execution
+
    1. ERECTION INSTALLATION APPLICATION
    1. Framing shall be installed, glazed and adjusted by experienced workman in accordance with the manufacturer's installations and/or approved shop drawings.
    1. Erect window wall units with accurately aligned and tight joints, securely anchored in place.
@@ -76,5 +80,4 @@ tags: ['Facility', 'Construction', 'Openings', 'Glazed', 'Aluminum', 'Curtain', 
    1. Clean surfaces promptly after erection.
    1. Repair minor defects in finish; replace members with major defects, as directed by Owner.
    1. Protect from damage throughout remainder of construction process.
-1. END OF SECTIONTHIS PAGE INTENTIONALLY BLANK
 

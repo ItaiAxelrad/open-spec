@@ -7,12 +7,12 @@ subgroup: General Requirements
 tags: ['General', 'Requirements', 'Temporary', 'Facilities', 'Controls']
 ---
 
-1. SECTION 015000
+
 1. TEMPORARY FACILITIES AND CONTROLS
 
 ## General
 
-   1. SUMMARY
+1. SUMMARY
    1. Section Includes
    1. Provide temporary facilities and controls needed for the Work including, but not necessarily limited to:
       1. Temporary utilities such as water, electricity, and telephone.
@@ -28,13 +28,15 @@ tags: ['General', 'Requirements', 'Temporary', 'Facilities', 'Controls']
    1. Documents affecting work of this Section include, but are not necessarily limited to, General Conditions, Supplementary Conditions, and Sections in Division 1 of these Specifications.
    1. Permanent installation and hookup of the various utility lines are described in other Sections.
    1. Coordinate points of access and distribution of temporary facilities with project manager.
-   1. QUALITY ASSURANCE
+1. QUALITY ASSURANCE
    1. Comply with governing regulations and utility company regulations and recommendations for the construction of temporary facilities, including but not necessarily limited to, code compliances, permits, inspections, testing, and health and safety compliances.
    1. DELIVERY, STORAGE, AND PROTECTION
    1. Maintain temporary facilities and controls in proper and safe condition throughout progress of the Work.
    1. PROJECT/SITE CONDITIONS
    1. Provide temporary facilities and services at the time first needed at the site and maintain, expand, and modify facilities as needed throughout the construction period and do not remove until no longer needed.
-   1. PRODUCTS
+
+## Products
+
    1. MATERIALS
    1. Utilities
    1. Water
@@ -52,7 +54,7 @@ tags: ['General', 'Requirements', 'Temporary', 'Facilities', 'Controls']
    1. MANUFACTURED UNITS
    1. Field Offices and Sheds
    1. Contractor's facilities
-   1. Provide a heated and insulated field office building and sheds, adequate in size and accommodation for Contractor's offices, supply, and storage, and for NREL personnel as described above.
+   1. Provide a heated and insulated field office building and sheds, adequate in size and accommodation for Contractor's offices, supply, and storage, and for Owner personnel as described above.
    1. Within the Contractor's facilities, provide enclosed space adequate for holding project meetings. Furnish with table, chairs, and utilities.
    1. Sanitary facilities
    1. Provide temporary sanitary facilities in the quantity required for use by all personnel.
@@ -60,8 +62,10 @@ tags: ['General', 'Requirements', 'Temporary', 'Facilities', 'Controls']
    1. All trailers will be securely tied down and skirted as per details shown in the City of Golden and/or Jefferson County requirements for high wind exposure.
    1. Enclosures
    1. Provide and maintain for the duration of construction all scaffolds, tarpaulins, canopies, warning signs, steps, platforms, bridges, and other temporary construction necessary for proper completion of the Work in compliance with pertinent safety and other regulations.
-   1. EXECUTION
-   1. PREPARATION
+
+## Execution
+
+1. PREPARATION
    1. Disruption of Facilities
    1. Contractor is required to minimize disruptions of Owner's normal or general public activities by his performance of the work. Comply with governmental authorities, if disruption of public facilities is inevitable.
    1. Access and Parking
@@ -69,7 +73,7 @@ tags: ['General', 'Requirements', 'Temporary', 'Facilities', 'Controls']
    1. All parking on the site is under control and authority of Owner. All on site parking is by Owner approval only. Parking for individual cars within project property lines is limited and spaces will be available only for General Contractor's Job Superintendents and "visitors". All other cars shall secure parking to park on site where directed, if available, or shall park off site.
    1. FIELD QUALITY CONTROL
    1. Rodent and Vermin Control
-   1. Institute an effective program of rodent and vermin control for the entire site within the construction limits approved by NREL. Cooperate with local authorities.
+   1. Institute an effective program of rodent and vermin control for the entire site within the construction limits approved by Owner. Cooperate with local authorities.
    1. Provide marked metal containers for all edible rubbish and enforce their use by all employees. Containers shall be emptied and the contents removed from the site as often as required to maintain an adequate rodent and vermin control program.
    1. If the program utilized is not effective, take whatever steps are necessary to rid the project of rodents and vermin, and such action shall not be the basis of claim for additional compensation of damages.
    1. Water and Snow Control
@@ -82,5 +86,4 @@ tags: ['General', 'Requirements', 'Temporary', 'Facilities', 'Controls']
    1. Security
    1. Temporary Security
    1. Watchman is not required, but contractor is responsible for all loss and damage in area under contractor's control.
-1. END OF SECTIONTHIS PAGE INTENTIONALLY BLANK
 

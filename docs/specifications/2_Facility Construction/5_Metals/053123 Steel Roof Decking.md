@@ -7,13 +7,9 @@ subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Metals', 'Steel', 'Roof', 'Decking']
 ---
 
-   1. Section 05 31 23 
-   1. Steel Roof Decking
-
 ## General
 
 
-* 
 	1. RELATED DOCUMENTS
    1. Drawings, General and Special Provisions of the Contract, and Division 01 Specification
 Sections apply to this Section.
@@ -54,7 +50,7 @@ otherwise indicated or specified.
 operators in accordance with AWS "Standard Qualification Procedure".
    1. Welded decking in place is subject to inspection and testing in accordance with AWS D1.1.
 Remove work found to be defective and replace with new acceptable work.
-   ## Product
+## Product
 1. MATERIALS
    1. Steel for Galvanized Metal Deck Units:
       1. ASTM A653, structural quality Grade 33
@@ -87,10 +83,7 @@ surfaces complying with Military Specifications MIL-P-21035 (Ships).
       1. Two-part epoxy-resin adhesive, "Scotch Weld" structural adhesive 3501 B/A
 manufactured by 3M Company, or approved equal.
 2. FABRICATION
-
-## General
-
-:
+	1. General:
       1. Fabricate deck units in lengths to span three or more supports, with telescoped or
 nested 2" end laps and nested side laps, and end laps staggered by at least one deck span length,
    1. unless otherwise indicated. Provide deck configurations complying with SDI "Specification"
@@ -108,10 +101,7 @@ other construction, of not less than 4" wide 0.045" minimum (18 gage) sheet stee
 ## Execution
 
 1. INSTALLATION
-
-## General
-
-:
+	1. General:
       1. Install deck units and accessories in accordance with manufacturer's recommendations
 and final shop drawings, and as specified herein.
 1. Replace all sheets that have been crimped, dented or bent during shipping or erection or

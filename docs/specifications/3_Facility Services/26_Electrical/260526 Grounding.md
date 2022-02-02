@@ -10,7 +10,7 @@ tags: ['Facility', 'Services', 'Electrical', 'Grounding']
 
 ## General
 
-   1. RELATED DOCUMENTS
+1. RELATED DOCUMENTS
    1. Drawings and general provisions of the Contract, including General and Supplementary Conditions and Division 1 Specifications, apply to this Section.
    1. Summary
    1. This Section includes:
@@ -23,7 +23,7 @@ tags: ['Facility', 'Services', 'Electrical', 'Grounding']
    1. Institute of Electrical and Electronic Engineers.
    1. Instrument Society of America.
    1. National Fire Protection Association.
-   1. SUBMITTALS
+1. SUBMITTALS
    1. Furnish complete submittals for all components of the grounding system and testing in conformance with Division 1 requirements.
    1. Contractor shall submit a written grounding test plan and resume for the individual who will perform the grounding tests detailing experience and qualifications. Contractor shall submit blank test result forms prior to testing.
    1. quality assurance
@@ -32,7 +32,9 @@ tags: ['Facility', 'Services', 'Electrical', 'Grounding']
    1. Comply with NFPA 780 for installation of Lighting Protection Systems.
    1. Comply with ANSI J-STD-607-A for Telecommunications System Grounding.
    1. Comply with the requirements of IEEE 1100 for grounding of sensitive electronic equipment.
-   1. Products
+
+## Products
+
    1. manufacturers
    1. Components as manufactured by:
       1. Copperweld
@@ -63,8 +65,10 @@ tags: ['Facility', 'Services', 'Electrical', 'Grounding']
       1. This conductor shall be the same type and insulation as the load circuit conductors. The minimum size shall be as outlined in Table 250-95 of the National Electrical Code, unless shown otherwise on the drawings.
    1. Shall be present in all raceways. The conduit system is not an allowable equipment ground.
    1. Use of salts, water or compounds to attain the specified ground resistance is not acceptable.
-   1. Execution
-   1. INSTALLATION
+
+## Execution
+
+1. INSTALLATION
    1. Special Techniques:
       1. Provide a separate grounding conductor, securely grounded in each raceway independent of raceway material.
    1. Provide a separate grounding conductor for each motor and connect at motor box. Do not use bolts securing motor box to frame or cover for grounding connectors.
@@ -128,6 +132,5 @@ tags: ['Facility', 'Services', 'Electrical', 'Grounding']
    1. Test in accordance with applicable Division 26 sections of the Specifications.
    1. adjusting
    1. Under the direction of the Engineer the Contractor shall add additional parallel connected ground rods and/or deeper driven rods until the ground resistance measurement meets the resistance requirements of the Engineer. Additional work performed by the Contractor shall be under a separate contract using documented per unit values for the additional Work.
-1. END OF SECTION 260526
 1. (THIS PAGE INTENTIONALLY BLANK)
 

@@ -10,7 +10,7 @@ tags: ['Facility', 'Construction', 'Metals', 'Structural', 'Steel', 'Framing']
 
 ## General
 
-   1. SUMMARY
+1. SUMMARY
    1. Section Includes
    1. Structural steel framing and support members, pipe columns, and braces complete with required braces, connection plates, welds, washers, bolts, nuts, shims, anchor bolts, and templates.
    1. Base plates, cap plates, and shear stud connectors.
@@ -22,13 +22,13 @@ tags: ['Facility', 'Construction', 'Metals', 'Structural', 'Steel', 'Framing']
    1. Section 052100 - Steel Joist Framing
    1. Section 053100 - Metal Decking
    1. Section 055000 - Metal Fabrications
-   1. SUBMITTALS
+1. SUBMITTALS
    1. Comply with pertinent provisions of Section 013300.
    1. Product data:
       1. Within 35 calendar days after the Contractor has received the Owner's Notice to Proceed, submit:
             1. Sufficient technical data to demonstrate compliance with the specified requirements.
    1. Complete Shop Drawings showing all members, proposed cuts, connections, camber, holes, and similar data.
-   1. QUALITY ASSURANCE
+1. QUALITY ASSURANCE
    1. Use adequate numbers of skilled workmen who are thoroughly trained and experienced in the necessary crafts and who are completely familiar with the specified requirements and the methods needed for proper performance of the work of this Section.
    1. Perform welding with electric arc process and in accordance with AWS "Code for Arc and Gas Welding in Building Construction."
    1. In addition to complying with pertinent codes and regulations, comply with:
@@ -41,7 +41,9 @@ tags: ['Facility', 'Construction', 'Metals', 'Structural', 'Steel', 'Framing']
    1. Deliver materials to the job site properly marked to identify the location for which they are intended.
    1. Use markings corresponding to markings shown on the approved shop drawings.
    1. Store in a manner to maintain identification and prevent damage, off the ground, using pallets or other supports, and to permit easy access for inspection.
-   1. PRODUCTS
+
+## Products
+
    1. MATERIALS
    1. Rolled steel plates and bars:
       1. Comply with ASTM A36.
@@ -77,8 +79,10 @@ tags: ['Facility', 'Construction', 'Metals', 'Structural', 'Steel', 'Framing']
    1. Do not paint:
       1. Contact surfaces of high strength bolted members;
    1. Steel scheduled to be concealed, or scheduled to be in contact with concrete.
-   1. EXECUTION
-   1. EXAMINATION
+
+## Execution
+
+1. EXAMINATION
    1. Examine the areas and conditions under which work of this Section will be performed.
    1. Correct conditions detrimental to timely and proper completion of Work.
    1. Do not proceed until unsatisfactory conditions are corrected.
@@ -123,5 +127,4 @@ tags: ['Facility', 'Construction', 'Metals', 'Structural', 'Steel', 'Framing']
    1. Apply a spot coat of the approved primer.
    1. Do not apply paint to wet, damp, oily, or improperly prepared surfaces.
    1. Spray apply the primer, filling joints and corners, and covering surfaces with a smooth unbroken film of at least 1.5 dry mils thickness.
-   1. END OF SECTIONTHIS PAGE INTENTIONALLY BLANK
-
+   

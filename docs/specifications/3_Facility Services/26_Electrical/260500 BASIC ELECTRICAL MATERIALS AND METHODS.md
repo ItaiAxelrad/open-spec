@@ -4,11 +4,8 @@ section: '260500'
 divNumb: 26
 divName: Electrical
 subgroup: Facility Services
-tags: ['Facility', 'Services', 'Electrical', 'BASIC', 'ELECTRICAL', 'MATERIALS', 'AND', 'METHODS']
+tags: ['Facility', 'Services', 'Electrical', 'BASIC', 'ELECTRICAL', 'MATERIALS', 'METHODS']
 ---
-
-1. SECTION 26 05 00
-1. BASIC ELECTRICAL MATERIALS AND METHODS
 
 ## General
 
@@ -69,10 +66,7 @@ Conditions and Division 1 Specification Sections, apply to this Section.
    1. D.
    1. Items specifically mentioned in the Specifications but not shown on the Drawings and/or items shown on the Drawings but not specifically mentioned in the Specifications shall be installed by the Contractor under the appropriate section of work as if they were both specified and shown.
 08. BUILDING CONSTRUCTION AND LAYOUT OF WORK
-
-## General
-
-:
+	1. General:
       1. It shall be the responsibility of the Contractor to consult the Engineer and Engineering Drawings and Details so as to thoroughly familiarize himself with the type and quality of construction to be provided on this project.
    1. The Electrical Drawings are diagrammatic in nature and do not show every connection in detail or every line or conduit in its exact location. These details are subject to the requirements of all codes and ordinances as well as all structural and Engineer conditions. The Contractor shall carefully investigate structural and finish conditions and shall coordinate
 the separate trades in order to avoid interference between the various phases of work. Work shall be laid out so that it will be concealed in furred chases unless specifically noted or indicated to be exposed. Work shall be installed to avoid crippling of structural members; therefore, inserts to accommodate conduit hangers shall be set before concrete is poured, and proper openings through floors, walls, beams, etc. shall be provided as hereinafter specified or as otherwise indicated or required before concrete is poured. All work shall be run parallel or perpendicular to the lines of the building unless otherwise noted.
@@ -99,7 +93,9 @@ recommendations and shall obtain from the Engineer instructions/direction before
 06. CONDITION OF MATERIALS AND APPURTENANCES
    1. All materials required for the installation of the electrical systems shall be new and unused.
 Any material or equipment damaged in transit from the factory, during delivery to premises, while in storage on premises, while being erected and installed, or while being tested, until time of final acceptance, shall be replaced by this Contractor without extra cost to Owner.
-   1. Execution
+
+## Execution
+
 01. ELECTRICAL EQUIPMENT INSTALLATION
    1. Headroom Maintenance:
       1. If mounting heights or other location criteria are not indicated, arrange and install components and equipment to provide the maximum possible headroom.

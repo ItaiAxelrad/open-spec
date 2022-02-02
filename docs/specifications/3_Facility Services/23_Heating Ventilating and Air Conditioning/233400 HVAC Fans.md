@@ -7,12 +7,6 @@ subgroup: Facility Services
 tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 'HVAC', 'Fans']
 ---
 
-1. Copyright 2006 by The American Institute of Architects (AIA)
-1. Exclusively published and distributed by Architectural Computer Services, Inc. (ARCOM) for the AIA
-1. Revise this Section by deleting and inserting text to meet Project-specific requirements.
-1. This Section uses the term "Architect." Change this term to match that used to identify the design professional as defined in the General and Supplementary Conditions.
-1. Verify that Section titles referenced in this Section are correct for this Project's Specifications; Section titles may have changed.
-
 ## General
 
 1. RELATED DOCUMENTS
@@ -198,10 +192,7 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Manufacturers:
       1. Acme “DCK”, Twin City Fan and Blower Model “TCWPB”, Bayley “JBD”, Cook “XM” or Penn “BCH”.
    1. Cabinet Fans - Type CAB
-
-## General
-
-:
+	1. General:
       1. Horizontal cabinet type less coil section, less filter section. 
    1. Unit Cabinet
    1. Construct unit of a complete frame with removable panels. Construct the unit so that removal of side panels will not affect the structural integrity of each module. Construct the unit so that the casing will be able to withstand up to four-inches negative static pressure. Construct all exterior wall panels of minimum 18-gauge G90 galvanized steel. Use closed-cell foam gasketing where modules are joined.
@@ -218,10 +209,7 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Manufacturers
    1. Trane, Carrier, Howden Fan Co., Avaho Industries, Inc., Mammoth, York International Corp., or McQuay.
    1. Roof/Wall Mounted Power Ventilators - Type R/W PV
-
-## General
-
-:
+	1. General:
       1. Roof or wall type, spun aluminum, belt driven, centrifugal exhausters with motor and drive isolated from the discharge airstream in a forced cooled compartment, listed under UL 705 and bearing the UL label. 
    1. Wheels:
       1. 
@@ -306,7 +294,6 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Train Owner's maintenance personnel on procedures and schedules for starting and stopping, troubleshooting, servicing, and maintaining equipment and schedules.
    1. Review data in maintenance manuals. See Division 23 sections of the Specifications.
    1. Schedule training with Owner, through Architect, with at least seven days' advance notice.
-1. END OF SECTION 232400
    1. First two paragraphs below are defined in Division 01 Section "Submittal Procedures" as "Action Submittals."
    1. Remaining paragraphs are defined in Division 01 Section "Submittal Procedures" as "Informational Submittals."
    1. Retain first paragraph below if Drawings do not include detailed plans or if Project involves unusual coordination requirements.

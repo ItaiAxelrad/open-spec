@@ -12,9 +12,7 @@ tags: ['General', 'Requirements', 'Abbreviations', 'Acronyms']
 
 ## General
 
-
-* 
-	1. **Summary
+1. SUMMARY
    1. Work included:
       1. 
 2. Related work described elsewhere:
@@ -22,7 +20,7 @@ tags: ['General', 'Requirements', 'Abbreviations', 'Acronyms']
 	1. Section 01 42 00, References.
 	2. Section 01 42 16, Definitions.
 	3. Section 01 42 19, Reference Standards.
-	4. **Abbreviations and Acronyms
+	4. Abbreviations and Acronyms
 3. This section lists abbreviations commonly used in these specification documents:
       1. ac
    1. Alternating current
@@ -529,7 +527,10 @@ tags: ['General', 'Requirements', 'Abbreviations', 'Acronyms']
    1. Yard(s)
    1. yr
    1. Year(s)
-   ## Product (Not Used)
+
+## Product 
+
+ (Not Used)
 
 
 ## Execution

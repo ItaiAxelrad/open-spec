@@ -4,7 +4,7 @@ section: '230900'
 divNumb: 23
 divName: Heating Ventilating and Air Conditioning
 subgroup: Facility Services
-tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 'Instrumentation', 'Control', 'for', 'HVAC']
+tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 'Instrumentation', 'Control', 'HVAC']
 ---
 
 
@@ -39,10 +39,7 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. 90A - Air Conditioning and Ventilating Systems
    1. Underwriters Laboratories (UL)
 1. SUBMITTALS
-
-## General
-
-:
+	1. General:
       1. Submit the following in accordance with Division 23 sections of the Specifications.
    1. Product Data:
       1. 
@@ -50,9 +47,9 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Also include installation and start-up instructions.
    1. Shop Drawings:
       1. 
-   1. Use NREL’s master set of control drawings as basis for shop drawings. 
+   1. Use Owner’s master set of control drawings as basis for shop drawings. 
    1. Submit shop drawings for each control system containing the following information:
-      1. Schematic flow diagram of system showing boilers, chillers, pumps, coils, valves, and control devices. The NREL control diagrams are available on AutoCAD 2005 and may be used as the basis for the flow diagram.
+      1. Schematic flow diagram of system showing boilers, chillers, pumps, coils, valves, and control devices. The Owner control diagrams are available on AutoCAD 2005 and may be used as the basis for the flow diagram.
    1. Label each control device with setting or adjustable range of control and device name.
    1. Indicate all required electrical wiring. Clearly differentiate between portions of wiring that are factory-installed and portions to be field-installed.
    1. Include verbal description of sequence of operation and software descriptions. Submit flow charts for approval with sequence of operation.
@@ -66,8 +63,8 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
       1. 
    1. Submit maintenance instructions and spare parts lists for each type of control device. 
    1. Include that type data, product data, and shop drawings in Operating and Maintenance Manual in accordance with requirements of Division 23 sections of the Specifications. These must be provided in PDF format in addition to hard copy.
-   1. Submit as built drawings and as built AutoCAD 2005 files for all drawings. Verify most current AutoCAD version being utilized by NREL. 
-   1. All drawings must be fully integrated into the NREL master set of existing control drawings. This includes using NREL’s standard border for drawings, and numbering the new drawings to match existing master drawing set, as well as updating any impacted existing drawings. A complete single set of control drawings must be maintained for each building.
+   1. Submit as built drawings and as built AutoCAD 2005 files for all drawings. Verify most current AutoCAD version being utilized by Owner. 
+   1. All drawings must be fully integrated into the Owner master set of existing control drawings. This includes using Owner’s standard border for drawings, and numbering the new drawings to match existing master drawing set, as well as updating any impacted existing drawings. A complete single set of control drawings must be maintained for each building.
 1. QUALITY ASSURANCE
    1. Manufacturer's Qualification:
       1. Firms regularly engaged in manufacture of control equipment, of types and sizes required, whose products have been in satisfactory use in similar service for not less than five years.
@@ -91,15 +88,11 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
     1. c/o Setpoint Systems Corporation
     1. 2680 S. Platte River Drive
    1. Denver, Colorado 80223
-1. MATERIALS** 
-
-## General
-
-:
+1. MATERIALS*	1. General:
       1. Furnish and install a complete control system consisting of an Energy Monitoring and Control System (EMCS). 
    1. The control system shall be complete in all respects including labor, materials, equipment, and services necessary, and shall be installed by personnel regularly employed by the manufacturer.
    1. All automation and control components shall be integrated into a distributed network system communicating over a nonproprietary local area network. 
-   1. This system shall consist of field Stand-alone Direct Digital Controllers (DDC), Smart Local DDCs, and multiple Personal Computer (PC) based operator workstations. Firmware and software shall match existing NREL system unless approved by NREL.
+   1. This system shall consist of field Stand-alone Direct Digital Controllers (DDC), Smart Local DDCs, and multiple Personal Computer (PC) based operator workstations. Firmware and software shall match existing Owner system unless approved by Owner.
    1. The communication between major system components shall be Ethernet. Any communication lines that are between building, exposed outdoors or underground shall be fiber optics with conversion to Ethernet inside the buildings. 
    1. The EMCS shall consist of the following items:
       1. Stand-alone DDC panels. 
@@ -109,10 +102,7 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. The failure of any single component or network connection shall not interrupt the execution of control strategies at other operational devices.
    1. Stand-alone DDC panels shall be able to access any data from, or send control commands and alarm reports directly to, any other DDC panel or combination of panels on the network without dependence upon a central processing device. Stand-alone DDC panels shall also be able to send alarm reports to operator workstations without dependence upon a central processing device polling them.
    1. Hardware, Stand-Alone DDC Panels:
-
-## General
-
-:
+	1. General:
          1. 
    1. Stand-alone DDC panels shall be microprocessor based, multi-tasking, multi-user, real-time digital control processors. 
    1. A sufficient number of controllers shall be supplied to meet the requirements of the sequence of operation.
@@ -217,10 +207,7 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. CTs with output scalable to current draw may be used in place of current sensing relays to monitor status of motors. 
    1. CTs shall be used if called out on drawings.
    1. Software - Automatic Control:
-
-## General
-
-:
+	1. General:
          1. 
    1. All necessary software to form a complete operating system as described in this specification shall be provided. 
    1. The software programs shall be provided as an integral part of the DDC panel and shall not be dependent upon any higher-level computer for execution.
@@ -235,10 +222,7 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Peer-to-Peer Displays:
       1. Global temperature values, humidity values, flow values, and status indication shall be shown in their actual respective locations and shall automatically update to represent current conditions without operator intervention. 
    1. Documentation:
-
-## General
-
-:
+	1. General:
          1. Provide reference material that contains an overview of the system, organization, terminology, abbreviations, symbols and job specific information as described below. 
    1. Documentation shall also include an Input/Output summary table and plans showing equipment locations. 
    1. All manuals shall be updated to reflect as built configuration after final acceptance and shall be provided in three-ring hard cover bindings.
@@ -253,10 +237,7 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Lists of all set points, alarm points, and message conditions.
    1. Hard copy of graphics.
    1. Materials and Equipment:
-
-## General
-
-:
+	1. General:
          1. 
    1. Provide electric control products in sizes and capacities indicated, consisting of valves, dampers, thermostats, sensors, controllers, and other components as required for complete installation interfacing with DDC control system. 
    1. Provide electric control systems with the following functional and construction features. 
@@ -324,10 +305,7 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Examine areas and conditions under which control systems are to be installed. 
    1. Do not proceed with work until unsatisfactory conditions have been corrected in manner acceptable to Installer.
 1. ERECTION INSTALLATION APPLICATION
-
-## General
-
-:
+	1. General:
       1. 
    1. Install systems and materials in accordance with manufacturer's instructions, roughing-in drawings and details shown on drawings. 
    1. Install electrical components and use electrical products complying with the requirements of applicable Division 26 sections of the Specifications.
@@ -357,12 +335,11 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Clean factory-finished surfaces. Repair any marred or scratched surfaces and manufacturer's touch-up paint.
 1. DEMONSTRATION
    1. Operator Instructions:
-      1. During system commissioning and at such time acceptable performance of the control system hardware and software has been established, the Building Automation Contractor shall provide on-site operator instruction to NREL personnel. Operator instruction during normal working hours shall be performed by a competent Building Automation Contractor representative familiar with the control system's software, hardware, and accessories.
+      1. During system commissioning and at such time acceptable performance of the control system hardware and software has been established, the Building Automation Contractor shall provide on-site operator instruction to Owner personnel. Operator instruction during normal working hours shall be performed by a competent Building Automation Contractor representative familiar with the control system's software, hardware, and accessories.
    1. At a time mutually agreed upon during control system commissioning as stated above, the Building Automation Contractor shall:
       1. 
-   1. Give at least 8 hours of instruction to the NREL designed personnel at the NREL job site on the operation of all equipment within the building automation center and describe its intended use with respect to the programmed functions specified. 
+   1. Give at least 8 hours of instruction to the Owner designed personnel at the Owner job site on the operation of all equipment within the building automation center and describe its intended use with respect to the programmed functions specified. 
    1. 32 hours of additional training requirements may be fulfilled by off site training classes, for a total of 40 hours of training. 
    1. Operator orientation of the automation system shall include, but not be limited to, the overall operational program, equipment functions (both individually and as part of the total integrated system), commands, system generation, advisories, and appropriate operator intervention required in responding to the control system's operation. 
    1. An Owner's manual prepared for this project by the Building Automation Contractor shall be used in addition to the instruction. Four copies of the Owner's manual shall be provided.
-1. END OF SECTION 230900
 

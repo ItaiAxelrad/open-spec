@@ -7,9 +7,6 @@ subgroup: Facility Services
 tags: ['Facility', 'Services', 'Fire', 'Suppression', 'Wet-Pipe', 'Sprinkler', 'Systems']
 ---
 
-1. SECTION 21 13 13
-1. WET-PIPE SPRINKLER SYSTEMS
-
 ## General
 
 1. RELATED DOCUMENTS
@@ -88,44 +85,41 @@ tags: ['Facility', 'Services', 'Fire', 'Suppression', 'Wet-Pipe', 'Sprinkler', '
       1. 130 sq. ft.
    1. Components and Installation:
       1. Capable of producing piping systems with 175-psig minimum working-pressure rating, unless otherwise indicated.
-1. SUBMITTALS** 
+1. SUBMITTALS 
    1. See Division 1 sections of the Specifications for submittal requirements and for product options and substitutions.
-   1. Submit manufacturer’s data sheets on all system components, including the following:
+   2. Submit manufacturer’s data sheets on all system components, including the following:
       1. Sprinkler heads
-   1. Cabinets
-   1. Valves
-   1. Fire Department inlets
-   1. Accessories
-1. QUALITY ASSURANCE
+   3. Cabinets
+   4. Valves
+   5. Fire Department inlets
+   6. Accessories
+2. QUALITY ASSURANCE
    1. Installer Qualifications:
       1. An experienced installer who has designed and installed fire-suppression piping similar to that indicated for this Project and obtained design approval and inspection approval from authorities having jurisdiction.
-   1. Engineering Responsibility:
+   2. Engineering Responsibility:
       1. Preparation of working plans, calculations, and field test reports by a qualified professional engineer. Base calculations on results of fire-hydrant flow test.
-   1. Professional Engineer Qualifications:
+   3. Professional Engineer Qualifications:
       1. A professional engineer who is legally qualified to practice in jurisdiction where Project is located and who is experienced in providing engineering services of the kind indicated. Engineering services are defined as those performed for installations of fire-suppression piping that are similar to those indicated for this Project in material, design, and extent.
-   1. Manufacturer Qualifications:
+   4. Manufacturer Qualifications:
       1. Firms whose equipment, specialties, and accessories are listed by product name and manufacturer in the UL Fire Protection Equipment Directory and FM Fire Protection Approval Guide and that comply with other requirements indicated.
-   1. Sprinkler Components:
+   5. Sprinkler Components:
       1. Listing/approval stamp, label, or other marking by a testing agency acceptable to authorities having jurisdiction.
-   1. Electrical Components, Devices, and Accessories:
+   6. Electrical Components, Devices, and Accessories:
       1. Listed and labeled as defined in NFPA 70, Article 100, by a testing agency acceptable to authorities having jurisdiction.
-   1. NFPA Standards:
+   7. NFPA Standards:
       1. Equipment, specialties, accessories, installation, and testing complying with NFPA 13, 13R, 14, and 230.
-1. WARRANTY
-
-## General
-
-:
+3. WARRANTY
+	1. General:
       1. Submit special warranties for the products so specified elsewhere in Division 21 sections of the Specifications. 
    1. Submit statements of compliance for the products so specified elsewhere in Divisions 2 and 21 sections of the Specifications. 
-1. EXTRA MATERIALS
+4. EXTRA MATERIALS
    1. Furnish extra materials described below that match products installed and that are packaged with protective covering for storage and identified with labels describing contents.
-   1. Sprinkler Cabinets:
+   2. Sprinkler Cabinets:
       1. Finished, wall-mounting steel cabinet and hinged cover, with space for a minimum of six spare sprinklers plus sprinkler wrench. Include the number of sprinklers required by NFPA 13 and wrench for sprinklers. Include separate cabinet with sprinklers and wrench for each type of sprinkler on Project.
-1. PRODUCTS
 
-## General
+## PRODUCTS
 
+1. General
    1. See requirements of Division 21 sections of the Specifications related sections.
 1. SPRINKLERS
    1. Automatic Sprinklers:
@@ -166,10 +160,10 @@ tags: ['Facility', 'Services', 'Fire', 'Suppression', 'Wet-Pipe', 'Sprinkler', '
    1. Fire Hose Valves:
       1. Fire Hose Valve (FHV-1) cast brass valve with red hand wheel, male hose threads with cap and chain. Unit shall be rough chrome plated finish, UL Listed. Potter Roemer Model 4065-C with 4625-C or approved equal.
    1. Fire Hose Valve (FHV-2) cabinet shall be 20 gauge box, 20 gauge tubular steel door and continuous steel hinge for recessed mounting. Provide with red powder coated finish. Furnish with hose valve same as FHV-1. Potter Roemer Model 1810 with full glass door and 4065 valve and 4625-C cap, or approved equal.
-1. EXECUTION
 
-## General
+## EXECUTION
 
+1. General
    1. Comply with requirements of Division 21 related sections. 
 1. SPACING AND LOCATION OF SPRINKLERS
    1. Space and locate sprinkler heads in accordance with NFPA 13 and as shown on the Drawings. Locate and install sprinkler heads in accordance with the manufacturer's recommendations to maintain UL listing.
@@ -178,5 +172,3 @@ tags: ['Facility', 'Services', 'Fire', 'Suppression', 'Wet-Pipe', 'Sprinkler', '
    1. Where sprinkler heads are located by the Contract Documents, their locations have been identified for general coordination with the work of other trades. The sprinkler heads indicated do not quantify the bid. Provide additional sprinkler piping and heads where required for full coverage. Where sprinkler head location criteria indicated or specified require the installation of a greater quantity of heads to achieve full coverage than would otherwise be required, provide the greater quantity of piping and heads.
 1. PROTECTION OF SPRINKLER HEADS
    1. Install wire-cage type sprinkler guards in all stair areas, telecommunications rooms, electrical rooms, janitor’s closets and in any other areas where the activity in the space could result in accidental damage to sprinkler heads.
-1. END OF SECTION 211300
-

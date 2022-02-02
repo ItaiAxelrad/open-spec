@@ -7,28 +7,20 @@ subgroup: Facility Services
 tags: ['Facility', 'Services', 'Communications', 'Communication', 'Horizontal', 'Cabling']
 ---
 
-1. Copyright 2005 by The American Institute of Architects (AIA)
-1. Exclusively published and distributed by Architectural Computer Services, Inc. (ARCOM) for the AIA
-1. Revise this Section by deleting and inserting text to meet Project-specific requirements.
-1. Verify that Section titles referenced in this Section are correct for this Project's Specifications; Section titles may have changed.
-
 ## General
 
    1. RELATED SECTIONS
    1. Drawings and general provisions of the Contract, including General and Supplementary Conditions and Division 1 Specifications, apply to this Section.
-   1. SUMMARY
+1. SUMMARY
    1. This Section includes telephone and data cabling systems and testing of telephone and data drops.
    1. DEFINITIONS
-   1. Telephone and Data Cabling Systems include all of the necessary components required to establish new services with the NREL voice and data systems. This includes the installation of copper cables and the associated connections.
+   1. Telephone and Data Cabling Systems include all of the necessary components required to establish new services with the Owner voice and data systems. This includes the installation of copper cables and the associated connections.
    1. SYSTEM DESCRIPTION
-
-## General
-
-:
+	1. General:
       1. Raceways, cable, racks, patch panels, distribution equipment, devices, and terminations for a complete voice and data communications cable system.
    1. The work described in this specification consists of all labor, materials, equipment, and services necessary and required to complete and test the system. 
    1. Any material not specifically mentioned in this specification or not shown on drawings, but required for proper performance and operation as specified, shall be furnished and installed.
-   1. SUBMITTALS
+1. SUBMITTALS
    1. Product Data:
       1. For each component specified, including detailed manufacturer's specifications. Include data on features, ratings, and performance. Include dimensioned plan and elevation views of components. Show access and working-space requirements. 
    1. Submit evidence of listing of products specified to be listed in the "Quality Assurance" Article.
@@ -43,7 +35,7 @@ tags: ['Facility', 'Services', 'Communications', 'Communication', 'Horizontal', 
    1. Maintenance data for products to include in the operation and maintenance manual specified in Division 1.
    1. Certificate of Completion.
    1. Provide three bound sets of record drawings showing all field installed (as-built) conditions, including but not limited to wiring, wiring routing, devices, device locations, device addresses. Record drawings shall be prepared on CAD. Provide one copy of electronic CAD files.
-   1. QUALITY ASSURANCE
+1. QUALITY ASSURANCE
    1. This installation shall be made in accordance with the drawings, specifications, and the latest versions of the following:
       1. National Electrical Code (NEC).
    1. EIA/TIA 568B and TSB 40, Category 6 cable specifications for cable.
@@ -61,7 +53,7 @@ tags: ['Facility', 'Services', 'Communications', 'Communication', 'Horizontal', 
       1. A firm experienced in manufacturing systems similar to those indicated for this Project and with a record of successful in-service performance.
    1. Listing and Labeling:
       1. Provide products specified in this Section that are listed and labeled.
-   1. EXTRA MATERIALS 
+1. EXTRA MATERIALS 
    1. Furnish extra materials described below that match products installed, are packaged with protective covering for storage, and are identified with labels clearly describing contents.
    1. Cable:
       1. 250 feet (76 m) of each size and type used for Project. Furnish on reels.
@@ -94,10 +86,7 @@ tags: ['Facility', 'Services', 'Communications', 'Communication', 'Horizontal', 
    1. The Contractor shall require the superintendent to be present during this inspection.
 1. PRODUCTS
    1. SYSTEM REQUIREMENTS
-
-## General
-
-:
+	1. General:
       1. Coordinate the features of materials and equipment so they form an integrated system. Match components and interconnections for optimum future performance.
    1. Expansion Capability:
       1. Unless otherwise indicated, quantity of spare fibers and conductor pairs in cables, positions in patch panels, cross connects, terminal strips, and space in backbone cable trays and wireways shall be adequate to accommodate a 20 percent future increase in active workstations.
@@ -203,7 +192,7 @@ tags: ['Facility', 'Services', 'Communications', 'Communication', 'Horizontal', 
    1. Cable Ties - Cables shall be bundled and attached to the primary and secondary support system at least every 3 feet and not more than 6 inches (150 mm) from cabinets, boxes, fittings, outlets, racks, frames, and terminals. Cable ties shall be plenum rated.
    1. Cable/Support System Distribution - The primary cable support system, consisting of metal conduit and cable tray.
    1. Cable Support System - Cables or cable bundles shall not be tied directly to the structural supports of the building. The Contractor shall utilize the primary cable support system (cable tray), provided by the building contractor, as indicated on the floor plan layout. The voice and data cable bundles shall be separated as much as possible in the building cable tray. The Contractor shall install a secondary cable support system that will eliminate cable sag and tension after the cable leaves the primary support system. This system shall consist of bridal rings, J-hooks or catenary wire for any cable bundles that are less than 10 cables and less than 30 feet after leaving the primary cable support system. These cable bundles must be attached to the support system at least every 3 feet. Any bundles containing 10 or more cables or exceeds 30 feet after leaving the primary support system must be attached to a catenary wire at least every 1 foot. 
-   1. EXAMINATION
+1. EXAMINATION
    1. Examine pathway elements to receive cable. Check raceways, cable trays, and other elements for compliance with space allocations, installation tolerances, hazards to cable installation, and other conditions affecting installation. Do not proceed with installation until unsatisfactory conditions have been corrected.
    1. APPLICATION OF MEDIA
    1. Backbone Cable for Data Service:
@@ -230,7 +219,7 @@ tags: ['Facility', 'Services', 'Communications', 'Communication', 'Horizontal', 
    1. Fiber-Optic Cable Procedures:
       1. Perform each visual and mechanical inspection and electrical test, including optional procedures, stated in NETA ATS, Section 7.25. Certify compliance with test parameters and manufacturer's recommendations.
    1. Correct malfunctioning units at site, where possible, and retest to demonstrate compliance; otherwise, remove and replace with new units and retest.
-   1. INSTALLATION
+1. INSTALLATION
    1. Wiring Method:
       1. Install wiring in raceways, cable trays, and bridal rings except within consoles, desks, and counters. Conceal raceway and wiring except in unfinished spaces.
    1. Cables shall be installed following the American National Standards Institute (ANSI)/Telecommunications Industry Association/Electronics Industries Association (EIA) standards. Each cable will be terminated, tested, and labeled using the ANSI/TIA/EIA 568B standard.
@@ -266,7 +255,7 @@ tags: ['Facility', 'Services', 'Communications', 'Communication', 'Horizontal', 
    1. Signal Ground Terminal:
       1. Locate at each equipment room and wiring closet. Mount on wall of main equipment room with stand-off insulators. Isolate from power system and equipment grounding.
    1. Install grounding electrodes of type, size, location, and quantity as indicated. Comply with installation requirements of related Division 26 sections of the Specifications.
-   1. INSTALLATION AT EQUIPMENT ROOMS AND WIRING CLOSETS
+1. INSTALLATION AT EQUIPMENT ROOMS AND WIRING CLOSETS
    1. Line walls with plywood backboards, floor to ceiling.
    1. Mount patch panels, terminal strips, and other connecting hardware as indicated.
    1. Group connecting hardware for cables into separate logical fields.
@@ -297,8 +286,7 @@ tags: ['Facility', 'Services', 'Communications', 'Communication', 'Horizontal', 
       1. Label each cable at intervals not exceeding 15 feet (4.5 m).
    1. Cable Schedule:
       1. Post at a prominent location in each wiring closet and equipment room. List incoming and outgoing cables and their designations, origins, and destinations. Protect with a rigid frame and clear plastic cover. Provide a diskette copy of final comprehensive schedules for the Project in the software and format selected by Project Officer.
-   1. CLEANING AND PROTECTION
+1. CLEANING AND PROTECTION
    1. On completion of installation, including outlets, fittings, and devices, inspect exposed finish. Remove burrs, dirt, paint spots, and construction debris.
    1. Protect equipment and installations and maintain conditions to ensure that coatings, finishes, and cabinets are without damage or deterioration at time of Substantial Completion.
-1. END OF SECTION 271500
 

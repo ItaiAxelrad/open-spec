@@ -7,7 +7,6 @@ subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Wood', 'Plastics', 'Composites', 'Interior', 'Architectural', 'Woodwork']
 ---
 
-         1. 
 ## General
 
    1. summary
@@ -63,7 +62,7 @@ tags: ['Facility', 'Construction', 'Wood', 'Plastics', 'Composites', 'Interior',
       1. Phenix Biocomposit Board with 3 mm maple edgeband color die to match Dakota Burl.
    1. Maintenance Instructions
    1. Furnish maintenance instructions for plastic facing and hardware.
-   1. QUALITY ASSURANCE
+1. QUALITY ASSURANCE
    1. Fabricator Qualifications
    1. A firm experienced in producing architectural woodwork similar to that indicated for this Project and with a record of successful in-service performance, as well as sufficient production capacity to produce required units.
    1. Quality Standard
@@ -90,7 +89,9 @@ tags: ['Facility', 'Construction', 'Wood', 'Plastics', 'Composites', 'Interior',
    1. Take field measurements to verify or supplement dimensions indicated. Be responsible for accurate fit of the Work.
    1. COORDINATION
    1. Coordinate sizes and locations of framing, blocking, furring, reinforcements, and other related units of Work specified in other Sections to ensure that interior architectural woodwork can be supported and installed as indicated.
-   1. PRODUCTS
+
+## Products
+
    1. wood Materials
    1. Plywood for Transparent Finish
    1. Hardwood plywood complying with AWI Quality Standards, Section 200, or WIC Manual of Millwork, Section 4, and the following:
@@ -232,7 +233,9 @@ tags: ['Facility', 'Construction', 'Wood', 'Plastics', 'Composites', 'Interior',
    1. Metal Standards and Brackets
    1. Knape & Vogt Mfg. Co. No. 80 slotted standards, with matching screws, and No. 180 boltless bracket. Finish:
       1. Satin Anochrome.
-   1. execution
+
+## Execution
+
    1. installation
 
 ## General
@@ -255,5 +258,4 @@ tags: ['Facility', 'Construction', 'Wood', 'Plastics', 'Composites', 'Interior',
    1. Protect factory finished architectural woodwork in accordance with manufacturer's directions.
    1. Cleaning
    1. Clean finished surfaces of architectural woodwork items in accordance with manufacturer's instructions.
-1. END OF SECTIONTHIS PAGE INTENTIONALLY BLANK
 

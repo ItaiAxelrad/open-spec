@@ -1,20 +1,20 @@
 ---
-title: Dewatering - NREL
+title: Dewatering - Owner
 section: '312319'
 divNumb: 31
 divName: Earthwork
 subgroup: Site and Infrastructure
-tags: ['Site', 'Infrastructure', 'Earthwork', 'Dewatering', 'NREL']
+tags: ['Site', 'Infrastructure', 'Earthwork', 'Dewatering', 'Owner']
 ---
 
-1. SECTION 31 23 19
+
 1. DEWATERING
 
 ## General
 
-   1. RELATED DOCUMENTS
+1. RELATED DOCUMENTS
    1. Drawings and general provisions of the Contract, including General and Supplementary Conditions and Division 1 Specification Sections, apply to this Section.
-   1. SUMMARY
+1. SUMMARY
    1. This Section includes construction dewatering. Subsurface drainage systems Section 334600 can be used in conjunction with Dewatering, if practical.
    1. Related Sections include the following:
       1. Division 1 Section "Temporary Facilities and Controls" for temporary utilities and support facilities.
@@ -28,7 +28,7 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Dewatering', 'NREL']
    1. Prevent surface water from entering excavations by grading, dikes, or other means.
    1. Accomplish dewatering without damaging existing buildings adjacent to excavation.
    1. Remove dewatering system if no longer needed.
-   1. SUBMITTALS
+1. SUBMITTALS
    1. Shop Drawings for Information:
       1. For dewatering system. Show arrangement, locations, and details of wells and well points; locations of headers and discharge lines; and means of discharge and disposal of water.
    1. Include layouts of piezometers and flow-measuring devices for monitoring performance of dewatering system.
@@ -41,12 +41,12 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Dewatering', 'NREL']
    1. Note locations and capping depth of wells and well points.
    1. Field Test Reports:
       1. Before starting excavation, submit test results and computations demonstrating that dewatering system is capable of meeting performance requirements.
-   1. QUALITY ASSURANCE
+1. QUALITY ASSURANCE
    1. Regulatory Requirements:
       1. Comply with water disposal requirements of authorities having jurisdiction.
    1. Preinstallation Conference:
       1. Conduct conference at Project site to comply with requirements in Division 1 Section "Project Management and Coordination."
-   1. PROJECT CONDITIONS
+1. PROJECT CONDITIONS
    1. Existing Utilities:
       1. Do not interrupt utilities serving facilities occupied by Owner or others unless permitted in writing by Architect and then only after arranging to provide temporary utility services according to requirements indicated.
    1. Project-Site Information:
@@ -55,15 +55,19 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Dewatering', 'NREL']
    1. The geotechnical report is referenced elsewhere in the Project Manual.
    1. Survey adjacent structures and improvements, employing a qualified professional engineer or land surveyor, establishing exact elevations at fixed points to act as benchmarks. Clearly identify benchmarks and record existing elevations.
    1. During dewatering, regularly resurvey benchmarks, maintaining an accurate log of surveyed elevations for comparison with original elevations. Promptly notify Architect if changes in elevations occur or if cracks, sags, or other damage is evident in adjacent construction.
-   1. PRODUCTS (NOT USED)
-   1. EXECUTION
-   1. PREPARATION
+
+## Products
+ (NOT USED)
+
+## Execution
+
+1. PREPARATION
    1. Protect structures, utilities, sidewalks, pavements, and other facilities from damage caused by settlement, lateral movement, undermining, washout, and other hazards created by dewatering operations.
    1. Prevent surface water and subsurface or ground water from entering excavations, from ponding on prepared subgrades, and from flooding site and surrounding area.
    1. Protect subgrades and foundation soils from softening and damage by rain or water accumulation.
    1. Install dewatering system to ensure minimum interference with roads, streets, walks, and other adjacent occupied and used facilities.
    1. Do not close or obstruct streets, walks, or other adjacent occupied or used facilities without permission from Owner and authorities having jurisdiction. Provide alternate routes around closed or obstructed traffic ways if required by authorities having jurisdiction.
-   1. INSTALLATION
+1. INSTALLATION
    1. Install dewatering system utilizing wells, well points, or similar methods complete with pump equipment, standby power and pumps, filter material gradation, valves, appurtenances, water disposal, and surface-water controls.
    1. Before excavating below ground-water level, place system into operation to lower water to specified levels. Operate system continuously until drains, sewers, and structures have been constructed and fill materials have been placed, or until dewatering is no longer required.
    1. Provide an adequate system to lower and control ground water to permit excavation, construction of structures, and placement of fill materials on dry subgrades. Install sufficient dewatering equipment to drain water-bearing strata above and below bottom of foundations, drains, sewers, and other excavations.
@@ -80,5 +84,5 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Dewatering', 'NREL']
    1. Observe and record daily elevation of ground water and piezometric water levels in observation wells.
    1. Repair or replace, within 24 hours, observation wells that become inactive, damaged, or destroyed. Suspend construction activities in areas where observation wells are not functioning properly until reliable observations can be made. Add or remove water from observation-well risers to demonstrate that observation wells are functioning properly.
    1. Fill observation wells, remove piezometers, and fill holes when dewatering is completed.
-   1. END OF SECTION
+   
 

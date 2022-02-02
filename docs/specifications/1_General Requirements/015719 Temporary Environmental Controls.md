@@ -12,26 +12,26 @@ tags: ['General', 'Requirements', 'Temporary', 'Environmental', 'Controls']
 
 ## General
 
-
-* 
-	1. **Summary
+1. SUMMARY
    1. Section Includes:
 	1. Minimizing the pollution of water or land; control of noise, the disposal of solid waste materials, and protection of deposits of historical or archaeological interest.
-	2. **Quality Assurance
+	2. Quality Assurance
 2. The Contractor shall comply with the requirements of the Colorado “Water Quality Control Act” and amendments thereto, Article 8 of Chapter 25, CRS 1973 and all rules and regulations adopted thereunder as well as the requirements of this section.
-	1. **Submittals
+	1. Submittals
 3. Shop Drawings:
 	1. Prior to the start of any construction activities submit:
 		1. A detailed proposal of all methods of control and preventive measures to be utilized for environmental protection.
 		2. A drawing of the work area, haul routes, storage areas, access routes and current land conditions including trees and vegetation.
 		3. A copy of the NPDES permit for storm water discharges from construction activities.
 		4. A copy of the approved pollution prevention plan.
-   ## Product
+## Product
 1. 2.1 Water Impoundment Fence Material
    1. Temporary water impoundments shall be constructed using Envirofence 100% as manufactured by MIRAFI, Inc. or by using hay bales securely anchored with metal posts, or a combination of both.
 1. 2.2 Mulch and Seed
    1. All revegetation shall be in accordance with requirements of Section 32 90 00.
-   1. Execution
+
+## Execution
+
 1. 3.1 Installation
    1. Employ and utilize environmental protection methods, obtain all necessary permits, and fully observe all local, state, and federal regulations.
 2. Land Protection:

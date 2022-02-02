@@ -12,9 +12,7 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Control', 'Software']
 
 ## General
 
-
-* 
-	1. **Summary
+1. SUMMARY
    1. Work under this section shall include programmable logic controllers (PLC) and control panels. The PLC system will now contain a Human Machine Interface (HMI). 
 2. Any pre-engineered package systems shall be programmed by the equipment supplier. The supplier shall place all his data in a contiguous memory section for use by the plant personnel to bring the vendor’s data to the plant PLC system. 
 3. Plant personnel will perform all setup and programming of new PLCs. The plant vendor will supply a completed panel to the general contractor who will be responsible for the physical installation. 
@@ -23,7 +21,7 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Control', 'Software']
 4. Once approved panel drawings are available, they will be delivered to the plant programmers so they can begin their work. 
 5. Related Specification Sections include:
 	1. Section 10 14 00, Identification Devices.
-	2. **Quality Assurance
+	2. Quality Assurance
 6. Work shall be per:
 	1. Canadian Standards Association (CSA).
 	2. FM Global (FM).
@@ -49,7 +47,7 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Control', 'Software']
 			2. Filter Control Panel (CP-101).
 8. Miscellaneous:
 	1. Comply with electrical classifications and NEMA enclosure types shown on Drawings.
-	2. **System Description
+	2. System Description
 9. Control System Requirements:
 	1. The instrument and control system consists of all primary elements, transmitters, switches, controllers, computers, recorders, indicators, panels, signal converters, signal boosters, amplifiers, special power supplies, special or shielded cable, special grounding or isolation, auxiliaries, software, wiring, and other devices required to provide complete control of the plant.
 10. Furnish and coordinate instrumentation system through a single instrumentation subcontractor.
@@ -64,7 +62,7 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Control', 'Software']
 	1. Shall be modified based on Drawing E-6 and the Control Strategy Narrative.
 13. Filter Control Panel:
 	1. Shall be modified based on Drawing E-5 and the Control Strategy Narrative. 
-	2. **Submittals
+	2. Submittals
 14. See Specification Section 01 33 00 for requirements for the mechanics and administration of the submittal process.
 15. Shop drawings shall include:
 	1. Submittals shall be original printed material, PDF documents, or clear unblemished photocopies of original printed material.
@@ -99,7 +97,7 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Control', 'Software']
 			1. Certification documentation is required for all equipment for which the specifications require independent agency approval.
 	13. Testing reports: Source quality control reports.
 16. Provide Operation and Maintenance Manuals.
-	1. **Delivery, Storage and Handling
+	1. Delivery, Storage and Handling
 17. Do not remove shipping blocks, plugs, caps, and desiccant dryers installed to protect the instrumentation during shipment until the instruments are installed and permanent connections are made. 
    1. Product
 1. 2.1 NEMA Type Requirements
@@ -129,7 +127,7 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Control', 'Software']
 3. Panel-Mounted Instruments:
 	1. Mount and wire so removal or replacement may be accomplished without interruption of service to adjacent devices.
 	2. Locate all devices mounted inside enclosures so terminals and adjustment devices are readily accessible without use of special tools and with terminal markings clearly visible.
-	3. **Quality Control
+	3. Quality Control
 4. Maintain accurate daily log of all startup activities, calibration functions, and final setpoint adjustments.
 5. In the event that instrument air is not available during calibration and testing, supply either filtered, dry, instrument quality air from a portable compressor or bottled, dry, instrument quality air.
 	1. Do not, under any circumstances, apply hydrostatic test to any part of the air supply system or pneumatic control system.
@@ -153,7 +151,7 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Control', 'Software']
 		2. Closely observe controllers, indicators, transmitters, HMI displays, recorders, alarm and trip units, remote setpoints, ratio systems, and other control components.
 			1. Verify that readings at all loop components are in agreement.
 			2. Make corrections as required.
-				1. Following any corrections, retest the loop as before.
+			1. Following any corrections, retest the loop as before.
 	2. Stroke all control valves, cylinders, drives and connecting linkages from the local control station and from the control room operator interface.
 	3. Check all interlocks to the maximum extent possible.
 	4. In addition to any other as-recorded documents, record all setpoint and calibration changes on all affected Contract Documents and turn over to the Owner.
