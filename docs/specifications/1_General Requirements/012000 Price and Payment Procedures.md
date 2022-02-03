@@ -7,15 +7,12 @@ subgroup: General Requirements
 tags: ['General', 'Requirements', 'Price', 'Payment', 'Procedures']
 ---
 
-
-1. PRICE AND PAYMENT PROCEDURES
-1. 
 ## General
 
-01. DESCRIPTION
+1. DESCRIPTION
    1. This Section includes specifications for measurement and payment as they apply to the Work, and includes provisions applicable to lump sum prices, unit prices, and allowances, as indicated.
    1. Measurement methods specified in the individual Sections of these Specifications shall govern if they differ from methods specified in this Section.
-02. LUMP-SUM MEASUREMENT
+2. LUMP-SUM MEASUREMENT
    1. Lump-sum measurement will be for the entire item, unit of work, structure, or combination thereof, as specified and as indicated in the Bid Schedule of the Bid Form. 
 1. If the Contractor requests progress payments for lump-sum items or amounts in the Bid Schedule, such progress payments will be made in accordance with a well-balanced, detailed program of payment-apportioning, prepared by the Contractor and submitted to the City Engineer for approval. Such payment-apportioning may require modifications during the Contract, as determined by the City Engineer. 
 2. Such program for each applicable lump-sum item shall show fixed definable and measurable quantities where possible and unit prices there for as developed and assigned by the Contractor to the different features of the work and major subdivisions thereof. The summation of extensions of quantities and unit prices and related costs shall equal the amount of the lump-sum Contract Price or lump sum bid item indicated in the Bid Schedule. 
@@ -85,5 +82,3 @@ tags: ['General', 'Requirements', 'Price', 'Payment', 'Procedures']
    1. This item is as described in paragraph 1.05 of this section. Use the allowance only as directed by City Engineer for Owner's purposes and only by Change Orders that indicate amounts to be charged to the allowance. At Project closeout, credit unused amounts remaining in the contingency allowance to Owner by Change Order.
 1. ITEM 26. ALLOWANCE FOR ADDITIONAL VALVE REPLACEMENTS
    1. This item is as described in paragraph 1.05 of this section. Use the allowance only as directed by City Engineer for Owner's purposes and only by Change Orders that indicate amounts to be charged to the allowance. At Project closeout, credit unused amounts remaining in the contingency allowance to Owner by Change Order.
-   
-

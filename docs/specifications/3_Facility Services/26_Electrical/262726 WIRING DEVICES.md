@@ -56,7 +56,9 @@ Conditions and Division 1 Specification Sections, apply to this Section.
    1. Furnish extra materials described below that match products installed and that are packaged with protective covering for storage and identified with labels describing contents.
 1. TVSS Receptacles:
       1. One for every 10 of each type installed, but no fewer than two of each type.
-   1. Product
+   
+## Products
+
 01. MANUFACTURERS
    1. Manufacturers:
       1. Subject to compliance with requirements, provide products by one of the following:

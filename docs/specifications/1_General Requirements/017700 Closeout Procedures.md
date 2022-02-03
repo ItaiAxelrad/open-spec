@@ -7,9 +7,6 @@ subgroup: General Requirements
 tags: ['General', 'Requirements', 'Closeout', 'Procedures']
 ---
 
-   1. Section 01 77 00
-   1. Project Closeout
-
 ## General
 
 1. SUMMARY
@@ -98,4 +95,3 @@ tags: ['General', 'Requirements', 'Closeout', 'Procedures']
 14. Warranty and Guarantee Service
    1. Comply with the warranty and guarantee requirements outlined in the General Conditions and Special Contract Conditions.
 2. Provide bond to guarantee performance of the conditions outlined in the General Conditions and Special Contract Conditions, and maintenance bond if required.
-

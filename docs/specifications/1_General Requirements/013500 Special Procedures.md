@@ -7,9 +7,6 @@ subgroup: General Requirements
 tags: ['General', 'Requirements', 'Special', 'Procedures']
 ---
 
-   1. Section 01 35 00
-1. Spec**i**al Conditions
-
 ## General
 
 1. SUMMARY
@@ -38,8 +35,7 @@ tags: ['General', 'Requirements', 'Special', 'Procedures']
 
 ## Product 
 
- (Not Used)
-
+(Not Used)
 
 ## Execution
 
@@ -47,4 +43,3 @@ tags: ['General', 'Requirements', 'Special', 'Procedures']
    1. Provide installation as shown on the drawings and in accordance with the manufacturer’s recommendations.
 2. Provide water distribution piping installation in accordance with Sections 33 30 00 and 33 14 11.
 3. Provide wastewater piping installation in accordance with Section 33 30 00.
-

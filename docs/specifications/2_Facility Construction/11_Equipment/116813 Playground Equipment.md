@@ -60,7 +60,9 @@ tags: ['Facility', 'Construction', 'Equipment', 'Playground']
 7. MINIMAL WEATHER CONDITIONS
    1. At the time of surface material application, ambient air temperature shall be no less than 40 °F and rising and remain so for at least 72 hours after completion.
 2. All surface materials shall be protected from weather and other damage prior to application, during application and while curing.
-   1. Product
+   
+## Products
+
 
 ## General
 

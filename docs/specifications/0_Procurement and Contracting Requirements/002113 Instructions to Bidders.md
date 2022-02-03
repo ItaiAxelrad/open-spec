@@ -4,66 +4,41 @@ section: '002113'
 divNumb: 0
 divName: Procurement and Contracting Requirements
 subgroup: Procurement and Contracting Requirements
-tags: ['Procurement', 'Contracting', 'Requirements', 'Instructions', 'to', 'Bidders']
+tags: ['Procurement', 'Contracting', 'Requirements', 'Instructions', 'Bidders']
 ---
-
 [ARTICLE 1 - DEFINED TERMS 1](#_Toc30689667)
-
 [ARTICLE 2 - COPIES OF BIDDING DOCUMENTS 2](#_Toc30689668)
-
 [ARTICLE 3 - QUALIFICATIONS OF BIDDERS 2](#_Toc30689669)
-
 [ARTICLE 4 - EXAMINATION OF BIDDING DOCUMENTS, OTHER RELATED DATA, AND SITE 2](#_Toc30689670)
-
 [ARTICLE 5 - PRE-BID CONFERENCE 5](#_Toc30689671)
-
 [ARTICLE 6 - SITE AND OTHER AREAS 5](#_Toc30689672)
-
 [ARTICLE 7 - INTERPRETATIONS AND ADDENDA 5](#_Toc30689673)
-
 [ARTICLE 8 - BID SECURITY 5](#_Toc30689674)
-
 [ARTICLE 9 - CONTRACT TIMES 6](#_Toc30689675)
-
 [ARTICLE 10 - LIQUIDATED DAMAGES 6](#_Toc30689676)
-
 [ARTICLE 11 - SUBSTITUTE AND “OR-EQUAL” ITEMS 6](#_Toc30689677)
-
 [ARTICLE 12 - SUBCONTRACTORS, SUPPLIERS, AND OTHERS 6](#_Toc30689678)
-
 [ARTICLE 13 - PREPARATION OF BID 7](#_Toc30689679)
-
 [ARTICLE 14 - BASIS OF BID; COMPARSION OF BIDS 8](#_Toc30689680)
-
 [ARTICLE 15 - SUBMITTAL OF BID 8](#_Toc30689681)
-
 [ARTICLE 16 - MODIFICATION AND WITHDRAWAL OF BID 8](#_Toc30689682)
-
 [ARTICLE 17 - OPENING OF BIDS 9](#_Toc30689683)
-
 [ARTICLE 18 - BIDS TO REMAIN SUBJECT TO ACCEPTANCE 9](#_Toc30689684)
-
 [ARTICLE 19 - EVALUATION OF BIDS AND AWARD OF CONTRACT 9](#_Toc30689685)
-
 [ARTICLE 20 - CONTRACT SECURITY AND INSURANCE 10](#_Toc30689686)
-
 [ARTICLE 21 - SIGNING OF AGREEMENT 10](#_Toc30689687)
-
 [ARTICLE 22 - SALES AND USE TAXES 10](#_Toc30689688)
-
 [ARTICLE 23 - RETAINAGE 10](#_Toc30689689)
-
 [ARTICLE 24 - CONTRACTS TO BE ASSIGNED 10](#_Toc30689690)
-
 [ARTICLE 25 - PARTNERING 10](#_Toc30689691)
-   1. ARTICLE 1 - DEFINED TERMS
+
+1. ARTICLE 1 - DEFINED TERMS
 1. Terms used in these Instructions to Bidders will have the meanings indicated in the General Conditions and Supplementary Conditions. Additional terms used in these Instructions to Bidders have the meanings indicated below:
       1. Issuing Office:
          1. The office from which the Bidding Documents are to be issued and where the bidding procedures are to be administered.
 ARTICLE 2 - COPIES OF BIDDING DOCUMENTS
 1. Complete sets of the Bidding Documents in the number and for the deposit sum, if any, stated in the Advertisement for Bids may be obtained from the Issuing Office. The deposit will be refunded to each document holder of record who returns a complete set of Bidding Documents in good condition within 30 days after opening of Bids.
 2. Complete sets of Bidding Documents must be used in preparing Bids; neither Owner nor Engineer assumes any responsibility for errors or misinterpretations resulting from the use of incomplete sets of Bidding Documents.
-
 	1. Owner and Engineer in making copies of Bidding Documents available on the above terms do so only for the purpose of obtaining Bids for the Work and do not confer a license or grant for any other use.
    1. ARTICLE 3 - QUALIFICATIONS OF BIDDERS
 1. To demonstrate Bidder’s qualifications to perform the Work, within five days of Owner’s request, Bidder shall submit written evidence such as financial data, previous experience, present commitments, and such other data as may be called for below.

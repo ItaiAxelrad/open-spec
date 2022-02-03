@@ -67,7 +67,9 @@ tags: ['Process', 'Equipment', 'Water', 'Wastewater', 'Screening']
 4. Ten (10) snap rings 63/64-inch diameter
 5. 1 rotating brush core replacement assembly
    1. The manufacturer will supply type 304 SS 3/4-inch-10 UNC threaded rods for use with HILTI HY-150 Adhesive Anchoring system. Adhesive to be provided by the contractor.
-   1. Product
+   
+## Products
+
 
 	1. MANUFACTURERS
 		1. Manufacturers: Subject to compliance with requirements, manufacturers offering products that may be incorporated into the Work include the following:

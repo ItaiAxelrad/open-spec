@@ -7,7 +7,6 @@ subgroup: General Requirements
 tags: ['General', 'Requirements', 'Testing', 'Laboratory', 'Services']
 ---
 
-
 ## General
 
 1. SUMMARY
@@ -34,7 +33,7 @@ tags: ['General', 'Requirements', 'Testing', 'Laboratory', 'Services']
 
 ## Products
 
-   1. MATERIALS
+1. MATERIALS
    1. Payment for Testing
    1. The Owner will pay for initial testing services requested by the Owner.
    1. When initial tests indicate non-compliance with the Contract Documents, the costs of initial tests associated with the non-compliance will be deducted by the Owner from the Contract Sum.
@@ -50,12 +49,10 @@ tags: ['General', 'Requirements', 'Testing', 'Laboratory', 'Services']
    1. Representatives of the testing laboratory shall have access to the Work at all times and at all locations where the Work is in progress. Provide facilities for such access to enable the laboratory to perform its functions properly.
 1. PREPARATION
    1. All specimens and samples for testing, unless otherwise provided in the Contract Documents, shall be taken by the testing personnel. All sampling equipment and personnel will be provided by the testing laboratory. All deliveries of specimens and samples to the testing laboratory will be performed by the testing laboratory.
-   1. FIELD QUALITY CONTROL
+1. FIELD QUALITY CONTROL
    1. Provide and maintain an effective Contractor Quality Control (CQC) program and perform sufficient quality control inspections and tests of all items of work, including those of subcontractors, and material fabricators to ensure the compliance with Contract Documents. Furnish appropriate facilities, instruments, and testing devices required for performance of the quality control function. Controls must be adequate to cover construction operations and be keyed to the construction sequence.
-   1. SCHEDULES
+1. SCHEDULES
    1. By advance discussion with the testing laboratory selected by the Owner, determine the time required for the laboratory to perform its tests and to issue each of its findings.
    1. Provide all required time within the construction schedule.
    1. When changes of construction schedule are necessary during construction, coordinate all such changes with the testing laboratory as required.
    1. When the testing laboratory is ready to test according to the established schedule, but is prevented from testing or taking specimens due to incompleteness of the Work, all extra charges for testing attributable to the delay may be back-charged to the Contractor and shall not be borne by the Owner.
-
-

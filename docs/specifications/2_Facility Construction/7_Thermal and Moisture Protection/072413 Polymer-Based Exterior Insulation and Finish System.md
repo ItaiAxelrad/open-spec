@@ -151,7 +151,9 @@ measurements before fabrication.
 wall assemblies, including sheathing, flashing, trim, joint sealants, windows, and doors, are 
    1. protected against damage from the effects of weather, age, corrosion, moisture, and other causes. 
    1. Do not allow water to penetrate behind flashing and barrier coating of EFS.
-   1. Product
+   
+## Products
+
 1. MANUFACTURERS
    1. Manufacturers:
       1. Subject to compliance with requirements, provide products by one of the 

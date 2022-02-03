@@ -48,7 +48,6 @@ tags: ['Procurement', 'Contracting', 'Requirements', 'General', 'Conditions']
 	1. General:
       1. You may not sublicense, assign, or transfer this license except as expressly provided in this Agreement. Any attempt otherwise to sublicense, assign, or transfer any of the rights, duties, or obligations hereunder is void.
    1. This Agreement shall be governed by the laws of the State of Virginia. Should you have any questions concerning this Agreement, you may contact EJCDC by writing to:
-    1. 
     1. Arthur Schwartz, Esq.
 
 ## General Counsel
@@ -300,7 +299,6 @@ tags: ['Procurement', 'Contracting', 'Requirements', 'General', 'Conditions']
  1. The word “day” means a calendar day of 24 hours measured from midnight to the next midnight.
    1. *Defective*
  1. The word “defective,” when modifying the word “Work,” refers to Work that is unsatisfactory, faulty, or deficient in that it:
-    1. 
       1. does not conform to the Contract Documents, or
       1. does not meet the requirements of any applicable inspection, reference standard, test, or approval referred to in the Contract Documents, or 
       1. has been damaged prior to Engineer’s recommendation of final payment (unless responsibility for the protection thereof has been assumed by Owner at Substantial Completion in accordance with Paragraph 14.04 or 14.05).
@@ -403,7 +401,6 @@ ARTICLE 4 - AVAILABILITY OF LANDS; SUBSURFACE AND PHYSICAL CONDITIONS; HAZARDOUS
    1. *Shown or Indicated:* The information and data shown or indicated in the Contract Documents with respect to existing Underground Facilities at or contiguous to the Site is based on information and data furnished to Owner or Engineer by the owners of such Underground Facilities, including Owner, or by others. Unless it is otherwise expressly provided in the Supplementary Conditions:
        1. Owner and Engineer shall not be responsible for the accuracy or completeness of any such information or data; and
  2. the cost of all of the following will be included in the Contract Price, and Contractor shall have full responsibility for:
-    1. 
       1. reviewing and checking all such information and data, 
       1. locating all Underground Facilities shown or indicated in the Contract Documents, 
       1. coordination of the Work with the owners of such Underground Facilities, including Owner, during construction, and 
@@ -504,7 +501,6 @@ ARTICLE 6 - CONTRACTOR’S RESPONSIBILITIES
 05. *Substitutes and “Or-Equals”*
    1. Whenever an item of material or equipment is specified or described in the Contract Documents by using the name of a proprietary item or the name of a particular Supplier, the specification or description is intended to establish the type, function, appearance, and quality required. Unless the specification or description contains or is followed by words reading that no like, equivalent, or “or-equal” item or no substitution is permitted, other items of material or equipment or material or equipment of other Suppliers may be submitted to Engineer for review under the circumstances described below.
  1. *“Or-Equal” Items:* If in Engineer’s sole discretion an item of material or equipment proposed by Contractor is functionally equal to that named and sufficiently similar so that no change in related Work will be required, it may be considered by Engineer as an “or-equal” item, in which case review and approval of the proposed item may, in Engineer’s sole discretion, be accomplished without compliance with some or all of the requirements for approval of proposed substitute items. For the purposes of this Paragraph 6.05.A.1, a proposed item of material or equipment will be considered functionally equal to an item so named if:
-    1. 
       1. in the exercise of reasonable judgment Engineer determines that:
     1) it is at least equal in materials of construction, quality, durability, appearance, strength, and design characteristics; 
     1. 2) it will reliably perform at least equally well the function and achieve the results imposed by the design concept of the completed Project as a functioning whole, 
@@ -847,12 +843,10 @@ ARTICLE 14 - PAYMENTS TOCONTRACTOR AND COMPLETION
    1. *Review of Applications*
  1. Engineer will, within 10 days after receipt of each Application for Payment, either indicate in writing a recommendation of payment and present the Application to Owner or return the Application to Contractor indicating in writing Engineer’s reasons for refusing to recommend payment. In the latter case, Contractor may make the necessary corrections and resubmit the Application.
  2. Engineer’s recommendation of any payment requested in an Application for Payment will constitute a representation by Engineer to Owner, based on Engineer’s observations on the Site of the executed Work as an experienced and qualified design professional and on Engineer's review of the Application for Payment and the accompanying data and schedules, that to the best of Engineer’s knowledge, information and belief:
-    1. 
       1. the Work has progressed to the point indicated;
       1. the quality of the Work is generally in accordance with the Contract Documents (subject to an evaluation of the Work as a functioning whole prior to or upon Substantial Completion, to the results of any subsequent tests called for in the Contract Documents, to a final determination of quantities and classifications for Unit Price Work under Paragraph 9.07, and to any other qualifications stated in the recommendation); and 
       1. the conditions precedent to Contractor’s being entitled to such payment appear to have been fulfilled in so far as it is Engineer’s responsibility to observe the Work.
  3. By recommending any such payment Engineer will not thereby be deemed to have represented that:
-    1. 
       1. inspections made to check the quality or the quantity of the Work as it has been performed have been exhaustive, extended to every aspect of the Work in progress, or involved detailed inspections of the Work beyond the responsibilities specifically assigned to Engineer in the Contract Documents; or 
       1. that there may not be other matters or issues between the parties that might entitle Contractor to be paid additionally by Owner or entitle Owner to withhold payment to Contractor.
  4. Neither Engineer’s review of Contractor’s Work for the purposes of recommending payments nor Engineer’s recommendation of any payment, including final payment, will impose responsibility on Engineer:
@@ -896,7 +890,6 @@ ARTICLE 14 - PAYMENTS TOCONTRACTOR AND COMPLETION
    1. Application for Payment
  1. After Contractor has, in the opinion of Engineer, satisfactorily completed all corrections identified during the final inspection and has delivered, in accordance with the Contract Documents, all maintenance and operating instructions, schedules, guarantees, bonds, certificates or other evidence of insurance certificates of inspection, marked-up record documents (as provided in Paragraph 6.12), and other documents, Contractor may make application for final payment following the procedure for progress payments.
  2. The final Application for Payment shall be accompanied (except as previously delivered) by:
-    1. 
       1. all documentation called for in the Contract Documents, including but not limited to the evidence of insurance required by Paragraph 5.04.B.7;
       1. consent of the surety, if any, to final payment; 
       1. a list of all Claims against Owner that Contractor believes are unsettled; and 

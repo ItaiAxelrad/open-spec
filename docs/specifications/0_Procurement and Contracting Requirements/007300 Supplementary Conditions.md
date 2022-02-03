@@ -7,288 +7,25 @@ subgroup: Procurement and Contracting Requirements
 tags: ['Procurement', 'Contracting', 'Requirements', 'Supplementary', 'Conditions']
 ---
 
-1. Engineers Joint Documents Committee
-1. Design and Construction Related Documents
-	1. Instructions and License Agreement
-1. Instructions
-1. Before you use any EJCDC document:
-      1. Read the License Agreement. You agree to it and are bound by its terms when you use the EJCDC document.
-2. Make sure that you have the correct version for your word processing software.
-1. How to Use:
-      1. While EJCDC has expended considerable effort to make the software translations exact, it can be that a few document controls (e.g., bold, underline) did not carry over. 
-2. Similarly, your software may change the font specification if the font is not available in your system. It will choose a font that is close in appearance. In this event, the pagination may not match the control set.
-3. If you modify the document, you must follow the instructions in the License Agreement about notification.
-4. Also note the instruction in the License Agreement about the EJCDC copyright.
-1. License Agreement
-1. You should carefully read the following terms and conditions before using this document. Commencement of use of this document indicates your acceptance of these terms and conditions. If you do not agree to them, you should promptly return the materials to the vendor, and your money will be refunded.
-   1. The Engineers Joint Contract Documents Committee ("EJCDC") provides **EJCDC Design and Construction Related Documents** and licenses their use worldwide. You assume sole responsibility for the selection of specific documents or portions thereof to achieve your intended results, and for the installation, use, and results obtained from **EJCDC Design and Construction Related Documents**.
-   1. You acknowledge that you understand that the text of the contract documents of **EJCDC Design and Construction Related Documents** has important legal consequences and that consultation with an attorney is recommended with respect to use or modification of the text. You further acknowledge that EJCDC documents are protected by the copyright laws of the United States.
-1. License:
-      1. You have a limited nonexclusive license to:
-            1. Use **EJCDC Design and Construction Related Documents** on any number of machines owned, leased or rented by your company or organization.
-2. Use **EJCDC Design and Construction Related Documents** in printed form for bona fide contract documents.
-3. Copy **EJCDC Design and Construction Related Documents** into any machine readable or printed form for backup or modification purposes in support of your use of **EJCDC Design and Construction Related Documents**.
-1. You agree that you will:
-      1. Reproduce and include EJCDC’s copyright notice on any printed or machine-readable copy, modification, or portion merged into another document or program. All proprietary rights in **EJCDC Design and Construction Related Documents** are and shall remain the property of EJCDC.
-2. Not represent that any of the contract documents you generate from **EJCDC Design and Construction Related Documents** are EJCDC documents unless (i) the document text is used without alteration or (ii) all additions and changes to, and deletions from, the text are clearly shown.
-1. You may not use, copy, modify, or transfer EJCDC Design and Construction Related Documents, or any copy, modification or merged portion, in whole or in part, except as expressly provided for in this license. Reproduction of EJCDC Design and Construction Related Documents in printed or machine-readable format for resale or educational purposes is expressly prohibited.
-1. If you transfer possession of any copy, modification or merged portion of EJCDC Design and Construction Related Documents to another party, your license is automatically terminated.
-1. Term:
-      1. The license is effective until terminated. You may terminate it at any time by destroying **EJCDC Design and Construction Related Documents** altogether with all copies, modifications and merged portions in any form. It will also terminate upon conditions set forth elsewhere in this Agreement or if you fail to comply with any term or condition of this Agreement. You agree upon such termination to destroy **EJCDC Design and Construction Related Documents** along with all copies, modifications and merged portions in any form.
-1. Limited Warranty:
-      1. EJCDC warrants the CDs and diskettes on which **EJCDC Design and Construction Related Documents** is furnished to be free from defects in materials and workmanship under normal use for a period of ninety (90) days from the date of delivery to you as evidenced by a copy of your receipt.
-1. There is no other warranty of any kind, either expressed or implied, including, but not limited to the implied warranties of merchantability and fitness for a particular purpose. Some states do not allow the exclusion of implied warranties, so the above exclusion may not apply to you. This warranty gives you specific legal rights and you may also have other rights which vary from state to state.
-   1. EJCDC does not warrant that the functions contained in **EJCDC Design and Construction Related Documents** will meet your requirements or that the operation of **EJCDC Design and Construction Related Documents** will be uninterrupted or error free.
-1. Limitations of Remedies:
-      1. EJCDC’s entire liability and your exclusive remedy shall be:
-            1. the replacement of any document not meeting EJCDC's "Limited Warranty" which is returned to EJCDC’s selling agent with a copy of your receipt, or
-2. if EJCDC’s selling agent is unable to deliver a replacement CD or diskette which is free of defects in materials and workmanship, you may terminate this Agreement by returning EJCDC Document and your money will be refunded.
-   1. In no event will EJCDC be liable to you for any damages, including any lost profits, lost savings or other incidental or consequential damages arising out of the use or inability to use **EJCDC Design and Construction Related Documents** even if EJCDC has been advised of the possibility of such damages, or for any claim by any other party.
-   1. Some states do not allow the limitation or exclusion of liability for incidental or consequential damages, so the above limitation or exclusion may not apply to you.
-	1. General:
-      1. You may not sublicense, assign, or transfer this license except as expressly provided in this Agreement. Any attempt otherwise to sublicense, assign, or transfer any of the rights, duties, or obligations hereunder is void.
-   1. This Agreement shall be governed by the laws of the State of Virginia. Should you have any questions concerning this Agreement, you may contact EJCDC by writing to:
-    1. 
-    1. Arthur Schwartz, Esq.
-
-## General Counsel
-    1. National Society of Professional Engineers
-    1. 1420 King Street
-    1. Alexandria, VA 22314
-    1. Phone:
-       1. (703) 684-2845
-    1. Fax:
-       1. (703) 836-4875
-    1. e-mail:
-       1. aschwartznspe.org
-1. You acknowledge that you have read this agreement, understand it and agree to be bound by its terms and conditions. You further agree that it is the complete and exclusive statement of the agreement between us which supersedes any proposal or prior agreement, oral or written, and any other communications between us relating to the subject matter of this agreement.
-   1. This document has important legal consequences; consultation with an attorney is encouraged with respect to its use or modification. This document should be adapted to the particular circumstances of the contemplated Project and the controlling Laws and Regulations.
-   1. GUIDE TO THE PREPARATION OF
-   1. SUPPLEMENTARY CONDITIONS 
-   1. Prepared by
-1. ENGINEERS JOINT CONTRACT DOCUMENTS COMMITTEE
-   1. and
-   1. Issued and Published Jointly by
-
-
-
- 
-
-
-   1. AMERICAN COUNCIL OF ENGINEERING COMPANIES
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-   1. ASSOCIATED GENERAL CONTRACTORS OF AMERICA
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-   1. AMERICAN SOCIETY OF CIVIL ENGINEERS
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-   1. PROFESSIONAL ENGINEERS IN PRIVATE PRACTICE
-
-*A Practice Division of the*
-   1. NATIONAL SOCIETY OF PROFESSIONAL ENGINEERS
-   1. Endorsed by
-
-
-   1. Construction Specifications Institute
-   1. This Guide to the Preparation of Supplementary Conditions has been prepared for use with the Standard General Conditions of the Construction Contract (EJCDC C-700, 2007 Edition). Their provisions are interrelated and a change in one may necessitate a change in the other. The suggested language contained in the Guide to the Preparation of Instructions to Bidders (EJCDC C-200, 2007 Edition) is also carefully integrated with the suggested language of this document. Comments concerning their usage are contained in EJCDC guidance documents.
-   1. Copyright © 2007 National Society of Professional Engineers
-   1. 1420 King Street, Alexandria, VA 22314-2794
-
-(703) 684-2882
-   1. www.nspe.org
-   1. American Council of Engineering Companies
-   1. 1015 15th Street N.W., Washington, DC 20005
-
-(202) 347-7474
-   1. www.acec.org
-   1. American Society of Civil Engineers
-   1. 1801 Alexander Bell Drive, Reston, VA 20191-4400
-
-(800) 548-2723
-   1. www.asce.org
-   1. Associated General Contractors of America
-   1. 2300 Wilson Boulevard, Suite 400, Arlington, VA 22201-3308
-
-(703) 548-3118
-   1. www.agc.org
-   1. The copyright for this EJCDC document is owned jointly by the four
-   1. EJCDC sponsoring organizations and held in trust for their benefit by NSPE.
-   1. TABLE OF CONTENTS
-   1. Page
-   1. Introduction 1
-
- 1. General
-   2. Mandatory Supplementary Conditions 2
-   3. Relationship of Supplementary Conditions to Other Contract Documents 2
-   4. Arrangement of Subject Matter 3
-   5. Use of this Guide 3
-   6. Standard Prefatory Language And Traditional Format For Supplementary Conditions 4
-   7. Table of Contents 4
-   8. Pagination 4
-   9. Format for Complete Paragraph Change 4
-   10. Format for Change within a Paragraph 5
-   11. Format for Additional Language 5
-   12. Format for Additional Paragraph 5
-   13. Alternate Format For Supplementary Conditions 5
-   14. SUGGESTED SUPPLEMENTARY CONDITIONS 6
-Caption and Introductory Statements 6
-   1. SC-2.02 Copies of Documents 6
-   1. SC-4.02 Subsurface and Physical Conditions 6
-   1. SC-4.06 Hazardous Environmental Conditions 8
-   1. SC-5.04 Contractor's Liability Insurance 9
-   1. SC-5.06 Property Insurance 11
-   1. SC-6.06 Concerning Subcontractors, Suppliers, and Others 13
-   1. SC-6.10 Taxes 13
-   1. SC-6.13 Safety and Protection 13
-   1. SC-6.17 Shop Drawings and Samples 14
-   1. SC-7.02 Coordination 14
-   1. SC-7.04 Claims Between Contractors 14
-   1. SC-8.11 Evidence of Financial Arrangements 16
-   1. SC-9.03 Project Representative 16
-   1. SC-11.01 Cost of the Work 20
-   1. SC-11.03 Unit Price Work 21
-   1. SC-12.01 Change of Contract Price 21
-   1. SC-16.01 Methods and Procedure 22
-
-	1. Introduction
-		1. *General*
-   1. The Engineers Joint Contract Documents Committee (EJCDC) has prepared and publishes forms for use as construction contract documents. The principal forms are listed in Table 1. EJCDC has also prepared other documents that may be useful in preparing construction contract documents. Some of the principal ones are listed in Table 2. For the most recent editions of these forms, guides, and other documents, please refer to EJCDC’s website at www.ejcdc.org.
-1. Table 1  
-Principal EJCDC Standard Forms and Related Guides for Construction Contracts
-1. Name
-1. Number
-1. Short Title/Abbreviation
-   1. Suggested Instructions to Bidders for Construction Contracts
-   1. C-200
-   1. Instructions/I
-   1. Suggested Bid Form for Construction Contracts
-   1. C-410
-   1. Bid Form/BF
-   1. Suggested Form of Agreement between Owner and Contractor for Construction Contract (Stipulated Price)
-   1. C-520
-   1. Stipulated Price Agreement/A
-   1. Suggested Form of Agreement between Owner and Contractor for Construction Contract (Cost-Plus)
-   1. C-525
-   1. Cost-Plus Agreement/A
-   1. Standard General Conditions of the Construction Contract
-   1. C-700
-1. General Conditions/GC
-   1. Guide to the Preparation of Supplementary Conditions
-   2. C-800
-   3. Supplementary Conditions/SC
-1. Table 2  
-Principal EJCDC Documents Relating to Preparation of Construction Documents
-1. Name
-1. Number
-1. Short Title
-   1. Narrative Guide to the 2007 EJCDC Construction Documents
-   1. C-001
-   1. Narrative Guide
-   1. Uniform Location of Subject Matter
-   1. N-122
-   1. Locator Guide
-   1. Bidding Procedures and Construction Contract Documents
-   1. C-050
-   1. Bidding Procedures
-   1. Engineer’s Letter to Owner Requesting Instructions Concerning Bonds and Insurance 
-   1. C-051
-   1. Engineer’s Letter to Owner Concerning Bonds and Insurance
-   1. Owner’s Instructions to Engineer Concerning Bonds and Insurance 
-   1. C-052
-   1. Owner’s Instructions Concerning Bonds and Insurance
-   1. EJCDC publications may be purchased from any of the organizations listed on the cover page of this document (see list of websites on the page immediately following the cover page).
-
-		1. *Mandatory Supplementary Conditions*
-   1. Several provisions of the General Conditions expressly indicate that essential project-specific information will be set out in a corresponding Supplementary Condition. For example, GC-5.04.B indicates that required insurance coverage limits will be specified in the Supplementary Conditions. Every EJCDC-based construction contract should include, at a minimum, the following Supplementary Conditions:
-         1. One of two suggested SC-4.02s, concerning reports and drawings of conditions at the Site, and any "technical data" in the reports and drawings on which the Contractor may rely;
-2. one of two suggested SC-4.06s, concerning reports and drawings regarding Hazardous Environmental Conditions at the Site, and any "technical data" in those reports and drawings on which the Contractor may rely; and
-3. SC-5.04, identifying specific insurance coverage requirements.
-   1. Other suggested Supplementary Conditions are mandatory under specific circumstances:
-      1. for example, on projects in which the Engineer is providing the services of a Resident Project Representative (RPR), SC-9.03, concerning the authority and responsibilities of the RPR, would be mandatory; and on projects in which the Contractor will be responsible for compliance with Owner's safety program, SC-6.13 would be mandatory.
-
-		1. *Relationship of Supplementary Conditions to Other Contract Documents*
-   1. Supplementary Conditions are modifications to the General Conditions—additions, deletions, changes. This is as the term is defined by EJCDC and the Construction Specification Institute (CSI). Other organizations use their supplementary conditions to modify a broader range of contract documents, such as agreement forms and standard specifications. 
-   1. This Guide and the other Construction-related documents prepared and issued by EJCDC assume use of the 1995 CSI MasterFormat™ concept, which provides an organizational format for location of all bound documentary information for a construction project:
-      1. Bidding Requirements, contract forms (Agreement, Bonds, and certificates), General Conditions, Supplementary Conditions, and Specifications. Under the 1995 CSI MasterFormat™, the last grouping, Specifications, is divided into 16 Divisions, the first of which, Division 1, is entitled “General Requirements.” (CSI issued a radically different form of MasterFormat™ in 2004. It is described in CSI’s Project Resource Manual. EJCDC is expected to consider MasterFormat 2004 during the next revision cycle for the construction documents.)
-   1. The standard fundamental provisions affecting the rights and duties of the parties appear in the General Conditions. Language to modify the fundamental relationships between the parties, supplement the framework set forth in the General Conditions, or change the language of the General Conditions, should appear in the Supplementary Conditions. Examples of this are a change in the payment provisions and supplemental language specifying the details of insurance coverages and limits for the Project.
-   1. Price terms, monetary terms such as liquidated damages clauses, and completion dates should all be set forth in the Agreement (EJCDC C-520 or C-525), and should not be included in the Supplementary Conditions.
-   1. The substance of the General Requirements (Division 1 of the Specifications) falls generally into three categories:
-      1. (1) administrative requirements, such as summary of work, allowances, coordination, alternatives (materials, equipment, or price), product options, project meetings, and project close-out; (2) work-related provisions, such as temporary facilities, field testing, and start-up; and (3) general provisions applicable to more than one section in Divisions 2 through 16.
-
-		1. *Arrangement of Subject Matter*
-   1. This Guide is arranged in the same order as the paragraphs in the 2007 edition of the General Conditions, and the paragraphs herein bear comparable addresses to those of the General Conditions but with the prefix “SC.” A discussion of the purpose and function of these suggested Supplementary Conditions is included in EJCDC C-001, Narrative Guide. 
-
-		1. *Use of this Guide*
-   1. The text presented in bold type in the remainder of this Guide is suggested language for some commonly used Supplementary Conditions. The drafter should bear in mind that most contractual provisions have important legal consequences. Consultation with legal counsel before finalization of any amendment or supplement is recommended.
-   1. Many sets of supplementary conditions examined by EJCDC contain typical or “boilerplate” provisions that have accumulated like moss over the years, appear to have no practical significance for the particular project, and may produce unintended and surprising legal consequences. Such provisions are usually there because someone saw similar terms in other contract documents and it “sounded good.” Selecting contract terms in that manner is not recommended. Provisions of the Supplementary Conditions should address a particular point in the General Conditions or cover a particular topic. The Supplementary Conditions should not be a repository for general language of vague meaning for which another location cannot be readily found.
-   1. This Guide assumes a general familiarity with the other Contract Documents prepared by EJCDC and, when drafting language, specific attention to them is encouraged. Standard documents or prescribed forms issued by governmental bodies and other owners may differ materially from the documents of EJCDC so that careful correlation of any amending or supplementing language is essential. The loose practice of stating that any provision in one document that is inconsistent with another is superseded, or that one document always takes precedence over another in the event of a conflict in language or requirements, is discouraged. The resulting legal consequences of such provisions are frequently difficult to decipher and may be very different from what was anticipated.
-   1. The General Conditions use carefully chosen language and set forth the basic responsibilities of the parties with respect to fundamental matters and legal consequences. Their provisions should be altered only where mandated by the specific requirements of a given project and the consequences of any modification are thoroughly understood.
-   1. Caution should be exercised when making any change in the standard documents. They have been carefully prepared, terms are used uniformly throughout and are consistent with the terms in other EJCDC documents. Their provisions have been carefully integrated, and are dependent on one another. A change in one document may necessitate a change in another, and a change in one paragraph may necessitate a change in other language of the same document. No change should be made until its full effect on the rest of the General Conditions and other Contract Documents has been considered.
-   1. Lastly, remember that an engineer is neither qualified nor licensed to give advice to others on the legal consequences of contracts. All of the Contract Documents have important legal consequences. Owners should be encouraged to seek the advice of an attorney before accepting any modification of the printed forms, before the documents are sent out for bidding, and most assuredly before signing any agreement.
-
-	1. Standard Prefatory Language And Traditional Format For Supplementary Conditions
-   1. Suggested format and wording conventions for Supplementary Conditions appear below.
-
-		1. *Table of Contents*
-   1. The inclusion of a table of contents will benefit the user of the Supplementary Conditions, especially if additional articles (beyond the 17 Articles of the General Conditions) are added for the purpose of including mandated or other provisions.
-
-		1. *Pagination*
-   1. The CSI MasterFormat™, October 1995, assigns Document Number 00800 to Supplementary Conditions. Unless another format is chosen, pages should be numbered 00800-1, 00800-2, 00800-n. If CSI’s MasterFormat 04™ is being used for the Project Manual, consult MasterFormat 04 for the appropriate section number and number the pages accordingly.
-
-		1. *Format for Complete Paragraph Change*
-   1. When completely superseding a paragraph of the General Conditions, the following language may be used:
-      1. SC-5.09.B Delete Paragraph 5.09.B in its entirety and insert the following in its place:
-    1. 
-
-
-		1. *Format for Change within a Paragraph*
-   1. When changing language within a paragraph of the General Conditions, the following language may be used:
-      1. SC-6.21.A Amend the second sentence of Paragraph 6.21.A (to read as follows) *[or]* (by striking out the following words):
-    1. 
-
-
-
-		1. *Format for Additional Language*
-   1. When adding language to an existing paragraph of the General Conditions, the idea may be expressed as follows:
-      1. SC-9.03 Add the following language at the end of the second sentence of Paragraph 9.03:
-    1. 
-
-
-
-		1. *Format for Additional Paragraph*
-   1. If it is desired to add a new paragraph to the General Conditions, the thought may be expressed as follows:
-      1. SC-8.06 Add the following new paragraph immediately after Paragraph 8.06.B:
-    1. 
-
-
-
-	1. Alternate Format For Supplementary Conditions
-   1. Electronic files are commonly used for transmittal and storage of the text of standard documents. In fact, EJCDC no longer prepares printed documents. Because it is easy to modify documents electronically, it is increasingly common for practitioners to integrate the text of desired Supplementary Conditions into the text of the General Conditions. Most word processing programs have line-out and underlining features which accurately show deletions, changes, and additions. Users of EJCDC’s General Conditions are contractually obligated, through the terms of the purchase of the document, to clearly delineate all changes made to the standard text. It would be misleading to users to imply or represent that the General Conditions are EJCDC's General Conditions if changes are not properly and clearly identified.
-   1. SUGGESTED SUPPLEMENTARY CONDITIONS 
-
-*Caption and Introductory Statements*
-   1. The following is a suggestion for use at the beginning of the Supplementary Conditions:
-         1. Supplementary Conditions
 1. These Supplementary Conditions amend or supplement the Standard General Conditions of the Construction Contract, EJCDC C-700 (2007 Edition). All provisions which are not so amended or supplemented remain in full force and effect.
-1. The terms used in these Supplementary Conditions have the meanings stated in the General Conditions. Additional terms used in these Supplementary Conditions have the meanings stated below, which are applicable to both the singular and plural thereof.
-1. The address system used in these Supplementary Conditions is the same as the address system used in the General Conditions, with the prefix "SC" added thereto.
-02. *Copies of Documents   1. As electronic documents become more widely used, electronic copies of the Drawings, Specifications, and other Contract Documents are often made available in place of multiple sets of hard copy. If electronic documents are to be made available, the following may be used:
+2. The terms used in these Supplementary Conditions have the meanings stated in the General Conditions. Additional terms used in these Supplementary Conditions have the meanings stated below, which are applicable to both the singular and plural thereof.
+3. The address system used in these Supplementary Conditions is the same as the address system used in the General Conditions, with the prefix "SC" added thereto.
+4.  Copies of Documents 
+   1. As electronic documents become more widely used, electronic copies of the Drawings, Specifications, and other Contract Documents are often made available in place of multiple sets of hard copy. If electronic documents are to be made available, the following may be used:
       1. SC-2.02 Delete Paragraph 2.02.A in its entirety and insert the following in its place:
          1. Owner shall furnish to Contractor up to**  **printed or hard copies of the Drawings and Project Manual and one set in electronic format. Additional copies will be furnished upon request at the cost of reproduction.
-02. *Subsurface and Physical Conditions*
-1. This is a mandatory Supplementary Condition.** GC-4.02 requires the identification of all known documents regarding subsurface and physical conditions at the Site. Use the first version of SC-4.02, presented immediately below, for the purpose of identifying the known Site condition documents. If no such documents are known, then use the second version of SC-4.02, below.
+5.  *Subsurface and Physical Conditions*
+6. This is a mandatory Supplementary Condition.** GC-4.02 requires the identification of all known documents regarding subsurface and physical conditions at the Site. Use the first version of SC-4.02, presented immediately below, for the purpose of identifying the known Site condition documents. If no such documents are known, then use the second version of SC-4.02, below.
    1. SC-4.02 Add the following new paragraphs immediately after Paragraph 4.02.B:
 	1. The following reports of explorations and tests of subsurface conditions at or contiguous to the Site are known to Owner:
       1. Report dated May 21, 2000, prepared by Aye and Bea, Consulting Engineers, Philadelphia, Pa., entitled:
-      1. “Results of Investigation of Subsoil Conditions and Professional Recommendations for Foundations of Iron Foundry at South and Front Streets, Pembrig, NJ”, consisting of 42 pages. The “technical data” contained in such report upon which Contractor may rely is** *[here indicate any such “technical data” or state “none.”]*
-1. Report dated May 2, 2000, prepared by Ecks, Wye and Tszee, Inc., Baltimore, Md., entitled:
+      2. “Results of Investigation of Subsoil Conditions and Professional Recommendations for Foundations of Iron Foundry at South and Front Streets, Pembrig, NJ”, consisting of 42 pages. The “technical data” contained in such report upon which Contractor may rely is** *[here indicate any such “technical data” or state “none.”]*
+7. Report dated May 2, 2000, prepared by Ecks, Wye and Tszee, Inc., Baltimore, Md., entitled:
       1. “Tests of Water Quality in Mixter River at Pembrig, NJ”, consisting of 26 pages. The “technical data” contained in such report upon which Contractor may rely are:** *[here indicate any such “technical data” or state “none.”]*
-1. The following drawings of physical conditions relating to existing surface or subsurface structures at the Site (except Underground Facilities) are known to Owner:
+8. The following drawings of physical conditions relating to existing surface or subsurface structures at the Site (except Underground Facilities) are known to Owner:
       1. Drawings dated March 2, 2000, of Route 24A Overpass Abutment, prepared by Dea & Associates, Inc., Wilmington, Del., entitled:
          1. “Record Drawings:
-      1. Route No. 24A Overpass Abutment”, consisting of 12 sheets numbered \_\_\_ to \_\_\_, inclusive.*
+      2. Route No. 24A Overpass Abutment”, consisting of 12 sheets numbered \_\_\_ to \_\_\_, inclusive.*
 *[Use one of the following two subparagraphs:]*
 1. a. All of the information in such drawings constitutes “technical data” on which Contractor may rely, except for \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ appearing on Drawing No. \_\_\_\_\_ and \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ appearing on Drawing No. \_\_\_\_\_\_.
 
@@ -420,11 +157,8 @@ SC-8.11 *Evidence of Financial Arrangements   1. The following SC-8.11 is intend
    1. SC-9.03 *Project Representative*
 
    1. As indicated in GC-9.03, in those cases in which the Engineer will provide a Resident Project Representative (RPR) during construction, the authority and responsibilities of the RPR and any assistants must be specified in the Supplementary Conditions; thus this is a mandatory Supplementary Condition in such cases. The following suggested language which parallels the working of Exhibit D to EJCDC E-500, the Standard Form of Agreement Between Owner and Engineer for Professional Services, should be edited to indicate the RPR authority and responsibilities that apply to this project:
-    1. 
 1. SC-9.03 Add the following new paragraphs immediately after Paragraph 9.03.A:
-    1. 
 1. B. The Resident Project Representative (RPR) will be Engineer's employee or agent at the Site, will act as directed by and under the supervision of Engineer, and will confer with Engineer regarding RPR's actions. RPR's dealings in matters pertaining to the Work in general shall be with Engineer and Contractor. RPR's dealings with Subcontractors shall be through or with the full knowledge and approval of Contractor. The RPR shall:
-    1. 
 1. *Schedules:*  Review the progress schedule, schedule of Shop Drawing and Sample submittals, and schedule of values prepared by Contractor and consult with Engineer concerning acceptability.
 1. 2. *Conferences and Meetings:* Attend meetings with Contractor, such as preconstruction conferences, progress meetings, job conferences and other project-related meetings, and prepare and circulate copies of minutes thereof.
 1. 3. *Liaison*:
@@ -479,7 +213,6 @@ SC-8.11 *Evidence of Financial Arrangements   1. The following SC-8.11 is intend
    1. SC-12.01 *Change of Contract Price*
 
    1. In some cases a change in Contract Price will include a Contractor's fee for overhead and profit, which under GC-12.01.C.2 may be determined through application of prescribed percentages on portions of the Cost of the Work. The percentages to be applied to subcontract work of one or more tiers is set forth in GC-12.01.C.2.c, under which the Subcontractor actually performing the work earns a fee of 15 percent, and any higher tier Subcontractors and the Contractor will each earn a fee of 5 percent of the amount paid to the next lower tier Subcontractor. If the parties wish to cap the total amount of the fee that could result from application of this formula, EJCDC suggests the following Supplementary Condition establishing a maximum fee of 27 percent, based on a fee at three tiers (1.15 x 1.05 x 1.05=1.268):
-    1. 
 1. SC-12.01.C *Contractor's Fee.* Delete the semicolon at the end of GC 12.01.C.2.c, and add the following language:*
 
  **, provided, however, that on any subcontracted work the total maximum fee to be paid by Owner under this subparagraph shall be no greater than 27 percent of the costs incurred by the Subcontractor who actually performs the work;

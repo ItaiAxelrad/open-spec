@@ -7,9 +7,6 @@ subgroup: General Requirements
 tags: ['General', 'Requirements', 'Temporary', 'Erosion', 'Sediment', 'Control']
 ---
 
-   1. Section 01 57 13
-   1. Temporary Erosion Controls
-
 ## General
 
 1. SUMMARY
@@ -34,7 +31,9 @@ tags: ['General', 'Requirements', 'Temporary', 'Erosion', 'Sediment', 'Control']
 10. Prior to the start of any related construction:
 	1. Submit a copy of the site Erosion and Sediment Control Plan to the City of Steamboat Springs Construction Services Foreman for review and approval prior to start of construction
 	2. Submit a copy of any required State of Colorado construction related permits (for example dewatering permits or Storm water management permit for construction sites) to the City of Steamboat Springs Construction Services Foreman prior to the start of construction.
-   1. Product
+
+## Products
+
 1. General
    1. Erosion control materials used shall conform to the requirements of Section 209 of the Colorado Department of Transportation Standards and Specifications for Road and Bridge Construction, 2005.
 
@@ -62,4 +61,3 @@ tags: ['General', 'Requirements', 'Temporary', 'Erosion', 'Sediment', 'Control']
 5. The Contractor shall at all times have at hand the necessary materials and equipment to provide for early slope treatment and corrective measures to damaged slopes. All damaged areas shall be repaired as soon as possible.
 1. Removal
    1. All temporary erosion control materials shall be removed upon completion of the project.
-

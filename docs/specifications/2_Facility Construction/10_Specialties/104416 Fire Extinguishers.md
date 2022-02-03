@@ -32,7 +32,9 @@ Fire Extinguishers."
       1. Failure of hydrostatic test according to NFPA 10. b. Faulty operation of valves or release levers.
 2. Warranty Period:
       1. Six years from date of project completion.
-   1. Product
+   
+## Products
+
 1. PORTABLE, HAND-CARRIED FIRE EXTINGUISHERS
    1. Fire Extinguishers:
       1. Type, size, and capacity for each fire protection cabinet and mounting bracket indicated.

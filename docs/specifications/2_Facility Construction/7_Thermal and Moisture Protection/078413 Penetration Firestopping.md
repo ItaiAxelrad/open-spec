@@ -129,7 +129,9 @@ through-penetration firestop systems.
    1. Do not cover up through-penetration firestop system installations that will become 
 concealed behind other construction until each installation has been examined by building 
    1. inspector, if required by authorities having jurisdiction.
-   1. Product
+   
+## Products
+
 1. MANUFACTURERS
    1. Products:
       1. Subject to compliance with requirements, provide one of the through-penetration 

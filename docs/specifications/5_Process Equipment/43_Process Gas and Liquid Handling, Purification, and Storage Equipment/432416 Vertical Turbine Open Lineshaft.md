@@ -17,7 +17,6 @@ tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Sto
 	4. suction can
 	5. discharge head and driver:
 		1. The discharge head shall be designed to carry the entire weight of the bowl and column assembly along with the specified driver without excessive vibration or noise.
-
    1. All of the supplied equipment shall conform to this specification.
 1. QUALITY ASSURANCES
 2. Warranty
@@ -28,13 +27,10 @@ tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Sto
 4. Pressure containing fabrications shall be welded only by those whom are qualified on ASME code section IX. Welder certification shall be provided with the submittal package.
 5. Foundry
 	1. The manufacturer shall own and operate its own U.S. based foundry producing vertical turbine components.
-
    1. Testing Standards
     1. All vertical turbine pumps shall conform to ANSI/AWWA E101-88 and to the most current edition of Hydraulic Institute Standards
-
-	1. SUBMITTALS
+1. SUBMITTALS
    1. With the proposal, the contractor shall submit complete fabrication and assembly drawings together with detailed specifications covering materials, parts, devices, and accessories. The data and specifications for each pumping unit shall include, but not be limited to the following:
-    1. 
    1. Name of Manufacturer
 2. Type and Model
 3. Design Rotational Speed
@@ -53,7 +49,9 @@ tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Sto
 16. Total Weight
 17. Total Pump Length
 18. Complete performance curves showing capacity versus head, NPSH required, efficiency, and BHP plotted scales consistent with performance requirements
-   1. Product
+   
+## Products
+
 
 	1. MANUFACTURER
    1. The equipment covered by this specification shall be standard products as manufactured by Gould’s Water Technology or an equivalent having a minimum of 20 years’ experience in the production of such equipment. All pumps and pump components specified in this specification shall be supplied by a single pump manufacturer. The pump manufacturer shall be required to supply the pumps and drivers, and shall be responsible for their compatibility only.
@@ -96,17 +94,15 @@ tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Sto
 
 ## Execution
 
-1. 3.01** SHIPPING
+1. SHIPPING
     1. Pumps that are less than 30 feet in length shall be shipped fully assembled with the driver, suction can, and shaft seal unmounted. The discharge flange shall be protected with a wooden flange cover.
-1. 3.02** STORAGE, HANDLING, AND INSTALLATION
+2. STORAGE, HANDLING, AND INSTALLATION
    1. The skidded pump and related equipment shall be unloaded, stored, and installed in agreement with the Manufacturer’s operation and installation manuals. If storage is planned to be longer than six months or in harsh environment, long term storage practices should be followed per the Manufacturer’s operation and installation manuals. 
-1. 3.03** START-UP FIELD SERVICES 
+3. START-UP FIELD SERVICES 
     1. The pump manufacturer shall include two days of start-up field services with the proposal for the purpose of supervising the start-up and instructions of proper maintenance and operations. 
-    1. Service Provided By Factory Representative Time on Site
-    1. Inspect and Approve Installation ½ Day
-    1. Supervise Initial Adjustment ½ Day
-    1. Supervise Field Run Test ½ Day
-    1. Instruct Owner in Proper Start-Up and O&M ½ Day
-    1. Additional time on site shall be billed at the rate deemed by the manufacturer.
-1. END SECTION
-
+    2. Service Provided By Factory Representative Time on Site
+    3. Inspect and Approve Installation ½ Day
+    4. Supervise Initial Adjustment ½ Day
+    5. Supervise Field Run Test ½ Day
+    6. Instruct Owner in Proper Start-Up and O&M ½ Day
+    7. Additional time on site shall be billed at the rate deemed by the manufacturer.

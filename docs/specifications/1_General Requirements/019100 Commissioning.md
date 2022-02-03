@@ -7,9 +7,6 @@ subgroup: General Requirements
 tags: ['General', 'Requirements', 'Commissioning']
 ---
 
-   1. Section 01 91 00
-   1. Commissioning
-
 ## General
 
 1. Summary
@@ -26,10 +23,11 @@ tags: ['General', 'Requirements', 'Commissioning']
 2. Submit System Operating Manual.
 ## Product
 
+Not used.
 
 ## Execution
 
-	 1. General:
+1. General:
 	1. Commissioning shall commence following system start-up. 
 	2. The contractor shall be responsible for commissioning all equipment and ensure their readiness for use. 
 	3. The acceptance of equipment shall be preceded by a seven (7) day trial run by the Contractor to prove all equipment and the plant as a whole performs to requirements. 
@@ -45,4 +43,3 @@ tags: ['General', 'Requirements', 'Commissioning']
 	1. System Operating Manual:
 		1. Shall provide full and detailed information regarding the design criteria, standard operating procedures, description and operation of unit processes, process troubleshooting, regulatory requirements, sampling procedures, plant staffing, and emergency operations.
 	2. Documentation that all Facility Process Systems (FPS’s) as identified in Specification Section 01 75 00 have been commissioned and the system is ready for use.
-

@@ -82,7 +82,9 @@ agrees to repair finish or replace metal wall panels that show evidence of deter
    1. factory-applied finishes within specified warranty period.
 1. Finish Warranty Period:
       1. 20 years from date of project completion.
-   1. Product
+   
+## Products
+
 1. PANEL MATERIALS
    1. Aluminum Sheet:
       1. Coil-coated sheet, ASTM B 209, alloy as standard with manufacturer, with 

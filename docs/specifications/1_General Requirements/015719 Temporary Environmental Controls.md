@@ -7,9 +7,6 @@ subgroup: General Requirements
 tags: ['General', 'Requirements', 'Temporary', 'Environmental', 'Controls']
 ---
 
-   1. Section 01 57 19
-   1. Temporary Environmental Controls
-
 ## General
 
 1. SUMMARY
@@ -24,7 +21,9 @@ tags: ['General', 'Requirements', 'Temporary', 'Environmental', 'Controls']
 		2. A drawing of the work area, haul routes, storage areas, access routes and current land conditions including trees and vegetation.
 		3. A copy of the NPDES permit for storm water discharges from construction activities.
 		4. A copy of the approved pollution prevention plan.
-## Product
+
+## Products
+
 1. Water Impoundment Fence Material
    1. Temporary water impoundments shall be constructed using Envirofence 100% as manufactured by MIRAFI, Inc. or by using hay bales securely anchored with metal posts, or a combination of both.
 1. Mulch and Seed
@@ -78,4 +77,3 @@ tags: ['General', 'Requirements', 'Temporary', 'Environmental', 'Controls']
 	1. If during the course of construction, evidence of deposits of historical or archaeological interests is found, cease work affecting find and notify Engineer.
 		1. Do not disturb deposits until written notice from Engineer is given to proceed.
 	2. The Contractor will be compensated for lost time or changes in construction to avoid the find based upon normal change order procedures.
-

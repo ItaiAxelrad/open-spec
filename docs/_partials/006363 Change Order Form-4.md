@@ -1,26 +1,29 @@
 ---
 title: Change Order Form
-section: '0063633'
+section: '0063634'
 divNumb: 0
 divName: Procurement and Contracting Requirements
 subgroup: Procurement and Contracting Requirements
 tags: ['Procurement', 'Contracting', 'Requirements', 'Change', 'Order', 'Form']
 ---
 
-
-   1. Change Order No. \_\_\_\_\_\_\_\_\_\_\_
+   1. Change Order
+1. No. \_\_\_\_\_\_\_\_\_\_\_
    1. Date of Issuance:
       1. Effective Date:
             1. Project:
-         1. Owner:
-               1. Owner's Contract No.:
-         1. Contract:
-               1. Date of Contract:
+      1. Wastewater Treatment Facility and Collection System
+   1. Owner:
+      1. Town of Red Cliff
+   1. Owner's Contract No.:
+      1. Contract:
+            1. Date of Contract:
          1. Contractor:
                1. Engineer's Project No.:
-      1. The Contract Documents are modified as follows upon execution of this Change Order:
-            1. Description:
-   1. Attachments:
+      1. CO-2829
+1. The Contract Documents are modified as follows upon execution of this Change Order:
+      1. Description:
+      1. Attachments:
       1. (List documents supporting change):
             1. CHANGE IN CONTRACT PRICE:
                1. CHANGE IN CONTRACT TIMES:
@@ -72,10 +75,8 @@ $
    1. Date:
    1. Date:
    1. Approved by Funding Agency (if applicable):
-    1. 
    1. Date:
-
- **Change Order
+1. Change Order
 1. Instructions
 1. A. GENERAL INFORMATION
    1. This document was developed to provide a uniform format for handling contract changes that affect Contract Price or Contract Times. Changes that have been initiated by a Work Change Directive must be incorporated into a subsequent Change Order if they affect Price or Times.

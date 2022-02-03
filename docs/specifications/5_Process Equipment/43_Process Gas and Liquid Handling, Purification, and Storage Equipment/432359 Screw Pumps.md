@@ -45,7 +45,9 @@ tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Sto
    1. One set of mechanical seals each for the RAS pumps and the WAS pumps (total 2 sets).
 2. One set of gaskets and O-ring each for the RAS pumps and the WAS pumps (total 2 sets)
 3. One spare coupling insert each for the RAS pumps and the WAS pumps (total 2 sets).
-   1. Product
+   
+## Products
+
 
 	1. ACCEPTABLE MANUFACTURERS
 		1. Subject to compliance with requirements of these specifications and plans, manufacturers offering pumps which may be supplied for the work include the following:

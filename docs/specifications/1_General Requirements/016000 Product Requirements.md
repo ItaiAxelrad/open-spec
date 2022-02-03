@@ -7,7 +7,6 @@ subgroup: General Requirements
 tags: ['General', 'Requirements', 'Product']
 ---
 
-
 ## General
 
 1. SUMMARY
@@ -21,7 +20,7 @@ tags: ['General', 'Requirements', 'Product']
    1. Related Sections
    1. Section 013300 - Submittals, Shop Drawings, Product Data and Samples
    1. Section 018300 - Operating and Maintenance Data
-   1. SYSTEM DESCRIPTION
+1. SYSTEM DESCRIPTION
    1. Manufacturer's Instructions
    1. When Contract Documents require work to comply with manufacturer's instructions, obtain and distribute copies in accordance with Shop Drawings.
    1. Handle, install, connect, clean, condition and adjust products in accordance with such instructions and specified requirements. If conflict occurs between manufacturer's instructions and Contract Documents, do not proceed until consulting with Owner and instructions are clear.
@@ -49,7 +48,7 @@ tags: ['General', 'Requirements', 'Product']
    1. Products or materials shall not be manufactured in whole or in part of asbestos, lead, or other material which would be hazardous in its final state, unless specifically listed in another section of these specifications.
    1. Equipment capacities, sizes and dimensions shown or specified shall be adhered to unless variations are specifically approved.
    1. Do not use material or equipment for any purpose other than that for which it is designed or specified.
-   1. DELIVERY, STORAGE, AND PROTECTION
+1. DELIVERY, STORAGE, AND PROTECTION
    1. Transportation and Handling
    1. Arrange deliveries of products and equipment in accordance with construction schedules and coordinate to avoid conflict with work and site conditions.
    1. Deliver products in undamaged condition and immediately upon delivery inspect shipments to assure compliance with requirements of Contract Documents and approved submittals.
@@ -60,8 +59,9 @@ tags: ['General', 'Requirements', 'Product']
    1. Inspect periodically to assure products are maintained under specified conditions and free of damage or deterioration.
 
 ## Products
- (NOT USED)
+
+(NOT USED)
 
 ## Execution
- (NOT USED)
 
+(NOT USED)

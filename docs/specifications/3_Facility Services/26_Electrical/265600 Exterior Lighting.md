@@ -79,7 +79,9 @@ tags: ['Facility', 'Services', 'Electrical', 'Exterior', 'Lighting']
       1. One for every 100 of each type and rating installed. Furnish at least one of each type.
 4. Globes and Guards:
       1. One for every 20 of each type and rating installed. Furnish at least one of each type.
-   1. Product
+   
+## Products
+
 1. MANUFACTURERS
    1. Available Products:
       1. Subject to compliance with requirements, products that may be incorporated into the Work include, but are not limited to, the products indicated in the Luminaire Schedule shown on the electrical drawings.

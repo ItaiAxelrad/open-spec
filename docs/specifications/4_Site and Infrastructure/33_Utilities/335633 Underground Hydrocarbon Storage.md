@@ -16,7 +16,6 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Underground', 'Hydrocarbon', 'Sto
 1. SCOPE
    1. The work under this section shall consist of providing all materials, labor, equipment, and supervision necessary to deliver, unload, store, protect, and install all equipment so as to provide a complete operating system. This will include all excavation and backfilling for the proper installation of the specified***(quantity, sizes)*** gallon double-walled ***(fiberglass/steel/composite)*** underground petroleum storage tank***(s)*** with appropriate openings, appurtenances, dispensing system, and related secondary containment piping to meet the needs of the system required in these specifications and on the drawings. It will include installation of concrete anchor pads for the tank***(s)***. It will include installation of a leak ***(detection/monitoring)*** system for the tank***(s)*** and all underground piping, with associated electrical control panel and wiring work. Steel tank installation will include a cathodic protection system. Concrete work and electrical work described under Part III - Execution herein shall be installed in accordance with respective division/sections of the Project Manual The finished product of the work shall comply with all applicable administrative regulatory codes. *(Note to the designer:
       1. Include brief description of the work and locations, if necessary).*** Included are the following topics:
-    1. 
 ## General
 
    1. Scope  
@@ -134,7 +133,6 @@ Underground Tanks
 1. *(Note to the designer:
       1. Due to the ever-increasing number of underground storage tank products introduced to the market annually, the following listing of tank options is far from exhaustive. The designer is encouraged to insert a suitable recommended alternate product, as long as the needs of the user facility are met, all applicable product standards enumerated below are satisfied, and the product meets all requirements of the regulatory codes in effect at the time of construction.)*
    1. The underground tank system shall include:
-    1. 
 
  • -gallon spill containment basin  
  • 18-inch minimum top water-tight manway

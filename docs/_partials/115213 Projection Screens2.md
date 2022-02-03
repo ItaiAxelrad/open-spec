@@ -68,7 +68,9 @@ enclosed and weathertight, wet work in spaces is complete and dry, and temporary
    1. Coordinate layout and installation of projection screens with adjacent construction, including
 ceiling suspension systems, light fixtures, HVAC equipment, fire-suppression system, and
    1. partitions.
-   1. Product
+   
+## Products
+
 1. ELECTRICALLY OPERATED PROJECTION SCREENS
 	1. General:
       1. Manufacturer's standard units consisting of case, screen, motor, controls, mounting

@@ -7,7 +7,7 @@ subgroup: Procurement and Contracting Requirements
 tags: ['Procurement', 'Contracting', 'Requirements', 'Change', 'Order', 'Form']
 ---
 
-   1. Change Order No. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+1. Change Order No. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
    1. Date of Issuance:
       1. Effective Date:
             1. Project:
@@ -75,6 +75,5 @@ $
    1. Date:
    1. Date:
    1. Approved by Funding Agency (if applicable):
-    1. 
    1. Date:
 

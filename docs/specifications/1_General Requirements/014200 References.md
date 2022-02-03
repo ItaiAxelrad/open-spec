@@ -7,13 +7,10 @@ subgroup: General Requirements
 tags: ['General', 'Requirements', 'References']
 ---
 
-   1. Section 01 42 00
-   1. references
-
 ## General
 
 1. SUMMARY
-   1. Work included:
+  1. Work included:
 	1. Throughout the Contract Documents, reference is made to codes and standards which establish qualities and types of workmanship and materials, and which establish methods for testing and reporting on pertinent characteristics.
 	2. Where materials or workmanship are required by these Contract Documents to meet or exceed the specifically named code or standard, it is the Contractor’s responsibility to provide materials and workmanship which meet or exceed the specifically named code or standard.
 	3. It is also the Contractor’s responsibility, when so required by the Contract Documents or by written request from the Engineer, to deliver to the Engineer all required proof that the materials or workmanship, or both, meet or exceed the requirements of the specifically named code or standard. Such proof shall be in the form requested in writing by the Engineer, and generally will be required to be copies of a certified report of tests conducted by a testing agency approved for that purpose by the Engineer.
@@ -41,10 +38,8 @@ tags: ['General', 'Requirements', 'References']
 
 ## Product 
 
- (Not Used)
-
+(Not Used)
 
 ## Execution
 
- (Not Used)
-
+(Not Used)

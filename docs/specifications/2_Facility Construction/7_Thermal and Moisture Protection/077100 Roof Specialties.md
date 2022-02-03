@@ -48,7 +48,9 @@ test reports.
       1. Manufacturer's standard form in which manufacturer 
 agrees to repair finish or replace roof specialties that show evidence of deterioration of factory- 
    1. applied finishes within 20 years from date of project completion.
-   1. Product
+   
+## Products
+
 1. MANUFACTURERS
    1. Manufacturers:
       1. Subject to compliance with requirements, provide products by one of the 

@@ -25,7 +25,9 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Common', 'Motor', 'Requirements',
     1. Operating and Maintenance Instructions
     1. Electrical Coordination
     1. Product Criteria
-   1. Product
+   
+## Products
+
     1. Three Phase, Single Speed Motors
     1. Single Phase, Single Speed Motors
     1. Motors Used for Reduced Voltage Starting
@@ -79,7 +81,6 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Common', 'Motor', 'Requirements',
    1. All motors frame 143T and larger shall be supplied with shouldered lifting eyebolts or suitable lifting arrangement (eyebolts preferred).
    1. All TEFC motors shall have a drain hole (preferably tapped) and a drain plug located at the lowest point of the motor to prevent accumulation of moisture within the motor due to condensation during storage. T-slot design plug is preferred.
    1. Motor nameplates shall be stainless steel and shall include at least the following information:
-    1. 
    1. Horsepower
    1. j)
    1. Class of Insulation

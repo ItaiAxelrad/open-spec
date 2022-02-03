@@ -76,139 +76,139 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
 ## PRODUCTS
 
 1. General
-		1. Provide valves of manufacturers listed below and of the figure numbers listed, or as updated by the manufacturer. Submittals containing outdated figure numbers will be rejected. Manufacturers and numbers not listed are unacceptable. 
-			2. Provide butterfly and plug valves NPS 4 and larger with worm gear operators with position indicators.
-			3. Provide butterfly, ball and plug valves of bubble-tight and dead end construction.
-			4. Valve packing containing asbestos material will not be permitted. 
-			5. Equip bronze globe and gate valves with a hexagon gland follower. 
-			6. Equip bronze globe and gate valves with malleable iron hand wheels.
-			7. Provide manually operated valves, pad-lockable in any position.
-			8. Provide gate and globe valves which are capable of being packed under pressure when wide open by means of a beveled backseat and bonnet. 
-			9. Provide all gate and globe valves with four-sided stem to hand-wheel connection with self-locking nut.
-1. Heating Hot Water, Condenser Water, Glycol, Chilled Water, unless otherwise shown or specified*
+	1. Provide valves of manufacturers listed below and of the figure numbers listed, or as updated by the manufacturer. Submittals containing outdated figure numbers will be rejected. Manufacturers and numbers not listed are unacceptable. 
+      1. Provide butterfly and plug valves NPS 4 and larger with worm gear operators with position indicators.
+      2. Provide butterfly, ball and plug valves of bubble-tight and dead end construction.
+      3. Valve packing containing asbestos material will not be permitted. 
+      4. Equip bronze globe and gate valves with a hexagon gland follower. 
+      5. Equip bronze globe and gate valves with malleable iron hand wheels.
+      6. Provide manually operated valves, pad-lockable in any position.
+      7. Provide gate and globe valves which are capable of being packed under pressure when wide open by means of a beveled backseat and bonnet. 
+      8. Provide all gate and globe valves with four-sided stem to hand-wheel connection with self-locking nut.
+2.  Heating Hot Water, Condenser Water, Glycol, Chilled Water, unless otherwise shown or specified*
 		1. Isolation and Throttling Valves – NPS 2 and Smaller
    1. Class 150 psi swp, 600 psi cwp; three piece; full port; bronze body; blow-out proof stem; chromium plated brass or bronze ball; TFE seats and packing; adjustable packing gland; in-line repairable; threaded ends; lever handle with lockable feature; stem extensions for insulated services.
-   1. Conbraco/Apollo
-   1. 82-100
-   1. Crane
-   1. F-9303
-   1. Grinnell
-   1. 3810
-   1. Hammond
-   1. 8604
-   1. Milwaukee
-   1. BA-300
-   1. NIBCO
-   1. T-595-Y
-   1. Watts
-   1. B-6800
-   1. Class 150 psi swp; 600 psi cwp; two-piece, regular port; bronze body; blow-out proof stem; chromium plated brass or bronze ball; TFE seats and packing; adjustable packing gland; threaded ends; oval handle with lockable feature; stem extensions for insulated service.
-   1. Conbraco/Apollo
-   1. 70-100
-   1. Crane
-   1. 9302
-   1. Grinnell
-   1. 3700
-   1. Hammond
-   1. 8501
-   1. Milwaukee
-   1. BA-100
-   1. Jamesbury
-   1. 14-00-TT
-   1. NIBCO
-   1. T-585-70
-   1. Watts
-   1. B-6000
-		1. Drain and Vent Valves
+   2. Conbraco/Apollo
+   3. 82-100
+   4. Crane
+   5. F-9303
+   6. Grinnell
+   7. 3810
+   8. Hammond
+   9. 8604
+   10. Milwaukee
+   11. BA-300
+   12. NIBCO
+   13. T-595-Y
+   14. Watts
+   15. B-6800
+   16. Class 150 psi swp; 600 psi cwp; two-piece, regular port; bronze body; blow-out proof stem; chromium plated brass or bronze ball; TFE seats and packing; adjustable packing gland; threaded ends; oval handle with lockable feature; stem extensions for insulated service.
+   17. Conbraco/Apollo
+   18. 70-100
+   19. Crane
+   20. 9302
+   21. Grinnell
+   22. 3700
+   23. Hammond
+   24. 8501
+   25. Milwaukee
+   26. BA-100
+   27. Jamesbury
+   28. 14-00-TT
+   29. NIBCO
+   30. T-585-70
+   31. Watts
+   32. B-6000
+		2. Drain and Vent Valves
    1. Class 150 psi swp, 600 psi cwp; two piece; large port; blow-out proof stem; chromium plated brass ball; TFE seats and packing; adjustable packing gland; oval handle with lockable feature; hose-end threaded connection with brass cap and chain connected to handle.
-   1. Conbraco/Apollo
-   1. 78-100
-   1. NIBCO
-   1. T-580-70-HC
-   1. Hammond
-   1. 8501H
-   1. Watts
-   1. B-6000-CC
-		1. Isolation and Throttling Valves – NPS 2-1/2 and Larger
+   2. Conbraco/Apollo
+   3. 78-100
+   4. NIBCO
+   5. T-580-70-HC
+   6. Hammond
+   7. 8501H
+   8. Watts
+   9. B-6000-CC
+		3. Isolation and Throttling Valves – NPS 2-1/2 and Larger
    1. Butterfly; rated 200 psi up to NPS 12 and 150 psi NPS 14 and larger; full lug type; suitable for dead-end service to full shut-off differential of valve with downstream flange removed; cast/ductile iron body; aluminum bronze disc; stainless steel stem; EPDM seat; manual lever-lock operator; minimum 2-inch extended neck for insulation; phenolic backed liner. Seat material for oil or hydrocarbon service:
       1. BUNA in lieu of EPDM. Provide gear operators with pad lock feature on all valves NPS 4 and larger.
-   1. Conbraco/Apollo
-   1. 142
-   1. ABZ
-   1. 102
-   1. Bray
-   1. Series 31-11010-120
-   1. DeZURIK
-   1. BGS LI CI EPDM BZS5 LT
-   1. Grinnell
-   1. LC/LD-2281-3
-   1. Hammond
-   1. 6211-01
-   1. TYCO/Keystone
-   1. AR2
-   1. Muesco
-   1. 56-A-H-K-6-2
-   1. NIBCO
-   1. LC/LD-2000-3/-1000-3
-   1. Stockham
-   1. LG 712-BS2-E
-   1. Victaulic
-   1. 300,709
-   1. Watts
-   1. DBF-03-121-1P
-		1. Check Valves – NPS 2 and Smaller
+   2. Conbraco/Apollo
+   3. 142
+   4. ABZ
+   5. 102
+   6. Bray
+   7. Series 31-11010-120
+   8. DeZURIK
+   9. BGS LI CI EPDM BZS5 LT
+   10. Grinnell
+   11. LC/LD-2281-3
+   12. Hammond
+   13. 6211-01
+   14. TYCO/Keystone
+   15. AR2
+   16. Muesco
+   17. 56-A-H-K-6-2
+   18. NIBCO
+   19. LC/LD-2000-3/-1000-3
+   20. Stockham
+   21. LG 712-BS2-E
+   22. Victaulic
+   23. 300,709
+   24. Watts
+   25. DBF-03-121-1P
+		4. Check Valves – NPS 2 and Smaller
    1. Class 200 psi swp, 400 psi cwp; bronze body, disc and seat; regrinding; screwed end. 
-   1. Crane
-   1. 36
-   1. Hammond
-   1. IB944
-   1. Lunkenheimer
-   1. 544Y
-   1. Milwaukee
-   1. 508
-   1. NIBCO
-   1. T-453-B
-   1. Powell
-   1. 560
-   1. Stockham
-   1. B-345
-   1. Walworth
-   1. 3420
-   1. Watts
-   1. B-5020
-		1. Check Valves – NPS 2-1/2 (DN 65) and Larger
+   2. Crane
+   3. 36
+   4. Hammond
+   5. IB944
+   6. Lunkenheimer
+   7. 544Y
+   8. Milwaukee
+   9. 508
+   10. NIBCO
+   11. T-453-B
+   12. Powell
+   13. 560
+   14. Stockham
+   15. B-345
+   16. Walworth
+   17. 3420
+   18. Watts
+   19. B-5020
+		5. Check Valves – NPS 2-1/2 (DN 65) and Larger
    1. Silent type, globe style, integrally flanged, class 150, cast iron body, resilient seated, stainless steel trim and spring.
-   1. Apco
-   1. Series 600
-   1. Muesco
-   1. 105M-AT
-   1. Metraflex
-   1. 900 Series
-   1. Grinnell
-   1. Series 500
-   1. Victaulic
-   1. 716,779
-   1. NIBCO
-   1. F910/960
-1. Differential Pressure Control Valves (DPCV)
-		1. Provide differential pressure control valves on closed circulating systems where required for regulation of excessive head pressure: Cla-Val Co. pressure ,control valve No. 50-01, Ross Valve Co. 50-RWR or Watts No. 116, diaphragm type, hydraulically operated, pilot controlled modulating type.
-			2. Size valves for piping system where installed and adjust to control pressures shown. Select valve and diaphragm materials to operate at the piping system pressure ratings and the temperature range of the liquid in the piping system.
-1. Solenoid Valves
-		1. 2-way, pilot operated, slow closing type.
-			2. Solenoid enclosure: General purpose metal type.
-			3. Voltage: 24 volts, ac, 60 Hz 24 volts dc.
-			4. Coil: Continuous duty molded Class F.
-			5. Ambient temperature range: 32 degrees F to 125 degrees F.
-			6. Body: 18.8 S.S.
-			7. Seals and Disc: Buna "N".
-			8. Core tube: 305 S.S.
-			9. Core and plug nut: 430F S.S.
-			10. Core spring: 302 S.S.
-			11. Shading coil: silver (stainless steel body).
-			12. Manufacturers: ASCO “Red Hat Series 8221” or Honeywell “Skinner Model 7321 GBN”.
-1. diaphragm valves
-		1. Provide straightway flow diaphragm valves on closed circulating systems where required for flow regulation and isolation: Dia-Flo Straightway Valves as manufactured by ITT Industries, motor operated modulating type where indicated on the drawings.
-			2. Size valves for piping system where installed and adjust to control pressures shown. Select valve and diaphragm materials to operate at the piping system pressure ratings and the temperature range of the liquid in the piping system. In general valves for chilled water and heating water service shall be cast iron body with butyl rubber lining rated to minimum 125 psig and 200 deg. F.
+   2. Apco
+   3. Series 600
+   4. Muesco
+   5. 105M-AT
+   6. Metraflex
+   7. 900 Series
+   8. Grinnell
+   9. Series 500
+   10. Victaulic
+   11. 716,779
+   12. NIBCO
+   13. F910/960
+3.  Differential Pressure Control Valves (DPCV)
+		6. Provide differential pressure control valves on closed circulating systems where required for regulation of excessive head pressure: Cla-Val Co. pressure ,control valve No. 50-01, Ross Valve Co. 50-RWR or Watts No. 116, diaphragm type, hydraulically operated, pilot controlled modulating type.
+			1. Size valves for piping system where installed and adjust to control pressures shown. Select valve and diaphragm materials to operate at the piping system pressure ratings and the temperature range of the liquid in the piping system.
+4.  Solenoid Valves
+		7. 2-way, pilot operated, slow closing type.
+			1. Solenoid enclosure: General purpose metal type.
+			2. Voltage: 24 volts, ac, 60 Hz 24 volts dc.
+			3. Coil: Continuous duty molded Class F.
+			4. Ambient temperature range: 32 degrees F to 125 degrees F.
+			5. Body: 18.8 S.S.
+			6. Seals and Disc: Buna "N".
+			7. Core tube: 305 S.S.
+			8. Core and plug nut: 430F S.S.
+			9.  Core spring: 302 S.S.
+			10. Shading coil: silver (stainless steel body).
+			11. Manufacturers: ASCO “Red Hat Series 8221” or Honeywell “Skinner Model 7321 GBN”.
+5.  diaphragm valves
+		8. Provide straightway flow diaphragm valves on closed circulating systems where required for flow regulation and isolation: Dia-Flo Straightway Valves as manufactured by ITT Industries, motor operated modulating type where indicated on the drawings.
+			1. Size valves for piping system where installed and adjust to control pressures shown. Select valve and diaphragm materials to operate at the piping system pressure ratings and the temperature range of the liquid in the piping system. In general valves for chilled water and heating water service shall be cast iron body with butyl rubber lining rated to minimum 125 psig and 200 deg. F.
 
 ## EXECUTION
 

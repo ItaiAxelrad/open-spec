@@ -67,7 +67,9 @@ Sections apply to this Section.
       1. Specified form, on warranty form at end of this Section, signed by
 Installer, covering Work of this Section, for warranty period of two years.
 1. Warranty includes removing and reinstalling protection board, drainage panels, insulation, pedestals, and pavers on plaza decks.
-   1. Product
+   
+## Products
+
 1. MODIFIED BITUMINOUS SHEET WATERPROOFING
    1. Modified Bituminous Sheet:
       1. Not less than 60-mil-thick, self-adhering sheet consisting of

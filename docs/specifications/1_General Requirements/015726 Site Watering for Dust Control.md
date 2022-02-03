@@ -7,9 +7,6 @@ subgroup: General Requirements
 tags: ['General', 'Requirements', 'Site', 'Watering', 'Dust', 'Control']
 ---
 
-
-   1. Site Watering for Dust Control
-
 ## General
 
 1. Summary
@@ -28,14 +25,16 @@ tags: ['General', 'Requirements', 'Site', 'Watering', 'Dust', 'Control']
 2. Additives:
       1. All Additives proposed for use as an aid in dust control other than specified in Part 2.2 shall be reviewed with the Engineer prior to their application. 
 	1. Manufacturer’s literature along with recommended application rates shall be provided.
-   1. Product
+
+## Product
+
 1. Water
    1. Water used for dust control shall be non-polluted.
 	1. The use of water from fire hydrants is not allowed.
-1. Chemical Additives
+2. Chemical Additives
    1. Calcium Chloride:
       1. Shall to conform to the requirements of AASHTO M 144 (ASTM-D-98) except that either pellet or flake shall be acceptable. 
-	1. Magnesium Chloride may also be used.
+	2. Magnesium Chloride may also be used.
 
 ## Execution
 
@@ -58,4 +57,3 @@ tags: ['General', 'Requirements', 'Site', 'Watering', 'Dust', 'Control']
       1. The quantity of water required for adequate dust control is variable and depends on climatic factors, soil types, and potential for nuisance. Dust control requirements shall be as discussed, established, and reviewed periodically during the course of project work.
 1. Work Areas
    1. The Contractor shall make a reasonable effort to keep work areas and adjacent areas free of excessive dirt and mud that unnecessarily contribute to a dust nuisance.
-

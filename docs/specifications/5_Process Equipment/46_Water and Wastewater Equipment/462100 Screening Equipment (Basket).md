@@ -55,7 +55,9 @@ tags: ['Process', 'Equipment', 'Water', 'Wastewater', 'Screening', '(Basket)']
 		3. Operation and Maintenance Manuals shall be submitted prior to making application for payment exceeding 75 percent of the Contract Price.
 	8. WARRANTY
 		1. Special Warranty: The manufacturer shall warrant that the work described here shall be free from defects in workmanship and material for a period of one (1) year from the date of acceptance. Any faulty workmanship or defective material furnished that is found within the warranty period shall be corrected without cost to the Owner.
-   1. Product
+   
+## Products
+
 
 	9. MANUFACTURERS
 		1. Waco Products, or approved equal.

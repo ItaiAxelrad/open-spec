@@ -31,7 +31,9 @@ tags: ['Facility', 'Construction', 'Specialties', 'Toilet', 'Bath', 'Laundry', '
       1. Manufacturer's standard form in which manufacturer agrees to replace mirrors that develop visible silver spoilage defects and that fail in materials or workmanship within specified warranty period.
 1. Warranty Period:
       1. 15 years from date of project completion. 
-   1. Product
+   
+## Products
+
 1. MANUFACTURERS
    1. Manufacturers:
       1. Subject to compliance with requirements, provide accessories listed in the drawings. Required products are identified by listing the model number of Bobrick Washroom Equipment, Inc. as indicated on the drawings. Similar products by one of the following are also acceptable, pending Architect’s approval:

@@ -48,7 +48,6 @@ tags: ['Procurement', 'Contracting', 'Requirements', 'Change', 'Order', 'Form']
 	1. General:
       1. You may not sublicense, assign, or transfer this license except as expressly provided in this Agreement. Any attempt otherwise to sublicense, assign, or transfer any of the rights, duties, or obligations hereunder is void.
    1. This Agreement shall be governed by the laws of the State of Virginia. Should you have any questions concerning this Agreement, you may contact EJCDC by writing to:
-    1. 
     1. Arthur Schwartz, Esq.
 
 ## General Counsel

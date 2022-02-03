@@ -60,7 +60,9 @@ tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Sto
 
 	1. WARRANTY
 		1. Special Warranty: Manufacturer shall warrant that the work described here shall be free from defects in workmanship and material for a period of one (1) year from the date of acceptance. Any faulty workmanship or defective material furnished that is found within the warranty period shall be corrected without cost to Owner.
-   1. Product
+   
+## Products
+
 
 	1. MANUFACTURERS
 		1. Available Manufacturers: Subject to compliance with requirements, manufacturers offering products that may be incorporated into the Work include, but are not limited to, the following:

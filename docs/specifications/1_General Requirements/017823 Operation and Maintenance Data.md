@@ -7,9 +7,6 @@ subgroup: General Requirements
 tags: ['General', 'Requirements', 'Operation', 'Maintenance', 'Data']
 ---
 
-   1. Section 01 78 23
-   1. Operation and Maintenance Manuals
-
 ## General
 
 1. Summary
@@ -160,10 +157,8 @@ tags: ['General', 'Requirements', 'Operation', 'Maintenance', 'Data']
 
 ## Product 
 
- (Not Used)
-
+(Not Used)
 
 ## Execution
 
- (Not Used)
-
+(Not Used)

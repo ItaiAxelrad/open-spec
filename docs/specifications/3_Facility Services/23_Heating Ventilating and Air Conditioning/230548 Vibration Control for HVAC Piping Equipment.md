@@ -1,5 +1,5 @@
 ---
-title: VibCtrl HVACPipingEquip
+title: Vibration Control for HVAC Piping Equipment
 section: '230548'
 divNumb: 23
 divName: Heating Ventilating and Air Conditioning
@@ -47,39 +47,39 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Except as otherwise indicated, obtain vibration control products from single manufacturer.
    1. Engage manufacturer to provide technical supervision or installation of vibration control products.
 
-## General
+## Products
 
-1. MANUFACTURERS
+2. MANUFACTURERS
    1. Subject to compliance with requirements, provide vibration control products of one of the following:
       1. Amber/Booth Co.
-   1. Korfund Dynamics Corp.
-   1. Mason Industries, Inc.
-   1. Peabody Noise Control, Inc.
-   1. Vibration Eliminator Co., Inc.
-   1. Vibration Mountings and Controls, Inc.
-1. MATERIALS
+   2. Korfund Dynamics Corp.
+   3. Mason Industries, Inc.
+   4. Peabody Noise Control, Inc.
+   5. Vibration Eliminator Co., Inc.
+   6. Vibration Mountings and Controls, Inc.
+3. MATERIALS
    1. Neoprene Pads:
       1. Oil-resistant neoprene sheets, of manufacturer's standard hardness and cross-ribbed or waffled pattern.
-   1. Vibration Isolation Springs:
+   2. Vibration Isolation Springs:
       1. Wound-steel compression springs, of high-strength spring alloy steel, with spring diameter not less than 0.8 of compressed height of spring at rated loads. Provide minimum additional travel to solid, equal to 50% of rated deflection. Provide spring wire with elastic limit stress exceeding stress at solid deflection.
-   1. Pad-Type Isolators:
+   3. Pad-Type Isolators:
       1. Except as otherwise indicated, provide manufacturer's standard pad-type isolation unit, fiberglass pads or shapes, or neoprene pads.
-   1. Neoprene Mountings:
+   4. Neoprene Mountings:
       1. Provide neoprene mountings consisting of neoprene element bonded between two steel plates that are neoprene-covered to prevent corrosion. Provide minimum rated deflection of 0.35-inch. Provide threaded hole in upper plate and two holes in base plate for securing to equipment and to substrate.
-   1. Spring Isolators, Freestanding:
+   5. Spring Isolators, Freestanding:
       1. Except as otherwise indicated, provide vibration isolation spring between top and bottom loading plates, and with pad-type isolator bonded to bottom of bottom loading plate. Include studs or cups to ensure centering of spring on plates. Include leveling bolt with locknuts and washers, centered in top plate, arranged for leveling and anchoring supported equipment as indicated.
-   1. Include holes in bottom plate for bolting unit to substrate as indicated.
-   1. Roof-Curb Isolators:
+   6. Include holes in bottom plate for bolting unit to substrate as indicated.
+   7. Roof-Curb Isolators:
       1. Fabricated frame units sized to match roof curbs as shown, formed with isolation springs between extruded aluminum upper and lower sections, which are shaped and positioned to prevent metal-to-metal contact. Provide continuous airtight and waterproof seal between upper and lower extrusions. Include provisions for anchorage of frame unit to roof curb, and for anchorage of equipment unit.
-   1. Isolation Hangers:
+   8. Isolation Hangers:
       1. Hanger units formed with brackets and including manufacturer's standard compression isolators of type indicated. Design brackets for three times rated loading of units. Fabricate units to accept misalignment of 15 degrees off center in any direction before contacting hanger box, and for use with either rod or strap type members, and including acoustical washers to prevent metal-to-metal contacts.
-   1. Provide vibration isolation spring with cap in lower part of hanger and rubber hanger element in top, securely retained in unit.
-   1. Provide neoprene element, with minimum deflection of 0.35-inch, securely retained in hanger box.
-   1. Provide fiberglass pad or shape, securely retained in unit, with threaded metal top plate.
-   1. Provide hangers, precompressed to rated load to limit deflection during installation. Design so hanger may be released after full load is applied.
-   1. Flexible Pipe Connectors:
+   9. Provide vibration isolation spring with cap in lower part of hanger and rubber hanger element in top, securely retained in unit.
+   10. Provide neoprene element, with minimum deflection of 0.35-inch, securely retained in hanger box.
+   11. Provide fiberglass pad or shape, securely retained in unit, with threaded metal top plate.
+   12. Provide hangers, precompressed to rated load to limit deflection during installation. Design so hanger may be released after full load is applied.
+   13. Flexible Pipe Connectors:
       1. For nonferrous piping, provide bronze hose covered with bronze wire braid with copper tube ends or bronze flanged ends, braze-welded to hose.
-   1. For ferrous piping, provide stainless steel hose covered with stainless steel wire braid with NPT steel nipples or 150 psi ANSI flanges, welded to hose.
+   14. For ferrous piping, provide stainless steel hose covered with stainless steel wire braid with NPT steel nipples or 150 psi ANSI flanges, welded to hose.
 
 ## EXECUTION
 
@@ -108,4 +108,3 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
       1. Comply with minimum static deflections recommended by ASHRAE, for selection and application of vibration isolation materials and units as indicated.
    1. Manufacturer's Recommendations:
       1. Except as otherwise indicated, comply with manufacturer's recommendations for selection and application of vibration isolation materials and units.
-

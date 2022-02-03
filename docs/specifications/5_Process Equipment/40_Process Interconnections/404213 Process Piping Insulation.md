@@ -17,7 +17,9 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Piping', 'Insulation']
     1. Description
     1. Definitions
     1. Shop Drawings
-   1. Product
+   
+## Products
+
     1. Materials
     1. Insulation 
     1. Accessories

@@ -7,9 +7,6 @@ subgroup: General Requirements
 tags: ['General', 'Requirements', 'Substitution', 'Procedures']
 ---
 
-   1. Section 01 25 00
-   1. Substitutions
-
 ## General
 
 1. SUMMARY
@@ -63,8 +60,7 @@ tags: ['General', 'Requirements', 'Substitution', 'Procedures']
 
 ## Product 
 
- (Not Used)
-
+(Not Used)
 
 ## Execution
 
@@ -78,4 +74,3 @@ tags: ['General', 'Requirements', 'Substitution', 'Procedures']
 	3. In the Engineer's opinion, acceptance will require substantial revision of the original design.
 	4. In the Engineer's opinion, substitution will not perform adequately the function consistent with the design intent.
 5. Contractor shall reimburse Owner for the cost of Engineer's evaluation whether or not substitution is approved.
-

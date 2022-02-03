@@ -7,7 +7,6 @@ subgroup: General Requirements
 tags: ['General', 'Requirements', 'Project', 'Meetings']
 ---
 
-
 ## General
 
 1. SUMMARY
@@ -49,8 +48,8 @@ tags: ['General', 'Requirements', 'Project', 'Meetings']
 
 ## Products
 
+Not used.
 
 ## Execution
 
-
-
+Not used.

@@ -7,13 +7,10 @@ subgroup: General Requirements
 tags: ['General', 'Requirements', 'Submittal', 'Procedures']
 ---
 
-
-   1. CONTRACTOR SUBMITTALS 
-0
 ## General
 
-	1. General:
-      1. Wherever submittals are required hereunder, all such submittals by the Contractor shall be submitted to the Engineer. A Submittal is defined as any drawing, calculation, specification, product data, samples, manuals, requests for substitutes, spare parts, photographs, survey data, record drawings, bonds, or similar items required to be submitted to the City Engineer under the terms of the contract.
+1. General:
+   1. Wherever submittals are required hereunder, all such submittals by the Contractor shall be submitted to the Engineer. A Submittal is defined as any drawing, calculation, specification, product data, samples, manuals, requests for substitutes, spare parts, photographs, survey data, record drawings, bonds, or similar items required to be submitted to the City Engineer under the terms of the contract.
    1. Before issuance of Notice to Proceed, the Contractor shall submit the following submittal items to the Engineer for review:
       1. A Preliminary Construction Schedule indicating the starting and completion dates of the various stages of the Work. Section 01310 Progress Schedules.
 2. A preliminary schedule of Shop Drawings, Samples, and proposed substitutes or "Or Equal" submittals.
@@ -73,5 +70,3 @@ tags: ['General', 'Requirements', 'Submittal', 'Procedures']
    1. Effect on Final Payment. Final payment will not be approved until the Contractor- prepared Final Record Drawings have been delivered to the Engineer. Said up-to-date, Record Drawings may be in the form of a set of prints with carefully plotted information overlaid in pencil.
 12. CONSTRUCTION PHOTOGRAPHS
    1. The Contractor shall provide monthly construction photographs showing the daily progress of the Work.
-
-

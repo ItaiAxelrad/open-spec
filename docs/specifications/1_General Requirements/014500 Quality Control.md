@@ -7,11 +7,9 @@ subgroup: General Requirements
 tags: ['General', 'Requirements', 'Quality', 'Control']
 ---
 
+## GENERAL 
 
-   1. QUALITY CONTROL 
-   1. PART 1 -GENERAL 
-
-	1. Description
+1. Description
    1. This section covers quality control requirements supplementary to those of the General Conditions and other sections of the Technical Specifications. 
 	1. Quality Assurance
 2. Testing Laboratory:
@@ -41,4 +39,3 @@ tags: ['General', 'Requirements', 'Quality', 'Control']
    1. Field samples will be selected and obtained by the testing laboratory or inspector unless otherwise specified. 
 02. Contractor Furnished Assistance 
    1. When requested, furnish access, equipment, facilities and labor assistance at the site as necessary for the duties to be performed by the testing laboratory and inspector including ladders, hoisting, temporary lighting, temporary water supply, and like services. 
-

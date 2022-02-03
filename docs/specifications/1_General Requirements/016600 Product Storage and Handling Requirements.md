@@ -7,9 +7,6 @@ subgroup: General Requirements
 tags: ['General', 'Requirements', 'Product', 'Storage', 'Handling']
 ---
 
-   1. Section 01 66 00
-   1. Product delivery, storage, and handling
-
 ## General
 
 1. SUMMARY
@@ -31,8 +28,7 @@ tags: ['General', 'Requirements', 'Product', 'Storage', 'Handling']
 
 ## Product 
 
- (Not Used)
-
+(Not Used)
 
 ## Execution
 
@@ -53,4 +49,3 @@ tags: ['General', 'Requirements', 'Product', 'Storage', 'Handling']
 		1. Reject all products or equipment that are damaged, used, or in any other way unsatisfactory for use on Project.
 2. Monitor Storage Area:
       1. Monitor storage area to ensure suitable temperature and moisture conditions are maintained as required by manufacturer or as appropriate for particular items.
-

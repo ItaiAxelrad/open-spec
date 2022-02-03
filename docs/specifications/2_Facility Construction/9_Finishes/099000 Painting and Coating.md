@@ -117,7 +117,9 @@ tags: ['Facility', 'Construction', 'Finishes', 'Painting', 'Coating']
 	3. Contents, by volume, of major constituents.
 	4. Warning labels.
 	5. VOC content.
-   1. Product
+   
+## Products
+
 1. Acceptable Manufacturers
    1. Subject to compliance with the Contract Documents, only the following manufacturers are acceptable:
 	1. High performance industrial coatings:

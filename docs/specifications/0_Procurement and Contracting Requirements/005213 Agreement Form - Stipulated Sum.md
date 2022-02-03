@@ -7,22 +7,20 @@ subgroup: Procurement and Contracting Requirements
 tags: ['Procurement', 'Contracting', 'Requirements', 'Agreement', 'Form', 'Stipulated', 'Sum']
 ---
 
-
-1. FORM OF AGREEMENT
-
 *AGREEMENT BETWEEN OWNER AND CONTRACTOR FOR CONSTRUCTION CONTRACT (STIPULATED PRICE)*
-   1. This AGREEMENT is by and between (“Owner”) and (“Contractor”). Owner and Contractor hereby agree as follows:
+
+1. This AGREEMENT is by and between (“Owner”) and (“Contractor”). Owner and Contractor hereby agree as follows:
       1. Work
-   1. Contractor shall complete all Work as specified or indicated in the Contract Documents. The Work is generally described as follows:
+   2. Contractor shall complete all Work as specified or indicated in the Contract Documents. The Work is generally described as follows:
       1. The Project
-   1. The Project for which the Work under the Contract Documents may be the whole or only a part is generally described as follows:
+   3. The Project for which the Work under the Contract Documents may be the whole or only a part is generally described as follows:
       1. Engineer
-   1. The Project has been designed by  (Engineer), which is to act as Owner’s representative, assume all duties and responsibilities, and have the rights and authority assigned to Engineer in the Contract Documents in connection with the completion of the Work in accordance with the Contract Documents.
-   1. Contract Times
-   1. Time of the Essence
-   1. All time limits for Milestones, if any, Substantial Completion, and completion and readiness for final payment as stated in the Contract Documents are of the essence of the Contract. 
-   1. Dates for Substantial Completion and Final Payment 
-   1. The Work will be substantially completed on or before , and completed and ready for final payment in accordance with Paragraph 14.07 of the General Conditions on or before .
+   4. The Project has been designed by  (Engineer), which is to act as Owner’s representative, assume all duties and responsibilities, and have the rights and authority assigned to Engineer in the Contract Documents in connection with the completion of the Work in accordance with the Contract Documents.
+   5. Contract Times
+   6. Time of the Essence
+   7. All time limits for Milestones, if any, Substantial Completion, and completion and readiness for final payment as stated in the Contract Documents are of the essence of the Contract. 
+   8. Dates for Substantial Completion and Final Payment 
+   9. The Work will be substantially completed on or before , and completed and ready for final payment in accordance with Paragraph 14.07 of the General Conditions on or before .
 
 [or]
 
@@ -134,7 +132,6 @@ $
                1. Address for giving notices:
          1. Address for giving notices:
                1. License No.:
-    1. 
 
 (Where applicable)
    1. Agent for service of process:

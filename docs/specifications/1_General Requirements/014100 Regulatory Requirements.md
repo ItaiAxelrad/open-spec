@@ -7,13 +7,12 @@ subgroup: General Requirements
 tags: ['General', 'Requirements', 'Regulatory']
 ---
 
-
 ## General
 
 1. SUMMARY
-   1. REFERENCES
+1. REFERENCES
    1. All references to Codes, Specifications and Standards referred to in the Technical Specifications and on the Drawings shall mean the Latest Edition, Amendment and/or Revision of such Referenced Standard in effect as of the date of these Contract Documents unless otherwise specifically indicated. The work of this Contract shall be completed under the applicable provisions of:
-      1. ABBREVIATION TITLE
+1. ABBREVIATION TITLE
    1. AASHTO American Association of State Highway and Transportation Officials
    1. ABMA American Boiler Manufacturers Association
    1. ADA Americans With Disabilities Act
@@ -69,8 +68,9 @@ tags: ['General', 'Requirements', 'Regulatory']
    1. And other codes as listed in Specific Divisions and Sections of the Specifications as they apply to the Work.
 
 ## Products
- (NOT USED)
+
+(NOT USED)
 
 ## Execution
- (NOT USED)
 
+(NOT USED)

@@ -16,7 +16,9 @@ tags: ['Site', 'Infrastructure', 'Transportation', 'Traffic', 'Regulations']
 	1. “Flagging and Traffic Control Supervisors’ Training Manual”; Colorado Department of Highways.
 	2. “Manual on Uniform Traffic Control Devices” (MUTCD); Federal Highway Administration; 1993.
 	3. “Colorado Supplement” to the MUTCD.
-   1. Product
+   
+## Products
+
    1. All warning signs, barricading, and other necessary items shall conform to the above references.
 
 ## Execution

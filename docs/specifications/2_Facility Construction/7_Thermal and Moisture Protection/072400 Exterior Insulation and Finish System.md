@@ -38,7 +38,9 @@ tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Exterio
    1. The System shall have been tested for fire performance in accordance with; Modified ASTM E108, ASTM E119, ULC-S101, and UCB 17-6 Multi-Story Test.
 1. SUBMITTALS
    1. Comply with pertinent provisions of Section 013300.
-   1. Product
+   
+## Products
+
    1. Materials list of items proposed to be provided under this Section.
    1. Manufacturer's specifications and other data needed to prove compliance with the specified requirements.
    1. Shop Drawings in sufficient detail to show fabrication, installation, anchorage, and interface of the work of this Section with the work of adjacent trades.

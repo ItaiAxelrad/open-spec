@@ -246,4 +246,3 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Adjust volume control devices as required by the testing and balancing procedures to achieve required airflow. See Division 22 sections of the Specifications for requirements and procedures for adjusting and balancing air systems.
 1. CLEANING
    1. Vacuum duct systems prior to final acceptance to remove dust and debris.
-

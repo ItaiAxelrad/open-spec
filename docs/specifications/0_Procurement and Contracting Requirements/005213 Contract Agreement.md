@@ -7,17 +7,15 @@ subgroup: Procurement and Contracting Requirements
 tags: ['Procurement', 'Contracting', 'Requirements', 'Contract', 'Agreement']
 ---
 
-   1. Section 00 52 13
-   1. Contract Agreement
-   1. An AGREEMENT by and between OWNER, and CONTRACTOR for PROJECT. 
+An AGREEMENT by and between OWNER, and CONTRACTOR for PROJECT. 
+
 1. SECTION I - PARTIES
    1. This AGREEMENT, by and between the Owner, and Contractor, doing business as (a corporation) hereinafter called “Contractor”, made this day:
-
-   1. WITNESSETH:
+   2. WITNESSETH:
       1. That for and in consideration of the payments and agreements hereinafter mentioned:
             1. The Contractor will commence and complete the work hereinafter called “Project”.
 2. The Contractor represents that it has the special expertise and background necessary to complete the project for the amount of Contractor’s Proposal and within the time period specified.
-1. SECTION 3 - SCOPE OF SERVICES
+3. SECTION 3 - SCOPE OF SERVICES
    1. The Contractor agrees to complete the Project in accordance with all the Contract Documents referenced in Section 5 below.
  3.1 The Contractor will furnish all of the material, supplies, tools, equipment, labor and other necessary for the construction and completion of the Project described herein.
 2. The Contractor will commence the work required by the Contract Documents upon the direction of the Districts Project Representative, for the District.

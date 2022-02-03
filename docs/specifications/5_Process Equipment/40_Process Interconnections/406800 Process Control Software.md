@@ -95,7 +95,9 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Control', 'Software']
 16. Provide Operation and Maintenance Manuals.
 	1. Delivery, Storage and Handling
 17. Do not remove shipping blocks, plugs, caps, and desiccant dryers installed to protect the instrumentation during shipment until the instruments are installed and permanent connections are made. 
-   1. Product
+   
+## Products
+
 1. NEMA Type Requirements
    1. Provide enclosures/housing for control system components in accordance with the following:
 	1. Areas designated as wet: NEMA Type 4.

@@ -7,9 +7,6 @@ subgroup: General Requirements
 tags: ['General', 'Requirements', 'Definitions']
 ---
 
-   1. Section 01 42 16
-   1. definitions
-
 ## General
 
 1. SUMMARY
@@ -39,10 +36,8 @@ tags: ['General', 'Requirements', 'Definitions']
 
 ## Product 
 
- (Not Used)
-
+(Not Used)
 
 ## Execution
 
- (Not Used)
-
+(Not Used)

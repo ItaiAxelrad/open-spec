@@ -7,7 +7,4 @@ subgroup: General Requirements
 tags: ['General', 'Requirements']
 ---
 
-1. Division 01
-
-General Conditions
-
+Division 01 - General Conditions

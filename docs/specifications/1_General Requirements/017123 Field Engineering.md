@@ -7,7 +7,6 @@ subgroup: General Requirements
 tags: ['General', 'Requirements', 'Field', 'Engineering']
 ---
 
-
 ## General
 
 1. SUMMARY
@@ -18,7 +17,7 @@ tags: ['General', 'Requirements', 'Field', 'Engineering']
    1. Conditions of the Contract
    1. Section 011000 - Summary of Work
    1. Section 017800 - Project Record Documents
-   1. REFERENCES
+1. REFERENCES
    1. Existing basic horizontal and vertical control points for the Project are those designated on drawings.
    1. Locate and protect control points prior to starting work, and preserve all permanent reference points during construction. Make no changes or relocations without prior written notice to the Owner. Replace project control points which may be lost or destroyed. Establish replacements based on original control.
 1. SUBMITTALS
@@ -29,14 +28,13 @@ tags: ['General', 'Requirements', 'Field', 'Engineering']
    1. Field engineering to be performed by qualified engineer acceptable to Contractor and Owner, licensed in the State of Colorado.
 
 ## Products
- (NOT USED)
+
+(NOT USED)
 
 ## Execution
 
-   1. ERECTION INSTALLATION APPLICATION
+1. ERECTION INSTALLATION APPLICATION
    1. Establish permanent bench marks as required. Record location, with horizontal and vertical data, on Project Record Documents.
    1. Establish lines and levels, locate and lay out, by instrumentation and similar appropriate means. Provide controlling lines and levels required for mechanical and electrical trades.
    1. From time to time, verify layouts by same methods.
    1. Maintain a complete, accurate log of all control and survey work as it progresses.
-
-

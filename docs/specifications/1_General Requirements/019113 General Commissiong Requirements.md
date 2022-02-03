@@ -7,7 +7,6 @@ subgroup: General Requirements
 tags: ['General', 'Requirements', 'Commissiong']
 ---
 
-
 ## General
 
 1. SUMMARY
@@ -16,7 +15,7 @@ tags: ['General', 'Requirements', 'Commissiong']
    1. Owner will employ an independent Commissioning Agent (CA). The CA is an independent and knowledgeable third party, hired to verify that the systems work as intended. The CA will inform the Owner, Architect, and Contractor of the results of the commissioning, and provide suggestions, as necessary, to correct deficiencies in observed performance or installation.
    1. The CA will be employed directly by the Owner to perform commissioning duties. Division 22, Section “Commissioning of Plumbing”, Division 23 Section ”Commissioning of HVAC”, and Division 26 Section ”Commissioning of Electrical Systems”, outline the specific commissioning responsibilities of the Subcontractor for that division, and also obligate the General Contractor to coordinate and manage the commissioning responsibilities of those subcontractors.
    1. Refer to Specification Divisions 22, 23 and 26 and the referenced Commissioning Plan for systems and equipment to be commissioned.
-   1. REFERENCES
+1. REFERENCES
    1. Project Commissioning Plan
    1. A separate document, titled “Project Commissioning Plan” describes detailed requirements for the systems commissioning work. The Commissioning Plan shall be considered integral with these specifications, and a part of the project manual and construction Contract Documents.
    1. The contractor shall become thoroughly knowledgeable of the requirements of the Commissioning Plan, all project specifications, and the project drawings, and shall coordinate the work of all trades in the provision of the commissioning services.
@@ -47,12 +46,13 @@ tags: ['General', 'Requirements', 'Commissiong']
    1. Perform any duties of the Contractor.
    1. Stop any portion of the work.
    1. Issue or accept Change Orders.
-   1. TRAINING AND EDUCATION
+1. TRAINING AND EDUCATION
    1. Refer to individual mechanical and electrical equipment sections and the Commissioning Plan for formalized training requirements.
 
 ## Products
- – not used
+
+Not used.
 
 ## Execution
- – not used
-   
+
+Not used

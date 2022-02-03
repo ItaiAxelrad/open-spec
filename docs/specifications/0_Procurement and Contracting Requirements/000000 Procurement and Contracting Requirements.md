@@ -7,6 +7,4 @@ subgroup: Procurement and Contracting Requirements
 tags: ['Procurement', 'Contracting', 'Requirements']
 ---
 
-1. Division 00
-2. Procurement and Contracting Requirements
-
+Division 00 - Procurement and Contracting Requirements

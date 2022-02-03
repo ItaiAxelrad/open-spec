@@ -45,7 +45,9 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Hydraulic', 'Gates']
 		1. Furnish extra materials described below, prior to system start-up, that match products installed and that are packaged with protective covering for storage and identified with labels describing contents:
 			1. Stop collars: two of each different size.
 			2. Lifting nuts: two of each different size.
-   1. Product
+   
+## Products
+
 
 	1. MANUFACTURERS
 		1. Manufacturers: Subject to compliance with requirements, manufacturers offering products that may be incorporated into the Work include, but are not limited to, the following:

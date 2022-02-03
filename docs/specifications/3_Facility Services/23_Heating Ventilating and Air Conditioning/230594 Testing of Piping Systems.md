@@ -26,66 +26,63 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
 ## EXECUTION
 
 1. ERECTION, INSTALLATION, APPLICATION
-
-## General
-
- Requirements:
+   1. General Requirements:
       1. Test and adjust all parts of each system and associated equipment to work properly and leave in good operating condition. 
-   1. Notify the Architect in advance of all tests, so that the Architect may be represented at all tests, and determine that all tests are conducted to the Architect's entire satisfaction. 
-   1. Repair or replace all defects disclosed in the work by tests or otherwise uncovered without additional cost to the Owner. 
-   1. Repeat tests after any defects disclosed and repair or replace, if in the judgment of the Architect, it is deemed necessary. 
-   1. Make all repairs to piping systems with new material. No caulking on screwed joints, cracks, or holes will be acceptable. Where it becomes necessary to replace pieces of pipe, make such replacement with the same lengths as the defective pieces. 
-   1. Arrange for and pay the cost of all utilities used on tests. 
-   1. Make all tests before piping is concealed and covering is applied. 
-   1. Take all necessary precautions and protections required when testing to protect all devices, equipment and specialties when test pressures exceed the pressure testing limitations of such items. 
-   1. Underground Pipe Testing:
+   2. Notify the Architect in advance of all tests, so that the Architect may be represented at all tests, and determine that all tests are conducted to the Architect's entire satisfaction. 
+   3. Repair or replace all defects disclosed in the work by tests or otherwise uncovered without additional cost to the Owner. 
+   4. Repeat tests after any defects disclosed and repair or replace, if in the judgment of the Architect, it is deemed necessary. 
+   5. Make all repairs to piping systems with new material. No caulking on screwed joints, cracks, or holes will be acceptable. Where it becomes necessary to replace pieces of pipe, make such replacement with the same lengths as the defective pieces. 
+   6. Arrange for and pay the cost of all utilities used on tests. 
+   7. Make all tests before piping is concealed and covering is applied. 
+   8. Take all necessary precautions and protections required when testing to protect all devices, equipment and specialties when test pressures exceed the pressure testing limitations of such items. 
+   9. Underground Pipe Testing:
 	1. General:
          1. Make required tests on underground piping included in this Contract. Make tests before backfilling is started. 
    1. Aboveground Pipe Testing:
-	1. General:
+	2. General:
    1. Include in the testing requirements for the respective piping systems, applicable governing codes and insurance company requirements, and those specified. Forward a copy of code-required plumbing inspection certificates for approval. 
-   1. Make specified pressure tests as outlined below on piping included in this Contract. Make tests before piping is painted, covered, or concealed. 
-   1. Ensure that joints on lines under liquid pressure remain drop dry for a period of one hour under test pressure. Ensure that exterior surface of pipe and fittings do not show cracks, other forms of leaks, or permanent deformation. Drain pipe, other than water pipe, completely after test. 
-   1. Observe the tests after the pipe and contents have assumed ambient temperature and the source of the test pressure shut off. 
-   1. Pressure Tests on Service Piping:
-1. System
-1. Type of Test
-1. Test Pressure psi
-1. Permissible Pressure Drop psi
+   2. Make specified pressure tests as outlined below on piping included in this Contract. Make tests before piping is painted, covered, or concealed. 
+   3. Ensure that joints on lines under liquid pressure remain drop dry for a period of one hour under test pressure. Ensure that exterior surface of pipe and fittings do not show cracks, other forms of leaks, or permanent deformation. Drain pipe, other than water pipe, completely after test. 
+   4. Observe the tests after the pipe and contents have assumed ambient temperature and the source of the test pressure shut off. 
+   5. Pressure Tests on Service Piping:
+2. System
+3. Type of Test
+4. Test Pressure psi
+5. Permissible Pressure Drop psi
    1. Steam (60 psi)
-   1. Water
-   1. 225
-   1. 3 – 2 hours
-   1. Steam (60 psi) and under
-   1. Water
-   1. 100
-   1. 1 – 2 hours
-   1. Condensate
-   1. Water
-   1. 150
-   1. 2 – 2 hours
-   1. Chilled water
-   1. Water
-   1. 150
-   1. 2 – 2 hours
-   1. Condenser water
-   1. Water
-   1. 1034 (150)
-   1. 2 – 2 hours
-   1. Heating hot water
-   1. Water
-   1. 150
-   1. 2 – 2 hours
-   1. Glycol
-   1. Water
-   1. 150
-   1. 2 – hours
-   1. Air Test:
-   1. Make a preliminary test at 25 psig. If the piping is found not to have any major leaks, then, slowly increase the pressure in increments of 25 psig with 10 minutes allowed between increased pressurization for free equalization, until the test pressure is reached.
-   1. Do not exceed pressure drop specified above. 
-   1. When possible, make tests when ambient air temperature is approximately constant. 
-   1. Make corrections for pressure difference due to temperature changes. 
-   1. Use the following formula to determine air pressure change due to temperature change:
+   2. Water
+   3. 225
+   4. 3 – 2 hours
+   5. Steam (60 psi) and under
+   6. Water
+   7. 100
+   8. 1 – 2 hours
+   9. Condensate
+   10. Water
+   11. 150
+   12. 2 – 2 hours
+   13. Chilled water
+   14. Water
+   15. 150
+   16. 2 – 2 hours
+   17. Condenser water
+   18. Water
+   19. 1034 (150)
+   20. 2 – 2 hours
+   21. Heating hot water
+   22. Water
+   23. 150
+   24. 2 – 2 hours
+   25. Glycol
+   26. Water
+   27. 150
+   28. 2 – hours
+   29. Air Test:
+   30. Make a preliminary test at 25 psig. If the piping is found not to have any major leaks, then, slowly increase the pressure in increments of 25 psig with 10 minutes allowed between increased pressurization for free equalization, until the test pressure is reached.
+   31. Do not exceed pressure drop specified above. 
+   32. When possible, make tests when ambient air temperature is approximately constant. 
+   33. Make corrections for pressure difference due to temperature changes. 
+   34. Use the following formula to determine air pressure change due to temperature change:
 
 [14.7 + P1] / [14.7 + P2] = [460 + T1] / [460 + T2] 
    1. P = Pressure - psi gage. T = Temperature - degrees F. 
@@ -100,5 +97,3 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Provide expansion joints with temporary restraints if required for the additional pressure load under test, or isolated during the pressure test.
    1. Provide piping systems subject to extended hydrostatic test periods with a protective device to relieve excess pressure due to thermal expansion.
    1. Slowly charge systems receiving this test with water to the pressure specified. Ensure that exterior surface of pipe and fitting does not show cracks or other forms of leaks and shall be completely drop dry. 
-
-

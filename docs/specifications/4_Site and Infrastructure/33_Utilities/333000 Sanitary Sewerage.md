@@ -118,8 +118,7 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Sanitary', 'Sewerage']
    1. Polyethylene Piping
    1. High density polyethylene (HDPE) piping, shall meet the requirements of AWWA C906, current version. Pipe dimensions and workmanship shall be in accordance with ASTM F714 and ASTM D2122. Pipe shall be of diameter shown on the drawings, with dimension ratio (DR) of DR11, unless otherwise noted.
    1. Pipe, fittings, and joints shall meet or exceed the following physical properties:
-     1. 
-Property
+ Property
    1. ASTM  
 Test method
 

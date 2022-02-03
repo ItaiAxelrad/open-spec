@@ -102,7 +102,9 @@ Support poles to prevent distortion and arrange to provide free air circulation.
       1. Replace lamps and fuses that fail within 12 months from date of Substantial Completion; furnish replacement lamps and fuses that fail within the second 12 months from date of Substantial Completion.
 5. Warranty Period for Poles:
       1. Repair or replace lighting poles and standards that fail in finish, materials, and workmanship within manufacturer's standard warranty period, but not less than three years from date of Substantial Completion.
-   1. Product
+   
+## Products
+
 1. MANUFACTURERS
    1. In other Part 2 articles where titles below introduce lists, the following requirements apply to product selection:
          1. In Exterior Lighting Device Schedule where titles below are column or row headings that introduce lists, the following requirements apply to product selection:

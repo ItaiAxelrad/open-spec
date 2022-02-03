@@ -7,10 +7,9 @@ subgroup: General Requirements
 tags: ['General', 'Requirements', 'Startup', 'Procedures']
 ---
 
-
 ## General
 
-   1. SYSTEM DESCRIPTION
+1. SYSTEM DESCRIPTION
    1. Testing and Balancing Systems
    1. Specific requirements and procedures for starting of systems, testing, adjusting and balancing, and demonstration of systems are included in the Technical Specification Divisions where the system is specified except as follows:
       1. Equipment:
@@ -26,8 +25,9 @@ tags: ['General', 'Requirements', 'Startup', 'Procedures']
    1. Provide four (4) copies of all Operating Instructions and Maintenance Manuals 7 days prior to systems demonstrations.
 
 ## Products
- (NOT USED)
+
+(NOT USED)
 
 ## Execution
- (NOT USED)
 
+(NOT USED)

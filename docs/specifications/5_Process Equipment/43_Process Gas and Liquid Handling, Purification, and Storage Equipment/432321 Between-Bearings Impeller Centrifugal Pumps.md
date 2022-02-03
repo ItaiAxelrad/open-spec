@@ -42,7 +42,9 @@ tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Sto
 			1. One set of mechanical seals.
 			2. One set of gaskets and O-rings.
 			3. One set of V-belts.
-   1. Product
+   
+## Products
+
 
 	1. ACCEPTABLE MANUFACTURERS
 		1. Subject to compliance with requirements of these specifications and plans, manufacturers offering pumps which may be supplied for the work include the following:

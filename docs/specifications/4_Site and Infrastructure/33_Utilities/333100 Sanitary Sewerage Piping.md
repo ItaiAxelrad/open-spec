@@ -73,7 +73,6 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Sanitary', 'Sewerage', 'Piping']
       1. After lamping tests are completed, testing for water tightness shall be completed by the Contractor in the presence of the Engineer.
 	1. Air test: The Contractor must test wastewater mains by means of an air test. The Contractor’s testing procedure and equipment shall be approved by the Engineer prior to proceeding. All lines shall be pressurized in the Engineer’s presence and all pressurized lines shall have the pressure released in the Engineer’s presence. Gauges used to monitor the air test and fill and drain lines shall be located above grade not in the manhole.
 	2. The length of time for a 0.5 psig pressure drop from 3.5 psig to 3.0 psig shall not be less than the following table:
-    1. 
    1. Pipe Diameter *(inches)*
    1. 100’
    1. 150’

@@ -7,7 +7,6 @@ subgroup: General Requirements
 tags: ['General', 'Requirements', 'Summary']
 ---
 
-
 ## General
 
 1. SUMMARY
@@ -51,14 +50,13 @@ tags: ['General', 'Requirements', 'Summary']
    1. A one-year warranty is required on all work starting at Beneficial Occupancy.
 
 ## Products
- (NOT USED)
-   1. MANUFACTURERS
-   1. Approved manufacturers will be identified in each section where required.
-   1. Contractor may substitute other equal products upon Owner’s approval unless the project specifically states that no substitutions are allowed.
-   1. MATERIALS
-   1. Any salvable items as indicated on the drawings shall be removed and stored as directed by the Owner
+
+1. MANUFACTURERS
+   2. Approved manufacturers will be identified in each section where required.
+   3. Contractor may substitute other equal products upon Owner’s approval unless the project specifically states that no substitutions are allowed.
+2. MATERIALS
+   5. Any salvable items as indicated on the drawings shall be removed and stored as directed by the Owner
 
 ## Execution
+
  (NOT USED)
-
-

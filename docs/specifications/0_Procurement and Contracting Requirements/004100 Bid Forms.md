@@ -7,26 +7,16 @@ subgroup: Procurement and Contracting Requirements
 tags: ['Procurement', 'Contracting', 'Requirements', 'Bid', 'Forms']
 ---
 
-
-1. BID FORM
-
 [ARTICLE 1 - BID RECIPIENT 1](#_Toc30690053)
-
 [ARTICLE 2 - BIDDER’S ACKNOWLEDGMENTS 1](#_Toc30690054)
-
 [ARTICLE 3 - BIDDER’S REPRESENTATIONS 1](#_Toc30690055)
-
 [ARTICLE 4 - FURTHER REPRESENTATIONS 3](#_Toc30690056)
-
 [ARTICLE 5 - BASIS OF BID 3](#_Toc30690057)
-
 [ARTICLE 6 - TIME OF COMPLETION 4](#_Toc30690058)
-
 [ARTICLE 7 - ATTACHEMENTS TO THIS BID 4](#_Toc30690059)
-
 [ARTICLE 8 - DEFINED TERMS 4](#_Toc30690060)
-
 [ARTICLE 9 - BID SUBMITTAL 4](#_Toc30690061)
+
 1. Project Identification:
 	1. Contract Identification and Number**:
 

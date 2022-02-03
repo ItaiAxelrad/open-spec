@@ -243,9 +243,7 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Commissioning']
 
  **CHECKLIST GROUP COMPLETE
 1. INITIALS:
-    1. 
 1. DATE:
-    1. 
 1. Question Details
    1. Piping clean, dry, pressure tested and approved prior to application of insulation.
 2. Type and thickness of insulation complies with listed specification requirements for given system and pipe size.
@@ -352,9 +350,7 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Commissioning']
 
  **CHECKLIST GROUP COMPLETE
 1. INITIALS:
-    1. 
 1. DATE:
-    1. 
 1. Question Details
    1. Fittings, valves, unions, flanges, couplings and specialties insulated with factory molded or built up insulation of the same thickness as adjoining insulation.
 2. Insulated fittings, valves, unions, flanges, couplings and specialties covered with fabric reinforcing and mastic or where temperatures do not exceed 150F, PVC fitting covers.
@@ -442,9 +438,7 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Commissioning']
 
  **CHECKLIST GROUP COMPLETE
 1. INITIALS:
-    1. 
 1. DATE:
-    1. 
 1. Question Details
    1. All piping, valves, etc. are clean and free of damage prior to installation.
 2. Temporary protective coating is provided on cast iron and steel valves during storage.
@@ -510,9 +504,7 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Commissioning']
 
  **CHECKLIST GROUP COMPLETE
 1. INITIALS:
-    1. 
 1. DATE:
-    1. 
 1. Question Details
    1. Horizontal and vertical spacing as required by the specifications between water piping and sanitary sewer and storm drainage piping is maintained.
 2. 4” of bedding of material defined within specifications provided for given type of piping.
@@ -713,9 +705,7 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Commissioning']
 
  **CHECKLIST GROUP COMPLETE
 1. INITIALS:
-    1. 
 1. DATE:
-    1. 
 1. Question Details
    1. Piping grade is uniform between deflection points shown in contract documents.
 2. Changes in pipe sizes are made with the proper size reducing fittings, reducing elbow or reducing tees, and no bushings are utilized.
@@ -924,9 +914,7 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Commissioning']
 
  **CHECKLIST GROUP COMPLETE
 1. INITIALS:
-    1. 
 1. DATE:
-    1. 
 1. Question Details
    1. Piping is free to expand and contract without noise or damage to hangers, joints, or the building.
 2. Piping is installed in a manner to ensure that insulation will not contact adjacent surfaces.
@@ -1067,9 +1055,7 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Commissioning']
 
  **CHECKLIST GROUP COMPLETE
 1. INITIALS:
-    1. 
 1. DATE:
-    1. 
 1. Question Details
    1. Thrust restraints provided for all piping joints, hydrants, caps, plugs, fittings and bends of 22-1/2 degrees or more.
 2. Electrical continuity maintained through all fittings, valves and hydrants.
@@ -1206,9 +1192,7 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Commissioning']
 
  **CHECKLIST GROUP COMPLETE
 1. INITIALS:
-    1. 
 1. DATE:
-    1. 
 1. Question Details
    1. Piping tested utilizing water at specified pressure and duration as per specification.
 2. All leaks identified during testing have been repaired and test re-done until satisfactory conditions are accomplished.
@@ -1379,9 +1363,7 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Commissioning']
 
  **CHECKLIST GROUP COMPLETE
 1. INITIALS:
-    1. 
 1. DATE:
-    1. 
 1. Question Details
    1. Piping tested utilizing water at specified pressure and duration as per specification.
 2. All leaks identified during testing have been repaired and test re-done until satisfactory conditions are accomplished.
@@ -1537,9 +1519,7 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Commissioning']
 
  **CHECKLIST GROUP COMPLETE
 1. INITIALS:
-    1. 
 1. DATE:
-    1. 
 1. Question Details
    1. Piping labels and direction of flow is provided per specification requirements.
 2. Underground dead-end mains marked with an 8’ long 4x4 timber and steel “U” fence post.
@@ -1630,9 +1610,7 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Commissioning']
 
  **CHECKLIST GROUP COMPLETE
 1. INITIALS:
-    1. 
 1. DATE:
-    1. 
 1. Question Details
    1. All piping, etc. is clean and free of damage prior to installation.
 2. Temporary protective coating is provided on cast iron during storage.
@@ -1834,9 +1812,7 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Commissioning']
 
  **CHECKLIST GROUP COMPLETE
 1. INITIALS:
-    1. 
 1. DATE:
-    1. 
 1. Question Details
    1. Horizontal and vertical spacing as required by the specifications between water piping and sanitary sewer and storm drainage piping is maintained.
 2. Piping grade and horizontal alignment is within 0.05’ and 0.10’ respectively for each section as shown in contract documents.
@@ -1960,9 +1936,7 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Commissioning']
 
  **CHECKLIST GROUP COMPLETE
 1. INITIALS:
-    1. 
 1. DATE:
-    1. 
 1. Question Details
    1. Excavation for manhole limited to space necessary to sufficiently prepare the subgrade, set the base, set the manhole or structure, and lay pipe, but no less than 1’ between manhole wall and trench wall.
 2. 8” of crushed stone provided for manhole base.
@@ -2166,9 +2140,7 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Commissioning']
 
  **CHECKLIST GROUP COMPLETE
 1. INITIALS:
-    1. 
 1. DATE:
-    1. 
 1. Question Details
    1. Piping is free to expand and contract without noise or damage to hangers, joints, or the building.
 2. Piping is installed with sufficient pitch and arranged in a manner to ensure drainage of entire system.
@@ -2377,9 +2349,7 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Commissioning']
 
  **CHECKLIST GROUP COMPLETE
 1. INITIALS:
-    1. 
 1. DATE:
-    1. 
 1. Question Details
    1. All underground PVC piping deflection tested in accordance with specification requirements and results are acceptable.
 2. Underground piping leakage tested in accordance with Chapter 3.7.0 of Standard Specifications for Sewer and Water Construction and results are acceptable.
@@ -2473,9 +2443,7 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Commissioning']
 
  **CHECKLIST GROUP COMPLETE
 1. INITIALS:
-    1. 
 1. DATE:
-    1. 
 1. Question Details
    1. All piping, etc. is clean and free of damage prior to installation.
 2. Temporary protective coating is provided on cast iron during storage.
@@ -2677,9 +2645,7 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Commissioning']
 
  **CHECKLIST GROUP COMPLETE
 1. INITIALS:
-    1. 
 1. DATE:
-    1. 
 1. Question Details
    1. Horizontal and vertical spacing as required by the specifications between water piping and sanitary sewer and storm drainage piping is maintained.
 2. 4” of crushed stone bedding material provided.
@@ -2888,9 +2854,7 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Commissioning']
 
  **CHECKLIST GROUP COMPLETE
 1. INITIALS:
-    1. 
 1. DATE:
-    1. 
 1. Question Details
    1. Piping is free to expand and contract without noise or damage to hangers, joints, or the building.
 2. Piping is installed in a manner to ensure that insulation will not contact adjacent surfaces.
@@ -3031,9 +2995,7 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Commissioning']
 
  **CHECKLIST GROUP COMPLETE
 1. INITIALS:
-    1. 
 1. DATE:
-    1. 
 1. Question Details
    1. Excavation for structure limited to space necessary to sufficiently prepare the subgrade, set the base, set the manhole or structure, and lay pipe, but no less than 1’ between structure and trench wall.
 2. 8” of crushed stone provided for structure base.
@@ -3221,9 +3183,7 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Commissioning']
 
  **CHECKLIST GROUP COMPLETE
 1. INITIALS:
-    1. 
 1. DATE:
-    1. 
 1. Question Details
    1. All underground PVC piping deflection tested in accordance with specification requirements and results are acceptable.
 2. All underground pipes televised and results are acceptable.
@@ -3333,9 +3293,7 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Commissioning']
 
  **CHECKLIST GROUP COMPLETE
 1. INITIALS:
-    1. 
 1. DATE:
-    1. 
 1. Question Details
    1. All piping, valves, etc. are clean and free of damage prior to installation.
 2. Temporary protective coating is provided on cast iron and steel valves during storage.
@@ -3538,9 +3496,7 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Commissioning']
 
  **CHECKLIST GROUP COMPLETE
 1. INITIALS:
-    1. 
 1. DATE:
-    1. 
 1. Question Details
    1. All pipe visually inspected for damage and all damaged areas cut out, repaired, or removed.
 2. Piping trenches deep enough to provide a minimum of 4” of sand or pea gravel bedding between containment pipe and trench bottom and 4” of sand or pea gravel backfill cover when below concrete or 8” of sand or pea gravel backfill cover when below asphalt pavement.
@@ -3698,9 +3654,7 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Commissioning']
 
  **CHECKLIST GROUP COMPLETE
 1. INITIALS:
-    1. 
 1. DATE:
-    1. 
 1. Question Details
    1. Double or triple swing joints provided in the pipe lines connected to underground fuel oil tanks, except straight fill lines and test wells, to permit the tanks to settle without impairing the tightness of the pipe connections.
 2. Tank fill piping terminated at least two feet from any building wall.
@@ -3855,9 +3809,7 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Commissioning']
 
  **CHECKLIST GROUP COMPLETE
 1. INITIALS:
-    1. 
 1. DATE:
-    1. 
 1. Question Details
    1. Horizontal piping pitched down 1" in 60 feet in the direction of flow.
 2. All branch connections to the main branched from the top or side of the main.
@@ -3978,9 +3930,7 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Commissioning']
 
  **CHECKLIST GROUP COMPLETE
 1. INITIALS:
-    1. 
 1. DATE:
-    1. 
 1. Question Details
    1. All welded piping cleaned before all regulators and control valves by placing target cloth over piping and blowing compressed air through line until cloth is clean and free of debris.
 2. All valves are in an upright vertical position with handles in a horizontal position and fully operated without removal or alteration of handle.
@@ -4167,9 +4117,7 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Commissioning']
 
  **CHECKLIST GROUP COMPLETE
 1. INITIALS:
-    1. 
 1. DATE:
-    1. 
 1. Question Details
    1. Piping tested utilizing air or water at specified pressure and duration as per specification for given fuel and piping system type.
 2. For natural gas piping, testing completed with water at specified pressure and duration as per specification with no measurable loss of pressure during test period.
@@ -4234,9 +4182,7 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Commissioning']
 
  **CHECKLIST GROUP COMPLETE
 1. INITIALS:
-    1. 
 1. DATE:
-    1. 
 1. Group/Item
 1. Group/Task Description
 1. Response
@@ -4271,9 +4217,7 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Commissioning']
 
  **CHECKLIST GROUP COMPLETE
 1. INITIALS:
-    1. 
 1. DATE:
-    1. 
 
 *C*
 
@@ -4329,9 +4273,7 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Commissioning']
 
  **CHECKLIST GROUP COMPLETE
 1. INITIALS:
-    1. 
 1. DATE:
-    1. 
 
 *D*
 
@@ -4359,9 +4301,7 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Commissioning']
 
  **CHECKLIST GROUP COMPLETE
 1. INITIALS:
-    1. 
 1. DATE:
-    1. 
 
 *D*
 
@@ -4421,9 +4361,7 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Commissioning']
 
  **CHECKLIST GROUP COMPLETE
 1. INITIALS:
-    1. 
 1. DATE:
-    1. 
 
 *E*
 
@@ -4447,9 +4385,7 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Commissioning']
 
  **CHECKLIST GROUP COMPLETE
 1. INITIALS:
-    1. 
 1. DATE:
-    1. 
 
 *F*
 
@@ -4465,9 +4401,7 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Commissioning']
 
  **CHECKLIST GROUP COMPLETE
 1. INITIALS:
-    1. 
 1. DATE:
-    1. 
 
 *F*
 
@@ -4487,9 +4421,7 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Commissioning']
 
  **CHECKLIST GROUP COMPLETE
 1. INITIALS:
-    1. 
 1. DATE:
-    1. 
 1. Negative Responses
 1. Group/
 1. Item
@@ -4544,9 +4476,7 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Commissioning']
 
  **CHECKLIST GROUP COMPLETE
 1. INITIALS:
-    1. 
 1. DATE:
-    1. 
 1. Group/Item
 1. Group/Task Description
 1. Response
@@ -4581,9 +4511,7 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Commissioning']
 
  **CHECKLIST GROUP COMPLETE
 1. INITIALS:
-    1. 
 1. DATE:
-    1. 
 
 *C*
 
@@ -4611,9 +4539,7 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Commissioning']
 
  **CHECKLIST GROUP COMPLETE
 1. INITIALS:
-    1. 
 1. DATE:
-    1. 
 
 *D*
 
@@ -4641,9 +4567,7 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Commissioning']
 
  **CHECKLIST GROUP COMPLETE
 1. INITIALS:
-    1. 
 1. DATE:
-    1. 
 
 *D*
 
@@ -4695,9 +4619,7 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Commissioning']
 
  **CHECKLIST GROUP COMPLETE
 1. INITIALS:
-    1. 
 1. DATE:
-    1. 
 
 *E*
 
@@ -4721,9 +4643,7 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Commissioning']
 
  **CHECKLIST GROUP COMPLETE
 1. INITIALS:
-    1. 
 1. DATE:
-    1. 
 
 *F*
 
@@ -4739,9 +4659,7 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Commissioning']
 
  **CHECKLIST GROUP COMPLETE
 1. INITIALS:
-    1. 
 1. DATE:
-    1. 
 
 *F*
 
@@ -4761,9 +4679,7 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Commissioning']
 
  **CHECKLIST GROUP COMPLETE
 1. INITIALS:
-    1. 
 1. DATE:
-    1. 
 1. Negative Responses
 1. Group/
 1. Item
@@ -4846,9 +4762,7 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Commissioning']
 
  **CHECKLIST GROUP COMPLETE
 1. INITIALS:
-    1. 
 1. DATE:
-    1. 
 1. Question Details
    1. All piping, valves, etc. are clean and free of damage prior to installation.
 2. Temporary protective coating is provided on cast iron and steel valves during storage.
@@ -4982,9 +4896,7 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Commissioning']
 
  **CHECKLIST GROUP COMPLETE
 1. INITIALS:
-    1. 
 1. DATE:
-    1. 
 1. Question Details
    1. Bottom of excavation filled with piping manufacturer specified material.
 2. Fill beneath piping has been hand tamped following completion of joint installation.
@@ -5189,9 +5101,7 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Commissioning']
 
  **CHECKLIST GROUP COMPLETE
 1. INITIALS:
-    1. 
 1. DATE:
-    1. 
 1. Question Details
    1. Piping is free to expand and contract without noise or damage to hangers, joints, or the building.
 2. Piping is installed in a manner to ensure that insulation will not contact adjacent surfaces.
@@ -5366,9 +5276,7 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Commissioning']
 
  **CHECKLIST GROUP COMPLETE
 1. INITIALS:
-    1. 
 1. DATE:
-    1. 
 1. Question Details
    1. All valves are in an upright vertical position with handles in a horizontal position.
 2. All valves can be fully operated without removal or alteration of handle, including provisions for specified insulation thickness of piping.
@@ -5473,9 +5381,7 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Commissioning']
 
  **CHECKLIST GROUP COMPLETE
 1. INITIALS:
-    1. 
 1. DATE:
-    1. 
 1. Question Details
    1. Piping tested utilizing water at specified pressure and duration as per specification.
 2. All leaks identified during testing have been repaired and test re-done until satisfactory conditions are accomplished.
@@ -5576,9 +5482,7 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Commissioning']
 
  **CHECKLIST GROUP COMPLETE
 1. INITIALS:
-    1. 
 1. DATE:
-    1. 
 1. Question Details
    1. System filled and vented per specifications requirements for given system type.
 2. Piping labels and direction of flow is provided per specification requirements.
@@ -5666,9 +5570,7 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Commissioning']
 
  **CHECKLIST GROUP COMPLETE
 1. INITIALS:
-    1. 
 1. DATE:
-    1. 
 1. Question Details
    1. All piping, valves, etc. are clean and free of damage prior to installation.
 2. Temporary protective coating is provided on cast iron and steel valves during storage.
@@ -5870,9 +5772,7 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Commissioning']
 
  **CHECKLIST GROUP COMPLETE
 1. INITIALS:
-    1. 
 1. DATE:
-    1. 
 1. Question Details
    1. Bottom of excavation filled with piping manufacturer specified material and fill beneath piping has been hand tamped following completion of joint installation.
 2. Changes in pipe sizes are made with the proper size reducing fittings, reducing elbow or reducing tees, and no bushings are utilized.
@@ -6081,9 +5981,7 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Commissioning']
 
  **CHECKLIST GROUP COMPLETE
 1. INITIALS:
-    1. 
 1. DATE:
-    1. 
 1. Question Details
    1. Piping is free to expand and contract without noise or damage to hangers, joints, or the building.
 2. Piping is installed in a manner to ensure that insulation will not contact adjacent surfaces.
@@ -6292,9 +6190,7 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Commissioning']
 
  **CHECKLIST GROUP COMPLETE
 1. INITIALS:
-    1. 
 1. DATE:
-    1. 
 1. Question Details
    1. All valves are in an upright vertical position with handles in a horizontal position.
 2. All valves can be fully operated without removal or alteration of handle, including provisions for specified insulation thickness of piping.
@@ -6401,9 +6297,7 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Commissioning']
 
  **CHECKLIST GROUP COMPLETE
 1. INITIALS:
-    1. 
 1. DATE:
-    1. 
 1. Question Details
    1. Facility piping tested utilizing water at specified pressure and duration as per specification.
 2. All leaks identified during facility piping testing have been repaired and test re-done until satisfactory conditions are accomplished.
@@ -6487,9 +6381,7 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Commissioning']
 
  **CHECKLIST GROUP COMPLETE
 1. INITIALS:
-    1. 
 1. DATE:
-    1. 
 1. Question Details
    1. Piping labels and direction of flow is provided per specification requirements.
 2. All penetrations through fire rated wall assemblies have been sealed per specification requirements.
@@ -6593,9 +6485,7 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Commissioning']
 
  **CHECKLIST GROUP COMPLETE
 1. INITIALS:
-    1. 
 1. DATE:
-    1. 
 1. Question Details
    1. All piping, valves, etc. are clean and free of damage prior to installation.
 2. Temporary protective coating is provided on cast iron and steel valves during storage.
@@ -6797,9 +6687,7 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Commissioning']
 
  **CHECKLIST GROUP COMPLETE
 1. INITIALS:
-    1. 
 1. DATE:
-    1. 
 1. Question Details
    1. All rock, as defined by specifications, within 6” of pipe has been removed.
 2. Bottom of excavation filled with piping manufacturer specified material.
@@ -7008,9 +6896,7 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Commissioning']
 
  **CHECKLIST GROUP COMPLETE
 1. INITIALS:
-    1. 
 1. DATE:
-    1. 
 1. Question Details
    1. Piping is free to expand and contract without noise or damage to hangers, joints, or the building.
 2. Piping is installed in a manner to ensure that insulation will not contact adjacent surfaces.
@@ -7185,9 +7071,7 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Commissioning']
 
  **CHECKLIST GROUP COMPLETE
 1. INITIALS:
-    1. 
 1. DATE:
-    1. 
 1. Question Details
    1. All valves are in an upright vertical position with handles in a horizontal position.
 2. All valves can be fully operated without removal or alteration of handle, including provisions for specified insulation thickness of piping.
@@ -7292,9 +7176,7 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Commissioning']
 
  **CHECKLIST GROUP COMPLETE
 1. INITIALS:
-    1. 
 1. DATE:
-    1. 
 1. Question Details
    1. Piping tested utilizing water at specified pressure and duration as per specification for given piping and system type.
 2. All leaks identified during testing have been repaired and test re-done until satisfactory conditions are accomplished.
@@ -7395,9 +7277,7 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Commissioning']
 
  **CHECKLIST GROUP COMPLETE
 1. INITIALS:
-    1. 
 1. DATE:
-    1. 
 1. Question Details
    1. System filled and vented per specifications requirements for given system type.
 2. Piping labels and direction of flow is provided per specification requirements.

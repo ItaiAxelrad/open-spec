@@ -104,7 +104,6 @@ tags: ['Facility', 'Construction', 'Concrete', 'Reinforcing']
       1. If bars are moved more than one bar diameter, or enough to exceed the above tolerances, the resulting arrangement of bars may be rejected by Engineer. 
 2..4 Concrete Cover 
  1. Except as otherwise indicated on the Drawings, provide the following minimum concrete cover for reinforcement:
-    1. 
       1. Concrete cast against and permanently 3"
  exposed to earth: 
       1. Concrete poured in forms but exposed to earth, weather or chlorinated water:

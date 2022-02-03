@@ -7,14 +7,10 @@ subgroup: General Requirements
 tags: ['General', 'Requirements', 'Photographic', 'Documentation']
 ---
 
-
-   1. PHOTOGRAPHIC DOCUMENTATION
-
 ## General
 
 1. RELATED DOCUMENTS
-   1. Drawings, General and Special Provisions of the Contract, and Division 01 Specification
-Sections apply to this Section.
+   1. Drawings, General and Special Provisions of the Contract, and Division 01 Specification Sections apply to this Section.
 2. SUMMARY
    1. Section includes administrative and procedural requirements for the following:
       1. Preconstruction photographs.
@@ -36,7 +32,6 @@ Sections apply to this Section.
 5. COORDINATION
    1. Auxiliary Services:
       1. Cooperate with photographer and provide auxiliary services requested, including access to Project site and use of temporary facilities, including temporary lighting required to produce clear, well-lit photographs.
-
 6. USAGE RIGHTS
    1. Obtain and transfer copyright usage rights from photographer to Owner for unlimited reproduction of photographic documentation.
 

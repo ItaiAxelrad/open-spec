@@ -78,7 +78,9 @@ Sections, apply to this Section.
    1. Do not apply paint in snow, rain, fog, nor mist; when the relative humidity exceeds 85 percent;
 or at temperatures less than 5 deg F (3 deg C) above the dew point; or to damp or wet surfaces.
 1. Painting may continue during inclement weather if surfaces and areas to be painted are enclosed and heated within temperature limits specified by manufacturer during application and drying periods.
-   1. Product
+   
+## Products
+
 1. MANUFACTURERS
 	1. General:
       1. Materials specified are those that have been evaluated for the specific service.

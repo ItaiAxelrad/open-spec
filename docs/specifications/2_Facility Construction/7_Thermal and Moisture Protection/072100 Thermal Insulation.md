@@ -42,7 +42,9 @@ tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Insulat
 2. Store and protect products in accordance with manufacturer’s instructions. Protect insulation materials from moisture and soiling. Provide ventilation to prevent condensation and degradation of products.
 3. Inspection:
       1. Arrange storage of products to permit access for inspection. Periodically inspect to verify products are undamaged and are maintained in acceptable condition.
-   1. Product
+   
+## Products
+
 1. System Description
 	 1. General:
 	1. System consists of an air infiltration barrier applied to joints between materials of the exterior and interior wall framing to eliminate air infiltration into the building and the installation of insulation to reduce thermal transmission.
@@ -110,68 +112,68 @@ tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Insulat
 	3. Interface of foundation or slab and sill plate.
 	4. Interface of band joists or rim joists and plates and subfloor.
 	5. Duct shafts, utility penetrations, knee walls and flue shafts opening to exterior or unconditioned space.
-1. 3.2. Preparation
+5. Preparation
    1. Before beginning work, protect windows, plumbing fixtures, finish materials, and finish surfaces within work area by covering them with a plastic film. Secure edges of film to assure air infiltration barrier with flexible seal technology does not get behind the film.
-2. Sweep area to receive air infiltration barrier application to remove dust and other contaminants that will interfere with providing a thorough seal.
-3. Fill medium-sized gaps (gaps between 3/8 inch and 3 inches) between surfaces to be sealed with fiberglass insulation. Cover gaps greater than 3 inches with rigid, nonporous material such as gypsum board, extruded polystyrene insulation, sheathing, OSB, particle board, agrifiber particle board, or plywood secured to framing and apply sealant at the perimeter. 
-4. Comply with all manufacturer and OSHA safety regulations.
-1. Installation of Foam Sealant
+6. Sweep area to receive air infiltration barrier application to remove dust and other contaminants that will interfere with providing a thorough seal.
+7. Fill medium-sized gaps (gaps between 3/8 inch and 3 inches) between surfaces to be sealed with fiberglass insulation. Cover gaps greater than 3 inches with rigid, nonporous material such as gypsum board, extruded polystyrene insulation, sheathing, OSB, particle board, agrifiber particle board, or plywood secured to framing and apply sealant at the perimeter. 
+8. Comply with all manufacturer and OSHA safety regulations.
+9. Installation of Foam Sealant
    1. Foam sealant in accordance with manufacturer’s instruction, including compliance with instructions for safety, preparation, and application of products. Apply continuously and evenly to joints in the following conditions:
-	1. At penetrations between conditioned and unconditioned spaces.
-	2. At interface between the sheathing and stud where a sheathing seam is known to exist.
-	3. At the interface between windows/doors and the framed opening.
-	4. On the face of all top plates of exterior walls.
-	5. On the face of all top plates of interior walls adjacent to the unconditioned attic space.
-	6. At interface between the sill plate and foundation.
-	7. At interface between the bottom plate and the sheathing.
-	8. At interface between the top plate and the sheathing.
-	9. At interface between the bottom plate and the subfloor or slab for first floor of slab-on-grade construction.
-	10. At any horizontal, mid-cavity sheathing seams.
-	11. At joist bays connecting exterior to conditioned space, such as at garage, porch, or overhang (block and seal).
-	12. At attic knee-walls (block and seal).
-	13. At insulated floor of room above unconditioned space.
-	14. At interface between the band joist and the plate below it.
-	15. At interface between the band joist and the subfloor above it.
-2. Seal those gaps and penetrations filled with loose fill insulation during preparation and thoroughly cover them with foam sealant.
-3. Do not install foam sealant within 3 inches of a heat source with exception of recessed light fixtures, which may be sealed at the interface with the drywall. 
-1. Installation of Insulation, General
+	6. At penetrations between conditioned and unconditioned spaces.
+	7. At interface between the sheathing and stud where a sheathing seam is known to exist.
+	8. At the interface between windows/doors and the framed opening.
+	9. On the face of all top plates of exterior walls.
+	10. On the face of all top plates of interior walls adjacent to the unconditioned attic space.
+	11. At interface between the sill plate and foundation.
+	12. At interface between the bottom plate and the sheathing.
+	13. At interface between the top plate and the sheathing.
+	14. At interface between the bottom plate and the subfloor or slab for first floor of slab-on-grade construction.
+	15. At any horizontal, mid-cavity sheathing seams.
+	16. At joist bays connecting exterior to conditioned space, such as at garage, porch, or overhang (block and seal).
+	17. At attic knee-walls (block and seal).
+	18. At insulated floor of room above unconditioned space.
+	19. At interface between the band joist and the plate below it.
+	20. At interface between the band joist and the subfloor above it.
+10. Seal those gaps and penetrations filled with loose fill insulation during preparation and thoroughly cover them with foam sealant.
+11. Do not install foam sealant within 3 inches of a heat source with exception of recessed light fixtures, which may be sealed at the interface with the drywall. 
+12. Installation of Insulation, General
    1. Install insulation system according to manufacturer’s instructions, including compliance with instructions for safety, preparation, and application of products.
-2. Comply with local code requirements, and 2009 IECC requirements indicated on Table 402.4.2 Air Barrier and Insulation Inspection Component Criteria.
-3. Do not install insulation on top of or within 3 inches of recessed light fixtures unless the fixtures are approved for such use.
-4. Install exterior thermal envelope insulation for framed walls in substantial contact and in continuous alignment with building envelope vapor retarder or air barrier.
-5. Install vapor retarder air barrier in dropped ceilings and soffits in substantial alignment with insulation.
-6. Install insulation at band joists or rim joists.
-7. Within exterior wall framing, install insulation between pipes and backside of sheathing. Cut insulation material as required to fit around wiring and plumbing.
-1. Installation of Loose Fill Insulation
+13. Comply with local code requirements, and 2009 IECC requirements indicated on Table 402.4.2 Air Barrier and Insulation Inspection Component Criteria.
+14. Do not install insulation on top of or within 3 inches of recessed light fixtures unless the fixtures are approved for such use.
+15. Install exterior thermal envelope insulation for framed walls in substantial contact and in continuous alignment with building envelope vapor retarder or air barrier.
+16. Install vapor retarder air barrier in dropped ceilings and soffits in substantial alignment with insulation.
+17. Install insulation at band joists or rim joists.
+18. Within exterior wall framing, install insulation between pipes and backside of sheathing. Cut insulation material as required to fit around wiring and plumbing.
+19. Installation of Loose Fill Insulation
 
-   1. Install loose fill insulation in accordance with ASTM C 1015.
-2. Install to uniform, level thickness. Do not compact.
-1. Installation of Batt Insulation
-   1. Install batt insulation in accordance with ASTM C 1320.
-2. If eave ventilation baffles are required, install ventilation baffles at eaves to hold insulation down from roof sheathing and provide positive ventilation from eave to attic space.
-3. Install in exterior walls, roof and ceiling spaces without gaps or voids. Fluff insulation to full thickness for specified R-value before installation. Do not compress insulation.
-4. Trim insulation neatly to fit spaces. Insulate miscellaneous gaps and voids.
-5. Fit insulation tight in spaces and tight to exterior side of mechanical and electrical services within the plane of insulation.
-6. For unfaced batt insulation, install with friction fit or retain in place with manufacturer’s recommended fasteners or mesh.
-7. For batt insulation with factory-applied facing, install with vapor retarder membrane facing warm side of building spaces. 
-	1. Lap ends and side flanges of membrane over or between framing members. 
-	2. Tape seal butt ends, lapped flanges, and tears or cuts in membrane. 
-	3. Secure insulation in place using one of the following methods:
+   2. Install loose fill insulation in accordance with ASTM C 1015.
+20. Install to uniform, level thickness. Do not compact.
+21. Installation of Batt Insulation
+   3. Install batt insulation in accordance with ASTM C 1320.
+22. If eave ventilation baffles are required, install ventilation baffles at eaves to hold insulation down from roof sheathing and provide positive ventilation from eave to attic space.
+23. Install in exterior walls, roof and ceiling spaces without gaps or voids. Fluff insulation to full thickness for specified R-value before installation. Do not compress insulation.
+24. Trim insulation neatly to fit spaces. Insulate miscellaneous gaps and voids.
+25. Fit insulation tight in spaces and tight to exterior side of mechanical and electrical services within the plane of insulation.
+26. For unfaced batt insulation, install with friction fit or retain in place with manufacturer’s recommended fasteners or mesh.
+27. For batt insulation with factory-applied facing, install with vapor retarder membrane facing warm side of building spaces. 
+	21. Lap ends and side flanges of membrane over or between framing members. 
+	22. Tape seal butt ends, lapped flanges, and tears or cuts in membrane. 
+	23. Secure insulation in place using one of the following methods:
 		1. Friction fit.
 		2. Staple or nail facing flanges in place as needed.
 		3. Tape in place.
 		4. Retain in place with spindle fasteners.
 		5. Retain in place with wire mesh secured to framing members.
-1. Installation of Separate Vapor Retarder
+28. Installation of Separate Vapor Retarder
    1. Vapor Retarder Installation:
-	1. For wood framing, place vapor retarder on warm side of insulation by stapling or nailing 6 inches on center. Lap and seal joints over member face.
-	2. Place fasteners at manufacturer’s recommended spacing. Tape seal tears or cuts.
-	3. Extend tight to full perimeter of adjacent window and door frames and other items interrupting the plane of membrane. Tape seal in place.
-2. Vapor Retarder Installation:
+	24. For wood framing, place vapor retarder on warm side of insulation by stapling or nailing 6 inches on center. Lap and seal joints over member face.
+	25. Place fasteners at manufacturer’s recommended spacing. Tape seal tears or cuts.
+	26. Extend tight to full perimeter of adjacent window and door frames and other items interrupting the plane of membrane. Tape seal in place.
+29. Vapor Retarder Installation:
       1. Comply with manufacturer requirements.
-1. Cleaning
+30. Cleaning
    1. Remove protective plastic film coverings from adjacent materials.
-2. Clean unintended sealant materials, equipment, and fixtures.
-3. Remove damaged materials, equipment, and fixtures if sealant cannot be cleaned without blemish and install new materials, equipment, and fixtures identical to item before damage occurred.
-4. Remove waste materials from the site.
+31. Clean unintended sealant materials, equipment, and fixtures.
+32. Remove damaged materials, equipment, and fixtures if sealant cannot be cleaned without blemish and install new materials, equipment, and fixtures identical to item before damage occurred.
+33. Remove waste materials from the site.
 

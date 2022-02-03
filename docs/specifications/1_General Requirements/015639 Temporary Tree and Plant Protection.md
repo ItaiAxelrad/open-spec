@@ -7,9 +7,6 @@ subgroup: General Requirements
 tags: ['General', 'Requirements', 'Temporary', 'Tree', 'Plant', 'Protection']
 ---
 
-
-   1. Temporary Tree and Plant Protection
-
 ## General
 
 1. SUMMARY
@@ -19,7 +16,7 @@ tags: ['General', 'Requirements', 'Temporary', 'Tree', 'Plant', 'Protection']
 	2. General Requirements
 3. Contractor shall flag trees to be removed as well as trees to remain, prior to construction as directed by the Project Engineer. Trees located in the City Right of Way that are proposed for removal but are not shown to be removed on the Drawings shall be approved for removal by the City Engineer. Marking flags for each designation shall be distinctly different colored, as approved by the Project Engineer.
 4. There should be daily supervision of field crews by the Project Engineer or Project Consulting Arborist during the critical phases of the project, for example:
-      1. demolition of existing concrete; root pruning; construction of retaining walls and construction of new curb or sidewalk in tree protection areas. Owner shall be responsible for retaining Project Consulting Arborist for applicable phases of the project.
+  1. demolition of existing concrete; root pruning; construction of retaining walls and construction of new curb or sidewalk in tree protection areas. Owner shall be responsible for retaining Project Consulting Arborist for applicable phases of the project.
 5. If it appears that the completion of the construction may cause damage to the branches of any tree, the Contractor shall contact the Project Engineer. The Project Engineer will make a determination as to whether such damage is eminent.
 6. To prevent or minimize soil compaction, designated routes for equipment and foot traffic by work crews shall be determined prior to commencing construction activities, and shall be indicated in the tree protection plan to be submitted by Contractor. These routes shall be marked at the site, prior to commencement of construction, with tree protection fencing and signage as specified in this section.
 7. Motorized equipment and trailers, including tractors, bobcats, bulldozers, trackhoes, trucks, cars, and carts shall not be allowed access within tree protection areas. Should access be necessary within designated tree protection areas, the existing grade shall be covered with six (6) to eight (8) inches of wood mulch to help distribute the weight of equipment and to minimize soil compaction and rutting. Plywood and/or mulch is not acceptable bridging material for driving over exposed tree roots. Exposed tree roots shall not be driven over. The Project Engineer or Project Consulting Arborist shall be notified and shall approve of the access and driving surface prior to its use.
@@ -45,8 +42,7 @@ tags: ['General', 'Requirements', 'Temporary', 'Tree', 'Plant', 'Protection']
 
 ## Product 
 
- (Not Used)
-
+(Not Used)
 
 ## Execution
 
@@ -122,26 +118,25 @@ tags: ['General', 'Requirements', 'Temporary', 'Tree', 'Plant', 'Protection']
 	3. Tree protection fencing shall be installed prior to any site activity and shall remain until its removal is authorized by the Project Engineer or Project Consulting Arborist.
 3. Tree Protection Signage:
       1. A sign shall be mounted on tree protection fencing at fifty (50) foot intervals warning constructing personnel and the public to keep out of the tree protection areas.
-1. 3.6** **Project Site Monitoring
+4. Project Site Monitoring
    1. As determined by the Project Engineer for projects of sufficient size to warrant such, a Project Consulting Arborist should be retained to enforce and monitor the Tree Retention and Protection objectives. The project site should be monitored a minimum of two (2) times weekly-more frequently at the start of the project until all procedures and specifications are understood and properly executed by all parties. Specific monitoring schedules should be developed at preconstruction meetings and modified as deemed necessary by the appropriate parties.
-1. Injuries to Existing Plants – Damage Penalties
+5. Injuries to Existing Plants – Damage Penalties
    1. Tree and High Value Shrub Appraisal
-	1. All trees and high-value shrubs will evaluated and appraised by the Project Engineer or Project Consulting Arborist, and a list of all tree values for the project will be on file in the Construction Manager's office. Any tree or other plant requiring retention or protection that is not on the list shall be appraised by the Project Engineer or Project Consulting Arborist as necessary to comply with this damage penalty.
+	4. All trees and high-value shrubs will evaluated and appraised by the Project Engineer or Project Consulting Arborist, and a list of all tree values for the project will be on file in the Construction Manager's office. Any tree or other plant requiring retention or protection that is not on the list shall be appraised by the Project Engineer or Project Consulting Arborist as necessary to comply with this damage penalty.
 		1. Documentation for appraisals will consist of: a. measurement of plant size
 		2. Identification by common and botanical names
 		3. Current condition (overall health, injuries, overt hazard status, etc.)
 		4. Location factors as described in the "Guide for Plant Appraisal". Photographs may be taken of certain trees and shrubs to document debilitating condition factors.
-	2. The threshold level for plants to be appraised shall be $100.00; only those trees and shrubs estimated to have a monetary value greater than $100.00 shall be appraised.
-	3. Trees and other plants designated as requiring retention or protection shall be identified and located on construction plans. Loss of, or partial injury to, any of these plants due to Contractor neglect or improper construction activities will result in liquidated damages for the assessed value of the tree as determined by the Project Engineer or Project Consulting Arborist.
-	4. Trees determined as requiring “general protection” or “special protection” in the construction areas and in other key locations should be clearly identified by the Project Engineer or Project Consulting Arborist. Loss or partial injury to any of these trees due to Contractor neglect or improper construction activities will result in liquidated damages for the assessed value of the trees as determined by the Project Engineer or Project Consulting Arborist. Injury to a portion of these trees will be assessed by the Project Engineer or Project Consulting Arborist and a corresponding portion of the liquidated damages will be assessed to the Contractor.
-	5. A fine of one-thousand dollars ($1,000.00) will be levied against the Contractor for each incident of construction damage (including construction traffic) within designated tree protection areas. Any fine shall be independent of any applicable liquidated damages for the assessed value of the tree or tree part.
-	6. Trees or roots visibly and unnecessarily injured will cause the Owner to withhold from the Contractor an assessed amount conforming to the requirements stipulated above, for a period of one full year. After that period the impact of the injury to any tree will be assessed by the Project Engineer or the Project Consulting Arborist.
-	7. If any trees or shrubs designated to be retained or protected are injured and replacement is justified, a number and equivalent diameter inches of trees or shrubs of same or similar species shall be furnished and planted by the Contractor. The total inch diameter of the replacement plant(s) shall equal the diameter of the plant(s) to be replaced, in accordance with the "Guide for Plant Appraisal".
-1. Submittals
+	5. The threshold level for plants to be appraised shall be $100.00; only those trees and shrubs estimated to have a monetary value greater than $100.00 shall be appraised.
+	6. Trees and other plants designated as requiring retention or protection shall be identified and located on construction plans. Loss of, or partial injury to, any of these plants due to Contractor neglect or improper construction activities will result in liquidated damages for the assessed value of the tree as determined by the Project Engineer or Project Consulting Arborist.
+	7. Trees determined as requiring “general protection” or “special protection” in the construction areas and in other key locations should be clearly identified by the Project Engineer or Project Consulting Arborist. Loss or partial injury to any of these trees due to Contractor neglect or improper construction activities will result in liquidated damages for the assessed value of the trees as determined by the Project Engineer or Project Consulting Arborist. Injury to a portion of these trees will be assessed by the Project Engineer or Project Consulting Arborist and a corresponding portion of the liquidated damages will be assessed to the Contractor.
+	8. A fine of one-thousand dollars ($1,000.00) will be levied against the Contractor for each incident of construction damage (including construction traffic) within designated tree protection areas. Any fine shall be independent of any applicable liquidated damages for the assessed value of the tree or tree part.
+	9. Trees or roots visibly and unnecessarily injured will cause the Owner to withhold from the Contractor an assessed amount conforming to the requirements stipulated above, for a period of one full year. After that period the impact of the injury to any tree will be assessed by the Project Engineer or the Project Consulting Arborist.
+	10. If any trees or shrubs designated to be retained or protected are injured and replacement is justified, a number and equivalent diameter inches of trees or shrubs of same or similar species shall be furnished and planted by the Contractor. The total inch diameter of the replacement plant(s) shall equal the diameter of the plant(s) to be replaced, in accordance with the "Guide for Plant Appraisal".
+6. Submittals
    1. Proposed methods and schedule for effectuating tree and other plant protection shall be submitted for approval. Contractor shall submit construction schedule which includes a time frame for work near existing plants. Approval of such shall be obtained from the Project Engineer prior to commencement of construction near tree protection areas.
-2. Proposed methods, materials, and schedule for root pruning, branch pruning, and other tree maintenance shall be submitted for approval. The Project Engineer or Project Consulting Arborist shall mark the location of root pruning lines in the field prior to the operation. If possible, root pruning should occur between autumnal leaf fall and spring foliation. Root pruning during the growing season shall require approval of the Project Engineer or Project Consulting Arborist.
-1. Tree and Other Plant Maintenance During and After Completion of Construction
-	1. Proper maintenance should include, but without limitation to:
+7. Proposed methods, materials, and schedule for root pruning, branch pruning, and other tree maintenance shall be submitted for approval. The Project Engineer or Project Consulting Arborist shall mark the location of root pruning lines in the field prior to the operation. If possible, root pruning should occur between autumnal leaf fall and spring foliation. Root pruning during the growing season shall require approval of the Project Engineer or Project Consulting Arborist.
+8. Tree and Other Plant Maintenance During and After Completion of Construction
+	11. Proper maintenance should include, but without limitation to:
       1. structural and remedial pruning; watering; mulching; remediating soil compaction; fertilization; insect and disease control; soil and tissue analysis; aeration; and wound treatment. Contractor shall maintain existing trees during and after completion of construction and during the warranty period.
-2. The timing duration and frequency of necessary maintenance practices should be determined by the Project Engineer or Project Consulting Arborist, based on factors associated with the site and affected plants.
-
+9. The timing duration and frequency of necessary maintenance practices should be determined by the Project Engineer or Project Consulting Arborist, based on factors associated with the site and affected plants.

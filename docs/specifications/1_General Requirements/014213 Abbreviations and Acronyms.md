@@ -7,9 +7,6 @@ subgroup: General Requirements
 tags: ['General', 'Requirements', 'Abbreviations', 'Acronyms']
 ---
 
-   1. Section 01 42 13
-   1. Abbreviations and Acronyms
-
 ## General
 
 1. SUMMARY
@@ -169,357 +166,352 @@ tags: ['General', 'Requirements', 'Abbreviations', 'Acronyms']
    1. GC-MS
    1. Gas chromatography and mass spectrometry
    1. GD
-
-## General
-
- duty
-   1. GFCI
-   1. Ground-fault circuit interrupter
-   1. gm/cc
-   1. Grams per cubic centimeter
-   1. gpd
-   1. Gallons per day
-   1. gpd/cuft
-   1. Gallons per day per cubic foot
-   1. gpd/sqft
-   1. Gallons per day per square foot
-   1. gph
-   1. Gallons per hour
-   1. gpm
-   1. Gallons per minute
-   1. gps
-   1. Gallons per second
-   1. gr
-   1. Grain(s)
-   1. HD
-   1. Heavy duty
-   1. hgt
-   1. Height
-   1. HID
-   1. High-intensity discharge
-   1. HOA switch
-   1. Hand-off-auto selector switch
-   1. hp
-   1. Horsepower
-   1. hp-hr
-   1. Horsepower-hour
-   1. hr
-   1. Hour(s)
-   1. Hz
-   1. Hertz
-   1. ID
-   1. Inside diameter
-   1. IMC
-   1. Intermediate metal conduit
-   1. in
-   1. Inch(es)
-   1. ips
-   1. Inches per second
-   1. JTU
-   1. Jackson turbidity unit(s)
-   1. K
-   1. Kelvin
-   1. kA
-   1. Kiloamperes
-   1. kcmil
-   1. Thousand circular mils
-   1. kg
-   1. Kilogram(s)
-   1. km
-   1. Kilometer(s)
-   1. kV
-   1. Kilovolt(s)
-   1. kVA
-   1. Kilovolt ampere(s)
-   1. kvar
-   1. Kilovar (kilovolt amperes reactive)
-   1. kW
-   1. Kilowatt(s)
-   1. kWh
-   1. Kilowatt hour(s)
-   1. L
-   1. Liter(s)
-   1. lb
-   1. Pound(s)
-   1. lbs/day
-   1. Pounds per day
-   1. lbs/day/cuft
-   1. Pounds per day per cubic foot
-   1. lbs/day/sqft
-   1. Pounds per day per square foot
-   1. LED
-   1. Light Emitting Diode
-   1. LER
-   1. Luminaire efficiency rating
-   1. LFMC
-   1. Liquidtight flexible metal conduit
-   1. LFNC
-   1. Liquidtight flexible nonmetallic conduit
-   1. linft
-   1. Linear foot (feet)
-   1. LOFO
-   1. Last on, first off
-   1. LOLO
-   1. Last on, last off
-   1. LOR switch
-   1. Local-off-remote selector switch
-   1. m
-   1. Meter(s)
-   1. mA
-   1. Milliampere(s)
-   1. Mbh
-   1. Thousand btu per hour
-   1. Mcf
-   1. Thousand cubic feet
-   1. MCP
-   1. Master control panel
-   1. mg
-   1. Milligram(s)
-   1. MG
-   1. Million gallons
-   1. mg/L
-   1. Milligrams per liter
-   1. mgd
-   1. Million gallons per day
-   1. min
-   1. Minute(s)
-   1. mL
-   1. Milliliter(s)
-   1. MLSS
-   1. Mixed liquor suspended solids
-   1. mm
-   1. Millimeter(s)
-   1. mph
-   1. Miles per hour
-   1. ms
-   1. Millisecond(s)
-   1. MSD 
-   1. Military Standardization Documents 
-   1. mV
-   1. Millivolt(s)
-   1. MVA
-   1. Megavolt ampere(s)
-   1. NBR
-   1. Acrylonitrile-butadiene rubber
-   1. nc
-   1. Noise criteria
-   1. no
-   1. Number
-   1. NPSH
-   1. Net positive suction head
-   1. NPSHR
-   1. Net Positive Suction Head Required
-   1. NRC
-   1. Noise reduction coefficient
-   1. NTU
-   1. Nephelometric turbidity unit
-   1. O&M
-   1. Operation and Maintenance
-   1. oa
-   1. Outside air
-   1. OD
-   1. Outside diameter
-   1. OI(s)
-   1. Operator interface(s)
-   1. oz
-   1. Ounce(s)
-   1. P&ID(s)
-   1. Piping & instrument diagram(s)
-   1. pcf
-   1. Pounds per cubic foot
-   1. pcf/hr
-   1. Pounds per cubic foot per hour
-   1. pct
-   1. Percent
-   1. PF
-   1. Power factor
-   1. pH
-   1. Hydrogen ion concentration
-   1. ph
-   1. Phase (electrical)
-   1. PLC(s)
-   1. Programmable logic controller(s)
-   1. ppb
-   1. Parts per billion
-   1. ppm
-   1. Parts per million
-   1. psf
-   1. Pounds per square foot
-   1. psf/hr
-   1. Pounds per square foot per hour
-   1. psi
-   1. Pounds per square inch
-   1. psia
-   1. Pounds per square inch absolute
-   1. psig
-   1. Pounds per square inch gauge
-   1. PTFE
-   1. Polytetrafluoroethylene
-   1. PVC
-   1. Polyvinyl chloride
-   1. PVDF
-   1. Polyvinylidene fluoride
-   1. qt
-   1. Quart(s)
-   1. R
-   1. Rankine
-   1. ra
-   1. Return air
-   1. RCR
-   1. Room cavity ratio
-   1. res
-   1. Resistance
-   1. rev
-   1. Revolution(s)
-   1. RFI
-   1. Radio-frequency interference
-   1. rh
-   1. Humidity, relative
-   1. rh
-   1. Relative humidity
-   1. RMC
-   1. Rigid metal conduit
-   1. RMS
-   1. Root mean square
-   1. RNC
-   1. Rigid nonmetallic conduit
-   1. rpm
-   1. Revolutions per minute
-   1. rps
-   1. Revolutions per second
-   1. RPTFE
-   1. Reinforced PolyTetraFluoroEthylene
-   1. sa
-   1. Supply air
-   1. SC
-   1. Shading coefficient
-   1. SCADA
-   1. Supervisory control and data acquisition
-   1. scfm
-   1. Cubic feet per minute, standard conditions
-   1. SDI
-   1. Sludge density index
-   1. sec
-   1. Second(s)
-   1. sf
-   1. Safety factor
-   1. Sp Vol
-   1. Specific volume
-   1. SPDT
-   1. Single pole, double throw
-   1. spgr
-   1. Specific gravity
-   1. sq
-   1. Square
-   1. sqcm
-   1. Square centimeter(s)
-   1. sqft
-   1. Square foot (feet)
-   1. sqin
-   1. Square inch (es)
-   1. sqm
-   1. Square meter(s)
-   1. sqyd
-   1. Square yard(s)
-   1. SS
-   1. Suspended solids
-   1. STC
-   1. Sound transmission coefficient
-   1. std
-   1. Standard
-   1. stpr
-   1. Static pressure
-   1. SVR
-   1. Suppressed voltage rating
-   1. TD
-   1. Temperature difference
-   1. TDH
-   1. Total Dynamic Head
-   1. TDS
-   1. Total dissolved solids
-   1. TE
-   1. Temperature entering
-   1. TEFC
-   1. Totally Enclosed Fan Cooled
-   1. temp
-   1. Temperature
-   1. TKN
-   1. Total kjeldahl nitrogen
-   1. TL
-   1. Temperature leaving
-   1. TLV
-   1. Threshold limit value
-   1. TOD
-   1. Total oxygen demand
-   1. TP
-   1. Total pressure
-   1. TRQ
-   1. Tons torque
-   1. TS
-   1. Total solids
-   1. TSS
-   1. Total suspended solids
-   1. TVS
-   1. Total volatile solids
-   1. TVSS
-   1. Transient voltage surge suppressor
-   1. U
-   1. Heat transfer coefficient
-   1. ug/L
-   1. Micrograms per liter
-   1. UPS(s)
-   1. Uninterruptible power supply(ies)
-   1. UTP
-   1. Unshielded twisted pair
-   1. V
-   1. Volt(s)
-   1. VA
-   1. Volts ampere(s)
-   1. vac
-   1. Vacuum
-   1. vappr
-   1. Pressure, vapor
-   1. VFD
-   1. Variable Frequency Drive
-   1. visc
-   1. Viscosity
-   1. VOC
-   1. Volatile organic chemical
-   1. vol
-   1. Volume
-   1. vp
-   1. Pressure, dynamic (velocity)
-   1. VS
-   1. Volatile solids
-   1. VSS
-   1. Volatile suspended solids
-   1. W
-   1. Watt(s)
-   1. WB
-   1. Wet bulb
-   1. WBT
-   1. Wet bulb temperature
-   1. Wh
-   1. Watthour(s)
-   1. WHD
-   1. Watt hour demand
-   1. WHDM
-   1. Watt hour demand meter
-   1. wk
-   1. Week(s)
-   1. wt
-   1. Weight
-   1. yd
-   1. Yard(s)
-   1. yr
-   1. Year(s)
+   2. General duty
+   3. GFCI
+   4. Ground-fault circuit interrupter
+   5. gm/cc
+   6. Grams per cubic centimeter
+   7. gpd
+   8. Gallons per day
+   9. gpd/cuft
+   10. Gallons per day per cubic foot
+   11. gpd/sqft
+   12. Gallons per day per square foot
+   13. gph
+   14. Gallons per hour
+   15. gpm
+   16. Gallons per minute
+   17. gps
+   18. Gallons per second
+   19. gr
+   20. Grain(s)
+   21. HD
+   22. Heavy duty
+   23. hgt
+   24. Height
+   25. HID
+   26. High-intensity discharge
+   27. HOA switch
+   28. Hand-off-auto selector switch
+   29. hp
+   30. Horsepower
+   31. hp-hr
+   32. Horsepower-hour
+   33. hr
+   34. Hour(s)
+   35. Hz
+   36. Hertz
+   37. ID
+   38. Inside diameter
+   39. IMC
+   40. Intermediate metal conduit
+   41. in
+   42. Inch(es)
+   43. ips
+   44. Inches per second
+   45. JTU
+   46. Jackson turbidity unit(s)
+   47. K
+   48. Kelvin
+   49. kA
+   50. Kiloamperes
+   51. kcmil
+   52. Thousand circular mils
+   53. kg
+   54. Kilogram(s)
+   55. km
+   56. Kilometer(s)
+   57. kV
+   58. Kilovolt(s)
+   59. kVA
+   60. Kilovolt ampere(s)
+   61. kvar
+   62. Kilovar (kilovolt amperes reactive)
+   63. kW
+   64. Kilowatt(s)
+   65. kWh
+   66. Kilowatt hour(s)
+   67. L
+   68. Liter(s)
+   69. lb
+   70. Pound(s)
+   71. lbs/day
+   72. Pounds per day
+   73. lbs/day/cuft
+   74. Pounds per day per cubic foot
+   75. lbs/day/sqft
+   76. Pounds per day per square foot
+   77. LED
+   78. Light Emitting Diode
+   79. LER
+   80. Luminaire efficiency rating
+   81. LFMC
+   82. Liquidtight flexible metal conduit
+   83. LFNC
+   84. Liquidtight flexible nonmetallic conduit
+   85. linft
+   86. Linear foot (feet)
+   87. LOFO
+   88. Last on, first off
+   89. LOLO
+   90. Last on, last off
+   91. LOR switch
+   92. Local-off-remote selector switch
+   93. m
+   94. Meter(s)
+   95. mA
+   96. Milliampere(s)
+   97. Mbh
+   98. Thousand btu per hour
+   99. Mcf
+   100. Thousand cubic feet
+   101. MCP
+   102. Master control panel
+   103. mg
+   104. Milligram(s)
+   105. MG
+   106. Million gallons
+   107. mg/L
+   108. Milligrams per liter
+   109. mgd
+   110. Million gallons per day
+   111. min
+   112. Minute(s)
+   113. mL
+   114. Milliliter(s)
+   115. MLSS
+   116. Mixed liquor suspended solids
+   117. mm
+   118. Millimeter(s)
+   119. mph
+   120. Miles per hour
+   121. ms
+   122. Millisecond(s)
+   123. MSD 
+   124. Military Standardization Documents 
+   125. mV
+   126. Millivolt(s)
+   127. MVA
+   128. Megavolt ampere(s)
+   129. NBR
+   130. Acrylonitrile-butadiene rubber
+   131. nc
+   132. Noise criteria
+   133. no
+   134. Number
+   135. NPSH
+   136. Net positive suction head
+   137. NPSHR
+   138. Net Positive Suction Head Required
+   139. NRC
+   140. Noise reduction coefficient
+   141. NTU
+   142. Nephelometric turbidity unit
+   143. O&M
+   144. Operation and Maintenance
+   145. oa
+   146. Outside air
+   147. OD
+   148. Outside diameter
+   149. OI(s)
+   150. Operator interface(s)
+   151. oz
+   152. Ounce(s)
+   153. P&ID(s)
+   154. Piping & instrument diagram(s)
+   155. pcf
+   156. Pounds per cubic foot
+   157. pcf/hr
+   158. Pounds per cubic foot per hour
+   159. pct
+   160. Percent
+   161. PF
+   162. Power factor
+   163. pH
+   164. Hydrogen ion concentration
+   165. ph
+   166. Phase (electrical)
+   167. PLC(s)
+   168. Programmable logic controller(s)
+   169. ppb
+   170. Parts per billion
+   171. ppm
+   172. Parts per million
+   173. psf
+   174. Pounds per square foot
+   175. psf/hr
+   176. Pounds per square foot per hour
+   177. psi
+   178. Pounds per square inch
+   179. psia
+   180. Pounds per square inch absolute
+   181. psig
+   182. Pounds per square inch gauge
+   183. PTFE
+   184. Polytetrafluoroethylene
+   185. PVC
+   186. Polyvinyl chloride
+   187. PVDF
+   188. Polyvinylidene fluoride
+   189. qt
+   190. Quart(s)
+   191. R
+   192. Rankine
+   193. ra
+   194. Return air
+   195. RCR
+   196. Room cavity ratio
+   197. res
+   198. Resistance
+   199. rev
+   200. Revolution(s)
+   201. RFI
+   202. Radio-frequency interference
+   203. rh
+   204. Humidity, relative
+   205. rh
+   206. Relative humidity
+   207. RMC
+   208. Rigid metal conduit
+   209. RMS
+   210. Root mean square
+   211. RNC
+   212. Rigid nonmetallic conduit
+   213. rpm
+   214. Revolutions per minute
+   215. rps
+   216. Revolutions per second
+   217. RPTFE
+   218. Reinforced PolyTetraFluoroEthylene
+   219. sa
+   220. Supply air
+   221. SC
+   222. Shading coefficient
+   223. SCADA
+   224. Supervisory control and data acquisition
+   225. scfm
+   226. Cubic feet per minute, standard conditions
+   227. SDI
+   228. Sludge density index
+   229. sec
+   230. Second(s)
+   231. sf
+   232. Safety factor
+   233. Sp Vol
+   234. Specific volume
+   235. SPDT
+   236. Single pole, double throw
+   237. spgr
+   238. Specific gravity
+   239. sq
+   240. Square
+   241. sqcm
+   242. Square centimeter(s)
+   243. sqft
+   244. Square foot (feet)
+   245. sqin
+   246. Square inch (es)
+   247. sqm
+   248. Square meter(s)
+   249. sqyd
+   250. Square yard(s)
+   251. SS
+   252. Suspended solids
+   253. STC
+   254. Sound transmission coefficient
+   255. std
+   256. Standard
+   257. stpr
+   258. Static pressure
+   259. SVR
+   260. Suppressed voltage rating
+   261. TD
+   262. Temperature difference
+   263. TDH
+   264. Total Dynamic Head
+   265. TDS
+   266. Total dissolved solids
+   267. TE
+   268. Temperature entering
+   269. TEFC
+   270. Totally Enclosed Fan Cooled
+   271. temp
+   272. Temperature
+   273. TKN
+   274. Total kjeldahl nitrogen
+   275. TL
+   276. Temperature leaving
+   277. TLV
+   278. Threshold limit value
+   279. TOD
+   280. Total oxygen demand
+   281. TP
+   282. Total pressure
+   283. TRQ
+   284. Tons torque
+   285. TS
+   286. Total solids
+   287. TSS
+   288. Total suspended solids
+   289. TVS
+   290. Total volatile solids
+   291. TVSS
+   292. Transient voltage surge suppressor
+   293. U
+   294. Heat transfer coefficient
+   295. ug/L
+   296. Micrograms per liter
+   297. UPS(s)
+   298. Uninterruptible power supply(ies)
+   299. UTP
+   300. Unshielded twisted pair
+   301. V
+   302. Volt(s)
+   303. VA
+   304. Volts ampere(s)
+   305. vac
+   306. Vacuum
+   307. vappr
+   308. Pressure, vapor
+   309. VFD
+   310. Variable Frequency Drive
+   311. visc
+   312. Viscosity
+   313. VOC
+   314. Volatile organic chemical
+   315. vol
+   316. Volume
+   317. vp
+   318. Pressure, dynamic (velocity)
+   319. VS
+   320. Volatile solids
+   321. VSS
+   322. Volatile suspended solids
+   323. W
+   324. Watt(s)
+   325. WB
+   326. Wet bulb
+   327. WBT
+   328. Wet bulb temperature
+   329. Wh
+   330. Watthour(s)
+   331. WHD
+   332. Watt hour demand
+   333. WHDM
+   334. Watt hour demand meter
+   335. wk
+   336. Week(s)
+   337. wt
+   338. Weight
+   339. yd
+   340. Yard(s)
+   341. yr
+   342. Year(s)
 
 ## Product 
 
- (Not Used)
-
+(Not Used)
 
 ## Execution
 
- (Not Used)
-
+(Not Used)

@@ -7,9 +7,6 @@ subgroup: General Requirements
 tags: ['General', 'Requirements', 'Schedule', 'Values']
 ---
 
-   1. Section 01 29 00
-   1. Schedule of Values
-
 ## General
 
 1. SUMMARY
@@ -56,12 +53,10 @@ tags: ['General', 'Requirements', 'Schedule', 'Values']
 	2. Consent of Surety: If Contractor and Engineer cannot mutually agree on a Schedule of Values, Engineer will approve a Schedule of Values approved by the Surety providing the Performance Bond.
 9. Contractor's costs shall not govern the allocation of values when application of Contractor's costs to a component part of the Work results in any other component part or combination of component parts being under-valued in relation to conventional estimating guides.
 10. The final Schedule of Values shall be agreed upon prior to first Application for Payment.
-## Product (not applicable to this specfication section)
+## Product
 
+(not applicable to this specification section)
 
 ## Execution
 
- (not applicable to this specification section)
-
-[*this page intentionally left blank]*
-
+(not applicable to this specification section)

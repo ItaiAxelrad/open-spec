@@ -6,16 +6,9 @@ divName: Procurement and Contracting Requirements
 subgroup: Procurement and Contracting Requirements
 tags: ['Procurement', 'Contracting', 'Requirements', 'Agreement', 'Preliminary', 'Services', 'Owner-DesignBuilder']
 ---
-
-   1. TABLE OF CONTENTS
-   1. Article 1 – Services of Engineer 1
-01. Scope 1
-   1. Article 2 – Owner’s Responsibilities 1
-0
 ## General
 
- 1
-   1. Article 3 – Schedule For Rendering Services 2
+1. Article 3 – Schedule For Rendering Services 2
 01. Commencement 2
 02. Time for Completion 2
    1. Article 4 – Invoices and Payments 2
@@ -256,23 +249,17 @@ tags: ['Procurement', 'Contracting', 'Requirements', 'Agreement', 'Preliminary',
    1. IN WITNESS WHEREOF, the parties hereto have executed this Agreement.
    1. Owner:
       1. Engineer:
-    1. 
 
    1. By:
-    1. 
    1. By:
-    1. 
    1. Title:
-    1. 
    1. Title:
-    1. 
    1. Date Signed:
       1. Date Signed:
             1. Engineer License or Certificate No. 
    1. State of:
       1. Address for giving notices:
             1. Address for giving notices:
-    1. 
 
 
 

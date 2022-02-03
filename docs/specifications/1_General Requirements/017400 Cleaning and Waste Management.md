@@ -7,9 +7,6 @@ subgroup: General Requirements
 tags: ['General', 'Requirements', 'Cleaning', 'Waste', 'Management']
 ---
 
-   1. Section 01 74 00
-   1. Cleanup
-
 ## General
 
 1. SUMMARY
@@ -22,10 +19,12 @@ tags: ['General', 'Requirements', 'Cleaning', 'Waste', 'Management']
       1. The Contractor shall conduct regular inspections to verify that requirements of cleanliness are being met.
 2. Codes and Standards:
       1. In addition to the standards described in this section, comply with all requirements of other agencies having jurisdiction.
-   1. Product
-1. Cleaning Materials and Equipment
+
+## Products
+
+3. Cleaning Materials and Equipment
    1. Provide all personnel, equipment and materials to maintain the specified standards of cleanliness.
-1. Compatibility
+4. Compatibility
    1. Use cleaning materials and equipment which are compatible with the surface being cleaned, as recommended by the manufacturer of the material and which will not damage the surface being cleaned.
 
 ## Execution
@@ -47,4 +46,3 @@ tags: ['General', 'Requirements', 'Cleaning', 'Waste', 'Management']
 		2. Grassed areas within or adjacent to the work site shall be scraped and raked clean to the original grass or soil level. All stones and other loose debris shall be picked up and removed.
 4. Timing:
 	1. Schedule final cleaning and cleanup to enable the Owner to accept a clean, finished project.
-

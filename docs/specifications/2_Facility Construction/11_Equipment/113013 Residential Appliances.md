@@ -43,7 +43,9 @@ tags: ['Facility', 'Construction', 'Equipment', 'Residential', 'Appliances']
 3. Appliance Schedule:
 	1. Use same designations indicated on Drawings.
 4. Maintenance data.
-   1. Product
+   
+## Products
+
 
 	1. Manufacturers
    1. In other Part 2 articles where titles below introduce lists, the following requirements apply to product selection:

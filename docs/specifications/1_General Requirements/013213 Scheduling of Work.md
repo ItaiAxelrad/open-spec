@@ -7,9 +7,6 @@ subgroup: General Requirements
 tags: ['General', 'Requirements', 'Scheduling', 'Work']
 ---
 
-   1. Section 01 32 00
-   1. Construction Progress Schedule
-
 ## General
 
 1. SUMMARY
@@ -26,17 +23,25 @@ tags: ['General', 'Requirements', 'Scheduling', 'Work']
    1. The person preparing, updating and revising the construction Progress Schedule shall be experienced in the preparation of schedules of similar complexity.
 3. Definitions
    1. The following definitions shall apply to this Specification Section:
-	1. EXECUTION OF THE CONTRACT: The date the contract is signed by the last party, either the Owner or the Contractor.
-	2. WORKING DAYS: Monday through Friday except holidays as directed by the Owner.
-	3. BASELINE SCHEDULE: The initial detailed Progress Schedule prepared by the Contractor defining its plan for constructing the Project in accordance with the Contract Documents.
-	4. SCHEDULE UPDATE: The initially accepted Baseline Schedule, or subsequently approved Revised Baseline Schedules, updated each month to reflect actual start and finish dates of each schedule activity and the remaining duration of activities that began during the period.
-	5. CURRENT SCHEDULE: The current schedule is either the Baseline Schedule or Revised Baseline Schedule including and incorporating Schedule Updates.
-	6. REVISED BASELINE SCHEDULE: The initially accepted Baseline Schedule revised to reflect approved contract change orders and modifications.
-	7. SHORT INTERVAL SCHEDULE:
-		1. Schedule prepared by the Contractor reflecting the work planned for the coming weeks.
-		2. This is also known as a Look-Ahead Schedule.
-	8. RESOURCES: Manpower, materials, permanent equipment, and construction equipment needed to construct the work.
-## Product
+   2. EXECUTION OF THE CONTRACT:
+      1. The date the contract is signed by the last party, either the Owner or the Contractor.
+   	1. WORKING DAYS:
+      	1. Monday through Friday except holidays as directed by the Owner.
+   3. BASELINE SCHEDULE:
+      	1. The initial detailed Progress Schedule prepared by the Contractor defining its plan for constructing the Project in accordance with the Contract Documents.
+   4. SCHEDULE UPDATE:
+      1. The initially accepted Baseline Schedule, or subsequently approved Revised Baseline Schedules, updated each month to reflect actual start and finish dates of each schedule activity and the remaining duration of activities that began during the period.
+   5. CURRENT SCHEDULE:
+      1. The current schedule is either the Baseline Schedule or Revised Baseline Schedule including and incorporating Schedule Updates.
+   6. REVISED BASELINE SCHEDULE:
+      1. The initially accepted Baseline Schedule revised to reflect approved contract change orders and modifications.
+   7. SHORT INTERVAL SCHEDULE:
+   		1. Schedule prepared by the Contractor reflecting the work planned for the coming weeks.
+   		2. This is also known as a Look-Ahead Schedule.
+   8. RESOURCES: 
+      1. Manpower, materials, permanent equipment, and construction equipment needed to construct the work.
+## Products
+
 1. Submittals
    1. Project Schedule Preparation:
 	1. Within five (5) days from Execution of the Contract, Contractor shall submit the name of the person responsible for the preparation, maintenance, updating and revision of all schedules.
@@ -149,7 +154,6 @@ tags: ['General', 'Requirements', 'Scheduling', 'Work']
 		17. Resources: Number of craft per day (not crews per day) for each activity and construction equipment planned for each activity.
 	4. Do not utilize any float suppression techniques or other software features that effect the pure mathematical model calculating the critical path.
 
-
 ## Execution
 
 1. Construction Schedule Meetings
@@ -159,4 +163,3 @@ tags: ['General', 'Requirements', 'Scheduling', 'Work']
 	3. The pre-construction scheduling meeting will review the requirements of this Specification Section and other specified scheduling and sequencing requirements defined in the Contract Documents.
 2. The Contractor shall meet with the Engineer monthly to review the CPM schedule.
 	1. The meeting agenda will include review of changes made since the previous schedule submittal and Engineer comments.
-

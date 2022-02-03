@@ -178,7 +178,6 @@ Any material or equipment on-site, which is rejected by the Owner after review o
    1. To:
       1. Project Manager
    1. Specified Item:
-    1. 
    1. Section Page Paragraph Description
    1. The undersigned requests consideration of the following:
       1. Proposed Substitution:

@@ -94,7 +94,9 @@ Conditions and Division 01 Specification Sections, apply to this Section.
       1. Manufacturer's standard form in which manufacturer agrees to repair or replace transient voltage suppression devices that fail in materials or workmanship within specified warranty period.
 1. Warranty Period:
       1. 1 year from date of Substantial Completion.
-   1. Product
+   
+## Products
+
 1. MANUFACTURED UNITS
    1. Manufacturers:
       1. Subject to compliance with requirements, provide products by one of the following:

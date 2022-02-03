@@ -46,7 +46,9 @@ tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Sto
 3. Two (2) gear joint seal kit
 4. Two (2) stator gasket
 5. Two (2) sets of packing
-   1. Product
+   
+## Products
+
 
 	1. ACCEPTABLE MANUFACTURERS
 		1. Subject to compliance with requirements of these specifications and plans, manufacturers offering pumps which may be supplied for the work include the following:

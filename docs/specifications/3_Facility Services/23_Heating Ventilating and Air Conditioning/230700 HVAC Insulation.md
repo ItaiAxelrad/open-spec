@@ -65,70 +65,64 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. 790 - Test for Fire Resistance of Roof Covering Materials.
 1. DEFINITION OF LOCATIONS SCHEDULE
    1. Finished and Unfinished Areas 
-
-"Finished areas" are areas where floor, walls, ceilings, trim, or exposed steel are painted, tiled, or similarly finished. 
-
-"Unfinished areas" are areas with unpainted walls. 
-   1. Exposed and Concealed Areas 
-
-"Exposed areas" are finished areas and other areas used by personnel in the normal use of the building, such as boiler room, fan rooms, mechanical rooms, and storage rooms. 
-
-"Concealed areas" are pipe tunnels, covered pipe trenches, spaces inside walls, duct or pipe shafts, spaces above dropped ceilings, unfinished attic spaces, crawl spaces, and space below access floor. 
-1. SYSTEM DESCRIPTION
+   2. "Finished areas" are areas where floor, walls, ceilings, trim, or exposed steel are painted, tiled, or similarly finished. 
+   3. "Unfinished areas" are areas with unpainted walls. 
+   4. Exposed and Concealed Areas 
+   5. "Exposed areas" are finished areas and other areas used by personnel in the normal use of the building, such as boiler room, fan rooms, mechanical rooms, and storage rooms. 
+   6. "Concealed areas" are pipe tunnels, covered pipe trenches, spaces inside walls, duct or pipe shafts, spaces above dropped ceilings, unfinished attic spaces, crawl spaces, and space below access floor. 
+2. SYSTEM DESCRIPTION
 	1. Design Requirements 
    1. Heated piping systems to be insulated 
-   1. Hot water heating supply and return. 
-   1. Heated piping systems and components not to be insulated 
-   1. Heating water piping within enclosures of finned radiation, convectors and heating and ventilating units. 
-   1. Vents to atmosphere, discharges from safety and relief valves, except where burn protection for operating personnel dictates. 
-   1. Overflow and drain lines from heating equipment. 
-   1. Unions in all locations. 
-   1. Ambient and chilled piping systems to be insulated 
-   1. Chilled water supply and return. 
-   1. Glycol heat recovery supply and return 
-   1. Drain lines from cooling coil drain pans not located in mechanical equipment rooms.
-   1. Condenser water (when cooling tower is used for water side economizer only). 
-   1. Heated equipment to be insulated 
-   1. Converters and heat exchangers. 
-   1. Heating hot water expansion tanks.
-   1. Air separators.
-   1. Ambient and chilled equipment to be insulated. 
-   1. Chilled water tanks including expansion tanks and air separators. 
-   1. Refrigeration machine components. 
-   1. Chilled water pumps. 
-   1. Chilled water heat exchangers. 
-   1. Cooling coil drain pans. 
-   1. Air handling apparatus and ductwork to be insulated 
-   1. Outside air intake plenums and ducts. 
-   1. Air conditioning supply ducts outside of conditioned space. 
-   1. Re-heat coil casings and return bends in ductwork and at air terminal units above non-plenum ceilings and non-conditioned spaces only.
-   1. Supply air diffuser bodies in non-plenum ceiling spaces.
-   1. Return air ducts for air conditioning systems in mechanical equipment rooms and exposed in non-air conditioned spaces, in ceiling cavities over non-air conditioned spaces or outdoor locations.
-   1. Relief air ducts downstream of the relief air damper.
-   1. Heating and ventilating supply ducts. 
-   1. Air handling apparatus and ductwork not to be insulated 
-   1. Double wall air handling unit housings and plenums. 
-   1. Air conditioning ducts exposed to view in air conditioned areas. 
-1. SUBMITTALS
-	1. Refer to requirements in Division 22, “Common Work Results for Plumbing.”
+   2. Hot water heating supply and return. 
+   3. Heated piping systems and components not to be insulated 
+   4. Heating water piping within enclosures of finned radiation, convectors and heating and ventilating units. 
+   5. Vents to atmosphere, discharges from safety and relief valves, except where burn protection for operating personnel dictates. 
+   6. Overflow and drain lines from heating equipment. 
+   7. Unions in all locations. 
+   8. Ambient and chilled piping systems to be insulated 
+   9. Chilled water supply and return. 
+   10. Glycol heat recovery supply and return 
+   11. Drain lines from cooling coil drain pans not located in mechanical equipment rooms.
+   12. Condenser water (when cooling tower is used for water side economizer only). 
+   13. Heated equipment to be insulated 
+   14. Converters and heat exchangers. 
+   15. Heating hot water expansion tanks.
+   16. Air separators.
+   17. Ambient and chilled equipment to be insulated. 
+   18. Chilled water tanks including expansion tanks and air separators. 
+   19. Refrigeration machine components. 
+   20. Chilled water pumps. 
+   21. Chilled water heat exchangers. 
+   22. Cooling coil drain pans. 
+   23. Air handling apparatus and ductwork to be insulated 
+   24. Outside air intake plenums and ducts. 
+   25. Air conditioning supply ducts outside of conditioned space. 
+   26. Re-heat coil casings and return bends in ductwork and at air terminal units above non-plenum ceilings and non-conditioned spaces only.
+   27. Supply air diffuser bodies in non-plenum ceiling spaces.
+   28. Return air ducts for air conditioning systems in mechanical equipment rooms and exposed in non-air conditioned spaces, in ceiling cavities over non-air conditioned spaces or outdoor locations.
+   29. Relief air ducts downstream of the relief air damper.
+   30. Heating and ventilating supply ducts. 
+   31. Air handling apparatus and ductwork not to be insulated 
+   32. Double wall air handling unit housings and plenums. 
+   33. Air conditioning ducts exposed to view in air conditioned areas. 
+3. SUBMITTALS
+	2. Refer to requirements in Division 22, “Common Work Results for Plumbing.”
    1. Product Data
-   1. Submit description, heat transfer coefficients, characteristics, and compliance with specified flame spread and smoke development ratings for insulation, jackets and adhesives on insulated systems. 
-   1. Schedules
-   1. Submit schedules of thicknesses for each insulated system, including each pipe size for each insulated piping system. 
-   1. Samples
-   1. Submit Samples of each type of insulation and insulation system proposed for use on the Project. 
-1. STORAGE AND HANDLING
+   2. Submit description, heat transfer coefficients, characteristics, and compliance with specified flame spread and smoke development ratings for insulation, jackets and adhesives on insulated systems. 
+   3. Schedules
+   4. Submit schedules of thicknesses for each insulated system, including each pipe size for each insulated piping system. 
+   5. Samples
+   6. Submit Samples of each type of insulation and insulation system proposed for use on the Project. 
+4. STORAGE AND HANDLING
    1. Store insulation and accessory materials in a manner that protects them from damage due to moisture and temperature. Store all flammable materials away from ignition sources such as welding operations.
-   1. Store mastics, adhesives and sealers where temperature ranges required by the material manufacturer can be maintained.
-   1. Keep all insulation material dry and off the ground and provide adequate protection against moisture and inadequate drainage. Remove and replace wet or damaged material.
-1. WARRANTY
-	1. Refer to requirements in Division 23, “Common Work Results for HVAC.”
+   2. Store mastics, adhesives and sealers where temperature ranges required by the material manufacturer can be maintained.
+   3. Keep all insulation material dry and off the ground and provide adequate protection against moisture and inadequate drainage. Remove and replace wet or damaged material.
+5. WARRANTY
+	3. Refer to requirements in Division 23, “Common Work Results for HVAC.”
 
 ## PRODUCTS
 
-
-## General
-
+1. General
    1. Provide insulation, binders, vapor barriers, jackets, adhesives, coatings, tapes and sealers furnished under this section which are listed and labeled by a nationally recognized certifying organization such as Underwriters Laboratories Inc., OmegaPoint, or Southwest Research Institute as having a flame spread rating of 25 or less and smoke development rating of 50 or less when tested in accordance with ASTM E84, unless otherwise specified. 
    1. Provide pipe insulation in pre-molded, 3- or 6-foot-long sections, split ready for application or split with factory applied vapor barrier attached. 
    1. Do not use wheat paste, mold-breeding and mold-sustaining organic materials. 
@@ -162,166 +156,165 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
 
 ## Execution
 
-.
-   1. Vapor Barriers
-   1. Ambient and chilled systems indoor:
+1. Vapor Barriers
+   2. Ambient and chilled systems indoor:
       1. All Service Jacket (ASJ) consisting of 0.00035 inch thick aluminum foil laminated to two sheets of Kraft paper by flame retardant adhesive or 0.001-inch–thick aluminum foil. Provide the complete laminated product reinforced with yarn spacing at 5 per inch, Dow “Saran 540” or VyTech “Atlas VRP”.
-   1. Ambient and chilled systems outdoor and cold systems indoor and outdoor:
+   3. Ambient and chilled systems outdoor and cold systems indoor and outdoor:
       1. Dow “Saran 560”, Alpha “Alaflex Style 13 MAM” or Polyguard “Insulrap 30” 
-   1. Jacketing 
-   1. Indoor general:
+   4. Jacketing 
+   5. Indoor general:
       1. 20-mil-thick pvc with 25/50 flame and smoke per ASTM E84. Indoor cold piping and equipment:
-      1. 0.030-inch with 25/50 flame and smoke per ASTM E84. 
-   1. Outdoor Waterproofing 
-   1. Smooth aluminum jacketing, 0.016-inch thick for pipe and 0.024-inch thick with vapor barrier for equipment.
+      2. 0.030-inch with 25/50 flame and smoke per ASTM E84. 
+   6. Outdoor Waterproofing 
+   7. Smooth aluminum jacketing, 0.016-inch thick for pipe and 0.024-inch thick with vapor barrier for equipment.
 1. PIPE INSULATION SCHEDULE
    1. Glass fiber, pre-formed, rigid, molded insulation with vapor barrier consisting of white Kraft paper reinforced with glass fiber yarn and bonded to aluminum foil, with self-sealing longitudinal laps and butt strips. Provide insulation with a thermal conductivity 'k' of 0.23 Btu/hr/sq. ft./degree F/in. at 75 degrees F mean temperature with a minimum service temperature of 55 degrees F and a maximum service temperature of 850 degrees F. Provide insulation and jacketing conforming to the following standards:
     1. ASTM C335, C356, C411, C518, C547, C795, C1136.
-   1. Cellular glass insulation with vapor barrier consisting of inorganic, foamed or cellular glass, annealed, rigid hermetically sealed cells with an ASTM C921, Type 1, factory-applied, polymer-modified bituminous compound reinforced with a 4-mil, high density, cross laminate, polyethylene top film. Provide insulation with a thermal conductivity 'k' of 0.32 Btu/hr/sq. ft./degree F/in. at 75 degrees F mean temperature with a minimum service temperature of -60 degrees F and a maximum service temperature of 900 degrees F. Provide insulation and jacketing conforming to the following standards:
-    1. ASTM C177, C203, C240, C303, C518, C552, C623, E96, E228.
-   1. Pre-formed half-cylinder felted mineral wool insulation bonded with a high temperature binder, with a thermal conductivity ‘k’ of 0.24 BTU-inch per hour per sq. ft. per degree F at a mean temperature of 75 degrees F with a minimum service temperature of 55 degrees F and a maximum service temperature of 1200 degrees F, with a melting point of 2000 degrees F and a flame spread rating of 5 and a smoke developed rating of 0 when tested in accordance with ASTM E84. Provide insulation that conforms to the following:
-    1. ASTM C356, C411, C518, C547, C585, E84, E136
-   1. Elastomeric cellular pipe and fitting insulation with a maximum flame spread rating of 25 and a maximum smoke developed rating of 50 or less at the thickness of intended use when tested in accordance with ASTM E84. Seal longitudinal and butt seams with a waterproof vapor retardant adhesive. Provide insulation with a conductivity 'k' of 0.27 Btu/hr/sq. ft./degree F/in. at 75 degrees F mean temperature with a minimum service temperature of 40 degrees F and a maximum service temperature of 200 degrees F. Elastomeric cellular pipe insulation in excess of 1-inch thickness will be permitted in Mechanical Equipment Rooms not used as return plenum and outdoor locations only. Provide insulation conforming to the following standards:
-    1. ASTM C177, C335, C534, D1056, D1149, E84, E96.
-   1. Polyisocyanurate rigid insulation with a factory applied vapor barrier, with self-sealing laps an separate self-adhesive butt strips. Provide insulation with a maximum flame spread rating of 25 and a maximum smoke developed rating of 50 in accordance with ASTM E84 in thickness up through 1-1/2 inches. Minimum service temperature use:
+   2. Cellular glass insulation with vapor barrier consisting of inorganic, foamed or cellular glass, annealed, rigid hermetically sealed cells with an ASTM C921, Type 1, factory-applied, polymer-modified bituminous compound reinforced with a 4-mil, high density, cross laminate, polyethylene top film. Provide insulation with a thermal conductivity 'k' of 0.32 Btu/hr/sq. ft./degree F/in. at 75 degrees F mean temperature with a minimum service temperature of -60 degrees F and a maximum service temperature of 900 degrees F. Provide insulation and jacketing conforming to the following standards:
+    2. ASTM C177, C203, C240, C303, C518, C552, C623, E96, E228.
+   3. Pre-formed half-cylinder felted mineral wool insulation bonded with a high temperature binder, with a thermal conductivity ‘k’ of 0.24 BTU-inch per hour per sq. ft. per degree F at a mean temperature of 75 degrees F with a minimum service temperature of 55 degrees F and a maximum service temperature of 1200 degrees F, with a melting point of 2000 degrees F and a flame spread rating of 5 and a smoke developed rating of 0 when tested in accordance with ASTM E84. Provide insulation that conforms to the following:
+    3. ASTM C356, C411, C518, C547, C585, E84, E136
+   4. Elastomeric cellular pipe and fitting insulation with a maximum flame spread rating of 25 and a maximum smoke developed rating of 50 or less at the thickness of intended use when tested in accordance with ASTM E84. Seal longitudinal and butt seams with a waterproof vapor retardant adhesive. Provide insulation with a conductivity 'k' of 0.27 Btu/hr/sq. ft./degree F/in. at 75 degrees F mean temperature with a minimum service temperature of 40 degrees F and a maximum service temperature of 200 degrees F. Elastomeric cellular pipe insulation in excess of 1-inch thickness will be permitted in Mechanical Equipment Rooms not used as return plenum and outdoor locations only. Provide insulation conforming to the following standards:
+    4. ASTM C177, C335, C534, D1056, D1149, E84, E96.
+   5. Polyisocyanurate rigid insulation with a factory applied vapor barrier, with self-sealing laps an separate self-adhesive butt strips. Provide insulation with a maximum flame spread rating of 25 and a maximum smoke developed rating of 50 in accordance with ASTM E84 in thickness up through 1-1/2 inches. Minimum service temperature use:
       1. -60 degrees F and maximum temperature use:
-      1. 300 degrees F. Provide insulation with a thermal conductivity ‘k’ of 0.19 Btu/hr/sq. ft./degree F/in. at 75 degrees F mean temperature. Minimum density of 2 lb/cu. ft. Polisocyanurate insulation in excess of 1-1/2-inch thickness will be permitted in Mechanical Equipment Rooms not used as return air plenums and outdoor locations only. Provide insulation conforming to the following standards:
-    1. ASTM C177 or 518, C272, C335, C591, C1136, D2842, E84, E96.
-   1. Extruded foamed polystyrene thermal insulation with a factory applied vapor barrier, with self-sealing laps and separate self-adhesive butt strips. Minimum service temperature use:
+      2. 300 degrees F. Provide insulation with a thermal conductivity ‘k’ of 0.19 Btu/hr/sq. ft./degree F/in. at 75 degrees F mean temperature. Minimum density of 2 lb/cu. ft. Polisocyanurate insulation in excess of 1-1/2-inch thickness will be permitted in Mechanical Equipment Rooms not used as return air plenums and outdoor locations only. Provide insulation conforming to the following standards:
+    5. ASTM C177 or 518, C272, C335, C591, C1136, D2842, E84, E96.
+   6. Extruded foamed polystyrene thermal insulation with a factory applied vapor barrier, with self-sealing laps and separate self-adhesive butt strips. Minimum service temperature use:
       1. -60 degrees F and maximum temperature use:
-      1. 165 degrees F. Provide insulation with a thermal conductivity, ‘k’ of 0.26 Btu/hr/sq. ft./degree F/in. at 75 degrees F mean temperature. Extruded Foamed Polystyrene will be permitted in Mechanical Equipment Rooms not used as return air plenums and outdoor locations only. Provide insulation conforming to the following standards:
-    1. ASTM C177 or 518, C272, C335, C755, C1136, D2842, E96.
-   1. Phenolic foam rigid thermal insulation with a factory applied vapor barrier, with self-sealing laps and separate self-adhesive butt strips. Minimum service temperature of -60 degrees F and a maximum service temperature of 250 degrees F. Provide insulation with a thermal conductivity, ‘k’ of 0.13 Btu/hr/sq. ft./degree F/in. at 75 degrees F mean temperature. Minimum density of 2.2 lb. cu/ ft. Provide insulation and jacketing conforming to the following standards:
-    1. ASTM C177 or C518, C273, C411, C1126, D696, D1622, D2842, E84, E96 
-   1. Calcium silicate molded high temperature, block insulation, provided in half sections. Provide insulation with a maximum flame spread and smoke developed rating of 0 in accordance with ASTM E84, with a minimum service temperature of 200 degrees F and a maximum service temperature of 1200 degrees F. Provide insulation with a thermal conductivity, ‘k’ of 0.36 Btu/hr/sq. ft./degree F/in. at 100 degrees F. Provide insulation that conforms to the following:
-    1. ASTM C 533, C795, E84, E136
-   1. Perlite rigid high temperature, block insulation, provided in half sections. Provide insulation with a maximum flame spread and smoke developed rating of 0 in accordance with ASTM E84, with a minimum service temperature of 200 degrees F and a maximum temperature of 1200 degrees F. Provide insulation with a thermal conductivity rating, ‘k’ of 0.44 Btu/hr/sq. ft./degree F/in. at 100 degrees F. Provide insulation that conforms to the following:
-    1. ASTM C177, C203, C209, C303, C356, E84 
-   1. Pipe Insulation Minimum Thickness
-   1. Abbreviations
-   1. DOT Design operating temperature - degrees F
-   1. Nominal pipe size
-   1. A - Run-outs up to NPS 2 (DN 50) - Note 1
-   1. B - NPS 1 (DN 25) and less
-   1. C - NPS 1-1/4 to 2 (DN 32 to 50) 
-   1. D - NPS 2-1/2 to 4 (DN 65 to 100)
-   1. E – NPS 5 and 6 (DN 125 and 150)
-   1. F - NPS 8 (DN 200) and up
-   1. Heating Systems:
+      2. 165 degrees F. Provide insulation with a thermal conductivity, ‘k’ of 0.26 Btu/hr/sq. ft./degree F/in. at 75 degrees F mean temperature. Extruded Foamed Polystyrene will be permitted in Mechanical Equipment Rooms not used as return air plenums and outdoor locations only. Provide insulation conforming to the following standards:
+    6. ASTM C177 or 518, C272, C335, C755, C1136, D2842, E96.
+   7. Phenolic foam rigid thermal insulation with a factory applied vapor barrier, with self-sealing laps and separate self-adhesive butt strips. Minimum service temperature of -60 degrees F and a maximum service temperature of 250 degrees F. Provide insulation with a thermal conductivity, ‘k’ of 0.13 Btu/hr/sq. ft./degree F/in. at 75 degrees F mean temperature. Minimum density of 2.2 lb. cu/ ft. Provide insulation and jacketing conforming to the following standards:
+    7. ASTM C177 or C518, C273, C411, C1126, D696, D1622, D2842, E84, E96 
+   8. Calcium silicate molded high temperature, block insulation, provided in half sections. Provide insulation with a maximum flame spread and smoke developed rating of 0 in accordance with ASTM E84, with a minimum service temperature of 200 degrees F and a maximum service temperature of 1200 degrees F. Provide insulation with a thermal conductivity, ‘k’ of 0.36 Btu/hr/sq. ft./degree F/in. at 100 degrees F. Provide insulation that conforms to the following:
+    8. ASTM C 533, C795, E84, E136
+   9. Perlite rigid high temperature, block insulation, provided in half sections. Provide insulation with a maximum flame spread and smoke developed rating of 0 in accordance with ASTM E84, with a minimum service temperature of 200 degrees F and a maximum temperature of 1200 degrees F. Provide insulation with a thermal conductivity rating, ‘k’ of 0.44 Btu/hr/sq. ft./degree F/in. at 100 degrees F. Provide insulation that conforms to the following:
+    9. ASTM C177, C203, C209, C303, C356, E84 
+   10. Pipe Insulation Minimum Thickness
+   11. Abbreviations
+   12. DOT Design operating temperature - degrees F
+   13. Nominal pipe size
+   14. A - Run-outs up to NPS 2 (DN 50) - Note 1
+   15. B - NPS 1 (DN 25) and less
+   16. C - NPS 1-1/4 to 2 (DN 32 to 50) 
+   17. D - NPS 2-1/2 to 4 (DN 65 to 100)
+   18. E – NPS 5 and 6 (DN 125 and 150)
+   19. F - NPS 8 (DN 200) and up
+   20. Heating Systems:
       1. Heating Hot Water. Indoor:
-      1. (glass fiber, phenolic foam (200 deg. F max.), calcium silicate, perlite, mineral wool, polyisocyanurate or cellular glass insulation). Outdoor:
-      1. (cellular glass, phenolic, polyisocyanurate, or perlite insulation).
-   1. DOT NPS
-    1. A B C D E F
-   1. English units Thickness in inches
-   1. Above 350 1.5 2.5 2.5 2.5 3.0 3.5
-   1. 251-350 1.5 2.0 2.5 2.5 3.5 3.5
-   1. 201-250 1.0 1.5 1.5 2.0 2.0 3.5
-   1. 141-200 1.0 1.5 1.5 1.5 1.5 1.5
-   1. Insulation thicknesses are based on glass fiber insulation (k = 0.23). Adjust the thicknesses for insulations with other k factors to provide the equivalent insulating efficiency, based on the following formula:
-      1. Thickness of other insulation = (thickness of glass fiber x ‘k’ for other insulation) / 0.23
-   1. Ambient and Chilled Systems:
-      1. Chilled Water, Glycol Heat Recovery, and Condenser Water. (elastomeric, polyisocyanurate, extruded polystyrene, or cellular glass insulation)
-   1. DOT NPS
-   1. A B C D E F
-   1. English units Thickness in inches
-   1. 40-105 0.5 0.5 0.5 1.0 1.0 1.0
-   1. Insulation thicknesses are based on polyisocyanurate insulation (k = 0.19). Adjust the thicknesses for insulations with other k factors to provide the equivalent insulating efficiency, based on the following formula:
-      1. Thickness of other insulation = (thickness of polyisocyanurate x ‘k’ for other insulation) / 0.19
-   1. For piping installed in outdoor locations, increase insulation thickness 1-inch. Note:
-      1. 25/50 flame/smoke requirements not applicable.
-   1. Note 1:
-      1. Run-outs to individual terminal units not exceeding 12 ft. in length.
-1. HEATED EQUIPMENT INSULATION SCHEDULE
+      2. (glass fiber, phenolic foam (200 deg. F max.), calcium silicate, perlite, mineral wool, polyisocyanurate or cellular glass insulation). Outdoor:
+      3. (cellular glass, phenolic, polyisocyanurate, or perlite insulation).
+   21. DOT NPS
+    10. A B C D E F
+   22. English units Thickness in inches
+   23. Above 350 1.5 2.5 2.5 2.5 3.0 3.5
+   24. 251-350 1.5 2.0 2.5 2.5 3.5 3.5
+   25. 201-250 1.0 1.5 1.5 2.0 2.0 3.5
+   26. 141-200 1.0 1.5 1.5 1.5 1.5 1.5
+   27. Insulation thicknesses are based on glass fiber insulation (k = 0.23). Adjust the thicknesses for insulations with other k factors to provide the equivalent insulating efficiency, based on the following formula:
+      4. Thickness of other insulation = (thickness of glass fiber x ‘k’ for other insulation) / 0.23
+   28. Ambient and Chilled Systems:
+      5. Chilled Water, Glycol Heat Recovery, and Condenser Water. (elastomeric, polyisocyanurate, extruded polystyrene, or cellular glass insulation)
+   29. DOT NPS
+   30. A B C D E F
+   31. English units Thickness in inches
+   32. 40-105 0.5 0.5 0.5 1.0 1.0 1.0
+   33. Insulation thicknesses are based on polyisocyanurate insulation (k = 0.19). Adjust the thicknesses for insulations with other k factors to provide the equivalent insulating efficiency, based on the following formula:
+      6. Thickness of other insulation = (thickness of polyisocyanurate x ‘k’ for other insulation) / 0.19
+   34. For piping installed in outdoor locations, increase insulation thickness 1-inch. Note:
+      7. 25/50 flame/smoke requirements not applicable.
+   35. Note 1:
+      8. Run-outs to individual terminal units not exceeding 12 ft. in length.
+2. HEATED EQUIPMENT INSULATION SCHEDULE
 	1. Glass fiber, rigid board insulation, non-combustible, with a thermal conductivity ‘k’ of 0.23 Btu/hr/sq. ft./degree F/in at 75 degrees F mean temperature with a maximum service temperature of 450 degrees F and a density of 3.0 lb/cu. ft. Provide insulation that conforms to the following standards:
       1. ASTM C612, C795, NFPA 90A, 90B.
    1. See Note 1
-   1. Cellular glass insulation consisting of inorganic, foamed or cellular glass, annealed, rigid hermetically sealed cells with an ASTM C921, Type 1, factory-applied, polymer-modified bituminous compound reinforced with a 4-mil, high density, cross laminate, polyethylene top film. Provide insulation with a thermal conductivity 'k' of 0.32 Btu/hr/sq. ft./degree F/in. at 75 degrees F mean temperature and a maximum service temperature of 900 degrees F. Provide insulation and jacketing conforming to the following standards:
+   2. Cellular glass insulation consisting of inorganic, foamed or cellular glass, annealed, rigid hermetically sealed cells with an ASTM C921, Type 1, factory-applied, polymer-modified bituminous compound reinforced with a 4-mil, high density, cross laminate, polyethylene top film. Provide insulation with a thermal conductivity 'k' of 0.32 Btu/hr/sq. ft./degree F/in. at 75 degrees F mean temperature and a maximum service temperature of 900 degrees F. Provide insulation and jacketing conforming to the following standards:
       1. ASTM C177, C203, C240, C303, C518, C552, C623, E96, E228.
-   1. Mineral wool, jacketed, rigid board insulation, noncombustible, with a thermal conductivity ‘k’ of 0.24 Btu-inch per hour per sq. ft. per degree F at mean temperature of 75 degrees F, with a maximum service temperature of 1200 degrees F, a melting point of 2000 degrees F, a flame spread rating of 5 and a smoke developed rating of 0 when tested in accordance with ASTM E84. Provide insulation that conforms to the following:
+   3. Mineral wool, jacketed, rigid board insulation, noncombustible, with a thermal conductivity ‘k’ of 0.24 Btu-inch per hour per sq. ft. per degree F at mean temperature of 75 degrees F, with a maximum service temperature of 1200 degrees F, a melting point of 2000 degrees F, a flame spread rating of 5 and a smoke developed rating of 0 when tested in accordance with ASTM E84. Provide insulation that conforms to the following:
       1. ASTM C356, C411, C518, E84, E136.
-   1. See Note 1
-   1. Polyisocyanurate rigid insulation with self-sealing laps an separate self-adhesive butt strips. Provide insulation with a maximum flame spread rating of 25 and a maximum smoke developed rating of 50 in accordance with ASTM E84 in thickness up through 1-1/2 inches. Maximum service temperature:
+   4. See Note 1
+   5. Polyisocyanurate rigid insulation with self-sealing laps an separate self-adhesive butt strips. Provide insulation with a maximum flame spread rating of 25 and a maximum smoke developed rating of 50 in accordance with ASTM E84 in thickness up through 1-1/2 inches. Maximum service temperature:
       1. 300 degrees F. Provide insulation with a thermal conductivity, ‘k’ of 0.19 Btu/hr/sq. ft./degree F/in. at 75 degrees F mean temperature. Minimum density of 2 lb/cu. ft.. Polisocyanurate insulation in excess of 1-1/2-inch thickness will be permitted in Mechanical Equipment Rooms not used as return air plenums and outdoor locations only. Provide insulation conforming to the following standards:
-      1. ASTM C177 or 518, C272, C335, C591, C1136, D2842, E84, E96.
-   1. Phenolic foam rigid insulation with a factory applied vapor barrier. Maximum service temperature:
+      2. ASTM C177 or 518, C272, C335, C591, C1136, D2842, E84, E96.
+   6. Phenolic foam rigid insulation with a factory applied vapor barrier. Maximum service temperature:
       1. 250 degrees F. Provide insulation with a thermal conductivity ‘k’ 0.13 BTU/hr/sq. ft./degree F/in. at 75 degrees F mean temperature. Minimum density:
-      1. lb/cu. ft. Provide insulation and jacketing conforming to the following:
-      1. ASTM C177 or C518, C273, C411, C1126, D696, D1622, D2482, E84, E96
-   1. Calcium silicate molded high temperature, block insulation, provided in half sections. Provide insulation with a maximum flame spread and smoke developed rating of 0 in accordance with ASTM E84. Maximum service temperature:
+      2. lb/cu. ft. Provide insulation and jacketing conforming to the following:
+      3. ASTM C177 or C518, C273, C411, C1126, D696, D1622, D2482, E84, E96
+   7. Calcium silicate molded high temperature, block insulation, provided in half sections. Provide insulation with a maximum flame spread and smoke developed rating of 0 in accordance with ASTM E84. Maximum service temperature:
       1. 1200 degrees F. Provide insulation with a thermal conductivity, k:
-      1. of 0.36 Btu/hr/sq. ft/degree F/in. at 100 degrees F. Provide insulation that conforms to the following:
-   1. ASTM C 533, C795, E84, E136
-   1. See Note 1
-   1. Perlite rigid high temperature, block insulation, provided in half sections. Provide insulation with a maximum flame spread and smoke developed rating of 0 in accordance with ASTM E84. Maximum service temperature:
+      2. of 0.36 Btu/hr/sq. ft/degree F/in. at 100 degrees F. Provide insulation that conforms to the following:
+   8. ASTM C 533, C795, E84, E136
+   9. See Note 1
+   10. Perlite rigid high temperature, block insulation, provided in half sections. Provide insulation with a maximum flame spread and smoke developed rating of 0 in accordance with ASTM E84. Maximum service temperature:
       1. 1200 degrees F. Provide insulation with a thermal conductivity rating, ‘k’ of 0.44 Btu/hr/sq. ft./degree F/in. at 100 degrees F. Provide insulation that conforms to the following:
-   1. ASTM C177, C203, C209, C303, C356, E84 
-   1. Insulation thickness schedule
-   1. Service Temperature (Degrees F)
-   1. Thickness of Insulation (inches)
-   1. Up to 140
-   1. 1
-   1. 141 to 200
-   1. 1-1/2
-   1. 201 to 250
-   1. 2-1/2
-   1. 251 to 350
-   1. 3-1/2
-   1. Above 350
-   1. 4-1/2
-   1. Insulation Thickness Schedule
-   1. Insulation thicknesses are based on glass fiber insulation (k = 0.23). Adjust the thicknesses for insulations with other k factors to provide the equivalent insulating efficiency, based on the following formula:
-      1. Thickness of other insulation = (thickness of glass fiber x ‘k’ for other insulation) / 0.23
-   1. For equipment installed in outdoor locations, increase insulation thickness by 1 inch. Note:
-      1. 25/50 flame/smoke requirements not applicable. 
-   1. Note 1:
-      1. Insulation for indoor applications only
-1. AMBIENT AND CHILLED EQUIPMENT INSULATION SCHEDULE
-	1. Elastomeric cellular sheet insulation with vapor barrier coating applied to all outer surfaces, with a maximum flame spread rating of 25 or less and a smoke developed rating of 50 or less for thicknesses up to 1 inch thick, in accordance with ASTM E84. Seal joints with a waterproof vapor retardant adhesive. Provide insulation with a thermal conductivity ‘k’ of 0.27 Btu/(hr/sq. ft./degree F/in at 75 degrees F mean temperature. Elastomeric cellular sheet insulation over 1 inch thickness will be permitted in mechanical equipment rooms not used as return plenums and outdoor locations only.
+   11. ASTM C177, C203, C209, C303, C356, E84 
+   12. Insulation thickness schedule
+   13. Service Temperature (Degrees F)
+   14. Thickness of Insulation (inches)
+   15. Up to 140
+   16. 1
+   17. 141 to 200
+   18. 1-1/2
+   19. 201 to 250
+   20. 2-1/2
+   21. 251 to 350
+   22. 3-1/2
+   23. Above 350
+   24. 4-1/2
+   25. Insulation Thickness Schedule
+   26. Insulation thicknesses are based on glass fiber insulation (k = 0.23). Adjust the thicknesses for insulations with other k factors to provide the equivalent insulating efficiency, based on the following formula:
+      2. Thickness of other insulation = (thickness of glass fiber x ‘k’ for other insulation) / 0.23
+   27. For equipment installed in outdoor locations, increase insulation thickness by 1 inch. Note:
+      3. 25/50 flame/smoke requirements not applicable. 
+   28. Note 1:
+      4. Insulation for indoor applications only
+3. AMBIENT AND CHILLED EQUIPMENT INSULATION SCHEDULE
+	2. Elastomeric cellular sheet insulation with vapor barrier coating applied to all outer surfaces, with a maximum flame spread rating of 25 or less and a smoke developed rating of 50 or less for thicknesses up to 1 inch thick, in accordance with ASTM E84. Seal joints with a waterproof vapor retardant adhesive. Provide insulation with a thermal conductivity ‘k’ of 0.27 Btu/(hr/sq. ft./degree F/in at 75 degrees F mean temperature. Elastomeric cellular sheet insulation over 1 inch thickness will be permitted in mechanical equipment rooms not used as return plenums and outdoor locations only.
    1. ASTM C177, C335, C534, D1056, D1149, E84, E96.
-   1. Cellular glass insulation consisting of inorganic, foamed or cellular glass, annealed, rigid hermetically sealed cells with all joints butt and longitudinally sealed with an approved elastic joint sealer to provide a vapor barrier, or, apply ASJ, Dow “Saran 520” or VyTech “Atlas VRP” vapor barrier jacket with self-sealing laps and separate self-adhesive butt strips. Provide insulation with a thermal conductivity 'k' of 0.32 Btu/hr/sq. ft./degree F/in. at 75 degrees F mean temperature and a minimum service temperature of -60 degrees F. Provide insulation and jacketing conforming to the following standards:
+   2. Cellular glass insulation consisting of inorganic, foamed or cellular glass, annealed, rigid hermetically sealed cells with all joints butt and longitudinally sealed with an approved elastic joint sealer to provide a vapor barrier, or, apply ASJ, Dow “Saran 520” or VyTech “Atlas VRP” vapor barrier jacket with self-sealing laps and separate self-adhesive butt strips. Provide insulation with a thermal conductivity 'k' of 0.32 Btu/hr/sq. ft./degree F/in. at 75 degrees F mean temperature and a minimum service temperature of -60 degrees F. Provide insulation and jacketing conforming to the following standards:
       1. ASTM C177, C203, C240, C303, C518, C552, C623, E96, E228.
-   1. Polyisocyanurate rigid insulation with a factory applied vapor barrier, such as Dow “Saran 520” or VyTech “Atlas VRP”, with self-sealing laps an separate self-adhesive butt strips. Provide insulation with a maximum flame spread rating of 25 and a maximum smoke developed rating of 50 in accordance with ASTM E84 in thickness up through 1-1/2 inches. Minimum temperature use:
+   3. Polyisocyanurate rigid insulation with a factory applied vapor barrier, such as Dow “Saran 520” or VyTech “Atlas VRP”, with self-sealing laps an separate self-adhesive butt strips. Provide insulation with a maximum flame spread rating of 25 and a maximum smoke developed rating of 50 in accordance with ASTM E84 in thickness up through 1-1/2 inches. Minimum temperature use:
       1. -60 degrees F. Provide insulation with a thermal conductivity, ‘k’ of 0.19 Btu/hr/sq. ft./degree F/in. at 75 degrees F mean temperature. Minimum density of 2 lb/cu. ft. Polyisocyanurate insulation in excess of 1-1/2-inch thickness will be permitted in Mechanical Equipment Rooms not used as return air plenums and outdoor locations only. Provide insulation conforming to the following standards:
-      1. ASTM C177 or 518, C272, C335, C591, C1136, D2842, E84, E96.
-   1. Extruded foamed polystyrene thermal insulation with a factory applied vapor barrier, such as Dow “Saran 520” or VyTech “Atlas VRP”, with self-sealing laps and separate self-adhesive butt strips. Minimum temperature use:
+      2. ASTM C177 or 518, C272, C335, C591, C1136, D2842, E84, E96.
+   4. Extruded foamed polystyrene thermal insulation with a factory applied vapor barrier, such as Dow “Saran 520” or VyTech “Atlas VRP”, with self-sealing laps and separate self-adhesive butt strips. Minimum temperature use:
       1. -60 degrees F. Provide insulation with a thermal conductivity, ‘k’ of 0.028 Btu/hr/sq. ft./degree F/in. at 75 degrees F mean temperature. Extruded foamed polystyrene will be permitted in Mechanical Equipment Rooms not used as return air plenums and outdoor locations only. Provide insulation conforming to the following standards:
-      1. ASTM C177 or 518, C272, C335, C755, C1136, D2842, E96.
-   1. Insulation Thickness Schedule
-   1. Insulation minimum thickness:
+      2. ASTM C177 or 518, C272, C335, C755, C1136, D2842, E96.
+   5. Insulation Thickness Schedule
+   6. Insulation minimum thickness:
       1. 1/2 inch based on phenolic foam (k = 0.13). Adjust the thicknesses for insulations with other k factors to provide the equivalent insulating efficiency, based on the following formula:
-      1. Thickness of other insulation = (thickness of phenolic foam x ‘k’ for other insulation) / 0.13
-   1. For equipment installed in outdoor locations, increase insulation thickness by one inch. Note:
+      2. Thickness of other insulation = (thickness of phenolic foam x ‘k’ for other insulation) / 0.13
+   7. For equipment installed in outdoor locations, increase insulation thickness by one inch. Note:
       1. 25/50 flame/smoke requirements not applicable.
-1. COLD EQUIPMENT INSULATION SCHEDULE
+4. COLD EQUIPMENT INSULATION SCHEDULE
    1. Cellular glass insulation with vapor barrier consisting of inorganic, foamed or cellular glass, annealed, rigid hermetically sealed cells with an ASTM C921, Type 1, factory-applied, polymer-modified bituminous compound reinforced with a 4-mil, high density, cross laminate, polyethylene top film. Provide insulation with a thermal conductivity 'k' of 0.32 Btu/hr/sq. ft./degree F/in. at 75 degrees F mean temperature with a minimum service temperature of -60 degrees F and a maximum service temperature of 900 degrees F. Provide insulation and jacketing conforming to the following standards:
       1. ASTM C177, C203, C240, C303, C518, C552, C623, E96, E228.
-   1. Polyisocyanurate rigid insulation with a factory applied vapor barrier, with self-sealing laps an separate self-adhesive butt strips. Provide insulation with a maximum flame spread rating of 25 and a maximum smoke developed rating of 50 in accordance with ASTM E84 in thickness up through 1-1/2 inches. Minimum service temperature use:
+   2. Polyisocyanurate rigid insulation with a factory applied vapor barrier, with self-sealing laps an separate self-adhesive butt strips. Provide insulation with a maximum flame spread rating of 25 and a maximum smoke developed rating of 50 in accordance with ASTM E84 in thickness up through 1-1/2 inches. Minimum service temperature use:
       1. -60 degrees F. Provide insulation with a thermal conductivity, ‘k’ of 0.19 Btu/hr/sq. ft./degree F/in. at 75 degrees F mean temperature. Minimum density of 2 lb/cu. ft. Polyisocyanurate insulation in excess of 1-1/2-inch thickness will be permitted in Mechanical Equipment Rooms not used as return air plenums and outdoor locations only. Provide insulation conforming to the following standards:
-      1. ASTM C177 or 518, C272, C335, C591, C1136, D2842, E84, E96.
-   1. Extruded foamed polystyrene thermal insulation with a factory applied vapor barrier, with self-sealing laps and separate self-adhesive butt strips. Minimum service temperature use:
+      2. ASTM C177 or 518, C272, C335, C591, C1136, D2842, E84, E96.
+   3. Extruded foamed polystyrene thermal insulation with a factory applied vapor barrier, with self-sealing laps and separate self-adhesive butt strips. Minimum service temperature use:
       1. -60 degrees F. Provide insulation with a thermal conductivity, ‘k’ of 0.028 Btu/hr/sq. ft./degree F/in. at 75 degrees F mean temperature. Extruded foamed polystyrene will be permitted in Mechanical Equipment Rooms not used as return air plenums and outdoor locations only. Provide insulation conforming to the following standards:
-      1. ASTM C177 or 518, C272, C335, C755, C1136, D2842, E96.
-   1. Insulation Thickness Schedule
-   1. Insulation minimum thickness 1/2-inch for phenolic foam (k = 0.13). Adjust the thicknesses for insulations with other k factors to provide the equivalent insulating efficiency, based on the following formula:
+      2. ASTM C177 or 518, C272, C335, C755, C1136, D2842, E96.
+   4. Insulation Thickness Schedule
+   5. Insulation minimum thickness 1/2-inch for phenolic foam (k = 0.13). Adjust the thicknesses for insulations with other k factors to provide the equivalent insulating efficiency, based on the following formula:
       1. Thickness of other insulation = (thickness of phenolic foam x ‘k’ for other insulation) / 0.13
-   1. For equipment installed in outdoor locations, increase insulation by 1-inch. Note:
+   6. For equipment installed in outdoor locations, increase insulation by 1-inch. Note:
       1. 25/50 flame/smoke requirements not applicable. 
-1. AIR HANDLING APPARATUS AND DUCTWORK INSULATION SCHEDULE
-	1. Exposed Locations
+5. AIR HANDLING APPARATUS AND DUCTWORK INSULATION SCHEDULE
+	3. Exposed Locations
    1. Glass fiber, rigid board insulation with a minimum service temperature use of 55 degrees F and a thermal conductivity ‘k’ of 0.23 Btu/hr./ sq. ft./(degree F/in at 75 degrees F mean temperature and a density of 3 lb./cu. ft. and a vapor barrier jacket consisting of Kraft paper bonded to aluminum foil, reinforced with fiber glass yarn secured with UL listed pressure sensitive tape. Provide insulation conforming to the following standards:
       1. ASTM C612, C795, C1136; NFPA 90A, 90B.
-   1. Elastomeric cellular sheet insulation with protective coating/vapor barrier applied to all outer surfaces, with a maximum flame spread rating of 25 or less and a smoke developed rating of 50 or less for thicknesses up to 1-inch thick, in accordance with ASTM E84. Seal joints with a waterproof vapor retardant adhesive. Provide insulation with a minimum service temperature use of 40 degrees F and a thermal conductivity ‘k’ of 0.27 Btu/hr/sq. ft./degree F./in at 75 degrees F mean temperature. Elastomeric cellular sheet insulation over 1-inch thickness, will be permitted in mechanical equipment rooms not used as a return air plenum and outdoor locations only. Apply protective coating/vapor barrier coating on all outer surfaces.
+   2. Elastomeric cellular sheet insulation with protective coating/vapor barrier applied to all outer surfaces, with a maximum flame spread rating of 25 or less and a smoke developed rating of 50 or less for thicknesses up to 1-inch thick, in accordance with ASTM E84. Seal joints with a waterproof vapor retardant adhesive. Provide insulation with a minimum service temperature use of 40 degrees F and a thermal conductivity ‘k’ of 0.27 Btu/hr/sq. ft./degree F./in at 75 degrees F mean temperature. Elastomeric cellular sheet insulation over 1-inch thickness, will be permitted in mechanical equipment rooms not used as a return air plenum and outdoor locations only. Apply protective coating/vapor barrier coating on all outer surfaces.
     1. ASTM C177, C335, C534, D1056, D1149, E84, E96.
-   1. Concealed Locations
-   1. Glass fiber, flexible blanket insulation with a minimum service temperature use of 40 degrees F and a thermal conductivity ‘k’ of 0.27 Btu/hr/sq. ft./degree F/in at 75 degrees F mean temperature and a density of 1.0 lb/cu. ft. and a vapor barrier jacket of aluminum foil reinforced with fiberglass yarn and laminated to a fire-resistant Kraft, secured with UL listed pressure sensitive tape. Provide insulation conforming to the following standards:
+   3. Concealed Locations
+   4. Glass fiber, flexible blanket insulation with a minimum service temperature use of 40 degrees F and a thermal conductivity ‘k’ of 0.27 Btu/hr/sq. ft./degree F/in at 75 degrees F mean temperature and a density of 1.0 lb/cu. ft. and a vapor barrier jacket of aluminum foil reinforced with fiberglass yarn and laminated to a fire-resistant Kraft, secured with UL listed pressure sensitive tape. Provide insulation conforming to the following standards:
       1. ASTM C1136, E84; NFPA 90A, 90B.
-   1. Insulation Thickness:
+   5. Insulation Thickness:
       1. 1-1/2 inch
-   1. For equipment and ductwork installed in outdoor locations, increase insulation thickness by 1 inch. 
-1. INSULATION PROTECTION
+   6. For equipment and ductwork installed in outdoor locations, increase insulation thickness by 1 inch. 
+6. INSULATION PROTECTION
    1. Indoor Applications
-   1. Heated and cooled piping, equipment and ductwork.
+   2. Heated and cooled piping, equipment and ductwork.
 020.-inch-thick pvc on pipe covering and 0.030 inch-thick on ductwork and equipment. Provide pvc jacketing that has a flame spread rating of 25 or less and a smoke developed rating of 50 or less per ASTM E84. 
    1. Piping fittings, flanges, grooved pipe couplings, valves and pipe terminations.
    1. Molded fitting covers; Foster Products Corp. "Speedline 2"; Ceel-Co; Proto; or Johns Manville "Zeston 2000" pvc one-piece fitting covers, 0.02 inch-thick with a flame spread rating of 25 or less and a smoke developed rating of 50 or less per ASTM E84. On cold applications, use 0.030-inch pvc jacket and minimum 0.028-inch pvc covers.
@@ -330,10 +323,7 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
 
 ## EXECUTION
 
-
-## General
-
- Application Requirements
+1. General Application Requirements
 	1. Prior to the installation of insulating material, verify its thickness in accordance with the operating temperature and diameter of pipe or equipment. Should there be any discrepancies, notify the Architect and request resolution of the conflict; do not establish a new thickness or select different material without written approval.
    1. Protect insulating materials from moisture and weather before and during installation.
    1. Conduct required tests on piping, equipment and ductwork, and make correction, if required, prior to the application of insulation.
@@ -458,18 +448,14 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Install pvc valve and flange covers in the same manner as the pipe jacketing, properly sealing around valve packing glands and stems, using extra long pvc covers to allow for bolt removal. Seal the insulation on all fittings, elbows, couplings, flanges, valve bodies, etc. with Dow “Saran 520” or mastic/ fabric/mastic application. 
    1. Outdoor Applications:
       1. all outdoor insulated piping, fittings, and equipment.
-
-## General
-
-   1. Install metal jacket weatherproofing over the outer surfaces of all insulation work on all piping, ductwork and equipment located outdoors. Fabricate all metal jacketing of aluminum. 
-   1. Install metal jacketing as soon as possible after the insulation work has been completed. At the end of the day apply the metal jacketing to all insulation materials applied on that day. Temporarily protect any exposed insulation with a combination moisture and/or UV barrier such as black polyethylene film, sealed to the pipe, duct or equipment.
-   1. Do not apply mastics when the ambient temperature is, or is expected to be in the next 24 hours, below 340 degrees F unless specifically approved for that use by the manufacturer.
-   1. Cut all openings in the metal jacketing for nozzles, brackets, protrusions, etc. as close as possible to achieve a tight fit. Use silicone or butyl based caulking compounds to seal all projections and penetrations.
-   1. Piping 
-   1. Provide a minimum of 2-inch overlap on all circumferential and longitudinal joints. Locate the longitudinal lap on horizontal piping alternatively at either the ten o’clock or two o’clock position to shed rainwater. Support metal jacketing on vertical piping by means ”S” clips made from stainless steel metal bands.
-   1. Provide preformed RPR “Insul-Mate” metal elbows, Childers “ELL-Jac” or “Univers-Ells” for fittings on piping up to NPS 12 and metal gore elbows on piping above NPS 12. Provide smooth metal jacketing over flanges and flanged fittings. Use stainless steel bands for securing metal jacketing on preformed and gored elbow covers. Provide metal jacketing with raised bead for proper closing of gores. Wherever possible, avoid using screws, pop rivets, etc; however where they must be used to secure irregular shapes, drill all holes before the metal jacketing is put in place over the insulation. Tape a 3-inch wide by 0.020 inch aluminum strip over the insulation under the seam of the metal jacketing.
-   1. Ductwork and Equipment
-   1. Apply metal jacketing for horizontal and vertical ductwork and equipment surfaces with 3-inch joint laps.
-   1. Fabricate metal jacketing for equipment vessel heads of a one-piece dish or conical sections fitted to the insulation. Install head covers to overlap the shell jackets by 4 inches and fasten by means of 1/2-inch x 0.020-inch stainless steel band, one for every gore. Install an additional band, 4 inches wide and secure with stainless steel bands.
+ 2. Install metal jacket weatherproofing over the outer surfaces of all insulation work on all piping, ductwork and equipment located outdoors. Fabricate all metal jacketing of aluminum. 
+   2. Install metal jacketing as soon as possible after the insulation work has been completed. At the end of the day apply the metal jacketing to all insulation materials applied on that day. Temporarily protect any exposed insulation with a combination moisture and/or UV barrier such as black polyethylene film, sealed to the pipe, duct or equipment.
+   3. Do not apply mastics when the ambient temperature is, or is expected to be in the next 24 hours, below 340 degrees F unless specifically approved for that use by the manufacturer.
+   4. Cut all openings in the metal jacketing for nozzles, brackets, protrusions, etc. as close as possible to achieve a tight fit. Use silicone or butyl based caulking compounds to seal all projections and penetrations.
+   5. Piping 
+   6. Provide a minimum of 2-inch overlap on all circumferential and longitudinal joints. Locate the longitudinal lap on horizontal piping alternatively at either the ten o’clock or two o’clock position to shed rainwater. Support metal jacketing on vertical piping by means ”S” clips made from stainless steel metal bands.
+   7. Provide preformed RPR “Insul-Mate” metal elbows, Childers “ELL-Jac” or “Univers-Ells” for fittings on piping up to NPS 12 and metal gore elbows on piping above NPS 12. Provide smooth metal jacketing over flanges and flanged fittings. Use stainless steel bands for securing metal jacketing on preformed and gored elbow covers. Provide metal jacketing with raised bead for proper closing of gores. Wherever possible, avoid using screws, pop rivets, etc; however where they must be used to secure irregular shapes, drill all holes before the metal jacketing is put in place over the insulation. Tape a 3-inch wide by 0.020 inch aluminum strip over the insulation under the seam of the metal jacketing.
+   8. Ductwork and Equipment
+   9. Apply metal jacketing for horizontal and vertical ductwork and equipment surfaces with 3-inch joint laps.
+   10. Fabricate metal jacketing for equipment vessel heads of a one-piece dish or conical sections fitted to the insulation. Install head covers to overlap the shell jackets by 4 inches and fasten by means of 1/2-inch x 0.020-inch stainless steel band, one for every gore. Install an additional band, 4 inches wide and secure with stainless steel bands.
    1. Secure metal jacketing on horizontal and vertical ductwork and equipment with 1/2-inch x 0.020-inch stainless steel bands spaced on 12-inch centers. Wherever possible, avoid using screws, pop rivets, etc.; however where they must be used to secure irregular shapes, drill all holes before the metal jacketing is placed over the insulation. Support metal jacketing on vertical equipment by means of “S” clips on 12-inch centers. 
-

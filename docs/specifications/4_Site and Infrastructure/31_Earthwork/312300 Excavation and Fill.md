@@ -28,7 +28,9 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Excavation', 'Fill']
       1. shall include all solid rock masses which cannot be excavated as specified under “Earth Excavation” and isolated boulders exceeding 1 cubic yard in size.
 3. Unsuitable material:
       1. shall include all materials that contain roots, debris, organic, frozen, unstable or unshapable materials or stones having a maximum dimension of 12-inches or greater and that are determined by the Engineer as unsuitable for providing a proper foundation or backfill.
-   1. Product
+   
+## Products
+
 1. Materials
    1. Foundation Materials:
 	1. Imported

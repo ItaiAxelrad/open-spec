@@ -202,7 +202,9 @@ the Work of this Section, including all components of membrane roofing system su
    1. retarders, roof pavers, and walkway products, for the following warranty period:
          1. Warranty Period:
       1. Two years from date of project completion. 
-   1. Product
+   
+## Products
+
 1. TPO MEMBRANE ROOFING
    1. Fabric-Reinforced Thermoplastic Polyolefin Sheet:
       1. ASTM D 6878, internally scrim 

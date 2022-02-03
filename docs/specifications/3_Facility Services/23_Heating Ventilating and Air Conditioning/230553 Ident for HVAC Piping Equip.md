@@ -7,7 +7,6 @@ subgroup: Facility Services
 tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 'Ident', 'HVAC', 'Piping', 'Equip']
 ---
 
-
 ## General
 
 1. RELATED DOCUMENTS
@@ -129,7 +128,3 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Chilled water
    1. Green
    1. White
-
- **END OF SECTION 230553
-1. (THIS PAGE INTENTIONALLY BLANK)
-

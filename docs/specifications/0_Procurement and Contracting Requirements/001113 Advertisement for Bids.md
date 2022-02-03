@@ -23,4 +23,3 @@ tags: ['Procurement', 'Contracting', 'Requirements', 'Advertisement', 'Bids']
          1. Located at:
       1. Upon payment of (for each set):
    6. Date:
-   1. 

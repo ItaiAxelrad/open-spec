@@ -68,7 +68,9 @@ the separate trades in order to avoid interference between the various phases of
    1. The Contractor shall provide the wiring, connections, service switches, poles, wiring protective devices, lighting fixtures, lamps, outlet devices, disconnect switches, etc., as required for temporary lighting. In addition, a similar system shall be provided for the distribution of single and three phase power of voltage levels and adequate ampacity as required to facilitate the construction of the project. These services shall be installed in accordance with requirements of the National Electrical Code (NEC) and the Occupational Safety and Health Administration (OSHA).
    1. The Electrical Contractor shall install and arrange for payment of energy costs from the
 General Contractor for the construction period.
-   1. Product
+   
+## Products
+
 01. EQUIPMENT FOR UTILITY COMPANY'S ELECTRICITY METERING
    1. Current-Transformer Cabinets:
       1. Comply with requirements of electrical power utility company. B. Meter Sockets:

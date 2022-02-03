@@ -47,7 +47,9 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Excavation', 'Support', 'Protecti
 10. Survey Work:
 	16. Engage a qualified land surveyor or professional engineer to survey adjacent existing buildings, structures, and site improvements; establish exact elevations at fixed points to act as benchmarks. Clearly identify benchmarks and record existing elevations.
 	17. During installation of excavation support and protection systems, regularly resurvey benchmarks, maintaining an accurate log of surveyed elevations and positions for comparison with original elevations and positions. Promptly notify Architect if changes in elevations or positions occur or if cracks, sags, or other damage is evident in adjacent construction.
-   1. Product
+   
+## Products
+
 11. MATERIALS
 	 1. General: 
 	18. Provide materials that are either new or in serviceable condition.

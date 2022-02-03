@@ -10,7 +10,7 @@ tags: ['General', 'Requirements', 'Sustainable', 'Design']
 
 ## General
 
-   1. ENVIRONMENTAL REQUIREMENTS FOR THE PROJECT
+1. ENVIRONMENTAL REQUIREMENTS FOR THE PROJECT
    1. The Owner has established the following environmental requirements for the Project. These requirements are general in nature; refer to specific specification sections for more detailed requirements. Notify Owner and Architect if conflicts arise between performance of the work and environmental requirements. This specification is not intended to limit alternative means of achieving these requirements. Suggestions and input from the contractor(s) for implementing these requirements are encouraged. A team approach is encouraged. Refer to Section 015050 – Construction Waste Management.
    1. Use resources efficiently:
       1. Reuse existing buildings and materials.
@@ -23,11 +23,11 @@ tags: ['General', 'Requirements', 'Sustainable', 'Design']
       1. Select materials from abundant, well-managed resources.
    1. Select materials that are replaceable, renewable, or can be replenished.
       1. Select materials that minimize damage to natural habitats.
-Use durable materials:
+1. Use durable materials:
       1. Select materials with the longest usable life.
    1. Select materials that can be reused.
       1. Select materials with the least burdensome maintenance requirements.
-Create spaces that are healthy for occupants:
+1. Create spaces that are healthy for occupants:
       1. Select low-toxic products and materials.
    1. Select materials without toxic maintenance requirements.
    1. Specify mechanical equipment that will provide fresh air and will not trap water or pollutants.
@@ -55,7 +55,6 @@ Create spaces that are healthy for occupants:
    1. Contractor to validate required recycled content and local/regional availability within 500 mile radius of project.
    1. Utilize attached recycle content worksheet to identify materials noted above. See 018113A, Appendix A Materials Anticipated to be Used for Recycle Content.
    1. Refer to attached LEED rating system matrix for project requirements. See 018113B, Appendix B LEED Matrix.
-
    1. The utilization of building materials with recycled content will be maximized in the construction of this project. The requirements established by Executive Order 13101, with regard to building construction materials will be met or exceeded. A listing of the materials anticipated to be of recycled content is provided below. The materials listed below, not indicating recycled content require the contractor to provide and list as much recycled content as feasible and the contractor may list additional materials to be considered/utilized with the recycled content and local/regional availability in the chart below to validate required recycled content and local/regional availability within 500 miles of project site.
    1. Specification
    1. Recycle Content
@@ -70,4 +69,3 @@ Create spaces that are healthy for occupants:
    1. Division 9
    1. Division 10
    1. Division 11
-

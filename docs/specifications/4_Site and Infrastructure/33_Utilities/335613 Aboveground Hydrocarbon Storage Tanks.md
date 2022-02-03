@@ -16,7 +16,6 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Aboveground', 'Hydrocarbon', 'Sto
 1. SCOPE
    1. The work under this section shall consist of providing all materials, labor, equipment, and supervision necessary to install ***(quantity, sizes)*** gallon double-walled aboveground petroleum storage tank***(s)*** with appropriate openings and appurtenances to meet the needs of the system required in these specifications and on the drawings. The finished product of the work shall comply with all applicable administrative regulatory codes. *(Note to the designer:
       1. Include brief description of the work and locations, if necessary).*** Included are the following topics:
-    1. 
 ## General
 
    1. Scope  

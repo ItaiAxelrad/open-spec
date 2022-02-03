@@ -210,7 +210,7 @@ tags: ['Facility', 'Construction', 'Concrete', 'Cast-in-Place']
  **C.** All concrete materials and all reinforcement, forms, filler and ground with which the concrete is to come in contact shall be free from frost. Adequate means shall be provided for maintaining a temperature of the concrete at not less than 70E Fahrenheit for 3 days or 50E Fahrenheit for 5 days except when high-early-strength concrete is used the temperature shall be maintained at not less than 70E for as much more time as is necessary to insure proper curing of the concrete. The housing, covering or other protection used in connection with curing shall remain in place and intact at least 24 hours after the artificial heating is discontinued. No dependence shall be place on salt or other chemicals for the prevention of freezing.
 1. Waterproofing of Foundation Walls
     1. Exterior foundation walls below grade shall be primed with one coat of Barrett Carbosote Creosote Oil and two coats of Barrett Waterproofing Pitch, or approved equal. The first coat shall be applied at a rate of 25-30 pounds per hundred square feet, and the second coat at a rate of 20-25 pounds per hundred square feet. Surfaces to be treated must be clean, dry and free of dust or loose particles.
-1. 3.16** **Evaluation of Concrete
+2. Evaluation of Concrete
 
  **A. General:** Concrete work which does not conform to the
     1. specified requirements, including strength, tolerances, and finishes, shall be corrected as directed by the Engineer at the Contractor's expense, without extension of time there­for.

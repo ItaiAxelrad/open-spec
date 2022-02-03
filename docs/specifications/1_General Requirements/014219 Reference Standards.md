@@ -7,9 +7,6 @@ subgroup: General Requirements
 tags: ['General', 'Requirements', 'Reference', 'Standards']
 ---
 
-   1. Section 01 42 19
-   1. reference standards
-
 ## General
 
 1. SUMMARY
@@ -22,7 +19,7 @@ tags: ['General', 'Requirements', 'Reference', 'Standards']
 	5. Quality Assurance
 3. Applicable Standards:
 	1. The standards listed in these Specifications include, but are not limited to, standards promulgated by the following agencies and organizations:
-      1. AA 
+   1. AA 
    1. Aluminum Association
    1. AABC 
    1. Associated Air Balance Council 
@@ -415,10 +412,8 @@ tags: ['General', 'Requirements', 'Reference', 'Standards']
 
 ## Product 
 
- (Not Used)
-
+(Not Used)
 
 ## Execution
 
- (Not Used)
-
+(Not Used)

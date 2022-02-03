@@ -48,7 +48,6 @@ tags: ['Procurement', 'Contracting', 'Requirements', 'Supplementary', 'Condition
 	1. General:
       1. You may not sublicense, assign, or transfer this license except as expressly provided in this Agreement. Any attempt otherwise to sublicense, assign, or transfer any of the rights, duties, or obligations hereunder is void.
    1. This Agreement shall be governed by the laws of the State of Virginia. Should you have any questions concerning this Agreement, you may contact EJCDC by writing to:
-    1. 
     1. Arthur Schwartz, Esq.
 
 ## General Counsel
@@ -522,8 +521,7 @@ If it is desired to add a new paragraph to the General Conditions, the thought m
    1. It is most important to include in the information furnished to Contractor and its Subcontractors the amount of any deductible provision to be included in Owner's property insurance since GC-5.06.D states that they and not Owner will be responsible for all of their own losses within the deductible amount. If Owner is to be responsible for any loss suffered by Contractor or any Subcontractor within the deductible amount, the change should be accomplished in SC-5.06.D. On cost-plus and guaranteed maximum price contracts, the manner in which losses within the deductible amount are to be charged should be covered in SC-5.06.D if not covered elsewhere in the Contract Documents. If Contractor is to provide the property insurance, the different consequences to Owner and Contractor of any deductible provision should be analyzed and language to accomplish a pertinent change in GC-5.06.D should appear in SC-5.06.D as well as SC-11.01.A.5.f.
    1. If Owner wants Contractor to provide the property insurance, a major revision of GC-5.06 will be required, and it will also be necessary to modify several other related paragraphs. The advisability of selecting this method for property insurance coverage is, of course, within Owner’s prerogative. If that approach is selected and if there are several prime contractors involved in the Project, the Supplementary Conditions must clearly indicate which of the several contractors is to maintain the property insurance and that the interests of each other contractor and its subcontractors are to be included. Under certain circumstances, Builder’s Risk on the “all-risk” form of insurance may not be available for this sort of an arrangement. An alternative (possibly more costly) would be for each prime contractor to provide property insurance for the full replacement cost of its part of the Project. 
    1. If Contractor is to provide the property insurance and there are no other extenuating circumstances, the following language may be included to amend GC-5.06.A in its entirety:
-     1. 
-1. SC-5.06.A. Delete Paragraph 5.06.A in its entirety and insert the following in its place:
+ 1. SC-5.06.A. Delete Paragraph 5.06.A in its entirety and insert the following in its place:
       1. Contractor shall purchase and maintain property insurance upon the Work at the Site in the amount of the full replacement cost thereof. 
  *
 	1. This insurance shall**: 
