@@ -135,7 +135,7 @@ tags: ['Facility', 'Construction', 'Concrete', 'Materials', 'Proportioning']
 	9. Aggregate manufacturer shall be the same as the adhesive manufacturer.
 	10. The aggregate shall be compatible with the adhesive.
 	11. Each component shall be furnished in separate packaging for mixing at job site.
-10. 2.3 Mixes
+11. Mixes
 	 1. General:
 	12. Provide concrete capable of being placed without aggregate segregation and, when cured, of developing all properties specified.
 	13. Ready-mixed concrete shall conform to ASTM C94/C94M.

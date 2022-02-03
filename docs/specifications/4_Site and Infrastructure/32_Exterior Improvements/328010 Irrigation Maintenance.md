@@ -41,7 +41,9 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Irrigation', 'Main
    1. Damage repair to the irrigation system not resulting from the Contractor's operation and negligence, will be considered "extra work.” This work will be paid based upon a price for repairs agreed to by the Manager and Contractor prior to commencing work. Repairs not included are normal wear and tear of the system and breakage by the contractor. 
    1. The following procedure will be followed regarding emergency repairs. Emergency repair will be promptly acted on by the Contractor. The Contractor will react to mainline breaks immediately shutting down the system and/or closing gate valves to isolate the area. The Contractor must respond immediately to eliminate any threat of property damage or public safety. The Contractor may be liable for any damages and associated costs which result from a failure to respond to emergencies under the limits of this agreement. Immediately after isolating the issues, the Contractor will present the emergency repair and associated costs and estimates to the Owner’s Representative for a decision on the repair(s).
    1. Whenever possible do not shut down the irrigation pumps, meter, or backflows to isolate damaged areas – gate valves in the mainline should be the first course of corrective action always.
-   1. products
+   
+## PRODUCTS
+
    1. Refer to plans.
 
 ## Execution

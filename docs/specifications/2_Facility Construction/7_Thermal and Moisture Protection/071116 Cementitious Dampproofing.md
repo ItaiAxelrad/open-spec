@@ -55,37 +55,32 @@ tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Cementi
    2. Manufacturer warranty
 	18. Manufacturer shall provide standard product warranty executed by authorized company official.
 ## Product
-1. 2.1 Acceptable Manufacturers
+1. Acceptable Manufacturers
    1. Xypex Chemical Corporation
 2. Euclid Chemical Company
 3. W.R. Meadows, Inc.
-1. 2.2 Materials
+1. Materials
    1. Source Quality:
 	1. Obtain all proprietary cementitious waterproofing products from a single manufacturer.
 
 
 ## Execution
 
-1. 3.1 Examination
+1. Examination
    1. Site Visit:
-      1. 
 	1. Prior to waterproofing installation, arrange visit to project site with waterproofing manufacturer’s representative. 
 	2. Representative shall inspect and certify that concrete surfaces are in acceptable condition to receive waterproofing treatment.
 2. Verification of Substrates:
-      1. 
 	1. Verify that concrete surfaces are sound and clean, and that form release agents and materials used to cure the concrete are fully removed.
 3. Examination for Defects:
-      1. 
 	1. Examine surfaces to be waterproofed for defects such as honeycombing, rock pockets, faulty construction joints and cracks. 
 	2. Such defects to be repaired in accordance to manufacturer’s product data and 3.2 below.
-1. 3.2 Preparation
+1. Preparation
    1. Surface Preparation:
-      1. 
 	1. Prepare concrete surfaces in accordance with manufacturer’s specifications.
 2. Repair of Defects:
-      1. 
 	1. Concrete defects shall be repaired in accordance with manufacturer’s technical literature
-1. 3.3 Application
+1. Application
    1. Apply product in accordance with manufacturer’s specifications and recommendations
 	1. Manufacturer recommendations and specifications shall include but is not limited to procedures for:
 		1. Construction Joints
@@ -95,7 +90,7 @@ tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Cementi
 2. Curing:
 	1. Allow for adequate curing in accordance with manufacturer’s specifications.
 	2. Do not backfill, apply additional coatings, or perform any other activity that might damage or inhibit the intended performance of the waterproofing coating that is not in accordance with manufacturer’s cure times or specifications.
-1. 3.4 Field Quality Control
+1. Field Quality Control
    1. Observation:
 	1. Do not conceal installed waterproofing system before it has been observed by Architect/Engineer, waterproofing manufacturer's representative and other designated entities.
 2. Testing:

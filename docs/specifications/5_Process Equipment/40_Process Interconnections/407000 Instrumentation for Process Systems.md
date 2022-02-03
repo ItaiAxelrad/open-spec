@@ -44,7 +44,7 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Instrumentation', 'Systems']
 		2. Manufacturer’s installation instructions.
 6. Operation and Maintenance Manuals.
 ## Product
-1. 2.1 Flow Components
+1. Flow Components
    1. Magnetic Flow Meters:
 	1. Acceptable Manufacturers:
 		1. McCrometer, Model MX08-W50.
@@ -64,7 +64,7 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Instrumentation', 'Systems']
 		3. Accuracy shall be within 2% of actual flow. 
 		4. Constructed materials shall be highly resistant to normal water corrosion.
 		5. 5-digit LCD rate indicator and 8-digit LCD cumulative flow rate indicator.
-1. 2.2 Pressure Components
+1. Pressure Components
    1. Pressure Switches:
 	1. Acceptable manufacturers:
 		1. Mercoid.
@@ -126,7 +126,7 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Instrumentation', 'Systems']
 			1. Instrument: 1/2 IN NPT.
 			2. Process: 0.5 IN female NPT.
 			3. PVC pipe applications: Use a socket weld connection.
-1. 2.3 Level Elements
+1. Level Elements
    1. Ultrasonic Level Sensor and Transmitter:
 	1. Acceptable Manufacturers:
 		1. Flowline, LU20.
@@ -143,7 +143,7 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Instrumentation', 'Systems']
 			2. Signal invert: 4-20 mA, 20-4 mA.
 			3. Non-volatile memory.
 			4. Display: 4-digit LCD.
-1. 2.4 Analytical Elements
+1. Analytical Elements
    1. Turbidity Analyzer:
 	1. Acceptable Manufacturers:
 		1. Hach, TU5300SC.

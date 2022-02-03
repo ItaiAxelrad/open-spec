@@ -384,7 +384,6 @@ tags: ['Procurement', 'Contracting', 'Requirements', 'General', 'Conditions']
    1. Amending and Supplementing Contract Documents
    1. The Contract Documents may be amended to provide for additions, deletions, and revisions in the Work or to modify the terms and conditions thereof by either a Change Order or a Work Change Directive.
    1. The requirements of the Contract Documents may be supplemented, and minor variations and deviations in the Work may be authorized, by one or more of the following ways:
-      1. 
 			1. A Field Order;
    1. Engineer’s approval of a Shop Drawing or Sample (subject to the provisions of Paragraph 6.17.D.3); or 
    1. Engineer’s written interpretation or clarification.
@@ -495,7 +494,6 @@ tags: ['Procurement', 'Contracting', 'Requirements', 'General', 'Conditions']
    1. contain a provision or endorsement that the coverage afforded will not be canceled, materially changed or renewal refused until at least 30 days prior written notice has been given to Owner and Contractor and to each other additional insured identified in the Supplementary Conditions to whom a certificate of insurance has been issued (and the certificates of insurance furnished by the Contractor pursuant to Paragraph 5.03 will so provide);
    1. remain in effect at least until final payment and at all times thereafter when Contractor may be correcting, removing, or replacing defective Work in accordance with Paragraph 13.07; and
    1. include completed operations coverage:
-      1. 
    1. Such insurance shall remain in effect for two years after final payment.
    1. Contractor shall furnish Owner and each other additional insured identified in the Supplementary Conditions, to whom a certificate of insurance has been issued, evidence satisfactory to Owner and any such additional insured of continuation of such insurance at final payment and one year thereafter. 
    1. Owner’s Liability Insurance

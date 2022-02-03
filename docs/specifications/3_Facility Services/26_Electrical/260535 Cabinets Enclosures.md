@@ -14,10 +14,12 @@ tags: ['Facility', 'Services', 'Electrical', 'Cabinets', 'Enclosures']
    1. Drawings and general provisions of the Contract, including General and Supplementary Conditions and Division 1 Specification Sections, apply to this Section.
 1. SUMMARY
    1. This Section includes provision of enclosures, terminal cabinets, terminal blocks and accessories as specified and indicated. 
-1. REFERENCES*   1. National Electrical Manufacturers Association (NEMA) 
+1. REFERENCES
+	1. National Electrical Manufacturers Association (NEMA) 
    1. 250 - Enclosures for Electrical Equipment (1000 Volts Maximum). 
    1. ICS 4 - Terminal Blocks for Industrial Control Equipment and Systems. 
-1. SUBMITTALS*   1. Product Data:
+1. SUBMITTALS
+	1. Product Data:
       1. Submit manufacturer's technical product data on enclosures, terminal cabinets, terminal blocks and accessories. 
 
 ## PRODUCTS
@@ -54,8 +56,8 @@ tags: ['Facility', 'Services', 'Electrical', 'Cabinets', 'Enclosures']
    6. Provide cabinet size as indicated. 
    7. Provide corrosion-resistant primer treatment and light gray, baked acrylic enamel finish. 
    8. Provide endwall conduit knockouts. 
-3. EMI/RFI-TIGHT ENCLOSURES*   1. Manufacturers:
-      1. 
+3. EMI/RFI-TIGHT ENCLOSURES
+	1. Manufacturers:
    9. Hoffman Enclosures, Inc:
       1. Bulletin A-51 
    10. Pico Metal Products 
@@ -66,8 +68,8 @@ tags: ['Facility', 'Services', 'Electrical', 'Cabinets', 'Enclosures']
    14. Provide cadmium plating for enclosure at gasket contact areas. 
    15. Provide a combination door gasket of woven-plated steel mesh and oil-resistant gasket held in place with retainers. 
    16. Provide hinged cover with stainless steel door clamps on three sides of door. 
-4. ACCESSORIES*   1. Terminal Blocks:
-      1. 
+4. ACCESSORIES
+	1. Terminal Blocks:
    17. Provide terminal blocks per NEMA ICS 4 for the indicated enclosures and cabinets. 
    18. Provide power terminals, for voltages above 50 volts, of the unit-construction, closed-back design, with tubular pressure screw terminal connectors, rated 600 volts. Provide barriers between each set of terminals. 
    19. Provide signal and control terminals for voltages 50 volts and less of the modular construction type, channel mounted with tubular pressure-screw terminal connectors, rated 300 volts. 

@@ -42,7 +42,6 @@ tags: ['Facility', 'Services', 'Electrical', 'Pad', 'Mounted', 'Medium-Voltage',
 1. SUBMITTALS
    1. Product Data 
    1. Submit manufacturer's technical product data on the switchgear components including the following:
-      1. 
    1. Vacuum interrupter switches. 
    1. Instruments, meters, relays. 
    1. Switchgear assembly and enclosure. 
@@ -51,7 +50,6 @@ tags: ['Facility', 'Services', 'Electrical', 'Pad', 'Mounted', 'Medium-Voltage',
    1. Metering provisions.
    1. Shop Drawings 
    1. Submit dimensioned Shop Drawings including the following:
-      1. 
    1. Overall switchgear plan with front, side, and rear elevations. 
    1. Conduit entrance locations and requirements. 
    1. Interior elevations and sections.
@@ -77,7 +75,9 @@ tags: ['Facility', 'Services', 'Electrical', 'Pad', 'Mounted', 'Medium-Voltage',
    1. Storage and Protection
    1. Store equipment as to maintain it in a clean and dry condition.
    1. Store in a heated area with a minimum ambient temperature in accordance with manufacturer’s recommendations.
-1. PRODUCTS
+
+## PRODUCTS
+
 1. MANUFACTURERS
    1. See Editing Instruction No. 1 in the Evaluations for cautions about naming manufacturers and products.
    1. Edit this Article with other Part 2 articles in which manufacturers are named. See Division 01 Section "Product Requirements" for an explanation of the terms "Available Manufacturers" and "Manufacturers" and the effect these terms have on "Comparable Product" and "Product Substitution" requirements.
@@ -99,7 +99,8 @@ tags: ['Facility', 'Services', 'Electrical', 'Pad', 'Mounted', 'Medium-Voltage',
    1. Each fuse shall be provided with a dual-purpose front barrier. These barriers, in their normal hanging positions, shall guard against inadvertent contact with live parts. It shall also be possible to lift these barriers out and insert them into the open gaps when the fuses are in the disconnect position. These barriers shall meet the requirements of Section 381G of the National Electrical Safety Code (ANSI Standard C2).
    1. The enclosure shall be provided with an instruction manual holder.
    1. Lifting tabs shall be removable. Sockets for the lifting-tab bolts shall be blind-tapped. A resilient material shall be placed between the lifting tabs and the enclosure to help prevent corrosion by protecting the finish against scratching by the tabs. To further preclude corrosion, this material shall be closed-cell to prevent moisture from being absorbed and held between the tabs and the enclosure in the event that lifting tabs are not removed.
-1. CONSTRUCTION-ASSEMBLY*   1. Insulators:
+1. CONSTRUCTION-ASSEMBLY
+	1. Insulators:
       1. The interrupter-switch and fuse-mounting insulators shall be of a cycloaliphatic epoxy resin system with characteristics and restrictions as follows:
       1. Operating experience of at least 15 years under similar conditions.
    1. Adequate leakage distance established by test per IEC Publication 507, First Edition, 1975.
@@ -229,21 +230,23 @@ tags: ['Facility', 'Services', 'Electrical', 'Pad', 'Mounted', 'Medium-Voltage',
    1. The inside of each door (or set of double doors) shall be provided with a ratings label indicating the following:
       1. voltage ratings; main bus continuous rating; short-circuit ratings (amperes RMS symmetrical and mVA three-phase symmetrical at rated nominal voltage); the type of fuse and its maximum ampere rating; and interrupter switch ratings including duty-cycle fault-closing and short-time (momentary, amperes RMS asymmetrical and one-second, amperes RMS symmetrical).
    1. A three-line connection diagram showing interrupter switches, fuses, and bus along with the manufacturer's model number shall be provided on the inside of each door (or set of double doors), and on the inside of each switch-operating-hub access cover.
-1. ACCESSORIES*   1. Provide one metal oxide, distribution class surge arrester, minimum kV rating as recommended by manufacturer, per IEEE C62.1 and NEMA LA 1, for each phase termination. Solidly ground arresters to switchgear ground bus.
+1. ACCESSORIES
+	1. Provide one metal oxide, distribution class surge arrester, minimum kV rating as recommended by manufacturer, per IEEE C62.1 and NEMA LA 1, for each phase termination. Solidly ground arresters to switchgear ground bus.
    1. Provide numbered metering and control wiring where metering components are indicated on drawings. 
    1. Provide single phase, 60 hertz control power transformer, of kVA as required for load, protected with current limiting primary fuses and secondary main breaker where metering components are indicated on drawings . 
-1. SOURCE QUALITY CONTROL*   1. Factory Tests 
+1. SOURCE QUALITY CONTROL
+	1. Factory Tests 
    1. Perform the following breaker tests:
-      1. 
    1. DC high potential to confirm insulation and vacuum integrity. 
    1. Mechanical and electrical close and trip operation. 
    1. Resistance through each pole. 
    1. Perform the following relay and instrument tests:
-      1. 
    1. Verify accuracy and operation. 
    1. Verify transformer ratio and polarity. 
    1. Verify relay operation. 
-1. PRODUCTS
+
+## PRODUCTS
+
 1. SUMMARY
    1. Pad-mounted equipment shall be installed on concrete pads in accordance with the manufacturers published, standard installation drawings and procedures, except that they shall be modified to meet the requirements of this document. Units shall be carefully installed so as not to damage equipment or scratch painted or coated surfaces. After installation, surfaces shall be inspected and scratches touched up with a paint or coating provided by the manufacturer especially for this purpose. Three phase transformer installations shall be installed with A, B, C phase sequence. Primary taps shall be set at tap to produce nominal secondary voltage.
 1. SWITCHGEAR AND TRANSFORMER PADS
@@ -255,7 +258,8 @@ tags: ['Facility', 'Services', 'Electrical', 'Pad', 'Mounted', 'Medium-Voltage',
    1. Padlocks by shall be provided by the Owner for pad-mounted equipment and transformers.
 1. IDENTIFICATION
    1. Provide engraved plastic-laminate signs, per related Division 26 sections of the Specifications, located on the front of each component, indicating equipment, voltages and source.
-1. FIELD QUALITY CONTROL*   1. Field Tests 
+1. FIELD QUALITY CONTROL
+	1. Field Tests 
    1. Prepare for acceptance tests as follows:
       1. Test insulation resistance for each switchgear bus, component, connecting supply, feeder, and control circuit.
    1. Test continuity of each circuit.

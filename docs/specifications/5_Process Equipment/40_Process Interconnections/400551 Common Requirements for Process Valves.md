@@ -62,14 +62,14 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Common', 'Requirements', 'Va
 6. Provide Operation and Maintenance Manuals.
 7. Provide verification from valve actuator manufacturer that actuators have been installed properly, that all limit switches and position potentiometers have been properly adjusted, and that the valve actuator responds correctly to the valve position command. 
 ## Product
-1. 2.1 Acceptable Manufacturers
+1. Acceptable Manufacturers
    1. Valves:
       1. Subject to compliance with the Contract Documents, refer to individual valve Specification Sections for acceptable manufacturers.
 2. Actuators:
 	1. Electric Actuators: Bray, Series 70.
-1. 2.2 Materials
+1. Materials
    1. Refer to individual valve Specification Section.
-1. 2.3 Valve Actuators
+1. Valve Actuators
    1. Valve Actuators - General:
 	1. Counter clockwise opening as viewed from the top.
 	2. Direction of opening and the word OPEN to be cast in handwheel or valve bonnet.
@@ -128,7 +128,7 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Common', 'Requirements', 'Va
 
 ## Execution
 
-1. 3.1 Installation
+1. Installation
    1. Install products in accordance with manufacturer's instructions.
 2. Painting Requirements:
       1. Comply with Specification Section 09 90 00 for painting and protective coatings.

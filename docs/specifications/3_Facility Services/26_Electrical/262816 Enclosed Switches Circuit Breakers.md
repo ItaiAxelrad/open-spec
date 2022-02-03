@@ -45,7 +45,9 @@ tags: ['Facility', 'Services', 'Electrical', 'Enclosed', 'Switches', 'Circuit', 
    1. Provide set of three spare replacement fuses for each size and voltage of class RK1 and RK5 fuse provided, on the basis of one spare set for every ten sets of fuses provided, but in no case less than one set of spares.
    1. Fuse Cabinet:
       1. Provide fuse cabinet(s) as needed to house all spare fuses provided. Mount cabinets as indicated.
-1. PRODUCTS
+
+## PRODUCTS
+
 1. CIRCUIT BREAKER
    1. Manufacturers:
       1. Cutler-Hammer
@@ -89,7 +91,9 @@ tags: ['Facility', 'Services', 'Electrical', 'Enclosed', 'Switches', 'Circuit', 
    1. Panelboard main fuses where the amperage ratio between the main fuse to the largest feeder fuse is at least 2:1.
    1. Fuses rated greater than 600 amperes:
       1. UL Class L, current-limiting, per UL 198C, with an interrupting rating of 200,000 amperes RMS.
-1. EXECUTION
+
+## EXECUTION
+
 1. INSTALLATION
    1. Enclosed Switches and Circuit Breakers:
       1. NEMA AB 1, NEMA KS 1, NEMA 250, and UL 50, to comply with environmental conditions at installed location.

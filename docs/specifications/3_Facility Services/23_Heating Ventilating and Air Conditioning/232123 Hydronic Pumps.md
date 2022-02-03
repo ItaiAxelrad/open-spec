@@ -56,7 +56,9 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. For storage times greater than five days, dry internal parts with hot air or a vacuum-producing device to avoid rusting internal parts. Upon drying, coat internal parts with a protective liquid such as light oil, kerosene, or antifreeze. Dismantle bearings and couplings, dry and coat them with an acid-free heavy oil, and then tag and store in dry location.
 1. warranty
    1. See procedures specified in Division 1 sections of the Specifications. 
-1. PRODUCTS
+
+## PRODUCTS
+
 1. MANUFACTURERS
    1. Subject to compliance with requirements, provide one of the following:
       1. Base-Mounted, Close-Coupled, End-Suction Pumps
@@ -97,7 +99,9 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
       1. Mechanical seals consisting of flushed seals of a carbon steel rotating ring, stainless steel spring, ceramic seat, and flexible bellows and gasket.
    1. Motor:
       1. Direct-mounted to pump casing with supporting legs as an integral part of motor enclosure.
-1. EXECUTION
+
+## EXECUTION
+
 1. EXAMINATION
    1. Examine areas, equipment foundations, and conditions, with Installer present, for compliance with requirements for installation tolerances and other conditions affecting performance of HVAC pumps.
    1. Examine rough in for piping systems to verify actual locations of piping connections prior to installation.

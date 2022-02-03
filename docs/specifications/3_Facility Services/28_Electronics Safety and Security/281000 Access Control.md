@@ -13,7 +13,6 @@ tags: ['Facility', 'Services', 'Electronics', 'Safety', 'Security', 'Access', 'C
    1. Drawings and general provisions of the Contract, including General and Supplementary Conditions and Division 1 Specification Sections, apply to this Section.
 1. SUMMARY
    1. This Section includes:
-      1. 
    1. Provide a complete closed-circuit television (CCTV) system including, but not limited to, color cameras, software, programming, cabling and accessories as specified and indicated. System shall be connected to and integrated into existing system. Contractor shall verify existing system interface requirements, capacities, etc. and provide all necessary hardware and software required for a complete functional system. Final connections to existing system and programming shall be by Owner.
    1. Provide a complete Access Control System (ACS) including but not limited to card readers, Barium Ferrite access cards, programming, cabling, door contacts, request to exit motion sensors, controllers, system interface hardware, and accessories as specified and indicated. Contractor shall verify existing system interface requirements, capacities, etc. and provide all necessary hardware, software and programming required for a complete functional system. Final connections to existing system and programming shall be by Owner.
    1. Related Work:
@@ -72,7 +71,9 @@ tags: ['Facility', 'Services', 'Electronics', 'Safety', 'Security', 'Access', 'C
    1. Comply with NECA 1.
    1. Comply with NFPA 70.
 1. Retain paragraph below if video surveillance will be integrated with one or more of other systems and integration requirements are specified in one of those system Sections. If retaining below, edit both paragraph above and paragraph below to coordinate with the scope of the Section that includes systems integration requirements.
-1. PRODUCTS
+
+## PRODUCTS
+
    1. SECURITY ACCESS CONTROL SYSTEM
    1. Access Control Panels:
       1. Software House
@@ -142,7 +143,9 @@ tags: ['Facility', 'Services', 'Electronics', 'Safety', 'Security', 'Access', 'C
       1. Nitek TT560
    1. RS422 Line Driver:
       1. Nitek DL1142
-1. EXECUTION
+
+## EXECUTION
+
 1. EXAMINATION
    1. Installation of Security Access Control System and CCTV System:
       1. Install in accordance with equipment manufacturer's written instructions, and in compliance with applicable installation standards specified above.

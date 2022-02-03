@@ -74,7 +74,8 @@ tags: ['Facility', 'Services', 'Plumbing', 'Insulation']
 "Exposed areas" are finished areas and other areas used by personnel in the normal use of the building, such as boiler room, fan rooms, mechanical rooms, and storage rooms. 
 
 "Concealed areas" are pipe tunnels, covered pipe trenches, spaces inside walls, duct or pipe shafts, spaces above dropped ceilings, unfinished attic spaces, crawl spaces, and space below access floor. 
-1. SYSTEM DESCRIPTION*   1. Design Requirements 
+1. SYSTEM DESCRIPTION
+	1. Design Requirements 
    1. Heated piping systems to be insulated 
    1. Domestic hot water supply and return. 
    1. Domestic hot and cold water angle valve assemblies and drain piping exposed under lavatories for the handicapped. See section 22 4000, “Plumbing Fixtures”.
@@ -96,7 +97,8 @@ tags: ['Facility', 'Services', 'Plumbing', 'Insulation']
    1. Above ground horizontal sanitary lines serving mechanical equipment from floor drains.
    1. Heated equipment to be insulated 
    1. Hot water expansion tanks.
-1. SUBMITTALS*   1. See requirements in Division 22, “Common Work Results for Plumbing.”
+1. SUBMITTALS
+	1. See requirements in Division 22, “Common Work Results for Plumbing.”
    1. Product Data
    1. Submit description, heat transfer coefficients, characteristics, and compliance with specified flame spread and smoke development ratings for insulation, jackets and adhesives on insulated systems. 
    1. Schedules
@@ -107,8 +109,11 @@ tags: ['Facility', 'Services', 'Plumbing', 'Insulation']
    1. Store insulation and accessory materials in a manner that protects them from damage due to moisture and temperature. Store all flammable materials away from ignition sources such as welding operations.
    1. Store mastics, adhesives and sealers where temperature ranges required by the material manufacturer can be maintained.
    1. Keep all insulation material dry and off the ground and provide adequate protection against moisture and inadequate drainage. Remove and replace wet or damaged material.
-1. WARRANTY*   1. See requirements in Division 22, “Common Work Results for Plumbing.”
-1. PRODUCTS
+1. WARRANTY
+	1. See requirements in Division 22, “Common Work Results for Plumbing.”
+
+## PRODUCTS
+
 
 ## General
 
@@ -116,7 +121,8 @@ tags: ['Facility', 'Services', 'Plumbing', 'Insulation']
    1. Provide pipe insulation in pre-molded, 3- or 6-foot-long sections, split ready for application or split with factory applied vapor barrier attached. 
    1. Do not use wheat paste, mold-breeding and mold-sustaining organic materials. 
    1. Provide insulation materials which are 100 percent asbestos free. 
-1. MANUFACTURERS*   1. Fiberglass Insulation 
+1. MANUFACTURERS
+	1. Fiberglass Insulation 
    1. Owens-Corning Fiberglas Corporation; Johns Manville; Manson Insulation, Inc.; or Knauf Fiber Glass. 
    1. Cellular Glass Insulation 
    1. Pittsburgh Corning Corporation “Foamglas”; Cell-U-Foam Corp. “Ultra-CUF 1031”.
@@ -174,7 +180,6 @@ tags: ['Facility', 'Services', 'Plumbing', 'Insulation']
       1. 165 degrees F. Provide insulation with a thermal conductivity, ‘k’ of 0.26 Btu/hr/sq. ft./degree F/in. at 75 degrees F mean temperature. Extruded Foamed Polystyrene will be permitted in Mechanical Equipment Rooms not used as return air plenums and outdoor locations only. Provide insulation conforming to the following standards:
     1. ASTM C177 or 518, C272, C335, C755, C1136, D2842, E96.
    1. Phenolic foam rigid thermal insulation with a factory applied vapor barrier, with self-sealing laps and separate self-adhesive butt strips. Minimum service temperature of -60 degrees F and a maximum service temperature of 250 degrees F. Provide insulation with a thermal conductivity, ‘k’ of 0.13 Btu/hr/sq. ft./degree F/in. at 75 degrees F mean temperature. Minimum density of 2.2 lb. cu/ ft. Provide insulation and jacketing conforming to the following standards:
-      1. 
     1. ASTM C177 or C518, C273, C411, C1126, D696, D1622, D2842, E84, E96 
    1. Pipe Insulation Minimum Thickness
    1. Abbreviations
@@ -208,7 +213,8 @@ tags: ['Facility', 'Services', 'Plumbing', 'Insulation']
       1. 25/50 flame/smoke requirements not applicable.
    1. Note 1:
       1. Run-outs to individual terminal units not exceeding 12 ft. in length.
-1. HEATED EQUIPMENT INSULATION SCHEDULE*   1. Glass fiber, rigid board insulation, non-combustible, with a thermal conductivity ‘k’ of 0.23 Btu/hr/sq. ft./degree F/in at 75 degrees F mean temperature with a maximum service temperature of 450 degrees F and a density of 3.0 lb/cu. ft. Provide insulation that conforms to the following standards:
+1. HEATED EQUIPMENT INSULATION SCHEDULE
+	1. Glass fiber, rigid board insulation, non-combustible, with a thermal conductivity ‘k’ of 0.23 Btu/hr/sq. ft./degree F/in at 75 degrees F mean temperature with a maximum service temperature of 450 degrees F and a density of 3.0 lb/cu. ft. Provide insulation that conforms to the following standards:
       1. ASTM C612, C795, NFPA 90A, 90B.
    1. See Note 1
    1. Cellular glass insulation consisting of inorganic, foamed or cellular glass, annealed, rigid hermetically sealed cells with an ASTM C921, Type 1, factory-applied, polymer-modified bituminous compound reinforced with a 4-mil, high density, cross laminate, polyethylene top film. Provide insulation with a thermal conductivity 'k' of 0.32 Btu/hr/sq. ft./degree F/in. at 75 degrees F mean temperature and a maximum service temperature of 900 degrees F. Provide insulation and jacketing conforming to the following standards:
@@ -226,12 +232,10 @@ tags: ['Facility', 'Services', 'Plumbing', 'Insulation']
    1. Calcium silicate molded high temperature, block insulation, provided in half sections. Provide insulation with a maximum flame spread and smoke developed rating of 0 in accordance with ASTM E84. Maximum service temperature:
       1. 1200 degrees F. Provide insulation with a thermal conductivity, k:
       1. of 0.36 Btu/hr/sq.ft/degree F/in. at 100 degrees F. Provide insulation that conforms to the following:
-      1. 
    1. ASTM C 533, C795, E84, E136
    1. See Note 1
    1. Perlite rigid high temperature, block insulation, provided in half sections. Provide insulation with a maximum flame spread and smoke developed rating of 0 in accordance with ASTM E84. Maximum service temperature:
       1. 1200 degrees F. Provide insulation with a thermal conductivity rating, ‘k’ of 0.44 Btu/hr/sq.ft./degree F/in. at 100 degrees F. Provide insulation that conforms to the following:
-      1. 
    1. ASTM C177, C203, C209, C303, C356, E84 
    1. Insulation thickness schedule
    1. Service Temperature (Degrees F)
@@ -253,7 +257,8 @@ tags: ['Facility', 'Services', 'Plumbing', 'Insulation']
       1. 25/50 flame/smoke requirements not applicable. 
    1. Note 1:
       1. Insulation for indoor applications only
-1. AMBIENT AND COLD EQUIPMENT INSULATION SCHEDULE*   1. Elastomeric cellular sheet insulation with vapor barrier coating applied to all outer surfaces, with a maximum flame spread rating of 25 or less and a smoke developed rating of 50 or less for thicknesses up to 1 inch thick, in accordance with ASTM E84. Seal joints with a waterproof vapor retardant adhesive. Provide insulation with a thermal conductivity ‘k’ of 0.27 Btu/(hr/sq. ft./degree F/in at 75 degrees F mean temperature. Elastomeric cellular sheet insulation over 1 inch thickness will be permitted in mechanical equipment rooms not used as return plenums and outdoor locations only.
+1. AMBIENT AND COLD EQUIPMENT INSULATION SCHEDULE
+	1. Elastomeric cellular sheet insulation with vapor barrier coating applied to all outer surfaces, with a maximum flame spread rating of 25 or less and a smoke developed rating of 50 or less for thicknesses up to 1 inch thick, in accordance with ASTM E84. Seal joints with a waterproof vapor retardant adhesive. Provide insulation with a thermal conductivity ‘k’ of 0.27 Btu/(hr/sq. ft./degree F/in at 75 degrees F mean temperature. Elastomeric cellular sheet insulation over 1 inch thickness will be permitted in mechanical equipment rooms not used as return plenums and outdoor locations only.
    1. ASTM C177, C335, C534, D1056, D1149, E84, E96.
    1. Cellular glass insulation consisting of inorganic, foamed or cellular glass, annealed, rigid hermetically sealed cells with all joints butt and longitudinally sealed with an approved elastic joint sealer to provide a vapor barrier, or, apply ASJ, Dow “Saran 520” or VyTech “Atlas VRP” vapor barrier jacket with self-sealing laps and separate self-adhesive butt strips. Provide insulation with a thermal conductivity 'k' of 0.32 Btu/hr/sq. ft./degree F/in. at 75 degrees F mean temperature and a minimum service temperature of -60 degrees F. Provide insulation and jacketing conforming to the following standards:
       1. ASTM C177, C203, C240, C303, C518, C552, C623, E96, E228.
@@ -298,11 +303,14 @@ tags: ['Facility', 'Services', 'Plumbing', 'Insulation']
    1. Molded fitting covers; Foster Products Corp. "Speedline 2"; Ceel-Co; Proto; or Johns Manville "Zeston 2000" pvc one-piece fitting covers, 0.02 inch-thick with a flame spread rating of 25 or less and a smoke developed rating of 50 or less per ASTM E84. On cold applications, use 0.030-inch pvc jacket and minimum 0.028-inch pvc covers.
    1. Outdoor Applications
 016.-inch smooth aluminum with factory-applied moisture barrier liner.
-1. EXECUTION
+
+## EXECUTION
+
 
 ## General
 
- Application Requirements*   1. Prior to the installation of insulating material, verify its thickness in accordance with the operating temperature and diameter of pipe or equipment. Should there be any discrepancies, notify the Architect and request resolution of the conflict; do not establish a new thickness or select different material without written approval.
+ Application Requirements
+	1. Prior to the installation of insulating material, verify its thickness in accordance with the operating temperature and diameter of pipe or equipment. Should there be any discrepancies, notify the Architect and request resolution of the conflict; do not establish a new thickness or select different material without written approval.
    1. Protect insulating materials from moisture and weather before and during installation.
    1. Conduct required tests on piping, equipment and ductwork, and make correction, if required, prior to the application of insulation.
    1. Install insulation, adhesives, coatings, mastics, sealants and tapes, only by experienced pipe coverers, in compliance with MICA standards and manufacturer’s recommendations, including all safety requirements. 
@@ -324,7 +332,8 @@ tags: ['Facility', 'Services', 'Plumbing', 'Insulation']
    1. Restore existing insulation and surface finishes disturbed or damaged during the course of the work to original condition. 
    1. Provide insulation jackets as specified. 
    1. Provide insulated surfaces ready to receive a final coat of paint without the necessity of sizing or priming. 
-1. Piping Systems Applications*   1. Insulate piping up through NPS 16 with two-piece, sectional pipe insulation; insulate piping larger than NPS 16 with sectional pipe covering or prefabricated curved sidewall segments. Trim all insulation segments and butt tightly to each other to eliminate voids, gaps or open joints; do not use joint sealer to fill these imperfections. Rub insulation ends against each other to achieve a tight fit prior to the application of joint sealer.
+1. Piping Systems Applications
+	1. Insulate piping up through NPS 16 with two-piece, sectional pipe insulation; insulate piping larger than NPS 16 with sectional pipe covering or prefabricated curved sidewall segments. Trim all insulation segments and butt tightly to each other to eliminate voids, gaps or open joints; do not use joint sealer to fill these imperfections. Rub insulation ends against each other to achieve a tight fit prior to the application of joint sealer.
    1. Install multiple layers of insulation so the butt and longitudinal joints of one layer do not coincide with those of any other layer. Stagger the outer joints by half sections over the inner joints with a minimum overlap of 18 inches.
    1. On all indoor and outdoor applications, on hot piping systems, apply a vapor sealing joint sealer, 1/16-inch-thick to all butt and longitudinal joints of the outer layer of multi-layered installations and to all circumferential and longitudinal joints of single layer installations. Apply joint sealer so as to completely fill the thickness of the joints. Do not bond layers of insulation to each other; avoid applying excessive sealer in the joints and do not feather edge. 
    1. On all indoor and outdoor applications, on ambient and cold piping systems, apply a vapor sealing joint sealer, in full bed coverage (not a bead), for sealing all joints of insulation and pvc slip joints of the vapor barrier type, moisture and water resistant, 97 percent solids by weight, non-hardening and flexible with a service temperature range from -50 degrees F to 200 degrees F; Childers “CP-76”, Foster “44” or “95-50” or as approved.
@@ -342,7 +351,8 @@ tags: ['Facility', 'Services', 'Plumbing', 'Insulation']
    1. Cover and completely seal all ambient and cold piping with a vapor barrier, continuous on all surfaces, prior to the application of jacketing. Seal weld all circumferential and longitudinal laps with pvc solvent welding adhesive. Install 1-1/2-inch-wide self-sealing lap tape on the joints of the jacket in addition to the adhesive. Apply laps with a minimum of 2 inches on both the circumferential and longitudinal joints. 
    1. For roof drains, sumps and sump pans, cover portions below roof deck with 1-inch -thick mitered segments of insulation, fastened with stainless steel bands. Point with insulating cement and allow surface to dry. Apply a 1/16-inch wet film thickness brush coat of vapor barrier coating:
       1. Foster “30-35” or Childers Products “Encacel V” embedding 10 x 10 mesh glass fabric in surface finish coat. At Contractors option, glue 1/2-inch flexible elastomeric sheet to roof drain body/slump and mastic.
-1. HEATED EQUIPMENT APPLICATION*   1. Round Equipment 
+1. HEATED EQUIPMENT APPLICATION
+	1. Round Equipment 
    1. Cut or miter insulation where necessary to fit the shape and contour of the equipment and band in place with 3/4-inch x 0.015-inch-thick stainless steel bands on 18-inch centers. Point up joints with insulating cement.
    1. For domed ends or vessel heads, install factory-molded, precurved pieces to exactly conform to the double radius curvature of the vessel top in accordance with ASTM C450.
    1. Flat or Irregular Equipment 
@@ -351,7 +361,8 @@ tags: ['Facility', 'Services', 'Plumbing', 'Insulation']
    1. After insulation cement has dried, apply a primer coat of Childers Products “CP-50” diluted 50 percent with water and allow to dry completely before applying the finish coats. 
    1. Finish Coat
    1. Apply mastic finish coat of Foster “35-00” or Childers Products “Vi-Cryl CP-10/11”, in two coats. Apply the first or tack coat at a rate of two gallons per 100 sq. ft., and, while still wet, embed the layer of canvas with fabric seams overlapped a minimum of 2-inches. Within one hour after applying tack coat, apply a finish coat - coverage four gallons per 100 sq. ft. - fully covering cloth fabric and apply to a minimum dry film thickness of 1/16 inch. Provide the finish coat with a smooth, even finish with no voids or holidays. 
-1. AMBIENT AND COOLED EQUIPMENT APPLICATION*   1. For Elastomeric Insulation (on ambient and cold equipment only)
+1. AMBIENT AND COOLED EQUIPMENT APPLICATION
+	1. For Elastomeric Insulation (on ambient and cold equipment only)
    1. Apply sheet insulation over all surfaces without stretching. 
    1. Cover all devices on tanks and heat exchangers with mitered sections of insulation so as to facilitate their servicing and removal without disturbing the equipment insulation. 
    1. If sheet insulation is not provided with a factory-applied contact adhesive, then apply sheet insulation with the smooth or skin side out. Adhere insulation with complete coverage of adhesive. Apply a thin but adequate coat on both surfaces to be joined. Allow the adhesive films to air-dry until dry to touch but tacky under slight pressure before joining surfaces. Avoid open time in excess of 20 minutes. Apply moderate pressure to entire areas, insuring complete contact. Since adhesive is an instant-bonding type, position surfaces accurately as contact is made. Apply adhesive at temperatures above 40 degrees F. Do not apply to heated surfaces or to insulation over heated surfaces. Allow adhesive joints applied with full adhesive bonding to dry for 7 days before applying solvent-base finishes. 

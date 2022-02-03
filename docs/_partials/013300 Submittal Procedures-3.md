@@ -54,7 +54,6 @@ tags: ['General', 'Requirements', 'Submittal', 'Procedures']
    1. Submittals for all materials and equipment used by the Contractor in the performance of the work shall include the following as applicable.
    1. Manufacturers' Literature:
       1. Literature indicating the compliance of the product with the Specifications shall be included with all submittals. This shall include catalog sheets and other descriptive bulletins. Manufacturer's literature shall also include, but not be limited to the following:
-      1. 
 			1. Manufacturer's catalog data
 			2. Materials of construction
 			3. Manufacturer's name and model number
@@ -75,7 +74,6 @@ tags: ['General', 'Requirements', 'Submittal', 'Procedures']
       1. Samples shall be provided as required in the individual sections. Samples shall be of the precise material proposed to be furnished. The number of samples and sample size shall be of the industry standard unless otherwise stated in the individual sections.
    1. Shop Drawings:
       1. Shop drawings shall include the following as applicable to the equipment or system along with any special requirements listed in the individual Specification Sections:
-      1. 
 			1. Scaled details
 			2. Scaled dimensional drawings
 			3. Sectional assembly drawings
@@ -172,10 +170,8 @@ Any material or equipment on-site, which is rejected by the Owner after review o
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
    1. SPECIFICATION SECTION & TITLE:
-      1. 
    1. I hereby certify that the material submitted has been checked for compliance with the specification and any exceptions have been clearly noted.
    1. Dated:
-      1. 
    1. Signed
    1. Title
 1. ***************************************************************************************************************
@@ -196,10 +192,8 @@ Any material or equipment on-site, which is rejected by the Owner after review o
    1. Section Page Paragraph Description
    1. The undersigned requests consideration of the following:
       1. Proposed Substitution:
-         1. 
-
+   
    1. The undersigned certifies that the following paragraphs, unless modified or clarified by attachments, are correct:
-      1. 
 	1. The proposed substitution does not affect dimensions shown on the Drawings.
 	2. The undersigned will reimburse Owner for review or redesign services associated with re-approval by authorities.
 	3. The undersigned will coordinate installation and make changes to other Work, which may be required for the Work to be complete with no additional cost to Owner.

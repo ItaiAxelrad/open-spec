@@ -53,7 +53,7 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
 6. Certifications related to thickness of corrosion-protection coating.
 7. Provide Operation and Maintenance Manuals.
 ## Product
-1. 2.1 Acceptable Manufacturers
+1. Acceptable Manufacturers
    1. Subject to compliance with the Contract Documents, the following manufacturers, or equivalent, are acceptable:
 	1. Shutter exhaust fan:
 		1. Greenheck.
@@ -77,6 +77,6 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
 	3. Fan size shall be 12” diameter.
 	4. Provide integrated weather hood with insect screen.
    1. part 3 –execution
-1. 3.1 Installation
+1. Installation
    1. Install in accordance with manufacturer’s installation instructions. 
 

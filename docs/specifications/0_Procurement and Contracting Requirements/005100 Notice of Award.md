@@ -20,10 +20,8 @@ tags: ['Procurement', 'Contracting', 'Requirements', 'Notice', 'Award']
 	8. Bidder's Address:
       1. (send Certified Mail, Return Receipt Requested)
    1. You are hereby notified that your Bid dated for the above Contract has been considered. You are the Successful Bidder and are awarded a Contract for:
-      1. 
 	1. {Indicate total Work, alternates or sections or Work awarded.}
 2. The Contract Price of your Contract is:
-      1. 
 	1. {Dollars ($)}
 	2. *{Insert appropriate data if Unit Prices are used}	3. *{Change language for Cost-Plus contracts.}*
 3. One [1] copy of each of the proposed Contract Documents (except Drawings) accompany this Notice of Award. 

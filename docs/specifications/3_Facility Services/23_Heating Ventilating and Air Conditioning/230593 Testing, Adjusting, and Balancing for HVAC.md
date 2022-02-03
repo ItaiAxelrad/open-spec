@@ -64,15 +64,16 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Sheet Metal and Air Conditioning Contractors National Association (SMACNA):
       1. HVAC Systems – Duct Design
    1. HVAC Systems – Testing, Adjusting, and Balancing
-1. System Description*   1. Performance Requirements:
-      1. 
+1. System Description
+	1. Performance Requirements:
    1. Adjusting and balancing shall be performed in accordance with the latest edition of the National Environmental Balancing Bureau (NEBB) Procedural Standards, and in accordance with the scope of Work specified in the Contract Documents. 
    1. Adjusting and balancing shall not begin until systems are complete, temporary filters and strainers are removed and permanent filters installed, piping systems are cleaned, flushed and chemically treated, all as properly scheduled and approved in advance by the Architect. 
    1. In addition to demonstrating that the systems are capable of achieving design load point flows, the adjusting and balancing agency shall demonstrate, and so include in the report forms, that the automatic control systems respond properly to load variations. 
    1. Upon the completion of the Work, the adjusting and balancing agency shall submit four copies of the complete adjusting and balancing report. 
    1. One agency shall be responsible for all phases of adjusting and balancing. 
    1. The adjusting and balancing agency shall permanently mark the settings of all valves, dampers and other adjusting devices in a manner that will allow the settings to be restored. If a balancing device is provided with a memory stop, it shall be set and locked. 
-1. Submittals*   1. See Division 23 sections of the Specifications.
+1. Submittals
+	1. See Division 23 sections of the Specifications.
    1. Quality-Assurance Submittals:
       1. Within 30 days from the Contractor's Notice to Proceed, submit 2 copies of evidence that the testing, adjusting, and balancing Agent and this Project's testing, adjusting, and balancing team members meet the qualifications specified in the "Quality Assurance" Article below.
    1. Contract Documents Examination Report:
@@ -85,7 +86,8 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
       1. Submit 2 sets of sample testing, adjusting, and balancing report forms.
    1. Warranty:
       1. Submit 2 copies of special warranty specified in the "Warranty" Article below.
-1. Quality Assurance*   1. Agent Qualifications:
+1. Quality Assurance
+	1. Agent Qualifications:
       1. Engage a testing, adjusting, and balancing agent certified by NEBB.
    1. Testing, Adjusting, and Balancing Conference:
       1. Meet with the Owner's and the Architect's representatives on approval of the testing, adjusting, and balancing strategies and procedures plan to develop a mutual understanding of the details. Ensure the participation of testing, adjusting, and balancing team members, equipment manufacturers' authorized service representatives, HVAC controls Installer, and other support personnel. Provide 7 days' advance notice of scheduled meeting time and location.
@@ -110,17 +112,15 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
       1. The Owner will occupy the site and existing building during the entire testing, adjusting, and balancing period. Cooperate with the Owner during testing, adjusting, and balancing operations to minimize conflicts with the Owner's operations.
    1. Partial Owner Occupancy:
       1. The Owner may occupy completed areas of the building before Substantial Completion. Cooperate with the Owner during testing, adjusting, and balancing operations to minimize conflicts with the Owner's operations.
-1. Sequencing And Scheduling*   1. The Contractor shall provide the adjusting and balancing agency with one set of the following documents:
-      1. 
+1. Sequencing And Scheduling
+	1. The Contractor shall provide the adjusting and balancing agency with one set of the following documents:
    1. Within 30 days after approved selection of adjusting and balancing agency:
-      1. 
    1. Contract Drawings.
    1. Applicable Specifications.
    1. Addenda.
    1. As Issued:
       1. Change Orders. 
    1. Within 30 days after approval, applicable shop drawings, including the following items:
-      1. 
    1. Sheet metal fabrication and construction drawings.
    1. Equipment manufacturer's submittal data.
    1. Temperature control drawings.
@@ -128,7 +128,6 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Any deficiency in the balancing device type, number and location shall be noted by the adjusting and balancing agency and the Contractor shall be so notified. 
    1. Fabrication and installation of the air and hydronic systems shall not begin until the Contractor has received this report from the adjusting and balancing agency and has taken corrective action. 
    1. The adjusting and balancing agency shall further be provided with the following:
-      1. 
    1. Reasonable time to complete the adjusting and balancing prior to the required completion date. 
    1. Completely operable systems. 
    1. The right to adjust the systems. 
@@ -137,12 +136,10 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Secure storage space for tools and instruments. 
    1. The Contractor shall ensure that the adjusting and balancing agency's personnel receive the full cooperation and assistance of the personnel of the pipe fitting, sheet metal and automatic control trades during the adjusting and balancing process.
    1. The Contractor shall be responsible for start-up and operation of systems during the adjusting and balancing process. Start-up shall include the following:
-      1. 
    1. All equipment operable in safe and normal condition. 
    1. Automatic control systems installed complete and operable. 
    1. Proper thermal overload protection in place for electrical equipment. 
    1. For air systems:
-      1. 
    1. Final filters clean and in place. 
    1. Duct systems clean of debris. 
    1. Correct fan rotation. 
@@ -152,7 +149,6 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. All outlets installed and connected. 
    1. Duct system testing completed and leakage not exceeding the rate specified. 
    1. For Hydronic Systems:
-      1. 
    1. Flushed, filled, and vented. 
    1. Correct pump rotation. 
    1. Proper strainer baskets clean and in place. 
@@ -170,10 +166,15 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
       1. Provide a guarantee on NEBB forms stating that NEBB will assist in completing the requirements of the Contract Documents if the testing, adjusting, and balancing Agent fails to comply with the Contract Documents. Guarantee includes the following provisions:
       1. The certified Agent has tested and balanced systems according to the Contract Documents.
    1. Systems are balanced to optimum performance capabilities within design and installation limits.
-1. PRODUCTS
-1. Equipment*   1. Instrumentation:
+
+## PRODUCTS
+
+1. Equipment
+	1. Instrumentation:
       1. Provide air system adjusting and balancing instrumentation such as pitot tubes, flow hoods, incline gauge or U-tube manometers or magnehelic gages, alnor velometer, tachometer or rpm counter, insertion thermometers, clamp-on ammeter for motor voltage and ampere readings and others to be able to completely analyze and balance air handling systems. Instrumentation shall be accurately calibrated and checked before usage. 
-1. EXECUTION
+
+## EXECUTION
+
 1. EXAMINATION
    1. Examine Contract Documents to become familiar with Project requirements and to discover conditions in systems' designs that may preclude proper testing, adjusting, and balancing of systems and equipment.
    1. Contract Documents are defined in the General and Supplementary Conditions of the Contract.
@@ -367,7 +368,6 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Calculated kW at full load.
    1. Fuse or circuit-breaker rating for overload protection.
    1. Temperature Testing:
-      1. 
    1. During testing, adjusting, and balancing, report need for adjustment in temperature regulation within the automatic temperature-control system.
    1. Measure indoor wet- and dry-bulb temperatures every other hour for a period of two successive 8-hour days, in each separately controlled zone, to prove correctness of final temperature settings. Measure when the building or zone is occupied.
    1. Measure outside-air, wet- and dry-bulb temperatures.

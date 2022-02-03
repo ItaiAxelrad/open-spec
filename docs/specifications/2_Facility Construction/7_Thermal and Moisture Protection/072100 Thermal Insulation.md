@@ -43,10 +43,10 @@ tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Insulat
 3. Inspection:
       1. Arrange storage of products to permit access for inspection. Periodically inspect to verify products are undamaged and are maintained in acceptable condition.
    1. Product
-1. 2.1 System Description
+1. System Description
 	 1. General:
 	1. System consists of an air infiltration barrier applied to joints between materials of the exterior and interior wall framing to eliminate air infiltration into the building and the installation of insulation to reduce thermal transmission.
-1. 2.2 Materials
+1. Materials
    1. Glass-Fiber Loose-Fill Insulation:
       1. Maximum flame-spread and smoke-developed indexes of 5, per ASTM E 84 and as follows:
 	1. ASTM C 764, Type I for pneumatic applications.
@@ -82,7 +82,7 @@ tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Insulat
 		10. Fire Blocking performance: ASTM E814, pass
 4. Vapor Retarders/Air Barriers:
       1. See Contract drawings.
-1. 2.3 Accessories
+1. Accessories
    1. Accessories:
 	1. Provide accessories per insulating system manufacturer’s recommendations, including the following:
 		1. Tape:
@@ -100,7 +100,7 @@ tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Insulat
 
 ## Execution
 
-1. 3.1 Examination
+1. Examination
    1. Examine substrates, flashing conditions, penetrations, adjoining construction and the conditions under which work is to be installed. Verify that surfaces are dry and free of oil, grease, dust, rust, or other contaminant.
 2. Report unacceptable conditions in writing. Do not proceed with the Work until unsatisfactory conditions have been corrected and surfaces are acceptable.
 3. Verify that fire stopping is in place before beginning to apply the air infiltration barrier with flexible seal technology.
@@ -115,7 +115,7 @@ tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Insulat
 2. Sweep area to receive air infiltration barrier application to remove dust and other contaminants that will interfere with providing a thorough seal.
 3. Fill medium-sized gaps (gaps between 3/8 inch and 3 inches) between surfaces to be sealed with fiberglass insulation. Cover gaps greater than 3 inches with rigid, nonporous material such as gypsum board, extruded polystyrene insulation, sheathing, OSB, particle board, agrifiber particle board, or plywood secured to framing and apply sealant at the perimeter. 
 4. Comply with all manufacturer and OSHA safety regulations.
-1. 3.3 Installation of Foam Sealant
+1. Installation of Foam Sealant
    1. Foam sealant in accordance with manufacturer’s instruction, including compliance with instructions for safety, preparation, and application of products. Apply continuously and evenly to joints in the following conditions:
 	1. At penetrations between conditioned and unconditioned spaces.
 	2. At interface between the sheathing and stud where a sheathing seam is known to exist.
@@ -134,7 +134,7 @@ tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Insulat
 	15. At interface between the band joist and the subfloor above it.
 2. Seal those gaps and penetrations filled with loose fill insulation during preparation and thoroughly cover them with foam sealant.
 3. Do not install foam sealant within 3 inches of a heat source with exception of recessed light fixtures, which may be sealed at the interface with the drywall. 
-1. 3.4 Installation of Insulation, General
+1. Installation of Insulation, General
    1. Install insulation system according to manufacturer’s instructions, including compliance with instructions for safety, preparation, and application of products.
 2. Comply with local code requirements, and 2009 IECC requirements indicated on Table 402.4.2 Air Barrier and Insulation Inspection Component Criteria.
 3. Do not install insulation on top of or within 3 inches of recessed light fixtures unless the fixtures are approved for such use.
@@ -142,11 +142,11 @@ tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Insulat
 5. Install vapor retarder air barrier in dropped ceilings and soffits in substantial alignment with insulation.
 6. Install insulation at band joists or rim joists.
 7. Within exterior wall framing, install insulation between pipes and backside of sheathing. Cut insulation material as required to fit around wiring and plumbing.
-1. 3.5 Installation of Loose Fill Insulation
+1. Installation of Loose Fill Insulation
 
    1. Install loose fill insulation in accordance with ASTM C 1015.
 2. Install to uniform, level thickness. Do not compact.
-1. 3.6 Installation of Batt Insulation
+1. Installation of Batt Insulation
    1. Install batt insulation in accordance with ASTM C 1320.
 2. If eave ventilation baffles are required, install ventilation baffles at eaves to hold insulation down from roof sheathing and provide positive ventilation from eave to attic space.
 3. Install in exterior walls, roof and ceiling spaces without gaps or voids. Fluff insulation to full thickness for specified R-value before installation. Do not compress insulation.
@@ -162,14 +162,14 @@ tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Insulat
 		3. Tape in place.
 		4. Retain in place with spindle fasteners.
 		5. Retain in place with wire mesh secured to framing members.
-1. 3.7 Installation of Separate Vapor Retarder
+1. Installation of Separate Vapor Retarder
    1. Vapor Retarder Installation:
 	1. For wood framing, place vapor retarder on warm side of insulation by stapling or nailing 6 inches on center. Lap and seal joints over member face.
 	2. Place fasteners at manufacturer’s recommended spacing. Tape seal tears or cuts.
 	3. Extend tight to full perimeter of adjacent window and door frames and other items interrupting the plane of membrane. Tape seal in place.
 2. Vapor Retarder Installation:
       1. Comply with manufacturer requirements.
-1. 3.8 Cleaning
+1. Cleaning
    1. Remove protective plastic film coverings from adjacent materials.
 2. Clean unintended sealant materials, equipment, and fixtures.
 3. Remove damaged materials, equipment, and fixtures if sealant cannot be cleaned without blemish and install new materials, equipment, and fixtures identical to item before damage occurred.

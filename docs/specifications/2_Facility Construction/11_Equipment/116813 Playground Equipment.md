@@ -17,7 +17,6 @@ tags: ['Facility', 'Construction', 'Equipment', 'Playground']
 2. Contractor shall be responsible for site installation of these items and for furnishing and installing footings, anchors, fasteners, touch-up, repair and other accessory items as required.
 	1. REFERENCE STANDARDS
 3. Safety Standards & Guidelines:
-      1. 
 	1. All public playground equipment supplied shall meet all applicable provisions of the following:
 		1. "Handbook for Public Playground Safety" published by the Consumer
 		2. Product Safety Commission (CPSC)
@@ -33,7 +32,6 @@ tags: ['Facility', 'Construction', 'Equipment', 'Playground']
 			1. ASTM F2049, Standard Guide for Fences/Barriers for Public, Commercial, and Multi-Family Residential Use Outdoor Play Areas.
 			2. Americans With Disabilities Act
 4. Quality Certification:
-      1. 
 	1. All public playground equipment supplied shall be certified to ISO 9001and IPEMA standards.
 3. SUBMITTALS
    1. Submit Manufacturers' Catalog Data.
@@ -45,10 +43,8 @@ tags: ['Facility', 'Construction', 'Equipment', 'Playground']
 7. Submit proof of surface installer training in writing a minimum of one week prior to installation.
 4. QUALIFICATIONS
    1. Equipment Installer Qualifications:
-      1. 
 	1. An experienced and certified installer who has completed work with similar equipment, materials, and design, and to the extent similar with this project and whose work has resulted in construction with a record of successful in-service performance. Contractor to provide a list of all subcontractors and their appropriate qualification. Installer shall follow manufacturer's instructions and installation documentation for all equipment.
 2. Surface Installer Qualifications:
-      1. 
 	1. Company specializing in outdoor resilient surfaces in the USA for at least 10 years. The applicator shall be approved and trained, with a minimum of three years' documented experience. Conditions of all surface substrates with respect to structural performance shall be evaluated and approved by the surface installer prior to application of surface system.
 5. DELIVERY AND STORAGE
    1. Deliver and store products in original, unopened containers with labels intact when not being installed and protect during construction operations to prevent damage, theft, or vandalism.
@@ -77,20 +73,16 @@ tags: ['Facility', 'Construction', 'Equipment', 'Playground']
 3. Major playground safety surface manufacturers meeting the requirements of this specification will be considered.
 	1. MATERIALS
 4. Poured-in-Place Primer:
-      1. 
 	1. Single component moisture cured polyurethane primer.
 5. Poured-in-Place Binder:
-      1. 
 	1. An elastic polyurethane pre-polymer with minimal odor, excellent weathering and binding characteristics. Binder shall be 100% MDI based and contain 0% TDI monomers.
 	2. TDI is listed as a carcinogen with OSHA and the IARC. Special handling is required with more than 0.1% TDI.
 6. Poured-in-Place black base:
-      1. 
 	1. Shall be recycled SBR rubber:
 		1. Ground at ambient temperature.
 		2. Ground into 3/8" shredded strands and contain less than 4% dust.
 		3. Transported in suitable bags to protect from moisture.
 7. Poured-in-Place EPDM rubber top course:
-      1. 
 	1. Shall be UV stable.
 		1. Colors- Colors to be determined by owner from manufacturer's standard color catalog.
 		2. Typical size: 1-3mm.

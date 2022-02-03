@@ -136,7 +136,9 @@ Sealers, Coatings, and Polymer Overlays
    1. Pavement surface shall be free of snow, ice, or slush. Surface temperature shall be at least 40 degrees F and rising at the beginning of operations, except those involving shot or sand blasting. Operation shall cease during thunderstorms. Operation shall cease during rainfall, except for waterblasting and removal of previously applied chemicals. Waterblasting shall cease where surface water accumulation alters the effectiveness of material removal.
 8. QUALIFICATIONS
    1. The Contractor shall submit documentation certifying that pertinent personnel are qualified for equipment operation and handling of chemicals.
-1. ## Product
+
+## Products
+
 1. MATERIALS
    1. Materials conforming to the requirements specified herein shall be provided.
    1. Paints for Airfields

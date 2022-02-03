@@ -53,7 +53,7 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Water', 'Utility', 'Transmission'
 
 ## Execution
 
-1. 3.1 Preparation
+1. Preparation
    1. The location of all piping and other items shown on the Drawings or called for in the Specifications that are not definitely located by dimensions or elevations, is approximate only. The exact locations and dimensions necessary for proper installation must be determined at the project site. The Contractor and Engineer shall stake the locations of pipe and appurtenances prior to installation.
 	1. See MWW Standard for Water and Wastewater Line Crossings, if applicable. 
 	2. Pipe Installation

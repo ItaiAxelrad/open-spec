@@ -57,10 +57,10 @@ tags: ['Facility', 'Construction', 'Openings', 'Windows']
 	1. Air and water integrity and structural adequacy of units and hardware, including sealants and calking within and around perimeter of installation.
 	2. Signed jointly by fabricator, installer, and contractor.
 ## Product
-1. 2.1 Acceptable Manufacturers
+1. Acceptable Manufacturers
    1. Match existing windows.
 2. Submit request for substitution in accordance with Specification Section 01 25 00.
-1. 2.2 Materials
+1. Materials
    1. Extruded Aluminum:
       1. 6063T5 alloy.
 2. Sealants:
@@ -69,12 +69,12 @@ tags: ['Facility', 'Construction', 'Openings', 'Windows']
       1. Poured in place polyurethane, self-adhering to adjacent aluminum surfaces.
 4. Weatherstripping:
       1. Sponge neoprene.
-1. 2.3 Accessories
+1. Accessories
    1. Flashing:
 	1. Minimum 0.040 IN aluminum.
 	2. Finish to match window frames.
 	3. Mill finish if concealed.
-1. 2.4 Fabrication
+1. Fabrication
 	 1. General:
 	1. Fully degrease and clean members prior to assembly or application of protective coatings.
 	2. Weld by methods recommended by manufacturer and 1 AWS D1.2 to avoid discoloration at welds.
@@ -107,7 +107,7 @@ tags: ['Facility', 'Construction', 'Openings', 'Windows']
 5. Finish:
       1. AA-MA10C22A42 anodized (dark colors).
 	1. Color: To be selected from full range of manufacturer’s colors, including premium colors.
-1. 2.5 Source Quality Control
+1. Source Quality Control
 
 ## General
 
@@ -178,7 +178,7 @@ tags: ['Facility', 'Construction', 'Openings', 'Windows']
 
 ## Execution
 
-1. 3.1 Installation
+1. Installation
    1. Install products in accordance with manufacturer's instructions, IBC and IECC.
 2. Set units plumb, level, and true to line.
 3. Anchor securely in place.
@@ -190,6 +190,6 @@ tags: ['Facility', 'Construction', 'Openings', 'Windows']
 8. Provide sealant color to match finish of system at exposed locations.
 9. Provide sealants compatible with aluminum system and recommended for use with this type of installation.
 10. See Specification Section 07 90 000 for sealants.
-1. 3.2 Field Quality Control
+1. Field Quality Control
    1. Installation supervised or inspected by manufacturer's authorized representative.
 

@@ -53,7 +53,9 @@ tags: ['Facility', 'Services', 'Electrical', 'Medium', 'Voltage', 'Transformers'
 1. WARRANTY 
    1. Transformer shall carry a one-year warranty from the date of final acceptance for repair or replacement of defective material and workmanship.
    1. During the warranty period, the supplier/manufacturer shall be required to make the necessary repairs or replacements on site. The Owner shall not accept or pay for travel time, mileage, airfare, freight, labor, rental charges, or any costs incurred to warranty this equipment. If necessary, the repair shall be made on a premium time basis without cost to the Owner.
-1. PRODUCTS
+
+## PRODUCTS
+
    1. MANUFACTURERS
    1. Approved manufacturers are as follows:
 
@@ -163,7 +165,10 @@ tags: ['Facility', 'Services', 'Electrical', 'Medium', 'Voltage', 'Transformers'
    1. Induced potential tests - 400 hz (low frequency dielectric)
    1. Mechanical leak and pressure test on tank and coolers
    1. In addition to the above standard tests, each unit shall be given a Production Line Impulse Test.
-1. EXECUTION*1. INSTALLATION 
+
+## Execution
+
+	1. INSTALLATION 
 
 ## General
 
@@ -172,7 +177,6 @@ tags: ['Facility', 'Services', 'Electrical', 'Medium', 'Voltage', 'Transformers'
    1. Install pad-mounted transformer plumb and level on concrete pad. 
    1. Identification 
    1. Provide engraved plastic-laminate signs, see Division 1 sections of the Specifications, mounted on transformer front cover doors, indicating the following information:
-      1. 
    1. High voltage side 
    1. Compartment designation (e.g., "High Voltage Compartment") 
    1. Designation (e.g., "TR-8") 
@@ -184,7 +188,6 @@ tags: ['Facility', 'Services', 'Electrical', 'Medium', 'Voltage', 'Transformers'
    1. FIELD QUALITY CONTROL 
    1. Field Tests 
    1. Perform the following transformer tests per IEEE C57.12.00 and C57.12.90:
-      1. 
    1. Conduct insulation resistance test on primary windings to ground and between phases. Perform test prior to primary cable connection, with primary disconnect device closed, secondary winding and switchgear enclosure grounded to test ground and secondary phases tied together. 
    1. Conduct insulation resistance test on secondary winding to ground and between phases. Perform test with secondary main breaker racked out, primary windings and transformer enclosure grounded to the test ground and phases tied together. 
    1. Verify that gauges, alarms, and auxiliary devices are operational. Apply suitable voltage, current, pressures, temperatures, or other means required to allow the device to function as intended. 
@@ -192,7 +195,6 @@ tags: ['Facility', 'Services', 'Electrical', 'Medium', 'Voltage', 'Transformers'
    1. Perform an insulating fluid analysis.
    1. Perform insulation power factor test on all windings and bushings.
    1. Perform the following surge arrester tests:
-      1. 
    1. Insulation power factor test.
    1. Insulation resistance test. Conform to manufacturer's recommendations for the test voltage. 
    

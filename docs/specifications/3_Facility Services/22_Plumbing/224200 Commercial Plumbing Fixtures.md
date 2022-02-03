@@ -33,7 +33,9 @@ tags: ['Facility', 'Services', 'Plumbing', 'Commercial', 'Fixtures']
    1. See Division 22, Section “Submittals” of the Specifications.
 1. WARRANTY
    1. See to Division 22, Section “Warranties” of the Specifications.
-1. PRODUCTS
+
+## PRODUCTS
+
 
 ## General
 
@@ -156,7 +158,9 @@ tags: ['Facility', 'Services', 'Plumbing', 'Commercial', 'Fixtures']
       1. Electronic controlled trap priming manifold in preassembled cabinet with atmospheric vacuum breaker, 24 hour time clock, manual override switch and calibrated for equal water distribution. PPP Inc. model PT-4 through PT-12 (to suit conditions) or approved equal. 
 1. FIXTURE SUPPORTS
    1. Single-component silicone sealant complying with ASTM C920. Dow Corning, 786; GE Silicones Sanitary SCS1700; Pecora, 898; or as approved. 
-1. EXECUTION
+
+## EXECUTION
+
 
 ## General
 

@@ -51,9 +51,9 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Planting']
 
 ## Execution
 
-1. 3.1 Preparation
+1. Preparation
 	 1. General: In all disturbed areas, topsoil is to be salvaged and replaced. Prior to any re-vegetation activity, the soil shall be tilled to provide at least 2 to 4-inches of loose surface.
-1. 3.2 Application
+1. Application
    1. Native Seed:
 	1. 3:1 Slopes or flatter: Seeding shall be accomplished by means of an approved drill-type seeder at a rate of 20lbs. per acre PLS or broadcast at 40 lbs. per acre PLS.
 	2. Slopes steeper than 3:1: Seeding shall be accomplished by means of an approved drill-type seeder whenever possible. Otherwise seed shall be sown with an approved broadcast-type seeder. The seeded area shall then be raked lightly to provide about 1/2-inch of cover over the seed unless hydraulic broadcasting and mulching is used.

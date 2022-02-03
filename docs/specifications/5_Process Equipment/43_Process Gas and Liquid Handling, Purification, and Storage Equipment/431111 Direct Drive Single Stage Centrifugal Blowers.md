@@ -10,29 +10,22 @@ tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Sto
 ## General
 
 1. RELATED DOCUMENTS
-   1. A.
    1. Drawings, General and Special Provisions of the Contract, and Division 01 Specification Sections apply to this Section.
 2.
 1. SUMMARY
-   1. A.
    1. The work of this section includes furnishing, installing, and testing five (5) electric motor driven, direct-drive, centrifugal blower units and air bleeding assemblies. Instrumentation, controls and appurtenances shall be provided as shown on the drawings and as specified herein for a complete aeration system.
-   1. B.
    1. All equipment specified in this section shall be designed and furnished by the Blower Manufacturer who shall be responsible for the suitability and compatibility of all included equipment.
-   1. C.
    1. Related Sections include the following:
       1. Section 409213 – Valve and Gate Operators
 2. Section 409513 – Control Panels
 3.
    1. DEFINITIONS
-   1. A.
    1. SCFM:
       1. *Standard cubic feet per minute* is understood to be air at 68 degrees F, 14.7 psia, and 36 percent relative humidity.
-   1. B.
    1. Discharge Pressure:
       1. The pressure in *pounds per square inch gauge* (psig) at the blower discharge flange.
 4.
 1. SUBMITTALS
-   1. A.
    1. Submit the following information in accordance with Section 013000 – Submittals to establish compliance with the specifications.
 1. A copy of this specification section, with addendum updates included, and all referenced and applicable sections, with addendum updates included, with each paragraph check- marked to indicate specification compliance or marked to indicate requested deviation from specification requirements. If deviations from the specification are indicated and, therefore requested by the Contractor, the submittal shall be accompanied by a detailed, written justification for each deviation. Failure to include a copy of the marked-up specification sections, along with justification for any requested deviations to the
    1. specification requirements, with the submittal, shall be cause for rejection of the entire submittal with no further consideration.

@@ -25,14 +25,14 @@ tags: ['General', 'Requirements', 'Temporary', 'Environmental', 'Controls']
 		3. A copy of the NPDES permit for storm water discharges from construction activities.
 		4. A copy of the approved pollution prevention plan.
 ## Product
-1. 2.1 Water Impoundment Fence Material
+1. Water Impoundment Fence Material
    1. Temporary water impoundments shall be constructed using Envirofence 100% as manufactured by MIRAFI, Inc. or by using hay bales securely anchored with metal posts, or a combination of both.
-1. 2.2 Mulch and Seed
+1. Mulch and Seed
    1. All revegetation shall be in accordance with requirements of Section 32 90 00.
 
 ## Execution
 
-1. 3.1 Installation
+1. Installation
    1. Employ and utilize environmental protection methods, obtain all necessary permits, and fully observe all local, state, and federal regulations.
 2. Land Protection:
 	1. Except for any work or storage area and access routes specifically assigned for the use of the Contractor, the land areas outside the limits of construction shall be preserved in their present condition.

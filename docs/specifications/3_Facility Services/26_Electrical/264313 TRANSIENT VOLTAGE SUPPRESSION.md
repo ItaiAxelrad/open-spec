@@ -13,41 +13,35 @@ tags: ['Facility', 'Services', 'Electrical', 'TRANSIENT', 'VOLTAGE', 'SUPPRESSIO
    1. Drawings and general provisions of the Contract, including General and Supplementary
 Conditions and Division 1 Specification Sections, apply to this Section.
 02. SUMMARY
-   1. B.
 This Section includes TVSSs for low-voltage power, control, and communication equipment. Related Sections include the following:
       1. Division 26 Section "Wiring Devices" for devices with integral TVSSs.
 2. Division 26 Section "Panelboards" for factory-installed TVSSs.
-03.
-   1. DE
-   1. FINITIONS
-   1. A.
-   1. ATS:
+   1. DEFINITIONS
+   2. ATS:
       1. Acceptance Testing Specifications.
-   1. B.
-   1. SVR:
+   3. SVR:
       1. Suppressed voltage rating.
-   1. C.
-   1. TVSS:
+   4. TVSS:
       1. Transient voltage surge suppressor.
-04. SUBMITTALS
-   1. Product Data:
+3.  SUBMITTALS
+   5. Product Data:
       1. For each type of product indicated. Include rated capacities, operating weights, operating characteristics, furnished specialties, and accessories.
-   1. Product Certificates:
+   6. Product Certificates:
       1. For transient voltage suppression devices, signed by product manufacturer certifying compliance with the following standards:
-      1. UL 1283.
-2. UL 1449.
+      2. UL 1283.
+4. UL 1449.
    1. Field quality-control test reports, including the following:
       1. Test procedures used.
-2. Test results that comply with requirements.
-3. Failed test results and corrective action taken to achieve requirements.
+5. Test results that comply with requirements.
+6. Failed test results and corrective action taken to achieve requirements.
    1. Operation and Maintenance Data:
       1. For transient voltage suppression devices to include in emergency, operation, and maintenance manuals.
-   1. Warranties:
+   2. Warranties:
       1. Special warranties specified in this Section.
-05. QUALITY ASSURANCE
-   1. Source Limitations:
+7.  QUALITY ASSURANCE
+   3. Source Limitations:
       1. Obtain suppression devices and accessories through one source from a single manufacturer.
-   1. Product Options:
+   4. Product Options:
       1. Drawings indicate size, dimensional requirements, and electrical performance of suppressors and are based on the specific system indicated. Refer to Division
 1 Section "Product Requirements."
    1. Electrical Components, Devices, and Accessories:

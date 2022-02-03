@@ -96,16 +96,16 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Control', 'Software']
 	1. Delivery, Storage and Handling
 17. Do not remove shipping blocks, plugs, caps, and desiccant dryers installed to protect the instrumentation during shipment until the instruments are installed and permanent connections are made. 
    1. Product
-1. 2.1 NEMA Type Requirements
+1. NEMA Type Requirements
    1. Provide enclosures/housing for control system components in accordance with the following:
 	1. Areas designated as wet: NEMA Type 4.
 	2. Areas designated as wet or corrosive: NEMA Type 4X.
 	3. Either architecturally or non-architecturally finished areas designed as dry, noncorrosive, and nonhazardous: NEMA Type 12.
 	4. Areas designed to be subject to temporary submersion: NEMA Type 6P.
-1. 2.2 Programmable Logic Controller
+1. Programmable Logic Controller
    1. Acceptable Manufacturer:
 	1. Allen Bradley, CompactLogix.
-1. 2.3 Performance and Design Requirements
+1. Performance and Design Requirements
    1. System Operating Criteria
 	1. Stability: After controls have taken corrective action, as result of a change in the controlled variable or a change in setpoint, oscillation of final control element shall not exceed two cycles per minute or a magnitude of movement of 0.5 percent full travel.
 	2. Response: Any change in setpoint or change in controlled variable shall produce a corresponding corrective change in position of final control element and become stabilized within 30 seconds.
@@ -117,7 +117,7 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Control', 'Software']
 
 ## Execution
 
-1. 3.1 Installation
+1. Installation
    1. Wherever feasible, use bottom entry for all conduit entry to instruments and junction boxes.
 2. Install electrical components per the requirements of the Electrical design.
 3. Panel-Mounted Instruments:

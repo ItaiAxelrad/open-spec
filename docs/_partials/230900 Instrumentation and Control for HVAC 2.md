@@ -38,12 +38,12 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
 5. Product data sheets.
 6. Provide Operation and Maintenance Manuals.
 ## Product
-1. 2.1 Thermostats
+1. Thermostats
    1. Programmable thermostat shall be capable of maintaining room temperature swings within 2 DeF of setpoint temperature. 
 2. Programmable thermostat shall be capable of cycling the heating equipment. 
 	1. The cycle rate and heating anticipator setting shall be easy for installer to adjust and must remain at their installed setting even if there is an external power outage or battery failure that causes the programmable thermostat to be de-programmed.
 3. Thermostat shall be equipped with a conventional recovery system.
-1. 2.2 Humidistat
+1. Humidistat
    1. Humidistat shall be located in the chemical storage room and control the room’s humidification.
 2. Shall be wall mounted.
 3. Acceptable Manufacturers:
@@ -53,6 +53,6 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
 
 ## Execution
 
-1. 3.1 Installation
+1. Installation
    1. Install in accordance with manufacturer’s installation instructions. 
 

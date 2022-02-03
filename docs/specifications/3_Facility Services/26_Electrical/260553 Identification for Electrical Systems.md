@@ -30,10 +30,11 @@ tags: ['Facility', 'Services', 'Electrical', 'Identification', 'Systems']
    1. Includes, but not limited to:
       1. Product Data:
       1. Submit manufacturer's data on electrical identification materials and products.
-1. PRODUCTS
+
+## PRODUCTS
+
    1. MATERIALS
 	1. General:
-      1. 
    1. Except as otherwise indicated, provide manufacturer's standard products of categories and types required for each application. 
    1. Where more than single type is specified for an application, selection is Subcontractor option, but provide single selection for each application.
    1. Color-Coded Equipment and J-Box Markers:
@@ -43,8 +44,7 @@ tags: ['Facility', 'Services', 'Electrical', 'Identification', 'Systems']
       1. Provide orange tape, unless otherwise indicated or required by governing regulations.
    1. Underground Type Plastic Line Marker:
 	1. General:
-         1. 
-   1. Permanent, bright-colored, continuous-printed plastic tape, with metallic backing or imbedded locating wire, intended for direct-burial service:
+      1. Permanent, bright-colored, continuous-printed plastic tape, with metallic backing or imbedded locating wire, intended for direct-burial service:
       1. Not less than 6 inches wide x 4 mils thick. 
    1. Provide tape with printing which indicates Buried Electric or Communications service for buried cable or duct bank.
    1. Cable/Conductor Identification Bands:
@@ -73,11 +73,9 @@ tags: ['Facility', 'Services', 'Electrical', 'Identification', 'Systems']
    1. Punched for mechanical fastening:
       1. Except where adhesive mounting is necessary because of surface it is mounted to.
    1. Thickness:
-      1. 
    1. 1/16-inch, for units up to 20 square inches or 8-inch length
    1. 1/8-inch for larger units.
    1. Fasteners:
-      1. 
    1. Self-tapping stainless steel screws
    1. Except contact-type permanent adhesive where screws cannot or should not penetrate mounting surface.
    1. Red face and white core plies (letter color) nameplates shall identify Standby Power and Uninterruptible Power Supply (UPS) sources.
@@ -101,7 +99,9 @@ tags: ['Facility', 'Services', 'Electrical', 'Identification', 'Systems']
    1. Brady.
    1. Wire marker shall start within 1/32" of end of stripped insulation point.
 1. Retain products in articles below that are retained in "Identification Schedule" Article. Consider alternatives before specifying self-adhesive identification products. See Editing Instruction No. 1 and "Writing Guide" Article in the Evaluations.
-1. EXECUTION
+
+## EXECUTION
+
    1. ERECTION INSTALLATION APPLICATION 
 
 ## General

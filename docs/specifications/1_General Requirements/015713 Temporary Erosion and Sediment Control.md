@@ -35,12 +35,12 @@ tags: ['General', 'Requirements', 'Temporary', 'Erosion', 'Sediment', 'Control']
 	1. Submit a copy of the site Erosion and Sediment Control Plan to the City of Steamboat Springs Construction Services Foreman for review and approval prior to start of construction
 	2. Submit a copy of any required State of Colorado construction related permits (for example dewatering permits or Storm water management permit for construction sites) to the City of Steamboat Springs Construction Services Foreman prior to the start of construction.
    1. Product
-1. 2.1 General
+1. General
    1. Erosion control materials used shall conform to the requirements of Section 209 of the Colorado Department of Transportation Standards and Specifications for Road and Bridge Construction, 2005.
 
 ## Execution
 
-1. 3.1 General
+1. General
    1. The erosion and sediment control features shall be installed prior to clearing and grubbing and shall remain in place throughout construction.
 2. It is the Contractor’s responsibility to protect his work with adequate water control measures.
 3. Provide mud traps, rugs, or other features to prevent the tracking of dirt and mud into businesses and residences or on adjacent streets.
@@ -54,12 +54,12 @@ tags: ['General', 'Requirements', 'Temporary', 'Erosion', 'Sediment', 'Control']
 	5. Vehicle soil tracking measures (vehicle track pad, vehicle wash station, etc.)
 	6. Concrete washout areas and management methods.
 	7. Identification of site personnel responsible for inspecting erosion control measures.
-1. 3.2 Maintenance
+1. Maintenance
    1. The Contractor shall remove sediment from upstream of sediment traps on an as needed basis prior to the sediment overcoming the device. Sediment removed shall be legally disposed of by the Contractor at no additional cost to Owner.
 2. The Contractor shall inspect all erosion control features on a weekly basis and after every storm event and shall provide maintenance and/or cleanup including removal of mud tracking on streets as necessary at no additional cost to owner.
 3. Contractor shall routinely update erosion control plan and erosion control measures to reflect current conditions.
 4. Contractor shall perform other maintenance activities as required by any applicable state of local permit.
 5. The Contractor shall at all times have at hand the necessary materials and equipment to provide for early slope treatment and corrective measures to damaged slopes. All damaged areas shall be repaired as soon as possible.
-1. 3.3 Removal
+1. Removal
    1. All temporary erosion control materials shall be removed upon completion of the project.
 

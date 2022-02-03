@@ -38,7 +38,9 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Underground', 'Utility', 'Marking
 1. SEQUENCING AND SCHEDULING
    1. Coordination
    1. Contractor to coordinate installation of marker balls with utility trenching and installation activities.
-1. PRODUCTS
+
+## PRODUCTS
+
 1. MANUFACTURERS
    1. 3M Dynatel. No substitution allowed.
    1. For utilities located within 5’ of surface - 3M ID Extended Range Ball Marker Series 1420-XR/ID, programmable, color identified by trade. 
@@ -61,7 +63,9 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Underground', 'Utility', 'Marking
 ## General
 
  – Fuscia, 1408-XR 
-1. EXECUTION
+
+## EXECUTION
+
 1. ERECTION, INSTALLATION AND APPLICATION
    1. Tracer wire is required on Gas, Telephone/Communication (telecom), Water, and Sanitary Sewer.
    1. Marker tape 1’ below surface is required on all underground utilities.

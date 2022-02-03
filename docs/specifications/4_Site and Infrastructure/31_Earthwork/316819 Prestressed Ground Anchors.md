@@ -14,7 +14,6 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Prestressed', 'Ground', 'Anchors'
 2. The Contractor shall have the option of furnishing any type of post-tensioning system meeting the requirements of these specifications. The Contractor may also propose the use of proprietary systems which do not conform to all provisions of this specification, if the concept is approved by the Engineer. The system selected shall provide the magnitude and distribution of design prestressing force and minimum ultimate strength required by the plans without exceeding allowable temporary stresses. All design procedures, coefficients and allowable stresses shall be in accordance with the latest Standard AASHTO Specifications for Highway Bridges. 
 	1. Submittals
 3. Sufficiently in advance of the installation of ground anchors, the Contractor shall submit working drawings for the anchors. The details shall contain all necessary information for construction including:
-      1. 
 	1. Prestressing Details: 
 		1. These drawings shall show details of type, size, number of units per ground anchor, ground anchor diameter, inclination, forces applied per anchor, end anchorage systems, grouting and venting ports, grouting procedure, acceptable elongation, temporary overstress and other information necessary to properly complete the work. 
 		2. Details shall show the method of support for ground anchors to ensure that proper location in the center of the hole can be maintained.
@@ -25,12 +24,10 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Prestressed', 'Ground', 'Anchors'
    1. Product
 1. Materials
    1. Materials required for use under this item shall conform to the following:
-      1. 
 	1. Structural Steel: Item 441, and 442. 
 	2. Prestressing Steel: Item 426.
 	3. Hydraulic Cement Concrete: Item 421.
 2. Prestressing steel shall conform to one of the following types:
-      1. 
 	1. Seven wire strands conforming to ASTM Designation: A416.
 	2. High-tensile strength alloy bars conforming to the requirements of ASTM Designation: A722.
 3. Bars with greater minimum ultimate strength, but otherwise produced and tested in accordance with ASTM Designation:

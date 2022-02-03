@@ -74,7 +74,7 @@ tags: ['Facility', 'Construction', 'Concrete', 'Forming']
 	1. Forms to be free and clear of any oil or other residue not compatible with potable water holding structures.
 	2. Forms to be pressure washed or equal cleaning prior to use.
 	3. All embedded ties for walls exposed to the water shall have an integral rubber or neoprene water stop.
-1. 2.2 Accessories
+1. Accessories
    1. Form ties:
 	1. Commercially fabricated for use in form construction.
 		1. Do not use wire ties.
@@ -82,16 +82,12 @@ tags: ['Facility', 'Construction', 'Concrete', 'Forming']
 	3. 3/4 IN minimum to 1 IN maximum diameter cones on both ends.
 	4. Embedded portion of ties to be not less than 1-1/2 IN from face of concrete after ends have been removed.
 2. Fillets for Chamfered Corners:
-      1. 
 	1. Wood strips or rigid plastic, 45 degrees, 3/4-inch wing size; maximum possible lengths.
 3. Dovetail Anchor Slots:
-      1. 
 	1. Galvanized steel at brick and concrete block and stainless steel at stone work; 24 gauge; foam filled; release tape sealed slots; bent tab anchors; securable to concrete formwork.
 4. Flashing Reglets:
-      1. 
 	1. Galvanized steel; 24 gauge; longest possible lengths; release tape sealed slots; with alignment splines for joints; securable to concrete formwork.
 5. Form Liners:
-      1. 
 	1. Fabricated from fiberglass, elastomeric material, or urethane.
 
 ## Execution

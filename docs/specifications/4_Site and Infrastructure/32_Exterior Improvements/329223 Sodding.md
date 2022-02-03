@@ -474,7 +474,8 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Sodding']
 1. Scientific Name
 1. Common Name
 1. Variety
-1. Drill Seed Rate Lbs./Acre (PLS) 1,2*1. Hand Broadcast Rate
+1. Drill Seed Rate Lbs./Acre (PLS) 1,2
+	1. Hand Broadcast Rate
 1. Lbs./Acre (PLS) 1,2
 1. Graminoids
    1. Agropyron smithii

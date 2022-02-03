@@ -37,14 +37,18 @@ tags: ['Facility', 'Services', 'Plumbing', 'Processed', 'Water', 'Systems', 'Lab
    1. Manufacturers Standardization Society of the Valve and Fittings Industry, Inc. (MSS):
       1. SP-43 - Wrought Stainless Steel Butt-Welding Fittings.
    1. National Sanitation Foundation (NSF)
-1. Submittals*   1. See Division 22 sections of the Specifications. 
+1. Submittals
+	1. See Division 22 sections of the Specifications. 
    1. Submit Product Data on the following:
       1. Underground piping materials
    1. Aboveground piping materials
 1. warranty
    1. Follow procedures specified in Division 1 sections of the Specifications. 
-1. EXECUTION
-1. piping materials – underground*   1. Domestic Water Piping System:
+
+## EXECUTION
+
+1. piping materials – underground
+	1. Domestic Water Piping System:
       1. Outside buildings to within 5 feet of building:
          1. See Division 2 sections of the Specifications.
    1. NPS 3 and larger inside building to 5 feet outside building:
@@ -59,7 +63,8 @@ tags: ['Facility', 'Services', 'Plumbing', 'Processed', 'Water', 'Systems', 'Lab
       1. ASTM E11.
    1. Sand:
       1. Natural particles of granular material which does not contain excessive amounts of clay, silt, or organic material, passing a 3/8-inch sieve. Sand found on the job site may be used if it is approved by the Architect.
-1. Piping Materials - Aboveground*   1. Deionized Water:
+1. Piping Materials - Aboveground
+	1. Deionized Water:
       1. Polypropylene (PP) (limit service to 140°F  60 psi):
             1. Item
 1. Type Joint
@@ -138,13 +143,15 @@ Para. 934.1.2
    1. Double entry. Nibco DE Series.
    1. 4 inches
    1. Single entry Nibco SE Series
-1. EXECUTION
-1. Underground Piping Installation*   1. Trench Excavation:
+
+## EXECUTION
+
+1. Underground Piping Installation
+	1. Trench Excavation:
       1. Excavate trenches so that piping may be laid correctly on line and grade. Remove any large rocks or other debris encountered in the excavation and dispose of appropriately. 
    1. Excavate to a sufficient depth and width to provide adequate room for construction and installation of the work except that the width of the trench from the pipe invert to a point 12 inches above the top of the pipe shall not be greater than 30 inches. 
    1. Where it is impossible to maintain proper line and grade, excavate below grade and replace the bedding with compacted sand. 
    1. Sheeting, Bracing, and Shoring:
-      1. 
    1. Provide and maintain sheeting, bracing and shoring required to provide substantial support for the sides of excavations and trenches to prevent movement of the soil or edges of the trench, to protect the construction work and insure the safety of the workmen. 
    1. As the trench is backfilled, remove supports in such a manner as to prevent the caving in of the sides of the trench or damage to the pipe or structures. 
    1. Underpinning:
@@ -152,12 +159,10 @@ Para. 934.1.2
    1. Removal of Water:
       1. Keep excavations as dry as possible until backfill has been completed above the pipe. In ground containing excessive amount of water, provide and maintain such pumps and associated pipes and connections as are necessary to remove the water from the trench and assure safe, proper construction of the piping system. 
    1. Bedding:
-      1. 
    1. Provide Class "B" bedding for piping inside the building, consisting of a layer of granular material with a minimum thickness of 4 inches and a maximum thickness of 6 inches below the bottom of the pipe barrel. Extend the bedding to a minimum depth of 12 inches over the top of the pipe. 
    1. Place sand-gravel cover in 6-inch layers, mechanically compacted to 95 percent of maximum density as determined by ASTM D1557. 
    1. Firmly support a given segment of the bottom of the pipe. The segment, as a minimum, shall be equal to five-tenths of the outside diameter of the barrel, and shall be uniformly supported by direct contact with firm bedding. Excavate bell holes at proper intervals so that no part of the load on the pipe is supported by the bells. 
    1. Pipe Laying:
-      1. 
    1. Lay piping only in filled or disturbed earth after it has been compacted to properly support general construction. 
    1. Lay pipe in dry and clean trenches. 
    1. Inspect pipe and fittings for defects prior to being lowered into the trench and clean both inside of the bell and outside of the spigot. 
@@ -166,7 +171,6 @@ Para. 934.1.2
    1. PEX Pipe:
       1. Install underground PEX tubing in accordance with ASTM D2774 and ASTM F645.
    1. Backfilling:
-      1. 
    1. Place and compact backfill so that subsequent harmful settlement will not occur and the installation of concrete floor slabs may proceed after completion. Begin backfilling as required at the bedding of the pipe and continue vertically to the surface. 
    1. Do not commence backfilling prior to inspection of the pipe. After inspection, place the sand required above the pipe and proceed with the backfilling operation. 
    1. Provide sand backfill mechanically compacted in 6-inch lifts to 95 percent of maximum density as determined by ASTM D1557, for all piping inside the building. 
@@ -175,7 +179,6 @@ Para. 934.1.2
    1. Pipes Through Grade Beams:
       1. Provide pipes and tubing passing through or under building grade beams with a Schedule 40 pipe sleeve with 4-inch clearance to prevent possible damage from building settlement. 
 1. Aboveground Piping Installation*	1. General:
-      1. 
    1. Install pipe and pipe fittings in accordance with recognized industry practices to achieve permanently leakproof systems, capable of performing the indicated service without failure.
    1. Install each piping run with a minimum number of joints and couplings but with adequate and accessible unions/flanges for disassembly and maintenance/replacement of valves and equipment.
    1. Install piping with sufficient clearance from other piping, building structure and other systems to allow for the piping insulation to be properly applied.

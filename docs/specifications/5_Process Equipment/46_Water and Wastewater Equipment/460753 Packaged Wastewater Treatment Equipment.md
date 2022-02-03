@@ -114,7 +114,9 @@ accessories.
    1. Section 017000 - Execution and Closeout Requirements:
       1. Requirements for warranties.
    1. Furnish manufacturer's warranty for packaged wastewater treatment equipment as required elsewhere in these design documents.
-1. ## Product
+
+## Products
+
 1. PACKAGED PLANT WASTEWATER TREATMENT SYSTEM
    1. Furnish materials according to industry and Colorado Department of Public Health & Environment (CDPHE) Design criteria for Domestic Wastewater Treatment Works standards.
    1. Description:

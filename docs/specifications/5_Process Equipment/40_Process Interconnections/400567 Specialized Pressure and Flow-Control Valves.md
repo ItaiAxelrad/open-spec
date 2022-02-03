@@ -104,6 +104,6 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Specialized', 'Pressure', 'F
 
 ## Execution
 
-1. 3.1 Installation
+1. Installation
    1. Install products based on manufacturer’s recommended installation instructions. 
 

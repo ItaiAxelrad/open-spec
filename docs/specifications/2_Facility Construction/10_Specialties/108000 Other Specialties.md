@@ -32,7 +32,9 @@ tags: ['Facility', 'Construction', 'Specialties', 'Other']
 1. PROJECT CONDITIONS
    1. Field Measurements
    1. Take field measurements to verify or supplement dimensions indicated. Be responsible for accurate fit of the Work.
-   1. products
+   
+## PRODUCTS
+
    1. Finish For Aluminum
    1. Clear Anodic Finish
    1. For work specified to have clear anodic finish, provide an AA-M12C22A31 finish, unless otherwise specified, in accordance with AA DAF-45 and AA SAA-46.

@@ -43,7 +43,8 @@ tags: ['Facility', 'Services', 'Plumbing', 'Vacuum', 'Piping', 'Laboratory', 'He
       1. Diameter-index safety system.
    1. Low Voltage:
       1. As defined in NFPA 70 for circuits and equipment operating at less than 50 V or for remote-control, signaling power-limited circuits.
-1. Submittals*   1. Refer to related Division 22 sections of the Specifications. 
+1. Submittals
+	1. Refer to related Division 22 sections of the Specifications. 
    1. Submit Product Data on the following:
       1. Underground piping materials.
    1. Aboveground piping materials.
@@ -91,10 +92,11 @@ tags: ['Facility', 'Services', 'Plumbing', 'Vacuum', 'Piping', 'Laboratory', 'He
       1. Automatic ½” one-way shut-off safety coupler. Foster, Amflo, Quincy.
    1. Pressure Regulators:
       1. Bronze body and trim; spring-loaded, diaphragm-operated, relieving type; manual pressure-setting adjustment; rated for 250 psig minimum inlet pressure; and capable of controlling delivered air pressure within 0.5 psig for each 10 psig inlet pressure. Matheson Model 18 Series or equal.
-1. EXECUTION
+
+## EXECUTION
+
 1. INSTALLATION
 	1. General:
-      1. 
    1. Examine rough-in requirements for equipment having to verify actual locations of piping connections prior to installation.
    1. Examine walls, floors, roofs, and plumbing chases for suitable conditions where piping and specialties are to be installed.
    1. Piping shall be run true, plumb, and straight, with all restraints adjusted to carry their proportional load and locked to prevent pipe “wag,” misalignment, movement, shear, or sagging.

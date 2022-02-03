@@ -64,7 +64,6 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Established', 'Lan
    1. Fertilize trees with 18-7-10 formulation, slow release fertilizer. Apply 6 oz./100 s.f. Apply once in spring. Apply by spreading fertilizer evenly around the ball of the tree. Apply from the trunk out to the drip line.
    1. If trees exhibit iron chlorosis, provide foliar fertilization with chelated iron. Cost of foliar fertilization is a part of this contract. Avoid contact with all stainable surfaces including concrete sidewalks, pavers, planter walls, rock mulch, project signage, and lights. Obtain written authorization of Owner’s Representative prior to fertilization.
    1. Insecticide application:
-      1. 
    1. All pine trees shall receive one application of approved insecticide to treat for and reduce the infestation of the Ips beetle. 
    1. Any spray application shall be timed properly in order to minimize damage and maximize chemical effectiveness.
    1. Foliar insecticide spray shall be of a material approved by the Owner. 

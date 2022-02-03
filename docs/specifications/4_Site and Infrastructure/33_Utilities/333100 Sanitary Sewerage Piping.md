@@ -30,7 +30,7 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Sanitary', 'Sewerage', 'Piping']
 9. Defective or Damaged Material:
       1. All such material shall be rejected and removed from the job site immediately.
 ## Product
-1. 2.1 Materials
+1. Materials
    1. Polyvinyl Chloride (PVC) Pipe and Fittings:
 	1. 4-inch to 15-inch inside diameter: ASTM D 3034, SDR35
 	2. 18-inch to 27-inch inside diameter: ASTM F 679, Wall thickness T-1

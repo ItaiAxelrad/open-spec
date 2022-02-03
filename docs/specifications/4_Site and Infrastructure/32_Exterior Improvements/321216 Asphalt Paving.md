@@ -32,7 +32,7 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Asphalt', 'Paving'
 5. Submit references and proof of experience to Engineer prior to scheduling installation of bituminous pavement. 
 6. Submit method of cutting and removing pavement as well as equipment and method to be used for pavement replacement.
 ## Product
-1. 2.1 Materials
+1. Materials
    1. Base Course:
       1. Class 6 Aggregate Base Course per Section 703 of the Standard Specifications.
 2. Surface Course:
@@ -42,12 +42,12 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Asphalt', 'Paving'
 
 ## Execution
 
-1. 3.1 Protection of Existing Pavement
+1. Protection of Existing Pavement
    1. The pavement adjacent to an excavation shall be protected from damage caused by movement of construction equipment or other work. Any paved surface damaged due to the Contractor’s negligence, shall be replaced or repaired at no expense to the Owner. The area to be replaced or repaired shall be as designated by the Engineer.
-1. 3.2 Cutting and Removal
+1. Cutting and Removal
    1. Pavement shall be neatly cut along the lines shown on the Drawings or as approved in the field by the Engineer. Pavement shall be cut by saw, or other approved method.
 2. Care shall be exercised so that adjacent pavement outside the cut will not be disturbed or damaged. Excavated pavement shall be removed and disposed of off-site. Removed pavement may not be used as trench backfill.
-1. 3.3 Temporary Pavement
+1. Temporary Pavement
    1. If bituminous pavement is not replaced within 24 hours following backfill completion, the Contractor shall install additional base course to match the existing traveled surface. The Contractor shall maintain the traveled surface as necessary to keep it smooth, free from soft spots and dust free. Just prior to bituminous pavement replacement, the Contractor shall remove and dispose of the additional base course.
 	1. Bituminous Pavement Replacement
 2. Prior to installation of bituminous pavement, cut and remove additional pavement to provide a clean, straight and uniform line without sharp jogs. The edge of the existing pavement shall be cut back so that at least one foot of bituminous pavement will be placed upon undisturbed material outside of the actual trench excavation area on each side of the trench. 

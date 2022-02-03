@@ -12,7 +12,6 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Sanitary', 'Sewerage']
 1. SCOPE
    1. Confirm application limits for Sanitary Sewerage Utilities specifications. Coordinate with Division 22 Plumbing.
    1. The work under this section shall consist of providing all work, materials, labor, equipment, and supervision necessary to provide for the sanitary sewer work required in these specifications and on the drawings. The limits of the work, including the responsible party for testing purposes, shall be clearly defined on the Drawings. Included are the following topics:
-      1. 
 ## General
 
    1. Scope
@@ -90,7 +89,6 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Sanitary', 'Sewerage']
    1. C153/A21.53 Standard for Ductile Iron Compact Fittings
 1. SUBMITTALS
    1. Provide manufacturer’s product information (cut sheets), shop drawings and O&M information for sewer materials including:
-      1. 
 * Pipe
 * Fittings
 * Pre-Cast and Cast-in-Place Structures
@@ -258,14 +256,15 @@ Value
 
    1. Complete exploratory excavations at utility crossings as shown on the drawings and as necessary to complete the work.
    1. Maintain clearances between existing or proposed sewer lines and watermains as follows:
-      1. 
 * 8’ horizontal separation (measured center to center) between existing or proposed sanitary or storm sewers and watermains. 
 * 12” vertical separation (measured from outsides of pipes) where watermains cross over sanitary or storm sewers.
 * 18” vertical separation (measured from outsides of pipes) where watermains cross under sanitary or storm sewers.
    1. Notify the A/E and DFD Project Representative of utility conflicts as soon as they are encountered.
    1. Store and handle pipe in accordance with manufacturers’ recommendations. Keep pipes clean of soil, debris and animals.
-1. DIVERTING SEWAGE*1. *Note to the designer:
-      1. Verify occupancy of tributary buildings with Agency/Owner. Modify for project conditions noting known periods of low or high flow.**   1. Tributary buildings and services will remain occupied during construction. Wastewater will continue to be discharged to the sanitary sewers during construction. Contractor shall provide, operate and maintain all diversion and pumping equipment necessary to carry out the work and allow wastewater to continue to be discharged to the sanitary sewer system. Provide all necessary generators or other power source necessary to operate pumps on a continuous basis. Extra pumping and power equipment shall be staged onsite to maintain sewage diversion in the event of failure of the primary pumping equipment. The Contractor is solely responsible for sewage diversion.
+1. DIVERTING SEWAGE
+	1. *Note to the designer:
+      1. Verify occupancy of tributary buildings with Agency/Owner. Modify for project conditions noting known periods of low or high flow.*
+	1. Tributary buildings and services will remain occupied during construction. Wastewater will continue to be discharged to the sanitary sewers during construction. Contractor shall provide, operate and maintain all diversion and pumping equipment necessary to carry out the work and allow wastewater to continue to be discharged to the sanitary sewer system. Provide all necessary generators or other power source necessary to operate pumps on a continuous basis. Extra pumping and power equipment shall be staged onsite to maintain sewage diversion in the event of failure of the primary pumping equipment. The Contractor is solely responsible for sewage diversion.
 1. DIVERSION PLAN
    1. Contractor shall provide a wastewater diversion and pumping plan indicating the order and schedule for completion of the work and associated diversion provisions. The plan shall indicate the location of proposed diversion, pipe size and type, discharge locations, and the type and size of pumping equipment to be used. The plan shall describe contingencies to be used in the event of failure of the primary pumps. Contractor’s diversion plan is subject to Owner’s approval prior to implementation.
 1. LAYING PIPE
@@ -299,7 +298,8 @@ Value
    1. Make all necessary openings into existing structures or sewers including the reconstruction of existing inverts or benches, as necessary. Patch all openings permanently watertight with hydraulic cement and flexible watertight boots.
 1. SEWER LATERALS
 1. *Note to the designer:
-      1. If connecting lateral to sewer main owned by municipality or sewer district, verify connection requirements and modify this specification accordingly. A manhole may be required at the connection of a lateral greater than 6-inches in diameter to the sewer main.**   1. Connect existing sewer laterals in accordance with all of the requirements of the sewer mains, including bedding, backfill, compaction, and jointing of the pipe. Connect sewer laterals to the sewer main by means of an approved "wye" fitting. Connect the new pipe to the existing lateral material using a no-hub coupling or approved transition fitting. Coupling/fitting shall be selected for the specific pipe material being connected. 
+      1. If connecting lateral to sewer main owned by municipality or sewer district, verify connection requirements and modify this specification accordingly. A manhole may be required at the connection of a lateral greater than 6-inches in diameter to the sewer main.*
+	1. Connect existing sewer laterals in accordance with all of the requirements of the sewer mains, including bedding, backfill, compaction, and jointing of the pipe. Connect sewer laterals to the sewer main by means of an approved "wye" fitting. Connect the new pipe to the existing lateral material using a no-hub coupling or approved transition fitting. Coupling/fitting shall be selected for the specific pipe material being connected. 
    1. Subject to local municipality requirements, cut-in type saddle wyes are permitted on existing sanitary sewers where service laterals are to be connected to the sewer. Unless otherwise indicated, the saddle fitting shall be gasketed PVC, with stainless steel bands and hardware.
 1. PIPE INSULATION
    1. Provide board insulation where indicated on drawings or where depth of cover is less than 6 feet. 
@@ -312,7 +312,8 @@ Value
    1. Access points are required every 400 feet or closer. At access points the tracer wire shall be brought to grade with manholes or other covered access devices.
 1. LOCATOR TAPE
    1. Install locator tape directly above new non-metallic sanitary sewer pipe approximately 15 inches below finished grade. Bring tape to surface and terminate in valve box or other structure.
-1. DEFLECTION TESTING*   1. Test all PVC sewer pipe in the presence of the DFD Project Representative by a "go-no-go" deflection test mandrel furnished by the Contractor. Do not perform deflection testing any sooner than 30 days following the installation of the PVC pipe. Pull the mandrel by hand, or hand operated winch so as to avoid any damages to the pipe that may be caused by mechanized pulling equipment.
+1. DEFLECTION TESTING
+	1. Test all PVC sewer pipe in the presence of the DFD Project Representative by a "go-no-go" deflection test mandrel furnished by the Contractor. Do not perform deflection testing any sooner than 30 days following the installation of the PVC pipe. Pull the mandrel by hand, or hand operated winch so as to avoid any damages to the pipe that may be caused by mechanized pulling equipment.
    1. Size the mandrel to test the pipeline for a maximum allowable internal deflection of the pipe (in any direction) of not to exceed five (5) percent of the original internal diameter for the pipelines tested, regardless of how long after installation the testing takes place.
    1. Deflection testing may be done concurrently with any necessary televising of the sewers. When done concurrently with sewer televising, the mandrel may be pulled by mechanized equipment, provided the mandrel is visible in the television picture during the testing and the operation of the mandrel can bequickly halted before damage to the pipe occurs.
    1. Where poor trench soils conditions require the pipe excavation to be undercut and/or over excavated, the DFD Construction Representative reserves the right to require an additional deflection test prior to the expiration of the Contractor's one year performance guarantee.

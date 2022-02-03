@@ -44,7 +44,8 @@ tags: ['Facility', 'Services', 'Plumbing', 'Domestic', 'Water', 'Piping']
    1. Manufacturers Standardization Society of the Valve and Fittings Industry, Inc. (MSS)
    1. SP-43 - Wrought Stainless Steel Butt-Welding Fittings.
    1. National Sanitation Foundation (NSF) 
-1. SUBMITTALS*   1. See Division 22 sections of the Specifications.
+1. SUBMITTALS
+	1. See Division 22 sections of the Specifications.
    1. Submit Product Data on the following:
       1. Underground piping materials.
    1. Aboveground piping materials.
@@ -53,8 +54,11 @@ tags: ['Facility', 'Services', 'Plumbing', 'Domestic', 'Water', 'Piping']
    1. Comply with NSF 14 for plastic, potable domestic water piping and components. Comply with NSF 61 for potable domestic water piping and components.
 1. WARRANTY
    1. Follow the procedure specified in Division 1 of the Specifications. 
-1. PRODUCTS
-1. PIPING MATERIALS - UNDERGROUND*   1. Domestic Water Piping System 
+
+## PRODUCTS
+
+1. PIPING MATERIALS - UNDERGROUND
+	1. Domestic Water Piping System 
    1. Outside buildings to within 5 feet of building:
       1. See Division 2 of the Specifications.
    1. NPS 3 and larger inside building to 5 feet outside building:
@@ -69,7 +73,8 @@ tags: ['Facility', 'Services', 'Plumbing', 'Domestic', 'Water', 'Piping']
    1. ASTM E11.
    1. Sand
    1. Natural particles of granular material which does not contain excessive amounts of clay, silt, or organic material, passing a 3/8-inch sieve. Sand found on the job site may be used if it is approved by the Architect.
-1. PIPING MATERIALS - ABOVEGROUND*   1. Domestic Hot and Cold Water
+1. PIPING MATERIALS - ABOVEGROUND
+	1. Domestic Hot and Cold Water
    1. Item
    1. Type Joint
    1. Size
@@ -145,8 +150,11 @@ tags: ['Facility', 'Services', 'Plumbing', 'Domestic', 'Water', 'Piping']
    1. NPS 8 & up
    1. ASTM D2000, CA 615, A25B44Z
    1. EPDM, Grade E, Green
-1. EXECUTION
-1. UNDERGROUND PIPING INSTALLATION*   1. Trench Excavation 
+
+## EXECUTION
+
+1. UNDERGROUND PIPING INSTALLATION
+	1. Trench Excavation 
    1. Excavate trenches so that piping may be laid correctly on line and grade. Remove any large rocks or other debris encountered in the excavation and dispose of appropriately. 
    1. Excavate to a sufficient depth and width to provide adequate room for construction and installation of the work except that the width of the trench from the pipe invert to a point 12 inches above the top of the pipe shall not be greater than 30 inches. 
    1. Where it is impossible to maintain proper line and grade, excavate below grade and replace the bedding with compacted sand. 
@@ -205,7 +213,8 @@ tags: ['Facility', 'Services', 'Plumbing', 'Domestic', 'Water', 'Piping']
    1. File or ream cut tube ends to the full original bore. 
    1. The inter-membering of copper and brass with ferrous metal is not permitted. 
    1. Make the transition between ferrous and nonferrous metal at an exposed and readily accessible location in a water service or at a water heater. Use insulating couplings at these points. (See Paragraph Insulating Couplings.) 
-1. PIPE JOINTING*   1. Steel Pipe 
+1. PIPE JOINTING
+	1. Steel Pipe 
    1. Provide steel pipe NPS 2 and smaller with plain ends and socket weld joints or threaded ends and screwed joints. Provide sizes NPS 2-1/2 and over flanged or grooved with gaskets or welded. Welding of galvanized pipe is not permitted. Connect galvanized pipe with screwed fittings, companion flanges or approved mechanical couplings. 
    1. Ream pipe ends and take care to prevent foreign material from entering any pipe. 
    1. Make screwed joints with oil and graphite or other approved compound. Apply joint compound to male thread only and take care to prevent compound from reaching interior of pipe. 

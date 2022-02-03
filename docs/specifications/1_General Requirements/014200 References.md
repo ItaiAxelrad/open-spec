@@ -14,19 +14,16 @@ tags: ['General', 'Requirements', 'References']
 
 1. SUMMARY
    1. Work included:
-      1. 
 	1. Throughout the Contract Documents, reference is made to codes and standards which establish qualities and types of workmanship and materials, and which establish methods for testing and reporting on pertinent characteristics.
 	2. Where materials or workmanship are required by these Contract Documents to meet or exceed the specifically named code or standard, it is the Contractor’s responsibility to provide materials and workmanship which meet or exceed the specifically named code or standard.
 	3. It is also the Contractor’s responsibility, when so required by the Contract Documents or by written request from the Engineer, to deliver to the Engineer all required proof that the materials or workmanship, or both, meet or exceed the requirements of the specifically named code or standard. Such proof shall be in the form requested in writing by the Engineer, and generally will be required to be copies of a certified report of tests conducted by a testing agency approved for that purpose by the Engineer.
 2. Related work described elsewhere:
-      1. 
 	1. Section 01 42 13, Abbreviations and Acronyms
 	2. Section 01 42 16, Definitions
 	3. Section 01 42 19, Reference Standards
 	4. Specific naming of codes or standards occurs on the drawings and in other sections of these Specifications.
 	5. Quality Assurance
 3. Familiarity with pertinent codes and standards:
-      1. 
 	1. In procuring all items used in this work, it is the Contractor’s responsibility to verify the detailed requirements of the specifically named codes and standards and to verify that the items procured for use in this work meet or exceed the specified requirements.
 4. Rejection of non-complying items:
 	1. The Engineer reserves the right to reject items incorporated into the work which fail to meet the specified minimum requirements. The Engineer further reserves the right, and without prejudice to other recourse the Engineer may take, to accept non-specified items subject to review and approval by Owner. Under Owner Contracts, an adjustment in the Contract Amount may be applicable.

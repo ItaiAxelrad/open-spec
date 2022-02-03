@@ -10,23 +10,17 @@ tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Sto
 ## General
 
 1. RELATED DOCUMENTS
-   1. A.
    1. Drawings, General and Special Provisions of the Contract, and Division 01 Specification Sections apply to this Section.
 2.
 1. SUMMARY
-   1. A.
    1. Furnish and install five (5) variable-speed screw centrifugal, direct coupled vertical pumps and related equipment required for complete installation in the Sludge Pumping Station for return activated sludge (RAS) pumping.
-   1. B.
    1. Furnish and install two (2) screw centrifugal, direct coupled vertical pumps, and related equipment required for complete installation in the Sludge Pumping Station for waste activated sludge (WAS) pumping.
 3.
 1. QUALITY ASSURANCE
-   1. A.
    1. The equipment shall be supplied by a firm regularly engaged in the manufacture of the equipment item, whose products have been used satisfactorily in similar services for a minimum of five (5) years.
-   1. B.
    1. The Contractor may furnish and install equipment of a manufacturer whose products have not been in similar services for five years, provided the equipment manufacturer submits a bond, or deposits a sum equal to the installed price of the equipment, for a period of five (5) years.
 4.
 1. SUBMITTALS
-   1. A.
    1. Submit the following in accordance with the Provisions of the Contract and Division 01 specification Sections:
       1. A copy of this specification section, with addendum updates included, and all referenced and applicable sections, with addendum updates included, with each paragraph check- marked to indicate specification compliance or marked to indicate requested deviation from specification requirements. If deviations from the specification are indicated and, therefore requested by the Contractor, the submittal shall be accompanied by a detailed, written justification for each deviation. Failure to include a copy of the marked-up specification sections, along with justification for any requested deviations to the specification requirements, with the submittal, shall be cause for rejection of the entire submittal with no further consideration.
 2. Manufacturer’s product data
@@ -38,18 +32,15 @@ tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Sto
 2. Recommended spare parts lists
 3. Operation and maintenance manuals
 4. Manufacturer’s warranty
-   1. B.
    1. OPERATION AND MAINTENANCE MANUALS
    1. Operation and Maintenance Manuals shall be as described in Section 017700 – Closeout Procedures. If preprinted manuals and booklets are included, “X-out” the information that does not pertain to the equipment or system supplied; i.e. the information in the manual shall be specific to the equipment model or system supplied for the project.
 2. Operation and Maintenance Manuals shall be submitted prior to making application for payment exceeding 75 percent of the Contract Price.
 5.
 1. WARRANTY
-   1. A.
    1. Special Warranty:
       1. The manufacturer shall warrant that the work described here shall be free from defects in workmanship and material for a period of one (1) year from the date of acceptance. Any faulty workmanship or defective material furnished that is found within the warranty period shall be corrected without cost to the Owner.
 6.
 1. EXTRA MATERIALS
-   1. A.
    1. The following spare parts to be supplied.
    1. One set of mechanical seals each for the RAS pumps and the WAS pumps (total 2 sets).
 2. One set of gaskets and O-ring each for the RAS pumps and the WAS pumps (total 2 sets)

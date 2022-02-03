@@ -45,8 +45,7 @@ tags: ['Facility', 'Services', 'Electrical', 'Panelboards']
    1. Cutler-Hammer:
       1. Pow-R-Line 1a
    1. GE Company, GE Industrial Systems:
-      1. AL
-   1. Square D:
+      1. Square D:
       1. NQOD
    1. Panelboards rated 480/277V:
       1. Siemens Energy & Automation, Inc.:
@@ -54,8 +53,7 @@ tags: ['Facility', 'Services', 'Electrical', 'Panelboards']
    1. Cutler-Hammer:
       1. Pow-R-Line 3a
    1. GE Company, GE Industrial Systems:
-      1. AE
-   1. Square D:
+      1. Square D:
       1. NF, I Line
 	1. General:
       1. Provide dead-front, safety-type, 60-hertz panelboards suitable for voltages, phases, and wires as indicated.

@@ -19,7 +19,8 @@ tags: ['Facility', 'Services', 'Electrical', 'Medium', 'Voltage', 'Cables', 'Und
    2. Check and test all systems.
    3. A complete successful test of systems will be witnessed by the Technical Representative prior to final acceptance.
    4. Comply with all Owner site access requirements and regulations.
-3. References*   1. Association of Edison Illuminating Companies, Inc. (AEIC) 
+3. References
+	1. Association of Edison Illuminating Companies, Inc. (AEIC) 
    1. CS5 - Specifications for Polyethlene and Cross-Linked Polyethylene-insulated Shielded Power Cables Rated 5KV through 69KV. 
    2. CS6 - Specifications for Ethylene Propylene Rubber-insulated Shielded Power Cable Rated 5KV Through 69KV. 
    3. Institute of Electrical and Electronics Engineers, Inc. (IEEE) 
@@ -30,12 +31,13 @@ tags: ['Facility', 'Services', 'Electrical', 'Medium', 'Voltage', 'Cables', 'Und
    8. WC 7 - Cross-Linked Thermosetting-Polyethylene-Insulated Wire and Cable for the Transmission and Distribution of Electrical Energy. 
    9. WC 8 - Ethylene Propylene Rubber Insulated Wire and Cable for the Transmission and Distribution of Electrical Energy. 
    10. National Fire Protection Association (NFPA) 70 - National Electrical Code. 
-4. System Description*   1. Design Requirements 
+4. System Description
+	1. Design Requirements 
    1. Provide medium voltage cable designed and constructed for use under the following service conditions:
-      1. 
    2. 13,200 volts (line to line), 3 phase, 3-wire, 60 hertz. 
    3. Delta, grounded. 
-5. Submittals*   1. Product Data 
+5. Submittals
+	1. Product Data 
    1. Submit itemized list of materials with manufacturer's technical product data for each type of medium voltage cable and accessory specified and indicated. 
    2. Quality Control Submittals 
    3. Submit results of the specified factory tests. 
@@ -55,7 +57,8 @@ tags: ['Facility', 'Services', 'Electrical', 'Medium', 'Voltage', 'Cables', 'Und
 7. PRODUCTS
 8. standard products
    1. Material and equipment shall be the standard product of a manufacturer regularly engaged in the manufacturer of the product and shall essentially duplicate items that have been in satisfactory use for at least two years prior to bid opening. Items of the same classification shall be identical including equipment, assemblies, parts, and components.
-9. Shielded Medium Voltage Cable*   1. Manufacturers 
+9. Shielded Medium Voltage Cable
+	1. Manufacturers 
    1. Cablec Industrial Cable Co. 
 
 ## General
@@ -86,7 +89,8 @@ tags: ['Facility', 'Services', 'Electrical', 'Medium', 'Voltage', 'Cables', 'Und
       1. Copper tape, helically applied over semiconducting insulation shield.
    1. Cable Jacket:
       1. Sunlight-resistant PVC.
-1. Cable Accessories*   1. Splices and Termination Kits 
+1. Cable Accessories
+	1. Splices and Termination Kits 
    1. Provide cable termination suitable for indoor and outdoor use with non-tracking outer surface. 
    1. Provide Class 2 terminations for outdoor locations and Class 3 terminations for indoor locations per IEEE 48. 
    1. Provide insulated cable splice using factory engineered splice kit per IEEE 404 and 592. 
@@ -122,15 +126,14 @@ tags: ['Facility', 'Services', 'Electrical', 'Medium', 'Voltage', 'Cables', 'Und
    1. 3M Co., Electrical Products Div. 
    1. Plymouth Rubber Co., Inc.; Plymouth/Bishop Insulating Products. 
 
-1. Source Quality Control*   1. Cable Factory Test 
+1. Source Quality Control
+	1. Cable Factory Test 
    1. Provide the following factory tests on cables on the same production run:
-      1. 
    1. Conductor resistance. 
    1. Insulation thickness. 
    1. Tensile strength. 
    1. Accelerated water absorption. 
    1. Provide the following factory tests on the actual cable to be used for the work:
-      1. 
    1. Dc voltage test. 
    1. Insulation resistance. 
 1. conduit and ducts
@@ -146,7 +149,10 @@ tags: ['Facility', 'Services', 'Electrical', 'Medium', 'Voltage', 'Cables', 'Und
 1. concrete
    1. Shall be composed of fine aggregate, course aggregate, Portland cement, and water so proportioned and mixed as to produce a plastic, workable mixture. Fine aggregate shall be of hard, dense, durable, clean, and uncoated sand. The course aggregate shall be reasonably well graded from 3/16 inch to one inch. The fine and course aggregates shall be free from injurious amounts of dirt, vegetable matter, soft fragments or other deleterious substances. Water shall be fresh, clean, and free from salts, alkali, organic matter, and other impurities. Concrete shall have a compressive strength of 2500 psi at the age of 28 days. Slump shall not exceed four inches. Re-tempering of concrete will not be permitted. Exposed, unformed concrete surfaces shall be given a smooth, wood float finish. Concrete shall be cured for a period of not less than sever (7) days, and concrete made with high early strength Portland cement shall be repaired by patching honeycombed or otherwise defective areas with cement mortar as directed by the Technical Representative. Air entrain concrete exposed to weather using an air-entraining admixture conforming to ASTM C260. air content shall be between four and six percent.
    1. Reinforcing steel for replacement of curbs shall conform to ASTM A185, welded steel wire fabric, WWF4x4.
-1. Execution*1. Installation*
+
+## Execution
+
+	1. Installation*
 ## General
 
 
@@ -170,13 +176,11 @@ tags: ['Facility', 'Services', 'Electrical', 'Medium', 'Voltage', 'Cables', 'Und
    1. Fireproofing 
    1. Fireproof exposed cables in manholes, vaults, and electrical equipment rooms. 
    1. Install arc and fireproofing tape half-lapped:
-      1. 
    1. For cables under 1-1/2 inches od (outside diameter), use 1-1/2-inch-wide tape. 
    1. For cables greater than 1-1/2 inches od, use 3-inch-wide tape. 
    1. Use 1/2-inch-wide pressure sensitive glass cloth tape placed 300 mm (twelve inches) on center and use also at ends to secure fireproofing tape. 
    1. Identification 
    1. Identify medium voltage cable phases by 1/2-inch-wide color coding plastic tape as follows:
-      1. 
    1. Phase X - black. 
    1. Phase Y - red. 
    1. Phase Z - blue. 
@@ -209,7 +213,8 @@ tags: ['Facility', 'Services', 'Electrical', 'Medium', 'Voltage', 'Cables', 'Und
       1. Do not install cables utilizing the shortest route, but route along those walls providing the longest route and maximum spare cable lengths. Form cables to closely parallel walls, not to interfere the duct entrances, and support on brackets and cable insulators at a maximum of four feet. In existing manholes, handholes and vaults where new ducts are to be terminated or where new cables are to be installed, locate the existing installation of cables, cable supports and grounding as required for a uniform installation with cables carefully arranged and supported. Install cables at middle and bottom of cable racks, leaving top space open for future cables, except as .otherwise indicated for existing installations. Provide one spare three-insulator rack arm for each cable rack in each underground structure.
    1. Cable Terminating
    1. Protect terminations of insulated power cables from accidental contact, deterioration of coverings and moisture by providing terminating devices and materials. Install terminations of insulated power cables in accordance with the manufacturer's requirements. Make terminations with materials and methods as indicated or specified herein or as designated by the written instruction of the cable manufacturer and termination kit manufacturer.
-1. Field Quality Control*   1. Cable Field Tests 
+1. Field Quality Control
+	1. Cable Field Tests 
    1. Perform continuity test on shielding of shielded cables by measuring the dc resistance from end to end. Verify shield connection to ground. 
    1. Perform a cable insulation resistance test prior to cable connections. Individually test each conductor with all other conductors and shields grounded.
    1. Perform cable insulation resistance test prior to cable connections. Perform second insulation resistance test after high potential test is completed. 

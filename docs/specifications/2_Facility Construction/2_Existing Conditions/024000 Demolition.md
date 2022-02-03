@@ -65,7 +65,7 @@ tags: ['Facility', 'Construction', 'Existing', 'Conditions', 'Demolition']
 2. Provide and maintain temporary weather protection as necessary.
 3. Sprinkle debris with water and use temporary enclosures as necessary to control dust.
 4. Provide and maintain substantial barricades and safety lights as required.
-1. 3.2 Removals
+1. Removals
    1. The contractor shall remove all items and materials as designated on the construction plans, or otherwise directed by the Owner, without disturbing existing adjacent improvements.
 	1. Where adjacent improvements are damaged by the Contractor’s operations they shall be repaired and/or replaced to the satisfaction of the Project Engineer and at the Contractor’s expense.
 2. All materials designated to be removed or demolished and not designated to be reused or salvaged shall be hauled off the Project site and legally disposed of at the Contractor’s expense.

@@ -104,7 +104,6 @@ Property Damage): $
       1. $  
    1. Additional Insureds.
    1. The following persons or entities are to be listed on Owner’s general liability and property policies of insurance as additional insureds, as provided in paragraph 6.04.B:
-      1. 
 Engineer
 
 Engineer’s Consultant

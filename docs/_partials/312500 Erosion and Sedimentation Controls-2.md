@@ -168,7 +168,9 @@ Building Rating System for New Construction (LEED-NC)
    1. Backfilling the openings in synthetic grid systems and articulating cellular concrete block systems shall be completed a maximum 7 days after placement to protect the material from ultraviolet radiation.
 10. WARRANTY
    1. Erosion control material shall have a warranty for use and durable condition for project specific installations. Temporary erosion control materials shall carry a minimum eighteen month warranty. Permanent erosion control materials shall carry a minimum three year warranty.
-1. ## Product
+
+## Products
+
 1. RECYCLED PLASTIC
    1. Recycled plastic shall contain a minimum 85 percent of recycled post-consumer product.
 Recycled material shall be constructed or manufactured with a maximum 1/4 inch deflection or creep in any member, according to ASTM D 648 and ASTM D 1248. The components shall be molded of ultraviolet (UV) and color stabilized polyethylene. The material shall consist of a minimum 75 percent plastic profile of high-density polyethylene, low-density polyethylene, and polypropylene raw material. The material shall be non-toxic and have no discernible contaminates such as paper, foil, or wood. The material shall contain a maximum 3 percent air voids and shall be free of splinters, chips, peels, buckling, and cracks. Material shall be resistant to deformation from solar heat gain.

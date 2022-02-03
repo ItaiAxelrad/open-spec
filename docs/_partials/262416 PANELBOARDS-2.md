@@ -138,7 +138,6 @@ Concrete, reinforcement, and formwork requirements are specified in Division 3.
 03.
    1. PA
    1. NELBOARD SHORT-CIRCUIT RATING
-   1. A.
    1. Fully rated to interrupt symmetrical short-circuit current available at terminals.
 04. DISTRIBUTION PANELBOARDS
    1. Doors:
@@ -214,8 +213,6 @@ Concrete, reinforcement, and formwork requirements are specified in Division 3.
       1. Adjustable instantaneous-trip circuit breaker integrally mounted to and interlocked with controller.
 1. Auxiliary Contacts:
       1. Integral with disconnect switches to de-energize external control- power source.
-   1. D.
-   1. Co
    1. tactors in Main Bus:
       1. NEMA ICS 2, Class A, mechanically held general-purpose controller.
 1.

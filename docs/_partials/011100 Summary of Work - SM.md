@@ -37,7 +37,6 @@ tags: ['General', 'Requirements', 'Summary', 'Work', 'SM']
    1. Project Identification:
       1. Project consists of the installation of new water mains complete with service connections and all other apparatus to provide an operable pressurized water system conforming to American Water Works Association (AWWA Standards) requirements. Project also consists of the abandonment and/or removal of existing water mains.
 2. Project Locations:
-      1. 
    1. Project No.1:
       1. 17th Street between Pearl Street and Ocean Park Boulevard.
    1. Project No.2:
@@ -94,7 +93,6 @@ tags: ['General', 'Requirements', 'Summary', 'Work', 'SM']
 17. The new pipeline shall be placed in service or tied into the existing water main no more than three (3) days after the Contractor has been informed that the bacteriologic test results are known negative. If the tie-in is not completed within this time, the Contractor shall have the bacteriologic tests performed by a laboratory accepted by the City and provide the City with the results before the pipeline can be placed in service, all at the expense of the Contractor.
 05. LICENSE
    1. The Contractor installing any new facilities or performing work on existing facilities within the City shall possess, prior to the start of the Project, a License, defined by the latest edition of the California Contractor's License Law and Reference Book, as:
-      1. 
 		1. Class A or C-34 for water pipeline installations.
    1. Any Contractor possessing a license other than a Class A must obtain written approval from the City prior to initiating the work.
 06. GEOTECHNICAL REPORT
@@ -201,7 +199,8 @@ tags: ['General', 'Requirements', 'Summary', 'Work', 'SM']
 18. ENVIRONMENTAL CONTROL
    1. The Contractor shall abide by all applicable local, state and federal regulations, and by the conditions of the Regional Water Quality Control Board. The Contractor shall provide effective measures where necessary to prevent operations from producing dust in an amount damaging to property or causing a nuisance as determined by the City. The Contractor shall be responsible for any damage due to dust originating from its operations.
    1. The Contractor shall anticipate and correct any erosion problem arising from its operations.
-19. PUBLIC SAFETY*   1. The Contractor shall at all times conduct operations in a manner causing the minimum obstruction and inconvenience to public traffic. The Contractor shall not interfere with the normal operation of public transit vehicles unless otherwise authorized. Open trenches and excavations shall be covered and provided with adequate barricades in accordance with the approved traffic control plan or the requirements of the agency of jurisdiction. At night, lights shall mark all open work and obstructions. The Contractor shall install and maintain all signs, lights, flares, barricades, traffic plates, railings, runways, stairs, bridges and other equipment necessary to safeguard the public. Safety instructions received from governmental authorities shall be followed, but compliance with such instructions shall not diminish the Contractor’s responsibility or liability for accidents to workers or damage or injury to persons or property. In accordance with generally accepted construction practices, the Contractor shall be solely and completely responsible for conditions of the job site, including safety of all persons and property during performance of the work, and the Contractor shall fully comply with all state, federal, and other laws, rules, regulations, and orders relating to the safety of workers and others. The right of the City to conduct construction review or observation of the Contractor's performance does not include review or observation of the adequacy of the Contractor's safety measures in, on, or near the construction site. 
+19. PUBLIC SAFETY
+	1. The Contractor shall at all times conduct operations in a manner causing the minimum obstruction and inconvenience to public traffic. The Contractor shall not interfere with the normal operation of public transit vehicles unless otherwise authorized. Open trenches and excavations shall be covered and provided with adequate barricades in accordance with the approved traffic control plan or the requirements of the agency of jurisdiction. At night, lights shall mark all open work and obstructions. The Contractor shall install and maintain all signs, lights, flares, barricades, traffic plates, railings, runways, stairs, bridges and other equipment necessary to safeguard the public. Safety instructions received from governmental authorities shall be followed, but compliance with such instructions shall not diminish the Contractor’s responsibility or liability for accidents to workers or damage or injury to persons or property. In accordance with generally accepted construction practices, the Contractor shall be solely and completely responsible for conditions of the job site, including safety of all persons and property during performance of the work, and the Contractor shall fully comply with all state, federal, and other laws, rules, regulations, and orders relating to the safety of workers and others. The right of the City to conduct construction review or observation of the Contractor's performance does not include review or observation of the adequacy of the Contractor's safety measures in, on, or near the construction site. 
    1. The Contractor shall take immediate action to correct any condition adversely affecting public safety.
    1. Refer to GENERAL CONDITIONS Article 10.2 for additional Safety Requirements.
 20. PROTECTION OF WORKERS IN TRENCH EXCAVATION
@@ -249,7 +248,6 @@ tags: ['General', 'Requirements', 'Summary', 'Work', 'SM']
    1. Refer to GENERAL CONDITIONS Article 7.1, 7.2, 7.3 and 7.4.
 30. PROJECT CLOSEOUT AND FINAL ACCEPTANCE
    1. The City’s Engineer or designee shall be responsible for final acceptance of all projects. The following items of work shall be completed prior to final acceptance by City:
-      1. 
 2. The project has been completed in accordance with the Approved Plans, the job specifications and these Standard Specifications. 
 3. Final inspection has been performed by City. Any “punch list” items generated by preliminary inspection shall have been completed. 
 4. GPS Survey of the new water main per Specification Section 1330-1.05 shall be included as part of the as-built drawings.

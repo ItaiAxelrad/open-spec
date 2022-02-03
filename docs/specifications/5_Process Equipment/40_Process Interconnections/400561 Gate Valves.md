@@ -37,7 +37,7 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Gate', 'Valves']
 7. EPDM:
       1. Ethylene Propylene Diene Monomer. 
 ## Product
-1. 2.1 Valves:
+1. Valves:
       1. Water (Process)
    1. Materials:
 	1. Valve Body and Handwheel Covers: Ductile iron per ASTM A536 Gr 65-45-12.
@@ -57,6 +57,6 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Gate', 'Valves']
 
 ## Execution
 
-1. 3.1 Installation
+1. Installation
    1. Install Gate Valve based on manufacturer’s installation instructions. 
 

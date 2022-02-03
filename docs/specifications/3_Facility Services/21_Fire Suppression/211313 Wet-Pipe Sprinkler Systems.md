@@ -63,7 +63,6 @@ tags: ['Facility', 'Services', 'Fire', 'Suppression', 'Wet-Pipe', 'Sprinkler', '
 1. SYSTEM PERFORMANCE REQUIREMENTS
    1. Design sprinklers and obtain approval from authorities having jurisdiction
    1. Design sprinkler piping according to the following and obtain approval from authorities having jurisdiction:
-      1. 
    1. Include 10 percent margin of safety for available water flow and pressure.
    1. Include 20 percent margin of safety for available water flow and pressure.
    1. Include losses through water-service piping, valves, and backflow preventers.

@@ -42,9 +42,9 @@ tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Sto
 	2. Warranty
 3. See Division 0 for project warranty requirements.
 ## Product
-1. 2.1 Acceptable Manufacturers
+1. Acceptable Manufacturers
    1. Blue-White Industries, Ltd.
-1. 2.2 Pre-approved Products
+1. Pre-approved Products
    1. Turbidity analyzer booster pump:
 	1. CHEM-FEED Diaphragm Metering Pumps
 		1. Model: C15N443X000E00
@@ -55,12 +55,12 @@ tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Sto
 
 ## Execution
 
-1. 3.1 Installation
+1. Installation
    1. Turbidity analyzer booster pump:
 	1. Install the chemical feed pumps as indicated on the drawings and specified and in compliance with the manufacturer’s instructions.
 2. UVT Monitor booster pump:
 	1. Install the chemical metering skids as indicated on the drawings and specified and in compliance with the manufacturer’s instructions.
-1. 3.2 Field Quality Control
+1. Field Quality Control
    1. Provide services of equipment manufacturer's field service representative(s) to:
 	1. Inspect equipment covered by this Specification Section.
 	2. Supervise pre-start adjustments and installation checks.

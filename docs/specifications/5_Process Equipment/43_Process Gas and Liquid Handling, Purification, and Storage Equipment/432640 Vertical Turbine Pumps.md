@@ -92,7 +92,7 @@ tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Sto
    1. Liquid to be pumped = 
    1. Raw Water
 ## Product
-1. 2.1 Design
+1. Design
    1. Rotation
 	1. The pump will be counterclockwise rotation when viewed from the driver end looking at the pump.
 2. Impeller
@@ -147,11 +147,11 @@ tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Sto
 
 ## Execution
 
-1. 3.1 Installation
+1. Installation
    1. Installation shall be in accordance with the manufacturer's recommendations.
 2. Installation of connecting piping shall not impose any strain on the pump.
 3. The contractor shall provide two (2) complete sets of operating and maintenance instructions for the pump motor unit prior to final acceptance.
-1. 3.2 Field Testing
+1. Field Testing
    1. See Specification Section 01 75 00 for System Start-Up requirements.
 2. Each pump and driver, unless otherwise noted, shall be field tested for compliance with the head capacity and horsepower requirements specified. 
 3. The contractor shall furnish all manpower, facilities, power, and equipment required for conducting all tests. 

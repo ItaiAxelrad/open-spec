@@ -42,7 +42,6 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Steel', 'Utility', 'Pipe']
    1. The manufacturer of each shipment of steel pipe and fittings is required to supply a statement certifying that each lot or load of pipe and fittings has been subjected to and met the tests specified for steel pipe and fittings per AWWA C200 and C208, as applicable.
 07. DELIVERY, STORAGE, AND HANDLING
    1. Delivery, storage, and handling of steel pipe and fittings shall follow the recommendations of AWWA C604 and shall also be as specified herein:
-      1. 
 
 	1. Handling of fittings shall be performed with lifts, cranes, or other suitable equipment and devices. Slings, hooks, or pipe tongs shall be padded and used in such a manner as to prevent damage to the fittings, linings, and coatings. The fittings shall not be dropped or dragged.
 	2. During transport, fittings shall be supported and secured against movement using padded devices in such a manner to prevent damage.
@@ -115,7 +114,6 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Steel', 'Utility', 'Pipe']
 3. Slag shall be removed by chipping or grinding. Surfaces shall be clean of paint oil, rust, scale, slag, and other material detrimental to welding. 
 4. Weld Passes:
       1. The minimum number of passes for welded joints shall be as follows:
-      1. 
 
    1. Steel Cylinder Thickness Number of Passes 
     1. Minimum (inches) for Welds

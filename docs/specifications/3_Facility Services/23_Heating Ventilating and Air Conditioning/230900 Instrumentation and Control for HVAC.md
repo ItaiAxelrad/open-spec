@@ -42,11 +42,9 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
 	1. General:
       1. Submit the following in accordance with Division 23 sections of the Specifications.
    1. Product Data:
-      1. 
    1. Submit manufacturer's technical product data for each control device furnished, indicating dimensions, capacities, performance and electrical characteristics, and material finishes. All submittals must be provided in both hard copy and digital (PDF) format. Scanned copies of documents must be provided if other digital copy not available.
    1. Also include installation and start-up instructions.
    1. Shop Drawings:
-      1. 
    1. Use Owner’s master set of control drawings as basis for shop drawings. 
    1. Submit shop drawings for each control system containing the following information:
       1. Schematic flow diagram of system showing boilers, chillers, pumps, coils, valves, and control devices. The Owner control diagrams are available on AutoCAD 2005 and may be used as the basis for the flow diagram.
@@ -60,7 +58,6 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Alarm limit and failure mode lists.
    1. Application program list for each piece of equipment.
    1. Maintenance Data:
-      1. 
    1. Submit maintenance instructions and spare parts lists for each type of control device. 
    1. Include that type data, product data, and shop drawings in Operating and Maintenance Manual in accordance with requirements of Division 23 sections of the Specifications. These must be provided in PDF format in addition to hard copy.
    1. Submit as built drawings and as built AutoCAD 2005 files for all drawings. Verify most current AutoCAD version being utilized by Owner. 
@@ -81,7 +78,9 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Provide factory-shipping cartons for each piece of equipment and control device. 
    1. Maintain cartons while shipping, storing, and handling as required to prevent equipment damage and to eliminate dirt and moisture from equipment. 
    1. Store equipment and materials inside and protect from weather.
-1. PRODUCTS
+
+## PRODUCTS
+
 1. MANUFACTURERS
    1. Subject to compliance with requirements, provide control systems from:
       1. Delta Controls
@@ -103,15 +102,12 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Stand-alone DDC panels shall be able to access any data from, or send control commands and alarm reports directly to, any other DDC panel or combination of panels on the network without dependence upon a central processing device. Stand-alone DDC panels shall also be able to send alarm reports to operator workstations without dependence upon a central processing device polling them.
    1. Hardware, Stand-Alone DDC Panels:
 	1. General:
-         1. 
-   1. Stand-alone DDC panels shall be microprocessor based, multi-tasking, multi-user, real-time digital control processors. 
+      1. Stand-alone DDC panels shall be microprocessor based, multi-tasking, multi-user, real-time digital control processors. 
    1. A sufficient number of controllers shall be supplied to meet the requirements of the sequence of operation.
    1. Communication Ports:
-      1. 
    1. Stand-alone DDC panels shall provide at least one Ethernet data communication port. 
    1. For simultaneous operation of multiple operator I/O devices, stand-alone DDC panels shall allow temporary use of portable devices without interrupting the normal operation of permanently connected modems, printers, or network terminals. 
    1. Power Failure Restart:
-      1. 
    1. In the event of the loss of normal power, there shall be an orderly shutdown of all stand-alone DDC panels to prevent the loss of database or operating system software. 
    1. Nonvolatile memory shall be incorporated for all critical controller configuration data, and battery backup shall be provided to support the real-time clock and all volatile memory for a minimum of 48 hours.
    1. Upon restoration of normal power, the DDC panel shall automatically resume full operation without manual intervention. 
@@ -128,7 +124,6 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. HVAC Applications:
       1. Each SLC shall support the following library of control strategies to address the requirements of the sequences described in the Sequence of Operation.
    1. Occupancy-Based Standby/Comfort Mode Control:
-      1. 
    1. Each SLC shall have a provision for occupancy sensing overrides. 
    1. Based upon the contact status of either a manual wall switch or an occupancy-sensing device, the SLC shall automatically select either Standby or Comfort mode to minimize the heating and cooling requirements while satisfying comfort conditions.
    1. VAV Terminal Unit Controllers:
@@ -148,25 +143,20 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
       1. Input:
          1. Provide devices as required to perform the functions described in the sequence of operation.
    1. Temperature:
-      1. 
    1. Temperature sensors and transmitters shall be as described below or as required for the application. 
    1. Sensors and transmitters shall be capable of being calibrated.
    1. Space Temperature Transmitter:
-      1. 
    1. Transmitter shall contain a Resistance Temperature Detector (RTD) sensing element to monitor room air temperatures in the range of 30oF to 90oF, unless indicated otherwise. 
    1. The assembly shall be installed within a ventilated enclosure suitable for wall mounting. 
    1. Transmitter shall be factory calibrated to an accuracy of +1%. 
    1. Duct Averaging Type Temperature Transmitter:
-      1. 
    1. Transmitter shall be a general purpose RTD sensing element, moisture resistant transmitter for indoor or outdoor mounting, or mounting into a duct. 
    1. The operating range shall be as indicated with an accuracy of +1% over the full range.
    1. Pipe Temperature Transmitter:
-      1. 
    1. Transmitter shall contain an RTD sensing element to monitor water temperature. 
    1. The Contractor shall provide stainless steel wells of sufficient size for the pipe to be installed. 
    1. Transmitter shall be factory calibrated to an accuracy of +1%. 
    1. Humidity:
-      1. 
    1. Humidity sensors and transmitters shall be as described below or as required for the application. 
    1. Sensors and transmitters shall be capable of being calibrated.
    1. Space Humidity Transmitter:
@@ -176,24 +166,20 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Outside Air Humidity Transmitter:
       1. Transmitter shall be capable of providing continuous measurement of percent relative humidity with an accuracy of +2% over the range 20 to 90% RH. Transmitter shall have outside weather enclosure.
    1. Pressure:
-      1. 
    1. Pressure sensors, transmitters and switches shall be as described below or as required for the application. 
    1. Sensors and transmitters shall be capable of being calibrated.
    1. Differential Pressure Transmitter:
       1. Transmitter shall provide a proportional signal with an accuracy of +2% over the full range.
    1. Differential Pressure Switch:
-      1. 
    1. Switch shall be for liquid or vapor service. 
    1. Switch shall have a single-pole, single-throw (SPST) contact, adjustable dead band, brass bellows, UL rated 6 amperes at 120V 100 psig design, and with automatic reset. 
    1. Each switch shall be provided with isolation and drain valves.
    1. Low Limit Thermostats:
-      1. 
    1. Low limit thermostats shall be of automatic or manual reset type, with set point adjustment. 
    1. The sensing element shall be 20-foot minimum and shall be installed completely across the coil. 
    1. When any 1-foot of the element senses a temperature as low as the set point, the thermostat contacts shall open. 
    1. The thermostats shall contain double pole switches for simultaneous remote alarms.
    1. Flow Switches:
-      1. 
    1. Switches shall have a single-pole, single-throw (SPST) or double-pole, double-throw (DPDT) contact, adjustable dead band; UL rated 6 amperes at 120V. 
    1. Switch actuation shall be adjustable over the operating flow range.
    1. Watt-Hour Transducers:
@@ -203,13 +189,11 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Current Sensing Relays:
       1. Relays shall be provided to monitor status of motor loads. Switch shall have adjustable set point.
    1. Current Transformers (CT):
-      1. 
    1. CTs with output scalable to current draw may be used in place of current sensing relays to monitor status of motors. 
    1. CTs shall be used if called out on drawings.
    1. Software - Automatic Control:
 	1. General:
-         1. 
-   1. All necessary software to form a complete operating system as described in this specification shall be provided. 
+      1. All necessary software to form a complete operating system as described in this specification shall be provided. 
    1. The software programs shall be provided as an integral part of the DDC panel and shall not be dependent upon any higher-level computer for execution.
    1. Run Time Totalization:
       1. Stand-alone DDC panels shall be programmed to accumulate and store run time hours for binary input and output points as identified in the sequence.
@@ -238,11 +222,9 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Hard copy of graphics.
    1. Materials and Equipment:
 	1. General:
-         1. 
-   1. Provide electric control products in sizes and capacities indicated, consisting of valves, dampers, thermostats, sensors, controllers, and other components as required for complete installation interfacing with DDC control system. 
+      1. Provide electric control products in sizes and capacities indicated, consisting of valves, dampers, thermostats, sensors, controllers, and other components as required for complete installation interfacing with DDC control system. 
    1. Provide electric control systems with the following functional and construction features. 
    1. Control Valves:
-      1. 
    1. Provide factory fabricated electric control valves of type, body material, and pressure class indicated. 
    1. Where type or body material is not indicated, provide selection as determined by manufacturer for installation requirements and pressure class, based on maximum pressure and temperature in piping system. 
    1. Provide valve size in accordance with scheduled or specified maximum pressure drop across control valve. 
@@ -259,11 +241,9 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Packing:
       1. Spring-loaded Teflon, self-adjusting.
    1. Terminal Unit Control Valves:
-      1. 
    1. Provide control valves for control of terminal units including, but not necessarily limited to, convectors, finned tube radiation, and fan-coil units that are of integral motor type. 
    1. Provide 2-position or modulating type valves, electrically actuated by line voltage of 120V.
    1. Dampers:
-      1. 
    1. Provide automatic control dampers as indicated, with damper frames not less than formed 13-gauge galvanized steel. 
    1. Provide mounting holes for enclosed duct mounting. 
    1. Provide damper blades not less than formed 16-gauge galvanized steel, with maximum blade width of 8-inch. 
@@ -277,17 +257,14 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. For standard applications as indicated, provide parallel or opposed blade design (as selected by the manufacturer's sizing techniques) with optional closed-cell neoprene edging.
    1. For low leakage applications as indicated, provide parallel or opposed blade design (as selected by manufacturer's sizing techniques) with inflatable steel blade edging or replaceable rubber seals, rated for leakage less than 10 cfm per square foot of damper area, at differential pressure of 4-inch w.g. when damper is being held by torque of 50 inch-pounds.
    1. Damper and Valve Motors, Actuators:
-      1. 
    1. Size each motor to operate dampers or valves with sufficient reserve power to provide smooth modulating action or 2-position action as specified. 
    1. Pneumatic driven DDC controlled actuators are acceptable for large valves and dampers in buildings with compressed air systems.
    1. Equip motors for outdoor locations and for outside air intakes with "O-ring" gaskets designed to make motors completely weatherproof, and equip with internal heaters to permit normal operation at -20oF.
    1. Furnish nonspring return motors for dampers larger than 25 square feet and for valves larger than 2-1/2 inches, sized for running torque rating of 150 inch-pounds and breakaway torque rating of 300 inch-pounds. Size spring-return motors for running torque rating of 150 inch-pounds and breakaway torque rating of 150 inch-pounds.
    1. Ionization Smoke Detectors:
-      1. 
    1. For each air handling unit provide UL-listed ionization smoke detectors in main supply and return air ducts, as required by NFPA 90, and where indicated. 
    1. Connect detectors into control circuits to stop fans in presence of smoke.
    1. Electric Contactors:
-      1. 
    1. Provide contactors for operating or limit-control of electric heating loads, which are UL-listed for 100,000 cycles of resistive loads. 
    1. Equip with replaceable molded coils and replaceable silver cadmium oxide contacts. 
    1. Coat core laminations with heat-resistant inorganic film to reduce core losses. 
@@ -296,23 +273,22 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Equip field-mounted contactors with suitable steel enclosures.
    1. Provide open-type mounting for those installed in factory-fabricated panels.
    1. Water Flow Switches:
-      1. 
    1. Provide water flow switches of stainless steel or bronze paddle types. 
    1. Where flow switches are used in chilled water applications, provide vapor-proof type to prevent condensation on electrical switch. 
    1. Provide pressure-flow switches of bellows actuated mercury type or snap-acting type, with appropriate scale range and differential adjustment for service indicated.
-1. EXECUTION
+
+## EXECUTION
+
 1. EXAMINATION
    1. Examine areas and conditions under which control systems are to be installed. 
    1. Do not proceed with work until unsatisfactory conditions have been corrected in manner acceptable to Installer.
 1. ERECTION INSTALLATION APPLICATION
 	1. General:
-      1. 
    1. Install systems and materials in accordance with manufacturer's instructions, roughing-in drawings and details shown on drawings. 
    1. Install electrical components and use electrical products complying with the requirements of applicable Division 26 sections of the Specifications.
    1. Unit Mounted Equipment:
       1. Where control devices are indicated to be unit-mounted, ship electric relays, electric switches, valves, dampers, and motors to system manufacturer for mounting and wiring at factory.
    1. Control Wiring:
-      1. 
    1. Install control wiring, without splices between terminal points, color-coded. 
    1. Install in accordance with the National Electrical Code. 
    1. The term "control wiring" is defined to include providing of wiring, conduit, and miscellaneous materials as required for mounting and connecting control devices.
@@ -337,7 +313,6 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Operator Instructions:
       1. During system commissioning and at such time acceptable performance of the control system hardware and software has been established, the Building Automation Contractor shall provide on-site operator instruction to Owner personnel. Operator instruction during normal working hours shall be performed by a competent Building Automation Contractor representative familiar with the control system's software, hardware, and accessories.
    1. At a time mutually agreed upon during control system commissioning as stated above, the Building Automation Contractor shall:
-      1. 
    1. Give at least 8 hours of instruction to the Owner designed personnel at the Owner job site on the operation of all equipment within the building automation center and describe its intended use with respect to the programmed functions specified. 
    1. 32 hours of additional training requirements may be fulfilled by off site training classes, for a total of 40 hours of training. 
    1. Operator orientation of the automation system shall include, but not be limited to, the overall operational program, equipment functions (both individually and as part of the total integrated system), commands, system generation, advisories, and appropriate operator intervention required in responding to the control system's operation. 

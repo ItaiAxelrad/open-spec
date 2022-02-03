@@ -133,8 +133,7 @@ NEMA LE 5A.
 3. Programmed Start:
       1. Ballasts with two-step lamp starting to extend life of frequently started lamps.
 4. Sound Rating:
-      1. A.
-5. Total harmonic distortion rating of less than 20 percent according to NEMA C82.11.
+   5. Total harmonic distortion rating of less than 20 percent according to NEMA C82.11.
 6. Transient Voltage Protection:
       1. IEEE C62.41, Category A.
 7. Lamp Current Crest Factor:
@@ -168,8 +167,7 @@ NEMA LE 5A.
       1. Lamp end-of-life detection and shutdown circuit.
 2. Automatic lamp starting after lamp replacement.
 3. Sound Rating:
-      1. A.
-4. Total Harmonic Distortion Rating:
+   4. Total Harmonic Distortion Rating:
       1. Less than 20 percent.
 5. Transient Voltage Protection:
       1. IEEE C62.41, Category A or better.

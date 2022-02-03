@@ -22,37 +22,29 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Excavation', 'Support', 'Protecti
 2. PERFORMANCE REQUIREMENTS
    1. Design, furnish, install, monitor, and maintain excavation support and protection system capable of supporting excavation sidewalls and of resisting soil and hydrostatic pressure and superimposed and construction loads.
 3. Delegated Design:
-      1. 
 	1. Design excavation support and protection system, including comprehensive engineering analysis by a qualified professional engineer registered in the State, using performance requirements and design criteria indicated.
 	2. Prevent surface water from entering excavations by grading, dikes, or other means.
 	3. Install excavation support and protection systems without damaging existing buildings, structures, and site improvements adjacent to excavation.
 	4. Monitor vibrations, settlements, and movements.
 4. SUBMITTALS
    1. Shop Drawings:
-      1. 
 	5. For excavation support and protection system sealed by the qualified professional engineer responsible for their preparation.
 	6. QUALITY ASSURANCE
 5. Installer Qualifications:
-      1. 
 	7. Engage an experienced installer to assume engineering responsibility and perform work of this Section who has specialized in installing excavation support and protection systems similar to those required for this Project and with a record of successful in-service performance.
 6. Professional Engineer Qualifications:
-      1. 
 	8. A professional engineer who is legally qualified to practice in the jurisdiction where the Project is located and who is experienced in providing engineering services for designing excavation support and protection systems that are similar to those indicated for this Project in material, design, and extent.
 7. Engineering Responsibility:
-      1. 
 	9. Engage a qualified professional engineer to prepare or supervise the preparation of data for the excavation support and protection system including drawings and comprehensive engineering analysis that shows the system’s compliance with specified requirements.
 	10. PROJECT CONDITIONS
 8. Interruption of Existing Utilities:
-      1. 
 	11. Do not interrupt any utility serving facilities occupied by Owner or others unless permitted under the following conditions and then only after arranging to provide temporary utility according to requirements indicated.
 	12. Notify Engineer not less than two days in advance of proposed utility interruptions.
 	13. Do not proceed with utility interruptions without Engineer’s written permission.
 9. Project-Site Information:
-      1. 
 	14. A geotechnical report has been prepared for this Project and is available for information only. The opinions expressed in this report are those of geotechnical engineer and represent interpretations of subsoil conditions, tests, and results of analyses conducted by geotechnical engineer. Owner will not be responsible for interpretations or conclusions drawn from the data. 
 	15. The geotechnical report is included elsewhere in the Project Manual.
 10. Survey Work:
-      1. 
 	16. Engage a qualified land surveyor or professional engineer to survey adjacent existing buildings, structures, and site improvements; establish exact elevations at fixed points to act as benchmarks. Clearly identify benchmarks and record existing elevations.
 	17. During installation of excavation support and protection systems, regularly resurvey benchmarks, maintaining an accurate log of surveyed elevations and positions for comparison with original elevations and positions. Promptly notify Architect if changes in elevations or positions occur or if cracks, sags, or other damage is evident in adjacent construction.
    1. Product
@@ -60,16 +52,12 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Excavation', 'Support', 'Protecti
 	 1. General: 
 	18. Provide materials that are either new or in serviceable condition.
 12. Structural Steel:
-      1. 
 	19. ASTM A 36, ASTM A 690, or ASTM A 992.
 13. Steel Sheet Piling:
-      1. 
 	20. ASTM A 328, ASTM A 572, or ASTM A 690; with continuous interlocks.
 14. Corners:
-      1. 
 	21. Roll-formed corner shape with continuous interlock.
 15. Wood Lagging:
-      1. 
 	22. Lumber, mixed hardwood, nominal rough thickness of 3 inches.
 
 ## Execution

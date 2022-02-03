@@ -143,7 +143,7 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Steel', 'Pipe']
 
 ## Execution
 
-1. 3.1 Installation
+1. Installation
    1. Install products in accordance with manufacturer’s instructions. 
 2. Joining Methods - Flanges:
 	1. Facing method:

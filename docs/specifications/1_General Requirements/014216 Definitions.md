@@ -14,9 +14,7 @@ tags: ['General', 'Requirements', 'Definitions']
 
 1. SUMMARY
    1. Work included:
-      1. 
 2. Related work described elsewhere:
-      1. 
 	1. Section 01 42 13, Abbreviations and Acronyms
 	2. Section 01 42 16, Definitions
 	3. Section 01 42 19, Reference Standards

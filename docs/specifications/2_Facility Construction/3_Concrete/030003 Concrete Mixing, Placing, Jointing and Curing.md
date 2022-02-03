@@ -157,7 +157,7 @@ tags: ['Facility', 'Construction', 'Concrete', 'Mixing', 'Placing', 'Jointing', 
 			5. L&M Construction Chemicals, Inc.; Lumiseal WB Plus.
 			6. Meadows, W.R., Inc.; Vocomp-30.
 	5. Curing compounds in water bearing structures shall be NSF 61 approved.
-1. 2.2 Quality Control
+1. Quality Control
    1. The central concrete plant shall conform to the Checklist for Certification of Ready Mixed Concrete Production Facilities of the NRMCA. 
 
 ## Execution
@@ -186,7 +186,7 @@ tags: ['Facility', 'Construction', 'Concrete', 'Mixing', 'Placing', 'Jointing', 
 	1. Set accurately to produce designated elevations and contours of finished surface.
 	2. Sufficiently strong to support vibrating screeds or roller pipe screeds, if required.
 	3. Use strike off templates, or approved vibrating type screeds, to align concrete surfaces to contours of screed strips.
-1. 3.2 Concrete Mixing
+1. Concrete Mixing
 	 1. General:
 	1. Provide all concrete from a central plant conforming to Checklist for Certification of Ready Mixed Concrete Production Facilities of the NRMCA.
 	2. Batch, mix, and transport in accordance with ASTM C94/C94M.
@@ -215,7 +215,7 @@ tags: ['Facility', 'Construction', 'Concrete', 'Mixing', 'Placing', 'Jointing', 
 		3. Incorporate water by additional mixing equal to at least half of total mixing required.
 		4. Perform strength test on any concrete to which water has been added at the jobsite.
 			1. See Specification Section 03 01 01.
-1. 3.3 Placing of Concrete
+1. Placing of Concrete
 	 1. General:
 	1. Place concrete as such a rate that concrete, which is being integrated with fresh concrete, is still workable.
 		1. Select placement equipment and manpower in order to assure timely delivery of concrete into forms to avoid cold joints and placement issues.

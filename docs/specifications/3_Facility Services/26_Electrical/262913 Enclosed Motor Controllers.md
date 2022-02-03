@@ -14,7 +14,8 @@ tags: ['Facility', 'Services', 'Electrical', 'Enclosed', 'Motor', 'Controllers']
 1. SUMMARY
    1. This Section includes:
       1. manual motor starters, combination starters, motor starter panelboards, and motor control centers.
-1. References*   1. National Electrical Manufacturers Association (NEMA) 
+1. References
+	1. National Electrical Manufacturers Association (NEMA) 
    1. ICS 2 - Industrial Control Devices, Controllers and Assemblies. 
    1. ICS 6 - Enclosures for Industrial Control and Systems. 
    1. PB 1 - Panelboards. 
@@ -23,7 +24,8 @@ tags: ['Facility', 'Services', 'Electrical', 'Enclosed', 'Motor', 'Controllers']
    1. 98 - Enclosed and Dead-Front Switches. 
    1. 508 - Electric Industrial Control Equipment. 
    1. 845 - Electric Motor Control Centers. 
-1. Submittals*   1. Product Data 
+1. Submittals
+	1. Product Data 
    1. Submit manufacturer's technical product data for each type of motor control product provided. 
    1. Shop Drawings 
    1. Submit dimensioned drawings of products including elevations of motor control centers and motor starter panelboards. Indicate Circuit number from Motor Control Center Schedule, which each unit serves.
@@ -31,7 +33,9 @@ tags: ['Facility', 'Services', 'Electrical', 'Enclosed', 'Motor', 'Controllers']
    1. Provide typewritten table itemizing each motor served, horsepower, field-verified full-load amperes and size of overload relays and elements provided. Indicate Circuit number from Motor Control Center Schedule, which each unit serves.
    1. Quality Control Submittals 
    1. Submit results of specified field tests. 
-1. Products*1. Manual Motor Starter*   1. Manufacturers 
+1. Products
+	1. Manual Motor Starter
+	1. Manufacturers 
    1. Allen-Bradley Co. 
    1. Cutler-Hammer
    1. GE Company 
@@ -43,7 +47,8 @@ tags: ['Facility', 'Services', 'Electrical', 'Enclosed', 'Motor', 'Controllers']
    1. Provide single-phase, 60 hertz, fractional HP, nonreversing, full voltage manual motor starter with quick-make, quick-break, toggle mechanism. 
    1. Provide NEMA 1 enclosure, unless otherwise indicated, suitable for surface mounting applications. Provide brushed stainless steel face plate for flush mounting applications. 
    1. Provide starter with one thermal overload element, red "running" pilot light, and padlock guard. Select element to match installed, field verified, motor characteristics. 
-1. Combination Motor Control Starter*   1. Manufacturers 
+1. Combination Motor Control Starter
+	1. Manufacturers 
    1. Allen-Bradley Co. 
    1. Cutler-Hammer
    1. GE Company. 
@@ -54,19 +59,16 @@ tags: ['Facility', 'Services', 'Electrical', 'Enclosed', 'Motor', 'Controllers']
    1. Comply with the applicable requirements of UL 508 and NEMA ICS 2. 
    1. Provide motor starter unit combined with circuit breaker type disconnect into a common unit complete with accessories as specified and indicated. 
    1. Provide quick-make, quick-break, circuit breaker type disconnect with trip indication, common trip on multi-pole breakers, with the frame, pole, and trip ratings as specified and indicated, and with the following features:
-      1. 
    1. External operating handle which physically indicates "on" in the up position and "off" in the down position. 
    1. Provide means for locking operating handle in "off" position with the use of up to three heavy-duty padlocks. 
    1. Interlock cover with operating handle to prevent opening in the "in" position. 
    1. Provide bypass means to allow authorized personnel to release cover interlock feature. 
    1. Provide full-voltage, nonreversing, 60 hertz magnetic starter unless indicated otherwise. Provide starter with the following:
-      1. 
    1. 120 volt, single phase, 60 hertz operating coil and control circuit components. 
    1. Integral 120 volt, single phase, 60 hertz, two-winding control transformer. Connect primary winding to load side of disconnect device. Fuse one side of the secondary winding and solidly ground the other side of the secondary winding. 
    1. NEMA sized magnetic contactor, minimum size 1 and as indicated, with thermal overloads in each phase. Provide thermal overload heater blocks of the bimetallic type, and match installed, field verified, motor characteristics. 
    1. Equip starter with a minimum of one spare set of convertible or replaceable auxiliary contacts, one N.O. (Normally Open) and one N.C. (Normally Closed), in addition to those required for control functions. 
    1. Provide the following control and indicating devices:
-      1. 
    1. Hand-off-auto selector switch, unless otherwise indicated, of the heavy-duty, "oil-tight" maintained-contact type. 
    1. Pushbutton station, when indicated, of the heavy-duty, "oil-tight", momentary contact type. Provide pushbuttons colored green for "start", red for "stop", and black for "reset". 
    1. Reset button in cover and operable without opening the cover. 
@@ -76,9 +78,11 @@ tags: ['Facility', 'Services', 'Electrical', 'Enclosed', 'Motor', 'Controllers']
    1. Provide legend plate for cover mounted control devices with information as indicated. 
    1. For starters serving multispeed speed motors, match controller to motor type, application and number of speeds.
    1. Provide NEMA 1 type enclosure unless indicated otherwise. Provide corrosion resistant primer treatment and light gray baked acrylic enamel finish. 
-1. Branch Circuit/Feeder Disconnect*   1. Disconnect 
+1. Branch Circuit/Feeder Disconnect
+	1. Disconnect 
    1. Provide disconnect of same type and features as disconnect specified for combination motor starters. 
-1. Motor Starter Panelboard*   1. Manufacturers 
+1. Motor Starter Panelboard
+	1. Manufacturers 
    1. Cutler-Hammer:
       1. Mac 
    1. GE Company:
@@ -97,7 +101,8 @@ tags: ['Facility', 'Services', 'Electrical', 'Enclosed', 'Motor', 'Controllers']
    1. Provide wiring gutters sized per UL 67. 
    1. Provide combination starter units and branch circuit/feeder disconnects of type and number as specified and indicated. 
    1. Provide copper bussing designed to accommodate plug-on or bolted starter units and branch circuit feeder disconnects. 
-1. Motor Control Center (Mcc)*   1. Manufacturers 
+1. Motor Control Center (Mcc)
+	1. Manufacturers 
    1. Allen-Bradley Co.:
       1. Bulletin 2100 
    1. Cutler-Hammer:
@@ -156,7 +161,10 @@ tags: ['Facility', 'Services', 'Electrical', 'Enclosed', 'Motor', 'Controllers']
    1. Wiring 
    1. Provide MCC with NEMA class I, type A wiring unless otherwise indicated. 
    1. Provide 600-volt, 90-degree C. insulated, stranded copper, single conductor, minimum no. 14 AWG size, for control and power wire. 
-1. Execution*1. Installation*
+
+## Execution
+
+	1. Installation*
 ## General
 
 
@@ -166,11 +174,11 @@ tags: ['Facility', 'Services', 'Electrical', 'Enclosed', 'Motor', 'Controllers']
    1. Provide wiring diagrams mounted inside motor starter door. 
    1. Identification 
    1. Provide engraved plastic-laminate sign, per related Division 26 Sections of the Specifications, mounted on the top center of the motor control center and motor starter panelboard front, indicating the following lines of information:
-      1. 
    1. Equipment designation (e.g., "MCC-1A") 
    1. Electrical characteristics (e.g., "480V, 3Ph, 3W") 
    1. Main bus ratings (e.g., "800A") 
-1. Field Quality Control*   1. Field Tests:
+1. Field Quality Control
+	1. Field Tests:
       1. Motor Control Center 
    1. Provide mechanical inspection and operation to determine that the equipment performs mechanically as specified. 
    1. Verify that fuses and circuit breakers are as specified. 

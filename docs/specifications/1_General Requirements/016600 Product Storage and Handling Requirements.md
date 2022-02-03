@@ -36,7 +36,7 @@ tags: ['General', 'Requirements', 'Product', 'Storage', 'Handling']
 
 ## Execution
 
-1. 3.1 Protection, Storage, and Handling
+1. Protection, Storage, and Handling
    1. Manufacturer's Instruction:
 	1. Protect all products or equipment in accordance with manufacturer's written directions.
 		1. Store products or equipment in location to avoid physical damage to items while in storage.
@@ -47,7 +47,7 @@ tags: ['General', 'Requirements', 'Product', 'Storage', 'Handling']
 2. Properly carton, crate, cover and protect materials, products and equipment for shipping, handling and storing. Use appropriate means for hoisting and loading which will prevent damage or overstress to items being handled or shipped. Store them under roof in controlled environment whenever feasible; otherwise store off the ground under suitable coverings properly secured against wind and weather. Protect all items from rain, snow moisture, wind, cold, heat, frost, sun, staining, discoloration, deterioration and physical damage from any cause. Refer to individual sections for specific requirements.
 3. Materials shall be stored so as to insure the preservation of their quality and fitness for the Work. When considered necessary by the Engineer, they shall be placed on wooden platforms or other hard, clean surfaces and not on the ground, and shall be placed under cover or otherwise protected when requested by the Engineer. Stored materials shall be located so as to facilitate prompt inspection. 
 	1. Contractor is responsible for the safety of any of its materials, tools, possessions, and rented items stored on the job site, and for protection of the project and shall hold Owner and Owner's authorized representative harmless for any damages or loss incurred thereto.
-1. 3.2 Field Quality Control
+1. Field Quality Control
    1. Inspect Deliveries:
 	1. Inspect all products or equipment delivered to the site prior to unloading.
 		1. Reject all products or equipment that are damaged, used, or in any other way unsatisfactory for use on Project.

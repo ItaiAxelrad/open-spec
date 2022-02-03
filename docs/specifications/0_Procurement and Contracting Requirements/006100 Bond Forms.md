@@ -40,7 +40,6 @@ tags: ['Procurement', 'Contracting', 'Requirements', 'Bond', 'Forms']
       1. Attest:
     1. Signature and Title Signature and Title
    1. Note:
-      1. 
    1. Above addresses are to be used for giving any required notice. Provide execution by any additional parties, such as joint venturers, if necessary. 
 1. PENAL SUM FORM
 1. Bidder and Surety, jointly and severally, bind themselves, their heirs, executors, administrators, successors and assigns to pay to Owner upon default of Bidder the penal sum set forth on the face of this Bond. Payment of the penal sum is the extent of Surety’s liability.

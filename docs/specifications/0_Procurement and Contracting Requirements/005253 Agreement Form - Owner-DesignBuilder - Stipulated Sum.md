@@ -105,13 +105,11 @@ tags: ['Procurement', 'Contracting', 'Requirements', 'Agreement', 'Form', 'Owner
    1. IN WITNESS WHEREOF, Owner and Contractor have signed this Agreement in four copies. One counterpart each has been delivered to Owner, Contractor, Engineer, and Agency. All portions of the Contract Documents have been signed, initialed, or identified by Owner and Contractor or identified by Engineer on their behalf.
    1. This Agreement shall not be effective unless and until Agency's designated representative concurs.
    1. This Agreement is dated:
-      1. 
    1. OWNER:
       1. CONTRACTOR
    1. By:
       1. By:
-         1. 
-   1. Title:
+      1. Title:
       1. Title:
             1. [CORPORATE SEAL]
 

@@ -13,7 +13,6 @@ tags: ['Procurement', 'Contracting', 'Requirements', 'Exhibit', 'H']
    1. This is **EXHIBIT H**, consisting of 2 pages, referred to in and part of the **Agreement between Owner and Engineer for Professional Services** dated .
    1. Dispute Resolution
    1. Paragraph 6.08 of the Agreement is amended and supplemented to include the following agreement of the parties:
-      1. 
 		1. Dispute Resolution
    1. Mediation. Owner and Engineer agree that they shall first submit any and all unsettled claims, counterclaims, disputes, and other matters in question between them arising out of or relating to this Agreement or the breach thereof (“Disputes”) to mediation by *[insert name of mediator, or mediation service]*   
  . 

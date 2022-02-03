@@ -107,7 +107,9 @@ Bursting Strength Tester Method
 1. Submit procedures for accomplishing dewatering work.
    1. Utilities
 1. Movement of construction machinery and equipment over pipes and utilities during construction shall be at the Contractor's risk. Perform work adjacent to utilities as indicated in accordance with procedures outlined by utility company. Excavation made with power-driven equipment is not permitted within 2 feet of known utility or subsurface construction. For work immediately adjacent to or for excavations exposing a utility or other buried obstruction, excavate by hand. Start hand excavation on each side of the indicated obstruction and continue until the obstruction is uncovered or until clearance for the new grade is assured. Support uncovered lines or other existing work affected by the contract excavation until approval for backfill is granted by the Owner. Report damage to utility lines or subsurface construction immediately to the Owner.
-1. ## Product
+
+## Products
+
 1. SOIL MATERIALS
    1. Satisfactory Materials
 1. Any materials classified by ASTM D 2487 as GW, GP, GM, GP-GM, GW-GM, GC, GP-GC, GM-GC, SW, SP, SM, SW-SM, SC, SW-SC, SP-SM, SP-SC, CL, ML, CL-ML, CH, MH free of debris, roots, wood, scrap material, vegetation, refuse, soft unsound particles, and frozen, deleterious, or objectionable materials. Unless specified otherwise, the maximum particle diameter shall be one-half the lift thickness at the intended location.

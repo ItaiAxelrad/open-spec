@@ -67,7 +67,9 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Comply with SMACNA's "HVAC Duct Construction Standards, Metal and Flexible" for fabricated breechings.
 1. WARRANTY
    1. See Division 23 of the Specifications.
-1. PRODUCTS
+
+## PRODUCTS
+
 1. MATERIALS
    1. Gas fired domestic water heater, direct gas fired and unit heater type B vents:
       1. Factory-built, double-wall metal vent piping tested and listed by Underwriters Laboratories Inc. as "Gas Vent" under UL 441 for use with gas furnaces, water heaters, unit heaters, dryer vents and other Category 1 appliances, burning natural or LP gas which produce exhausted flue gases at a temperature not exceeding 400 degrees F above ambient at neutral and negative pressures only.
@@ -95,7 +97,9 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Guy Wires and Accessories:
       1. Provide guy wires of galvanized wire rope of regular lay, on fiber core. Provide drop-forged steel, galvanized rope sockets of the open or closed type. Provide forged steel, galvanized turnbuckles eye-end type.
    1. Select wire rope to withstand a stress resulting from a wind load of not less than 30 pounds per square foot of projected vertical surface of the guyed structure. Employ a safety factor of not less than three, relative to the ultimate strength of the rope material.
-1. EXECUTION
+
+## EXECUTION
+
 1. EXAMINATION
    1. Examine areas and conditions for compliance with requirements for installation tolerances and other conditions affecting performance of work.
    1. Proceed with installation only after unsatisfactory conditions have been corrected.
@@ -117,7 +121,6 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Rigid angle-iron braces.
    1. Seal inner joints by use of V bands and RTV silicone sealant for flue gas temperatures up to 600 degrees F; for higher temperatures seal joint with V bands and high temperature cement as supplied by the manufacturer and outlined in the installation instructions.
    1. Boiler Stacks and Breeching:
-      1. 
    1. Extend stacks above roof structures and terminate as required in the product's installation instructions thus conforming to requirements of NFPA 211, NFPA 37, and as required by local code.
    1. Install the stacks in compliance with the product's installation instructions so that the installation is in accordance with terms of the product's UL listing.
    1. Install, support, and restrain according to requirements of seismic zone.

@@ -179,7 +179,9 @@ with bioretention facility excavation and soil installation. A written schedule
 1. 4.** Contain stockpiles (and prevent contamination from adjacent
    1. stockpiles) with temporary perimeter barrier (e.g., sand bags, wattles,
    1. silt fence)
-1. ## Product
+
+## Products
+
 01. BIORETENTION SOIL MIX (BSM)
 	1. General:
       1. BSM shall be a well-blended mixture of sand and compost, shall

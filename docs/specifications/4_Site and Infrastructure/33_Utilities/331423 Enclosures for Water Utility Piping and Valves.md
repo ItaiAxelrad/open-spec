@@ -69,7 +69,6 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Enclosures', 'Water', 'Utility', 
 6. LLPE shall be ultraviolet light resistant and shall be tested in accordance with ASTM G-154-current revision.
 7. Water meter box cover must be a proven product, in use by three (3) other Utilities for a minimum of three (3) years.
 8. Water Meter Box Characteristics:
-      1. 
 9. LLPE concrete shall meet impact resistant tested per ASTM D-2444.
 10. Locking provisions shall not be required to secure covers to box. Covers shall be interchangeable with Santa Monica Water Department’s existing concrete boxes. 
 11. Advanced Meter Infrastructure Compatibility: 
@@ -90,11 +89,11 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Enclosures', 'Water', 'Utility', 
 1. A Safety Factor of 2.17 shall be applied for Proof of Design Load (per ASTM C 497). The covers shall be tested as described below and certified to withstand the (minimum) Proof Load of 22,568 lbs when loaded with a 10” x 10” x 1” steel plate. Design loads shall be in accordance with ASTM C857. Traffic loads shall be designation A-16 per Table 1 with a 30 percent increase due to impact. Necessary provisions shall be made in the design to accommodate additional stresses or loads which may be imposed during factory precasting, transporting, or erecting.
 2. While the preferred method for cover testing would be in the “box” in which the cover is intended to function, that is not practical for this project. Specially fabricated test frames shall be prepared to support the cover in a fashion simulating the support the cover will receive in the box after installation. The test frame shall provide the same area of support to the cover as existing meter boxes (see those required above). The frames shall provide no more contact area that the boxes provide.
    1. Vertical Load Test Protocol:
-      1. 
 2. Apply the 10,400 lb load over the prescribed area centered on the cover. The load shall be transferred into the cover and test frame through a ½” thick piece of rubber backed by ten inch by ten inch by one-inch thick steel plate. A spherical bearing swivel head shall be used in the testing machine. The load shall be applied at a rate of 550 lb / second, +/- 450 lb / second. 
 3. The Design Load (10,400 lb) shall be cycled on the cover in the test frame ten times as per WUC, Guide 3.6 test protocol. On the eleventh cycle, the load shall be increased to confirm the cover can sustain the Proof of Design Load (22,568 lb.). 
 4. The failure criteria shall be determined by the one of the two following criteria. Yield – the point on a stress / strain curve where resistance to the applied load no longer increases as deflection continues. Break – the point where increasing load results in exceeding the tensile or elastic limit of a material.
-1. 2.07 DESIGN/PRODUCT MODIFICATIONS*   1. Meter boxes and covers specified in this section are intended for installation in sidewalks and driveways (traffic load areas) alleys and streets and occasionally in bare ground, lawn areas, or sand areas. Heavy loads from traffic are expected in some of these areas. The specifications stated are minimum industry requirements for meter boxes and covers to perform satisfactorily under normal usage in these areas. 
+1. 2.07 DESIGN/PRODUCT MODIFICATIONS
+	1. Meter boxes and covers specified in this section are intended for installation in sidewalks and driveways (traffic load areas) alleys and streets and occasionally in bare ground, lawn areas, or sand areas. Heavy loads from traffic are expected in some of these areas. The specifications stated are minimum industry requirements for meter boxes and covers to perform satisfactorily under normal usage in these areas. 
 2. Bids offered for the boxes and cover designs must be conducive to the various ground areas and conditions and perform satisfactorily under normal usage as stated in this attachment. 
 3. After award, in situations where the boxes and covers do not perform satisfactorily under normal use, the City representative shall notify Contractor of the problem. The Contractor shall modify the design to correct the deficiencies at no cost to the City. 
 4. Prior to any modifications, the Contractor shall provide revised specifications and drawings at no additional costs to the City representative and Purchaser for review and approval. 

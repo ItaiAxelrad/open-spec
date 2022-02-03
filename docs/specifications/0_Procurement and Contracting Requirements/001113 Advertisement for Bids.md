@@ -22,6 +22,5 @@ tags: ['Procurement', 'Contracting', 'Requirements', 'Advertisement', 'Bids']
    1. Copies of the Contract Documents may be obtained at the Issuing Office:
          1. Located at:
       1. Upon payment of (for each set):
-         1. 
-6. Date:
+   6. Date:
    1. 

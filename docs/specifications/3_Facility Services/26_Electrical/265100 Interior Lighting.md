@@ -68,7 +68,6 @@ tags: ['Facility', 'Services', 'Electrical', 'Interior', 'Lighting']
    1. Submit lighting fixture Product Data and Shop Drawings in booklet form with separate sheet(s) for each type of fixture. Assemble sheets in the same fixture type order as used in this Section, with proposed fixtures, lamps, ballasts, finishes, and accessories indicated on each sheet. 
    1. Product Data 
    1. Submit manufacturer's technical product data on interior lighting fixtures and accessories, including the following:
-      1. 
    1. Lighting fixtures physical description.
    1. Ballasts. (Submit proof of dimming ballast and dimmer compatibility with ballast submittals.)
    1. Lamps, including life, output, and energy-efficiency data for lamps.
@@ -83,7 +82,6 @@ tags: ['Facility', 'Services', 'Electrical', 'Interior', 'Lighting']
    1. Photometric Data Submittals 
    1. Submit a complete photometric report, prepared by an independent testing laboratory. 
    1. Include the following in the photometric report:
-      1. 
    1. For indicated fixtures, photometric data shall be certified by a qualified independent testing agency. Photometric data for remaining fixtures shall be certified by the manufacturer.
    1. Photometric data shall be certified by a manufacturer's laboratory with a current accreditation under the National Voluntary Laboratory Accreditation Program (NVLAP) for Energy Efficient Lighting Products.
    1. List the measured candela values of the photometric distribution in at least three planes, except in the case of an axially symmetrical lighting fixture. Candela curves, lux (footcandle) and lumen tables, and iso-lux (iso-footcandle) contours are not acceptable. 
@@ -149,7 +147,6 @@ tags: ['Facility', 'Services', 'Electrical', 'Interior', 'Lighting']
    1. MAINTENANCE
    1. Extra Materials 
    1. Provide a quantity of spare lamps, for each type and wattage of lamp installed, which is no less than the following percentages of installed lamp quantities rounded up to the next whole number:
-      1. 
    1. Fluorescent lamps:
       1. 10 percent. 
    1. High intensity discharge lamps:
@@ -161,7 +158,9 @@ tags: ['Facility', 'Services', 'Electrical', 'Interior', 'Lighting']
    1. Globes and Guards:
       1. 10 percent for each type and rating installed.
 1. Extra materials may not be allowed for publicly funded projects.
-1. PRODUCTS
+
+## PRODUCTS
+
    1. LIGHTING FIXTURES
 
 ## General
@@ -376,7 +375,9 @@ tags: ['Facility', 'Services', 'Electrical', 'Interior', 'Lighting']
    1. Metal Halide Ballasts
    1. Provide high power factor, pulse-start for available wattages; otherwise lead-peak auto type.
 1. Edit this Article with other Part 2 articles or with Interior Lighting Fixture Schedule on Drawings in which manufacturers and products are named. See Division 01 Section "Product Requirements" for an explanation of the terms "Available Manufacturers," "Manufacturers," and "Basis-of-Design Product" and the effect these terms have on "Comparable Product" and "Product Substitution" requirements.
-1. EXECUTION
+
+## EXECUTION
+
 1. INSTALLATION
 
 ## General

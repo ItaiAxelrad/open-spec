@@ -55,7 +55,8 @@ tags: ['Facility', 'Construction', 'Openings', 'Hardware']
 	5. Schedule of hardware used on each door.
 11. Certification from AHC stating all door hardware has been provided per approved Shop Drawings and in accordance with the manufacturer’s installation instructions. 
 ## Product
-1. 2.1 Materials*   1. Fasteners:
+1. Materials
+	1. Fasteners:
       1. Stainless steel or aluminum.
 2. Closers:
 	1. Shell: Aluminum or cast iron.
@@ -74,9 +75,9 @@ tags: ['Facility', 'Construction', 'Openings', 'Hardware']
       1. Stainless steel.
 9. Silencers:
       1. Rubber.
-1. 2.2 Accessories
+1. Accessories
    1. Strikes shall have curved lips, and furnished with strike boxes. Strikes must be appropriate for function and hardware listed. 
-1. 2.3 Fabrication
+1. Fabrication
 
 ## General
 
@@ -188,7 +189,7 @@ ly prepare for Phillips head machine screw installation.
 
 ## Execution
 
-1. 3.1 Installation
+1. Installation
    1. Install products in accordance with manufacturer's installation instructions, IBC and IECC, and perform installation by or under direct supervision of an AHC. 
 2. Provide all hardware in accordance with Building Code.
 3. Fit hardware before final door finishing.
@@ -220,7 +221,7 @@ ly prepare for Phillips head machine screw installation.
 	3. Mount weather seal astragal at meeting edges of pairs of doors on the exterior face of the doors.
 14. Mount kickplates on push side of doors.
 15. Install card reader access system in accordance with manufacturer’s instructions.
-1. 3.2 Quality Control
+1. Quality Control
    1. Adjust and check each operating item of hardware to assure proper operation or function. Lubricate moving parts with lubricant recommended by the manufacturer. 
 2. During week prior to startup, make a final check and adjustment of all hardware items. This shall include cleaning and lubricating as necessary to assure proper function and operation as well as adjusting door control devices to compensate for operation of heating and ventilating equipment. 
 3. Inspection and Testing:

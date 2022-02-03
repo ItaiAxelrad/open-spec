@@ -185,7 +185,7 @@ tags: ['Facility', 'Construction', 'Equipment', 'Operation', 'Maintenance']
 	11. Testing and monitoring reports in accordance with PART 3 of this Specification Section.
 	12. Certification that driven equipment and VFD are compatible.
 ## Product
-1. 2.1 Manufactured Units
+1. Manufactured Units
    1. Electric Motors:
 	1. Where used in conjunction with adjustable speed AC or DC drives, provide motors that are fully compatible with the speed controllers.
 	2. Design for frequent starting duty equivalent to duty service required by driven equipment.
@@ -260,7 +260,7 @@ tags: ['Facility', 'Construction', 'Equipment', 'Operation', 'Maintenance']
 	1. Provide oversize conduit box complete with clamp type grounding terminals inside the conduit box.
    1. Submersible Motors:
       1. Refer to individual narrow-scope Specification Sections for submersible motor requirements.
-1. 2.2 Components
+1. Components
    1. Gear Drives and Drive Components:
 	1. Size drive equipment capable of supporting full load including losses in speed reducers and power transmission.
 	2. Provide nominal input horsepower rating of each gear or speed reducer at least equal to nameplate horsepower of drive motor.
@@ -271,7 +271,7 @@ tags: ['Facility', 'Construction', 'Equipment', 'Operation', 'Maintenance']
 		2. Utilize antifriction bearings throughout.
 		3. Provide worm gear reducers having a service factor of at least 1.20.
 		4. Furnish other helical, spiral bevel, and combination bevel-helical gear reducers with a service factor of at least 1.50.
-1. 2.3 Accessories
+1. Accessories
    1. Guards:
 	1. Provide each piece of equipment having exposed moving parts with full length, easily removable guards, meeting OSHA requirements.
 	2. Interior applications:
@@ -304,7 +304,7 @@ tags: ['Facility', 'Construction', 'Equipment', 'Operation', 'Maintenance']
 5. Lifting Eye Bolts or Lugs:
 	1. Provide on all equipment 50 LBS or greater.
 	2. Provide on other equipment or products as specified in the narrow-scope Specification Sections.
-1. 2.4 Fabrication
+1. Fabrication
    1. Design, fabricate, and assemble equipment in accordance with modern engineering and shop practices.
 2. Manufacture individual parts to standard sizes and gages so that repair parts, furnished at any time, can be installed in field.
 3. Furnish like parts of duplicate units to be interchangeable.
@@ -327,12 +327,12 @@ tags: ['Facility', 'Construction', 'Equipment', 'Operation', 'Maintenance']
 	2. NEMA or IEC rated components are acceptable, whichever is used in the manufacturer’s standard engineered design, unless specific requirements are required in the specific equipment Specification Section.
 	3. Affix entire assembly with a UL 508A label "Listed Enclosed Industrial Control Panel" prior to delivery.
 		1. Control panels without an affixed UL 508A label shall be rejected.
-1. 2.5 Shop or Factory Paint Finishes
+1. Shop or Factory Paint Finishes
    1. Electrical Equipment:
 	1. Provide factory-applied paint coating system(s) for all electrical equipment components unless otherwise specified to receive field painting.
 	2. Field painted equipment: See Specification Section 09 90 00 for factory applied primer/field paint compatibility requirements.
 2. Field paint other equipment in accordance with Specification Section 09 90 00.
-1. 2.6 Source Quality Control
+1. Source Quality Control
    1. Motor Tests:
 	1. Test motors in accordance with NEMA and IEEE standards.
 	2. Provide routine test for all motors.
@@ -341,7 +341,7 @@ tags: ['Facility', 'Construction', 'Equipment', 'Operation', 'Maintenance']
 
 ## Execution
 
-1. 3.1 Installation
+1. Installation
    1. Install equipment as shown on Drawings and in accordance with manufacturer's directions.
 2. Utilize templates for anchorage placement for slab-mounted equipment.
 3. For equipment having drainage requirements such as seal water, provide 3/4 IN PVC or clear plastic tubing from equipment base to nearest floor or equipment drain.
@@ -378,13 +378,13 @@ tags: ['Facility', 'Construction', 'Equipment', 'Operation', 'Maintenance']
 		1. Cover exposed grout surfaces with wet burlap and keep covering sufficiently wet to prevent too rapid evaporation of water from the grout.
 		2. When the grout has fully hardened (after a minimum of seven (7) days) tighten all anchor bolts to engage equipment base to grout, shims, and equipment support pad.
 		3. Recheck driver-driven unit for proper alignment.
-1. 3.2 Installation Checks
+1. Installation Checks
    1. For all equipment specifically required in detailed specifications, secure services of experienced, competent, and authorized representative(s) of equipment manufacturer to visit site of work and inspect, check, adjust and approve equipment installation.
-1. 3.3 Identification of Equipment and Hazard Warning Signs
+1. Identification of Equipment and Hazard Warning Signs
    1. Identify equipment and install hazard warning signs in accordance with Specification Section 10 14 00.
-1. 3.4 Field Painting and Protective Coatings
+1. Field Painting and Protective Coatings
    1. For required field painting and protective coatings, comply with Specification Section 09 90 00.
-1. 3.5 Wiring Connections and Termination
+1. Wiring Connections and Termination
    1. Clean wires before installing lugs and connectors.
 2. Coat connection with oxidation eliminating compound for aluminum wire.
 3. Terminate motor circuit conductors with copper lugs bolted to motor leads.
@@ -392,7 +392,7 @@ tags: ['Facility', 'Construction', 'Equipment', 'Operation', 'Maintenance']
 	1. Wrapping thickness shall be 150 percent of the conductor insulation thickness.
 5. Connections to carry full ampacity of conductors without temperature rise.
 6. Terminate spare conductors with electrical tape.
-1. 3.6 Field Quality Control
+1. Field Quality Control
 	 1. General:
 	1. Furnish equipment manufacturer’s field quality control services and testing as specified in the individual equipment Specification Sections.
 	2. Perform and report on all tests required by the equipment manufacturer’s Operation and Maintenance Manual.
@@ -453,6 +453,6 @@ tags: ['Facility', 'Construction', 'Equipment', 'Operation', 'Maintenance']
 	1. Perform tests and inspections not specifically listed but required to assure equipment is safe to energize and operate.
 	2. Subbase that supports the equipment base and that is made in the form of a cast iron or steel structure that has supporting beams, legs, and cross members that are cast, welded, or bolted shall be tested for a natural frequency of vibration after equipment is mounted.
 		1. The ratio of the natural frequency of the structure to the frequency of the disturbing force shall not be between 0.5 and 1.5.
-1. 3.7 Demonstration
+1. Demonstration
    1. Demonstrate equipment in accordance with Section 01 75 00.
 

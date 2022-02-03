@@ -17,7 +17,6 @@ tags: ['Facility', 'Construction', 'Concrete', 'Reinforcing']
 
    1. This section covers furnishing and installing steel bars and welded wire fabric for concrete reinforcement. 
    1. Related Sections:
-      1. 
    1. 03100, Concrete Formwork 
    1. 03300, Cast‑in‑Place Concrete
    1. 03365, Post-Tensioned Concrete
@@ -53,11 +52,13 @@ tags: ['Facility', 'Construction', 'Concrete', 'Reinforcing']
 4. PRODUCT DELIVERY, STORAGE AND HANDLING 
    1. Deliver to site in bundles marked with metal tags indicating bar size and length. Carefully handle and store on supports which will keep the steel from coming in contact with the ground. 
 5. JOB CONDITIONS ‑ Do not burn or weld in the vicinity of tendons. 
-1. ## Product*1. REINFORCEMENT BARS 
+
+## Products
+
+	1. REINFORCEMENT BARS 
 1..1 Bars:
       1. Steel reinforcements shall be new, deformed billet steel, meeting ASTM Standard A615 or A706; for rebars No. 4 and larger, Grade 60; for No. 3 rebars and designated reinforcement, Grade 40 or Grade 60. 
    1. Bend test:
-      1. 
    1. Meet 180-degree bend at 60-degree Fahrenheit. minimum temperature without cracking when bent around pin diameter indicated. 
    1. Number 3, 4 and 5 bars around pin diameter equal to 4 times nominal bar diameter.
    1. Number 6 through 11 bars around pin diameter equal to 5 times nominal bar diameter. 

@@ -353,7 +353,6 @@ taken using a dry film thickness gauge. Readings shall be taken uniformly over a
    1. 3)
    1. Third Coat:
       1. Devtar 5 High Build Epoxy (8-10 mils DFT)
-   1. b.
    1. PP
    1. 1)
    1. 2)

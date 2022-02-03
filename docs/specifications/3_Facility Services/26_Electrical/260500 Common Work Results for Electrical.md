@@ -17,10 +17,10 @@ tags: ['Facility', 'Services', 'Electrical', 'Common', 'Work', 'Results']
    1. Design Intent:
       1. The Contract documents indicate and specify the electrical design intent. The Contract drawings are schematic and diagrammatic and are not intended to indicate construction details and routing unless specifically indicated. The specifications establish minimum performance, product and installation requirements. 
    1. In addition to the specified and indicated performance and quality requirements, furnish products and perform installation work consistent with the design intent and necessary to the provision of complete operating electrical systems. 
-1. REFERENCES*   1. American National Standards Institute (ANSI):
+1. REFERENCES
+	1. American National Standards Institute (ANSI):
       1. C2 - National Electrical Safety Code. 
    1. National Electrical Contractors Association (NECA):
-      1. 
    1. 1 - Standard Practices for Good Workmanship in Electrical Construction
    1. 400 – Recommended Practice for Installing and Maintaining Switchboards.
    1. 402 – Recommended Practice for Installing and Maintaining Motor Control Centers.
@@ -28,8 +28,8 @@ tags: ['Facility', 'Services', 'Electrical', 'Common', 'Work', 'Results']
    1. 500 - Recommended Practice for Installing Indoor Commercial Lighting Systems. 
    1. National Fire Protection Association (NFPA):
       1. 70 - National Electrical Code. 
-1. SYSTEM DESCRIPTION*   1. Fault Current Analysis and Protective Device Coordination:
-      1. 
+1. SYSTEM DESCRIPTION
+	1. Fault Current Analysis and Protective Device Coordination:
    1. The Engineer has preformed Fault Current Analysis and Protective Device Coordination in the course of design. The Contractor shall perform a complete fault current analysis, using parameters of the electrical equipment and data from the manufacturer being proposed. The purpose is to verify that equipment ratings are adequate for their fault duty.
    1. Perform a complete fault current analysis under the supervision of, and certified by, a registered professional engineer.
    1. Use conductor lengths developed from the installation drawings prepared by the Contractor.
@@ -56,15 +56,12 @@ tags: ['Facility', 'Services', 'Electrical', 'Common', 'Work', 'Results']
    1. Submit information substantiating that the products comply with the specified regulatory, testing, code, and standards requirements; including independent testing agency requirements, such as Underwriters Laboratories Inc., and industry standards organization requirements, such as the National Electrical Manufacturers Association. 
    1. Develop and submit a curriculum and outline for each training course, for equipment specified.
    1. Quality Control Submittals:
-      1. 
    1. Submit fault current analysis and over-current protective device coordination study within 30 days of switchgear shop drawing approval.
    1. Submit results of factory tests two weeks prior to product shipment from factory. 
    1. Submit results of field tests immediately upon completion of the field test. 
    1. Contract Closeout Submittals:
-      1. 
    1. Refer to related Division 1 sections of the Specifications for basic definitions and requirements for record documents. 
    1. Submit, at the completion of the work, record drawings in the approved electronic format, indicating the actual electrical installation, size and construction details. Include the following information:
-      1. 
    1. Lighting layout, type, circuit designation and control, including each conduit and wire as installed. 
    1. Power distribution system, including distribution equipment and each conduit and wire size installed. 
    1. Layout and circuiting for wiring devices, surface raceways and related equipment, including each conduit and wire size. 
@@ -74,15 +71,15 @@ tags: ['Facility', 'Services', 'Electrical', 'Common', 'Work', 'Results']
    1. Layout, cabling and circuiting of site electrical systems such as underground duct banks, and site lighting fixtures. Include system and cable identification of communication systems such as telephone, data, fiber optic, fire alarm, security system and other cabling systems.
    1. Panel schedule drawings consisting of each panelboard, motor control center, bus duct, switchboard, switchgear, automatic transfer switch and substation. Schedules shall indicate the “as built” circuiting with loads and room numbers identified. Room numbers on schedules shall include the architectural room number indicated on the Drawings and the signage room numbers from the signage schedules.
    1. Power one-line diagrams shall be provided in a plastic, framed enclosure and mounted in the rooms housing the electrical switchboards.
-1. Quality Assurance*   1. Regulatory Requirements:
-      1. 
+1. Quality Assurance
+	1. Regulatory Requirements:
    1. Comply with the applicable requirements of ANSI C2 and NFPA 70. 
    1. Requirements of ANSI C2 and NFPA 70 shall be minimum standards of products and installation work. Furnish products and perform installation work which exceeds the standards of ANSI C2 and NFPA 70 when specified or indicated. 
    1. Comply with applicable requirements of city, county, and state laws, ordinances and regulations including modifications and supplements to ANSI C2 and NFPA 70. 
    1. Comply with the applicable requirements of U.S. Department of Labor, Occupational Safety and Health Administration Standards (OSHA). 
-1. Project/Site Conditions*   1. Environmental Requirements:
+1. Project/Site Conditions
+	1. Environmental Requirements:
       1. Provide products suitable for operation under the following environmental conditions:
-      1. 
    1. Temperature:
       1. - 0 to 100 degrees F. 
    1. Humidity:
@@ -97,22 +94,23 @@ tags: ['Facility', 'Services', 'Electrical', 'Common', 'Work', 'Results']
       1. Retain portable and detachable portions of the installation such as tools, tool kits, instruction books, wiring diagrams, service manuals, operating handles and keys until the completion of work. 
    1. Transmit the above items to the Owner when the work has been accepted and an itemized receipt obtained. 
    1. Operations and Maintenance Manuals:
-      1. 
    1. Prior to final acceptance of Project, and as described in related Division 1 sections of the Specifications furnish and deliver to Owner bound manual(s) of instructions for operation and maintenance of all pieces of equipment and systems furnished under this Division of Specifications. 
    1. Provide a separate binder(s) for each system. 
    1. Extra Materials:
-      1. 
    1. Furnish keys to the Owner together with any duplicates which may have been made. Securely wire keys for each lock together and plainly tag and mark the keys to indicate the lock number or piece of equipment they operate. Also indicate the physical location of the lock by building name or number, panel number, or room name or number. 
    1. Provide wiring diagrams, instruction books, installation books, and service manuals to the Owner. Clearly identify each item as to which product it applies and the equipment location. 
    1. Provide special tools as specified and required for equipment maintenance to the Owner. Clearly identify each item as to which piece of equipment it applies and the equipment location. 
-1. PRODUCTS
+
+## PRODUCTS
+
 1. Manufacturers*	1. General:
       1. Furnish products by one of the equipment manufacturers listed under the heading "Manufacturers" within the applicable sections. When given, furnish the specified product model or brand for the selected manufacturer. 
    1. Provide products, for which quantities of two or more are to be furnished, from the same manufacturer and of the same product or model series. 
    1. Furnish product components designed to be used together and which are physically and electrically compatible. 
    1. Product Substitutions:
       1. Product substitutions may be requested when the "or as approved" clause is specified under the heading "Manufacturers". Submit product substitutions for approval per related Division 1 sections of the Specifications. 
-1. Products*   1. Product Listing and Labeling:
+1. Products
+	1. Product Listing and Labeling:
       1. Provide listed and labeled product for which listings and labelings exist by Underwriters Laboratories Inc. (UL), Factory Mutual (FM), or similar independent testing organizations recognized by the authorities having jurisdiction. For products for which there are no such listings and labelings, provide listed and labeled components of those products, for which component listing and labelings exist.
    1. PCB Content Prohibited:
       1. Provide products which do not contain any amounts of polychlorinated biphenyl (PCB) compounds. 
@@ -120,10 +118,13 @@ tags: ['Facility', 'Services', 'Electrical', 'Common', 'Work', 'Results']
       1. Provide products which do not contain any amounts of asbestos. 
    1. Firestop Systems:
       1. Provide products suitable for the application as specified in related Division 7 sections of the Specifications.
-1. Source Quality Control*   1. Factory Tests:
+1. Source Quality Control
+	1. Factory Tests:
       1. Permit Architect (and Owner) to observe factory tests. Provide minimum five working days notice of factory tests. 
    1. Schedule no more than one equipment or system factory test per week. 
-1. EXECUTION
+
+## EXECUTION
+
 1. COORDINATION
    1. Coordinate arrangement, mounting, and support of electrical equipment:
       1. To allow maximum possible headroom unless specific mounting heights that reduce headroom are indicated.
@@ -171,7 +172,6 @@ tags: ['Facility', 'Services', 'Electrical', 'Common', 'Work', 'Results']
    1. Firestopping:
       1. Apply firestopping to penetrations of fire-rated floor and wall assemblies for electrical installations to restore original fire-resistance rating of assembly. Firestopping materials and installation requirements are specified in Division 7 sections of the Specifications.
    1. Wiring Installation:
-      1. 
    1. Install wiring for control systems, power feeder and branch circuits, lighting branch circuits, communication and auxiliary systems, such as fire alarm and security, in separate raceways unless otherwise indicated. 
    1. Install power system wiring for Emergency systems in separate raceways. 
    1. Run equipment grounding conductor in all raceways.
@@ -184,13 +184,12 @@ tags: ['Facility', 'Services', 'Electrical', 'Common', 'Work', 'Results']
    1. Manufacturer Installation Instructions:
       1. Install equipment in accordance with the manufacturer's installation instructions and recommendations. 
    1. Field Painting:
-      1. 
    1. Refer to related Division 9 sections of the Specifications for prime and finish field-painting requirements. 
    1. In a manner satisfactory to the Owner, touch-up or refinish factory-applied paints or finishes which are chipped, defaced, scratched, or in any other way disturbed due to handling, installation, or general construction work. 
    1. Personnel Protection From Suspended Work:
       1. Where suspended equipment, piping or ductwork or any of their supporting or reinforcing members extend 7 feet or less above the floor or any other walking surface, cover all edges, projecting surfaces and sharp corners with pre-fabricated soft rubber pads, elastomeric insulation, caps or equivalent to prevent injury to personnel.
-1. Field Quality Control*   1. Field Tests:
-      1. 
+1. Field Quality Control
+	1. Field Tests:
    1. Permit Architect (and Owner) to observe field tests. Provide minimum three working days notice of field test. 
    1. Schedule tests in coordination with other Contract work. Schedule no more than one equipment or system field test per day. 
 1. Training*	1. General:

@@ -31,13 +31,13 @@ tags: ['Facility', 'Services', 'Communications', 'Raceway']
       1. Do not install raceways until spaces are enclosed and weather tight and wet work in spaces is complete and dry.
 ## Product
 
-6. 2.1 MATERIALS
+1. MATERIALS
    1. Provide raceways and conduits in compliance with Division 26 sections of the Specifications, the referenced standards, and the manufacturer’s recommendations. 
    2. Minimum conduit size shall be 1 inch. Increase conduit size as required to accommodate the number of devices indicated. Flexible conduit shall not be used without written permission.
    3. Back boards shall be 3/4" thick, waterproof, fire rated plywood suitable for mounting telephone equipment terminals, cable supports, etc., for telecommunication system facilities. 
-7. 2.2 GROUNDING
+1. GROUNDING
    4. Comply with requirements in related Division 26 sections of the Specifications for grounding bus(es) and grounding conductors and connectors.
-8. 2.3 CABLE SUPPORTS
+1. CABLE SUPPORTS
    5. All cable support systems shall be Cat 6 and plenum rated. 
    6. Cable support brackets shall be designed to prevent degradation of cable performance and pinch points that could damage the cable.
    7. Support brackets with cable tie slots for fastening cable ties to brackets.

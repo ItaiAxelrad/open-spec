@@ -86,7 +86,9 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
       1. One set for each belt-driven unit.
 1. WARRANTY
    1. See Division 23 sections of the Specifications.
-1. PRODUCTS
+
+## PRODUCTS
+
 1. MANUFACTURED UNITS
    1. Centrifugal Fans - Type CF
 
@@ -111,7 +113,6 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Fabricate fan shafts of solid one piece carbon steel, AISI C-1040 or 1045, stress proof or stress relieve steel. 
    1. Straight shafts:
       1. turned, ground, polished to a minimum 16 microinch finish and ring gauged to meet the following tolerances:
-      1. 
    1. Up to 3 inches diameter:
       1. plus 0.0006 inch.
    1. 3 inches to 5 inches diameter:
@@ -212,26 +213,20 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
 	1. General:
       1. Roof or wall type, spun aluminum, belt driven, centrifugal exhausters with motor and drive isolated from the discharge airstream in a forced cooled compartment, listed under UL 705 and bearing the UL label. 
    1. Wheels:
-      1. 
    1. Backward inclined, non-overloading, all aluminum construction, including hubs, dynamically and statically balanced. Units shipped fully assembled and tested for ampere draw, rpm, and noise before leaving factory. 
    1. Support power assemblies on rubber isolators loaded in combination shear and compression. Drive sheaves:
       1. cast iron adjustable with machined grooves. Impeller shaft:
       1. anti-corrosion treated. Maximum fan rpm, sones, and motor power, as scheduled.
    1. Motors:
-      1. 
    1. Open drip proof with sealed, permanently lubricated ball bearings and impeller shafts supported by prelubricated ball bearings. 
    1. Dampers:
-      1. 
    1. Equip units with self-acting, counter balanced back draft dampers in the sizes specified except for fans where a motor operated damper is provided under Division 230900, “Instrumentation and Control for HVAC.” 
    1. Disconnects:
-      1. 
    1. Provide safety disconnect switches mounted under the fan cover having sufficient number of poles to break all electrical leads to the motor. 
    1. Curbs:
-      1. 
    1. Mount roof mounted units on a 12-inch-high sound attenuating curb of proper size and designed to reduce the sone level of the fan by approximately 50 percent compared to sone level at the same flow on a non-attenuating curb. Construction:
       1. continuous welded galvanized steel shell with 2 x 2-inch nominal wood nailer strips and internal acoustic baffles to minimize noise penetration. 
    1. Manufacturers:
-      1. 
    1. JencoFan "Model BCR", Twin City Fan and Blower Model “BCRD”, Acme “PV”, Greenheck "GB", Loren Cook "AC", Penn Ventilator Co. "Domex", Hartzell.
    1. V-Belt Drives
    1. Drives
@@ -250,7 +245,9 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
       1. As manufactured by Browning Div. of EPT, Dodge Div. of Rockwell Automation or T. B. Wood’s Inc.
    1. Guards
    1. See Division 23 sections of the Specifications for requirements for V-belt drive guards.
-1. EXECUTION
+
+## EXECUTION
+
 1. ERECTION, INSTALLATION AND APPLICATION
    1. Install fans level and plumb.
    1. Support fans using vibration supports. Vibration- and seismic-control devices are specified in Division 23 of the Specifications.

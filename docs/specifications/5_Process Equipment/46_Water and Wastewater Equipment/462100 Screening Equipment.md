@@ -10,10 +10,8 @@ tags: ['Process', 'Equipment', 'Water', 'Wastewater', 'Screening']
 ## General
 
 1. RELATED DOCUMENTS
-   1. A.
    2. Drawings, General and Special Provisions of the Contract, and Division 01 Specification Sections apply to this Section.
 2. SUMMARY
-   1. A.
    2. Furnish and install two (2) automatic self-cleaning filter screens, a screenings conveyor with feed hoppers and discharge chute, a screw wash press, and control panels for the screens, conveyor and compactor.
    3. B.
    4. Related Sections include the following:
@@ -54,25 +52,20 @@ tags: ['Process', 'Equipment', 'Water', 'Wastewater', 'Screening']
 7. I/O wiring drawings for all devices that are monitored or controlled by the Mechanical Screens, Conveyor, and Compactor manufacturer’s PLC as listed in the Instrumentation and Controls paragraph of this specification. These drawings shall include the field wiring from the terminal block (showing terminal numbers) to the field device (showing the device tag number).
 5.
 1. QUALITY ASSURANCE
-   1. A.
    1. The equipment shall be supplied by a firm regularly engaged in the manufacturer of the equipment item, whose products have been used satisfactorily at a minimum of 10 installations in similar services for a minimum period of five (5) years.
-   1. B.
    1. The Contractor may furnish and install equipment of a manufacturer whose products have not been in similar services at 10 installations for five years, provided the equipment manufacturer submits a bond, or deposits a sum equal to the installed price of the equipment, for a period of five (5) years.
 6.
 1. WARRANTY
-   1. A.
    1. Special Warranty:
       1. Written warranty for the new screens, conveyor and screw wash press, executed by manufacturer, agreeing to repair or replace equipment that fails in materials or workmanship within one year from the date of Substantial Completion.
 7.
 1. EXTRA MATERIALS
-   1. A.
    1. Furnish extra parts that match items installed and that are packaged with protective covering for storage and identified with labels describing contents. The following spare parts shall be provided:
       1. Twenty (20) filter elements.
 2. Ten (10) side plates
 3. Twenty (20) snap rings 3/4-inch diameter
 4. Ten (10) snap rings 63/64-inch diameter
 5. 1 rotating brush core replacement assembly
-   1. B.
    1. The manufacturer will supply type 304 SS 3/4-inch-10 UNC threaded rods for use with HILTI HY-150 Adhesive Anchoring system. Adhesive to be provided by the contractor.
    1. Product
 

@@ -43,12 +43,16 @@ tags: ['Facility', 'Services', 'Electrical', 'Systems', 'Commissioning']
    1. Commissioning procedures that require participation of Divisions 26, 27 and 28 Contractors.
    1. Allow sufficient time before final completion dates so electrical systems start-up, checkout, and commissioning testing can be accomplished.
    1. For specified electrical systems and component testing by a third-party testing Contractor, coordinate with the CA, the scope and schedule of that testing for observation by the CA during the actual testing.
-1. PRODUCTS
+
+## PRODUCTS
+
 1. TEST EQUIPMENT
    1. Contractor shall provide all standard and specialized test equipment as necessary to test and start up and functionally test the electrical equipment. Equipment subject to calibration shall be calibrated per NETA, ISA, and manufacturer’s requirements, whichever is the most stringent.
    1. Proprietary test equipment required to test installed equipment, whether specified or not, shall be provided by the manufacturer of the equipment. Manufacturer shall provide the test equipment, and demonstrate its use and assist the contractor and CA in the commissioning process.
 1. See Editing Instruction No. 1 in the Evaluations for cautions about naming manufacturers and products. Retain one of three paragraphs and list of manufacturers below. See Division 01 Section "Product Requirements."
-1. EXECUTION
+
+## EXECUTION
+
 1. WORK PRIOR TO COMMISSIONING
    1. Complete all phases of work so the system can be energized, started, tested, and otherwise commissioned. The Divisions 26, 27 and 28 Contractors have primary start-up responsibilities with obligations to provide, install and test complete systems, including all sub-systems so they are functional. This includes the complete installation of all equipment, materials, raceways, wire, terminations, controls, etc., per the Contract Documents and related directives, clarifications, change orders, etc.
    1. The commissioning plan, developed by the CA, is an attachment to these specifications. Upon request of the CA, this Contractor shall provide assistance and consultation in updating the plan to reflect actual installed equipment. If system modifications or clarifications are incorporated to this and related sections of work, commissioning of this work will be made at no additional cost to the Owner. If Contractor-initiated system changes have been made that alter the commissioning process, the CA will notify the Architect, and the Contractor may be obligated to compensate the CA to test the revised product.

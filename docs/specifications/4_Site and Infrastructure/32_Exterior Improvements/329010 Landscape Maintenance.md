@@ -65,7 +65,6 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Landscape', 'Maint
    1. Fertilize trees with 18-7-10 formulation, slow release fertilizer. Apply 6 oz./100 s.f. Apply once in spring. Apply by spreading fertilizer evenly around the ball of the tree. Apply from the trunk out to the drip line.
    1. If trees exhibit iron chlorosis, provide foliar fertilization with chelated iron. Cost of foliar fertilization is a part of this contract. Avoid contact with all stainable surfaces including concrete sidewalks, pavers, planter walls, rock mulch, project signage, and lights. Obtain written authorization of Owner’s Representative prior to fertilization.
    1. Insecticide application:
-      1. 
    1. All insecticide shall be applied by a licensed professional only.
    1. Any spray application shall be timed properly in order to minimize damage and maximize chemical effectiveness.
    1. Prior to any treatment the contractor shall submit manufacturer data sheets for each chemical (insecticide) intended for use. This submittal shall also include a statement about signs or symptoms identified thereby justifying spraying of trees. This submittal must be approved and must be submitted a minimum of five days prior to the intended date for treatment. 

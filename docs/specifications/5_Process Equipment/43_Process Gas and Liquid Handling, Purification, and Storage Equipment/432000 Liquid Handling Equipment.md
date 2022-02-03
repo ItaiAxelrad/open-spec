@@ -55,17 +55,17 @@ tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Sto
 	1. Certifications:
 		1. Provide a written statement that manufacturer's equipment has been installed properly, started up and is ready for operation by Owner's personnel.
 ## Product
-1. 2.1 Acceptable Manufacturers
+1. Acceptable Manufacturers
    1. Subject to compliance with the Contract Documents, the following manufacturers are acceptable:
 	1. Pumps:
 		1. See individual pump Specification Sections.
 	2. Mechanical seals:
 		1. As noted in the individual pump Specification Sections.
 2. Submit request for substitution in accordance with Specification Section 01 25 00.
-1. 2.2 Centrifugal Pump Design
+1. Centrifugal Pump Design
    1. Provide units with increasing head characteristics from the end run out portion of the curve to shut-off condition.
 2. Motors to be rated for continuous operation at 7,000 feet.
-1. 2.3 Accessories
+1. Accessories
    1. See Specification Section 11 01 00.
 2. Each Unit:
 	1. Lifting eye bolts or lugs.
@@ -80,14 +80,14 @@ tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Sto
 		2. Springs: Hastelloy C.
 		3. Seal faces: Unfilled carbon graphite versus silica-free Grade 99.5 ceramic.
 		4. Elastomers: Viton GF.
-1. 2.4 Fabrication
+1. Fabrication
    1. Pump Support:
 	1. Design base to support weight of drive, shafting and pump.
 	2. Comply with HI vibration limitations.
 	3. Mount horizontal pump, motor and coupling on single piece drip lip type baseplate.
 	4. Mount vertical pumps on single piece pedestal baseplate.
 	5. Fabricate to withstand all operating loads transmitted from the pump and drive.
-1. 2.5 Source Quality Control
+1. Source Quality Control
    1. Factory hydrostatic test all pumps at 150 percent of shut-off head for a minimum of 5 minutes.
 2. If specifically required in the individual pump specification sections, provide factory tests.
 	1. All units:
@@ -108,7 +108,7 @@ tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Sto
 
 ## Execution
 
-1. 3.1 Installation
+1. Installation
    1. See Specification Section 11 01 00.
 2. Floor or Pad-Mounted Units (Non-Submersible):
 	1. Align vertically and horizontally level, wedge and plumb units to match piping interfaces.
@@ -122,7 +122,7 @@ tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Sto
 		2. Realign as necessary, install flange bolts and make equipment connection.
 	8. Field paint units as defined in Specification Section 09 90 00.
 3. Provide pressure gage on discharge of all pumps and on suction and discharge of all non- submersible units.
-1. 3.2 Field Quality Control
+1. Field Quality Control
    1. Provide services of equipment manufacturer's field service representative(s) to:
 	1. Inspect equipment covered by this Specification Section.
 	2. Supervise pre-start adjustments and installation checks.

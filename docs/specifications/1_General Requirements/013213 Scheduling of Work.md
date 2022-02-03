@@ -37,7 +37,7 @@ tags: ['General', 'Requirements', 'Scheduling', 'Work']
 		2. This is also known as a Look-Ahead Schedule.
 	8. RESOURCES: Manpower, materials, permanent equipment, and construction equipment needed to construct the work.
 ## Product
-1. 2.1 Submittals
+1. Submittals
    1. Project Schedule Preparation:
 	1. Within five (5) days from Execution of the Contract, Contractor shall submit the name of the person responsible for the preparation, maintenance, updating and revision of all schedules.
 	2. Qualifications necessary:
@@ -113,7 +113,7 @@ tags: ['General', 'Requirements', 'Scheduling', 'Work']
 	2. Identify inspection hold points including special inspections needed before the Contractor can move forward with the work.
 	3. Identify the day materials provided by the Owner or others needed on site.
 	4. Identify utility tie-ins and traffic changes including road and/or lane closures.
-1. 2.2 CPM General Requirements
+1. CPM General Requirements
    1. Develop and submit construction progress submittals as specified herein.
 	1. Scheduling Software Features:
 		1. The following specific features are not allowed to be applied in the Baseline and Record Schedules:
@@ -152,7 +152,7 @@ tags: ['General', 'Requirements', 'Scheduling', 'Work']
 
 ## Execution
 
-1. 3.1 Construction Schedule Meetings
+1. Construction Schedule Meetings
    1. The Contractor and Engineer will participate in a pre-construction scheduling meeting.
 	1. The meeting shall occur within ten (10) working days after Execution of the Contract.
 	2. The Contractor’s Project Manager, Superintendent(s), Scheduler and other key personnel shall attend the pre-construction scheduling meeting.

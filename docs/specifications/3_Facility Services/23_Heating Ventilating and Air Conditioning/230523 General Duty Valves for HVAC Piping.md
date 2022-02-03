@@ -86,7 +86,9 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
 1. warranty
 
 		1. Follow procedures specified in Division 1.
-1. PRODUCTS
+
+## PRODUCTS
+
 
 ## General
 
@@ -230,7 +232,9 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
 
 		1. Provide straightway flow diaphragm valves on closed circulating systems where required for flow regulation and isolation: Dia-Flo Straightway Valves as manufactured by ITT Industries, motor operated modulating type where indicated on the drawings.
 			2. Size valves for piping system where installed and adjust to control pressures shown. Select valve and diaphragm materials to operate at the piping system pressure ratings and the temperature range of the liquid in the piping system. In general valves for chilled water and heating water service shall be cast iron body with butyl rubber lining rated to minimum 125 psig and 200 deg. F.
-1. EXECUTION
+
+## EXECUTION
+
 1. VALVE EXAMINATION
 
 		1. Examine valve interior for cleanliness, freedom from foreign matter, and corrosion. Remove special packing materials, such as blocks, used to prevent disc movement during shipping and handling.
@@ -268,7 +272,6 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
 
 		1. Copper Tubing Adapters
    1. When connecting copper tubing to valves, install adapters as follows:
-      1. 
    1. Cast copper solder male adapter or union to screwed valves. 
    1. Copper solder joint companion flange unit.
    1. Solder joint valve substitutions for valves specified are not permitted. 

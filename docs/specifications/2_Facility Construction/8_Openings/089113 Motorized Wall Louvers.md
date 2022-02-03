@@ -27,12 +27,12 @@ tags: ['Facility', 'Construction', 'Openings', 'Motorized', 'Wall', 'Louvers']
 	1. The location of each damper, indicating size and arrangement of blank-off plates, if required. 
 	2. Product technical data which shall include acknowledgement that products submitted meet the aforementioned standards, manufacturer’s installation instructions, and color chart showing manufacturer’s full line of colors.
 ## Product
-1. 2.1 Acceptable Manufacturers
+1. Acceptable Manufacturers
    1. Subject to compliance with the Contract Documents, the following manufacturers are acceptable:
 	1. Greenheck.
 	2. Dayton.
 2. Submit request for substitution in accordance with Specification Section 01 25 00.
-1. 2.2 Manufactured Units
+1. Manufactured Units
    1. Motorized Damper:
 	1. Flanged frame motorized damper. 
 	2. The blades shall be 6” wide and center-pivoted to provide full 90 degree rotation. 
@@ -44,7 +44,7 @@ tags: ['Facility', 'Construction', 'Openings', 'Motorized', 'Wall', 'Louvers']
 
 ## Execution
 
-1. 3.1 Installation
+1. Installation
    1. Install products in accordance with manufacturer’s instructions. 
 2. Install anchoring and bracing accessories as required. 
 3. Seal around perimeter on exterior and interior. 

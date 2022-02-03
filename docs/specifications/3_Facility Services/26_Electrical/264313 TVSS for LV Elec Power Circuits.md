@@ -60,7 +60,9 @@ tags: ['Facility', 'Services', 'Electrical', 'TVSS', 'LV', 'Elec', 'Power', 'Cir
 8. SYSTEM STARTUP
    1. The suppressor manufacturer or manufacturer’s representative shall perform experienced, qualified power quality application and field supervision engineering services, on an as-needed (reimbursable) basis.
    1. The manufacturer’s representative shall provide startup, testing, and training as required by the Electrical Contractor and the contract specifications.
-1. ## Product
+
+## Products
+
 1. APPROVED MANUFACTURERS
    1. The following manufacturers are approved for this project (NO EXCEPTIONS):
       1. Joslyn Total Protection Solutions

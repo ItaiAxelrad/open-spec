@@ -36,7 +36,7 @@ tags: ['Facility', 'Construction', 'Openings', 'Access', 'Doors', 'Panels']
 	1. Product technical data acknowledging that products submitted meet requirements of aforementioned standards, and manufacturer’s installation instructions.
 8. Provide Operation and Maintenance Data.
 ## Product
-1. 2.1 Acceptable Manufactures
+1. Acceptable Manufactures
    1. Subject to compliance with Contract Documents, the following manufacturers are acceptable:
 	1. Access doors:
 		1. Bilco Company.
@@ -90,6 +90,6 @@ tags: ['Facility', 'Construction', 'Openings', 'Access', 'Doors', 'Panels']
 
 ## Execution
 
-1. 3.1 Installation
+1. Installation
    1. Install products in accordance with manufacturer’s instructions.
 

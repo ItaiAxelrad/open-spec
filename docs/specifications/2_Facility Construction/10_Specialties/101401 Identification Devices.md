@@ -36,7 +36,7 @@ tags: ['Facility', 'Construction', 'Specialties', 'Identification', 'Devices']
 	1. Product technical data including catalog information for all identification systems and acknowledgement that products submitted meet requirements of standards referenced. 
 	2. Include a signage plan.
 ## Product
-1. 2.1 Manufactured Units
+1. Manufactured Units
    1. Type A1 - Round Metal Tags:
 	1. Materials:
 		1. Aluminum or stainless steel.
@@ -132,7 +132,7 @@ tags: ['Facility', 'Construction', 'Specialties', 'Identification', 'Devices']
 
 ## Execution
 
-1. 3.1 General Installation
+1. General Installation
    1. Install identification devices at specified locations.
 2. All identification devices to be printed by mechanical process, hand printing is not acceptable.
 3. Attach tags to equipment with sufficient surface or body area with solvent activated adhesive applied to back of each tag.
@@ -149,7 +149,7 @@ tags: ['Facility', 'Construction', 'Specialties', 'Identification', 'Devices']
 	6. If wire nuts are used for splicing, knot wire at each splice point leaving 6 IN of wire for splicing.
 	7. Use continuous strand of wire between valve boxes where possible.
 7. Continuous length shall be no shorter than 100 FT.
-1. 3.2 Schedules
+1. Schedules
    1. Process Systems:
 	1. General:
 		1. Provide arrows and markers on piping.

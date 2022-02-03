@@ -33,7 +33,7 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Thermoplastic', 'Pipe']
 5. See Specification Section 40 05 00 for additional submittal requirements.
 6. For PVC tubing, provide design criteria regarding elongation under design operating conditions and coordinate with Engineer to determine that elongation is acceptable. 
 ## Product
-1. 2.1 PVC Pressure Piping*	 1. General:
+1. PVC Pressure Piping*	 1. General:
 	1. Provide Schedule 80 pipe with Schedule 80 fittings and appurtenances to locations shown on Drawings.
 	2. Furnish materials in full compliance with the following material specifications:
 		1. Manufacture pipe, fittings and appurtenances from polyvinyl chloride (PVC) compound which meets the requirements of Type 1, Grade 1 (12454) Polyvinyl Chloride as outlined in ASTM D1784.
@@ -53,7 +53,7 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Thermoplastic', 'Pipe']
 	1. Exposed: ASTM F593, Type 316 stainless steel.
 	2. Project ends 1/4 to 1/2 IN beyond nuts.
    1. part 3 – execuction
-1. 3.1 Installation
+1. Installation
    1. Installation:
 	1. Field threading PVC will not be permitted.
 		1. Perform required threaded connections or attachments by the use of factory molded socket by threaded adapters.

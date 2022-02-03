@@ -76,7 +76,9 @@ tags: ['Facility', 'Construction', 'Furnishings', 'Roller', 'Window', 'Shades', 
    1. Installation:
       1. Provide Contractor’s warranty under provisions of Division 1 - General Requirements that installation shall be free from defects for a period of not less than 1 year.
    1. In the event of a warranted product failure, the Shade Contractor will, at no cost to owner, facilitate acquisition and delivery of all necessary components to the owner.
-   1. products
+   
+## PRODUCTS
+
    1. Type and Manufacturer
    1. Manual vertical single shade system surface mounted at window cell, bottom-up, designed to control daylight, as manufactured by Draper, Inc.; MechoShade Systems, Inc.; or as approved.
    1. Materials

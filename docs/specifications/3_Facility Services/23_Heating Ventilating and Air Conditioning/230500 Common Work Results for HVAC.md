@@ -122,7 +122,9 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. The work to be performed during the interruption, will be preceded by all possible preparation, and will be carefully coordinated to minimize the duration of the interruption and work will proceed continuously until the system is restored to normal.
    1. Unless otherwise directed, the manipulation of existing main valves to isolate piping, the shutdown of fans, pumps, and other equipment will be done by Owner maintenance personnel.
    1. Coordinate installation of identifying devices after completion of covering and painting, where devices are applied to surfaces. Install identifying devices prior to installation of acoustical ceilings and similar concealment.
-1. PRODUCTS
+
+## PRODUCTS
+
 1. MATERIALS
    1. Pipe and Pipe Fittings:
       1. Refer to individual piping system specification sections for pipe and fitting materials and joining methods.
@@ -220,7 +222,9 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
       1. Post-hardening, volume-adjusting, dry, hydraulic-cement grout, nonstaining, noncorrosive, nongaseous, and recommended for interior and exterior applications.
    1. Design Mix:
       1. 5000 psi, 28-day compressive strength.
-1. EXECUTION
+
+## EXECUTION
+
 1. ERECTION INSTALLATION APPLICATION
    1. Piping Systems - Common Requirements:
 	1. General:

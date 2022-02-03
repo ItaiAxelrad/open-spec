@@ -50,9 +50,9 @@ tags: ['General', 'Requirements', 'Temporary', 'Tree', 'Plant', 'Protection']
 
 ## Execution
 
-1. 3.1 Construction Requirements
+1. Construction Requirements
    1. This section provides standards and guidelines for the retention and protection of trees and high-value shrubs for any proposed public works or construction project.
-1. 3.2 Demolition of Existing Concrete
+1. Demolition of Existing Concrete
    1. Caution should be used during removal of existing street, curb, gutter, sidewalk, drain inlets, and other concrete and asphalt demolition, to minimize injury to tree root systems. The following procedures should be used when removing existing concrete.
 	1. Breaking of the existing concrete and asphalt for removal should be done in a manner that will minimize ground disturbance and vibration.
 	2. Curbs and sidewalks within designated tree protection areas and critical root zones shall be removed by hand. When removing existing sidewalks and curbs, care should be taken to avoid injury to roots located under, over, or adjacent to paved surfaces.
@@ -60,7 +60,7 @@ tags: ['General', 'Requirements', 'Temporary', 'Tree', 'Plant', 'Protection']
 	4. During the removal of concrete, all root systems and soil areas exposed shall not be disturbed.
 	5. Motorized equipment and trailers, including tractors, Bobcats, bulldozers, trackhoes, trucks, cars, and carts are to be limited to access on the existing paved street only. Access is not allowed behind the curb within tree protection areas.
 	6. Should access be necessary within designated tree protection areas, the existing grade shall be covered with double, overlapping sheets of ¾ inch thick plywood, or six (6) to eight (8) inches of wood mulch to help distribute the weight of equipment and to minimize soil compaction and rutting. Plywood and/or mulch is not acceptable bridging material for driving over exposed tree roots. Exposed tree roots shall not be driven over. The Project Engineer or Project Consulting Arborist shall be notified and shall approve of the access and driving surface prior to its use.
-1. 3.3 Construction of Sidewalks, Curbs, Concrete, Asphalt Paving and Drainage Inlets
+1. Construction of Sidewalks, Curbs, Concrete, Asphalt Paving and Drainage Inlets
    1. The following procedures shall be used when constructing sidewalks, curbs, concrete, asphalt paving, and drainage inlets.
 2. Keep all materials and equipment within the street bounded by existing curbs.
 3. Protect exposed roots from contamination by stabilization materials and concrete.
@@ -79,7 +79,7 @@ tags: ['General', 'Requirements', 'Temporary', 'Tree', 'Plant', 'Protection']
 	1. Prune roots as specified in Part 3, 3.1, D of this section.
 	2. Protect exposed roots as specified in Part 3, 3.1, B.5 of this section.
 14. Concrete or chemicals spilled qwithin tree protection areas should be completely removed. Contamination soil shall be completely removed at the time of the spill and removed by hand without disturbance to root systems. Appropriate soil should be added as necessary to restore the grade.
-1. 3.4 Irrigation or Utility Installation
+1. Irrigation or Utility Installation
    1. Protection of Trees and High Value Shrubs
 2. Contractor shall protect all trees and high-value shrubs from injury due to irrigation related work. All injuries to trees and high-value shrubs shall be mitigated to the satisfaction of the Owner, and, if appropriate in accordance with guidelines established in the "Guide for Plant Appraisal". All costs of such mitigating shall be charged to and paid by the Contractor.
 3. All irrigation lines shall be indicated on construction plans and pre-approved by the Project Engineer or Project Consulting Arborist. Unless absolutely necessary, no irrigation lines shall be located within 10 feet of any existing tree trunk. (See item 2 below).
@@ -114,7 +114,7 @@ tags: ['General', 'Requirements', 'Temporary', 'Tree', 'Plant', 'Protection']
 		4. All roots between two (2) and four (4) inches in diameter should be examined by the Project Engineer or Project Consulting Arborist in terms of their role in anchoring the tree. a. All roots that contribute significantly to anchorage should be preserved. Remove all other roots in this size range to sound, downward growing lateral roots that are at least one half (½) the size of the root being removed.
 		5. All roots larger than four (4) inches in diameter are to be preserved unless their removal is absolutely necessary. Preservation of large roots may require: 1.) reducing the sidewalk width near the root flare; and/or 2) by ramping or bridging the sidewalk over the roots to allow for root growth.
 15. Tree guying subsequent to root pruning: Upon review of on-site root pruning and constructing grading limits, the Project Engineer or Project Consulting Arborist shall determine if existing trees subject to root pruning should be guyed or otherwise stabilized. Contractor shall retain a qualified tree service company to complete tree guying and stabilization in accordance with National Arborist Association standards as referenced in Section 5.00. Tree service company shall be certified by the International Society of Consulting Arborists, ISCA.
-1. 3.5 Tree Protection Fencing
+1. Tree Protection Fencing
    1. Tree protection fencing should be installed two as designated on construction documents and at all locations within or adjacent to the project limits where existing trees and landscape material shall remain. Tree protection areas shall be designated on construction documents, and fencing locations should be staked for approval by the Project Engineer or Project Consulting Arborist.
 2. Tree protection fences should be:
 	1. Galvanized chain-link - six (6) feet in height, or approved equal. Posts should be installed on ten (10) foot centers (maximum), at a depth of three (3) feet minimum. Installation of post shall not result in injury to surface roots or root flares of trees.
@@ -124,7 +124,7 @@ tags: ['General', 'Requirements', 'Temporary', 'Tree', 'Plant', 'Protection']
       1. A sign shall be mounted on tree protection fencing at fifty (50) foot intervals warning constructing personnel and the public to keep out of the tree protection areas.
 1. 3.6** **Project Site Monitoring
    1. As determined by the Project Engineer for projects of sufficient size to warrant such, a Project Consulting Arborist should be retained to enforce and monitor the Tree Retention and Protection objectives. The project site should be monitored a minimum of two (2) times weekly-more frequently at the start of the project until all procedures and specifications are understood and properly executed by all parties. Specific monitoring schedules should be developed at preconstruction meetings and modified as deemed necessary by the appropriate parties.
-1. 3.7 Injuries to Existing Plants – Damage Penalties
+1. Injuries to Existing Plants – Damage Penalties
    1. Tree and High Value Shrub Appraisal
 	1. All trees and high-value shrubs will evaluated and appraised by the Project Engineer or Project Consulting Arborist, and a list of all tree values for the project will be on file in the Construction Manager's office. Any tree or other plant requiring retention or protection that is not on the list shall be appraised by the Project Engineer or Project Consulting Arborist as necessary to comply with this damage penalty.
 		1. Documentation for appraisals will consist of: a. measurement of plant size
@@ -137,10 +137,11 @@ tags: ['General', 'Requirements', 'Temporary', 'Tree', 'Plant', 'Protection']
 	5. A fine of one-thousand dollars ($1,000.00) will be levied against the Contractor for each incident of construction damage (including construction traffic) within designated tree protection areas. Any fine shall be independent of any applicable liquidated damages for the assessed value of the tree or tree part.
 	6. Trees or roots visibly and unnecessarily injured will cause the Owner to withhold from the Contractor an assessed amount conforming to the requirements stipulated above, for a period of one full year. After that period the impact of the injury to any tree will be assessed by the Project Engineer or the Project Consulting Arborist.
 	7. If any trees or shrubs designated to be retained or protected are injured and replacement is justified, a number and equivalent diameter inches of trees or shrubs of same or similar species shall be furnished and planted by the Contractor. The total inch diameter of the replacement plant(s) shall equal the diameter of the plant(s) to be replaced, in accordance with the "Guide for Plant Appraisal".
-1. 3.8 Submittals
+1. Submittals
    1. Proposed methods and schedule for effectuating tree and other plant protection shall be submitted for approval. Contractor shall submit construction schedule which includes a time frame for work near existing plants. Approval of such shall be obtained from the Project Engineer prior to commencement of construction near tree protection areas.
 2. Proposed methods, materials, and schedule for root pruning, branch pruning, and other tree maintenance shall be submitted for approval. The Project Engineer or Project Consulting Arborist shall mark the location of root pruning lines in the field prior to the operation. If possible, root pruning should occur between autumnal leaf fall and spring foliation. Root pruning during the growing season shall require approval of the Project Engineer or Project Consulting Arborist.
-1. 3.9 Tree and Other Plant Maintenance During and After Completion of Construction*   1. Proper maintenance should include, but without limitation to:
+1. Tree and Other Plant Maintenance During and After Completion of Construction
+	1. Proper maintenance should include, but without limitation to:
       1. structural and remedial pruning; watering; mulching; remediating soil compaction; fertilization; insect and disease control; soil and tissue analysis; aeration; and wound treatment. Contractor shall maintain existing trees during and after completion of construction and during the warranty period.
 2. The timing duration and frequency of necessary maintenance practices should be determined by the Project Engineer or Project Consulting Arborist, based on factors associated with the site and affected plants.
 

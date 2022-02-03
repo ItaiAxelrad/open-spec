@@ -40,7 +40,6 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Dewatering', 'basic']
 1. NOTE TO SPECIFIER ** Insert acceptable manufacturers. To research manufacturers, search www.arcat.com for the title of this section.
    1. MATERIALS
    1. Dewatering:
-      1. 
    1. Provide a system to lower and control groundwater in order to permit construction activities. Install sufficient dewatering equipment to drain water-bearing strata above and below bottom of foundations, drains, and other excavations.
    1. Operate dewatering system continuously until dewatering is no longer required. Dispose of water removed from excavations in a manner to avoid endangering public health, property, and portions of work under construction or completed. Provide flow control devices as required by governing authorities.
 1. NOTE TO SPECIFIER ** Delete if not required.

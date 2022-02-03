@@ -68,18 +68,14 @@ Conditions and Division 1 Specification Sections, apply to this Section.
       1. Hubbell Incorporated; Wiring Device-Kellems. b. Wiremold Company (The).
 02.
    1. RE
-   1. A.
    1. CEPTACLES
    1. Straight-Blade-Type Receptacles:
       1. Comply with NEMA WD 1, NEMA WD 6, DSCC W-C-
    1. 596G, and UL 498.
-   1. B.
    1. Straight-Blade and Locking Receptacles:
       1. Heavy-Duty grade.
-   1. C.
    1. GFCI Receptacles:
       1. Straight blade, non-feed-through type, Heavy-Duty grade, with integral NEMA WD 6, Configuration 5-20R duplex receptacle; complying with UL 498 and UL 943. Design units for installation in a 2-3/4-inch- deep outlet box without an adapter.
-   1. D.
    1. Isolated-Ground Receptacles:
       1. Straight blade, Heavy-Duty grade, duplex receptacle, with equipment grounding contacts connected only to the green grounding screw terminal of the device and with inherent electrical isolation from mounting strap.
 1. Devices:
@@ -178,7 +174,6 @@ Conditions and Division 1 Specification Sections, apply to this Section.
    1. proper polarity, ground continuity, and compliance with requirements.
 2.
    1. Test GFCI operation with both local and remote fault simulations according to
-   1. B.
    1. Re
    1. manufacturer's written instructions.
    1. move malfunctioning units, replace with new units, and retest as specified above.

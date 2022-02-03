@@ -68,7 +68,7 @@ tags: ['General', 'Requirements', 'Substitution', 'Procedures']
 
 ## Execution
 
-1. 3.1 Approval or Rejection
+1. Approval or Rejection
    1. Written approval or rejection of substitution given by the Engineer.
 2. Engineer reserves the right to require proposed product to comply with color and pattern of specified product if necessary to secure design intent.
 3. In the event the substitution is approved, the resulting cost and/or time reduction will be documented by Change Order in accordance with the General Conditions.

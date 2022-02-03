@@ -124,7 +124,9 @@ tags: ['Facility', 'Services', 'Plumbing', 'Sanitary', 'Sewers']
    1. Comply with applicable portions of local environmental agency regulations pertaining to sewerage.
    1. Utility Compliance
    1. Comply with local utility regulations and standards pertaining to sewerage.
-   1. products
+   
+## PRODUCTS
+
    1. pipe and fittings
    1. Provide pipe and pipe fitting materials compatible with each other. Where more than one type of product is specified, selection is Contractor's option.
    1. ABS (Acrylonitrile-Butadiene-Styrene) Sewer Pipe and Fittings

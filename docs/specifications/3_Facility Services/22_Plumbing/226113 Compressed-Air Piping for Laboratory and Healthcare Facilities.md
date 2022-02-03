@@ -33,7 +33,6 @@ tags: ['Facility', 'Services', 'Plumbing', 'Compressed-Air', 'Piping', 'Laborato
    1. American Welding Society (AWS):
       1. A5.8 - Specifications for Brazing Filler Metal
    1. American Water Works Association (AWWA):
-      1. 
    1. Cast Iron Soil Pipe Institute (CISPI):
       1. Cast Iron Soil Pipe and Fittings Handbook.
    1. Copper Development Association (CDA):
@@ -48,7 +47,8 @@ tags: ['Facility', 'Services', 'Plumbing', 'Compressed-Air', 'Piping', 'Laborato
       1. Diameter-index safety system.
    1. Low Voltage:
       1. As defined in NFPA 70 for circuits and equipment operating at less than 50 V or for remote-control, signaling power-limited circuits.
-1. Submittals*   1. See Division22 sections of the Specifications. 
+1. Submittals
+	1. See Division22 sections of the Specifications. 
    1. Submit Product Data on the following:
       1. Underground piping materials.
    1. Aboveground piping materials.
@@ -95,7 +95,9 @@ tags: ['Facility', 'Services', 'Plumbing', 'Compressed-Air', 'Piping', 'Laborato
       1. Automatic ½” one-way shut-off safety coupler. Foster, Amflo, Quincy.
    1. Pressure Regulators:
       1. Bronze body and trim; spring-loaded, diaphragm-operated, relieving type; manual pressure-setting adjustment; rated for 250 psig minimum inlet pressure; and capable of controlling delivered air pressure within 0.5 psig for each 10 psig inlet pressure. Matheson Model 18 Series or equal.
-1. EXECUTION
+
+## EXECUTION
+
 1. INSTALLATION
 	1. General:
       1. Examine rough-in requirements for plumbing fixtures and other equipment having to verify actual locations of piping connections prior to installation.

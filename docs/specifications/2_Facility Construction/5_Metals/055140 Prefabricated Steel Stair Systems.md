@@ -73,7 +73,6 @@ tags: ['Facility', 'Construction', 'Metals', 'Prefabricated', 'Steel', 'Stair', 
 	14. Design Requirements
    1. Stair systems are designed and fabricated to support a uniform live load of 100 lb/sf (4.8 kN/sq.m) and a concentrated load of 300 lbf (1.33 kN) with a deflection of stringer or landing framing not to exceed L/240 or 1/4 inch (6 mm) whichever is less.
    2. Handrail and guardrail systems are designed and fabricated to the following specifications:
-      1. 
 			3. Uniform load of 50 lbf/ft. (0.73 kN/m) applied in any direction.
 			4. Concentrated load of 200 lbf (0.89 kN) Applied in any direction.
 			5. Uniform and concentrated loads are not assumed to act concurrently.

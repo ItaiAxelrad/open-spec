@@ -27,13 +27,14 @@ Conditions and Division 01 Specification Sections, apply to this Section.
       1. For power, signal, and control wiring.
 4. CLOSEOUT SUBMITTALS
    1. Operation and Maintenance Data:
-      1. 
 For pumps and controls, to include in operation and maintenance manuals.
 5. DELIVERY, STORAGE, AND HANDLING
    1. Retain shipping flange protective covers and protective coatings during storage. 
    1. Protect bearings and couplings against damage.
    1. Comply with manufacturer's written instructions for handling.
-1. ## Product
+
+## Products
+
 1. PERFORMANCE REQUIREMENTS
    1. Electrical Components, Devices, and Accessories:
       1. Listed and labeled as defined in NFPA 70 and

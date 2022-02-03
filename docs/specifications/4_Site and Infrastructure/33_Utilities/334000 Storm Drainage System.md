@@ -23,7 +23,6 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Storm', 'Drainage', 'System']
 	3. Submittals
 4. See Specification Section 01 33 00 for requirements for the mechanics and administration of the submittal process.
 5. Shop Drawings shall include:
-      1. 
 	1. Product technical data including acknowledgement that products submitted meet requirements of standards referenced. 
 	2. Certifications.
 	3. Test report
@@ -52,8 +51,8 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Storm', 'Drainage', 'System']
 
 ## Execution
 
-1. 3.1 Installation
+1. Installation
    1. Install products in accordance with manufacturer’s instructions and comply with Section 31 20 00.
-1. 3.2 Quality Control
+1. Quality Control
    1. Verify and coordinate installation.
 

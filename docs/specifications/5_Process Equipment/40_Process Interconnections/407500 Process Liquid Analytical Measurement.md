@@ -20,7 +20,7 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Liquid', 'Analytical', 'Meas
 		2. Manufacturer’s installation instructions.
 4. Provide Operation and Maintenance Manuals.
 ## Product
-1. 2.1 Sample Taps
+1. Sample Taps
    1. Type of tap:
 	1. Sample taps shall be smooth-nosed with no interior or exterior threads.
 	2. No screen, aerator, or other attached appurtenances. 
@@ -44,7 +44,7 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Liquid', 'Analytical', 'Meas
 
 ## Execution
 
-1. 3.1 Installation
+1. Installation
    1. Install based on manufacturer’s recommended installation instructions. 
 	1. Schedules
 2. The table below shows the parameters and purposes for all sample taps:

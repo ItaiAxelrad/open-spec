@@ -22,7 +22,6 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Water', 'Utility', 'Transmission'
 
 1. SCOPE
    1. The work under this section shall consist of providing all work, materials, labor, equipment, and supervision necessary to provide water distribution system components and other work, as required in these specifications, on the drawings and as otherwise deemed necessary to complete the work. The limits of the work, including the responsible party for testing purposes, shall be clearly defined on the Drawings. Included are the following topics:
-      1. 
 ## General
 
    1. Scope
@@ -106,7 +105,6 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Water', 'Utility', 'Transmission'
    1. C153/ANSI A21.53 Standard for Ductile Iron Compact Fittings
    1. submittals
    1. Provide manufacturers product information (cut sheets) and O&M information for watermain materials including:
-      1. 
 * Pipe 
 * Fittings
 * Valves
@@ -202,7 +200,6 @@ Value
    1. Each length of straight and special HDPE pipe and each HDPE fitting shall be plainly marked on the outside to identify the design pressure or class of pipe, proper location of the pipe or fitting in the pipeline, and the date of manufacture. 
 1. copper water Service
    1. BELOW GROUND 2-1/2" AND SMALLER:
-      1. 
    1. Type K copper water tube, O (annealed) temper, ASTM B88; with cast copper pressure fittings, ANSI B16.18; wrought copper pressure fittings, ANSI B16.22; lead free (<.2%) solder, ASTM B32; flux, ASTM B813; or cast copper flared pressure fittings, ANSI B16.26.
 1. ductile iron watermain fittings
    1. Fittings shall be ductile iron cement mortar lined mechanical joint compact style fittings meeting the requirements of ANSI/AWWA C153/A21.53.
@@ -275,7 +272,6 @@ Value
    1. Hydrants shall be ductile iron, 250 psi rated working pressure. 
    1. Hydrants shall be traffic rated as specified in AWWA C502 except which is modified to permit a complete 360 degree rotation, or any increment thereof.
    1. Hydrants shall be provided with the following features:
-      1. 
 * 7’ bury (6.5’ cover over lead)
 * 6” mechanical joint inlet
 * 5 ¼” main valve opening
@@ -309,7 +305,8 @@ Value
 1. locator tape
    1. Tape shall be detectable metallic locator tape, specifically manufactured for marking utilities with a minimum width of 6 inches and detectable at a depth of 18”.
    1. Tape for potable water shall be marked “WATER” and blue colored. Tape for non-potable water shall be marked “NON-POTABLE WATER” and purple colored.
-1. chlorine*   1. Chlorine disinfectant shall be calcium hypochlorite tablets or granules. Calcium hypochlorite product shall meet requirements for AWWA C651 – Standard for Disinfecting Water Mains - latest revision.
+1. chlorine
+	1. Chlorine disinfectant shall be calcium hypochlorite tablets or granules. Calcium hypochlorite product shall meet requirements for AWWA C651 – Standard for Disinfecting Water Mains - latest revision.
    1. Arch “HTH”, or approved equal.
 1. Pipe joint lubricant
    1. Petroleum free pipe lubricant formulated for use with potable water systems. Product shall meet the requirements of ANSI/AWWA C111/A21.11 - latest revision.
@@ -322,7 +319,6 @@ Value
 
    1. Complete exploratory excavations at utility crossings as shown on the drawings and as necessary to complete the work.
    1. Maintain clearances between watermains and existing or proposed sewer lines as follows:
-      1. 
 * 8’ horizontal separation (measured center to center) between watermains and existing or proposed sanitary or storm sewers.
 * 12” vertical separation (measured from outsides of pipes) where watermains cross over sanitary or storm sewers.
 * 18” vertical separation (measured from outsides of pipes) where watermains cross under sanitary or storm sewers.
@@ -340,7 +336,6 @@ Value
    1. Note to the designer:
       1. Coordinate the bedding and cover material types with 31 23 16.13. Modify as necessary to remove unused or unspecified materials.
    1. Bedding and cover material for various types of pipe shall consist of the following:
-      1. 
 * Ductile Iron Watermain: Bedding sand or crushed stone screenings.
 * PVC Watermain: Crushed stone bedding.
 * Copper Water Services: Bedding sand or crushed stone screenings.
@@ -439,7 +434,6 @@ Value
     1. P=Average pressure during test (psig) 
    1. Allowable leakage for high density polyethylene pipe shall be zero.
    1. Record and document pressure test by recording the following information:
-      1. 
 * Date of test
 * Section tested
 * Diameter and length of main under test
@@ -453,7 +447,6 @@ Value
    1. The electric continuity test shall be performed using a multi-meter to verify electrical continuity of the watermain system. 
    1. The Contractor shall furnish all labor and equipment necessary to conduct the electric continuity test.
    1. Document electric continuity testing by recording the following information:
-      1. 
 * Date of test
 * Test methods and equipment
 * Section tested
@@ -473,7 +466,6 @@ Value
    1. Following all pressure testing and flushing, the contractor shall collect a sample from the newly installed watermain or water service(s). Samples shall be submitted to the State Laboratory of Hygiene, or other licensed testing laboratory for bacteriological (coliform bacteria) analysis.
    1. The Contractor shall be responsible for all costs associated with sample collection(s) and analysis.
    1. Document bacteriological sample collection and analysis by recording the following information:
-      1. 
 * Date of sample collection
 * Sample collection methods and equipment
 * Person collecting the sample

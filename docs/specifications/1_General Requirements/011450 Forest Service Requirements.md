@@ -27,7 +27,9 @@ tags: ['General', 'Requirements', 'Forest', 'Service']
    1. Obtain from the Forest Service, through the Contracting Officer, necessary permits and instructions which relate to use and occupancy of national forest lands and use of national forest products, except those timber sale and burning permits which are specifically mentioned below.
    1. The Contractor shall be responsible for restoration costs and damages resulting from any unauthorized operations within restricted areas.
    1. Certain areas are reserved for recreational development. These areas are marked on the ground or indicated on drawings or maps. Do not operate mechanized equipment or vehicles within these restricted areas without written authorization from the Contracting Officer.
-1. ## Product
+
+## Products
+
     1. Not Used
 1. 
 

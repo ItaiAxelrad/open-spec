@@ -24,7 +24,6 @@ tags: ['General', 'Requirements', 'Project', 'Management', 'Coordination']
    1. Attendance Required:
       1. OWNER, Construction Manager, and Contractor.
    1. Agenda:
-      1. 
 	1. Distribution of Contract Documents.
 	2. Submission of list of Subcontractors, list of Products, schedule of values, and progress schedule.
 	3. Designation of personnel representing the parties in Contract.

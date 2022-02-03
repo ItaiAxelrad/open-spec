@@ -67,12 +67,12 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Common', 'Work', 'Results']
 
 ## Execution
 
-1. 3.01 General cut in Connection information*   1. Unless otherwise indicated on the Approved Plans or specifically directed by the City Engineer, all connections to existing facilities, cut-in installations, shall be performed by Contractor. All types of connections to existing water facilities shall be performed in strict accordance with the following procedures. 
+1. 3.01 General cut in Connection information
+	1. Unless otherwise indicated on the Approved Plans or specifically directed by the City Engineer, all connections to existing facilities, cut-in installations, shall be performed by Contractor. All types of connections to existing water facilities shall be performed in strict accordance with the following procedures. 
    1. The contractor shall submit a connection plan developed for all connections (including multiple connections) to the City’s water system. The connection plan is to be prepared with the intent of minimizing service interruptions to City customers. The connection plan will be reviewed and approved by the City prior to proceeding with any work. 
 2. The Contractor shall furnish the required fittings, valves, and all other materials per the Approved Plans as called for in the Standard Specifications in accordance with the Approved Materials List. The Contractor shall provide all equipment and labor required for the excavation and installation of the connection including but not limited to thrust blocks, thrust restraints, lights, and barricades, backfill and pavement replacement. In certain circumstances the Contractor may be required to provide temporary piping (high lining) as part of the equipment for making the connections. In addition, the Contractor shall assist the City in alleviating any hardship incurred during a shutdown for connections. Emergency standby equipment or materials may be required of the Contractor by the City Engineer.
 1. 3.02 FIELD VERIFICATION OF Cut in Connection
    1. Prior to construction, Contractor shall pothole or excavate the existing pipe at the location of the proposed connection. The City Engineer shall inspect the pothole/excavation prior to Contractor’s repair of trench. Contractor shall record the following information on as-built drawings:
-      1. 
 2. Pipe size, outside diameter.
 3. Pipe Roundness
 4. Pipe type such as ACP, PVC, Ductile-Iron or Steel.

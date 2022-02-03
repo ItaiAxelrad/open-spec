@@ -52,9 +52,9 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Concrete', 'Manholes']
 
 ## Execution
 
-1. 3.1 General
+1. General
    1. Manholes shall be installed level and plumb. 
-1. 3.2 Installation
+1. Installation
    1. Bases:
 	1. Pre-cast Bases: Install pre-cast bases unless specific connection requirements dictate a cast-in-place structure or authorized by Mount Werner Water.
 	2. Cast-in-Place Bases: The use of cast-in-place bases must be authorized by the Engineer prior to installation.

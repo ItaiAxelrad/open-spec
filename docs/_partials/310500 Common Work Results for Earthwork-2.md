@@ -63,7 +63,6 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Common', 'Work', 'Results']
 
    1. MATERIALS
    1. Classification of Excavated Materials:
-      1. 
    1. None
    1. Remove and handle excavated materials regardless of type, character, composition, condition, or depth of material at no additional cost to Owner
    1. Remove and handle excavated materials regardless of means, methods and techniques required, at no additional cost to Owner
@@ -431,7 +430,6 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Common', 'Work', 'Results']
    1. Take particular care to compact backfill which will be beneath slabs, pipes, drives, roads, parking areas, curb, gutters or other surface construction
    1. Contractor’s Option:
       1. Graded gravel or flowable fill may be used to replace structural backfill material as specified herein and where shown on the Drawings:
-      1. 
    1. DRAINAGE MAINTENANCE 
    1. Do not backfill trenches across roadways, drives, walks or other trafficways adjacent to drainage ditches or water courses prior to backfilling the trench on the upstream side of the trafficway to prevent impounding water after pipe is laid 
    1. Backfill so that water does not accumulate in unfilled or partially filled trenches

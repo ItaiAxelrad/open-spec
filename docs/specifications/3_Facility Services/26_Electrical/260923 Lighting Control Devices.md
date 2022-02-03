@@ -31,7 +31,9 @@ tags: ['Facility', 'Services', 'Electrical', 'Lighting', 'Control', 'Devices']
    1. Comply with NFPA 70.
 5. COORDINATION
    1. Coordinate features of devices specified in this section with systems and components specified in other sections to form an integrated system of compatible components. Match components and interconnections for optimum performance of specified functions. Include coordination with related Division 26 sections of the Specifications.
-1. ## Product
+
+## Products
+
 1. MANUFACTURERS
    1. Acceptable Manufacturers:
       1. Subject to compliance with requirements, manufacturers offering products that may be incorporated into the Work include, but are not limited to, the following:

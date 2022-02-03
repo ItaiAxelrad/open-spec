@@ -15,7 +15,8 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Flexible', 'Paving
 02. RELATED WORK SPECIFIED ELSEWHERE
    1. Standard Drawings
 2. Standard Specifications 01000, 01045, 01200, 01310, 01330, 01505, 01510, 01570, 02140, 02222, 02223, 02511, 02528, 03000, 03480, 03482, 09902, 09910, and Division 15.
-03. SUBMITTALS*   1. Shop drawings shall be submitted in accordance with Section 01330 and the following.
+03. SUBMITTALS
+	1. Shop drawings shall be submitted in accordance with Section 01330 and the following.
 2. Submit information on material sources, designs, and quality certifications.
 1. PART 2 - MATERIALS
 1. 2.01 ASPHALT CONCRETE PAVING

@@ -20,7 +20,6 @@ tags: ['Procurement', 'Contracting', 'Requirements', 'Change', 'Order', 'Form']
                1. Engineer's Project No.:
       1. The Contract Documents are modified as follows upon execution of this Change Order:
             1. Description:
-      1. 
    1. Attachments:
       1. (List documents supporting change):
             1. CHANGE IN CONTRACT PRICE:
@@ -30,68 +29,51 @@ tags: ['Procurement', 'Contracting', 'Requirements', 'Change', 'Order', 'Form']
          1. c Working days
    1. c Calendar days
     1. Substantial completion (days or date):
-       1. 
-
+ 
 $ 
     1. Ready for final payment (days or date):
-       1. 
-
+ 
 [Increase] [Decrease] from previously approved Change Orders No.\_\_\_\_\_\_\_\_\_\_\_\_ to No.\_\_\_\_\_\_\_\_\_\_\_\_:
       1. [Increase] [Decrease] from previously approved Change Orders  
 No.\_\_\_\_\_\_\_\_\_\_\_\_ to No.\_\_\_\_\_\_\_\_\_\_\_\_:
     1. Substantial completion (days):
-       1. 
-
+ 
 $ 
     1. Ready for final payment (days):
-       1. 
-   1. Contract Price prior to this Change Order:
+    1. Contract Price prior to this Change Order:
       1. Contract Times prior to this Change Order:
     1. Substantial completion (days or date):
-       1. 
-
+ 
 $ 
     1. Ready for final payment (days or date):
-       1. 
-
+ 
 [Increase] [Decrease] of this Change Order:
       1. [Increase] [Decrease] of this Change Order:
     1. Substantial completion (days or date):
-       1. 
-
+ 
 $ 
     1. Ready for final payment (days or date):
-       1. 
-   1. Contract Price incorporating this Change Order:
+    1. Contract Price incorporating this Change Order:
       1. Contract Times with all approved Change Orders:
     1. Substantial completion (days or date):
-       1. 
-
+ 
 $ 
     1. Ready for final payment (days or date):
-       1. 
-   1. RECOMMENDED:
+    1. RECOMMENDED:
       1. ACCEPTED:
             1. ACCEPTED:
          1. By:
-            1. 
+         1. By:
    1. By:
-      1. 
-   1. By:
-      1. 
    1. Engineer (Authorized Signature)
    1. Owner (Authorized Signature)
    1. Contractor (Authorized Signature)
    1. Date:
-      1. 
    1. Date:
-      1. 
    1. Date:
-      1. 
    1. Approved by Funding Agency (if applicable):
     1. 
    1. Date:
-      1. 
 
  **Change Order
 1. Instructions

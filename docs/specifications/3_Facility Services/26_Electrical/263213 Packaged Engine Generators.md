@@ -91,7 +91,6 @@ tags: ['Facility', 'Services', 'Electrical', 'Packaged', 'Engine', 'Generators']
    1. The following gaseous exhaust emissions in grams/BHP-HR:
       1. NOx
    1. HC
-   1. CO
    1. These levels shall be reported at rated speed and load as measured by SAE J177 and J215 recommended practices.
    1. Voltage and frequency variation with the step application and removal of 25%, 50% and 75% of resistive load maximum.
    1. Published engine horsepower curves showing manufacturer's engine rating for generator set standby and prime power application.
@@ -194,7 +193,6 @@ tags: ['Facility', 'Services', 'Electrical', 'Packaged', 'Engine', 'Generators']
    1. Manufacturer Qualifications:
       1. A qualified manufacturer. Maintain, within 200 miles (321 km) of Project site, a service center capable of providing training, parts, and emergency maintenance repairs.
    1. Testing Agency Qualifications:
-      1. 
    1. An independent agency, with the experience and capability to conduct the testing indicated, that is a member company of the InterNational Electrical Testing Association or is a nationally recognized testing laboratory (NRTL), and that is acceptable to authorities having jurisdiction.
    1. Testing Agency's Field Supervisor:
       1. Person currently certified by the InterNational Electrical Testing Association or the National Institute for Certification in Engineering Technologies to supervise on-site testing specified in Part 3
@@ -257,7 +255,9 @@ tags: ['Facility', 'Services', 'Electrical', 'Packaged', 'Engine', 'Generators']
    1. Filters:
       1. One set each of lubricating oil, fuel, and combustion-air filters.
    1. ach of lubricating oil, fuel, and combustion-air filters.
-1. PRODUCTS
+
+## PRODUCTS
+
    1. MANUFACTURErS
    1. Caterpiller Company By Wagner Equipment Company
    1. Kohler Company By Industrial Power Systems
@@ -590,7 +590,9 @@ When the engine speed increases beyond normal cranking speed, the control system
    1. Include a battery box heater.
    1. ACCESSORIES 
    1. All items are contained is Specification Section 2.04 Equipment. 
-1. EXECUTION
+
+## EXECUTION
+
 1. PREPARATION 
    1. Provide concrete pad for the Generator skid to be bolted onto.
    1. Provide all conductors and conduits required for a complete installation.
@@ -647,7 +649,6 @@ When the engine speed increases beyond normal cranking speed, the control system
    1. To assure that the equipment has been designed and built to the highest reliability and quality standards, the manufacturer and local representative shall be responsible for three separate tests:
       1. design prototype tests, final production tests, and site tests.
    1. Design Prototype Tests:
-      1. 
    1. Components of the emergency system such as the engine/generator set, transfer switch, and accessories shall not be subjected to prototype tests since the tests are potentially damaging. Rather, similar design prototypes and preproduction models, which will not be sold, shall have been used for the tests. 
    1. Prototype test programs shall include the requirements of NFPA 110 and the following:
       1. Standby rating of maximum power, reference 1.5 System Description.
@@ -662,7 +663,6 @@ When the engine speed increases beyond normal cranking speed, the control system
    1. Torsional analysis testing to verify that the generator set is free of harmful torsional stresses.
    1. Endurance testing.
    1. Final Production Tests:
-      1. 
    1. The generator set shall be tested under varying loads with guards and exhaust system in place. 
    1. Tests shall include:
       1. Single-step load pickup.
@@ -672,13 +672,11 @@ When the engine speed increases beyond normal cranking speed, the control system
    1. Maximum Power.
    1. Upon request, arrangements to either witness this test will be made, or a certified test record will be sent prior to shipment.
    1. Site Tests:
-      1. 
    1. An installation check, start-up, and load test shall be performed by the manufacturer's local representative. 
    1. The Contracting Officer, regular operators, and the maintenance staff shall be notified of the time and date of the site test a minimum of two weeks in advance. 
    1. The tests shall include:
       1. Fuel, lubricating oil, and antifreeze shall be checked for conformity to the manufacturer's recommendations, under the environmental conditions present and expected.
    1. Accessories that normally function while the set is standing by shall be checked prior to cranking the engine. These shall include:
-      1. 
    1. block heaters, 
    1. battery charger, 
    1. generator strip heaters, 

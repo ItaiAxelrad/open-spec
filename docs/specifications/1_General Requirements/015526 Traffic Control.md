@@ -114,7 +114,6 @@ PART 2 – MATERIALS
    1. The portable changeable message signs, when no longer required for the work, shall become the property of the Contractor.
 1. 3.05 POLLUTION ABATEMENT - GENERAL REQUIREMENTS
    1. Comply with General Conditions Article GC 3.23 and 3.4. Conduct construction operations in a manner that will minimize pollution of the environment surrounding the area of the Work by all practicable means and methods. Apply specific controls as specified in the Contract Specifications and as follows:
-      1. 
 1. Waste Materials:
       1. No waste or eroded materials shall be allowed to enter natural or man-made water or sewage removal systems. Eroded materials from excavations, borrow areas, or stockpiled fill shall be contained within the Work area. The Contractor shall develop methods for control of erosion as specified in Article 1.08 herein. 
 2. Burning:

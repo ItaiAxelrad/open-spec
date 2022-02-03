@@ -34,7 +34,6 @@ tags: ['Facility', 'Services', 'Plumbing', 'Gas', 'Piping', 'Laboratory', 'Healt
    1. American Welding Society (AWS):
       1. A5.8 - Specifications for Brazing Filler Metal
    1. American Water Works Association (AWWA):
-      1. 
    1. Copper Development Association (CDA):
       1. Copper Tube Handbook.
    1. Manufacturers Standardization Society of the Valve and Fittings Industry, Inc. (MSS):
@@ -48,7 +47,8 @@ tags: ['Facility', 'Services', 'Plumbing', 'Gas', 'Piping', 'Laboratory', 'Healt
       1. As defined in NFPA 70 for circuits and equipment operating at less than 50 V or for remote-control, signaling power-limited circuits.
    1. Specialty Gas:
       1. Gas, other than medical gas, for nonmedical laboratory facility applications.
-1. Submittals*   1. Refer to related Division 22 sections of the Specifications. 
+1. Submittals
+	1. Refer to related Division 22 sections of the Specifications. 
    1. Submit Product Data on the following:
       1. Underground piping materials.
    1. Aboveground piping materials.
@@ -57,7 +57,8 @@ tags: ['Facility', 'Services', 'Plumbing', 'Gas', 'Piping', 'Laboratory', 'Healt
 
 ## General
 
-1. Piping Materials - Aboveground*   1. High purity Gas Installations:
+1. Piping Materials - Aboveground
+	1. High purity Gas Installations:
       1. Copper Piping Specifications
    1. Applicability:
       1. This section defines the requirements for the fabrication, installation, and testing of high purity gas distribution systems using copper tubing. This includes such high purity gases as:
@@ -95,7 +96,6 @@ tags: ['Facility', 'Services', 'Plumbing', 'Gas', 'Piping', 'Laboratory', 'Healt
    1. Bending:
       1. Tube bends shall have a radius of not less than 10 times the nominal pipe diameter measured to the tube centerline. Tube bends shall be free of flat spots and corrugations. Sharp corners, when necessary, must be fabricated by brazing elbows into the line.
    1. Sectioning/Preassembly:
-      1. 
    1. If high purity piping jobs are to be preassembled ahead of the certified solder/brazer, no more than 1 day’s work will be preassembled, and all high purity piping will be maintained under purge as at all times. Under NO circumstances will preassembled pipe and fittings be allowed to be carried into the next day’s effort.
    1. If any job is not completed at the end of the normal work day, all open pipe or valve ends will be capped with suitable caps, capable of maintaining a 2 to 5 lbs positive pressure, or left with a continuous UHP purge until job is completed. Upon completion of a job, the entire line will be left with a positive pressure of 5 to 10 lbs on line.
    1. Tube and Component Handling:
@@ -280,13 +280,15 @@ tags: ['Facility', 'Services', 'Plumbing', 'Gas', 'Piping', 'Laboratory', 'Healt
 5. All work shall be done in strict accordance with manufacturer's requirements for handling, installing and testing. The manufacturer's requirements shall take precedence over all other specifications.
 6. Perform pneumatic pressure tests using dry nitrogen gas. Hold pressure for a minimum of 4 hours without pressure drop on test gauge.
 7. Provide 1 manday (8 hours) manufacturer's installation and startup assistance at the work site to make final checkout, conduct acceptance test, and certify that all vacuum-insulated pipe and accessories are properly installed, operable and ready for use.
-1. EXECUTION
-1. Underground Piping Installation*   1. Trench Excavation:
+
+## EXECUTION
+
+1. Underground Piping Installation
+	1. Trench Excavation:
       1. Excavate trenches so that piping may be laid correctly on line and grade. Remove any large rocks or other debris encountered in the excavation and dispose of appropriately. 
    1. Excavate to a sufficient depth and width to provide adequate room for construction and installation of the work except that the width of the trench from the pipe invert to a point 12 inches above the top of the pipe shall not be greater than 30 inches. 
    1. Where it is impossible to maintain proper line and grade, excavate below grade and replace the bedding with compacted sand. 
    1. Sheeting, Bracing, and Shoring:
-      1. 
    1. Provide and maintain sheeting, bracing and shoring required to provide substantial support for the sides of excavations and trenches to prevent movement of the soil or edges of the trench, to protect the construction work and insure the safety of the workmen. 
    1. As the trench is backfilled, remove supports in such a manner as to prevent the caving in of the sides of the trench or damage to the pipe or structures. 
    1. Underpinning:
@@ -294,7 +296,6 @@ tags: ['Facility', 'Services', 'Plumbing', 'Gas', 'Piping', 'Laboratory', 'Healt
    1. Removal of Water:
       1. Keep excavations as dry as possible until backfill has been completed above the pipe. In ground containing excessive amount of water, provide and maintain such pumps and associated pipes and connections as are necessary to remove the water from the trench and assure safe, proper construction of the piping system. 
    1. Bedding:
-      1. 
    1. Provide Class "B" bedding for piping inside the building, consisting of a layer of granular material with a minimum thickness of 4 inches and a maximum thickness of 6 inches below the bottom of the pipe barrel. Extend the bedding to a minimum depth of 12 inches over the top of the pipe. 
    1. Place sand-gravel cover in 6-inch layers, mechanically compacted to 95 percent of maximum density as determined by ASTM D1557. 
    1. Firmly support a given segment of the bottom of the pipe. The segment, as a minimum, shall be equal to five-tenths of the outside diameter of the barrel, and shall be uniformly supported by direct contact with firm bedding. Excavate bell holes at proper intervals so that no part of the load on the pipe is supported by the bells. 
@@ -305,14 +306,12 @@ tags: ['Facility', 'Services', 'Plumbing', 'Gas', 'Piping', 'Laboratory', 'Healt
    1. Lay pipe lines straight and in true alignment with the grade and location established. 
    1. Install cast iron storm, sub-surface drain collector and sanitary drainage systems in accordance with manufacturer's recommendations.
    1. Backfilling:
-      1. 
    1. Place and compact backfill so that subsequent harmful settlement will not occur and the installation of concrete floor slabs may proceed after completion. Begin backfilling as required at the bedding of the pipe and continue vertically to the surface. 
    1. Do not commence backfilling prior to inspection of the pipe. After inspection, place the sand required above the pipe and proceed with the backfilling operation. 
    1. Provide sand backfill mechanically compacted in 6-inch lifts to 95 percent of maximum density as determined by ASTM D1557, for all piping inside the building. 
    1. Pipes Through Grade Beams:
       1. Provide pipes and tubing passing through or under building grade beams with a schedule 40 pipe sleeve with 4-inch clearance to prevent possible damage from building settlement. 
 1. Aboveground Piping Installation*	1. General:
-      1. 
    1. Install pipe and pipe fittings in accordance with recognized industry practices to achieve permanently leakproof systems, capable of performing the indicated service without failure.
    1. Install each piping run with a minimum number of joints and couplings but with adequate and accessible unions/flanges for disassembly and maintenance/replacement of valves and equipment.
    1. Install piping with sufficient clearance from other piping, building structure and other systems to allow for the piping insulation to be properly applied.
@@ -327,7 +326,8 @@ tags: ['Facility', 'Services', 'Plumbing', 'Gas', 'Piping', 'Laboratory', 'Healt
    1. Cutting, burning, or welding of structural steel is not permitted, unless indicated otherwise. 
    1. Personnel Protection From Suspended Work:
       1. Refer to related Division 22 sections of the Specifications.
-1. Pipe Jointing*   1. Stainless Steel Tubing:
+1. Pipe Jointing
+	1. Stainless Steel Tubing:
       1. Install piping to be completely drainable, pitching 1 inch in 50 feet to drain points and installing only eccentric type reducers.
    1. For tubing sizes up through NPS 1, instead of fittings, tubing may be bent, using a tubing bender in accordance with ANSI B11.15 and ASME B31.1.
    1. Install diaphragm valves and automatic flow controls oriented to permit drainage per manufacturer's instructions. 

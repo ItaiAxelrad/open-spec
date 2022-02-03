@@ -28,7 +28,8 @@ tags: ['Facility', 'Services', 'Plumbing', 'Meters', 'Gauges', 'Piping']
       1. B40.1 Gauges - Pressure, Indicating Dial Type - Elastic Element
    1. Instrument Society of America (ISA)
    1. Underwriters Laboratories (UL)
-1. Submittals*   1. See Division 22 section “Common Work Results for Plumbing.” 
+1. Submittals
+	1. See Division 22 section “Common Work Results for Plumbing.” 
    1. Product data for each type of meter and gauge. Include scale range, ratings, and calibrated performance curves, certified where indicated. Submit meter and gauge schedule showing manufacturer's figure number, scale range, location, and accessories for each meter and gauge.
    1. Maintenance data for each type of meter and gauge, for inclusion in Operating and Maintenance Manuals specified in Division 1 sections of the Specifications.
 1. QUALITY ASSURANCE
@@ -117,7 +118,9 @@ tags: ['Facility', 'Services', 'Plumbing', 'Meters', 'Gauges', 'Piping']
       1. Single Turbine Insertion Flow Element. Turbine type, designed for installation in piping. Paddle wheel type sensors are not acceptable.
    1. Construction:
       1. The turbine element shall be constructed of polypropylene or polysulfone with sapphire jewel bearings and tungsten carbide shafts. The flow sensor shall be constructed of 316 stainless steel with an aluminum electronics enclosure and a gasketed cover. Flow sensor shall have a 50:1 turndown ratio. Accuracy shall be ±2% of actual flow reading from 0.4 feet per second to 20.0 feet per second. The sensor shall have an output signal that can be directly connected to the Owner Delta® DDC system without intermediate electronic devices. The flow sensor shall not use magnetic or photoelectric means to detect flow.
-1. EXECUTION
+
+## EXECUTION
+
 1. ERECTION INSTALLATION APPLICATION
    1. Installation of Thermometers:
       1. Install thermometers in vertical and tilted positions to allow reading by observer standing on floor.

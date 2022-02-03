@@ -77,7 +77,8 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Piping', 'Insulation']
 1. MATERIALS
    1. Materials or accessories containing asbestos will not be accepted.
    1. Use composite insulation systems (insulation, jackets, sealants, mastics, and adhesives) that have a flame spread rating of 25 or less and smoke developed rating of 150 or less.
-1. INSULATION*   1. Manufacturers:
+1. INSULATION
+	1. Manufacturers:
       1. Armacell, Certainteed, Manson, Childers, Dow, Extol, Fibrex, Halstead, H.B. Fuller, Imcoa, Johns Manville, Knauf, Owens-Corning, Partek, Pittsburgh Corning, Rubatex or approved equal.
    1. Insulating materials shall be fire retardant, moisture and mildew resistant, and vermin proof. Insulation shall be suitable to receive jackets, adhesives and coatings as indicated.
    1. FLEXIBLE FIBERGLASS INSULATION:
@@ -96,7 +97,6 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Piping', 'Insulation']
       1. Rigid hydrous calcium silicate, ASTM C533, Type I, minimum dry density of 12.5 lbs. per cu. ft., thermal conductivity of not more than 0.44 at 300 degrees F, maximum water absorption of 90% by volume, minimum compressive strength 140 psi at 5% deformation, rated for service range of 0 degrees F to 1,200 degrees F,. Material to be visually coded or marked to indicate it is asbestos free.
 1. *If temperatures higher than 1200 degrees F. will be encountered, specify Type II insulation, which is rated to 1800 degrees F.*
    1. ELASTOMERIC INSULATION:
-      1. 
    1. Flexible closed cell, minimum nominal density of 5.5 lbs. per cu. ft., thermal conductivity of not more than 0.27 at 75 degrees F, minimum compressive strength of 4.5 psi at 25% deformation, maximum water vapor permeability of 0.17 perm inch, maximum water absorption of 6% by weight, rated for service range of -20 degrees F to 220 degrees F on piping and 180 degrees F where adhered to equipment.
    1. POLYOLEFIN INSULATION:
       1. Flexible closed cell, minimum nominal density of 1.5 lbs. per cu. ft., thermal conductivity of not more than 0.24 at 75 degrees F, minimum compressive strength of 5 psi at 25% deformation, maximum water vapor permeability of 0.0 perm inch, maximum water absorption of 0% by weight and volume, rated for service range of -165 degrees F to 210 degrees F.
@@ -148,7 +148,8 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Piping', 'Insulation']
       1. Where practical, slip insulation on piping during pipe installation when pipe ends are open. Miter cut fittings allowing sufficient length to prevent stretching. Completely seal seams and joints for vapor tight installation. For elastomeric insulation, apply full bed of adhesive to both surfaces. For polyeolefin, seal factory preglued seams with roller and field seams and joints with full bed of hot melt polyolefin glue to both surfaces. Cover elastomeric insulation on systems operating below 40 degrees F with vapor barrier mastic.
    1. EXTRUDED POLYSTYRENE AND POLYISOCYANURATE:
       1. Secure insulation sections with two wraps of nylon filament tape 9”-12” on center. On single insulation layer systems and on the outer layer of double insulation layer systems, apply a thin coat of elastomeric joint sealant rated for system operating temperatures to all longitudinal and butt insulation joints covering entire face of joint. Allow sealant to fully cure before applying protective covering. Fill voids in factory molded or built-up valve and fitting insulation with foamed in place urethane insulation. Apply vapor stop bead of joint sealant between pipe and insulation on both sides of valves, expansion/contraction joints, flanges, and attached vent and drain lines. 
-1. *Protective jackets are required for exterior installations and where insulation is subject to physical abuse.**   1. Protective Jackets:
+1. *Protective jackets are required for exterior installations and where insulation is subject to physical abuse.*
+	1. Protective Jackets:
       1. See associated underground utility piping specification. *Reference section.*
 1. Make sure that the utility piping specification, e.g., chilled water, steam/condensate or hot water, adequately covers this underground piping insulation/and piping covering and corrosion protection requirements .
    1. Pipe Insulation Schedule:

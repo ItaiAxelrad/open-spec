@@ -8,7 +8,8 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Asphalt', 'Paving'
 ---
 
 
-1. HOT-MIX ASPHALT (HMA)*1. 
+1. HOT-MIX ASPHALT (HMA)
+	1. 
 ## General
 
 1. REFERENCES
@@ -127,7 +128,9 @@ Table 1. Surface Temperature Limitations of Underlying Course
    1. Mat Thickness, inches Degrees F
    1. 3 or greater 40
    1. Less than 3 45
-1. ## Product
+
+## Products
+
 1. AGGREGATES
    1. Aggregates shall consist of crushed stone, crushed gravel, crushed slag, screenings, natural sand and mineral filler, as required. The portion of material retained on the No. 4 sieve is coarse aggregate. The portion of material passing the No. 4 sieve and retained on the No. 200 sieve is fine aggregate. The portion passing the No. 200 sieve is defined as mineral filler. All aggregate test results and samples shall be submitted to the Owner at least 14 days prior to start of construction.
    1. Coarse Aggregate

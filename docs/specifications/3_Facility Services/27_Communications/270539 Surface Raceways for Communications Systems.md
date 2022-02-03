@@ -9,7 +9,8 @@ tags: ['Facility', 'Services', 'Communications', 'Surface', 'Raceways', 'Systems
 
 ## General
 
-1. RELATED documents*   1. Drawings and general provisions of the Contract, including General and Supplementary Conditions and Division 1 Specification Sections, apply to this section.
+1. RELATED documents
+	1. Drawings and general provisions of the Contract, including General and Supplementary Conditions and Division 1 Specification Sections, apply to this section.
 2. summary
    1. This Section includes telecommunication service raceways and telecommunication raceway systems. Requirements specified in this Section may be supplemented by special requirements of systems described in other Sections.
 3. REFERENCES
@@ -28,14 +29,16 @@ tags: ['Facility', 'Services', 'Communications', 'Surface', 'Raceways', 'Systems
 6. PROJECT CONDITIONS
    1. Environmental Limitations:
       1. Do not install raceways until spaces are enclosed and weather tight and wet work in spaces is complete and dry.
-1. ## Product
-1. 2.1 MATERIALS
+
+## Products
+
+1. MATERIALS
    1. Provide raceways and conduits in compliance with Division 26 sections of the Specifications, the referenced standards, and the manufacturer’s recommendations. 
    1. Minimum conduit size shall be 1 inch. Increase conduit size as required to accommodate the number of devices indicated. Flexible conduit shall not be used without written permission.
    1. Back boards shall be 3/4" thick, waterproof, fire rated plywood suitable for mounting telephone equipment terminals, cable supports, etc., for telecommunication system facilities. 
-1. 2.2 GROUNDING
+1. GROUNDING
    1. Comply with requirements in related Division 26 sections of the Specifications for grounding bus(es) and grounding conductors and connectors.
-1. 2.3 CABLE SUPPORTS
+1. CABLE SUPPORTS
    1. All cable support systems shall be Cat 6 and plenum rated. 
    1. Cable support brackets shall be designed to prevent degradation of cable performance and pinch points that could damage the cable.
    1. Support brackets with cable tie slots for fastening cable ties to brackets.
@@ -45,12 +48,12 @@ tags: ['Facility', 'Services', 'Communications', 'Surface', 'Raceways', 'Systems
 
 ## Execution
 
-1. 3.1 EXAMINATION
+1. EXAMINATION
    1. Examine all drawings and construction documentation for compliance with requirements and other conditions affecting the performance of the system work.
    1. Prior to the installation of wiring (by others), inspect the conduit system for conformance of the system with space allocations, installation tolerances, hazards to cable installation, other conditions affecting installation, and the requirements of the Drawings and Specifications. Replace deficient or damaged items with new and reinspect until satisfactory conditions are achieved. Correction of deficiencies shall be made at the Contractor’s expense.
    1. Prior to ordering equipment, verify the equipment is compatible with the structural and architectural features of the work, avoids conflicts with equipment of other crafts, and will fit in the space provided.
    1. Coordinate conduit and cable routing with all other trades and their installations prior to beginning any work.
-1. 3.2 INSTALLATION
+1. INSTALLATION
    1. Install system in accordance with applicable codes and standards and manufacturer’s recommendations. Refer to related Division 26 sections of the Specifications for additional installation requirements.
    1. Coordinate all telecommunication facility installations with the Contracting Officer and the requirements of the Owner’s telecommunication system installer. Record agreements reached in the meeting and distribute the record to all participants. Provide materials and labor required to meet all specified requirements prior to any installations.
    1. Contact the telecommunications service provider and arrange for installation of demarcation point, protected entrance terminals, a housing, when so directed by the service provider, and coordinate all telecommunication provisions with the service provider prior to any installation. Adjust to meet specific requirements of service provider. Record service provider requirements and distribute the record to the Contracting Officer. Provide materials and labor as required to meet all of the specified requirements prior to any installations.

@@ -43,7 +43,7 @@ tags: ['Facility', 'Services', 'Plumbing', 'Fixtures']
 	3. Product technical data including acknowledgement that products meet the aforementioned references, manufacturer’s installation instructions, and chemical resistance data.
 6. Provide Operation and Maintenance Manuals.
 ## Product
-1. 2.1 Manufactured Units
+1. Manufactured Units
    1. Refer to plans for plumbing fixtures and equipment. 
 
 

@@ -81,12 +81,13 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. See Division 23 of the Specifications.
    1. All parts and labor for 12 months not exceeding 18 months from date of shipment.
 1. When warranties are required, verify with Owner's counsel that special warranties stated in this article are not less than remedies available to Owner under prevailing local laws.
-1. PRODUCTS
+
+## PRODUCTS
+
 1. MANUFACTURERS
    1. See Editing Instruction No. 1 in the Evaluations for cautions about naming manufacturers. Retain one of two paragraphs and list of manufacturers in this article. See Division 01 Section "Product Requirements."
    1. Manufacturers:
       1. Subject to compliance with requirements, provide products by one of the following:
-      1. 
    1. Retain option in paragraph below if manufacturer's name and model number are indicated in schedules or plans on Drawings; delete option and insert manufacturer's name and model number if not included on Drawings.
    1. Basis-of-Design Product:
       1. Subject to compliance with requirements, provide a comparable product by one of the following:
@@ -155,7 +156,6 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Pump-Out System:
       1. For medium pressure machines, provide a single pump-out system to serve all the machines, complete with transfer pump, condensing unit, and tank, constructed in accordance with ASME Boiler and Pressure Vessel Code and bearing the ASME stamp. Pump-out systems:
       1. supplied and warranted by the centrifugal machine manufacturer, complying with the following:
-      1. 
    1. Pump-out tank with ASME stamp capable of holding refrigerant charge when 90 percent full at 90 degrees F. 
    1. Separate charging connections for both liquid and gaseous refrigerant. 
    1. Provide all piping, piping between pump-out and chiller, including electrical equipment, and wiring required.
@@ -255,7 +255,9 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Factory insulate all cold surfaces with 3/4-inch-thick elastomeric sheet insulation.
    1. Manufacturers:
       1. Trane, York Int. Corp., or McQuay.
-1. EXECUTION
+
+## EXECUTION
+
 1. EXAMINATION
    1. Examine areas to receive chillers for compliance with requirements for installation tolerances and other conditions affecting chiller performance. Proceed with installation only after unsatisfactory conditions have been corrected.
    1. Final chiller locations indicated on Drawings are approximate. Determine exact locations before roughing-in piping and electrical connections.

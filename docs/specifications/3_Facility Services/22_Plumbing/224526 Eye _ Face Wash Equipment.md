@@ -29,7 +29,7 @@ tags: ['Facility', 'Services', 'Plumbing', 'Eye', 'Face', 'Wash', 'Equipment']
 	1. Product data shall include flow rates and capacities, furnished specialties, and accessories.
 8. Provide Operation and Maintenance Manuals. 
 ## Product
-1. 2.1 Eye/ Face Wash
+1. Eye/ Face Wash
    1. Standard, wall mounted, plumbed, eyewash unit. 
 	1. Capacity: Not less than 3.0 gpm for at least 15 minutes. 
 	2. Supply piping: NPT 3/8” male swivel-type inlet
@@ -44,17 +44,17 @@ tags: ['Facility', 'Services', 'Plumbing', 'Eye', 'Face', 'Wash', 'Equipment']
 	1. Water Saver.
 	2. Guardian
 	3. Or approved equivalent.
-1. 2.2 Quality Control
+1. Quality Control
    1. Certify performance of emergency plumbing fixture by independent testing organization acceptable to authorities having jurisdiction. 
 2. Adjust or replace fixture flow regulators for proper flow. 
 
 
 ## Execution
 
-1. 3.1 Preparation
+1. Preparation
    1. Examine roughing-in for plumbing piping systems to verify actual locations of piping connections prior to installation of emergency equipment. Proceed with installation only after unsatisfactory conditions have been corrected.
 2. Coordinate location of emergency equipment with General Contractor to allow identification of required clear floor space area for emergency shower access.
-1. 3.2 Installation
+1. Installation
    1. Installation shall meet or exceed all applicable federal, state and local requirements, referenced standards and conform to codes and ordinances of authorities having jurisdiction. 
 2. All installation shall be in accordance with manufacturer’s published recommendations.
 3. Locate emergency equipment on a level surface area for user.

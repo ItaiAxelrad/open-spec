@@ -107,16 +107,13 @@ Section " Vibration and Seismic Controls." Include the following:
 11. RACO; Division of Hubbell, Inc.
 12. Spiralduct, Inc./AFC Cable Systems, Inc.
 13. Thomas & Betts Corporation.
-   1. B.
    1. RNC:
       1. NEMA TC 2, Schedule 40 and Schedule 80 PVC.
-   1. C.
    1. LFNC:
       1. UL 1660.
 04.
    1. ME
    1. TAL WIREWAYS
-   1. A.
    1. Manufacturers:
          1. Hoffman.
 2. Square D.

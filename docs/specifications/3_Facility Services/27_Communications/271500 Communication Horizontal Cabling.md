@@ -84,7 +84,9 @@ tags: ['Facility', 'Services', 'Communications', 'Communication', 'Horizontal', 
       1. The Final Inspection shall be held at the project site, or as determined by the Project Officer.
    1. The Contractor shall notify the Project Officer in writing at least 5 working days before the completion date so the Government can schedule final inspection.
    1. The Contractor shall require the superintendent to be present during this inspection.
-1. PRODUCTS
+
+## PRODUCTS
+
    1. SYSTEM REQUIREMENTS
 	1. General:
       1. Coordinate the features of materials and equipment so they form an integrated system. Match components and interconnections for optimum future performance.
@@ -161,7 +163,6 @@ tags: ['Facility', 'Services', 'Communications', 'Communication', 'Horizontal', 
    1. Mounting:
       1. Backboard or rack as indicated.
    1. Patch Cords:
-      1. 
    1. Dual fiber cables in 36-inch (900-mm) lengths.
    1. Terminations:
       1. 2 duplex connectors arranged to mate with patch panel connectors, 1 at each end of each fiber in cord.
@@ -181,7 +182,9 @@ tags: ['Facility', 'Services', 'Communications', 'Communication', 'Horizontal', 
       1. 3/4-inch (19-mm) interior grade, fire-resistant-treated plywood.
    1. Equipment Racks:
       1. PFT 19" and 23" inch Cable Management Racks with 12/24 tapped holes (or equivalent). Freestanding modular steel units designed for telecommunications terminal support and coordinated with dimensions of the units to be supported.
-1. EXECUTION
+
+## EXECUTION
+
 
 ## General
 
@@ -238,7 +241,6 @@ tags: ['Facility', 'Services', 'Communications', 'Communication', 'Horizontal', 
       1. 4"x4"x36" for 1" through 2-1/2" conduit runs.
    1. 6"x6"x36" for 3" and larger conduit runs.
    1. Outlets:
-      1. 
    1. Install up nominal 18 inches above finished floor in all general locations; install up 46 inches when marked as wall phone; install up 4 inches to center-line above counter tops or backsplashes (whichever is higher), built in or permanent desk tops where marked above counter, or baseboard heating units. 
    1. Refer to architectural drawings for locations. 
    1. Outlets shall consist of a 4" square box, single gang ring, blank wall plate, and 1” conduit stubbed out and bushed above accessible ceiling or as indicated on drawings.

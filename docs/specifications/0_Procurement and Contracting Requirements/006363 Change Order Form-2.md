@@ -8,7 +8,8 @@ tags: ['Procurement', 'Contracting', 'Requirements', 'Change', 'Order', 'Form']
 ---
 
 1. Engineers Joint Documents Committee
-1. Design and Construction Related Documents*1. Instructions and License Agreement
+1. Design and Construction Related Documents
+	1. Instructions and License Agreement
 1. Instructions
 1. Before you use any EJCDC document:
       1. Read the License Agreement. You agree to it and are bound by its terms when you use the EJCDC document.
@@ -84,68 +85,51 @@ tags: ['Procurement', 'Contracting', 'Requirements', 'Change', 'Order', 'Form']
     1. Working days
     1. Calendar days
     1. Substantial completion (days or date):
-       1. 
-
+ 
 $ 
     1. Ready for final payment (days or date):
-       1. 
-
+ 
 [Increase] [Decrease] from previously approved Change Orders No. to No. :
       1. [Increase] [Decrease] from previously approved Change Orders  
 No. to No. :
     1. Substantial completion (days):
-       1. 
-
+ 
 $ 
     1. Ready for final payment (days):
-       1. 
-   1. Contract Price prior to this Change Order:
+    1. Contract Price prior to this Change Order:
       1. Contract Times prior to this Change Order:
     1. Substantial completion (days or date):
-       1. 
-
+ 
 $ 
     1. Ready for final payment (days or date):
-       1. 
-
+ 
 [Increase] [Decrease] of this Change Order:
       1. [Increase] [Decrease] of this Change Order:
     1. Substantial completion (days or date):
-       1. 
-
+ 
 $ 
     1. Ready for final payment (days or date):
-       1. 
-   1. Contract Price incorporating this Change Order:
+    1. Contract Price incorporating this Change Order:
       1. Contract Times with all approved Change Orders:
     1. Substantial completion (days or date):
-       1. 
-
+ 
 $ 
     1. Ready for final payment (days or date):
-       1. 
-   1. RECOMMENDED:
+    1. RECOMMENDED:
       1. ACCEPTED:
             1. ACCEPTED:
          1. By:
-            1. 
+         1. By:
    1. By:
-      1. 
-   1. By:
-      1. 
     1. Engineer (Authorized Signature)
     1. Owner (Authorized Signature)
     1. Contractor (Authorized Signature)
    1. Date:
-      1. 
    1. Date:
-      1. 
    1. Date:
-      1. 
    1. Approved by Funding Agency (if applicable):
       1. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
    1. Date:
-      1. 
    1. Change Order
    1. Instructions
 

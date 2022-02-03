@@ -111,13 +111,10 @@ tags: ['Procurement', 'Contracting', 'Requirements', 'Supplementary', 'Condition
 1. Owner will furnish the required certificates of tax exemption to Contractor for use in the purchase of supplies and materials to be incorporated into the Work.
 2. Owner’s exemption does not apply to construction tools, machinery, equipment, or other property purchased by or leased by Contractor, or to supplies or materials not incorporated into the Work.
    1. SC-9.03.A. Add the following language at the end of paragraph 9.03.A:
-      1. 
    1. The Engineer will provide Resident Project Representative services for this project. The Duties, Responsibilities, and Limitations of Authority of the Resident Project Representative will be as stated in Exhibit D of the Agreement Between Owner and Engineer, E-510, 2002 Edition, as amended and executed for this specific Project.
    1. SC-14.02.A.3 Add the following language at the end of paragraph 14.02.A.3:
-      1. 
    1. No payments will be made that would deplete the retainage, place in escrow any funds that are required for retainage, or invest the retainage for the benefit of the Contractor.
    1. SC-14.02.C.1. Delete Paragraph 14.02.C.1 in its entirety and insert the following in its place:
-      1. 
 1. The Application for Payment with Engineer’s recommendations will be presented to the Owner and Agency for consideration. If both the Owner and Agency find the Application for Payment acceptable, the recommended amount less any reduction under the provisions of Paragraph 14.02.D will become due ten days after the Application for Payment is presented to the Owner, and the Owner will make payment to the Contractor.
    1. SC-18.08 Delete paragraph 18.08.A in its entirety and insert the following in its place:
       1. If this Contract exceeds $100,000, the Contractor shall comply with all applicable standards, orders, or requirements issued under Section 306 of the Clean Air Act (42 USC §1857(h)), Section 508 of the Clean Water Act (33 USC §1368), Executive Order 11738, and Environmental Protection Agency regulations (40 CFR Part 15).

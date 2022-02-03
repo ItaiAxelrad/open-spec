@@ -66,7 +66,9 @@ tags: ['General', 'Requirements', 'Closeout', 'Procedures']
    1. Upon completion of work, each subcontractor shall submit to CONTRACTOR any and all certificates obtained from any governing bodies having jurisdiction certifying that the Work is in strict accordance with applicable codes. CONTRACTOR will forward all certificates to OWNER in closeout submittals.
 4. WARRANTIES AND BONDS
    1. Submit, with final payment request, all warranty certificates, lien releases, and consent of security forms.
-1. ## Product C NOT USED
+
+## Products
+ C NOT USED
 1. 
 
 ## Execution

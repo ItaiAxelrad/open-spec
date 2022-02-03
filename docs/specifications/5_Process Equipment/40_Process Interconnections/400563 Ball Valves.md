@@ -37,7 +37,7 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Ball', 'Valves']
 8. See Specification Section 40 05 51 for additional submittal requirements.
 9. Operation and Maintenance Manuals.
 ## Product
-1. 2.1 Metallic Ball Valves ¼ to 3 IN. Diameter
+1. Metallic Ball Valves ¼ to 3 IN. Diameter
    1. Comply with MSS SP-110.
 2. Acceptable Manufacturers:
 	1. Apollo.
@@ -54,7 +54,7 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Ball', 'Valves']
 	3. Stem with blowout-proof design.
 	4. Balancing stop for all applications.
 	5. Bodies with mounting pad for applications requiring actuators.
-1. 2.3 Plastic Ball Valves:
+1. Plastic Ball Valves:
       1. ½ to 4 IN. Diameter
    1. Acceptable Manufacturers:
 	1. Chemtrol/NIBCO.
@@ -76,6 +76,6 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Ball', 'Valves']
 
 ## Execution
 
-1. 3.1 Installation
+1. Installation
    1. Install Ball Valves based on manufacturer’s installation instructions.
 

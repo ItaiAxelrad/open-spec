@@ -122,15 +122,12 @@ tags: ['Facility', 'Construction', 'Wood', 'Plastics', 'Composites', 'Interior',
    1. Drawers
    1. For each drawer:
       1. 1 set ¾ extension drawer slides, ball bearing, side mount, lever disconnect:
-         1. 
-   1. for drawers up to 24 inches wide (75-pound class) - Knape & Vogt No. 1300, or Grant No. 338.
+      1. for drawers up to 24 inches wide (75-pound class) - Knape & Vogt No. 1300, or Grant No. 338.
    1. for drawers over 24 inches wide (100-pound class) - Knape & Vogt No. 1305, Grant No. 335, or Accuride 201.
    1. 1 set full extension drawer slides, ball bearing, side mount, lever disconnect:
-      1. 
    1. for drawers up to 24 inches wide (75-pound class) - Accuride 2601.
    1. for drawers over 24 inches wide (100-pound class) - Knape & Vogt No. 1429, Grant No. 5632 or Accuride 3832.
    1. 1 set over travel drawer slides, ball bearing, side mount, lever disconnect:
-      1. 
    1. where indicated, 150-pound class - Accuride 3307.
    1. 1 pull - Colonial No. 753, Stanley No. 4484 or Baldwin No. 4676, US26D. 
    1. For each drawer to be locked:

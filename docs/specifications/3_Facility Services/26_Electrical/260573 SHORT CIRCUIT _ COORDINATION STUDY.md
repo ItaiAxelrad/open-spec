@@ -54,21 +54,15 @@ Software algorithms shall comply with requirements of standards and guides speci
 ## Execution
 
 01. EXAMINATION
-   1. A.
    1. Examine Project overcurrent protective device submittals for compliance with electrical distribution system coordination requirements and other conditions affecting performance. Devices to be coordinated are indicated on Drawings.
-   1. B.
    1. Proceed with coordination study only after relevant equipment submittals have been assembled. Overcurrent protective devices not submitted for approval with coordination study may not be used in study.
 02.
    1. FA
    1. ULT-CURRENT STUDY
-   1. A.
    1. Source Impedance:
       1. Utility company's fault-current contribution as indicated.
-   1. B.
    1. Study electrical distribution system from normal and alternate power sources throughout electrical distribution system for Project and use approved computer software program to calculate values. Include studies of system-switching configurations and alternate operations that could result in maximum fault conditions.
-   1. C.
    1. Calculate momentary and interrupting duties on the basis of maximum available fault current.
-   1. D.
    1. Calculate the maximum available short-circuit current in amperes rms symmetrical at circuit breaker positions of the electrical power distribution system. The calculation shall be for a current immediately after initiation and for a three-phase bolted short circuit at each of the following:
          1. Switchgear and switchboard bus
 2. Motor control center

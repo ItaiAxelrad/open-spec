@@ -7,10 +7,6 @@ subgroup: Facility Services
 tags: ['Facility', 'Services', 'Plumbing', 'Piping']
 ---
 
-   1. Section 22 01 00
-   1. Pipe and pipe fittings:
-      1. Basic requirements
-
 ## General
 
 1. SUMMARY
@@ -20,7 +16,6 @@ tags: ['Facility', 'Services', 'Plumbing', 'Piping']
 	2. Section 40 05 51, Valves: Basic Requirements
 	3. Quality Assurance
 3. Work shall be per:
-      1. 
 	1. American Society of Mechanical Engineers (ASME).
 	2. ASTM International (ASTM).
 	3. American National Standards Institute (ANSI/ASTM).
@@ -39,8 +34,9 @@ tags: ['Facility', 'Services', 'Plumbing', 'Piping']
 	2. Provide welder’s certificates.
 6. Provide Operation and Maintenance Manuals.
 7. Provide qualifications for the lab performing disinfection analysis on water systems as well as test reports including pressure test results on all piping systems, results of dielectric testing and corrective action taken, disinfection test report and time and date for aforementioned testing. 
-## Product
-1. 2.1 Acceptable Manufacturers
+## Products
+
+1. Acceptable Manufacturers
    1. Subject to compliance with the Contract Documents, the following manufacturers are acceptable:
 	1. Couplings:
 		1. Dresser
@@ -53,12 +49,12 @@ tags: ['Facility', 'Services', 'Plumbing', 'Piping']
 		2. Mason
 		3. Metraflex
 2. Submit request for substitution in accordance with Specification Section 01 25 00.
-1. 2.2 Materials
+3. Materials
    1. Pipe and Tube
-	1. PVC:
+	4. PVC:
 		1. ASTM D1785.
 		2. Joints: Solvent Cement, ASTM D2564 and D2855.
-	2. Copper
+	5. Copper
 		1. Type K, L, or M tube per ASTM B88.
 		2. Utilize only annealed (soft) type tubing where flared joints are used and drawn temper (hard) type tubing where soldered or brazed joints are used.
 		3. Fittings: Per System Type:
@@ -69,30 +65,28 @@ tags: ['Facility', 'Services', 'Plumbing', 'Piping']
 		4. Joints:
 			1. Flared.
 			2. Soldered or Brazed:
-			1. Above ground below 180 °F: ASTM B32 solder with a tin/antimony ratio of 95/5 and non-corrosive flux.
-			2. Above ground 180 °F and above: use brazing alloy with melting temperature above 1000 °F and suitable flux.
-			3. Buried: Silver solder per AWS A5.8M/A5.8.
-			4. Provide unions and valves and equipment.
+			3. Above ground below 180 °F: ASTM B32 solder with a tin/antimony ratio of 95/5 and non-corrosive flux.
+			4. Above ground 180 °F and above: use brazing alloy with melting temperature above 1000 °F and suitable flux.
+			5. Buried: Silver solder per AWS A5.8M/A5.8.
+			6. Provide unions and valves and equipment.
 		5. Unions: Class 150, bronze.
-1. 2.3 Manufactured Units
+4. Manufactured Units
    1. Unions
-	1. Copper pipe:
+	6. Copper pipe:
 		1. Copper ground joint unions for pipe sizes 2 IN and smaller.
 		2. Brass flanged unions for pipe sizes larger than 2 IN.
-1. 2.4 Accessories
+5. Accessories
    1. Bellows-type Expansion Fitting:
-	1. Single sphere style stainless steel construction.
-	2. Pressure rating: 25 PSIG.
-	3. Temperature Rating: 250 Degrees Fahrenheit.
-	4. Maximum Compression: 1-3/4 IN.
-	5. Maximum Extension: 1/4 IN.
-	6. Joint: As specified for individual piping system.
-
+	7. Single sphere style stainless steel construction.
+	8. Pressure rating: 25 PSIG.
+	9. Temperature Rating: 250 Degrees Fahrenheit.
+	10. Maximum Compression: 1-3/4 IN.
+	11. Maximum Extension: 1/4 IN.
+	12. Joint: As specified for individual piping system.
 
 ## Execution
 
-
-	1. Exterior Buried Piping Installation
+1. Exterior Buried Piping Installation
    1. Unless otherwise shown on the Drawings, provide a minimum of 4 FT and maximum of 8 FT earth cover over exterior buried piping systems and appurtenances conveying water, fluids, or solutions subject to freezing.
 2. Enter and exit through structure walls, floors, and ceilings by using penetrations and seals specified in Division 11 and 15 specifications and as shown on Drawings.
 3. When entering or leaving structures with buried mechanical joint piping, install joint within 2 FT of point where pipe enters or leaves structure.
@@ -351,4 +345,3 @@ tags: ['Facility', 'Services', 'Plumbing', 'Piping']
 		1. Pipe: Schedule 80 PVC.
 		2. Fittings: Schedule 80 PVC.
 		3. Joints: Solvent weld.
-

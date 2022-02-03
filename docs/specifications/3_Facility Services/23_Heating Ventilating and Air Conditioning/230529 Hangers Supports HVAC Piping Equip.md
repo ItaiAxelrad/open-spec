@@ -19,7 +19,6 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
       1. American Society of Mechanical Engineers (ASME):
          1. B31.9 - Building Services Piping.
    1. American Society for Testing and Materials (ASTM):
-      1. 
    1. A36 - Structural Steel. 
    1. A780 - Repair of Damaged Hot-Dipped Galvanized Coatings.
    1. C150 - Portland Cement.
@@ -43,7 +42,9 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Qualify welding processes and welding operators in accordance with ASME Boiler and Pressure Vessel Code, Section IX, "Welding and Brazing Qualifications."
    1. Regulatory Requirements:
       1. Comply with applicable plumbing codes pertaining to product materials and installation of supports and anchors.
-1. PRODUCTS
+
+## PRODUCTS
+
 1. MANUFACTURERS
    1. Subject to compliance with requirements, provide hangers and supports from one of the following:
       1. B-Line System Inc.
@@ -65,7 +66,9 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Pipe attachments shall have nonmetallic coating for electrolytic protection where attachments are in direct contact with copper tubing.
    1. Thermal Hanger Shield Inserts:
       1. 100 psi average compressive strength, waterproofed calcium silicate, and encased with a sheet metal shield. Insert and shield shall cover entire circumference of the pipe and shall be of length indicated by manufacturer for pipe size and thickness of insulation.
-1. EXECUTION
+
+## EXECUTION
+
 1. EXAMINATION
    1. Examine substrates and conditions under which supports and anchors are to be installed. Do not proceed with installation until unsatisfactory conditions have been corrected.
 1. ERECTION INSTALLATION APPLICATION

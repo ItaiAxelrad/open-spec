@@ -44,7 +44,9 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Concrete', 'Paving
    1. Sealant Warranty:
       1. Provide written warranty, signed by manufacturer and installer agreeing to, within warranty period of five years after date of substantial completion, replace/repair defective materials and workmanship defined to include:
       1. instances of leakage of water or air; failures in joint adhesion, material cohesion, abrasion resistance, strain resistance, or general durability; failure to perform as required; and the general appearance of deterioration in any other manner not clearly specified in manufacturer's published product literature as an inherent characteristic of the sealant material.
-   1. products
+   
+## PRODUCTS
+
    1. SEALANT MATERIALS FOR VERTICAL SURFACES
    1. Single-component, elastomeric sealant complying with ASTM C920, Type S, Grade NS, Class 25, Use NT, a silicone material, one of the following or as approved:
       1. Dow Corning Corp. "790", "791", or "795".

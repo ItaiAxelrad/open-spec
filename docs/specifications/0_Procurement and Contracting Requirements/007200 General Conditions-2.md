@@ -367,7 +367,6 @@ ARTICLE 2 - PRELIMINARY MATTERS
  3. Engineer’s written interpretation or clarification. 
 05. *Reuse of Documents*
    1. Contractor and any Subcontractor or Supplier or other individual or entity performing or furnishing all of the Work under a direct or indirect contract with Contractor, shall not:
-      1. 
  1. have or acquire any title to or ownership rights in any of the Drawings, Specifications, or other documents (or copies of any thereof) prepared by or bearing the seal of Engineer or Engineer’s consultants, including electronic media editions; or 
  2. reuse any of such Drawings, Specifications, other documents, or copies thereof on extensions of the Project or any other project without written consent of Owner and Engineer and specific written verification or adaption by Engineer. 
    1. The prohibition of this Paragraph 3.05 will survive final payment, or termination of the Contract. Nothing herein shall preclude Contractor from retaining copies of the Contract Documents for record purposes.
@@ -513,21 +512,18 @@ ARTICLE 6 - CONTRACTOR’S RESPONSIBILITIES
  1. *“Or-Equal” Items:* If in Engineer’s sole discretion an item of material or equipment proposed by Contractor is functionally equal to that named and sufficiently similar so that no change in related Work will be required, it may be considered by Engineer as an “or-equal” item, in which case review and approval of the proposed item may, in Engineer’s sole discretion, be accomplished without compliance with some or all of the requirements for approval of proposed substitute items. For the purposes of this Paragraph 6.05.A.1, a proposed item of material or equipment will be considered functionally equal to an item so named if:
     1. 
       1. in the exercise of reasonable judgment Engineer determines that:
-         1. 
- 1) it is at least equal in materials of construction, quality, durability, appearance, strength, and design characteristics; 
+    1) it is at least equal in materials of construction, quality, durability, appearance, strength, and design characteristics; 
     1. 2) it will reliably perform at least equally well the function and achieve the results imposed by the design concept of the completed Project as a functioning whole, 
     1. 3) it has a proven record of performance and availability of responsive service; and
       1. Contractor certifies that, if approved and incorporated into the Work:
-         1. 
- 1) there will be no increase in cost to the Owner or increase in Contract Times, and 
+    1) there will be no increase in cost to the Owner or increase in Contract Times, and 
     1. 2) it will conform substantially to the detailed requirements of the item named in the Contract Documents.
 2. Substitute Items 
       1. If in Engineer’s sole discretion an item of material or equipment proposed by Contractor does not qualify as an “or-equal” item under Paragraph 6.05.A.1, it will be considered a proposed substitute item. 
       1. Contractor shall submit sufficient information as provided below to allow Engineer to determine that the item of material or equipment proposed is essentially equivalent to that named and an acceptable substitute therefor. Requests for review of proposed substitute items of material or equipment will not be accepted by Engineer from anyone other than Contractor. 
       1. The requirements for review by Engineer will be as set forth in Paragraph 6.05.A.2.d, as supplemented in the General Requirements and as Engineer may decide is appropriate under the circumstances. 
       1. Contractor shall make written application to Engineer for review of a proposed substitute item of material or equipment that Contractor seeks to furnish or use. The application:
-         1. 
- 1) shall certify that the proposed substitute item will: 
+    1) shall certify that the proposed substitute item will: 
    1. a) perform adequately the functions and achieve the results called for by the general design, 
    1. b) be similar in substance to that specified, and
    1. c) be suited to the same use as that specified; 
@@ -536,8 +532,7 @@ ARTICLE 6 - CONTRACTOR’S RESPONSIBILITIES
    1. b) whether or not use of the proposed substitute item in the Work will require a change in any of the Contract Documents (or in the provisions of any other direct contract with Owner for other work on the Project) to adapt the design to the proposed substitute item; and
    1. c) whether or not incorporation or use of the proposed substitute item in connection with the Work is subject to payment of any license fee or royalty;
     1. 3) will identify:
-       1. 
-   1. a) all variations of the proposed substitute item from that specified , and 
+    1. a) all variations of the proposed substitute item from that specified , and 
    1. b) available engineering, sales, maintenance, repair, and replacement services; 
     1. 4) and shall contain an itemized estimate of all costs or credits that will result directly or indirectly from use of such substitute item, including costs of redesign and claims of other contractors affected by any resulting change,
    1. *Substitute Construction Methods or Procedures:* If a specific means, method, technique, sequence, or procedure of construction is expressly required by the Contract Documents, Contractor may furnish or utilize a substitute means, method, technique, sequence, or procedure of construction approved by Engineer. Contractor shall submit sufficient information to allow Engineer, in Engineer’s sole discretion, to determine that the substitute proposed is equivalent to that expressly called for by the Contract Documents. The requirements for review by Engineer will be similar to those provided in Paragraph 6.05.A.2.
@@ -645,7 +640,6 @@ ARTICLE 6 - CONTRACTOR’S RESPONSIBILITIES
 ARTICLE 7 - OTHER WORK AT THE SITE
 01. *Related Work at Site*
    1. Owner may perform other work related to the Project at the Site with Owner’s employees, or via other direct contracts therefor, or have other work performed by utility owners. If such other work is not noted in the Contract Documents, then:
-      1. 
  1. written notice thereof will be given to Contractor prior to starting any such other work; and 
  2. if Owner and Contractor are unable to agree on entitlement to or on the amount or extent, if any, of any adjustment in the Contract Price or Contract Times that should be allowed as a result of such other work, a Claim may be made therefor as provided in Paragraph 10.05. 
    1. Contractor shall afford each other contractor who is a party to such a direct contract, each utility owner and Owner, if Owner is performing other work with Owner’s employees, proper and safe access to the Site, a reasonable opportunity for the introduction and storage of materials and equipment and the execution of such other work, and shall properly coordinate the Work with theirs. Contractor shall do all cutting, fitting, and patching of the Work that may be required to properly connect or otherwise make its several parts come together and properly integrate with such other work. Contractor shall not endanger any work of others by cutting, excavating, or otherwise altering their work and will only cut or alter their work with the written consent of Engineer and the others whose work will be affected. The duties and responsibilities of Contractor under this Paragraph are for the benefit of such utility owners and other contractors to the extent that there are comparable provisions for the benefit of Contractor in said direct contracts between Owner and such utility owners and other contractors.
@@ -733,7 +727,6 @@ ARTICLE 10 - CHANGES IN THE WORK; CLAIMS
    1. *Notice:* Written notice stating the general nature of each Claim, shall be delivered by the claimant to Engineer and the other party to the Contract promptly (but in no event later than 30 days) after the start of the event giving rise thereto. The responsibility to substantiate a Claim shall rest with the party making the Claim. Notice of the amount or extent of the Claim, with supporting data shall be delivered to the Engineer and the other party to the Contract within 60 days after the start of such event (unless Engineer allows additional time for claimant to submit additional or more accurate data in support of such Claim). A Claim for an adjustment in Contract Price shall be prepared in accordance with the provisions of Paragraph 12.01.B. A Claim for an adjustment in Contract Time shall be prepared in accordance with the provisions of Paragraph 12.02.B. Each Claim shall be accompanied by claimant's written statement that the adjustment claimed is the entire adjustment to which the claimant believes it is entitled as a result of said event. The opposing party shall submit any response to Engineer and the claimant within 30 days after receipt of the claimant’s last submittal (unless Engineer allows additional time).
    1. *Engineer’s Action*:
       1. Engineer will review each Claim and, within 30 days after receipt of the last submittal of the claimant or the last submittal of the opposing party, if any, take one of the following actions in writing:
-      1. 
  1. deny the Claim in whole or in part,
  2. approve the Claim, or
  3. notify the parties that the Engineer is unable to resolve the Claim if, in the Engineer’s sole discretion, it would be inappropriate for the Engineer to do so. For purposes of further resolution of the Claim, such notice shall be deemed a denial.
@@ -964,7 +957,6 @@ ARTICLE 16 - DISPUTE RESOLUTION
    1. ARTICLE 17 - MISCELLANEOUS
 01. *Giving Notice*
    1. Whenever any provision of the Contract Documents requires the giving of written notice, it will be deemed to have been validly given if:
-      1. 
  1. delivered in person to the individual or to a member of the firm or to an officer of the corporation for whom it is intended, or
  2. delivered at or sent by registered or certified mail, postage prepaid, to the last business address known to the giver of the notice.
 02. *Computation of Times*

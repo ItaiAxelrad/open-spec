@@ -21,7 +21,9 @@ tags: ['Facility', 'Construction', 'Concrete', 'Cast-in-Place']
  strength, stating the proposed slump and the proportional weights of cement, aggregates, and water. These mixes shall be proved by preliminary tests 30 days before concreting and shall show a 28-day average strength 15% higher than the minimum required. (See Batch Proportions, Paragraph 3.02)
    1. Working drawings showing dimensions, bar schedules,
  bending details, and stirrup spacing shall be submitted for the approval of the Engineer.
-1. ## Product
+
+## Products
+
 1. 2.01 COMPOSITION AND CLASSIFICATION OF CONCRETE
     1. Concrete shall be composed of Portland cement, water, fine and coarse aggregate, and such admixtures as may be autho­rized for a specific project.
     1. The following tabulation shows minimum acceptable strengths for the various classes of concrete; minimum cement content per cubic yard; maximum water per sack of cement; slump limits and entrained air content.
@@ -215,7 +217,8 @@ tags: ['Facility', 'Construction', 'Concrete', 'Cast-in-Place']
     1. The Contractor shall also be responsible for the cost of corrections to any other work affected by or resulting from corrections to the concrete work.
 
  **B. Evaluation of Quality Control Tests:*
- **1. Compressive Strength Tests** for laboratory cured cylinders will be considered satisfactory if they comply with the requirements of ASTM C94, Section 16. Part of Section 16 reads:
+ *
+	1. Compressive Strength Tests** for laboratory cured cylinders will be considered satisfactory if they comply with the requirements of ASTM C94, Section 16. Part of Section 16 reads:
     1. "For concrete, in structures designed by the ultimate strength method and in prestressed structures, not more than 10% of the strength tests shall have values less than the specified strength, /'c, and the average of any three consecutive strength tests shall be equal to or greater than the specified strength."
     1. The required compressive strength of concrete shall be construed to be that class (as specified in paragraph 2 of this section), or strength, indicated on the draw­ings.
 

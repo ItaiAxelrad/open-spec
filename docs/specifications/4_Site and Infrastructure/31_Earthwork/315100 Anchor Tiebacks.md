@@ -63,7 +63,6 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Anchor', 'Tiebacks']
    1. Water content - 0.1 percent maximum as determined by ASTM D-95.
    1. Oil separation - .05 percent maximum by weight at 160°F (71 ºC) as determined by FTMS 791B.
    1. Corrosion test - 5 percent salt fog at 100°F (150 ºC), 5 mils (Q panel type S) in accordance with ASTM B-117 and D-610:
-      1. 
    1. Normal conditions- rust grade 7 or better after 720 hours.
    1. Aggressive conditions- rust grade 7 or better after 1,000 hours.
    1. Soak test - No emulsification after the Q panel (type S, 5 mils) is immersed in a 50 percent salt solution and exposed to a 5 percent salt fog at 100°F (150 ºC) for 720 hours.
@@ -135,13 +134,11 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Anchor', 'Tiebacks']
    1. AL 0.25P 0.50P 0.75P 1.00P
    1. AL 0.25P 0.50P 0.75P 1.00P 1.20P
    1. AL 0.25P 0.50P 0.75P 1.00P 1.20P 1.33P Test Load (10 minutes)
-   1. AL
    1. Adjust to Lock-Off load where:
       1. P = Design Load AL = Alignment Load
    1. The load shall be held at each increment just long enough to obtain movement reading. Except for the reading of the residual movement at AL, no movement reading needs to be taken during unloading of the anchor. The test load shall be held for 10 minutes. Total movements with respect to a fixed reference point shall be recorded at 1 minute, 2, 3, 4, 5, 6, and 10 minutes. If the total movement between 1 minute and 10 minute exceeds 0.04 inches the test load shall be held for additional 50 minutes. Total movements shall be recorded at 15 minutes, 20, 25, 30, 45, and 60 minutes. The Test Load time shall start when the Test Load is reached.
    1. Proof test shall be performed by incrementally loading the anchors in accordance with the load schedule. At each increment the movement of the tendon shall be recorded to the nearest 0.001 inches (0.25 mm) with respect to an independent fixed reference point. The jack load shall be monitored with a pressure gauge or load cell. The increments of load shall be as follows:
-      1. AL
-25.P 
+   25.P 
 50.P 
 75.P 
 00.P 

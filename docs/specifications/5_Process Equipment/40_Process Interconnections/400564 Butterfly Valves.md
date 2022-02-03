@@ -63,6 +63,6 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Butterfly', 'Valves']
 
 ## Execution
 
-1. 3.1 Installation
+1. Installation
    1. Install Butterfly Valves based on manufacturer’s installation instructions.
 

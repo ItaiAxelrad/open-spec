@@ -24,7 +24,9 @@ tags: ['General', 'Requirements', 'Field', 'Offices', 'Sheds']
    1. Existing facilities shall not be used for field offices.
 04. USE OF PERMANENT FACILITIES
    1. Permanent facilities shall not be used for field offices.
-1. ## Product
+
+## Products
+
 1. 2.01 CONSTRUCTION
    1. Construction:
       1. Structurally sound, secure, weather tight enclosures for office. Maintain during

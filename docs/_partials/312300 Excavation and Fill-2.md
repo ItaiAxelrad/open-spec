@@ -87,7 +87,6 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Excavation', 'Fill']
    1. Trench plugs consisting of compacted Imported Granular Material or sand-cement slurry shall be installed on piping systems that are backfilled with crushed rock.
 1. 2.05 FILTER FABRIC
    1. Filter fabric shall be manufactured from polyester, nylon, or polypropylene. Material shall be of non-woven construction and shall meet the following requirements:
-      1. 
 
 	1. Grab tensile strength (ASTM D 4632): 45.4kg (100 lbs) minimum for a 1" raveled strip
 	2. Weight (ASTM D 3776): 4.5 oz./yd2 

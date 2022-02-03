@@ -27,7 +27,6 @@ tags: ['Procurement', 'Contracting', 'Requirements', 'Notice', 'to', 'Proceed']
 4. Attend a preconstruction conference with the Owner, Engineer and others as appropriate as discussed in Paragraph 2.06 of the General Conditions. 
    1. ACCEPTANCE OF NOTICE
    1. Receipt of the above NOTICE TO PROCEED is hereby acknowledged:
-      1. 
 1. (Contractor)
 1. Owner
 1. Received by:

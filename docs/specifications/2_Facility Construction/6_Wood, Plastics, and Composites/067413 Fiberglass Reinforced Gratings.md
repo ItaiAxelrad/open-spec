@@ -47,7 +47,7 @@ tags: ['Facility', 'Construction', 'Wood', 'Plastics', 'Composites', 'Fiberglass
    1. Fibergrate Composite Structures Inc.
 2. Nucor Grating
 3. Strongwell
-4. 2.2 General
+1. General
    1. All FRP items furnished under this Section shall be composed of fiberglass reinforcement and resin in qualities, quantities, properties, arrangements and dimensions as necessary to meet the design requirements and dimensions as specified in the Contract Documents.
 5. Fiberglass reinforcement shall be continuous roving in sufficient quantities as needed by the application and/or physical properties required.
 6. Resin shall be {Vinyl Ester, Isophthalic Polyester, Polyester, Vinyl Ester used to produce NSF Standard 61 certified grating, Isophthalic Polyester used to produce NSF Standard 61 certified grating or Modified Acrylic - choose one}, with chemical formulations as necessary to provide the corrosion resistance, strength and other physical properties as required.
@@ -55,16 +55,14 @@ tags: ['Facility', 'Construction', 'Wood', 'Plastics', 'Composites', 'Fiberglass
 8. All fire-retardant molded grating products shall have a tested flame spread rating of 25 or less per ASTM E-84 Tunnel Test. Gratings shall not burn past the 25 mm reference mark and will be classified HB per ASTM D635.
 9. All grating products shall be certified to NSF/ANSI Standard 61 {use only if choosing a resin system that can be used to produce gratings to the NSF Standard 61 in sections 2.2 C & 2.3 E}
 10. G. All mechanical grating clips shall be manufactured of Type 316SS (stainless steel).
-11. 2.3 Molded FRP Grating
+11. Molded FRP Grating
    1. Manufacture:
-      1. 
 	1. Grating shall be of a one piece molded construction with tops and bottoms of bearing bars and cross bars in the same plane. 
 	2. Grating shall have (a square mesh pattern providing bidirectional strength or a rectangular mesh pattern providing unidirectional strength - choose one). 
 	3. Grating shall be reinforced with continuous rovings of equal number of layers in each direction. The top layer of reinforcement shall be no more than 1/8" below the top surface of the grating so as to provide maximum stiffness and prevent resin chipping of unreinforced surfaces. 
 	4. Percentage of glass (by weight) shall not exceed 35% so as to achieve maximum corrosion resistance, and as required to maintain the structural requirements of the CONTRACT.
 	5. After molding, no dry glass fibers shall be visible on any surface of bearing bars or cross bars. All bars shall be smooth and uniform with no evidence of fiber orientation irregularities, interlaminar voids, porosity, resin rich or resin starved areas.
 12. Non–slip surface (select one):
-      1. 
 	6. Grating shall be manufactured with a concave, meniscus profile on the top of each bar providing maximum slip resistance.
 	7. Grating shall be manufactured with an integrally applied grit to the top surface of each bar providing maximum slip resistance.
 13. Grating bar intersections are to be filleted to a minimum radius of 1/16” to eliminate local stress concentrations and the possibility of resin cracking at these locations.
@@ -84,19 +82,16 @@ tags: ['Facility', 'Construction', 'Wood', 'Plastics', 'Composites', 'Fiberglass
 	9. Grating shall be designed for a uniform load of 100 psf or concentrated load of 300 lb. Deflection is not to exceed 0.375” or L/D = 120, whichever is less.
 21. The manufacturer shall certify that the stiffness of all panels manufactured are never more than 2.5% below the published load-deflection values.
 22. Substitutions: Other products of equal strength, stiffness, corrosion resistance and overall quality may be submitted with the proper supporting data to the engineer for approval.
-23. 2.4 Grating Fabrication
+21. Grating Fabrication
    1. Measurements:
-      1. 
 	10. Grating supplied shall meet the dimensional requirements and tolerances as shown or specified. 
 	11. The Contractor shall provide and/or verify measurements in field for work fabricated to fit field conditions as required by grating manufacturer to complete the work. 
 	12. When field dimensions are not required, contractor shall determine correct size and locations of required holes or cutouts from field dimensions before grating fabrication.
 24. Layout:
-      1. 
 	13. Each grating section shall be readily removable, except where indicated on drawings. 
 	14. Manufacturer to provide openings and holes where located on the contract drawings. 
 	15. Grating openings which fit around protrusions (pipes, cables, machinery, etc.) shall be discontinuous at approximately the centerline of opening so each section of grating is readily removable.
 25. Sealing:
-      1. 
 	16. All shop fabricated grating cuts shall be coated with vinyl ester resin to provide maximum corrosion resistance. 
 	17. All field fabricated grating cuts shall be coated similarly by the contractor in accordance with the manufacturer's instructions.
 26. Hardware:

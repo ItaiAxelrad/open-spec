@@ -17,7 +17,8 @@ tags: ['Facility', 'Services', 'Plumbing', 'Identification', 'Piping', 'Equipmen
 1. REFERENCES
    1. American National Standards Institutes, Inc. (ANSI). 
    1. A13.1 - Scheme for Identification of Piping Systems 
-1. SUBMITTALS*   1. See Division 1 sections of the Specifications.
+1. SUBMITTALS
+	1. See Division 1 sections of the Specifications.
    1. Samples:
       1. For color, letter style, and graphic representation required for each identification material and device, including:
       1. Colors for proposed pipe marker letters and fields.
@@ -35,7 +36,9 @@ tags: ['Facility', 'Services', 'Plumbing', 'Identification', 'Piping', 'Equipmen
    1. Install identifying devices before installing acoustical ceilings and similar concealment.
 1. WARRANTY
    1. Refer to requirements in Division 22 sections of the Specifications.
-1. PRODUCTS
+
+## PRODUCTS
+
 1. PIPING MARKERS
    1. Provide pipe markers consisting of pipe contents identification name with flow direction arrows. 
    1. Pipe Markers
@@ -55,12 +58,15 @@ tags: ['Facility', 'Services', 'Plumbing', 'Identification', 'Piping', 'Equipmen
    1. Purpose
 1. CEILING MARKERS
    1. Provide ceiling markers consisting of color coded dots equal to Brady Worldwide, Inc. “Series 23250” or approved product of Seton Identification Products or Marking Services, Inc.
-1. EQUIPMENT IDENTIFICATION*   1. Identify all equipment installed under this Division with 2-inch-high Gothic vinyl film black letters or numbers with permanent adhesive and conforming to the equipment designation identification shown on the Drawings:
+1. EQUIPMENT IDENTIFICATION
+	1. Identify all equipment installed under this Division with 2-inch-high Gothic vinyl film black letters or numbers with permanent adhesive and conforming to the equipment designation identification shown on the Drawings:
       1. Brady Worldwide, Inc. “B-933” or approved product of Seton Identification Products or Marking Services, Inc.
-1. EXECUTION
-1. INSTALLATION OF PIPE MARKERS*   1. Identify the content and directional flow of all piping on the Project with the specified pipe markers. 
+
+## EXECUTION
+
+1. INSTALLATION OF PIPE MARKERS
+	1. Identify the content and directional flow of all piping on the Project with the specified pipe markers. 
    1. Provide pipe marking that complies with ANSI A13.1 with respect to:
-      1. 
    1. Letter color.
    1. Letter size.
    1. Background color.
@@ -78,12 +84,12 @@ tags: ['Facility', 'Services', 'Plumbing', 'Identification', 'Piping', 'Equipmen
    1. Attach tags to all valves using a #16 brass jack chain.
 1. INSTALLATION OF VALVE IDENTIFICATION CHARTS
    1. Mount the two valve identification charts at locations to be designated.
-1. INSTALLATION OF CEILING MARKERS*   1. Where valves, traps, dampers, control boxes, and other such devices occur above accessible suspended ceilings, provide 7/8-inch-diameter, color coded, ceiling, dot type marks in the ceiling tile where devices occur above. 
+1. INSTALLATION OF CEILING MARKERS
+	1. Where valves, traps, dampers, control boxes, and other such devices occur above accessible suspended ceilings, provide 7/8-inch-diameter, color coded, ceiling, dot type marks in the ceiling tile where devices occur above. 
 1. APPLICATION OF EQUIPMENT LABELS
    1. Apply equipment labels on a prominent surface of the equipment where they can be readily seen from the operating floor.
 1. PIPE IDENTIFICATION SCHEDULE
    1. Provide pipe identification markers in accordance with the following schedule:
-      1. 
     1. Service Background Color 
     1. Color of Letters
    1. Water:

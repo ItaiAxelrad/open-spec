@@ -118,7 +118,7 @@ tags: ['Facility', 'Construction', 'Finishes', 'Painting', 'Coating']
 	4. Warning labels.
 	5. VOC content.
    1. Product
-1. 2.1 Acceptable Manufacturers
+1. Acceptable Manufacturers
    1. Subject to compliance with the Contract Documents, only the following manufacturers are acceptable:
 	1. High performance industrial coatings:
 		1. Tnemec.
@@ -129,7 +129,7 @@ tags: ['Facility', 'Construction', 'Finishes', 'Painting', 'Coating']
 		6. PPG Industries/Amercoat.
 2. Submit request for substitution in accordance with Specification Section 01 25 00.
 	1. Product VOC content will be an important factor when determining acceptability of substitution.
-1. 2.2 Materials
+1. Materials
    1. For unspecified materials such as thinner, provide manufacturer's recommended products.
 2. Paint Systems - General:
 	1. P = prime coat.
@@ -221,7 +221,7 @@ tags: ['Facility', 'Construction', 'Finishes', 'Painting', 'Coating']
 
 ## Execution
 
-1. 3.1 Items to Be Painted
+1. Items to Be Painted
 	 1. General:
 	1. Paint the following surfaces in a wet and/or corrosive area, whether exposed to view or not:
 		1. Conduit – paint conduit, device and junction boxes, and conduit supports and accessories in all areas indicated as wet areas on the Electrical Drawings.
@@ -255,11 +255,10 @@ tags: ['Facility', 'Construction', 'Finishes', 'Painting', 'Coating']
 			7. Galvanized metal surfaces specifically noted to be painted.
 			8. Copper and brass surfaces.
 			9. Hollow metal doors and frames.
-1. 3.2 Items Not to Be Painted
+1. Items Not to Be Painted
 	 1. General: 
 	1. Do not paint items listed in this Article unless specifically noted in the Contract Documents to be painted.
 2. Items with Approved Factory Finish:
-      1. 
 	1. These items may require repair of damaged painted areas or painting of welded connections.
 3. Electrical Equipment:
 	1. Do not field paint electrical equipment except where painting is specifically stated elsewhere in these Contract Documents, or where the equipment is subject to a corrosive environment and is specifically noted to be painted.
@@ -283,7 +282,7 @@ tags: ['Facility', 'Construction', 'Finishes', 'Painting', 'Coating']
 	10. Clad aluminum, clad steel, anodized aluminum, PVDF coated aluminum and PVDF coated steel.
 	11. Galvanized steel items, unless specifically noted to be painted.
 	12. Bituminous coated ductile iron pipe.
-1. 3.3 Schedule of Items to Be Painted and Painting Systems
+1. Schedule of Items to Be Painted and Painting Systems
    1. Item
    1. Description
    1. System
@@ -357,7 +356,7 @@ tags: ['Facility', 'Construction', 'Finishes', 'Painting', 'Coating']
    1. Interior 
    1. Interior Gypsum Board
    1. 7
-1. 3.4 Preparation
+1. Preparation
 	 1. General:
 	1. Verify that atmosphere in area where painting is to take place is within paint manufacturer's acceptable temperature, humidity and sun exposure limits.
 		1. Provide temporary heating, shade and/or dehumidification as required to bring area within acceptable limits.
@@ -459,7 +458,7 @@ tags: ['Facility', 'Construction', 'Finishes', 'Painting', 'Coating']
 	1. If existing paint film is found to contain lead, asbestos, or any other health hazard, notify the Engineer immediately.
 	2. Contractor shall prepare plan of action for safe, legal removal and disposal of contaminated paint.
 	3. Engineer, Contractor and Owner shall negotiate agreement for cost associated with removal.
-1. 3.5 Application
+1. Application
 	 1. General:
 	1. Thin, mix and apply coatings by brush, roller, or spray in accordance with manufacturer's installation instructions.
 		1. Application equipment must be inspected and approved in writing by coating manufacturer.

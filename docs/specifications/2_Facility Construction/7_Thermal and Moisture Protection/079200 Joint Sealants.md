@@ -73,7 +73,7 @@ tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Joint',
 	2. Delivery, Storage, and Handling
 15. See Specification Section 01 33 00 for requirements for delivery, storage, and handling.
 ## Product
-1. 2.1 Acceptable Manufacturers
+1. Acceptable Manufacturers
    1. Subject to compliance with the Contract Documents, the following manufacturers are acceptable:
 	1. Compressible sealant
 		1. Polytite Manufacturing Corporation.
@@ -111,7 +111,7 @@ tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Joint',
 	9. Backer rod, compressible filler, primer, joint cleaners, bond breaker:
 		1. As recommended by sealant manufacturer.
 2. Submit request for substitution in accordance with Specification Section 01 25 00.
-1. 2.2 Materials
+1. Materials
    1. Sealants - General:
 	1. Provide colors matching materials being sealed.
 	2. Where compound is not exposed to view in finished work, provide manufacturer's color which has best performance.
@@ -188,14 +188,14 @@ tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Joint',
 
 ## Execution
 
-1. 3.1 Preparation
+1. Preparation
    1. Before use of any sealant, investigate its compatibility with joint surfaces, fillers and other materials in joint system.
 2. Use only compatible materials.
 3. Where required by manufacturer, prime joint surfaces.
 	1. Limit application to surfaces to receive sealant.
 	2. Mask off adjacent surfaces.
 4. Provide joint depth for joints receiving polyurea joint filler in accordance with manufacturer's recommendations.
-1. 3.2 Installation
+1. Installation
    1. Install products in accordance with manufacturer's instructions and UL requirements and IECC.
 2. Clean all joints.
 3. Make all joints water and airtight.
@@ -219,7 +219,7 @@ tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Joint',
 		1. Allow expanding foam sealant to completely cure prior to installing backer rod and finish sealant.
 	3. Trim off excess material flush with surface of the wall if not providing finished sealant.
 12. Install open-cell polyurethane foam to building expansion joints in accordance with manufacturer’s installation instructions.
-1. 3.3 Field Quality Control
+1. Field Quality Control
    1. Adhesion Testing:
 	1. Perform adhesion tests in accordance with ASTM C1521 per the following criteria:
 		1. Water bearing structures: One (1) test per every 1000 LF of joint sealed.
@@ -228,7 +228,7 @@ tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Joint',
 		4. Building expansion joints: One (1) test per every 500 LF of joint sealed.
 		5. All other type of joints except butt glazing joints: One (1) test per every 3000 LF of joint sealed.
 		6. Manufacturer's authorized factory representative shall recommend, in writing, remedial measures for all failing tests.
-1. 3.4 Schedule
+1. Schedule
    1. Furnish sealant as indicated for the following areas:
 	1. Exterior areas:
 		1. Above grade: Polyether.

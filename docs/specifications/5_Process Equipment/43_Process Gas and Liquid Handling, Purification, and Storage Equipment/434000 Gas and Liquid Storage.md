@@ -13,7 +13,8 @@ tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Sto
    1. Section includes:
 	1. Sodium Hypochlorite storage tank requirements.
 	2. Hydrogen detection and dilution system requirements for sodium hypochlorite storage.
-2. References, Codes and Standards*   1. American Society of Testing Materials (ASTM).
+2. References, Codes and Standards
+	1. American Society of Testing Materials (ASTM).
 2. ANSI Standards:
       1. B-16.5, Pipe Flanges and Flanged Fittings
 3. Building Code:
@@ -26,7 +27,6 @@ tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Sto
 7. See Specification Section 01 33 00 for requirements for the mechanics and administration of the submittal process.
 8. Product technical data as required in Specification Section 43 01 00.
 9. Shop Drawings:
-      1. 
 	1. See Specification Section 11 01 00 for submittal requirements for equipment.
 10. Sufficient data shall be included to show that the product conforms to Specification requirements. Provide the following additional information:
 	1. Vertical tank and Fitting Material
@@ -53,20 +53,22 @@ tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Sto
 	5. Impact test.
 	6. Gel test.
 	7. Hydrostatic test.
-4. Quality Assurance*   1. The Contractor shall provide a vertical tank of high density cross-linked polyethylene with full drain capability and molded in flange.
+4. Quality Assurance
+	1. The Contractor shall provide a vertical tank of high density cross-linked polyethylene with full drain capability and molded in flange.
 2. Tanks shall be manufactured from virgin materials.
 3. Tanks shall be manufactured from materials certified to NSF/ANSI Standard 61 for chemical storage and submit form from NSF supporting chemical certification.
 5. Warranty
    1. See Specification Section 01 77 00 for warranty requirements.
 ## Product
-1. 2.1 General
+1. General
    1. A tank similar to the existing sodium hypochlorite storage tank shall be provided.
 	1. The tank shall be installed complete with a hydrogen detector and hydrogen dilution system matching that installed on the existing tank.
 2. Tanks shall be rotationally-molded, vertical, high density cross-linked polyethylene, one-piece seamless construction, cylindrical in cross-section and vertical with flat bottoms.
 3. Tanks shall be adequately vented.
 4. Where indicated, tanks shall be provided with ancillary mechanical fittings and accessories. 
 5. Tanks shall be marked to identify the manufacturer, date of manufacture and serial numbers must be permanently embossed into the tank.
-1. 2.2 Polyethylene Storage Tanks*   1. High Density Cross-linked Polyethylene resin used in the tank manufacture shall be Poly CL™ or equal and shall contain ultraviolet stabilizer as recommended by resin manufacturer.
+1. Polyethylene Storage Tanks
+	1. High Density Cross-linked Polyethylene resin used in the tank manufacture shall be Poly CL™ or equal and shall contain ultraviolet stabilizer as recommended by resin manufacturer.
 			1. Where black tanks are indicated, the resin shall have a carbon black compounded into it.
 2. The tank shall be provided with the following connections and accessories:
 	1. Drain connection.
@@ -107,7 +109,7 @@ tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Sto
 		3. Unless otherwise indicated, tanks less than 2000 gallons in non-pneumatic applications shall have a manway cover 17-in or smaller of Polyethylene material with a coarse thread. Gaskets shall be closed cell, cross-linked polyethylene foam, Viton GF or EPDM materials.
 	2. Tanks must be vented to allow for performance at atmospheric pressure, in accordance with the manufacturer recommendations.
    1. Tank colors shall be natural (unpigmented), black (compounded), or as specified by the Engineer with written agreement by the tank manufacturer.
-1. 2.3 Accessories
+1. Accessories
    1. Hydrogen Dilution System
 	1. Hydrogen dilution blower (duty operation) to maintain Hydrogen levels below 25% of the Lower Explosive Limit (LEL), a differential pressure switch, and orifice plate to monitor and verify blower air flow.
 		1. The size and configuration of the blower and orifice plate, and the corresponding piping shall be determined by the tank manufacturer.
@@ -129,7 +131,7 @@ tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Sto
 	4. The Hydrogen gas detector analog output shall be 4-20mA loop powered.
 	5. The Hydrogen gas detector shall be provided with a remote calibration adapter and calibration kit
 	6. Pre-approved manufacturer: ATI (Analytical Technologies Inc.)
-1. 2.4 Tanks
+1. Tanks
    1. Tank Schedule per the following specifications:
 	1. Diameter: 6’-1”
 	2. Overall height: 9’-1”
@@ -150,10 +152,11 @@ tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Sto
 			3. Lateral Deflection ≥ 0.51”
 			4. Angular Deflection ≥ 14°
 			5. Torsional Rotation ≥ 4°
-1. 2.5 Level Indication
+1. Level Indication
 
    1. Provide ultrasonic level indication similar to existing tank.
-1. 2.6 Factory Testing*   1. Material Testing
+1. Factory Testing
+	1. Material Testing
 	1. Perform gel and low temperature impact tests in accordance with ASTM D 1998 on condition samples cut from each polyethylene chemical storage tank.
 	2. Degree of Crosslinking. Use Method C of ASTM D 1998- Section11.4 to determine the ortho-xylene insoluble fraction of cross-linked polyethylene gel test. Samples shall test at no less than 60 percent.
 2. Tank Testing
@@ -165,17 +168,19 @@ tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Sto
 
 ## Execution
 
-1. 3.1 Delivery, Storage and Handling
+1. Delivery, Storage and Handling
    1. See Specification Section 01 66 00.
 2. The tank shall be shipped upright or lying down on their sides with blocks and slings to keep them from moving. AVOID sharp objects on trailers. 
 3. All fittings shall be installed and, if necessary, removed for shipping and shipped separately unless otherwise noted by the contractor.
 4. Upon arrival at the destination, inspect the tank(s) and accessories for damage in transit. If damage has occurred, notify manufacturer and engineer immediately.
-1. 3.2 Installation*   1. Install the tanks in strict accordance with the manufacturer’s installation manual and shop drawings.
+1. Installation
+	1. Install the tanks in strict accordance with the manufacturer’s installation manual and shop drawings.
 2. Installation will be inspected by manufacturer to verify system flexible connections, venting and fittings are properly installed. In addition to on-sight inspection tank system(s) to be reviewed using tank manual check list as supplied by manufacture as listed below. 
 3. Manufacturer to provide 1 hour training session to prepare operators to service and maintain the tank system.
 4. Manufacturer’s trained technician to do an onsite inspection of installation. 
 	1. Inspection will verify chemical application, plumbing connections, venting, and applicable ancillary equipment such as ladders, restraints, etc.
 	2. A verification of proper installation certificate shall be supplied when equipment passes installation checklist.
 5. Tank manuals will consist of installation check lists, tank drawing(s) as built, fitting drawings referencing nozzle schedule on tank drawing, materials of construction, and recommended maintenance program.
-1. 3.3 Field Testing*   1. Tanks shall be hydro-tested for at least 24 hours prior to commissioning.
+1. Field Testing
+	1. Tanks shall be hydro-tested for at least 24 hours prior to commissioning.
 

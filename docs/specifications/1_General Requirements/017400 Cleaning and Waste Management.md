@@ -23,27 +23,24 @@ tags: ['General', 'Requirements', 'Cleaning', 'Waste', 'Management']
 2. Codes and Standards:
       1. In addition to the standards described in this section, comply with all requirements of other agencies having jurisdiction.
    1. Product
-1. 2.1 Cleaning Materials and Equipment
+1. Cleaning Materials and Equipment
    1. Provide all personnel, equipment and materials to maintain the specified standards of cleanliness.
-1. 2.2 Compatibility
+1. Compatibility
    1. Use cleaning materials and equipment which are compatible with the surface being cleaned, as recommended by the manufacturer of the material and which will not damage the surface being cleaned.
 
 ## Execution
 
-1. 3.1 Storage of Materials and Periodic Cleanup
+1. Storage of Materials and Periodic Cleanup
    1. Store all items to be used on the project in an orderly manner allowing maximum access. Stored materials shall not impede drainage or traffic.
 2. Do not allow the accumulation of scrap, debris, waste material, and other items not required for construction of the project on the work site.
 3. At least twice each month, and more often if necessary, collect and remove all scraps, debris, and waste material from the job site and dispose of the same in an appropriate disposal area.
 4. Storage of all items awaiting removal from the job site, shall be done in such a manner as to minimize fire hazard or environmental damage.
-1. 3.2 Final Cleanup
+1. Final Cleanup
    1. Definition:
-      1. 
 	1. Except as otherwise specifically provided, “clean” shall be defined as the level of cleanliness generally provided by skilled cleaners using commercial quality building or site maintenance equipment and materials.
 2. General:
-      1. 
 	1. Upon completion of the work, remove all tools, surplus materials, equipment, scraps, debris, and waste from the work site.
 3. Site:
-      1. 
 	1. Unless specifically authorized otherwise by the engineer broom clean all paved areas on the site and all public paved areas adjacent to the site which were contaminated because of the work. Completely remove all resulting debris.
 		1. Graveled Parking or driveway areas within or adjacent to the work site which have had excavated or other loose materials stockpiled on them shall be scraped clean down to the original surface.
 			1. Replacement of gravel materials may be required to restore the surface to its original condition.

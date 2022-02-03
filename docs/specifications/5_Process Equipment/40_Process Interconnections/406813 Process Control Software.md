@@ -35,7 +35,7 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Control', 'HMI', 'Software']
 6. Operation and Maintenance Manuals. 
 
 ## Product
-7. 2.1 Ethernet Switches
+1. Ethernet Switches
    1. Managed Ethernet Switches:
 	13. Design and fabrication:
 		1. Support Ethernet 100 Mbps.
@@ -71,5 +71,5 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Control', 'HMI', 'Software']
 
 ## Execution
 
-1. 3.1 Installation
+1. Installation
    1. Install based on manufacturer’s recommended installation instructions. 

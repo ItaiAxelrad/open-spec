@@ -124,8 +124,7 @@ $
       1. CONTRACTOR
    1. By:
       1. By:
-         1. 
-   1. Title:
+      1. Title:
       1. Title:
     1. (If Contractor is a corporation, a partnership, or a joint venture, attach evidence of authority to sign.)
    1. Attest:

@@ -68,7 +68,7 @@ tags: ['Facility', 'Construction', 'Concrete', 'Maintenance']
 		2. BASF Admixtures, Inc.
 		3. L&M Construction Chemicals, Inc.
 2. Submit request for substitution in accordance with Specification Sections 01 25 00.
-1. 2.2 Materials
+1. Materials
    1. Chemical Floor Sealer CS-1:
 	1. Colorless low VOC water-based solution containing acrylic copolymers.
 		1. ASTM C1315, Class B, minimum 30 percent solids.
@@ -94,7 +94,7 @@ tags: ['Facility', 'Construction', 'Concrete', 'Maintenance']
       1. Potable.
 6. Nonshrink Grout:
       1. See Specification Section 03 31 00 and Specification Section 03 31 00.
-1. 2.3 Mixes
+1. Mixes
    1. Bonding Grout:
       1. One (1) part cement and one (1) part aggregate.
 2. Patching Mortar:

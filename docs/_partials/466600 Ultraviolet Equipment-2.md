@@ -13,15 +13,11 @@ tags: ['Process', 'Equipment', 'Water', 'Wastewater', 'Ultraviolet']
 
 1.
 1. RELATED DOCUMENTS
-   1. A.
    1. Drawings, General and Special Provisions of the Contract, and Division 01 Specification Sections apply to this Section.
 2.
 1. SUMMARY
-   1. A.
    1. Furnish and install an open channel, gravity flow, low pressure high intensity ultraviolet (UV) lamp disinfection system complete with an automatic mechanical/chemical cleaning system and variable output electronic ballasts. The UV system to be complete and operational with all control equipment and accessories as shown and specified herein. This system shall be capable of disinfecting effluent to meet the water quality standards listed in this section.
-   1. B.
    1. The ultraviolet disinfection system will be purchased from Trojan Technologies by the Contractor. The system to be installed by the Contractor and tested and commissioned by Trojan Technologies, as specified in this section. The Owner will consider alternates if all requirements of this specification are met without exception including Pre-qualification Requirements in Section 1.2 Quality Assurance.
-   1. C.
    1. Related Sections include the following:
       1. Section 409100 – Instrumentation
 2. Section 409423 – Supervisory Control System
@@ -29,10 +25,8 @@ tags: ['Process', 'Equipment', 'Water', 'Wastewater', 'Ultraviolet']
 4. Section 409513 – Control Panels
 3.
    1. SYSTEM DESCRIPTION
-   1. A.
    1. Design Criteria
 1. Provide equipment that shall disinfect effluent with the following characteristics:
-      1. 
 		1. Current Peak Flow: 36 MGD
 			2. Future Peak Flow: 45 MGD
 			3. Minimum Flow: 1 MGD
@@ -96,7 +90,6 @@ tags: ['Process', 'Equipment', 'Water', 'Wastewater', 'Ultraviolet']
 			2. A tabular listing of the PLC inputs, outputs, and alarms with their associated software tags. Input, output, and alarm software tags must meet the Software Tagging
    1. Conventions requirements set forth in Section 409423 - Supervisory Control System.
 3. A tabular listing of the Operator Adjustable Set Points with their associated software tags
-   1. D.
    1. When the equipment is shipped, submit final hard (paper) and electronic (CD) copies of:
       1. The PLC application program (electronic copy (CD) only)
 2. Printouts of the detailed ladder logic with the data tables and cross references (paper print out only)
@@ -108,37 +101,28 @@ tags: ['Process', 'Equipment', 'Water', 'Wastewater', 'Ultraviolet']
 8. I/O wiring drawings for all devices that are monitored or controlled by the Ultraviolet Disinfection Equipment manufacturer’s PLC as listed in the Instrumentation and Controls paragraph of this specification. These drawings shall include the field wiring from the terminal block (showing terminal numbers) to the field device (showing the device tag number).
 5.
 1. QUALITY ASSURANCE
-   1. A.
    1. The equipment shall be supplied by a firm regularly engaged in the manufacturer of the equipment item, whose products have been used satisfactorily at a minimum of 10 installations in similar services for a minimum period of five (5) years.
-   1. B.
    1. The Contractor may furnish and install equipment of a manufacturer whose products have not been in similar services at 10 installations for five years, provided the equipment manufacturer submits a bond, or deposits a sum equal to the installed price of the equipment, for a period of five (5) years.
 6.
 1. WARRANTY
-   1. A.
    1. Special Warranty:
       1. The manufacturer shall warrant that the work described here shall be free from defects in workmanship and material for a period of one (1) year from the date of acceptance. Any faulty workmanship or defective material furnished that is found within the warranty period shall be corrected without cost to the Owner.
-   1. B.
    1. The UV lamps to be warranted for a minimum of 12,000 hours when operated in automatic mode, prorated after 9,000 hours.
-   1. C.
    1. Ballasts to be warranted for 5 years, prorated after 1 year.
-7.
-1. EXTRA MATERIALS
-   1. A.
+2. EXTRA MATERIALS
    1. The following spare parts and safety equipment to be supplied.
-1. Eight (8) UV Lamps
+3. Eight (8) UV Lamps
    1. Eight (8) Quartz Sleeves
-2. Eight (8) Lamp Holder Seals
-3. One (1) Operators kit including face shield, gloves and cleaning solution.
+4. Eight (8) Lamp Holder Seals
+5. One (1) Operators kit including face shield, gloves and cleaning solution.
    1. To be considered as an alternate, systems that require more lamps than specified, the UV manufacturer will provide spares in the amount equal to the quantities listed plus an additional quantity equal to the percentage of lamps required over and above the number of lamps specified.
-   1. Product
-1.
-   1. MANUFACTURERS
-   1. A.
+
+## Product
+
+1. MANUFACTURERS
    1. The physical layout of the system shown on the contract drawings and the equipment specified herein are based upon the System UV3000PlusTM, as manufactured by Trojan Technologies
    1. Inc., London, Ontario, Canada.
-   1. B.
    1. Approved equal.
-   1. C.
    1. If other equipment is proposed, the Contractor shall demonstrate to the Engineer and the Owner
    1. that all requirements of materials, performance, and workmanship have been met or exceeded
    1. by the equipment proposed. Contractors proposing alternate manufacturers shall be responsible
@@ -146,7 +130,6 @@ tags: ['Process', 'Equipment', 'Water', 'Wastewater', 'Ultraviolet']
    1. and civil aspects of the installation.
 2.
    1. DESIGN, CONSTRUCTION AND MATERIALS
-   1. A.
 	1. General:
          1. All welded metal components in contact with effluent shall be Type 316L stainless steel.
 2. All metal components above the effluent shall be Type 304 stainless steel with the
@@ -156,13 +139,11 @@ tags: ['Process', 'Equipment', 'Water', 'Wastewater', 'Ultraviolet']
    1. UV Module and not exposed to the effluent. To be considered as an alternate, wires that
    1. are exposed to the effluent shall be warranted for 15 years and shall be Teflon coated to
    1. prevent degradation under constant exposure to UV light.
-   1. B.
    1. Lamp Array Configuration:
          1. The lamp array configuration shall be the uniform array with all lamps parallel to each
    1. other and to the flow.
 2. The system shall be designed for complete immersion of the UV lamps including both
    1. electrodes and the full length of the lamp tube in the effluent.
-   1. C.
    1. UV Module:
          1. Each UV module shall consist of UV lamps with an electronic ballast enclosure mounted
    1. on a Type 316L stainless steel frame. To be considered as an alternate, ballasts housed in
@@ -374,18 +355,13 @@ tags: ['Process', 'Equipment', 'Water', 'Wastewater', 'Ultraviolet']
 ## Execution
 
 1.
-   1. A.
 1. INSTALLATION
    1. In accordance with contract drawings, manufacturers’ shop drawings and instructions.
-   1. B.
    1. Install the two Davit cranes at location recommended by the UV system manufacturer.
 2.
-   1. A.
    1. EQUIPMENT MANUFACTURER'S SERVICES
    1. Installation assistance and certification:
       1. As required for proper installation prior to start up.
-   1. B.
-   1. C.
    1. Start-up and field testing:
       1. 3 full days on site.
    1. Operator Training:

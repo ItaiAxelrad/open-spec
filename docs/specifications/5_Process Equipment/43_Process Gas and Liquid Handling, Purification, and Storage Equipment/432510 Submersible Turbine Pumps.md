@@ -27,10 +27,11 @@ tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Sto
 	3. Dimensional drawings.
 	4. Manufacturer's installation instructions.
 ## Product
-1. 2.1 Acceptable Manufacturers
+1. Acceptable Manufacturers
    1. Pump Station Submersible Turbines:
 	1. Goulds Water Technology or equal
-1. 2.3 General*   1. Pump Design
+1. General
+	1. Pump Design
 	1. Pump(s) shall have 6-inch ANSI discharge flange.
 	2. Proposed Gallery Pumps: 
 		1. Design Flow Conditions: 800 gpm
@@ -97,10 +98,10 @@ tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Sto
 
 ## Execution
 
-1. 3.1 Installation
+1. Installation
    1. Comply with Section 11 01 00.
 2. Install products in accordance with manufacturer's instructions.
-1. 3.2 Field Quality Control
+1. Field Quality Control
    1. Provide services of equipment manufacturer's field service representative(s) to:
 	1. Inspect equipment covered by this Specification Section.
 	2. Supervise pre-start adjustments and installation checks.

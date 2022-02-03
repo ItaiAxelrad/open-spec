@@ -43,7 +43,7 @@ tags: ['General', 'Requirements', 'Special', 'Procedures']
 
 ## Execution
 
-1. 3.1 Installation
+1. Installation
    1. Provide installation as shown on the drawings and in accordance with the manufacturer’s recommendations.
 2. Provide water distribution piping installation in accordance with Sections 33 30 00 and 33 14 11.
 3. Provide wastewater piping installation in accordance with Section 33 30 00.

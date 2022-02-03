@@ -40,8 +40,11 @@ tags: ['Facility', 'Services', 'Electrical', 'Elec', 'Power', 'Monitoring', 'Con
    1. One year of toll-free telephone technical support by factory-trained personnel.
    1. Replacement of all defective hardware and software furnished with this system under this contract for one year after date of acceptance.
 1. Retain one or both subparagraphs below. Retain first if work includes only local metering and monitoring, without connections to data transmission network. Retain both if monitoring and control are connected to a LAN.
-1. PRODUCTS
-1. LOCAL ELECTRONIC METERING UNIT*   1. Main Distribution System (MDS) Metering
+
+## PRODUCTS
+
+1. LOCAL ELECTRONIC METERING UNIT
+	1. Main Distribution System (MDS) Metering
    1. Provide local metering unit on each assembly, to directly display the following metered values for each selected feeder as shown on the drawings.
    1. Amperes:
       1. phase A, B, C at 1 percent accuracy. 
@@ -108,7 +111,9 @@ tags: ['Facility', 'Services', 'Electrical', 'Elec', 'Power', 'Monitoring', 'Con
    1. Hardwired Monitoring Points:
       1. Electrical power demand (kilowatts), electrical power consumption (kilowatt-hours)power factor.
    1. ASHRAE 135 (BACnet) communication interface with the BAS shall enable the BAS operator to remotely monitor meter information from a BAS operator workstation. Control features and monitoring points displayed locally at metering panel shall be available through
-1. PRODUCTS
+
+## PRODUCTS
+
 1. INSTALLATION
 
 ## General

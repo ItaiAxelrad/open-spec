@@ -51,7 +51,6 @@ tags: ['Facility', 'Construction', 'Openings', 'Penetrations', 'in']
 
 	1. Materials
    1. Pipe sleeves:
-      1. 
 	1. Stainless steel, Type 304L.
 	2. Penetrations 24 IN DIA or less: ASTM A269, ASTM A312, ASTM A554, Schedule 40.
 	3. Penetrations larger than 24 IN DIA: ASTM A666, minimum ¼ IN thick.
@@ -61,21 +60,17 @@ tags: ['Facility', 'Construction', 'Openings', 'Penetrations', 'in']
 	2. Break bond of sealant at bottom of joint.
 	3. Provide proper shape of sealant bead.
 3. Polysulfide Rubber Sealant:
-      1. 
 	1. One or two component. 
 	2. Meet ASTM C920.
 4. Polyurethane Sealant:
-      1. 
 	1. One or two component. 
 	2. Paintable. 
 	3. Meet ASTM C920 types or Type M, Grade NS or P, Class 25, Use NT, T, M, A and O. F.
 5. Modular Mechanical Seals:
-      1. 
 	1. Stainless steel bolts, nuts and washers.
 6. Sheet Metal Sleeves:
       1. Steel, ASTM A36, 12 GA. 
 7. Commercial Wall Castings:
-      1. 
 	1. For Dry Areas both sides of penetration: 
 		1. Ductile Iron, class equal to connecting piping system.
 	2. For Wet Areas either side of penetration: 
@@ -84,7 +79,7 @@ tags: ['Facility', 'Construction', 'Openings', 'Penetrations', 'in']
 
 ## Execution
 
-1. 3.1 Installation and Application
+1. Installation and Application
    1. Perform HVAC penetrations in accordance with NFPA 90A.
 2. Perform electrical penetrations in accordance with NFPA 70, Article 501.
 3. Install sleeves and castings in accordance with ACI 318, Chapter #6.
@@ -129,7 +124,7 @@ tags: ['Facility', 'Construction', 'Openings', 'Penetrations', 'in']
 	3. Install seals such that bolt heads are located on the most accessible side of the penetration.
 21. Backer Rod and Sealant: 
 	1. Provide backer rod and sealant for modular mechanical seal applications. Apply on top side of slab penetrations and on interior, dry side wall penetrations.
-1. 3.2 Schedules
+1. Schedules
 
 ## General
 

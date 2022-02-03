@@ -11,7 +11,6 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Valves', 'Pump', 'Control', 
 
 1. SUMMARY
    1. Work under this section shall include:
-      1. 
 	1. Check valves.
 2. Related Specification Sections include:
 	1. Section 40 05 51, Valves: Basic Requirements.
@@ -29,8 +28,7 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Valves', 'Pump', 'Control', 
 5. See Specification Section 40 05 51 for additional submittal requirements.
 6. Operation and Maintenance Manuals.
 ## Product
-1. 2.1 Check Valves:
-      1. 
+1. Check Valves:
 	 1. General:
 	1. Comply with AWWA C508.
 	2. Acceptable Manufacturers:
@@ -52,6 +50,6 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Valves', 'Pump', 'Control', 
 
 ## Execution
 
-1. 3.1 Installation
+1. Installation
    1. Install in accordance with manufacturer’s installation instructions. 
 

@@ -65,7 +65,9 @@ Resilient Bituminous Types)
 1. Plant, equipment, machines, and tools used in the work shall be subject to approval and shall be maintained in a satisfactory working condition at all times. The equipment shall have the capability of producing the required product, meeting grade controls, thickness control and smoothness requirements as specified. Use of the equipment shall be discontinued if it produces unsatisfactory results. The Owner shall have access at all times to the plant and equipment to ensure proper operation and compliance with specifications.
    1. Slip Form Equipment
 1. Slip form paver or curb forming machine, shall be approved based on trial use on the job and shall be self-propelled, automatically controlled, crawler mounted, and capable of spreading, consolidating, and shaping the plastic concrete to the desired cross section in 1 pass.
-1. ## Product
+
+## Products
+
 1. CONCRETE
    1. Concrete shall conform to the applicable requirements of Section 03 30 00 CAST-IN-PLACE CONCRETE, except as otherwise specified. Concrete shall have a minimum compressive strength of 3500 psi at 28 days. Maximum size of aggregate shall be 1-1/2 inches.
    1. Air Content

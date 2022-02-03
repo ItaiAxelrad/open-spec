@@ -14,16 +14,13 @@ tags: ['General', 'Requirements', 'Reference', 'Standards']
 
 1. SUMMARY
    1. Work included:
-      1. 
 2. Related work described elsewhere:
-      1. 
 	1. Section 01 42 00, References.
 	2. Section 01 42 13, Abbreviations and Acronyms.
 	3. Section 01 42 16, Definitions.
 	4. Specific naming of codes or standards occurs on the drawings and in other sections of these Specifications.
 	5. Quality Assurance
 3. Applicable Standards:
-      1. 
 	1. The standards listed in these Specifications include, but are not limited to, standards promulgated by the following agencies and organizations:
       1. AA 
    1. Aluminum Association

@@ -27,7 +27,9 @@ tags: ['Facility', 'Construction', 'Equipment', 'Laboratory', 'Controlled-Enviro
 1. PROJECT CONDITIONS
    1. Delivery
    1. Do not deliver gas cabinets to the project site until the building is fully enclosed, floor materials have been installed, and painting is complete.
-   1. products
+   
+## PRODUCTS
+
    1. Manufacturers
    1. Safety Equipment Corporation, Belmont, CA, 7000 Series cabinets.
    1. Spectra-Gases, Inc., Branchburg, NJ, 200 Series cabinets

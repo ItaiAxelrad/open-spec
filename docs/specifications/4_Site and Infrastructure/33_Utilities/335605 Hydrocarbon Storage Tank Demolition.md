@@ -47,7 +47,6 @@ Tank Preparation/Purging/Bottom Wastes
     1. Site Restoration
 1. SUMMARY OF WORK INCLUDED
    1. The scope of work includes but is not limited to:
-      1. 
 * Notification of state and local authorities; development of Closure Assessment and Site Safety Plans; site demolition; other pre‑closure activities.
 * Preparing tank(s) for removal and purging tank(s) of flammable vapors.
 * Cleaning tank(s) and proper handling and disposal of contaminated tank wastes and sludge.
@@ -59,7 +58,6 @@ Tank Preparation/Purging/Bottom Wastes
 
  ***(Note to designer: edit following list of related sections included/not included in this specification.)*
    1. Other related work:
-      1. 
 * Clearing and Earthwork: Section 02200.
 * Erosion Control: Section 02270.
 * Paving and Surface Work: Section 02500
@@ -67,7 +65,6 @@ Tank Preparation/Purging/Bottom Wastes
 1. REFERENCES
    1. Applicable provisions of Division 1 shall govern work of this section.
    1. Work shall conform to procedures and practices in the following regulatory guidelines and industry standards:
-      1. 
 * WI Admin. Code COM 10, “Flammable and Combustible Liquids”.
 * NFPA 327, "Standard Procedures for Cleaning & Safeguarding Small Tanks".
 * API 1604, "Removal and Disposal of Used Underground Petroleum Storage Tanks".
@@ -113,7 +110,6 @@ Tank Preparation/Purging/Bottom Wastes
    1. Disconnecting and restore any utility services that may interfere with tank removal.
    1. Notify companies and local authorities owning poles, conduit, wires or pipes running to the building or structure. Take out all required permits and pay all required fees related to this work.
    1. Existing service piping and utilities, including but not limited to:
-      1. 
 * Sewer, water and gas.
 * Electrical service
 * Telephone, fire alarm system, data, and intercommunications.
@@ -127,7 +123,6 @@ Tank Preparation/Purging/Bottom Wastes
    1. Tank removals must be properly documented. Documentation shall conform to the minimum requirements listed in WI Admin. Code COM 10, Appendix B.
    1. Department of Commerce "Checklist For Underground Tank Closure", form SBD‑8951, shall be completed for each tank removal and submitted to the Department of Commerce at the address shown on the form. Send an additional copy to the Project Engineer. Preferably, this form should be completed by an environmental consultant, Department of Commerce or DNR agent, local fire chief, or other neutral third party.
    1. Prepare a Closure Assessment Report, documenting all tank removal and site assessment activities, analysis results, and other documentation within 30 days of the removal date. Copies of the report should be sent to the following:
-      1. 
 * Bureau of Solid and Hazardous Waste Management  
 Environmental Response and Repair Section  
 Madison, WI 53707

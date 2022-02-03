@@ -8,7 +8,8 @@ tags: ['Procurement', 'Contracting', 'Requirements', 'Supplementary', 'Condition
 ---
 
 1. Engineers Joint Documents Committee
-1. Design and Construction Related Documents*1. Instructions and License Agreement
+1. Design and Construction Related Documents
+	1. Instructions and License Agreement
 1. Instructions
 1. Before you use any EJCDC document:
       1. Read the License Agreement. You agree to it and are bound by its terms when you use the EJCDC document.
@@ -286,7 +287,6 @@ Principal EJCDC Documents Relating to Preparation of Construction Documents
 02. *Subsurface and Physical Conditions*
 1. This is a mandatory Supplementary Condition.** GC-4.02 requires the identification of all known documents regarding subsurface and physical conditions at the Site. Use the first version of SC-4.02, presented immediately below, for the purpose of identifying the known Site condition documents. If no such documents are known, then use the second version of SC-4.02, below.
    1. SC-4.02 Add the following new paragraphs immediately after Paragraph 4.02.B:
-      1. 
 	1. The following reports of explorations and tests of subsurface conditions at or contiguous to the Site are known to Owner:
       1. Report dated May 21, 2000, prepared by Aye and Bea, Consulting Engineers, Philadelphia, Pa., entitled:
       1. “Results of Investigation of Subsoil Conditions and Professional Recommendations for Foundations of Iron Foundry at South and Front Streets, Pembrig, NJ”, consisting of 42 pages. The “technical data” contained in such report upon which Contractor may rely is** *[here indicate any such “technical data” or state “none.”]*
@@ -305,8 +305,7 @@ Principal EJCDC Documents Relating to Preparation of Construction Documents
 2. Copies of reports and drawings identified in SC-4.02.C and SC-4.02.D that are not included with the Bidding Documents may be examined at \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_** *[insert location]* **during regular business hours.
    1. If there are no known Site-related reports or drawings, use the following version of SC-4.02:
       1. SC-4.02 Delete Paragraphs 4.02.A and 4.02.B in their entirety and insert the following:
-            1. 
-	1. No reports of explorations or tests of subsurface conditions at or contiguous to the Site, or drawings of physical conditions relating to existing surface or subsurface structures at the Site, are known to Owner.
+      	1. No reports of explorations or tests of subsurface conditions at or contiguous to the Site, or drawings of physical conditions relating to existing surface or subsurface structures at the Site, are known to Owner.
    1. SC-4.06 *Hazardous Environmental Conditions*
 1. This is a mandatory Supplementary Condition.** GC-4.06 contemplates the identification of all known documents regarding Hazardous Environmental Conditions (HEC) that have been identified at the Site. Use the first version of SC-4.06, presented immediately below, to identify the known HEC documents. If no HEC documents are known, then use the second version of SC-4.06, below.
 1. SC-4.06 Add the following subparagraphs 4.06.A.1 and 4.06.A.2:
@@ -328,7 +327,6 @@ Principal EJCDC Documents Relating to Preparation of Construction Documents
 1. B. Not Used.
    1. SC-5.04 *Contractor’s Liability Insurance1. This is a mandatory Supplementary Condition**, for it specifies the limits of the coverages for the insurance required in GC-5.04.
    1. SC-5.04 Add the following new paragraph immediately after Paragraph 5.04.B:
-      1. 
 	1. The limits of liability for the insurance required by Paragraph 5.04 of the General Conditions shall provide coverage for not less than the following amounts or greater where required by Laws and Regulations:
       1. Workers’ Compensation, and related coverages under Paragraphs 5.04.A.1 and A.2 of the General Conditions:
          1. State:
@@ -360,10 +358,8 @@ where applicable.
 1. Each Occurrence $
 1. Automobile Liability under Paragraph 5.04.A.6 of the General Conditions:
       1. Bodily Injury:
-      1. 
 Each person $** **Each Accident $
 1. Property Damage:
-      1. 
 Each Accident $
 
 *[or]*
@@ -371,10 +367,8 @@ Each Accident $
 			1. Combined Single Limit of $
 1. The Contractual Liability coverage required by Paragraph 5.04.B.4 of the General Conditions shall provide coverage for not less than the following amounts:
       1. Bodily Injury:
-      1. 
 Each person $** **Each Accident $
 1. Property Damage:
-      1. 
 Each Accident $** **Annual Aggregate $
 
 *[Here list additional types and amounts of insurance that may be required by Owner.]*
@@ -382,7 +376,6 @@ Each Accident $** **Annual Aggregate $
 *[Here list by name (not genre) other persons or entities to be included on policy as additional insureds.]*
    1. SC-5.06 *Property Insurance*
    1. GC-5.06.A.1 refers to other individuals or entities that are to be identified in SCs as being entitled to protection as loss payees under the property insurance on the Work. In such cases use the following:
-      1. 
 1. SC-5.06.A.1 Add the following new subparagraph after subparagraph GC-5.06.A.1:
       1. a. In addition to the individuals and entities specified, include as loss payees the following:
             1. *[Here list by name (not genre) other persons or entities to be include on policy as loss payees.]*
@@ -395,7 +388,8 @@ Each Accident $** **Annual Aggregate $
 1. include expenses incurred in the repair or replacement of any insured property (including but not limited to fees and charges of engineers and architects);
 1. cover materials and equipment stored at the Site or at another location that was agreed to in writing by Owner prior to being incorporated in the Work, provided that such materials and equipment have been included in an Application for Payment recommended by Engineer;
 1. allow for partial utilization of the Work by Owner;
-1. include testing and startup;*1. be maintained in effect until final payment is made unless otherwise agreed to in writing by Owner, Contractor, and Engineer with 30 days written notice to each other loss payee to whom a certificate of insurance has been issued; and
+1. include testing and startup;
+	1. be maintained in effect until final payment is made unless otherwise agreed to in writing by Owner, Contractor, and Engineer with 30 days written notice to each other loss payee to whom a certificate of insurance has been issued; and
 1. comply with the requirements of Paragraph 5.06.C of the General Conditions.
    1. GC-5.06.B states that Owner will purchase "equipment breakdown" insurance (formerly referred to as "boiler and machinery" insurance) or other additional property insurance if required to do so by the Supplementary Conditions or Laws and Regulations. If there is a specific requirement that Owner purchase any such property insurance, include the following, selecting Owner as the purchaser. In the alternative, the Contract could require that Contractor purchase equipment breakdown or other additional property insurance, in which case the following may be used for that purpose, by selecting Contractor as purchaser:
          1. SC-5.06 Delete Paragraph 5.06.B and replace with the following:
@@ -403,12 +397,10 @@ Each Accident $** **Annual Aggregate $
    1. SC-6.06 *Concerning Subcontractors, Suppliers, and Others*
    1. If the Owner wishes to release payment information, use the following:
       1. SC-6.06 Add a new paragraph immediately after Paragraph 6.06.G:
-            1. 
-	1. Owner may furnish to any Subcontractor or Supplier, to the extent practicable, information about amounts paid to Contractor on account of Work performed for Contractor by a particular Subcontractor or Supplier.
+      	1. Owner may furnish to any Subcontractor or Supplier, to the extent practicable, information about amounts paid to Contractor on account of Work performed for Contractor by a particular Subcontractor or Supplier.
    1. SC-6.10 *Taxes   1. If Owner qualifies for a state or local sales or use tax exemption in the purchase of certain materials and equipment, add the following:
       1. SC-6.10 Add a new paragraph immediately after Paragraph 6.10.A:
-            1. 
-	1. Owner is exempt from payment of sales and compensating use taxes of the State of** *[insert name of state where Project is located]* **and of cities and counties thereof on all materials to be incorporated into the Work.
+      	1. Owner is exempt from payment of sales and compensating use taxes of the State of** *[insert name of state where Project is located]* **and of cities and counties thereof on all materials to be incorporated into the Work.
 1. Owner will furnish the required certificates of tax exemption to Contractor for use in the purchase of supplies and materials to be incorporated into the Work.
 1. Owner’s exemption does not apply to construction tools, machinery, equipment, or other property purchased by or leased by Contractor, or to supplies or materials not incorporated into the Work.
    1. SC-6.13 *Safety and Protection*
@@ -417,8 +409,7 @@ Each Accident $** **Annual Aggregate $
             1. The following Owner safety programs are applicable to the Work:** *[here expressly identify by title and/or date, any such Owner safety programs]*
    1. SC-6.17 *Shop Drawings and Samples   1. Reviews of multiple resubmissions of Shop Drawings and other submittals may increase Project costs. To mitigate this, the following language may be used:
       1. SC-6.17 Add the following new paragraphs immediately after Paragraph 6.17.E:
-            1. 
-	1. Contractor shall furnish required submittals with sufficient information and accuracy in order to obtain required approval of an item with no more than three submittals. Engineer will record Engineer’s time for reviewing subsequent submittals of Shop Drawings, samples, or other items requiring approval and Contractor shall reimburse Owner for Engineer’s charges for such time.
+      	1. Contractor shall furnish required submittals with sufficient information and accuracy in order to obtain required approval of an item with no more than three submittals. Engineer will record Engineer’s time for reviewing subsequent submittals of Shop Drawings, samples, or other items requiring approval and Contractor shall reimburse Owner for Engineer’s charges for such time.
 1. In the event that Contractor requests a change of a previously approved item, Contractor shall reimburse Owner for Engineer’s charges for its review time unless the need for such change is beyond the control of Contractor.
    1. SC-7.02 *Coordination*
    1. GC-7.02 requires that if in addition to retaining Contractor, Owner will contract with others to perform work at the Site, Owner must provide to Contractor specified information. Use the following in that case:
@@ -436,7 +427,6 @@ Each Accident $** **Annual Aggregate $
    1. If Contractor is delayed at any time in performing or furnishing the Work by any act or neglect of another contractor, and Owner and Contractor are unable to agree as to the extent of any adjustment in Contract Times attributable thereto, Contractor may make a Claim for an extension of times in accordance with Article 12. An extension of the Contract Times shall be Contractor’s exclusive remedy with respect to Owner, Engineer, and construction coordinator for any delay, disruption, interference, or hindrance caused by any other contractor. This paragraph does not prevent recovery from Owner, Engineer, or construction coordinator for activities that are their respective responsibilities.
 SC-8.11 *Evidence of Financial Arrangements   1. The following SC-8.11 is intended for use in contracts where Owner is a private entity. It is reasonable for Contractor to seek such information, particularly if Owner and Contractor do not have a continuing relationship.
    1. SC-8.11 Add the following new paragraph immediately after Paragraph 8.11.A:
-      1. 
 	1. On request of Contractor prior to the execution of any Change Order involving a significant increase in the Contract Price, Owner shall furnish to Contractor reasonable evidence that adequate financial arrangements have been made by Owner to enable Owner to fulfill the increased financial obligations to be undertaken by Owner as a result of such Change Order.
    1. SC-9.03 *Project Representative*
 
@@ -487,14 +477,12 @@ SC-8.11 *Evidence of Financial Arrangements   1. The following SC-8.11 is intend
 1. 8. Authorize Owner to occupy the Project in whole or in part.
    1. SC-11.01 *Cost of the Work   1. Equipment rental charges, particularly with respect to Contractor-owned equipment, can sometimes lead to disagreements. To reduce the possibility of such disagreements, the following SC may be used. Note that it requires a published reference or method for determining the costs.
    1. SC-11.01.A.5.c Delete Paragraph 11.01.A.5.c in its entirety and insert the following in its place:
-      1. 
 			1. *Construction Equipment and Machinery:*
 1. 1) Rentals of all construction equipment and machinery, and the parts thereof in accordance with rental agreements approved by Owner with the advice of Engineer, and the costs of transportation, loading, unloading, assembly, dismantling, and removal thereof. All such costs shall be in accordance with the terms of said rental agreements. The rental of any such equipment, machinery, or parts shall cease when the use thereof is no longer necessary for the Work.
 1. 2) Costs for equipment and machinery owned by Contractor will be paid at a rate shown for such equipment in the** [*cite the rate book appropriate for the Project*]**. An hourly rate will be computed by dividing the monthly rates by 176. These computed rates will include all operating costs. Costs will include the time the equipment or machinery is in use on the changed Work and the costs of transportation, loading, unloading, assembly, dismantling, and removal when directly attributable to the changed Work. The cost of any such equipment or machinery, or parts thereof, shall cease to accrue when the use thereof is no longer necessary for the changed Work. Equipment or machinery with a value of less than $1,000 will be considered small tools.
    1. SC-11.03 *Unit Price Work*
    1. The following SC is typically called a variation in estimated quantities clause and facilitates administrative resolution of situations where actual quantities differ materially from estimated quantities. Typically, the clause applies where the Bid price of an item of the Unit Price Work is more than 5 percent of the Contract Price and the actual quantity of the units of work performed varies by 15 to 25 percent. 
    1. SC-11.03.D Delete Paragraph 11.03.D in its entirety and insert the following in its place:
-      1. 
 	1. The unit price of an item of Unit Price Work shall be subject to reevaluation and adjustment under the following conditions:
       1. if the Bid price of a particular item of Unit Price Work amounts to**  **percent or more of the Contract Price and the variation in the quantity of that particular item of Unit Price Work performed by Contractor differs by more than**  **percent from the estimated quantity of such item indicated in the Agreement; and
 1. if there is no corresponding adjustment with respect to any other item of Work; and

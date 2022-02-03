@@ -14,17 +14,13 @@ tags: ['General', 'Requirements', 'Abbreviations', 'Acronyms']
 
 1. SUMMARY
    1. Work included:
-      1. 
 2. Related work described elsewhere:
-      1. 
 	1. Section 01 42 00, References.
 	2. Section 01 42 16, Definitions.
 	3. Section 01 42 19, Reference Standards.
 	4. Abbreviations and Acronyms
 3. This section lists abbreviations commonly used in these specification documents:
-      1. ac
-   1. Alternating current
-   1. AH
+      1. Alternating current
    1. Ampere hour(s)
    1. AIC
    1. Ampere interrupting capacity
@@ -40,9 +36,7 @@ tags: ['General', 'Requirements', 'Abbreviations', 'Acronyms']
    1. Average
    1. AWG
    1. American wire gauge
-   1. BF
    1. Ballast factor
-   1. BH
    1. Brinell hardness
    1. bhp
    1. Brake horsepower
@@ -58,7 +52,6 @@ tags: ['General', 'Requirements', 'Abbreviations', 'Acronyms']
    1. Calorie(s)
    1. CBOD
    1. Carbonaceous biochemical oxygen demand
-   1. cc
    1. Cubic centimeter(s)
    1. cfd
    1. Cubic feet per day
@@ -70,27 +63,20 @@ tags: ['General', 'Requirements', 'Abbreviations', 'Acronyms']
    1. Cubic feet per second
    1. CID 
    1. Commercial Item Description 
-   1. cm
    1. Centimeter(s)
    1. COD
    1. Chemical oxygen demand
-   1. Cp
    1. Specific heat at constant pressure
-   1. CR
    1. Condensate return
    1. CRI
    1. Color rendering index
-   1. CU
    1. Coefficient of utilization
-   1. cu
    1. Cubic
-   1. cu
    1. Cubic foot (feet)
    1. cuin
    1. Ft cubic inch(es)
    1. cuyd
    1. Cubic yard(s)
-   1. Cv
    1. Coefficient, valve flow
    1. dB
    1. Decibels

@@ -30,7 +30,6 @@ tags: ['Facility', 'Services', 'Communications', 'Public', 'Address', 'Systems']
       1. Product data:
          1. Manufacturers descriptive literature of each type of product with descriptive specifications, engineering data sheets. These items are to be submitted with the bid.
    1. Shop Drawings:
-      1. 
    1. Indicate system components location, and provide full schematic of wiring system on building floor plans, with conductor routings and quantities, and connection details. These items are to be submitted before construction can begin in an area.
    1. Detail equipment assemblies and indicate dimensions, weights, required clearances, method of field assembly, components, and location and size of each field connection.
    1. Console layouts.
@@ -72,7 +71,9 @@ tags: ['Facility', 'Services', 'Communications', 'Public', 'Address', 'Systems']
    1. Provide one (1) year warranty on cable installation and cable connection to speakers.
    1. Warranty shall include all repair labor and parts and travel time.
 1. Retain definition(s) remaining after this Section has been edited.
-1. PRODUCTS
+
+## PRODUCTS
+
    1. Paging System
    1. Valcom Inc., 5614 Hollins Road, Roanoke, VA 24019
    1. Dukane Corporation, 2900 Dukane Drive, St. Charles, IL 60174
@@ -165,7 +166,9 @@ tags: ['Facility', 'Services', 'Communications', 'Public', 'Address', 'Systems']
    1. Non-plenum rated cable, West Penn 224 or equal.
     1. Plenum rated cable, West Penn 25224B or equal.
 1. See Editing Instruction No. 1 in the Evaluations for cautions about naming manufacturers. Retain paragraph and list of manufacturers below. See Division 01 Section "Product Requirements."
-1. EXECUTION
+
+## EXECUTION
+
 1. INSTALLATION 
    1. Conduit Installation
    1. Wiring to be installed in conduit in the following areas and as otherwise noted:
@@ -178,7 +181,6 @@ tags: ['Facility', 'Services', 'Communications', 'Public', 'Address', 'Systems']
    1. When transitioning from grid ceiling area into open area requiring conduit use a conduit through the wall and fire seal around the conduit in the wall.
    1. Comply with requirements for raceways and boxes specified in related Division 26 Sections.
    1. Wiring Installation:
-      1. 
    1. Install cables in raceways and cable trays except within consoles, cabinets, desks, and counters, and except in accessible ceiling spaces and in gypsum board partitions where unenclosed wiring method may be used. Conceal raceway and cables except in unfinished spaces.
    1. Comply with NECA 1.
    1. Terminate conductors; no cable shall contain unterminated elements. Make terminations only at outlets and terminals.

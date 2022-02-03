@@ -69,7 +69,7 @@ tags: ['Facility', 'Construction', 'Concrete', 'Reinforcing']
 4. Welded Wire Reinforcement:
 	1. Conform to ASTM A185.
 	2. Shall be lapped one full mesh at splices and tied together.
-5. 2.2 Accessories
+1. Accessories
    1. Chairs, Runners, Bolsters, Spacers, Hangers, and Other Reinforcing Supports:
 	3. Metal fabrications with plastic-coated tips in contact with forms.
 		1. Plastic coating meeting requirements of CRSI Manual of Standard Practice.
@@ -141,7 +141,7 @@ tags: ['Facility', 'Construction', 'Concrete', 'Reinforcing']
 		2. Clean holes per manufacturer's recommendations.
 		3. Place adhesive in drilled hole.
 		4. Insert rebar into hole and adhesive in accordance with manufacturer's instructions.
-1. 3.2 Quality Control
+1. Quality Control
    1. Reinforcement Congestion and Interferences:
 	1. Notify Engineer whenever the specified clearances between rebars cannot be met.
 	2. Do not place any concrete until the Engineer submits a solution to rebar congestion problem.

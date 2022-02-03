@@ -20,7 +20,6 @@ tags: ['General', 'Requirements', 'Scheduling', 'Work']
 
 	1. SUBMITTALS
    1. Submittals shall be in accordance with the requirements of these Contract Documents and shall include the following as a minimum:
-      1. 
    1. Overall Project Schedule
 1. Initial Project Schedule
       1. The initial project schedule shall be submitted 5 days prior to the preconstruction conference for review by the Owner.

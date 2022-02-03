@@ -59,12 +59,12 @@ tags: ['Facility', 'Construction', 'Metals', 'Metal', 'Railings']
       1. Corrosion-inhibitive protective metal primer.
 6. Grout:
       1. Non-shrink grout shall be utilized. 
-7. 2.2 Fabrication
+1. Fabrication
    1. Metal handrails and railings shall be fabricated by firms or shops experienced and skilled in the custom fabrication of architectural metal handrails and railings, and shall meet the quality requirements of NAAMM's Pipe Railing Manual.
 8. Bends in rails shall be precision-formed to a smooth continuous radius by skilled workers. Work quality and finish shall be true to detail. Butt joints shall have internal pipe sleeve or dowel. Ends shall be closed with similar materials, welded and ground smooth.
 9. Welding shall be performed in the shop unless otherwise indicated. Welded joints of handrails and railings shall be ground and dressed smooth to match adjacent surfaces and so that the shape and profile of the item welded is maintained.
 10. Metal handrails and railings shall be prefabricated and preassembled in the factory or shop as far as practicable.
-11. 2.3 Galvanizing
+11. Galvanizing
    1. Ferrous metal railings and related items on the exterior of the building, or as otherwise indicated, shall be galvanized, after fabrication, by the hot-dip process in accordance with ASTM A123 and ASTM A385. Weight of zinc coating shall conform to requirements specified under "Weight of Coating" in ASTM A123.
 
 ## Execution

@@ -37,7 +37,7 @@ tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Sto
 	2. Warranty
 7. See Division 0 for project warranty requirements.
 ## Product
-1. 2.1 Acceptable Manufacturers
+1. Acceptable Manufacturers
    1. Chemical Feed Pumps:
 	1. Pulsafeeder
 2. Pre-engineered Pump Skid Systems:
@@ -45,7 +45,7 @@ tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Sto
 3. Injectors:
 	1. Inyo Process
 4. Submit request for substitution in accordance with Specification Section 01 25 00.
-1. 2.2 Pre-approved Products
+1. Pre-approved Products
    1. Pump Skid:
 	1. Pulsatron PES2CVCF
 2. Chemical Feed Pumps:
@@ -55,7 +55,7 @@ tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Sto
 	1. Corporation stops with injector quills
 		1. CS100BH6F for sodium hypochlorite solution
 		2. CS100BS6F for coagulant
-1. 2.3 General
+1. General
    1. Corporation stops
 	1. Connection:
 		1. Connect to process pipe using service saddle and corporation stop.
@@ -68,7 +68,7 @@ tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Sto
 
 ## Execution
 
-1. 3.1 Installation
+1. Installation
    1. Chemical Feed Pumps:
 	1. Install the chemical feed pumps as indicated on the drawings and specified and in compliance with the manufacturer’s instructions.
 2. Pump Skid:
@@ -88,7 +88,7 @@ tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Sto
 			3. Injector should allow for rodding in place.
 			4. Connection must include an acceptable safety device to prevent accidental withdrawal of injection solution tube while under pressure and/or surge conditions.
 			5. All wetted components shall be compatible with the chemical services.
-1. 3.2 Field Quality Control
+1. Field Quality Control
    1. Provide services of equipment manufacturer's field service representative(s) to:
 	1. Inspect equipment covered by this Specification Section.
 	2. Supervise pre-start adjustments and installation checks.

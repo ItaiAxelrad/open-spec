@@ -95,7 +95,6 @@ tags: ['Facility', 'Services', 'Electrical', 'Enclosed', 'Bus', 'Assemblies']
    1. Provide minimum 75-mm-high (3-inch-high) curb around floor openings to prevent drainage of water and other liquids through opening. 
    1. Identification 
    1. Provide plastic sign, per related Division 1 sections of the Specifications, located at bends and turns and every 15 meters (50 feet) of horizontal length, and indicating the following line of information:
-      1. 
 
 "Warning: Do Not Stand on Busway." 
    1. Provide engraved, laminated plastic marker per Section 260553 at each end of each busway, and at 50 foot intervals, identifying the busway as shown on the drawings.

@@ -55,7 +55,7 @@ tags: ['Facility', 'Construction', 'Concrete', 'Reinforcement', 'Bars']
       1. ASTM A619-79, grade 60.
 2. Reinforcing bars to be welded:
       1. ASTM A706.
-1. 2.2 Accessories
+1. Accessories
    1. Chairs, Runners, Bolsters, Spacers, Hangers, and Other Reinforcing Supports:
 	1. Metal fabrications with plastic-coated tips in contact with forms.
 		1. Plastic coating meeting requirements of CRSI Manual of Standard Practice.
@@ -125,7 +125,7 @@ tags: ['Facility', 'Construction', 'Concrete', 'Reinforcement', 'Bars']
 		2. Clean holes per manufacturer's recommendations.
 		3. Place adhesive in drilled hole.
 		4. Insert rebar into hole and adhesive in accordance with manufacturer's instructions.
-1. 3.2 Quality Control
+1. Quality Control
    1. Reinforcement Congestion and Interferences:
 	1. Notify Engineer whenever the specified clearances between rebars cannot be met.
 	2. Do not place any concrete until the Engineer submits a solution to rebar congestion problem.

@@ -33,11 +33,12 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Stormwater', 'Conveyance']
 1. PROJECT CONDITIONS
    1. Retain this article if interruption of existing storm drainage service is required.
    1. Interruption of Existing Storm Drainage Service:
-      1. 
    1. Do not interrupt service to facilities occupied by Owner or others unless permitted under the following conditions and then only after arranging to provide temporary service according to requirements indicated:
       1. Notify Owner no fewer than two days in advance of proposed interruption of service.
    1. Do not proceed with interruption of service without Owner's written permission.
-1. PRODUCTS
+
+## PRODUCTS
+
    1. If using more than one type of material and joining method, identify various materials on Drawings and show points of transition from one material to another.
    1. CORRUGATED METAL PIPE AND FITTINGS
    1. Pipe shall conform to AASHTO M36 and shall be of full- circle, lock-seam type.
@@ -47,22 +48,20 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Stormwater', 'Conveyance']
    1. Piping in first paragraph below is available in NPS 1-1/2 to NPS 12 (DN 40 to DN 300). Joints are solvent-cemented type.
    1. Piping in first paragraph below is available in NPS 4 to NPS 12 (DN 100 to DN 300). Joints are gasketed type.
    1. Corrugated-Steel Pipe and Fittings:
-      1. 
    1. ASTM A 760/A 760M, Type I with fittings of similar form and construction as pipe.
    1. Special-Joint Bands:
-      1. 
    1. Corrugated steel with O-ring seals.
    1. Standard-Joint Bands:
-      1. 
    1. Corrugated steel.
    1. Coating:
-      1. 
    1. Aluminum 
    1. Zinc
 1. Piping in paragraph below is available in NPS 1/8 to NPS 24 (DN 6 to DN 600). Joints are solvent-cemented type.
 1. Retain one of four subparagraphs below for NPS 12 to NPS 144 (DN 300 to DN 3600).
 1. See Division 05 Section "Metal Gratings" for fabricated-steel grating.
-1. EXECUTION
+
+## EXECUTION
+
    1. EARTHWORK
    1. Excavation, trenching, and backfilling are specified in Division 31 Section "Earth Moving."
 

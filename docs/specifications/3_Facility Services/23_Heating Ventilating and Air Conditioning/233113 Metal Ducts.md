@@ -89,8 +89,11 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Store and handle sealant fire-stopping materials in compliance with manufacturers' recommendations to prevent their deterioration or damage due to moisture, high or low temperatures, contaminants, or other causes.
    1. Deliver and store stainless steel sheets with mill-applied adhesive protective paper maintained through fabrication and installation.
 1. Retain one of first two paragraphs below if welding is required. If retaining, also retain "Welding certificates" Paragraph in "Submittals" Article. Retain first paragraph if only one AWS standard is applicable. Retain second paragraph if more than one AWS standard is referenced.
-1. PRODUCTS
-1. MATERIALS*   1. Sheet Metal Materials
+
+## PRODUCTS
+
+1. MATERIALS
+	1. Sheet Metal Materials
    1. Sheet Metal, General:
       1. Provide sheet metal in thicknesses indicated, packaged and marked as specified in ASTM A700.
    1. Galvanized Sheet Steel:
@@ -219,7 +222,9 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
       1. Same as for nonelbow fittings specified above.
    1. Pleated Elbows Sizes through 14 Inches and Pressures through 10 Inches:
       1. 26-gauge.
-1. EXECUTION
+
+## EXECUTION
+
 1. ERECTION INSTALLATION APPLICATION
    1. Duct Installation, General
    1. Duct System Pressure Class:

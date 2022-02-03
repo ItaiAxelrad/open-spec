@@ -44,7 +44,7 @@ tags: ['Facility', 'Services', 'Plumbing', 'General', 'Service', 'Compressed-Air
 4. Warranty
    1. See Division 0 for project warranty requirements.
 ## Product
-1. 2.1 Acceptable Manufacturers
+1. Acceptable Manufacturers
    1. Subject to compliance with the Contract Documents, the following manufacturers are acceptable:
 	1. Air Compressor Unit:
 		1. Ametek
@@ -53,10 +53,10 @@ tags: ['Facility', 'Services', 'Plumbing', 'General', 'Service', 'Compressed-Air
 	3. Silencer
 		1. Ametek
 2. Submit request for substitution in accordance with Specification Section 01 25 00.
-1. 2.2 General
+1. General
    1. Blowers shall be of the rugged, industrial-duty, regenerative type, designed with maintenance-free, single or dual stage dynamics, free of contacting moving parts other than the motor ball bearings and shaft seal.
 2. Blowers shall be designed for continuous industrial service, delivering clean air, free of oils or any other “contaminants”.
-1. 2.3 Blower Construction
+1. Blower Construction
    1. Blower impeller shall be of one-piece, solid, radial-blade type.
 2. Blower housing shall be of one-piece construction to assure proper perpendicularity and clearances for the precision-machined impeller.
 3. Blower housing cover shall be of one-piece construction and precision-machined to assure perfect fit to the blower housing cover surface.
@@ -92,12 +92,12 @@ tags: ['Facility', 'Services', 'Plumbing', 'General', 'Service', 'Compressed-Air
 17. Silencers shall be installed on both the inlet and outlets and be compatible with the blower and filter design.
 18. Connection to be threaded or flanged. Threaded connections shall be NPT, while flanges are matched to 125 lb. ANSI Flanges.
 19. Silencers shall provide for noise reduction in accordance with OSHA Standards.
-1. 2.7 Compressed Air Piping
+1. Compressed Air Piping
    1. See Section 22 01 00.
-1. 2.8 Fabrication
+1. Fabrication
    1. Complete all brackets or connections and openings for air receiver and vessels prior to testing in manufacturer's plant.
 	1. No field welding or drilling permitted.
-1. 2.9 Source Quality Control
+1. Source Quality Control
    1. Blowers:
 	1. Test in accordance with ISO 1217.
 1. 2.10 Maintenance Materials
@@ -107,11 +107,11 @@ tags: ['Facility', 'Services', 'Plumbing', 'General', 'Service', 'Compressed-Air
 
 ## Execution
 
-1. 3.1 Installation
+1. Installation
    1. Comply with Section 11 01 00.
 2. Install products in accordance with manufacturer's instructions.
 3. Arrange pipe generally as shown in drawings. 
-1. 3.2 Field Quality Control
+1. Field Quality Control
    1. Provide services of equipment manufacturer's field service representative(s) to:
 	1. Inspect equipment covered by this Specification Section.
 	2. Supervise pre-start adjustments and installation checks.

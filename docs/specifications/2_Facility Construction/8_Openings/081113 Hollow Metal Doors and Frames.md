@@ -48,7 +48,7 @@ tags: ['Facility', 'Construction', 'Openings', 'Hollow', 'Metal', 'Doors', 'Fram
 	4. Delivery, Storage, and Handling
 8. Store doors and frames in accordance with SDI/ANSI A250.11.
 ## Product
-1. 2.1 Acceptable Manufacturers
+1. Acceptable Manufacturers
    1. Subject to compliance with the Contract Documents, the following manufacturers are acceptable:
 	1. Metal doors and frames:
 		1. CECO Corporation.
@@ -138,7 +138,7 @@ tags: ['Facility', 'Construction', 'Openings', 'Hollow', 'Metal', 'Doors', 'Fram
 
 ## Execution
 
-1. 3.1 Installation
+1. Installation
    1. Install doors and frames in accordance with SDI/ANSI A250.11, the Building Code IECC and manufacturer's instructions.
 2. Plumb, align, and brace frames securely until permanently anchored.
 	1. After completion of walls, remove temporary braces and spreaders.

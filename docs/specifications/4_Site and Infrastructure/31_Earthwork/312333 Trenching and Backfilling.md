@@ -25,7 +25,6 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Trenching', 'Backfilling']
 		3. Squeegee bedding or squeegee backfill material
 	2. Pipeline insulation.
    1. JOB CONDITIONS:
-      1. 
    1. This paragraph is not used.
 
 1. General REQUIREMENTS:
@@ -45,7 +44,6 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Trenching', 'Backfilling']
    1. CLASSIFIED EXCAVATION:
       1. Excavation will be classified as “Earth” or “Rock”. The cost for all Earth excavation is to be included in the installed pipe unit price, as provided in the Proposal. Rock excavation will be paid for separately, over and above the cost of earth excavation, when rock removal conforms to the stipulations included herein.
    1. Excavation shall be categorized for payment purposes according to the following criteria:
-      1. 
 	1. Earth Excavation: Earth Excavation shall include all material not having properties required for classifications as rock excavations; shall include all loose, broken, and/or laminated rock or stones and boulders which can be reasonably broken, plowed, and removed with skillfully operated, power-driven excavating equipment and having comparable capabilities of a Caterpillar 235 backhoe or equal.
    1. Soft sandstone or similar material which can be reasonably broken and removed by a backhoe or trencher will not be classified or paid for as Rock Excavation.
 
@@ -53,7 +51,6 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Trenching', 'Backfilling']
    1. For blasting operations, suitable weighted coverings shall be provided to confine all materials lifted by the blasting to within the limits of the trench or other excavation. The Contractor shall comply with all laws, ordinances and applicable safety code requirements and regulations relative to the handling, storage and use of explosives and the protection of life and property and he shall be responsible for all damage thereto caused by his blasting operations.
    1. As rock excavation is encountered, the Engineer and the Contractor must agree that such material to be excavated is Rock. At the end of each day's work, the Engineer, upon request, will calculate and inform the Contractor of the amount of Rock excavated for payment purposes. If the Contractor does not agree to the Engineer's quantities, he shall notify the Owner within one day.
    1. DEFINITIONS:
-      1. 
 
 	1. Compaction Density: Unless accurate results cannot be obtained, the compaction requirements shall conform to maximum dry density according to ASTM D698, Moisture-Density Relations of Soils (Standard Proctor). When the ASTM D698 test is not applicable, the percentage compaction requirements shall conform to ASTM D2049, Test for Relative Density of Cohesionless Soils, unless otherwise noted. The moisture content of all backfill material shall be within 2% of optimum unless otherwise noted.
 	2. Trench Zones: For the purpose of this Specification, the terms “Bedding Zone,” “Pipe Zone” and “Backfill Zone” shall refer to the trench zones identified on the Typical Trench Detailsshown on the Drawings.
@@ -61,7 +58,6 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Trenching', 'Backfilling']
 		2. Pipe Zone Material: Pipe zone material shall consist of all material placed above the pipe invert to an elevation shown on the details.
 		3. Backfill Zone Material: Backfill Zone material shall consist of all material above the Pipe Zone.
    1. PROTECTION OF EXISTING FACILITIES:
-      1. 
 		1. General: Existing power lines, telephone lines, fences, water mains, cables, conduits, ditches, embankments and other structures in the vicinity of the work not authorized to be removed, shall be supported and protected from injury by the Contractor during the construction and until completion of the work affecting them. The Contractor shall be liable for all damages done to such existing facilities and structures, as herein provided and he shall protect the Owner from any liability or expense for injuries, damages, or repairs to such facilities.
 	2. Underground Facilities: The type, size, location and number of all known underground facilities have been shown on the Drawings; however, no guarantee is made as to the true type, size, location, or number of such facilities. It shall be the responsibility of the Contractor to verify the existence and location of all underground utilities along the route of the work. The omission from, or the inclusion of, utility locations on the Drawings is not to be considered as the nonexistence of, or a definite location of, existing underground utilities. When working in areas of known pipes where the depth of pipe is not known, potholing shall be completed before any trenching shall begin. All utilities within the trenching limits of the pipe shall be potholed to verify their location and elevation before trenching begins.
    1. The Contractor shall notify the owner or owners of the existing utilities, whether aboveground or underground, 48 hours prior to proceeding with excavation whenever such operations are within ten feet of the possible location of any existing utility. The notification shall also include a request for field staking any such underground facility that may be in the area of influence by the construction.
@@ -127,11 +123,9 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Trenching', 'Backfilling']
 ## Execution
 
 1. PREPARATION:
-      1. 
 		1. General: In natural areas, strip all topsoil, or in the absence of topsoil, strip the top surface material and store separately from other excavated materials in stockpile areas designated by the Owner.
    1. In turf areas, separate excavated topsoil from other excavated materials. Stockpile all materials on filter fabric or burlap. Stockpiling on walks will not be allowed. Stockpiled materials will not be allowed on growing turf for more than 5 days. In turf areas remove sod with sod cutting machine in a manner that provides straight and uniform edges.
    1. TRENCH EXCAVATION:
-      1. 
 		1. General: Excavate trenches to lines, grades, and elevations indicated or staked in the field. Fine grade the trench bottom throughout and excavate to accommodate joints and connections so the barrel of the pipe will receive bearing pressure throughout its entire length.
 	2. Trench Depth: The trenches shall be excavated to such depths that the pipeline can be laid at the elevation of the grade lines shown on the Drawings, or at the depths or covers specified on the Drawings or as specified in the Sections for specific pipeline installations. 
 	3. Existing Asphalt Pavement: The excavation in areas with asphalt paving must be confined to a minimum width as required to maintain a safe trench condition. The pavement shall be cut vertical and on a straight line.
@@ -204,7 +198,6 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Trenching', 'Backfilling']
    1. The Contractor may slope or bench the trench sidewalls when necessary due to soils conditions to maintain a safe trench condition and conform to OSHA requirements. Such sloping or benching shall terminate at a depth not lower than one foot above the top of the pipe barrel, and from that point down, the trench wall shall be vertical. The trenching operation, including the spoil bank and sloping of the trench sidewalls shall be confined to the width of the permanent and temporary rights-of-way, if any. The Contractor shall provide a design for sloping or benching by a registered professional engineer for trenches over 20 feet in depth.
    1. A clear area shall be maintained a sufficient distance back from the top edge of the excavation to avoid overloading that may cause slides or caving of the trench walls. The excavated material shall be kept trimmed in such a manner as to be of as little inconvenience as possible to the public and adjoining property owners. Unless otherwise authorized by the Engineer, all public thoroughfares and crossroads shall be kept open to traffic. When authorized by the Engineer at street crossings, sidewalks and other points considered necessary, the trenches shall be bridged in a safe manner so as to prevent serious interruption of travel and to provide access to fire hydrants and public and private premises.
    1. Bedding and Backfill Installation:
-      1. 
 		1. General: Unless accurate results cannot be obtained, the compaction requirements shall conform to maximum dry density according to ASTM D698, Moisture-Density Relations of Soils (Standard Proctor). When the ASTM D698 test is not applicable, the percentage compaction requirements shall conform to ASTM D2049, Test for Relative Density of Cohesionless Soils.
    1. When required by the Engineer, the Contractor shall excavate backfilled trenches for the purpose of performing compaction tests at locations and depths required by the Engineer.
 
@@ -221,7 +214,6 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Trenching', 'Backfilling']
    1. UNSUITABLE MATERIALS:
       1. At locations where unstable or undesirable conditions are encountered and as designated by the Engineer, the Contractor shall excavate and dispose of excavated materials. This material shall be replaced with suitable materials from other project earthwork that will be placed and compacted according to the requirements of the item of work involved.
    1. SURFACE RESTORATION:
-      1. 
 		1. General: Where pavement, curb and gutter, sidewalks, or other improved surfaces have been removed or damaged during the course of the work, such items shall be restored to a condition equal to that prior to removal, to the same elevation and alignment. The subgrade for all restored surfaces shall be thoroughly compacted by mechanical or hand tampers, weighing not less than 20 pounds, or vibratory rollers, or by other proposed means of compaction acceptable to the Engineer. Base course shall be added for bituminous pavement.
    1. Sod defined as densely grassed turf, which is removed shall be replaced with sod of the same quality, or the sod removed may be put back if it has been properly stored and remains in a healthy condition.
 
@@ -251,7 +243,6 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Trenching', 'Backfilling']
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 1. THE FOLLOWING APPLIES TO THE MATERIALS SECTION OF THIS SPECIFICATION**:
-      1. 
 	1. HISTORY:
       1. 2.
 2. Mard.
@@ -262,11 +253,9 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Trenching', 'Backfilling']
 5. P?
 6. P.
 7. P:
-      1. 
 	1. T.
 	2. A
    1. THE FOLLOWING APPLIES TO THE EXECUTION SECTION OF THIS SPECIFICATION:
-      1. 
 	1. HISTORY
 	2. MODIFICATIONS
 	3. USE OF SPECIFICATION

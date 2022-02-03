@@ -23,7 +23,6 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Stormwater']
 1. SCOPE
    1. Confirm application limits for Storm Drainage Utilities specifications. Coordinate with Division 22 Plumbing.
    1. The work under this section shall consist of providing all work, materials, labor, equipment, and supervision necessary to provide for the storm drainage work required in these specifications and on the drawings. The limits of the work, including the responsible party for testing purposes, shall be clearly defined on the Drawings. Included are the following topics:
-      1. 
 ## General
 
    1. Scope
@@ -110,7 +109,6 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Stormwater']
    1. AASHTO M294 Corrugated Polyethylene Pipe, 12- to 48-in Diameter
 1. SUBMITTALS
    1. Provide manufacturer’s product information (cut sheets), shop drawings and O&M information for storm drainage materials including:
-      1. 
 * Pipe
 * Fittings
 * Pre-Cast and Cast-in-Place Structures
@@ -197,7 +195,8 @@ Value
    1. Each length of straight and special HDPE pipe and each HDPE fitting shall be plainly marked on the outside to identify the design pressure or class of pipe, proper location of the pipe or fitting in the pipeline, and the date of manufacture. 
 1. HDPE corrugated WALL PIPE
 1. *Note to the designer:
-      1. This pipe is not acceptable for use under roadways, parking lots, loading docks or other vehicle traffic areas because the pipe’s strength and stability is dependent on bedding cover and backfill materials and proper compaction.**   1. Corrugated pipe with an integrally formed smooth liner. Pipes that are between 4 inch diameter and 36 inch diameter shall meet the requirements of AASHTO M252 and M294, Type S.
+      1. This pipe is not acceptable for use under roadways, parking lots, loading docks or other vehicle traffic areas because the pipe’s strength and stability is dependent on bedding cover and backfill materials and proper compaction.*
+	1. Corrugated pipe with an integrally formed smooth liner. Pipes that are between 4 inch diameter and 36 inch diameter shall meet the requirements of AASHTO M252 and M294, Type S.
    1. Pipe and fittings shall be manufactured from virgin PE compounds conforming to the requirements of ASTM D3350, cell class 324420C.
    1. Joints for fittings and pipe shall be soil-tight bell and spigot, provided with rubber gasket. Rubber gasket shall be installed by the pipe manufacturer. 
 1. corrugated metal pipe
@@ -253,7 +252,8 @@ Value
    1. Precompressed butyl gasket, 3/8” x 3½” shall be used between the top of the manhole and first adjustment ring, and between all subsequent rings. Butyl material shall be E-Z Stick, or equal.
 1. INLETS & CATCH BASINS
 1. *Note to the designer:
-      1. Determine the need for cast-in-place inlets and catch basins based on depth and configuration of inflow and outflow pipes.**1. *Provide details in drawings showing inlet sizes needed for project specific hydrology, pipe size, location and orientation as well as wall thickness and bottom thickness needed for external loads including depth, soils and vehicular traffic.**
+      1. Determine the need for cast-in-place inlets and catch basins based on depth and configuration of inflow and outflow pipes.*
+	1. *Provide details in drawings showing inlet sizes needed for project specific hydrology, pipe size, location and orientation as well as wall thickness and bottom thickness needed for external loads including depth, soils and vehicular traffic.**
 ## General
 
    1. Inlets and catch basins shall be round or rectangular precast concrete unless otherwise shown or required. Cast-in-place inlets may only be used after receiving written approval by the DFD Project Representative and the A/E for customized sizes and shapes.
@@ -314,7 +314,6 @@ Value
 ## General
 
    1. Provide apron endwalls where shown on the drawings and at the following locations:
-      1. 
 * Where storm sewers outfall into ditches, swales or other surface water body
 * On both ends of a culvert pipe (pipe that crosses under a road, sidewalk, trail or other surface feature)
    1. Unless otherwise indicated, apron endwalls shall be constructed of the same material, same sidewall thickness and to the same design standards as the pipe they are connected to. Apron endwalls shall be the same diameter as the pipe that they are connected to.
@@ -336,7 +335,6 @@ Value
 
    1. Complete exploratory excavations at utility crossings as shown on the drawings and as necessary to complete the work.
    1. Maintain clearances between existing or proposed storm drainage lines and watermains as follows:
-      1. 
 * 8’ horizontal separation (measured center to center) between existing or proposed sanitary or storm drainage lines and watermains. 
 * 12” vertical separation (measured from outsides of pipes) where watermains cross over sanitary or storm drainage lines.
 * 18” vertical separation (measured from outsides of pipes) where watermains cross under sanitary or storm drainage lines.
@@ -381,13 +379,15 @@ Value
    1. Make all necessary openings into existing structures or drainage pipes including the reconstruction of existing inverts or benches, as necessary. Patch all openings permanently watertight with concrete brick and mortar, hydraulic cement, or flexible watertight boots.
 1. DRAINAGE LATERALS
 1. *Note to the designer:
-      1. If connecting lateral to storm drainage main owned by municipality or drainage district, verify connection requirements and modify this specification accordingly. A manhole may be required at the connection of a lateral greater than 6-inches in diameter to the storm drainage main.**   1. Connect existing storm drainage laterals in accordance with all of the requirements of the storm drainage mains, including bedding, backfill, compaction, and jointing of the pipe. Connect drainage laterals to the storm drainage main by means of an approved "wye" fitting. Connect the new pipe to the existing lateral material using a no-hub coupling or approved transition fitting. Coupling/fitting shall be selected for the specific pipe material being connected. 
+      1. If connecting lateral to storm drainage main owned by municipality or drainage district, verify connection requirements and modify this specification accordingly. A manhole may be required at the connection of a lateral greater than 6-inches in diameter to the storm drainage main.*
+	1. Connect existing storm drainage laterals in accordance with all of the requirements of the storm drainage mains, including bedding, backfill, compaction, and jointing of the pipe. Connect drainage laterals to the storm drainage main by means of an approved "wye" fitting. Connect the new pipe to the existing lateral material using a no-hub coupling or approved transition fitting. Coupling/fitting shall be selected for the specific pipe material being connected. 
 1. PIPE INSULATION
    1. Provide insulation where indicated on the drawings. 
    1. Install insulation on compacted utility cover material, 6” above the top of the pipe. Stagger joints where more than one layer of insulation is required. Provide insulation with a minimum of 1’ of utility cover material. Place cover and backfill material in manner that does not damage insulation; replace any damaged insulation. 
 1. LOCATOR TAPE
    1. Install locator tape directly above new non-metallic storm sewer pipe approximately 15 inches below finished grade. Bring tape to surface and terminate in a drainage structure.
-1. DEFLECTION TESTING*   1. Test all PVC and HDPE drainage pipe in the presence of the DFD Project Representative by a "go-no-go" deflection test mandrel furnished by the Contractor. Do not perform deflection testing any sooner than 30 days following the installation of the pipe. Pull the mandrel by hand, or hand operated winch so as to avoid any damages to the pipe that may be caused by mechanized pulling equipment.
+1. DEFLECTION TESTING
+	1. Test all PVC and HDPE drainage pipe in the presence of the DFD Project Representative by a "go-no-go" deflection test mandrel furnished by the Contractor. Do not perform deflection testing any sooner than 30 days following the installation of the pipe. Pull the mandrel by hand, or hand operated winch so as to avoid any damages to the pipe that may be caused by mechanized pulling equipment.
    1. Size the mandrel to test the pipeline for a maximum allowable internal deflection of the pipe (in any direction) of not to exceed five (5) percent of the original internal diameter for the pipelines tested, regardless of how long after installation the testing takes place.
 1. *Note to the designer:
       1. If televising is not required for the storm drainage pipes on this project remove the paragraph below.*

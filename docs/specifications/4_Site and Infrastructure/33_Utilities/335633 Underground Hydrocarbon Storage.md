@@ -11,7 +11,8 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Underground', 'Hydrocarbon', 'Sto
 1. BELOW-GROUND FUEL STORAGE TANKS
 1. BASED ON DFD MASTER SPECIFICATION DATED 10/1/2012
 1. *(Note to the designer:
-      1. This section has been written to cover most (but not all) situations that you will encounter. Depending on the requirements of your specific project, you may have to add material, delete items, or modify what is currently written. The Division of Facilities Development expects changes and comments from you.**1. P A R T I - G E N E R A L
+      1. This section has been written to cover most (but not all) situations that you will encounter. Depending on the requirements of your specific project, you may have to add material, delete items, or modify what is currently written. The Division of Facilities Development expects changes and comments from you.*
+	1. P A R T I - G E N E R A L
 1. SCOPE
    1. The work under this section shall consist of providing all materials, labor, equipment, and supervision necessary to deliver, unload, store, protect, and install all equipment so as to provide a complete operating system. This will include all excavation and backfilling for the proper installation of the specified***(quantity, sizes)*** gallon double-walled ***(fiberglass/steel/composite)*** underground petroleum storage tank***(s)*** with appropriate openings, appurtenances, dispensing system, and related secondary containment piping to meet the needs of the system required in these specifications and on the drawings. It will include installation of concrete anchor pads for the tank***(s)***. It will include installation of a leak ***(detection/monitoring)*** system for the tank***(s)*** and all underground piping, with associated electrical control panel and wiring work. Steel tank installation will include a cathodic protection system. Concrete work and electrical work described under Part III - Execution herein shall be installed in accordance with respective division/sections of the Project Manual The finished product of the work shall comply with all applicable administrative regulatory codes. *(Note to the designer:
       1. Include brief description of the work and locations, if necessary).*** Included are the following topics:
@@ -58,7 +59,8 @@ Underground Tanks
     1. Site Restoration
     1. Construction Verification Items
     1. Agency Training
-1. RELATED WORK*   1. Section 01 91 01 or 01 91 02 – Commissioning Process
+1. RELATED WORK
+	1. Section 01 91 01 or 01 91 02 – Commissioning Process
    1. Division 3 – Concrete
    1. Division 26 – Electrical
    1. Division 31 – Earthwork
@@ -224,7 +226,8 @@ Underground Tanks
    1. Unless otherwise specified or noted on the drawings, fully and completely restore the surface of all disturbed areas to a like condition of the surface prior to the work. Sawcut all pavements to straight and neat lines and repair with like materials to the full depth of the pavement as existed prior to the work. Topsoil, fertilize, seed, and mulch (or sod) all disturbed landscaped areas with a minimum of four (4) inches of topsoil, fertilizer, seed, and mulch (or sod), or provide for the restoration of other landscaping materials as necessary.
    1. Level off all waste disposal areas and clean up all areas used for the storage of materials or the temporary deposit of excavated earth. Remove all surplus material, tools and equipment.
    1. Burning is not permitted.
-1. CONSTRUCTION VERIFICATION*   1. Contractor is responsible for utilizing the construction verification checklists supplied under specification Section 33 08 00 in accordance with the procedures defined for construction verification in Section 01 91 01 or 01 91 02.
+1. CONSTRUCTION VERIFICATION
+	1. Contractor is responsible for utilizing the construction verification checklists supplied under specification Section 33 08 00 in accordance with the procedures defined for construction verification in Section 01 91 01 or 01 91 02.
    1. AGENCY TRAINING
    1. All training provided for agency shall comply with the format, general content requirements and submission guidelines specified under Section 01 91 01 or 01 91 02.
    1. Contractor to provide factory authorized representative and/or field personnel knowledgeable with the operations, maintenance and troubleshooting of the system and/or components defined within this section for a minimum period of one hour. Training session must also include instructions on leak detection and record keeping as required by the Wisconsin Department of Commerce. Guidance must also be given as to how to respond in the event the monitoring panel indicates a leak in the system.

@@ -131,7 +131,9 @@ material uniformity has been established.
 8. WAYBILLS AND DELIVERY TICKETS
    1. Before the final statement shall be allowed, the Contractor shall file certified waybills and
 certified delivery tickets for all aggregates actually used, as specified in the Submittals paragraph.
-1. ## Product
+
+## Products
+
 1. AGGREGATES
    1. The ABC and GCA shall consist of clean, sound, durable particles of crushed stone, crushed slag, crushed gravel, crushed recycled concrete, angular sand, or other approved material. ABC shall be free of lumps of clay, organic matter, and other objectionable materials or coatings. GCA shall be free of silt and clay as defined by ASTM D 2487, organic matter, and other objectionable materials or coatings. The portion retained on the No. 4 sieve shall be known as coarse aggregate; that portion passing the No. 4 sieve shall be known as fine aggregate.
    1. Coarse Aggregate

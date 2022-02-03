@@ -9,7 +9,8 @@ tags: ['Procurement', 'Contracting', 'Requirements', 'Certificate', 'Completion'
 
 
  **Engineers Joint Documents Committee
-1. Design and Construction Related Documents*1. Instructions and License Agreement
+1. Design and Construction Related Documents
+	1. Instructions and License Agreement
 1. Instructions
 1. Before you use any EJCDC document:
       1. Read the License Agreement. You agree to it and are bound by its terms when you use the EJCDC document.

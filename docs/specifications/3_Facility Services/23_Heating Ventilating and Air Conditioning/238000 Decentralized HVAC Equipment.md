@@ -37,14 +37,12 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Shop Drawings:
       1. Submit assembly-type shop drawings showing unit dimensions, construction details, and field connection details.
    1. Wiring Diagrams:
-      1. 
    1. Submit manufacturer's electrical requirements for power supply wiring to terminal units. 
    1. Submit manufacturer's ladder-type wiring diagrams for interlock and control wiring. 
    1. Clearly differentiate between portions of wiring that are factory-installed and portions to be field-installed.
    1. Samples:
       1. Submit three samples of each type of cabinet finish furnished.
    1. Maintenance Data:
-      1. 
    1. Submit maintenance instructions, including lubrication instructions, filter replacement, motor and drive replacement, and spare parts lists. 
    1. Include this data, product data, and shop drawings in Operating and Maintenance Manuals in accordance with requirements of Division 23 of the Specifications.
 1. QUALITY ASSURANCE
@@ -68,7 +66,9 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Store terminal units and components in clean dry place. Protect from weather, dirt, fumes, water, construction debris, and physical damage.
    1. Comply with manufacturer's rigging and installation instructions for unloading terminal units and moving them to final location.
 1. First four paragraphs below are defined in Division 01 Section "Submittal Procedures" as "Action Submittals."
-1. PRODUCTS
+
+## PRODUCTS
+
 1. MANUFACTURERS
    1. Subject to compliance with requirements, provide baseboard radiation from one of the following:
       1. Edwards Engineering Corp.
@@ -94,11 +94,11 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. McQuay Inc.
    1. Trane (The) Co.
    1. Young Radiator Co.
-1. MATERIALS*   1. Baseboard Radiation
+1. MATERIALS
+	1. Baseboard Radiation
 	1. General:
       1. Provide baseboard radiation of lengths and in locations as indicated, and of capacities, style, and having accessories as scheduled.
    1. Cabinets:
-      1. 
    1. Minimum 20-gauge cold-rolled steel, one-piece back and top panel, front panel with integral damper. 
    1. Provide steel brackets, inserted in back/top panel, to support element and front panel. 
    1. Provide baked enamel finish. 
@@ -115,24 +115,20 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
       1. Provide unit heaters in locations as indicated, and of capacities, style, and having accessories as scheduled.
    1. Horizontal Unit Heaters
    1. Casings:
-      1. 
    1. Construct of steel, phosphatized inside and out, and finished with baked enamel. 
    1. Provide motor-mounted panel, minimum of 18-gauge steel. 
    1. Fabricate casing to enclose coil, louvers, and fan blades. 
    1. Provide louvers for 4-way air diffusion.
    1. Fans:
-      1. 
    1. Construct of aluminum and factory-balance. 
    1. Provide fan inlet orifice, smooth, and drawn into casing back panel.
    1. Coils:
-      1. 
    1. Construct of plate-type aluminum fins, mechanically bonded to copper tubes. 
    1. Design coil for use in steam or hot water applications.
    1. Motors:
       1. Provide totally enclosed motors, with built-in overload protection, having electrical characteristics as scheduled.
    1. Cabinet Heaters
 	1. General:
-      1. 
    1. Provide cabinet heaters having cabinet sizes in locations as indicated and of capacities, style, and having accessories as scheduled. 
    1. Include in basic unit chassis, coil, fan board, fan wheels, housings, motor, and insulation.
    1. Chassis:
@@ -140,17 +136,14 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Insulation:
       1. Faced, heavy density glass fiber.
    1. Cabinet:
-      1. 
    1. 16-gauge removable front panel, 18-gauge top and side panels. Insulate front panel over entire coil section. 
    1. Provide access door on coil connection side. 
    1. Clean cabinet parts, bonderize, phosphatize, and flow-coat with baked-on primer.
    1. Water Coils:
-      1. 
    1. Construct of 5/8-inch seamless copper tubes mechanically bonded to configurated aluminum fins. 
    1. Design for 300 psi and leak test at 300 psi under water. 
    1. Provide same end connections for supply and return.
    1. Fans:
-      1. 
    1. Provide centrifugal, forward curved double width fan wheels constructed of noncorrosive, molded, fiberglass-reinforced thermoplastic material. 
    1. Construct fan scrolls of galvanized steel.
    1. Motors:
@@ -172,7 +165,9 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
       1. 18-gauge steel sub base for vertical units, height as indicated.
    1. Extended Oilers:
       1. Plastic motor oiler tubes extending to beneath top discharge grille.
-1. PRODUCTS
+
+## PRODUCTS
+
 1. EXAMINATION
    1. Examine areas and conditions under which terminal units are to be installed. 
    1. Do not proceed with Work until unsatisfactory conditions have been corrected in manner acceptable to Installer.
@@ -199,12 +194,10 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Protect units with protective covers during balance of construction.
    1. Installation of Radiant Ceiling Panels
 	1. General:
-      1. 
    1. Install radiant ceiling panels where shown and in accordance with manufacturer's installation instructions. 
    1. Coordinate with other trades to assure proper clearances for installing piping to panels.
    1. Electrical Wiring
 	1. General:
-      1. 
    1. Install electrical devices furnished by manufacturer but not specified to be factory-mounted. 
    1. Furnish copy of manufacturer's wiring diagram submittal to Electric Installer.
    1. Verify that electrical wiring installation is in accordance with manufacturer's submittal and installation requirements of Division 26 of the Specifications. Do not proceed with equipment start-up until wiring installation is acceptable to Equipment Installer.

@@ -22,32 +22,25 @@ tags: ['Facility', 'Construction', 'Furnishings', 'Entrance', 'Floor', 'Mats', '
 	1. Entrance mats.
 	2. SUBMITTALS
 5. Product Data:
-      1. 
 	1. For each type of floor mat and frame.
 6. Shop Drawings:
-      1. 
 	1. Show the following:
 		1. Items penetrating floor mats.
 		2. Divisions between mat sections.
 7. Samples:
-      1. 
 	1. For each floor mat.
 8. Maintenance data.
 	1. QUALITY ASSURANCE
 9. Accessibility Requirements:
-      1. 
 	1. Provide installed floor mats that comply with Section 4.5 in the U.S. Architectural & Transportation Barriers Compliance Board's "Americans with Disabilities Act (ADA), Accessibility Guidelines for Buildings and Facilities (ADAAG)."
 ## Product
 
 	1. ENTRANCE MATS
    1. Carpet-Type Mats:
-      1. 
 	1. Nylon carpet bonded to thermoplastic composite.
 2. Size:
-      1. 
 	1. 24 by 24 inches.
 3. Walk-Off Mat Schedule:
-      1. 
 	1. Provide materials and products that result in quality, colors, and textures of surfaces complying with the Material Legend and items indicated in the drawings.
 
 ## Execution

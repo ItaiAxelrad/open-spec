@@ -14,7 +14,6 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Hydrocarbon', 'Transmission', 'Di
 1. P A R T 1 - G E N E R A L
 1. SCOPE
    1. This section contains specifications for all fuel utility distribution systems for this project. Included are the following topics:
-      1. 
 ## General
 
     1. Scope
@@ -81,7 +80,6 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Hydrocarbon', 'Transmission', 'Di
    1. TYPE E OR S STEEL PIPE:
       1. Mill certification papers, also known as material test reports, for the pipe furnished for this project, in English. Heat numbers on these papers to match the heat numbers stencilled on the pipe. Chemical analysis indicated on the mill certification papers to meet or exceed the requirements of the referenced ASTM specification.
    1. COPPER TUBE:
-      1. 
    1. Statement from manufacturer on his letterhead that the pipe furnished meets the ASTM specification contained in this section.
 1. QUALITY ASSURANCE
    1. Order all Type E and Type S steel pipe with heat numbers rolled, stamped, or stenciled to each length or each bundle, depending on the size of the pipe, and in accordance with the appropriate ASTM specification.
@@ -125,12 +123,14 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Hydrocarbon', 'Transmission', 'Di
          1. Shall consist of totally encapsulating the primary pipe with minimum of one pipe size larger than primary pipe. Secondary containment pipe shall be dual angle filament wound fiberglass reinforced epoxy pipe with an integral epoxy liner and resin rich exterior coating. Fittings shall be factory fabricated of 2‑piece construction complete with nut, bolts, and washers for field assembly or rubber boot type with clamp down fastening system, and have Wisconsin approval number for intended use.
 1. NATURAL GAS – ABOVEGROUND
    1. See Division 23 for specifications.
-1. NATURAL GAS – UNDERGROUND*   1. ASTM D2513 thermoplastic polyethylene gas pressure pipe with butt-weld or socket-type polyethylene fusion joints and fittings. 
+1. NATURAL GAS – UNDERGROUND
+	1. ASTM D2513 thermoplastic polyethylene gas pressure pipe with butt-weld or socket-type polyethylene fusion joints and fittings. 
 1. UNDERGROUND PIPE WRAP
    1. Use a flexible polymer film with a coal tar and synthetic elastomeric coating of 36 mil thickness and dielectric strength exceeding 12 KV. Use a compatible primer below the polymer film.
    1. VENTS AND RELIEF VALVES
    1. Use pipe and pipe fittings as specified for the system to which the relief valve or vent is connected.
-1. UNIONS AND FLANGES*   1. See Division 23 for aboveground system specifications. 
+1. UNIONS AND FLANGES
+	1. See Division 23 for aboveground system specifications. 
    1. Note:
       1. Do not use flanges for underground gas or oil systems. Use fittings that are solvent-welded or fusion-bonded joints only.
 1. P A R T 3 - E X E C U T I O N
@@ -223,23 +223,28 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Hydrocarbon', 'Transmission', 'Di
 1. *Verify operating system pressure with DFD and specify test pressure accordingly. Several state agencies have systems that operate at higher pressures and require test pressures in excess of that scheduled above.*
    1. All pressure tests are to be documented on a Division of Facilities Development form included in this specification.
    1. On piping that can not be tested because of connection to an active line, provide temporary blind flanges and hydrostatically test new section of piping. After completion of test, remove temporary flanges and make final connections to piping. Die penetrate test pass weld or x-ray the piping that was not hydrostatically tested up to the active system.
-1. CONSTRUCTION VERIFICATION*   1. Contractor is responsible for utilizing the construction verification checklists supplied under specification Section 33 08 00 in accordance with the procedures defined for construction verification in Section 01 91 01 or 01 91 02.
+1. CONSTRUCTION VERIFICATION
+	1. Contractor is responsible for utilizing the construction verification checklists supplied under specification Section 33 08 00 in accordance with the procedures defined for construction verification in Section 01 91 01 or 01 91 02.
 1. *
    
    1. State of Wisconsin
 1. Department of Administration Date
-1. Division of Facilities Development Submitted:*1. Project Name:*1. Location:
-      1. DFD Project No:*1. Contractor:*
+1. Division of Facilities Development Submitted:
+	1. Project Name:
+	1. Location:
+      1. DFD Project No:
+	1. Contractor:*
  **□ HVAC □ Refrigeration □ Controls
 
  □ Power Plant □ Plumbing □ Sprinkler
     1. Test Medium:
        1. □ Air □ Water □ Other
-1. Test performed per specification section No.*1. Specified Test Duration \_\_\_\_\_\_ Hours Specified Test Pressure PSIG
-1. System Identification:*   1. Describe Location:
+1. Test performed per specification section No.
+	1. Specified Test Duration \_\_\_\_\_\_ Hours Specified Test Pressure PSIG
+1. System Identification:
+	1. Describe Location:
     1. Test Date:
-          1. 
-   1. Start Test Time:
+       1. Start Test Time:
       1. Initial Pressure:
       1. PSIG
 1. Stop Test Time:

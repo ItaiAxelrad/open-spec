@@ -27,8 +27,8 @@ tags: ['Procurement', 'Contracting', 'Requirements', 'Bid', 'Forms']
 [ARTICLE 8 - DEFINED TERMS 4](#_Toc30690060)
 
 [ARTICLE 9 - BID SUBMITTAL 4](#_Toc30690061)
-1. Project Identification:*1. Contract Identification and Number**:
-      1. 
+1. Project Identification:
+	1. Contract Identification and Number**:
 
 *{Title, Number, etc. that appears elsewhere in Bidding Documents}*
    1. ARTICLE 1 - BID RECIPIENT

@@ -64,7 +64,9 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
 1. SEQUENCING AND SCHEDULING
    1. Coordinate the size and location of concrete equipment pads. Cast anchor bolt inserts into pad.
    1. Coordinate the size and location of structural steel support members.
-1. PRODUCTS
+
+## PRODUCTS
+
 1. MANUFACTURERS
    1. Subject to compliance with requirements, provide products from one of the following:
       1. Airtherm Manufacturing Co.
@@ -75,7 +77,8 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. McQuay Air Conditioning
    1. The Trane Co.
    1. York International Corp.
-1. MATERIALS*   1. Furnish one additional complete set of filters for each central-station air-handling unit.
+1. MATERIALS
+	1. Furnish one additional complete set of filters for each central-station air-handling unit.
    1. Furnish one additional complete set of belts for each central-station air-handling unit.
    1. Furnish one additional gasket for each sectional joint of each central-station air-handling unit.
 1. MANUFACTURED UNITS
@@ -155,7 +158,9 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
       1. Cabinet material and finish shall match the air-handling unit cabinet, with filter media holding frames arranged for flat or angular orientation. Section shall have access doors on both sides of the unit.
    1. Disposable Filters:
       1. Provide disposable type air filters 2 inches thick, consisting of viscous coated fibers with filtering media encased in fiberboard cell sides having perforated metal grids on each face to provide media support. Airflow resistance with clean media shall not exceed 0.30 inches w.g. at face velocity of 500 fpm, and filter arrestance efficiency of 70 to 82% based on ASHRAE 52.
-1. EXECUTION
+
+## EXECUTION
+
 1. EXAMINATION
    1. Examine areas and conditions, with Installer present, for compliance with requirements for installation tolerance, housekeeping pads, and other conditions affecting performance of central-station air-handling units.
    1. Examine rough in for electrical to verify actual locations of connections prior to installation.

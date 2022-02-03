@@ -14,7 +14,6 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Common', 'Motor', 'Requirements',
 1. P A R T 1 - G E N E R A L
 1. SCOPE
    1. This section includes requirements for single and three phase motors that are used with equipment specified in other sections. Included are the following topics:
-      1. 
 ## General
 
     1. Scope
@@ -81,15 +80,12 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Common', 'Motor', 'Requirements',
    1. All TEFC motors shall have a drain hole (preferably tapped) and a drain plug located at the lowest point of the motor to prevent accumulation of moisture within the motor due to condensation during storage. T-slot design plug is preferred.
    1. Motor nameplates shall be stainless steel and shall include at least the following information:
     1. 
-   1. a)
    1. Horsepower
    1. j)
    1. Class of Insulation
-   1. b)
    1. RPM
    1. k)
    1. Locked Rotor KVA Code
-   1. c)
    1. NEMA Design
    1. l)
    1. Full Load Amps

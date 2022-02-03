@@ -39,7 +39,7 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Ductile', 'Iron', 'Pipe']
 	1. Certification of factory hydrostatic testing.
 	2. If mechanical coupling system is used, submit piping, fittings, and appurtenant items which will be utilized to meet system requirements.
 ## Product
-1. 2.1 Materials
+1. Materials
    1. Ductile Iron Pipe:
 	1. AWWA/ANSI C115/A21.15.
 	2. AWWA/ANSI C150/A21.50.
@@ -70,9 +70,8 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Ductile', 'Iron', 'Pipe']
 5. If mechanical coupling system is used, utilize pipe thickness and grade in accordance with AWWA C606.
 6. Polyethylene Encasement:
       1. See AWWA/ANSI C105/A21.5.
-1. 2.2 Manufactured Units
+1. Manufactured Units
    1. Couplings:
-      1. 
 	1. Flanged adaptors:
 		1. Unit consisting of steel or carbon steel body sleeve, flange, followers, Grade 30 rubber gaskets.
 		2. Supply flanges meeting standards of adjoining flanges.
@@ -83,13 +82,13 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Ductile', 'Iron', 'Pipe']
 	3. Mechanical Couplings:
 		1. Unit consisting of joint gasket and ductile iron joint gland.
 		2. Comply with AWWA C606.
-1. 2.3 Quality Control
+1. Quality Control
    1. Subject pipe to hydrostatic test of not less than 500 psi with the pipe under the full test pressure for at least 10 seconds. 
 
 
 ## Execution
 
-1. 3.1 Installation
+1. Installation
    1. Joining Method – Grooved End Joints:
 	1. Install in accordance with ANSI/AWWA C606.
 	2. Join two grooved pipe ends, or a pipe end and a valve.

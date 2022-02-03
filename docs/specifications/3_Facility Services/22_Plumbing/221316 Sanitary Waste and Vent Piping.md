@@ -17,7 +17,8 @@ tags: ['Facility', 'Services', 'Plumbing', 'Sanitary', 'Waste', 'Vent', 'Piping'
    1. Pipe, tube, and fittings.
    1. Special pipe fittings.
    1. Encasement for underground metal piping.
-1. REFERENCES*   1. American Society of Mechanical Engineers (ASME)
+1. REFERENCES
+	1. American Society of Mechanical Engineers (ASME)
    1. B1.20.1 – Pipe Threads, General Purpose (Inch)
    1. B16.3 - Malleable Iron Threaded Fittings.
    1. B1.20.1 - Pipe Threads, General Purpose (Inch).
@@ -60,7 +61,8 @@ tags: ['Facility', 'Services', 'Plumbing', 'Sanitary', 'Waste', 'Vent', 'Piping'
       1. Polyvinyl chloride plastic.
    1. TPE:
       1. Thermoplastic elastomer.
-1. Submittals*   1. See Division 22 sections of the Specifications.
+1. Submittals
+	1. See Division 22 sections of the Specifications.
    1. Shop Drawings:
       1. Solvent Drainage System:
          1. Include plans, elevations, sections, and details.
@@ -69,7 +71,9 @@ tags: ['Facility', 'Services', 'Plumbing', 'Sanitary', 'Waste', 'Vent', 'Piping'
    1. Aboveground piping materials.
 1. warranty
    1. Follow procedures specified in Division 1 of the Specifications. 
-1. PRODUCTS
+
+## PRODUCTS
+
 1. Piping Materials - Underground
 
 		1. Storm and sanitary sewer drainage systems - outside buildings to within 5 feet of building.
@@ -114,7 +118,8 @@ Up to NPS 4
 
 		1. Sand
    1. Natural particles of granular material which does not contain excessive amounts of clay, silt, or organic material, passing a 3/8-inch sieve. Sand found on the job site may be used if it is approved by the Architect.
-1. Piping Materials - Aboveground*   1. Sanitary Drain, Plumbing Vent and Storm Drain 
+1. Piping Materials - Aboveground
+	1. Sanitary Drain, Plumbing Vent and Storm Drain 
    1. Hubless, cast iron, soil pipe and cast iron fittings per ASTM A888. Provide standard duty coupling shields of 36 gage type 301/304 stainless steel, in conformance with ASTM C1277, and incorporating a neoprene gasket in accordance with ASTM C564, with sealing rings positioned under each stainless steel, worm gear clamp. Provide two clamps on pipe up to NPS 4 and four bands on piping NPS 5 through NPS 10. 
    1. Hubless, cast iron soil pipe and cast iron fittings per ASTM A888. Provide medium duty, type 304 stainless steel, extra wide coupling shields, in conformance with ASTM C1173 and FM 1680, 3-inch wide through NPS 4 and 4-inch wide NPS 5 through NPS 10.
    1. Provide shields with type 304 stainless steel, 5/16-inch socket drive, worm gear drive, clamps, tightened to a minimum of 80 inch pounds according to the following schedule:
@@ -145,7 +150,9 @@ Up to NPS 4
    1. Schedule 40, ASTM A53, Seamless, CW or ERW, galvanized pipe with grooved pipe and couplings per paragraph “Mechanical Grooved Pipe and Couplings” below.
 1. TRAPS
    1. Provide traps for each plumbing fixture, floor drain, and other equipment requiring connection to the sanitary sewer system. Place each trap as near to the fixture outlet as practical. Trap material and type of connections shall be compatible with the connecting drainage system and be suitable for the intended application.
-1. EXECUTION
+
+## EXECUTION
+
 1. UNDERGROUND PIPING INSTALLATION
    1. Trench Excavation
    1. Excavate trenches so that piping may be laid correctly on line and grade. Remove any large rocks or other debris encountered in the excavation and dispose of appropriately.
@@ -230,7 +237,8 @@ Up to NPS 4
    1. Sleeves are not required for cast-iron soil piping passing through concrete slabs-on-grade if slab is without membrane waterproofing.
    1. Drains 
    1. Pipe drains from items such as boilers, water relief valves, tanks, cooling coil drain pans, air vents, environmental rooms evaporator condensate drain pans, and drip-pan elbows, to the nearest floor drain. 
-1. Pipe Jointing*   1. Mechanical Joint Cast Iron Pipe 
+1. Pipe Jointing
+	1. Mechanical Joint Cast Iron Pipe 
    1. Assemble mechanical joint cast iron pipe with a gasket suitable for the service, according to the manufacturer's recommendations. 
    1. Cast Iron Hub and Spigot Pipe 
    1. Spigot ends shall be less beads and pre-marked to assure proper joint connection by visual inspection. Bells shall be modified to receive rubber gaskets conforming to ASTM C564 gaskets for Type II pipe. 

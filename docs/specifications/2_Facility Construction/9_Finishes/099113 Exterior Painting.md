@@ -86,7 +86,8 @@ ly, the following items or materials are not to be field painted unless specific
 1. 2.02 EPOXY PAINT SYSTEM
    1. Prime, Intermediate, Finish and Touch-Up Coats:
       1. VOC-compliant, two-component, chemically cured epoxy. 
-1. 2.03 EPOXY/URETHANE PAINT SYSTEM*   1. Prime and Intermediate Coats:
+1. 2.03 EPOXY/URETHANE PAINT SYSTEM
+	1. Prime and Intermediate Coats:
       1. Field-applied, VOC-compliant, surface tolerant, two-component, chemically cured epoxy. Finish and Touch-Up Coats:
       1. Field-applied, VOC-compliant, two-component, chemically cured aliphatic urethane semi-gloss enamel. 
 1. 2.04 ACRYLIC PAINT SYSTEM
@@ -105,7 +106,6 @@ ly, the following items or materials are not to be field painted unless specific
       1. Powder Epoxy Primer:
       1. Primer shall be a one-part, fusion-bonded, heat-cured, thermosetting 100% solids, zinc-rich, dry powder epoxy resin.
    1. Finished Coat:
-      1. 
    1. Polyester Powder:
       1. Powder finish coat shall be a high gloss thermosetting fusion-bonded, 100% solid, dry powder TGIC-Polyester resin. 
    1. Thinners, cleaners, dryers, and other additives shall be as recommended by the coatings manufacturer for the specified system. Any deviation from the manufacturer’s recommendations shall be approved in writing by the Engineer prior to starting work. 
@@ -126,7 +126,8 @@ ly, the following items or materials are not to be field painted unless specific
 4. When the temperature of the surface to be coated is more than 2.8° C (5° F) below the air temperature or when the surface temperature is 49 C (120° F) or above.
 5. When the surface temperature is less than 2.8° C (5° F) above the dew point or is expected to be so within twelve hours after application of coating.
    1. If a change in weather conditions results in damage to a newly applied coating, restore the affected coatings to their specified condition as directed by the City Engineer. 
-1. 3.02 PROTECTION OF SURFACES NOT TO BE PAINTED*   1. Remove, mask, or otherwise protect hardware, switch plates, aluminum surfaces, machined surfaces, couplings, shafts, nameplates and other surfaces not intended to be painted. Protect working parts of mechanical and electrical equipment from damage during surface preparation and the painting process. Provide drop cloths or masking to prevent paint materials from dripping or accumulating on adjacent surfaces. 
+1. 3.02 PROTECTION OF SURFACES NOT TO BE PAINTED
+	1. Remove, mask, or otherwise protect hardware, switch plates, aluminum surfaces, machined surfaces, couplings, shafts, nameplates and other surfaces not intended to be painted. Protect working parts of mechanical and electrical equipment from damage during surface preparation and the painting process. Provide drop cloths or masking to prevent paint materials from dripping or accumulating on adjacent surfaces. 
 1. 3.03 FIELD TOUCH-UP OF SHOP-APPLIED PRIME COATS
    1. Prior to field touch-up, prepare the surface in accordance with the manufacturer's recommendations and as directed by the City Engineer.
    1. Reapply primer as required to cover all scratched, abraded, or deficient areas.

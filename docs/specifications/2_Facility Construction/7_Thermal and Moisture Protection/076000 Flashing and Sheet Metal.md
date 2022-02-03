@@ -54,7 +54,7 @@ tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Flashin
 9. Informational Submittals:
 	1. Warranty: Manufacturer's sample warranty language.
 ## Product
-1. 2.1 Materials
+1. Materials
    1. Sheet Metal:
 	1. Aluminum: ASTM B209.
 	2. Galvanized Steel: ASTM A653.
@@ -75,7 +75,7 @@ tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Flashin
       1. ASTM B32.
 7. Dissimilar Metal Protection:
       1. Comply with Specification Section 09 90 00.
-1. 2.2 Fabricated Items
+1. Fabricated Items
 	 1. General:
 	1. Shop fabricate items to maximum extent possible.
 		1. Fabricate true and sharp to profiles and sizes indicated on Drawings.
@@ -103,9 +103,9 @@ tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Flashin
 
 ## Execution
 
-1. 3.1 Preparation
+1. Preparation
    1. Items to be used in other areas of construction shall be provided so as to not cause delay to the schedule.
-1. 3.2 Installation
+1. Installation
    1. Install products in accordance with manufacturer's instructions, SMACNA, and as indicated on Drawings.
 2. Weld aluminum to achieve weathertight joints and required details.
 	1. Do not weld slip joints.

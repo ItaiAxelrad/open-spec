@@ -521,7 +521,9 @@ DESIGNER NOTE: The designer should adjust infiltration rates to reflect project 
    1. Engineer
    1. Per Specifications
 1. PART 2
-1. PRODUCTS
+
+## PRODUCTS
+
 01.
    1. DESIGNER NOTE:
       1. If a product is not available, the designer needs to ensure that the desired voids and surface texture will meet the desired pavement characteristics for surface smoothness, voids, and bonding.
@@ -725,7 +727,9 @@ Plans and included herein:
    1. DESIGNER NOTE:
       1. The designer should consider including specifications for signage and pavement markings in this section.
 1. PART 3
-1. EXECUTION
+
+## EXECUTION
+
 01.
    1. SUBGRADE PREPARATION AND PROTECTION
    1. Construct subgrade to +/- ¾ inch of the grades and slopes specified on the

@@ -14,7 +14,6 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Commissioning']
 1. P A R T 1 ‑ G E N E R A L
 1. SCOPE
    1. This section includes commissioning forms for construction verification and functional performance testing. Included are the following topics:
-      1. 
 ## General
 
 
@@ -57,7 +56,8 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Commissioning']
    1. Circle Yes or No for each commissioning form item. If the information requested for an item does not apply to the given stage of installation for the system, list it as “N/A”. Explain all discrepancies, negative responses or N/A responses in the negative responses section.
    1. Once the work is 100% complete and the responses to each item are complete and resolved for a given commissioning forms group, mark as complete, initial and date in the spaces provided.
    1. Provide copies of the commissioning forms to the commissioning agent 2 days prior to construction progress meetings. 
-1. *Edit the individual construction verification checklists and provide additional checklists as needed to reflect the verification requirements of assemblies, components, equipment and systems to be commissioned on this project.**1. *DO NOT INCLUDE ANY of the following*
+1. *Edit the individual construction verification checklists and provide additional checklists as needed to reflect the verification requirements of assemblies, components, equipment and systems to be commissioned on this project.*
+	1. *DO NOT INCLUDE ANY of the following*
 1. *COMMISSIONING FORMS for PRELIMINARY review. Just edit the list in Part I above and only submit pages 33 08 00-1 through 33 08 00-2 with strikethroughs.*
 1. CV-33 07 00 – Utilities Insulation
 1. Equipment Identification/Tag:
@@ -3254,7 +3254,8 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Commissioning']
 1. CV-33 50 00 – Fuel Distribution Utilities
 1. Equipment Identification/Tag:
       1. \_\_\_\_\_\_\_
-1. Location:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_*1. A) PRE-INSTALLATION CHECKS
+1. Location:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+	1. A) PRE-INSTALLATION CHECKS
 1. Date
 1. Description of Work Performed
 1. %

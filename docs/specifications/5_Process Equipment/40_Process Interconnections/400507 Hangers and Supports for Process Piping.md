@@ -44,7 +44,7 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Hangers', 'Supports', 'Pipin
 	4. Scaled drawings showing location, installation, material, and loads and forces. 
 	5. Analyze each pipe system for all loads and forces on hangers and supports and their reaction forces to the structure which they are fastened.
 ## Product
-1. 2.1 Manufactured Units
+1. Manufactured Units
 	 1. General:
 	1. Galvanized components:
 		1. Electro-galvanized components:
@@ -113,7 +113,7 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Hangers', 'Supports', 'Pipin
 	4. Collar welded to floor plate.
 	5. Edges ground smooth.
 	6. Assembly hot-dipped galvanized after fabrication.
-1. 2.2 Design Requirements
+1. Design Requirements
    1. Supports capable of supporting the pipe for all service and testing conditions.
 	1. Provide 5 to 1 safety factor.
 2. Allow free expansion and contraction of the piping to prevent excessive stress resulting from service and testing conditions or from weight transferred from the piping or attached equipment.

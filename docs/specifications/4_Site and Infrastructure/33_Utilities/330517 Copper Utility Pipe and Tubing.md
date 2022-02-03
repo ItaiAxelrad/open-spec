@@ -20,7 +20,8 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Copper', 'Utility', 'Pipe', 'Tubi
    1. This section describes materials, installation, and testing of copper and brass pipe, and copper, brass and bronze fittings, appurtenances and meter boxes. All materials shall be in accordance with NSF 61 Annex G and California legislation (AB1953). Demonstrate and provide the proper connections and compatibility of all pipe, fittings and valves. The minimum pressure rating for all pipes, fittings, valves and appurtenance shall not be less than the test pressure listed in Section 15000 and shall be considered as a high pressure service. The Contractor shall furnish and replace 3/4-inch piping with 1-inch piping and the required transition fittings to connect to existing ¾-inch meters to remain in place. 
    1. Refer to Table 2:
       1. Water Meter Replacement Schedule and construction plans for meter replacement locations as designated by the City. The City will provide meters for the project.
-02. RELATED WORK SPECIFIED ELSEWHERE*   1. Standard Drawings
+02. RELATED WORK SPECIFIED ELSEWHERE
+	1. Standard Drawings
 2. Standard Specifications 01000, 01045, 01200, 01310, 01330, 01505, 01510, 01570, 02140, 02222, 02223, 02511, 02528, 02578, 03000, 03480, 03482, 09902, 09910, and Division 15.
 03. REFERENCE STANDARDS
    1. The publications listed below form part of this specification to the extent referenced and are referred to in the text by the basic designation only. Reference shall be made to the latest edition of said standards unless otherwise called for.
@@ -74,7 +75,8 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Copper', 'Utility', 'Pipe', 'Tubi
 
    1. Solder shall be tin-silver solder conforming to ASTM B 32, latest revision, Grade Sn94, Sn95 or Sn96. Cored solder shall not be used. Solder and flux used in joints of potable waterlines shall contain no more than 0.2 percent lead.
 2. Refer to Approved Materials List, or approved equal.
-1. 2.05 BRASS PIPE AND NIPPLES*   1. Short threaded nipples and brass pipe shall conform to ASTM B 43, regular wall thickness, except that nipples and pipe of sizes 1 inch and smaller shall be extra strong. Threads shall conform to ANSI B1.20.1.
+1. 2.05 BRASS PIPE AND NIPPLES
+	1. Short threaded nipples and brass pipe shall conform to ASTM B 43, regular wall thickness, except that nipples and pipe of sizes 1 inch and smaller shall be extra strong. Threads shall conform to ANSI B1.20.1.
 2. Refer to Approved Materials List, or approved equal.
 1. 2.06 BRONZE APPURTENANCES*
 	 1. General: All items specified herein shall be manufactured of bronze conforming to ASTM B62, "Composition Brass or Ounce Metal Castings” and AWWA C800. 
@@ -100,7 +102,8 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Copper', 'Utility', 'Pipe', 'Tubi
    1. Pipe shall be installed without springing, forcing, or stressing the pipe or any adjacent connecting valves or equipment. Pipe hangers and supports, and pipe penetrations through walls, slabs, and floors shall be as detailed on the drawings.
 1. 3.02 STORAGE AND HANDLING
    1. Exercise care in handling, loading, unloading and storage of pipe and fittings to avoid distortion, scratches, gouges, cracks, dents and scuffing. Store all pipe and fittings protected from the elements until ready for installation.
-1. 3.03 INSTALLING FLANGE BOLTS AND NUTS*   1. Bolt Thread Lubrication:
+1. 3.03 INSTALLING FLANGE BOLTS AND NUTS
+	1. Bolt Thread Lubrication:
       1. Bolt threads shall be lubricated with an anti-seize compound prior to installation. Anti-seize compound shall be as manufactured by Tri-Flow, Permatex, Crouse-Hinds or approved equal. 
 2. Flange Alignment:
       1. Flanged pipe shall be set with the flange bolt holes straddling the pipe horizontal and vertical centerlines. This is referred to as the "two holing" procedure.

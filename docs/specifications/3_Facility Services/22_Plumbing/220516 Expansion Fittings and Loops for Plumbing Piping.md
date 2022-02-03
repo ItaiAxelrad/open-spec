@@ -35,7 +35,9 @@ tags: ['Facility', 'Services', 'Plumbing', 'Expansion', 'Fittings', 'Loops', 'Pi
    1. Codes and Standards:
       1. EJMA Compliance:
          1. Construct expansion compensation products in accordance with standards of EJMA.
-1. PRODUCTS
+
+## PRODUCTS
+
 1. MANUFACTURERS
    1. Subject to compliance with requirements, provide products from one of the following:
       1. Packless Expansion Compensators
@@ -61,7 +63,9 @@ tags: ['Facility', 'Services', 'Plumbing', 'Expansion', 'Fittings', 'Loops', 'Pi
       1. Conform to the standards of the EJMA and shall be pressure rated for 60 psi for low-pressure systems, 175 psi for high-pressure systems. Units shall have 2-ply phosphor bronze bellows, brass shrouds, and end fittings for copper piping systems and 2-ply stainless steel bellows, carbon steel shrouds, and end fittings for steel piping systems. Expansion compensators shall have internal guides and antitorque device and removable end clip for proper positioning.
    1. Rubber Expansion Joints:
       1. Fabric-reinforced butyl rubber with full-faced integral flanges and external control rods, and shall be internally reinforced with steel retaining rings over entire surface of flanges, drilled to match flange bolt holes.
-1. EXECUTION
+
+## EXECUTION
+
 1. ERECTION INSTALLATION APPLICATION
    1. Installation, General
    1. Install expansion joints and expansion loops where indicated and required for adequate expansion of installed piping system. Support piping system with hangers and support structures. Do not allow piping system weight on the expansion joint. Remove any temporary spacers or block before placing system into service.

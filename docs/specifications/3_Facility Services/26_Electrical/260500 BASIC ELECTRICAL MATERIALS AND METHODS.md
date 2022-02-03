@@ -38,34 +38,26 @@ Conditions and Division 1 Specification Sections, apply to this Section.
 06. COORDINATION
    1. Coordinate chases, slots, inserts, sleeves, and openings with general construction work and arrange in building structure during progress of construction to facilitate the electrical installations that follow.
 1. Set inserts and sleeves in poured-in-place concrete, masonry work, and other structural components as they are constructed.
-   1. B.
    1. Sequence, coordinate, and integrate installing electrical materials and equipment for efficient
    1. flow of the Work. Coordinate installing large equipment requiring positioning before closing in
    1. the building.
-   1. C.
    1. Coordinate electrical service connections to components furnished by utility companies.
 1. Coordinate installation and connection of exterior underground and overhead utilities and
    1. services, including provision for electricity-metering components.
 2. Comply with requirements of authorities having jurisdiction and of utility company
    1. providing electrical power and other services.
-   1. D.
    1. Coordinate location of access panels and doors for electrical items that are concealed by
    1. finished surfaces. Access doors and panels are specified in Division 8.
    1. E.
    1. Where electrical identification markings and devices will be concealed by acoustical ceilings
    1. and similar finishes, coordinate installation of these items before ceiling installation.
-07.
-   1. DR
-   1. AWINGS AND SPECIFICATIONS
-   1. A.
-   1. The Drawings and these Specifications are complementary to each other, and what is required by one shall be as binding as if required by both. Phase, neutral, and switch leg indications are shown only where it is considered that clarification is required and to indicate typical wiring methods required.
-   1. B.
-   1. If any departures from the Drawings are deemed necessary by the Contractor, details of such departures and the reasons therefore shall be submitted to the Engineer for review. No departures shall be made without prior written acceptance of the Engineer.
-   1. C.
-   1. Should the Drawings or Specifications disagree in themselves or with their counterpart, the better quality or greater quantity of work or materials shall be estimated upon, and unless otherwise directed by the Engineer in writing, shall be performed or furnished. In case the Specifications should not fully agree with the Schedules, the latter shall govern. Figures indicated on Drawings govern scale measurements and large scale details govern small scale Drawings. In case of disagreement between Specifications and Drawings, see Division I of these Specifications for clarification.
-   1. D.
-   1. Items specifically mentioned in the Specifications but not shown on the Drawings and/or items shown on the Drawings but not specifically mentioned in the Specifications shall be installed by the Contractor under the appropriate section of work as if they were both specified and shown.
-08. BUILDING CONSTRUCTION AND LAYOUT OF WORK
+   2. DRAWINGS AND SPECIFICATIONS
+   3. The Drawings and these Specifications are complementary to each other, and what is required by one shall be as binding as if required by both. Phase, neutral, and switch leg indications are shown only where it is considered that clarification is required and to indicate typical wiring methods required.
+   4. If any departures from the Drawings are deemed necessary by the Contractor, details of such departures and the reasons therefore shall be submitted to the Engineer for review. No departures shall be made without prior written acceptance of the Engineer.
+   5. Should the Drawings or Specifications disagree in themselves or with their counterpart, the better quality or greater quantity of work or materials shall be estimated upon, and unless otherwise directed by the Engineer in writing, shall be performed or furnished. In case the Specifications should not fully agree with the Schedules, the latter shall govern. Figures indicated on Drawings govern scale measurements and large scale details govern small scale Drawings. In case of disagreement between Specifications and Drawings, see Division I of these Specifications for clarification.
+   6. D.
+   7. Items specifically mentioned in the Specifications but not shown on the Drawings and/or items shown on the Drawings but not specifically mentioned in the Specifications shall be installed by the Contractor under the appropriate section of work as if they were both specified and shown.
+3.  BUILDING CONSTRUCTION AND LAYOUT OF WORK
 	1. General:
       1. It shall be the responsibility of the Contractor to consult the Engineer and Engineering Drawings and Details so as to thoroughly familiarize himself with the type and quality of construction to be provided on this project.
    1. The Electrical Drawings are diagrammatic in nature and do not show every connection in detail or every line or conduit in its exact location. These details are subject to the requirements of all codes and ordinances as well as all structural and Engineer conditions. The Contractor shall carefully investigate structural and finish conditions and shall coordinate
@@ -200,7 +192,6 @@ covered within the section. Sections shall be organized as follows:
 4. The demonstration shall be held upon completion and acceptance of all systems at a
    1. date to be agreed upon in writing by the Engineer/Engineer.
 06. FIRESTOPPING
-   1. A.
    1. Apply firestopping to cable and raceway penetration
    1. s of fire-rated floor and wall assemblies to
    1. achieve fire-resistance rating of the assembly.
@@ -209,12 +200,9 @@ covered within the section. Sections shall be organized as follows:
 07. CONCRETE BASES
    1. Construct concrete bases of dimensions indicated, but not less than 4 inches larger, in both directions, than supported unit. Follow supported equipment manufacturer's anchorage recommendations and setting templates for anchor-bolt and tie locations, unless otherwise indicated. Use 3000-psi, 28-day compressive-strength concrete and reinforcement as specified in Division 3 Section "Cast-in-Place Concrete."
 08.
-   1. CU
-   1. A.
    1. TTING AND PATCHING
    1. Cut, channel, chase, and drill floors, walls, partitions, ceilings, and other surfaces required to
    1. permit electrical installations. Perform cutting by skilled mechanics of trades involved.
-   1. B.
    1. Repair and refinish disturbed finish materials and other surfaces to match adjacent undisturbed surfaces. Install new fireproofing where existing firestopping has been disturbed. Repair and refinish materials and other surfaces by skilled mechanics of trades involved.
 09. CONDUIT SLEEVES
    1. Where conduits pass through walls or floors not on fill, galvanized sheet metal sleeves shall be provided and shall be sealed to prevent air and noise transmission. In walls, they shall be flush with each finished surface. In pipe chases, they shall extend 1-1/2 inches above floor slab and be cemented in a water tight manner. Size of these sleeves shall be at least 1/2 inch greater than outside diameter of the conduit.

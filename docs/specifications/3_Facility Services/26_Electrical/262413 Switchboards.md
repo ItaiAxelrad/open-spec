@@ -90,7 +90,9 @@ tags: ['Facility', 'Services', 'Electrical', 'Switchboards']
       1. Equal to 10 percent of quantity installed for each size and type, but no fewer than three of each size and type.
    1. Indicating Lights:
       1. Equal to 10 percent of quantity installed for each size and type, but no fewer than one of each size and type.
-1. PRODUCTS
+
+## PRODUCTS
+
 1. MANUFACTURED UNITS
    1. Manufacturers:
       1. Subject to compliance with requirements, provide products by one of the following:
@@ -253,7 +255,9 @@ tags: ['Facility', 'Services', 'Electrical', 'Switchboards']
       1. Primary and secondary fuses for current-limiting and overload protection of transformer and fuses for protection of control circuits.
    1. Control Wiring:
       1. Factory installed, with bundling, lacing, and protection included. Provide flexible conductors for No. 8 AWG and smaller, for conductors across hinges, and for conductors for interconnections between shipping units.
-1. EXECUTION
+
+## EXECUTION
+
 1. EXAMINATION
    1. Receive, inspect, handle, and store switchboards according to NECA 400.
    1. Examine switchboards before installation. Reject switchboards that are moisture damaged or physically damaged.

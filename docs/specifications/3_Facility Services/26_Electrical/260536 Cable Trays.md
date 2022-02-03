@@ -14,16 +14,17 @@ tags: ['Facility', 'Services', 'Electrical', 'CableTrays']
    1. Drawings and general provisions of the Contract, including General and Supplementary Conditions and Division 1 Specification Sections, apply to this Section.
 1. SUMMARY
    1. This Section includes steel cable trays and accessories of types and sizes as specified and indicated, including tees, fittings and other accessories in order to provide a complete system.
-1. REFERENCES*   1. American Society for Testing and Materials (ASTM) 
+1. REFERENCES
+	1. American Society for Testing and Materials (ASTM) 
    1. A123 - Specification for Zinc (Hot-Dip Galvanized) Coatings on Iron and Steel Products. 
    1. A653 - Specification for Steel Sheet, Zinc-Coated (Galvanized) or Zinc-Iron Alloy-Coated (Galvannealed) by the Hot-Dip Process.
    1. National Electrical Manufacturers Association (NEMA) 
    1. VE 1 - Metallic Cable Tray Systems. 
-1. SUBMITTALS*   1. Product Data:
+1. SUBMITTALS
+	1. Product Data:
       1. Include data indicating components, dimensions, and finishes for each type of cable tray indicated.
    1. Shop drawings:
       1. For Each Type Of Cable Tray:
-      1. 
    1. Submit dimensioned drawings of cable tray systems indicating layout of cable tray and fittings, spatial relationship to associated equipment, and adjoining raceways. Submit details of connections to electrical panels and other equipment. Show fabrication and installation details of cable tray, including plans, elevations, and sections of components and attachments to other construction elements. Designate components and accessories, including clamps, brackets, hanger rods, splice-plate connectors, expansion-joint assemblies, straight lengths, and fittings.
    1. Coordination Drawings:
       1. Floor plans and sections, drawn to scale. Include scaled cable tray layout and relationships between components and adjacent structural, electrical, and mechanical elements. Show the following:
@@ -33,7 +34,8 @@ tags: ['Facility', 'Services', 'Electrical', 'CableTrays']
    1. Field quality-control reports.
    1. Operation and Maintenance Data:
       1. For cable trays to include in emergency, operation, and maintenance manuals.
-1. QUALITY ASSURANCE*   1. Source Limitations:
+1. QUALITY ASSURANCE
+	1. Source Limitations:
       1. Obtain cable tray components through one source from a single manufacturer.
    1. Electrical Components, Devices, and Accessories:
       1. Listed and labeled as defined in NFPA 70, Article 100, by a testing agency acceptable to authorities having jurisdiction, and marked for intended use.
@@ -45,16 +47,19 @@ tags: ['Facility', 'Services', 'Electrical', 'CableTrays']
    1. Steel, [mill galvanized] [electrogalvanized] [factory-primed] cable tray shall be stored in a well-ventilated, dry location. Unpack and dry wet materials before storage.
 
 [PVC-coated] [Field-painted] cable tray shall be stored indoors. Protect cable tray from scratching and marring of finish. Unpack and dry wet materials before storage.
-1. MAINTENANCE*   1. Extra Materials 
+1. MAINTENANCE
+	1. Extra Materials 
    1. Provide the following cable installation accessories designed to mate with the cable tray system:
-      1. 
    1. Single pulley cable guide, 
    1. Triple pulley cable guide, 
    1. Straight cable roller, and 
    1. Radius cable roller. 
    1. Products 
-1. PRODUCTS
-1. CABLE TRAY SYSTEM COMPONENTS*   1. Manufacturers 
+
+## PRODUCTS
+
+1. CABLE TRAY SYSTEM COMPONENTS
+	1. Manufacturers 
    1. Cooper B-Line, Inc. 
    1. Mono-Systems, Inc.
    1. Chalfant Cable Trays
@@ -73,7 +78,8 @@ tags: ['Facility', 'Services', 'Electrical', 'CableTrays']
    1. Provide tray capable of supporting a minimum of 200 pounds of concentrated load at mid-point of span in addition to allowable working load without permanent distortion to the cable tray. 
    1. Limit tray deflection to not more than 1/100 of the clear span length between supports. 
    1. Provide rungs capable of supporting 200 pounds. 
-1. WARNING SIGNS*   1. Lettering:
+1. WARNING SIGNS
+	1. Lettering:
       1. 1-1/2-inch- (40-mm-) high, black letters on yellow background with legend. 
    1. Materials and fastening are specified in related Division 26 sections of the Specifications.
 1. FIRESTOPPING
@@ -86,7 +92,10 @@ tags: ['Facility', 'Services', 'Electrical', 'CableTrays']
    1. Nelson Firestop Products:
       1. Nelson PLW (3-hour rating).
    1. Specified Technologies Inc. (3-hour rating).
-1. EXECUTION*1. INSTALLATION*
+
+## Execution
+
+	1. INSTALLATION*
 ## General
 
 
@@ -113,12 +122,12 @@ tags: ['Facility', 'Services', 'Electrical', 'CableTrays']
    1. Provide supports capable of carrying full cable loads plus 50 percent spare, tray weight, and additional short time total loads not to exceed the design load by more than one third. 
    1. Make changes in direction and elevation using standard fittings.
    1. Make cable tray connections using standard fittings.
-1. FIREPROOF SEALING*   1. Provide adjustable steel closure with neoprene bottom strip, unless otherwise indicated, to effectively seal cable tray penetrations through fire and smoke barriers but still permit wire and cable to pass through. 
+1. FIREPROOF SEALING
+	1. Provide adjustable steel closure with neoprene bottom strip, unless otherwise indicated, to effectively seal cable tray penetrations through fire and smoke barriers but still permit wire and cable to pass through. 
    1. After cable tray is installed and cables fastened in place, seal the penetration slot with firestopping material suitable for the application. 
    1. Provide expanding, pillow-type fire stop at fire and smoke barriers to effectively seal cable tray penetrations through fire barriers. 
 1. IDENTIFICATION
    1. Provide a plastic warning sign, per related Division 26 sections of the Specifications, attached to the cable tray at locations visible from the floor below and at maximum 100 feet on center. Provide the following information on the warning sign:
-      1. 
 
 "Warning: not to be used as a walkway, ladder or support for personnel. Use only as a mechanical support for cables and tubing." 
    1. Provide a plastic-laminate engraved nameplate, per related Division 26 sections of the Specifications, attached to the cable tray at locations of connection to other electrical equipment. 

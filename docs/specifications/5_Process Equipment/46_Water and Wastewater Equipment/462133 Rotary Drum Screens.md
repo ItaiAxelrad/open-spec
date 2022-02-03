@@ -64,7 +64,9 @@ instructions.
 2. Indicate field measurements on Shop Drawings.
 11. WARRANTY
    1. Furnish manufacturer's warranty for rotary drum screens in compliance with the overall warranty required for the project.
-1. ## Product
+
+## Products
+
 1. ROTARY DRUM SCREENS 
    1. Description:
       1. Internal feed tank within perforated, wedge wire, or fabric-covered drum.

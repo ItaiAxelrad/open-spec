@@ -19,7 +19,6 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Common', 'Work', 'Results']
 
 	1. Materials Testing: The Contractor shall provide results of tests required by the various standard specifications listed herein. The Contractor will not be reimbursed for the pipe tested, or for the testing, or for the reports submitted to the Engineer. The Contractor shall also submit affidavits of compliance or similar statements regarding compliance with those specifications
 1. SUBMITTALS:
-      1. 
 
 	
 ## General
@@ -29,7 +28,6 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Common', 'Work', 'Results']
    1. Submit to the Engineer two copies of an Affidavit of Compliance covering any material specified to conform to AWWA Standards.
    1. Submit to the Engineer five (5) copies of each pipe manufacturer’s complete installation instructions. The Contractor shall have additional copies at the site of the work.
    1. JOB CONDITIONS:
-      1. 
 	1. This paragraph is not used.
    1. PART 2:
       1. MATERIALS
@@ -62,7 +60,6 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Common', 'Work', 'Results']
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 1. THE FOLLOWING APPLIES TO THE MATERIALS SECTION OF THIS SPECIFICATION**:
-      1. 
 	1. HISTORY:
       1. 2.
 2. Mard.
@@ -73,11 +70,9 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Common', 'Work', 'Results']
 5. P?
 6. P.
 7. P:
-      1. 
 	1. T.
 	2. A
    1. THE FOLLOWING APPLIES TO THE EXECUTION SECTION OF THIS SPECIFICATION:
-      1. 
 	1. HISTORY
 	2. MODIFICATIONS
 	3. USE OF SPECIFICATION

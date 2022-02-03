@@ -8,7 +8,8 @@ tags: ['Procurement', 'Contracting', 'Requirements', 'Supplementary', 'Condition
 ---
 
    1. Engineers Joint Documents Committee
-1. Design and Construction Related Documents*1. Instructions and License Agreement
+1. Design and Construction Related Documents
+	1. Instructions and License Agreement
 1. Instructions
 1. Before you use any EJCDC document:
       1. Read the License Agreement. You agree to it and are bound by its terms when you use the EJCDC document.
@@ -303,8 +304,7 @@ The following is a suggestion for use at the beginning of the Supplementary Cond
    1. Format for Complete Paragraph Change
 When completely superseding a paragraph of the General Conditions, the following language may be used:
       1. SC-5.09.B Delete Paragraph 5.09.B in its entirety and insert the following in its place:
-            1. 
-   1. Format for Change within a Paragraph
+         1. Format for Change within a Paragraph
 When changing language within a paragraph of the General Conditions, the following language may be used:
       1. SC-6.21.A Amend the second sentence of Paragraph 6.21.A (to read as follows) [or] (by striking out the following words):
             1. Format for Additional Language
@@ -536,7 +536,8 @@ If it is desired to add a new paragraph to the General Conditions, the thought m
      1. 
 1. SC-5.06.A. Delete Paragraph 5.06.A in its entirety and insert the following in its place:
       1. Contractor shall purchase and maintain property insurance upon the Work at the Site in the amount of the full replacement cost thereof. 
- **1. This insurance shall**: 
+ *
+	1. This insurance shall**: 
 
  **a. include the interests of Owner, Contractor, Subcontractors, Engineer and any other individuals or entities identified herein, and the officers, directors, partners, employees, agents and other consultants and subcontractors of any of them each of whom is deemed to have an insurable interest and shall be listed as an insured or additional insured;
       1. in addition to the individuals and entities specified, include as additional insureds, the following:
@@ -609,11 +610,11 @@ If it is desired to add a new paragraph to the General Conditions, the thought m
    1. There are times when Engineer will agree to monitor Contractor’s compliance with certain Laws or Regulations. This arises most frequently with respect to compliance with local building codes, the Davis-Bacon Act (on Federally-assisted construction), equivalent state prevailing wage rates, or safety regulations applicable to performance of the Work where Engineer possesses special expertise qualifying Engineer for the assignment. Such an undertaking would require an amendment of O-E Exhibit A because this is not a responsibility customarily assumed by Engineers. It would also require an amendment of the General Conditions which should appear at SC-9, where matters pertaining to Engineer’s status are dealt with. If the monitoring activities pertain to compliance with safety regulations, GC-6.13 will have to be amended in SC-6.13 and, depending on the nature of the undertaking, other provisions of the General Conditions may need changing. If the monitoring activities pertain to financial matters, provisions of GC-14 will probably require changes which should appear in SC-14. If such monitoring duties are to be performed for Owner by a party other than Engineer (such as Owner’s Site representative, a construction manager, a special safety engineer, or a party with responsibility to coordinate the Work and activities of the various prime Contractors), comparable changes would be required in GC-6.09 and probably other provisions of the General Conditions (especially GC-8 and also GC-9 to explain the interrelationships between that party and Engineer). These should appear in the Supplementary Conditions with comparable changes in the Owner-Engineer Agreement. 
    1. SC-6.10 Taxes
    1. If Owner qualifies for a state or local sales tax exemption in the purchase of certain materials and equipment, appropriate language in this respect should be prepared by Owner’s attorney and included in SC-6.10. There should also be a cross reference to SC-6.10 in the Instructions or the suggested language of the Instructions should be supplemented as indicated in I-22. Suggested language for SC-6.10 is:
-      1. 
 1. SC-6.10 Add a new paragraph immediately after Paragraph 6.10.A:*
  **B. Owner is exempt from payment of sales and compensating use taxes of the [State] and of cities and counties thereof on all materials to be incorporated into the Work.
 
- **1. Owner will furnish the required certificates of tax exemption to Contractor for use in the purchase of supplies and materials to be incorporated into the Work.
+ *
+	1. Owner will furnish the required certificates of tax exemption to Contractor for use in the purchase of supplies and materials to be incorporated into the Work.
 
  **2. Owner’s exemption does not apply to construction tools, machinery, equipment, or other property purchased by or leased by Contractor, or to supplies or materials not incorporated into the Work.
    1. SC-6.13 Safety and Protection
@@ -674,7 +675,8 @@ SC-9 Engineer’s Status During Construction
    1. Rental costs often raise problems and can lead to disagreements, particularly with respect to Contractor owned equipment. If the Project includes the use of a significant amount of equipment, language similar to the following should be considered:
       1. SC-11.01.A.5.c, Delete Paragraph 11.01.A.5.c in its entirety and insert the following in its place:
       1. Construction Equipment and Machinery:
- **1. Rentals of all construction equipment and machinery, and the parts thereof in accordance with rental agreements approved by Owner with the advice of Engineer, and the costs of transportation, loading, unloading, assembly, dismantling, and removal thereof. All such costs shall be in accordance with the terms of said rental agreements. The rental of any such equipment, machinery, or parts shall cease when the use thereof is no longer necessary for the Work.
+ *
+	1. Rentals of all construction equipment and machinery, and the parts thereof in accordance with rental agreements approved by Owner with the advice of Engineer, and the costs of transportation, loading, unloading, assembly, dismantling, and removal thereof. All such costs shall be in accordance with the terms of said rental agreements. The rental of any such equipment, machinery, or parts shall cease when the use thereof is no longer necessary for the Work.
 
  **2. Costs for equipment and machinery owned by Contractor will be paid at a rate shown for such equipment in the [Use rate book appropriate for the Project]. An hourly rate will be computed by dividing the monthly rates by 176. These computed rates will include all operating costs. Costs will include the time the equipment or machinery is in use on the changed Work and the costs of transportation, loading, unloading, assembly, dismantling, and removal when directly attributable to the changed Work. The cost of any such equipment or machinery, or parts thereof, shall cease to accrue when the use thereof is no longer necessary for the changed Work. Equipment or machinery with a value of less than $1,000 will be considered small tools.
    1. SC-11.02 Allowances

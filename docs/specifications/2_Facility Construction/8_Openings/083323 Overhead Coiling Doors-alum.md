@@ -37,7 +37,7 @@ tags: ['Facility', 'Construction', 'Openings', 'Overhead', 'Coiling', 'Doors-alu
 7. Provide the Operation and Maintenance Manual.
 8. Provide certification of Installer’s qualifications. 
 ## Product
-1. 2.1 Acceptable Manufacturers
+1. Acceptable Manufacturers
    1. Subject to compliance with the Contract Documents, only the following manufacturers are acceptable:
 	1. The Cookson Company.
 	2. Cornell Iron Works.
@@ -45,7 +45,7 @@ tags: ['Facility', 'Construction', 'Openings', 'Overhead', 'Coiling', 'Doors-alu
 	4. Overhead Door Corp.
 	5. Raynor.
 2. Submit request for substitution in accordance with Specification Section 01 25 00.
-1. 2.2 Materials
+1. Materials
    1. Door Curtain and Hood:
       1. Aluminum
 2. Weatherproofing:
@@ -121,7 +121,7 @@ tags: ['Facility', 'Construction', 'Openings', 'Overhead', 'Coiling', 'Doors-alu
 
 ## Execution
 
-1. 3.1 Installation
+1. Installation
    1. Install products in accordance with manufacturer's instructions.
 2. Installation shall be done by manufacturer's authorized representative.
 3. Provide all required trim, weatherstripping, closures etc., for complete weather tight installation.
@@ -131,6 +131,6 @@ tags: ['Facility', 'Construction', 'Openings', 'Overhead', 'Coiling', 'Doors-alu
 6. Door supplier shall provide wiring and conduit between door motor and push button controller.
 7. Provide aluminum or stainless steel bracing for motor operator to eliminate vibration.
 8. Provide dissimilar materials protection on all surfaces coming in contact with dissimilar materials.
-1. 3.2 Adjustment
+1. Adjustment
    1. Prior to occupancy, adjust the door for smooth operation.
 

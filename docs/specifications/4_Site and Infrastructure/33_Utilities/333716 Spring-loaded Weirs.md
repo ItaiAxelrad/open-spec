@@ -42,7 +42,6 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Spring-loaded', 'Weirs']
    1. Weir Gates supplied under this section shall be:
       1. Bray Series 70 Electric Actuator or approved equal.
 2. Performance Specifics Shall be as follows:
-      1. 
    1. Output Torque:
       1. 3000, 5000 and 6500 lb-in. (339, 565 and 734.4 Nm) 
     1. 90° travel times:
@@ -50,25 +49,18 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Spring-loaded', 'Weirs']
     1. 18 sec intermittent 
     1. 30 sec continuous 
    1. Motor Gear Ratios:
-      1. 
     1. 2078:1, and 3336:1 
    1. Motor Insulation:
-      1. 
     1. Class F, 311°F (155°C) Thermal Trip at 275°F (135°C) 
    1. Voltages:
-      1. 
     1. 115V or 220V, 50/60 Hz 
    1. Temperature:
-      1. 
  -20 to 150°F (-29° to 65°C) 
    1. Continuous Duty:
-      1. 
  Will operate continuously at a max. ambient temperature of 104°F (40°C) 
    1. Intermittent Duty (25%):
-      1. 
  Can maintain operation when cycled once per three similarly timed rest periods at a max. ambient temperature of 104°F (40°C) 
    1. Manual Operation:
-      1. 
  Pull to Engage, Push to Disengage 
     1. Emergency shut-off disconnects power to motor 
     1. 12” (300 mm) diameter handwheel with a 30:1 drive ratio 

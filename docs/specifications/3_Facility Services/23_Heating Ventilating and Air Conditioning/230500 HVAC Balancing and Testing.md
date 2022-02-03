@@ -52,7 +52,7 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
 
 ## Execution
 
-1. 3.1 Preparation
+1. Preparation
    1. Secure approved Shop Drawings of all HVAC equipment.
 2. Procedures and Forms:
 	1. Submit procedures and forms to be used in calibration of test instruments, balancing systems, and recording and reporting test data.

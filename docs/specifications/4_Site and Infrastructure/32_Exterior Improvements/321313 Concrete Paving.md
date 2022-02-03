@@ -175,7 +175,6 @@ ly retain first option in first subparagraph below unless concrete with lighter 
    1. Retain paragraph below if a white, waterborne, membrane-forming curing compound is required. Retain if more reflectivity is required. Review product choices because some dissipate and others are abraded by traffic. Although the EPA permits VOC emissions of up to 350 g/L for this product category, verify that product meets curing compound VOC emission limits of authorities having jurisdiction.
    1. RELATED MATERIALS
    1. Joint Fillers:
-      1. 
    1. Joint sealant with backer rod:
       1. The backer rod placed prior to joint sealant shall be constructed of closed cell polyethylene strand as approved.
    1. Bonding agent in first paragraph below may be used directly from container or as an admixture in cement or sand-cement slurry.
@@ -320,7 +319,6 @@ ly retain first option in first subparagraph below unless concrete with lighter 
    1. Surface Continuity:
       1. Perform sandblasting finishing in as continuous an operation as possible, utilizing the same work crew to maintain continuity of finish on each surface or area of work. Maintain patterns of variances in depths of cuts as indicated.
    1. Protection and Repair:
-      1. 
    1. Protect adjacent materials and finishes from dust, dirt, and other surface or physical damage during sandblasting operations. 
    1. Provide protection as required by local, state and federal codes and remove from site at the completion of the work.
    1. Repair or replace other work damaged by finishing operations.

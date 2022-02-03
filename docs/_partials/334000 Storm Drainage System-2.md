@@ -187,7 +187,9 @@ Manhole
    1. Contractor shall submit Coordination Drawings interferences for construction. Details of catch basins and manholes shall be shown with proper elevations.
 5. PLANS
    1. A Work Plan shall be submitted when sewer flow is to be interrupted, noting Proposed Schedules, Methods, Materials and Equipment.
-1. ## Product
+
+## Products
+
 1. BONDING AND SEALING MATERIALS
    1. Bituminous Coating and Sealing
 1. Coating shall be in accordance with ASTM A 849.

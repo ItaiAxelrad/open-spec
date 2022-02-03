@@ -11,19 +11,22 @@ tags: ['Facility', 'Services', 'Electrical', 'Hangers', 'Supports', 'Elec', 'Sys
 
 1. RELATED DOCUMENTS
    1. Drawings and general provisions of the Contract, including General and Supplementary Conditions and Division 1 Specification Sections, apply to this Section.
-1. SUMMARY*   1. This Section includes:
-      1. 
+1. SUMMARY
+	1. This Section includes:
    1. Provide supports, anchors, sleeves, concrete equipment pads, seals and other related supporting devices and methods as specified and indicated. 
    1. Refer to related Division 26, 27 and 28 Specification sections of the Specifications for specific and supplemental supporting device requirements. 
 1. SUBMITTALS*	1. General:
       1. Submit specific details for supporting electrical equipment with the appropriate electrical equipment submittal. 
    1. Product Data:
       1. Submit manufacturer's technical product data on supporting devices specified and indicated. 
-1. QUALITY ASSURANCE*   1. Manufacturer Qualifications 
+1. QUALITY ASSURANCE
+	1. Manufacturer Qualifications 
    1. Firms regularly engaged in the manufacture of supporting devices, of types, sizes, and ratings required, whose products have been in satisfactory use in similar service for not less than 3 years. 
-1. PRODUCTS
-1. MANUFACTURED SUPPORTING DEVICES*   1. U-channel Strut Systems:
-      1. 
+
+## PRODUCTS
+
+1. MANUFACTURED SUPPORTING DEVICES
+	1. U-channel Strut Systems:
    1. Manufacturers
    1. Cooper B-Line, Inc. 
    1. Hilti Corp.
@@ -32,24 +35,21 @@ tags: ['Facility', 'Services', 'Electrical', 'Hangers', 'Supports', 'Elec', 'Sys
    1. No. 12 gage, hot-dipped galvanized steel, with 9/16-inch diameter holes, 8-inches on center on top surface, with manufacturer's standard, natural/neutral finish. 
    1. Provide corrosion-resistant fittings which mate and match the U-channel. 
    1. Wall and Floor Conduit Seals:
-      1. 
    1. Manufacturers
    1. O-Z/Gedney Co., Unit of EGS Electrical Group
    1. Provide factory-assembled, watertight wall and floor seals, of types and sizes required, suitable for sealing around conduit, pipe, or tubing passing through concrete floors and walls. 
    1. Construct seals with steel sleeves, malleable iron body, neoprene sealing grommets and rings, metal pressure rings, pressure clamps, and cap screws. 
    1. Conduit Straps:
-      1. 
    1. Galvanized steel. 
    1. Clevis Hangers:
-      1. 
    1. Galvanized steel with 1/2-inch diameter hole for round steel rod. 
    1. C-Clamps:
-      1. 
    1. Black malleable iron, 1/2-inch rod size, approximately 70 pounds per 100 units. 
    1. Miscellaneous Devices and Hardware:
-      1. 
    1. Corrosion resistant. 
-1. EXECUTION
+
+## EXECUTION
+
 1. COORDINATION
    1. Coordinate size and location of concrete bases. Cast anchor-bolt inserts into bases. Concrete, reinforcement, and formwork requirements are specified in Division 3.
    1. Coordinate installation of roof curbs, equipment supports, and roof penetrations. These items are specified in Division 7.
@@ -108,7 +108,6 @@ tags: ['Facility', 'Services', 'Electrical', 'Hangers', 'Supports', 'Elec', 'Sys
 1. PAINTING
    1. Retain paragraph and subparagraph below if a Division 09 painting Section is not in Project Manual.
    1. Touchup:
-      1. 
    1. Clean field welds and abraded areas of shop paint. Paint exposed areas immediately after erecting hangers and supports. Use same materials as used for shop painting. Comply with SSPC-PA 1 requirements for touching up field-painted surfaces. Apply paint by brush or spray to provide minimum dry film thickness of 2.0 mils (0.05 mm).
    1. Touchup:
       1. Comply with requirements in related Division 9 Sections of the Specifications for cleaning and touchup painting of field welds, bolted connections, and abraded areas of shop paint on miscellaneous metal.

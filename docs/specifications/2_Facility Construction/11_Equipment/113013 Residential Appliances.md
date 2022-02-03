@@ -25,29 +25,22 @@ tags: ['Facility', 'Construction', 'Equipment', 'Residential', 'Appliances']
 	3. Division 01 Specification Sections
 	4. Quality Assurance
 3. Installer Qualifications:
-      1. 
 	1. An employer of workers trained and approved by manufacturer for installation and maintenance of units required for this Project.
 4. Electrical Components, Devices, and Accessories:
-      1. 
 	1. Listed and labeled as defined in NFPA 70, Article 100, by a testing agency acceptable to authorities having jurisdiction, and marked for intended use.
 5. Energy Ratings:
-      1. 
 	1. Provide appliances that qualify for the EPA/DOE ENERGY STAR product labeling program.
 	2. Warranty
 6. Special Warranty:
-      1. 
 	1. Manufacturer's standard form in which manufacturer of each appliance specified agrees to repair or replace residential appliances or components that fail in materials or workmanship within specified warranty period.
 7. Electric Range:
-      1. 
 	1. Five-year limited warranty for surface-burner elements.
 3. submittals
    1. Product Data:
-      1. 
 	1. For each type of product indicated.
 2. Samples:
 	1. For each exposed finish.
 3. Appliance Schedule:
-      1. 
 	1. Use same designations indicated on Drawings.
 4. Maintenance data.
    1. Product
@@ -78,7 +71,6 @@ tags: ['Facility', 'Construction', 'Equipment', 'Residential', 'Appliances']
 6. Comply with NAAMM's "Metal Finishes Manual for Architectural and Metal Products" for recommendations for applying and designating finishes.
 7. Protect mechanical finishes on exposed surfaces from damage by applying a strippable, temporary protective covering before shipping.
 8. Stainless-Steel Finish:
-      1. 
 	1. Provide appliances with manufacturer's standard finish complying with manufacturer's written instructions for surface preparation including ground and polished stainless-steel surfaces for uniform, directionally textured finish.
 
 ## Execution
@@ -86,10 +78,8 @@ tags: ['Facility', 'Construction', 'Equipment', 'Residential', 'Appliances']
 
 	1. Installation
    1. Built-in Equipment:
-      1. 
 	1. Securely anchor units to supporting cabinets or countertops with concealed fasteners. Verify that clearances are adequate for proper functioning and rough openings are completely concealed.
 2. Freestanding Equipment:
-      1. 
 	1. Place units in final locations after finishes have been completed in each area. Verify that clearances are adequate to properly operate equipment.
 	2. Cleaning and Protection
 3. Test each item of residential appliances to verify proper operation and make necessary adjustments.

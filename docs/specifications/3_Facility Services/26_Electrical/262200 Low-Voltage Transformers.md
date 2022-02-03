@@ -14,8 +14,8 @@ tags: ['Facility', 'Services', 'Electrical', 'Low-Voltage', 'Transformers']
    1. Drawings and general provisions of the Contract, including General and Supplementary Conditions and Division 1 Specification Sections, apply to this Section.
 1. SUMMARY
    1. This Section includes distribution and specialty transformers, with primary voltages of 600 volts and less, as specified and indicated. 
-1. References*   1. American National Standards Institute (ANSI):
-      1. 
+1. References
+	1. American National Standards Institute (ANSI):
    1. C57.12.50 - Ventilated Dry-Type Distribution Transformers 15 to 500 kVA, Three-Phase with High-Voltage 601-34 500 Volts, Low Voltage 120-600 Volt. 
    1. Institute of Electrical and Electronics Engineers (IEEE) 
    1. C57.12.01 - General Requirements for Dry-Type Distribution and Power Transformers Including Those with Solid Cast and/or Resin-Encapsulated Windings.
@@ -29,7 +29,8 @@ tags: ['Facility', 'Services', 'Electrical', 'Low-Voltage', 'Transformers']
    1. Underwriters Laboratories Inc. (UL) 
    1. 506 - Specialty Transformers. 
    1. 1561 - Dry-Type General Purpose and Power Transformers.
-1. Submittals*   1. Product Data:
+1. Submittals
+	1. Product Data:
       1. Submit manufacturer's technical product data for each type of transformer including. 
    1. kVA and voltage of primary and secondary windings.
    1. Windings insulation class.
@@ -41,7 +42,6 @@ tags: ['Facility', 'Services', 'Electrical', 'Low-Voltage', 'Transformers']
    1. Shop Drawings:
       1. Submit dimensioned drawings of each type of transformer mounting arrangement floor, wall, and suspended, specified and indicated. 
    1. Quality Control Submittals:
-      1. 
    1. Submit results of specified factory tests. 
    1. Submit results of specified field tests. 
 1. QUALITY ASSURANCE
@@ -55,24 +55,23 @@ tags: ['Facility', 'Services', 'Electrical', 'Low-Voltage', 'Transformers']
 1. DELIVERY, STORAGE, AND HANDLING
    1. Temporary Heating:
       1. Apply temporary heat according to manufacturer's written instructions within the enclosure of each ventilated-type unit, throughout periods during which equipment is not energized and when transformer is not in a space that is continuously under normal control of temperature and humidity.
-1. PRODUCTS
-1. Dry-Type Distribution Transformers (500 kVA And Below)*   1. Manufacturers:
-      1. 
+
+## PRODUCTS
+
+1. Dry-Type Distribution Transformers (500 kVA And Below)
+	1. Manufacturers:
    1. Siemens Energy & Automation, Inc
    1. Cutler-Hammer 
    1. GE Company, GE Industrial Systems
    1. Square D 
 	1. General:
-      1. 
    1. Provide general purpose, factory-assembled, ventilated, dry-type, 60-hertz distribution transformers of voltages, phases, and power capacities as indicated on the drawings. 
    1. Comply with NEMA ST 20 and TR 1; ANSI C57.12.50; IEEE C57.12.01, C57.12.91, C57.94; UL 506 and 1561. 
    1. Comply with NEMA TP-1, Class 1 efficiency levels, tested according to NEMA TP-2.
    1. Windings:
       1. Provide aluminum transformer windings, rated 30 kVA to 500 kVA, with 220°C insulation and with a maximum temperature rise of 115°C. 
    1. Sound Rating:
-      1. 
    1. Comply with the following maximum sound levels as measured per NEMA ST 20:
-      1. 
     1. kVA Rating Max. Sound Level
     1. 10-50 45 dBa
     1. 51-150 50 dBa
@@ -80,7 +79,6 @@ tags: ['Facility', 'Services', 'Electrical', 'Low-Voltage', 'Transformers']
     1. 301-500 60 dBa
    1. Provide neoprene isolation pads and sleeves on bolts that fasten the core-and-coil assembly to the transformer enclosure. 
    1. Enclosure and Accessories:
-      1. 
    1. Provide fully enclosed sheet steel enclosure with lifting lugs, Type 2 per NEMA 250. 
    1. Provide terminal enclosure, with cover, to accommodate primary and secondary coil wiring connections from the front. 
    1. Provide corrosion-resistant primer treatment and light gray baked acrylic enamel finish. 
@@ -96,7 +94,6 @@ tags: ['Facility', 'Services', 'Electrical', 'Low-Voltage', 'Transformers']
    1. Powersmiths 
    1. Mirus
 	1. General:
-      1. 
    1. Provide nonlinear load type, factory-assembled, ventilated, dry-type, 60-hertz distribution transformers of voltages, phases, and power capacities as indicated.
    1. Comply with NEMA ST 20 and TR 1, IEEE C57.12.01, C57.110, UL 506 and 1561.
    1. Comply with NEMA TP-1, Class 1 efficiency levels, tested according to NEMA TP-2.
@@ -130,18 +127,16 @@ tags: ['Facility', 'Services', 'Electrical', 'Low-Voltage', 'Transformers']
    1. Provide wiring connectors suitable for copper or aluminum wiring.
    1. Provide transformers 30 kVA and less suitable for wall, floor, and trapeze mounting; provide transformers larger than 30 kVA suitable for floor and trapeze mounting.
    1. Provide secondary neutral terminal sized for 200 percent of the secondary phase current with a double set of lugs.
-1. Dry-Type Isolation Transformers*   1. Manufacturers:
-      1. 
+1. Dry-Type Isolation Transformers
+	1. Manufacturers:
    1. Square D Co., Topaz, Inc. 
    1. Siemens
    1. GE Company, GE Industrial Systems
    1. Cutler-Hammer
 	1. General:
-      1. 
    1. Provide isolation-type 60 hertz transformer, with electrostatic shield, of voltages, phases, and power capacities as indicated. 
    1. Comply with the requirements specified for dry type distribution transformers. 
    1. Isolation Requirements:
-      1. 
    1. Transverse-mode noise attenuation:
       1. greater than 20 dB over a frequency range of 10k to 100k hertz. 
    1. Common-mode noise attenuation:
@@ -150,16 +145,13 @@ tags: ['Facility', 'Services', 'Electrical', 'Low-Voltage', 'Transformers']
 1. Source Quality Control
    1. Factory Tests:
       1. Dry-type Transformers:
-      1. 
    1. Provide the following factory tests on the actual dry-type distribution and isolation transformer provided:
-      1. 
    1. Applied potential
    1. No load losses
    1. Voltage ratio
    1. Polarity
    1. Continuity
    1. Provide the following factory tests on the actual transformers provided or on units identical to those provided:
-      1. 
    1. Sound level
    1. Temperature rise
    1. Full load losses
@@ -169,22 +161,24 @@ tags: ['Facility', 'Services', 'Electrical', 'Low-Voltage', 'Transformers']
       1. Independent Performance Validation by U.S. Department of Energy Test Lab for harmonic performance and energy efficiency.
    1. Conduct testing using three single-phase 120V nonlinear load banks with personal computer harmonic profile at 35 percent or more of transformer nameplate load level.
    1. Submit test results including transformer efficiency, change in voltage THD between transformer primary and secondary terminals, ratio of 3rd harmonic current in primary delta current profile compared to that in secondary phase current.
-1. EXECUTION
-1. Installation*   1. Dry-type Transformers:
+
+## EXECUTION
+
+1. Installation
+	1. Dry-type Transformers:
       1. Use flexible conduit, 600 mm (2 feet) minimum length, for connections to transformer case. Make conduit connections to side panel of enclosure with insulated bushings. 
    1. Mount transformers on vibration isolating pads suitable for isolating transformer noise from the building structure. 
    1. Floor mount transformers unless otherwise indicated. Mount transformer plumb and level. 
    1. Provide grounding connections per related Division 26 sections of the specifications.
    1. Identification:
       1. Provide engraved plastic-laminate sign, per related Division 26 sections of the specifications indicating the following lines of information:
-      1. 
    1. Transformer designation (e.g., "T-12"). 
    1. Primary power characteristics (e.g., "480V, 3PH, 3W"). 
    1. Secondary power characteristics (e.g., "208Y/120V, 3PH, 4W"). 
    1. Power rating (e.g., "75 kVA"). 
    1. Power source (e.g., "Fed from PP-1A"). 
-1. Field Quality ControL*   1. Field Tests:
-      1. 
+1. Field Quality ControL
+	1. Field Tests:
    1. Check for tight electrical connections prior to energizing transformer. 
    1. Perform insulation resistance test, winding-to-winding and winding-to-ground.
    1. Measure primary and secondary voltages with secondary load disconnected. 

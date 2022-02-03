@@ -112,7 +112,6 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Earth', 'Moving', 'Owner', 'proj'
    1. No materials shall be placed until receipt of written approval by Geotechnical Engineer of samples. All materials used shall be the same as those in the samples submitted.
    1. The Geotechnical Engineer shall be considered the Owner/Owner’s Representative/Engineer's representative on the job during earthwork operations. Fill material which, in his opinion, does not meet the specification requirements shall be removed or otherwise corrected as he directs. Geotechnical Engineer to notify Owner’s Representative immediately if Contractor is completing work not in accordance with the Geotechnical Report's recommendations.
    1. APPROVAL BY GEOTECHNICAL ENGINEER:
-      1. 
    1. The Geotechnical Engineer to submit in writing to the Owner’s Representative, "that the site and building pad have been prepared per the Geotechnical Report, and both site and building pad are approved by the Geotechnical Engineer".
 1. PROJECT CONDITIONS
    1. Traffic:
@@ -160,7 +159,6 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Earth', 'Moving', 'Owner', 'proj'
    1. Revise first two paragraphs below and identify soil materials according to geotechnical engineer's written recommendations. Revise soil groups and size of stone to suit Project. Most soils are classified according to ASTM D 2487. Heavy civil or highway projects may use AASHTO M 145.
    1. Retain subparagraphs below if required to further qualify satisfactory soil groups.
    1. Unsatisfactory Soils:
-      1. 
    1. Imported soils not meeting criteria for imported fill. On-site soils having claystone bedrock concentrations.
    1. Unsatisfactory soils also include satisfactory soils not maintained within -2 to +2 percent of optimum moisture content for onsite granular soils and 0 to +4 optimum moisture content for the onsite sandy clay materials at the time of compaction.
    1. Unsatisfactory soils also include satisfactory soils not maintained within 1 to 3 percent of optimum moisture content at time of compaction.
@@ -248,7 +246,6 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Earth', 'Moving', 'Owner', 'proj'
 1. PREPARATION
    1. Trench excavation is unclassified. Complete all excavation regardless of the type of materials encountered. The Contractor shall make his own estimate of the kind and extent of the various materials which will be encountered in the excavation.
    1. Trench Width:
-      1. 
    1. Minimum width of unsheeted trenches in which pipe is to be laid shall be 18 inches greater than the nominal diameter of the pipe, or as approved by the Engineer. Minimum width of trenches for concrete encased ductbanks shall be sufficient to provide necessary clearance for the work and shall comply with all safety requirements. Sheeting requirements shall be independent of trench widths.
 2. The maximum width at the top of the trench will not be limited, except where excess width of excavation would cause damage to adjacent structures or property or where specifically shown on the Drawings.
 3. When approved by the Engineer, the Contractor may use pipe of greater strength or install superior pipe bedding in lieu of maintaining the trench widths shown.
@@ -257,17 +254,14 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Earth', 'Moving', 'Owner', 'proj'
    1. Shoring, Sheeting and Bracing of Trenches:
       1. Sheet and brace the trench when necessary to prevent caving during excavation in unstable material, or to protect adjacent structures, property, workers, and the public. Increase trench widths accordingly by the thickness of the sheeting. Maintain sheeting in place until the pipe has been placed and backfilled at the pipe zone. Shoring and sheeting shall be removed, as the backfilling is done, in a manner that will not damage the pipe or permit voids in the backfill. All sheeting, shoring, and bracing of trenches shall conform to the safety requirements of Federal, State, or local public agency having jurisdiction and the Owner's Construction Safety Program. The most stringent of these requirements shall apply.
    1. Removal of Water:
-      1. 
    1. Remove and dispose of all water entering the trench excavation during the time the trench is being prepared for the pipe laying, during the laying of the pipe, and until the backfill at the pipe zone has been completed. 
 2. Dispose of the water in a manner to prevent damage to adjacent property. Drainage of trench water through the pipeline under construction is prohibited.
    1. Handling and Discharge of Trench Water:
-      1. 
    1. Non-Contaminated Water:
       1. The water shall be discharged according to the Federal, State, and local codes and regulations.
 2. Potentially Contaminated Water:
       1. If there is any evidence of contamination in the water, based on olfactory and/or visual indications, all work in the area shall cease until potential risks are evaluated further, and the water shall be handled as a contaminated material until further sampling and analysis can be conducted. 
    1. Pipe Base and Pipe Zone Backfill:
-      1. 
    1. Pipe Base:
       1. Place granular base for the full width of the trench. The top of the granular base shall be at flow line grade. Bed the pipe in the granular base so that the flow line is at the required grade and elevation. Place and finish the gravel base to grade ahead of the pipe laying operation. All work must conform to Town of Parker and Parker Water and Sanitation District Standards and Specifications. 
 2. Pipe Zone Backfill:

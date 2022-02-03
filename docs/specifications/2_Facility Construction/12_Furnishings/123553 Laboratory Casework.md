@@ -69,7 +69,9 @@ tags: ['Facility', 'Construction', 'Furnishings', 'Laboratory', 'Casework']
    1. project conditions
    1. Field Measurements
    1. Take field measurements to verify or supplement dimensions indicated. Be responsible for accurate fit of the Work.
-   1. products
+   
+## PRODUCTS
+
 
 ## General
 

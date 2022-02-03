@@ -164,7 +164,6 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Concrete', 'Manholes']
       1. P?
    1. P.
    1. P:
-      1. 
       1. T.
       1. A
 THE FOLLOWING APPLIES TO THE EXECUTION SECTION OF THIS SPECIFICATION:

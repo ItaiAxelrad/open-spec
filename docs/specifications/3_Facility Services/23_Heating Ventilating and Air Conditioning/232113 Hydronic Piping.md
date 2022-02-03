@@ -91,7 +91,9 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
       1. Furnish enough chemicals for initial system startup and for preventive maintenance for one year from date of Substantial Completion.
    1. Differential Pressure Meter:
       1. For each type of balancing valve and automatic flow control valve, include flowmeter, probes, hoses, flow charts, and carrying case.
-1. PRODUCTS
+
+## PRODUCTS
+
 1. BEDDING AND BACKFILL MATERIALS
    1. Granular Material
    1. Crushed stone or pea gravel which will pass the 4-inch sieve but will be retained on the No. 4 sieve (U.S.A. Standard Series).
@@ -99,7 +101,8 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. ASTM E11.
    1. Sand
    1. Natural particles of granular material which does not contain excessive amounts of clay, silt, or organic material, passing a 3/8-inch sieve. Sand found on the job site may be used if it is approved by the Architect.
-1. Piping Materials - Aboveground*   1. Heating Hot Water, Chilled Water, Condenser Water, and Glycol.
+1. Piping Materials - Aboveground
+	1. Heating Hot Water, Chilled Water, Condenser Water, and Glycol.
    1. Item
    1. Type
    1. Joint
@@ -180,7 +183,9 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Steel
    1. Machine
    1. Bolts
-1. EXECUTION
+
+## EXECUTION
+
 
  **Aboveground Piping Installation*
 ## General
@@ -215,7 +220,8 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Clean surfaces to be soldered both the inside of the fitting and the outside of the tubing, with steel wool or fine sandpaper until all discoloration is removed and metal is smooth and bright. 
    1. In assembling copper tube systems, take care to establish proper grade and alignment in the system before soldering. Installations will not be approved where tube and fittings are subjected to strain in order to obtain grade or alignment. 
    1. File or ream cut tube ends to the full original bore. 
-1. Pipe Jointing*   1. Steel Pipe 
+1. Pipe Jointing
+	1. Steel Pipe 
    1. Provide steel pipe NPS 2 and smaller with plain ends and socket weld joints or threaded ends and screwed joints. Provide sizes NPS 2-1/2 and over flanged or grooved with gaskets or welded. 
    1. Ream pipe ends and take care to prevent foreign material from entering any pipe. 
    1. Make screwed joints with oil and graphite or other approved compound. Apply joint compound to male thread only and take care to prevent compound from reaching interior of pipe. 

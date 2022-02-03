@@ -203,7 +203,9 @@ A panel will be considered raveled if aggregate is dislodged from a contiguous a
 1. PART 2
 3. Required Inspections:
       1. Notify the Engineer at least 48 hours prior to required inspections specified in Sections 3.01, 3.02, and 3.03.B.
-1. PRODUCTS
+
+## PRODUCTS
+
    1. DESIGNER NOTE:
       1. Designers should maximize the use of regionally available materials.
 1. March 2016 32 13 43 - 10
@@ -555,7 +557,9 @@ Plans and included herein:
    1. DESIGNER NOTE:
       1. The designer should consider including specifications for signage and pavement markings in this section.
 1. PART 3
-1. EXECUTION
+
+## EXECUTION
+
 01.
    1. SUBGRADE PREPARATION AND PROTECTION
    1. Construct subgrade to +/- ¾ inch of the grades and slopes specified on the
@@ -661,9 +665,7 @@ DESIGNER NOTE: Designer should consider size and aspect ratio of panels when loc
 1. DIVISION 32 – EXTERIOR IMPROVEMENTS Section 32 13 43 – Pervious Concrete
 3. Isolation Joints:
       1. Isolation joints shall be used where the pervious concrete abuts existing facilities or where shown on the Plans.
-      1. b.
-      1. d.
-   1. Curing
+         1. Curing
 Isolation joints shall continue through the depth of the pervious concrete using a 3/8 inch premolded joint filler.
    1. Isolation joints may be formed by inserting the premolded joint filler into the plastic concrete or by forming a construction joint and affixing the premolded joint filler against one side of the joint and placing fresh pervious concrete against it.
    1. Isolation joints and filler shall be flush with the surrounding pervious concrete and shall not deviate from the acceptance criteria for Grade as specified in Section 1.05.E.2.

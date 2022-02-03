@@ -17,7 +17,9 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Stormwater', 'Culverts']
             1. Section 02221; Excavating, Backfilling, and Compacting
    1. Section 02720; Catch Basin Inlets
    1. Section 02601; Manholes
-  1. PRODUCTS
+  
+## PRODUCTS
+
    1. Corrugated Metal Pipe
    1. Corrugated Metal Pipe (CMP):
       1. Shall conform to AASHTO M36, Type I. Zinc coating shall conform to AASHTO M218. Corrugated steel circular section with annual (circumferential) or helical corrugations. Minimum thickness shall be as follows:

@@ -123,7 +123,9 @@ tags: ['Facility', 'Services', 'Electronics', 'Safety', 'Security', 'Fire', 'Det
       1. One of each type installed.
    1. Fuses:
       1. Two of each type installed in the system.
-1. PRODUCTS
+
+## PRODUCTS
+
 
 ## General
 
@@ -214,7 +216,9 @@ tags: ['Facility', 'Services', 'Electronics', 'Safety', 'Security', 'Fire', 'Det
    1. All points monitored and controlled by the fire alarm control panel shall be capable of being programmed as “Public”. Such points shall include:
       1. initiating circuit devices such as addressable sensors, including sensor type and sensor values; addressable manual stations; supervisory operation, such as sprinkler flow and tamper monitoring; control circuits, such as notification appliances, fan control, elevator control and other similar operations.
    1. Each point made public to the network shall be able to be programmed for operation by any other Fire Alarm Control Panel connected to the network. When point information is programmed into a node other than the “Owner”, a “replica” of that point is programmed into the other node. When a replica is so programmed, the node with the replica can operate on those points as though they were directly connected to that node.
-1. EXECUTION
+
+## EXECUTION
+
 1. INSTALLATION
    1. Connecting to Existing Equipment:
       1. Verify that existing fire alarm system is operational before making changes or connections.

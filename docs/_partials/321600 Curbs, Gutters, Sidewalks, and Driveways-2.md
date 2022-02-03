@@ -45,7 +45,7 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Curbs', 'Gutters',
 	2. Concrete cylinder test results for quality control.
 6. Samples of fabricated jointing materials and devices. 
 ## Product
-1. 2.1 Acceptable Manufacturers
+1. Acceptable Manufacturers
    1. Chemical admixtures:
 	1. Sika Chemical Corporation
 	2. BASF Admixtures Inc. 
@@ -86,7 +86,7 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Curbs', 'Gutters',
 ## Execution
 
 
-1. 3.1 Preparation
+1. Preparation
    1. Subgrade Preparation:
 	1. Prepare using methods, procedures, and equipment necessary to attain required compaction densities, elevation and section.
 	2. Scarify and re-compact top 6 IN of fills and embankments which will be under concrete curb and gutters.
@@ -112,7 +112,7 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Curbs', 'Gutters',
 		1. Secure to elevation with concrete.
 		2. Place concrete up to 5 IN below design grade.
 	4. Clean and oil forms.
-1. 3.2 Installation
+1. Installation
    1. Concrete Production:
 	1. Comply with Specification Section 03 31 00.
 2. Forms:
