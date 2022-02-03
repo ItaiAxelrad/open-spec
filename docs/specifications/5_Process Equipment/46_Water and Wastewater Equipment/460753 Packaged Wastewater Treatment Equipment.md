@@ -7,9 +7,6 @@ subgroup: Process Equipment
 tags: ['Process', 'Equipment', 'Water', 'Wastewater', 'Packaged', 'Treatment']
 ---
 
-
-1. PACKAGED WASTEWATER TREATMENT EQUIPMENT
-1. 
 ## General
 
 1. SUMMARY
@@ -21,10 +18,7 @@ tags: ['Process', 'Equipment', 'Water', 'Wastewater', 'Packaged', 'Treatment']
    1. CBOD:
       1. Carbonaceous biochemical oxygen demand; the depletion of dissolved oxygen by biological organisms in which the contribution from nitrogenous bacteria has been suppressed.
    1. Coliform Bacteria:
-
-## General
-
- class of bacteria used as indicators of potential contamination of drinking water.
+      General class of bacteria used as indicators of potential contamination of drinking water.
    1. Suspended Solids (SS):
       1. Small solid particles that remain in suspension in water.
    1. Total Inorganic Nitrogen (TIN):

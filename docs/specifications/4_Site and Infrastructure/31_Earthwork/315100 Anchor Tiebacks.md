@@ -7,8 +7,6 @@ subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Earthwork', 'Anchor', 'Tiebacks']
 ---
 
-
-
 ## General
 
 1. SUMMARY
@@ -23,14 +21,12 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Anchor', 'Tiebacks']
       1. Division 01 Section "General Requirements."
    1. Division 01 Section "Special Procedures."
    1. Division 31 Section "Driven Piles" for placement of concrete for driven piles.
-   1. REFERENCES 
+1. REFERENCES 
 	1. General:
       1. The following documents form part of the Specifications to the extent stated. Where differences exist between codes and standards, the one affording the greatest protection shall apply.
    1. Unless otherwise noted, the referenced standard edition is the current one at the time of commencement of the Work.
    1. Refer to Division 01 Section "General Requirements" for the list of applicable regulatory requirements.
-
 "Recommendations for Pre-stressed Rock and Soil Anchors," Post Tensioning Institute.
-
 "Tiebacks," FHWA/RA-82/047, Federal Highway Administration.
 1. SUBMITTALS
    1. Submit under provisions of Division 01 Section "General Requirements."

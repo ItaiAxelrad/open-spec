@@ -7,9 +7,6 @@ subgroup: Process Equipment
 tags: ['Process', 'Equipment', 'Interconnections', 'Hangers', 'Supports', 'Piping']
 ---
 
-   1. section 40 05 07
-   1. pipe support systems
-
 ## General
 
 1. Summary

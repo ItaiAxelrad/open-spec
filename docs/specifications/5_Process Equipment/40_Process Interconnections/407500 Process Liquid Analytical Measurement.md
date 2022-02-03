@@ -7,9 +7,6 @@ subgroup: Process Equipment
 tags: ['Process', 'Equipment', 'Interconnections', 'Liquid', 'Analytical', 'Measurement']
 ---
 
-   1. section 40 75 00
-   1. sample taps
-
 ## General
 
 1. SUMMARY

@@ -30,7 +30,7 @@ tags: ['General', 'Requirements', 'Temporary', 'Facilities', 'Controls']
 
 ## Execution
 
-1.  
+1. 
 
 	1. SIGNAGE — NOT USED
 

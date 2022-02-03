@@ -7,6 +7,4 @@ subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Openings']
 ---
 
-   1. Division 08
-   1. Openings
-
+Division 08 - Openings

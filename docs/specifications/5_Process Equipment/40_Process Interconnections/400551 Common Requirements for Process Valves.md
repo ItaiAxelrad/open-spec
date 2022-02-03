@@ -7,10 +7,6 @@ subgroup: Process Equipment
 tags: ['Process', 'Equipment', 'Interconnections', 'Common', 'Requirements', 'Valves']
 ---
 
-   1. section 40 05 51
-   1. Valves:
-      1. basic requirements
-
 ## General
 
 1. SUMMARY

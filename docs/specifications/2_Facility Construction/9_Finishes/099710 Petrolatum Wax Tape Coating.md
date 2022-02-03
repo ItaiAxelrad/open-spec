@@ -12,7 +12,7 @@ tags: ['Facility', 'Construction', 'Finishes', 'Petrolatum', 'Wax', 'Tape', 'Coa
 1. 
 ## General
 
-1.  
+1. 
 01. SCOPE*   1. This section covers the work necessary to furnish and install petrolatum wax tape coating on buried ferrous materials including pipe flanges, bolted fittings and couplings, valves and other buried pipeline appurtenances, complete, as shown or specified. 
 02. SUBMITTALS DURING CONSTRUCTION*   1. Submit manufacturer’s technical product data, details, installation instructions and general product recommendations. 
 03. PRODUCT IDENTIFICATION*   1. The use of a manufacturer’s name and model or catalog number is for the purpose of establishing the standard of quality and general configuration desired only. Products of other manufacturers will be considered in accordance with the Contract Documents. 

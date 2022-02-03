@@ -58,9 +58,7 @@ tags: ['Facility', 'Construction', 'Metals', 'Structural', 'Steel', 'Framing']
    1. Arc welding electrodes:
       1. Comply with AWS Requirements.
    1. Primer:
-      1. Use "1099 Tnemec Primer" or
-
-"Rustoleum number 5769 Primer."
+      1. Use "1099 Tnemec Primer" or "Rustoleum number 5769 Primer."
    1. Other Material:
       1. Provide other materials, not specifically described but required for a complete and proper installation, as selected by the Contractor subject to the approval of the Owner.
    1. FABRICATION
@@ -86,7 +84,7 @@ tags: ['Facility', 'Construction', 'Metals', 'Structural', 'Steel', 'Framing']
    1. Examine the areas and conditions under which work of this Section will be performed.
    1. Correct conditions detrimental to timely and proper completion of Work.
    1. Do not proceed until unsatisfactory conditions are corrected.
-   1. ERECTION INSTALLATION APPLICATION
+1. ERECTION INSTALLATION APPLICATION
    1. Surveys
    1. Establish permanent bench marks necessary for accurate erection of structural steel.
    1. Check elevations of concrete surfaces, and locations of anchor bolts and similar items, before erection proceeds.

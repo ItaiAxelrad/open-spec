@@ -110,7 +110,7 @@ Underground Tanks
    1. All operations and maintenance data shall comply with the submission and content requirements specified under section GENERAL REQUIREMENTS.
 1. *Delete the following if there are no additional requirements.*
    1. In addition to the general content specified under GENERAL REQUIREMENTS,,supply the following additional documentation:
-      1.  ***[A/E and commissioning provider to define detailed operation and maintenance data requirements for equipment specifications added to this section.]*
+      1. ***[A/E and commissioning provider to define detailed operation and maintenance data requirements for equipment specifications added to this section.]*
 1. RECORD DRAWINGS
    1. Refer to Section GR - General Requirements.
    1. Maintain record drawings of all underground tank installations, piping and dispenser connections, electrical power and instrumentation routing, and other points of connection made as part of this project and for future connections on original drawings prepared by the installing Contractor/subcontractor. Include copies of record drawings with the Operating and Maintenance instructions.
@@ -136,7 +136,7 @@ Underground Tanks
  • 18-inch minimum top water-tight manway
 
  • Interstitial leak monitoring system  
- • All appurtenances shall meet requirements set forth in COM 10.51-10.60.  
+ • All appurtenances shall meet requirements set forth in COM 10.51-10.60. 
    1. The dimensions of the tank shall not exceed *(specify maximum)* inches diameter or *(specify maximum)* feet in length, without prior approval of the Engineer.
    1. STEEL DOUBLE WALL TANKS:
       1. The ***(type of fuel)*** tank shall be made of steel in accordance with NFPA 30 Chapter 2 and COM 10.51 for use with ***(type of fuel)*** product .

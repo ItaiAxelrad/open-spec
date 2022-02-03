@@ -55,8 +55,8 @@ $
 	2. Progress Payments; Retainage
 		1. Owner shall make progress payments on account of the Contract Price on the basis of Contractor’s Applications for Payment on or about the  day of each month during performance of the Work as provided in Paragraph 6.02.A.1 below. All such payments will be measured by the schedule of values established as provided in Paragraph 2.07.A of the General Conditions (and in the case of Unit Price Work based on the number of units completed) or, in the event there is no schedule of values, as provided in the General Requirements.
 			1. Prior to Substantial Completion, progress payments will be made in an amount equal to the percentage indicated below but, in each case, less the aggregate of payments previously made and less such amounts as Engineer may determine or Owner may withhold, including but not limited to liquidated damages, in accordance with Paragraph 14.02 of the General Conditions.
-			1.  percent of Work completed (with the balance being retainage). If the Work has been 50 percent completed as determined by Engineer, and if the character and progress of the Work have been satisfactory to Owner and Engineer, then as long as the character and progress of the Work remain satisfactory to Owner and Engineer, there will be no additional retainage; and
-			2.  percent of cost of materials and equipment not incorporated in the Work (with the balance being retainage).
+			1. percent of Work completed (with the balance being retainage). If the Work has been 50 percent completed as determined by Engineer, and if the character and progress of the Work have been satisfactory to Owner and Engineer, then as long as the character and progress of the Work remain satisfactory to Owner and Engineer, there will be no additional retainage; and
+			2. percent of cost of materials and equipment not incorporated in the Work (with the balance being retainage).
 		2. Upon Substantial Completion, Owner shall pay an amount sufficient to increase total payments to Contractor to percent of the Work completed, less such amounts as Engineer shall determine in accordance with Paragraph 14.02.B.5 of the General Conditions and less percent of Engineer’s estimate of the value of Work to be completed or corrected as shown on the tentative list of items to be completed or corrected attached to the certificate of Substantial Completion.
 	3. Final Payment
 		1. Upon final completion and acceptance of the Work in accordance with Paragraph 14.07 of the General Conditions, Owner shall pay the remainder of the Contract Price as recommended by Engineer as provided in said Paragraph 14.07.
@@ -80,9 +80,9 @@ $
 			2. Performance bond (pages to , inclusive).
 			3. Payment bond (pages to , inclusive).
 			4. Other bonds (pages to , inclusive).
-			1.  (pages to , inclusive).
-			2.  (pages to , inclusive).
-			3.  (pages to , inclusive).
+			1. (pages to , inclusive).
+			2. (pages to , inclusive).
+			3. (pages to , inclusive).
 			5. General Conditions (pages to , inclusive).
 			6. Supplementary Conditions (pages to , inclusive).
 			7. Specifications as listed in the table of contents of the Project Manual.

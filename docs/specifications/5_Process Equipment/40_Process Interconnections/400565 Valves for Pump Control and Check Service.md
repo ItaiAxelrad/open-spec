@@ -7,9 +7,6 @@ subgroup: Process Equipment
 tags: ['Process', 'Equipment', 'Interconnections', 'Valves', 'Pump', 'Control', 'Check', 'Service']
 ---
 
-   1. section 40 05 65
-   1. check valves
-
 ## General
 
 1. SUMMARY

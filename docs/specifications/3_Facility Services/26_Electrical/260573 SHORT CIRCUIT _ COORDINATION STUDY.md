@@ -4,11 +4,8 @@ section: '260573'
 divNumb: 26
 divName: Electrical
 subgroup: Facility Services
-tags: ['Facility', 'Services', 'Electrical', 'SHORT', 'CIRCUIT', '_', 'COORDINATION', 'STUDY']
+tags: ['Facility', 'Services', 'Electrical', 'SHORT', 'CIRCUIT', 'COORDINATION', 'STUDY']
 ---
-
-
-1. SHORT CIRCUIT/COORDINATION STUDY
 
 ## General
 

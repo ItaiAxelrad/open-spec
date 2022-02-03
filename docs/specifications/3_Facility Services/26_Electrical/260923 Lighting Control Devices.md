@@ -7,7 +7,6 @@ subgroup: Facility Services
 tags: ['Facility', 'Services', 'Electrical', 'Lighting', 'Control', 'Devices']
 ---
 
-1. 
 ## General
 
 1. RELATED DOCUMENTS

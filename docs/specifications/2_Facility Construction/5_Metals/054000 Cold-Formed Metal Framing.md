@@ -11,17 +11,17 @@ tags: ['Facility', 'Construction', 'Metals', 'Cold-Formed', 'Metal', 'Framing']
 
 1. SUMMARY
    1. Section Includes:
-      1. Load bearing and nonload-bearing metal stud wall framing.
+      1. Load bearing and non-load-bearing metal stud wall framing.
    1. Anchorage, bridging and bracing.
    1. Metal joint framing with anchorage and bridging.
    1. Related Sections:
       1. Section 051200 - Structural Steel Framing
    1. Section 052100 - Steel Joist Framing Section 053100 - Metal Decking
    1. Section 092900 - Gypsum Board Systems
-1. SUBMITTALS
+2. SUBMITTALS
    1. Comply with the pertinent Provisions of Section 01330.
    1. Provide product data on all materials to be utilized.
-1. QUALITY ASSURANCE
+3. QUALITY ASSURANCE
    1. Applicable Standards:
       1. Conform to the current edition of the following standards:
             1. AISI "Specifications for the Design of Cold-Formed Steel Structural Members
@@ -31,7 +31,7 @@ tags: ['Facility', 'Construction', 'Metals', 'Cold-Formed', 'Metal', 'Framing']
 
 ## Products
 
-   1. MATERIALS
+1. MATERIALS
    1. Structural Steel Studs
    1. U.S. Steel or approved equal, Super-C Steel studs/joists, depth, gauge and minimum spacing as indicated on Drawings.
    1. Steel:
@@ -41,7 +41,7 @@ tags: ['Facility', 'Construction', 'Metals', 'Cold-Formed', 'Metal', 'Framing']
 
 ## Execution
 
-   1. ERECTION INSTALLATION APPLICATION
+1. ERECTION INSTALLATION APPLICATION
    1. Align head and sill tracks according to wall or partition location. Secure with screws, power driven fasteners or welding at 24" on center.
    1. Studs:
       1. Place studs 16" on center, minimum, or at tighter spacing as noted, and not more than 2" from abutting walls and at each side of openings.
@@ -56,5 +56,3 @@ tags: ['Facility', 'Construction', 'Metals', 'Cold-Formed', 'Metal', 'Framing']
    1. Contractor is responsible for adequate connections.
    1. Connections between supports are not permitted.
    1. Allow for thermal expansion and for deflection due to deflection of supporting structure.
-
-

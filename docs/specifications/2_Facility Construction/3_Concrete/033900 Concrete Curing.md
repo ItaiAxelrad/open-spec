@@ -58,7 +58,7 @@ tags: ['Facility', 'Construction', 'Concrete', 'Curing']
    8. Areas of concrete with cracks will be removed to nearest control or construction joints and replaced.
    9. Patching is not permitted.
 10. POLISHED CONCRETE
-       1.  Polished concrete is produced by grinding trowel finished cured concrete in a manner similar to that for terrazzo.
+      1. Polished concrete is produced by grinding trowel finished cured concrete in a manner similar to that for terrazzo.
    11. Do not consolidate concrete with the use of tamping. Allow concrete to cure approximately 28 days.
    12. Preparation:
       1. Clean concrete of loose foreign matter.
@@ -91,5 +91,3 @@ tags: ['Facility', 'Construction', 'Concrete', 'Curing']
    35. The General Contractor shall protect the finished floor from damage and wear from the time that the concrete grinder completes the work.
 36. FINAL CLEANING
    37. Clean ground concrete as recommended by manufacturer of sealer and finish, and machine buff finished floor as required when building is ready for occupancy.
-
-

@@ -4,11 +4,8 @@ section: '260529'
 divNumb: 26
 divName: Electrical
 subgroup: Facility Services
-tags: ['Facility', 'Services', 'Electrical', 'Hangers', '_', 'Support']
+tags: ['Facility', 'Services', 'Electrical', 'Hangers', 'Support']
 ---
-
-
-1. HANGERS AND SUPPORTS FOR ELECTRICAL SYSTEMS
 
 ## General
 

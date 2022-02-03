@@ -82,7 +82,8 @@ tags: ['Facility', 'Construction', 'Concrete', 'Mixing', 'Placing', 'Jointing', 
 8. Adjust concrete mix design when material characteristics, job conditions, weather, strength test results or other circumstances warrant.
 	1. Revised concrete mix design must be approved by the Engineer.
 ## Product
-1. 2.1 Components
+
+1. Components
    1. Neoprene Expansion Joint Fillers:
 	1. Acceptable manufacturers:
 		1. Permaglaze.
@@ -159,13 +160,12 @@ tags: ['Facility', 'Construction', 'Concrete', 'Mixing', 'Placing', 'Jointing', 
 1. 2.2 Quality Control
    1. The central concrete plant shall conform to the Checklist for Certification of Ready Mixed Concrete Production Facilities of the NRMCA. 
 
-
 ## Execution
 
-1. 3.1 Preparation
+1. Preparation
 	 1. General:
 	1. Complete formwork per Specification Section 03 11 00.
-	2.  Remove earth, snow, ice, water, and other foreign materials from areas that will receive concrete.
+	2. Remove earth, snow, ice, water, and other foreign materials from areas that will receive concrete.
 	3. Secure reinforcement in place.
 	4. Position expansion joint material, anchors and other embedded items.
 	5. Obtain approval of reinforcement erection and placement prior to placing concrete.
@@ -512,4 +512,3 @@ tags: ['Facility', 'Construction', 'Concrete', 'Mixing', 'Placing', 'Jointing', 
 	1. Protect concrete from damaging mechanical disturbances, such as load stresses, heavy shock, and excessive vibration.
 	2. Protect finished concrete surfaces from damage by construction equipment, materials, or methods, and by rain or running water.
 	3. Do not load self-supporting structures in such a way as to overstress concrete.
-

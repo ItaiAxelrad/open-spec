@@ -145,7 +145,7 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Excavation', 'Fill']
 2. Trench zone - 90% relative compaction.
 3. Structural section in paved areas - per agency requirements, 95% minimum.
 4. Imported Granular Material for over excavation or foundation stabilization - 90% relative density.
-   1.  All excavations are subject to compaction tests.
+   1. All excavations are subject to compaction tests.
 1. 3.10 TRENCH PLUGS
    1. Trench plugs shall be installed at 60m (200') intervals along the entire length of piping systems. Trench plugs shall be 3m (10') in length and shall encompass the entire pipe zone. Additional trench plugs may be required as directed by the City Engineer.
 1. 3.11 PIPE ZONE BACKFILL

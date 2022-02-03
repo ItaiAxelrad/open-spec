@@ -360,10 +360,10 @@ where applicable.
 1. Each Occurrence $
 1. Automobile Liability under Paragraph 5.04.A.6 of the General Conditions:
       1. Bodily Injury:
-      1.  
+      1. 
 Each person $** **Each Accident $
 1. Property Damage:
-      1.  
+      1. 
 Each Accident $
 
 *[or]*
@@ -371,10 +371,10 @@ Each Accident $
 			1. Combined Single Limit of $
 1. The Contractual Liability coverage required by Paragraph 5.04.B.4 of the General Conditions shall provide coverage for not less than the following amounts:
       1. Bodily Injury:
-      1.  
+      1. 
 Each person $** **Each Accident $
 1. Property Damage:
-      1.  
+      1. 
 Each Accident $** **Annual Aggregate $
 
 *[Here list additional types and amounts of insurance that may be required by Owner.]*

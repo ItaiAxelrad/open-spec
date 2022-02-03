@@ -7,10 +7,6 @@ subgroup: Process Equipment
 tags: ['Process', 'Equipment', 'Interconnections', 'Steel', 'Pipe']
 ---
 
-   1. section 40 05 24
-   1. pipe:
-      1. steel
-
 ## General
 
 1. SUMMARY

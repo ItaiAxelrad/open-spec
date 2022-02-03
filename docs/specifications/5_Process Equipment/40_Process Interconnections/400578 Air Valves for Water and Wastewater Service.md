@@ -7,15 +7,12 @@ subgroup: Process Equipment
 tags: ['Process', 'Equipment', 'Interconnections', 'Air', 'Valves', 'Water', 'Wastewater', 'Service']
 ---
 
-
-1. COMBINATION AIR VALVES FOR WATER
-1. 
 ## General
 
-01. DESCRIPTION
+1. DESCRIPTION
    1. This section includes the materials and installation instructions to cover the design, manufacture, and testing of 1 and 2 inch combination Air Valves for working pressures up to 250 psig designed specifically for use in water transmission applications.
    1. Combination Air Valves shall be float operated valves designed to release accumulated air or gas from a piping system while the system is in operation and under pressure. In addition the valves shall discharge large quantities of air during pipe filling operations and intake large quantities of air during pipe draining and water column separation conditions.
-02. REFERENCE STANDARDS
+2. REFERENCE STANDARDS
    1. The publications listed below form part of this specification to the extent referenced and are referred to in the text by the basic designation only. Reference shall be made to the latest edition of said standards unless otherwise called for. 
    1. The valve manufacturer shall have ISO 9001 and ISO 14001 certifications. 
 2. The valve shall have NSF 61 certification for potable water applications. 

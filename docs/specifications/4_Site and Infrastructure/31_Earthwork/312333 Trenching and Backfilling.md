@@ -7,11 +7,9 @@ subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Earthwork', 'Trenching', 'Backfilling']
 ---
 
-   1. PART 1:
-
 ## General
 
-   1. SCOPE OF WORK:
+1. SCOPE OF WORK:
       1. The work to be performed under this Specification shall include all labor, materials, equipment, plant and services as are necessary for the excavating and backfilling of the trenches for buried pipelines. The work shall include the excavation of whatever substances are encountered to the depths shown on the Drawings, as modified in the field by the Engineer, and installation of compacted bedding, backfill and surface restoration as described herein.
 1. QUALITY ASSURANCE:
       1. Reference in this Specification of a Standard, such as ASTM, AWWA or ACI, is to be interpreted to be the latest revision of that Standard.
@@ -30,9 +28,7 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Trenching', 'Backfilling']
       1. 
    1. This paragraph is not used.
 
-## General
-
- REQUIREMENTS:
+1. General REQUIREMENTS:
       1. It is the general intent that the Contractor leaves the work area in a similar and equal condition as it was preceding the Contract work.
    1. The Contractor must conform to the amended Rules and Regulations, Construction Standards for Excavations, CFR 29 Part 1926, subpart P, Title 29, of the Occupational Safety and Health Administration, Department of Labor, including revisions and Appendices thereto.
    1. Except as shown otherwise on the Drawings, all excavation shall be made by open cut. Permission may be granted to tunnel under driveways, crosswalks, curbing, walkways and utility installations, but such tunnels shall not exceed 10 feet in length.
@@ -74,8 +70,10 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Trenching', 'Backfilling']
    1. If during construction any underground utility conduit, including sewers, water mains, gas mains and drainage structures, or any aboveground utility facilities are required to be relocated, the Contractor shall notify the utility owner well in advance of his approach to such utility so that arrangements with the owner or owners of the affected utility can be completed without delay to the work.
 
 	1. Land Markers: Monuments, property pins, survey reference points, and benchmarks shall not be disturbed without specific written permission from the Engineer. Any such markers disturbed without written permission shall be replaced at the Contractor’s expense by a licensed land surveyor.
-   1. PART 2:
-      1. MATERIALS
+
+## Products
+
+1. MATERIALS
 	1. General:
       1. All bedding and backfill material shall have the approval of the Engineer. Approved material from project excavations shall be used for backfill. All bedding and backfill material shall be free of frozen material, organic material and debris. The materials to be used in each trench zone are indicated on the Typical Trench Details shown on the Drawings and these materials are described below. All materials may be subject to gradation tests and compaction tests prior to approval of the use of that material. The test results shall be submitted to the Engineer for approval and verified as to their accuracy if such tests are requested.
    1. The amount of water used in compaction shall be optimum to obtain the percent relative compaction required. The amount of water required shall be controlled by the Contractor to meet conditions brought about by storms, drought, or other causes.

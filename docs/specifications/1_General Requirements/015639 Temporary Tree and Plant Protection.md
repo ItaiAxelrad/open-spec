@@ -31,7 +31,7 @@ tags: ['General', 'Requirements', 'Temporary', 'Tree', 'Plant', 'Protection']
 11. DRIPLINE: The outermost edge of the tree's canopy or branch spread. The area within a tree's dripline is all the ground under the total branch spread.
 12. CRITICAL ROOT ZONE: Generally, all of the ground area included in the dripline.
 13. DIAMETER (CALIPER): The size (in inches) of a tree's trunk is measured at:
-	1.  Six (6) inches above grade for trunk diameters up to and including four (4) inches;
+	1. Six (6) inches above grade for trunk diameters up to and including four (4) inches;
 	2. Twelve (12) inches above grade for trunk diameters from four (4) inches up to and including eight (8) inches;
 	3. Four and a half (4½) feet above grade for trunk diameters greater than eight (8) inches; in accordance with guidelines established in the "Guide for Plant Appraisal". All measurements should be rounded to the nearest inch.
 14. HIGH-VALUE SHRUB: Any specimen shrub with an appraised value of $100.00 or more.

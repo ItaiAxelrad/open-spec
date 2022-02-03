@@ -4,7 +4,7 @@ section: '260513'
 divNumb: 26
 divName: Electrical
 subgroup: Facility Services
-tags: ['Facility', 'Services', 'Electrical', 'Medium', 'Voltage', 'Cables', '_', 'Underground', 'Dist']
+tags: ['Facility', 'Services', 'Electrical', 'Medium', 'Voltage', 'Cables', 'Underground', 'Dist']
 ---
 
 
@@ -12,49 +12,50 @@ tags: ['Facility', 'Services', 'Electrical', 'Medium', 'Voltage', 'Cables', '_',
 
 1. RELATED DOCUMENTS
    1. Drawings and general provisions of the Contract, including General and Supplementary Conditions and Division 01 Specification Sections, apply to this Section.
-1. SUMMARY*   1. This Section includes:
+1. SUMMARY
+   1. This Section includes:
       1. Furnish and install all materials and equipment and provide all labor required and necessary to complete the work shown on drawings and/or listed below and all other work and miscellaneous items, not specifically mentioned, but reasonably inferred for a complete installation, including all accessories and appurtenances required for testing the system. It is the intent of the drawings and specifications that all systems be complete and ready for operations.
    1. Provide and install the extension of the 13.2 kV distribution throughout the site, connecting to existing and new pad-mounted switches and transformer as shown on the drawings and as specified herein.
-   1. Check and test all systems.
-   1. A complete successful test of systems will be witnessed by the Technical Representative prior to final acceptance.
-   1. Comply with all Owner site access requirements and regulations.
-1. References*   1. Association of Edison Illuminating Companies, Inc. (AEIC) 
+   2. Check and test all systems.
+   3. A complete successful test of systems will be witnessed by the Technical Representative prior to final acceptance.
+   4. Comply with all Owner site access requirements and regulations.
+3. References*   1. Association of Edison Illuminating Companies, Inc. (AEIC) 
    1. CS5 - Specifications for Polyethlene and Cross-Linked Polyethylene-insulated Shielded Power Cables Rated 5KV through 69KV. 
-   1. CS6 - Specifications for Ethylene Propylene Rubber-insulated Shielded Power Cable Rated 5KV Through 69KV. 
-   1. Institute of Electrical and Electronics Engineers, Inc. (IEEE) 
-   1. 48 - Test Procedures and Requirements for High-voltage AC Cable Terminations. 
-   1. 404 - Cable Joints for Use with Extruded Dielectric Cable and Laminated Dielectric Cable. 
-   1. 592 - Standard for Exposed Semiconducting Shields on Premolded High-voltage Cable Joints and Separable Insulated Connectors. 
-   1. National Electrical Manufacturers Association (NEMA) 
-   1. WC 7 - Cross-Linked Thermosetting-Polyethylene-Insulated Wire and Cable for the Transmission and Distribution of Electrical Energy. 
-   1. WC 8 - Ethylene Propylene Rubber Insulated Wire and Cable for the Transmission and Distribution of Electrical Energy. 
-   1. National Fire Protection Association (NFPA) 70 - National Electrical Code. 
-1. System Description*   1. Design Requirements 
+   2. CS6 - Specifications for Ethylene Propylene Rubber-insulated Shielded Power Cable Rated 5KV Through 69KV. 
+   3. Institute of Electrical and Electronics Engineers, Inc. (IEEE) 
+   4. 48 - Test Procedures and Requirements for High-voltage AC Cable Terminations. 
+   5. 404 - Cable Joints for Use with Extruded Dielectric Cable and Laminated Dielectric Cable. 
+   6. 592 - Standard for Exposed Semiconducting Shields on Premolded High-voltage Cable Joints and Separable Insulated Connectors. 
+   7. National Electrical Manufacturers Association (NEMA) 
+   8. WC 7 - Cross-Linked Thermosetting-Polyethylene-Insulated Wire and Cable for the Transmission and Distribution of Electrical Energy. 
+   9. WC 8 - Ethylene Propylene Rubber Insulated Wire and Cable for the Transmission and Distribution of Electrical Energy. 
+   10. National Fire Protection Association (NFPA) 70 - National Electrical Code. 
+4. System Description*   1. Design Requirements 
    1. Provide medium voltage cable designed and constructed for use under the following service conditions:
       1. 
-   1. 13,200 volts (line to line), 3 phase, 3-wire, 60 hertz. 
-   1. Delta, grounded. 
-1. Submittals*   1. Product Data 
+   2. 13,200 volts (line to line), 3 phase, 3-wire, 60 hertz. 
+   3. Delta, grounded. 
+5. Submittals*   1. Product Data 
    1. Submit itemized list of materials with manufacturer's technical product data for each type of medium voltage cable and accessory specified and indicated. 
-   1. Quality Control Submittals 
-   1. Submit results of the specified factory tests. 
-   1. Submit results of the specified field tests. 
-   1. Detail drawings consisting of equipment drawings, illustrations, schedules, instructions, diagrams, manufacturers standard installation drawings and other information necessary to define the installation and enable the Technical Representative to check conformity with the requirements of the contract drawings. Provide information for the following equipment, as a minimum.
-   1. Conduit
-   1. Fittings
-   1. Cable terminations with kit instructions
-   1. The equipment and values to be verified.
-   1. The condition specified for the test.
-   1. The test results, signed and dated.
-   1. A description of all adjustments made.
-   1. Cable Splicer Qualification:
+   2. Quality Control Submittals 
+   3. Submit results of the specified factory tests. 
+   4. Submit results of the specified field tests. 
+   5. Detail drawings consisting of equipment drawings, illustrations, schedules, instructions, diagrams, manufacturers standard installation drawings and other information necessary to define the installation and enable the Technical Representative to check conformity with the requirements of the contract drawings. Provide information for the following equipment, as a minimum.
+   6. Conduit
+   7. Fittings
+   8. Cable terminations with kit instructions
+   9. The equipment and values to be verified.
+   10. The condition specified for the test.
+   11. The test results, signed and dated.
+   12. A description of all adjustments made.
+   13. Cable Splicer Qualification:
       1. A certification that contains the names and the qualifications of people recommended to perform the termination of medium-voltage cables approved for installation under this contract. The certification shall indicate that any person recommended to perform actual terminations has been adequately trained in the proper techniques and has had at least three recent years of experience in terminating the same or similar types of cables approved for installation. In addition, any person recommended by the Contractor may be required to perform a practice termination, in the presence of the Technical Representative, before being approved as a qualified installer of medium-voltage cables. If that additional requirement is imposed, the Contractor shall provide short sections of the approved types of cables along with the approved type of termination kits, and detailed manufacturer’s instructions for the proper termination of the approved cable types.
-1. delivery, storage and handling
+6. delivery, storage and handling
    1. Devices and equipment shall be visually inspected by the Contractor when received and prior to acceptance from conveyance. Stored items shall be protected from the environment in accordance with the manufacturer’s published instructions. Damaged items shall be replaced.
-1. PRODUCTS
-1. standard products
+7. PRODUCTS
+8. standard products
    1. Material and equipment shall be the standard product of a manufacturer regularly engaged in the manufacturer of the product and shall essentially duplicate items that have been in satisfactory use for at least two years prior to bid opening. Items of the same classification shall be identical including equipment, assemblies, parts, and components.
-1. Shielded Medium Voltage Cable*   1. Manufacturers 
+9. Shielded Medium Voltage Cable*   1. Manufacturers 
    1. Cablec Industrial Cable Co. 
 
 ## General

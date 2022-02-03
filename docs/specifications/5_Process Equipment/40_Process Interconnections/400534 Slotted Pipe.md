@@ -7,9 +7,6 @@ subgroup: Process Equipment
 tags: ['Process', 'Equipment', 'Interconnections', 'Slotted', 'Pipe']
 ---
 
-   1. section 40 05 34
-   1. slotted pipe
-
 ## General
 
 1. SUMMARY

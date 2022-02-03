@@ -111,7 +111,7 @@ Site Restoration
    1. All operations and maintenance data shall comply with the submission and content requirements specified under section GENERAL REQUIREMENTS.
 1. *Delete the following if there are no additional requirements.*
    1. In addition to the general content specified under GENERAL REQUIREMENTS, supply the following additional documentation:
-      1.  ***[A/E and commissioning provider to define detailed operation and maintenance data requirements for equipment specifications added to this section.]*
+      1. ***[A/E and commissioning provider to define detailed operation and maintenance data requirements for equipment specifications added to this section.]*
 1. RECORD DRAWINGS
    1. Refer to Section GR - General Requirements.
    1. Maintain record drawings of all aboveground tank installations, piping and dispenser connections, electrical power and instrumentation routing, and other points of connection made as part of this project and for future connections on original drawings prepared by the installing Contractor/subcontractor. Include copies of record drawings with the Operating and Maintenance instructions.

@@ -25,30 +25,27 @@ tags: ['Facility', 'Construction', 'Wood', 'Plastics', 'Composites', 'Plastic', 
    1. Submit Samples of each material representing range of color and texture.
    1. Maintenance Instructions
    1. Furnish instructions for care and cleaning of plastic materials.
-   1. products
+
+## Products
+
    1. plastic stools and vanity tops
-   1. Materials
-   1. Plastic material:
+   2. Materials
+   3. Plastic material:
       1. DuPont Co. “Corian” Avonite, Inc. “Avonite”, or as approved, non-porous homogenous of polyester or acrylic polymers and mineral fillers, in color and pattern selected by the Architect form manufacturer’s standard range and having a maximum fire hazard classification of 25 for flame spread and 60 for smoke developed, when tested in accordance with ASTM E84.
-   1. Adhesives:
+   4. Adhesives:
       1. As recommended by plastic material manufacturer for the application.
-   1. Sealant for caulked joints:
+   5. Sealant for caulked joints:
       1. Silicone formulated to provide an exact color match.
-   1. Thickness:
+   6. Thickness:
       1. 1/2” or thicker, No 1/4” thicknesses.
-   1. Fabrication
-   1. Fabricate stools and vanity tops of plastic material of thickness indicated, with joints, including corner joints, butted. Seal joints in pieces wider than 30 inches with joint adhesive.
+   7. Fabrication
+   8. Fabricate stools and vanity tops of plastic material of thickness indicated, with joints, including corner joints, butted. Seal joints in pieces wider than 30 inches with joint adhesive.
 
 ## Execution
 
-
-## General
-
    1. Install the Work in accordance with approved Shop Drawings and manufacturer's instruction.
-   1. installation
-   1. Plastic Stool and Vanity Tops
-   1. Install plastic stools with adhesive and plastic vanity tops with adhesive and corrosion-resistant clips.
-   1. Provide 1/32-inch expansion joints at 8-foot spacing.
-   1. Seal joints indicated to be caulked with sealant.
-   
-
+   2. installation
+   3. Plastic Stool and Vanity Tops
+   4. Install plastic stools with adhesive and plastic vanity tops with adhesive and corrosion-resistant clips.
+   5. Provide 1/32-inch expansion joints at 8-foot spacing.
+   6. Seal joints indicated to be caulked with sealant.

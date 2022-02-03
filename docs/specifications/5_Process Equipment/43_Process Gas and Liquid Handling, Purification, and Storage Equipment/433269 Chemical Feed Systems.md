@@ -7,9 +7,6 @@ subgroup: Process Equipment
 tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Storage', 'Chemical', 'Feed', 'Systems']
 ---
 
-   1. Section 43 32 69
-   1. Chemical Feed Systems
-
 ## General
 
 1. SUMMARY

@@ -56,7 +56,8 @@ tags: ['Facility', 'Construction', 'Concrete', 'Maintenance']
 	3. Delivery, Storage, and Handling
 7. Comply with manufacturer’s recommendations and requirements for materials used. 
 ## Product
-1. 2.1 Acceptable Manufacturers
+
+1. Acceptable Manufacturers
    1. Subject to compliance with the Contract Documents, the following manufacturers are acceptable:
 	1. Chemical floor sealer (CS-1) (CS-3):
 		1. L&M Construction Chemicals, Inc.
@@ -100,10 +101,9 @@ tags: ['Facility', 'Construction', 'Concrete', 'Maintenance']
 	1. One (1) part cement to two and one-half (2-1/2) parts aggregate by damp loose volume.
 		1. Substitute white Portland cement for a part of gray Portland cement to produce color matching surrounding concrete.
 
-
 ## Execution
 
-1. 3.1 Preparation
+1. Preparation
    1. For methods of curing, see Specification Section 03 31 00.
 2. Preparation of Bonding Grout Mixture:
 	1. Mix cement and aggregate.
@@ -224,14 +224,14 @@ tags: ['Facility', 'Construction', 'Concrete', 'Maintenance']
 			3. Exterior slabs, sidewalks, platforms, steps and landings, and ramps, not covered by other finish materials: Broom or belt finish.
 			4. All slabs to receive a floated finish before final finishing.
 	3. Scratched slab finish: After concrete has been placed, consolidated, struck off, and leveled to a Class B tolerance, roughen surface with stiff brushes or rakes before final set.
-	4.  Floated finish:
+	4. Floated finish:
 		1. After concrete has been placed, consolidated, struck off, and leveled, do no further work until ready for floating.
 		2. Begin floating when water sheen has disappeared and surface has stiffened sufficiently to permit operations.
 			1. Use wood or cork float.
 		3. During or after first floating, check planeness of entire surface with a 10 FT straightedge applied at not less than two (2) different angles.
 		4. Cut down all high spots and fill all low spots to produce a surface with Class B tolerance throughout.
 		5. Refloat slab immediately to a uniform texture.
-	5.  Troweled finish:
+	5. Troweled finish:
 		1. Float finish surface to true, even plane.
 		2. Power trowel, and finally hand trowel.
 		3. First troweling after power troweling shall produce a smooth surface which is relatively free of defects, but which may still show some trowel marks.
@@ -240,7 +240,7 @@ tags: ['Facility', 'Construction', 'Concrete', 'Maintenance']
 		6. Thoroughly consolidate surface by hand troweling.
 		7. Leave finished surface essentially free of trowel marks, uniform in texture and appearance and plane to a Class A tolerance.
 		8. On surfaces intended to support floor coverings, remove any defects that would show through floor covering by grinding.
-	6.  Broom or belt finish: Immediately after concrete has received a float finish as specified, give it a transverse scored texture by drawing a broom or burlap belt across surface.
+	6. Broom or belt finish: Immediately after concrete has received a float finish as specified, give it a transverse scored texture by drawing a broom or burlap belt across surface.
 	7. Underside of concrete slab finish:
 		1. Match finish as specified for adjacent vertical surfaces.
 		2. If more than one (1) finish occurs immediately adjacent to underside of slab surface, provide surface with most stringent formed surface requirement.

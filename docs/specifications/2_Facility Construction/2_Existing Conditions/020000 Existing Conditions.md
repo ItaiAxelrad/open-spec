@@ -7,5 +7,4 @@ subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Existing', 'Conditions']
 ---
 
-   1. Division 02
-   1. Existing Conditions
+Division 02 - Existing Conditions

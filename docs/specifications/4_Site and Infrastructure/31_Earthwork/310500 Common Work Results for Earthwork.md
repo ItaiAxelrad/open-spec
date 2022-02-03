@@ -7,9 +7,6 @@ subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Earthwork', 'Common', 'Work', 'Results']
 ---
 
-   1. Section 31 05 00
-   1. Common Work Results for Earthwork
-
 ## General
 
 1. SUMMARY

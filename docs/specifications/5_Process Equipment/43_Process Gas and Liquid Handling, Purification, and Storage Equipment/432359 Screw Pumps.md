@@ -7,12 +7,8 @@ subgroup: Process Equipment
 tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Storage', 'Screw', 'Pumps']
 ---
 
-   1. 43 23 59 Screw Pumps
-
-
 ## General
 
-1.
 1. RELATED DOCUMENTS
    1. A.
    1. Drawings, General and Special Provisions of the Contract, and Division 01 Specification Sections apply to this Section.

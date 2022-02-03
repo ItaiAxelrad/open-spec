@@ -7,14 +7,6 @@ subgroup: Process Equipment
 tags: ['Process', 'Equipment', 'Interconnections', 'Piping', 'Insulation']
 ---
 
-
-1. UTILITY INSULATION
-1. BASED ON DFD MASTER SPECIFICATION DATED 2/24/2014
-1. *This section has been written to cover most (but not all) situations that you will encounter. Depending on the requirements of your specific project, you may have to add material, delete items, or modify what is currently written. The Division of Facilities Development expects changes and comments from you.*
-1. P A R T 1 - G E N E R A L
-1. SCOPE
-   1. This sections includes insulation specifications for utility piping, and associated systems. Included are the following topics:
-      1. 
 ## General
 
     1. Scope

@@ -7,9 +7,6 @@ subgroup: Process Equipment
 tags: ['Process', 'Equipment', 'Interconnections', 'Specialized', 'Pressure', 'Flow-Control', 'Valves']
 ---
 
-   1. section 40 05 67
-   1. miscellaneous valves
-
 ## General
 
 1. SUMMARY

@@ -22,7 +22,7 @@ tags: ['Procurement', 'Contracting', 'Requirements', 'Scopes']
     1. Subtotal (1) Subtotal (2) ** Fixed Total D/B Cost
 
 * Provide a break out for additional scope(s) of work included in your proposal from page 3 of the Scope and Cost Proposal Form for each line item cost.
-1.  Subtotal (2) must match Total Scope Ladder Premium from page 3 of the Scope and Cost Proposal.
+1. Subtotal (2) must match Total Scope Ladder Premium from page 3 of the Scope and Cost Proposal.
    1. Please provide a detailed breakdown to adequately describe the D/B team provided, term of their services, and associated costs so as to demonstrate a complete understanding of the services provided.
    1. Please provide a detailed breakdown utilizing the Cost Proposal Staff Allocation Matrix (provided), to adequately describe the D/B staff provided, term of their services, and associated costs so as to demonstrate as complete an understanding as possible of the services provided.
    1. The cost shall include preconstruction services, construction costs, general conditions, profit, overhead, home office staff, home office expenses, accounting and/or legal fees, including commercial insurances, builder’s risk, labor & material payment and performance bondsand any other costs or expenses.

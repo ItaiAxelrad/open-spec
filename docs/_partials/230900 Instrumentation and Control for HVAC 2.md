@@ -28,7 +28,7 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
 			2. D1693, Standard Test Method for Environmental Stress-Cracking of Ethylene Plastics.
 	5. Canadian Standards Association.
 	6. The International Society of Automation (ISA).
-	7.  National Electrical Manufacturers Association (NEMA).
+	7. National Electrical Manufacturers Association (NEMA).
 		1. 250, Enclosures for Electrical Equipment (1000 Volts Maximum).
 	8. National Fire Protection Association (NFPA):
 		1. 70, National Electrical Code (NEC).

@@ -51,7 +51,7 @@ tags: ['Facility', 'Services', 'Plumbing', 'General', 'Service', 'Compressed-Air
 	2. Air filters:
 		1. Ametek
 	3. Silencer
-		1.  Ametek
+		1. Ametek
 2. Submit request for substitution in accordance with Specification Section 01 25 00.
 1. 2.2 General
    1. Blowers shall be of the rugged, industrial-duty, regenerative type, designed with maintenance-free, single or dual stage dynamics, free of contacting moving parts other than the motor ball bearings and shaft seal.

@@ -19,19 +19,19 @@ tags: ['Facility', 'Construction', 'Concrete', 'Finishing']
    1. Requirements of Regulatory Agencies:
       1. Comply with air pollution regulations of governing authorities.
    1. Prepare Sample areas not less than 1’-0” x 1’-0” size of each type of special concrete finish, indicating materials and methods used to produce finishes. Architect’s review will be for color and texture only.
-   1. PRECONSTRUCTION CONFERENCE
+1. PRECONSTRUCTION CONFERENCE
    1. Following award of the contract, schedule a Pre-construction Conference at a mutually agreeable time, to include the Owner’s Representative, Architect, Contractor and Concrete Finisher.
    1. Two weeks prior to this conference submit to the Owner’s Representative for evaluation, all pertinent information, and samples of proposed related equipment and materials, including shop drawings. The following items shall be included for detailed discussion:
       1. Integral color samples.
    1. Aggregate mix design.
-   1. SAMPLES
+1. SAMPLES
    1. Construct and deliver to the Owner’s Representative 1’-0” x 1’-0” concrete samples with specified finish as required to allow the review and acceptance of concrete finish by the Owner’s Representative prior to the building of the 8’-0” x 8’-0” mock-up as described in Section 01450. The materials and methods used to produce the finish will be indicated.
 
 ## Products
 
-   1. MATERIALS
+1. MATERIALS
    1. Use materials and methods for project work as used to produce sample finishes acceptable to Architect.
-   1. MATERIAL FOR POLISHED CONCRETE
+1. MATERIAL FOR POLISHED CONCRETE
    1. Use materials indicated in Section 033000 Cast-In-Place Concrete and the following:
       1. Cement:
          1. Portland Cement, Type II, ASTM C150. Cement shall be mixed as specified in Section 03300, Cast-In-Place Concrete except as modified in this Section.
@@ -41,7 +41,7 @@ tags: ['Facility', 'Construction', 'Concrete', 'Finishing']
    1. Integral matrix color:
       1. Bayferrox by QC Products, CC80:
       1. Charcoal Gray (mix at 1lb of CC80 per 94 lb sack of cement).
-   1. CONCRETE SEALER
+1. CONCRETE SEALER
    1. Concrete Sealer for Polished Concrete interior locations. A clear, highly penetrating sealer to form a tack free barrier against stains from oils, greases, water, acids and chemical discoloration. Sealer shall intensify color of ground aggregates, shall not discolor or amber.
    1. Manufacturers:
       1. Subject to compliance with requirements, products that may be incorporated in the work include, but are not limited to the following:
@@ -50,15 +50,15 @@ tags: ['Facility', 'Construction', 'Concrete', 'Finishing']
 
 ## Execution
 
-   1. CONCRETE MIXING
+1. CONCRETE MIXING
    1. Concrete mixing, placing, consolidation and curing shall be as specified in Section 033000 Cast-In-Place Concrete except as modified in this Section.
-   1. CONCRETE FINISH SPECIAL
+1. CONCRETE FINISH SPECIAL
    1. The areas indicated to receive GC-1, Ground Concrete, finish shall receive a polished concrete finish.
    1. replacement
    1. Concrete flatwork areas shall be free of cracks or other separation of materials.
    1. Areas of concrete with cracks will be removed to nearest control or construction joints and replaced.
    1. Patching is not permitted.
-   1. POLISHED CONCRETE
+1. POLISHED CONCRETE
 	1. General:
       1. Polished concrete is produced by grinding trowel finished cured concrete in a manner similar to that for terrazzo.
    1. Do not consolidate concrete with the use of tamping. Allow concrete to cure approximately 28 days.
@@ -81,7 +81,7 @@ tags: ['Facility', 'Construction', 'Concrete', 'Finishing']
    1. Rinse with clear water and allow to surface dry. Keep control joints free of dirt and grinding debris at all times.
    1. Clean dust and debris from concrete control joints and fill with sealant. Refer to Section 07920 – Joint Sealants for proper sealant.
    1. Seal surface with two coats of approved solvent based acrylic penetrating sealer..
-   1. CLEANING, FINISHING AND PROTECTING
+1. CLEANING, FINISHING AND PROTECTING
    1. Before sealing, the surfaces shall be inspected and cleaned. Laitance and efflorescence shall be removed where applicable. If cleaner is necessary, the concrete surface shall be wet before application. The cleaner shall not contain muriatic acid, and shall be diluted according to manufacturer’s instructions. The cleaner shall be Sure-Klean #600 by ProSoCo of Kansas City or Quick-Klean by L & M Construction Chemicals, Omaha. Within 5 minutes of application, the surface shall be thoroughly flushed with clean water.
    1. The sealer shall be applied within one month of finishing the local surface, after patching, cleaning, and sealing. After these local sealer applications are dry, clean water shall be splashed on these local surfaces. If the water does not bead, but is absorbed, the surface shall be resealed.
    1. No surfaces, which are to receive joint sealants, shall have sealer applied in advance of sealant application. This specification may be waived if the concrete is cleaned and primed according to the techniques of the sealant manufacturer.
@@ -91,7 +91,5 @@ tags: ['Facility', 'Construction', 'Concrete', 'Finishing']
    1. Protection
    1. Upon completion, the work shall be ready for final inspection and acceptance by the Owner.
    1. The General Contractor shall protect the finished floor from damage and wear from the time that the concrete grinder completes the work.
-   1. FINAL CLEANING
+1. FINAL CLEANING
    1. Clean ground concrete as recommended by manufacturer of sealer and finish, and machine buff finished floor as required when building is ready for occupancy.
-
-

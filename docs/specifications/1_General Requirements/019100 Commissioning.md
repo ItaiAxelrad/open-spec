@@ -41,7 +41,7 @@ tags: ['General', 'Requirements', 'Commissioning']
 		3. Reviewing laboratory procedures.
 		4. Checking process units, facilities, flows, etc. to ensure proper operation. 
 		5. Preparing ongoing records of plant performance, including tables and graphs monitoring water quality and hydraulic data.
-2.  Documentation:
+2. Documentation:
 	1. System Operating Manual:
 		1. Shall provide full and detailed information regarding the design criteria, standard operating procedures, description and operation of unit processes, process troubleshooting, regulatory requirements, sampling procedures, plant staffing, and emergency operations.
 	2. Documentation that all Facility Process Systems (FPS’s) as identified in Specification Section 01 75 00 have been commissioned and the system is ready for use.

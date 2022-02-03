@@ -282,7 +282,7 @@ tags: ['Facility', 'Services', 'Fire', 'Suppression', 'Common', 'Work', 'Results
    1. Butterfly valves
    1. Plug valves
    1. Lever-operated ball valves.
-1.  Post indicator valves shall have an indicator, visible through an opening in the post that shows whether the valve is opened or closed.*
+1. Post indicator valves shall have an indicator, visible through an opening in the post that shows whether the valve is opened or closed.*
 1. ALARM VALVE*   1. Provide a UL-listed and FM-approved alarm check valve, rated at a minimum of 300 psig working pressure, capable of being installed vertically or horizontally. Provide valve body of ductile iron with flanged or grooved connections. Provide valve with a brass seat, and single hinge pin and latch design. Provide variable pressure trim set with retard chamber, drain connections, pressure gauges, and connections for water motor gong alarm. Do not discharge the drip cup assembly into the main drain piping. The Viking Corp. "Model J-1", or as approved.
 1. FIRE DEPARTMENT CONNECTIONS
    1. Wall, Fire Department Connections:

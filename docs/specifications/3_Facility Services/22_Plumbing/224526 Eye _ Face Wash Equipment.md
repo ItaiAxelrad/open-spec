@@ -4,7 +4,7 @@ section: '224526'
 divNumb: 22
 divName: Plumbing
 subgroup: Facility Services
-tags: ['Facility', 'Services', 'Plumbing', 'Eye', '_', 'Face', 'Wash', 'Equipment']
+tags: ['Facility', 'Services', 'Plumbing', 'Eye', 'Face', 'Wash', 'Equipment']
 ---
 
    1. section 22 45 00

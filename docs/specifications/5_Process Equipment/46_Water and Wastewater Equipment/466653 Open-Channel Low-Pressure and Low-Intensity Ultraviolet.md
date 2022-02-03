@@ -7,9 +7,6 @@ subgroup: Process Equipment
 tags: ['Process', 'Equipment', 'Water', 'Wastewater', 'Open-Channel', 'Low-Pressure', 'Low-Intensity', 'Ultraviolet']
 ---
 
-
-1. OPEN-CHANNEL LOW-PRESSURE / LOW-INTENSITY*1. ULTRAVIOLET TREATMENT EQUIPMENT
-1. 
 ## General
 
 1. SUMMARY
@@ -99,32 +96,33 @@ tags: ['Process', 'Equipment', 'Water', 'Wastewater', 'Open-Channel', 'Low-Press
 11. WARRANTY
    1. Section 017000 - Execution and Closeout Requirements:
       1. Requirements for warranties.
-1. ## Product
+## Product
+
 1. OPEN-CHANNEL, LOW-PRESSURE, LOW-INTENSITY ULTRAVIOLET TREATMENT EQUIPMENT
    1. Manufacturers:
       1. acceptable manufacturers must have five (5) years experience disinfecting effluent from domestic Wastewater Treatment Plants with at least ten (10) installations and have capability to provide prompt support by technician within 200 miles of site.
-   1. Description:
+   2. Description:
       1. Open-channel, gravity-flow, horizontally orientated UV disinfection system, consisting of following:
-      1. UV lamp module with support rack and bracket. b. Instrumentation, controls, and power distribution. c. UV monitoring system.
-      1. Elapsed time meter.
-      1. Lamp cleaning system.
-   1. Lamps:
+      2. UV lamp module with support rack and bracket. b. Instrumentation, controls, and power distribution. c. UV monitoring system.
+      3. Elapsed time meter.
+      4. Lamp cleaning system.
+   3. Lamps:
       1. Type:
-      1. Mercury vapor.
-      1. Design:
+      2. Mercury vapor.
+      3. Design:
          1. Hot cathode, instant start.
 2. Filament:
       1. Clamped design to withstand shock and vibration.
 3. Module:
       1. Description:
          1. Lamps placed in individual fused-quartz sleeves, and sealed and supported in NEMA 6P stainless-steel frames.
-      1. Wiring:
+      2. Wiring:
          1. Completely enclosed and protected from water.
-      1. Base:
+      3. Base:
          1. Metal and ceramic.
-      1. Replacement:
+      4. Replacement:
          1. Capability of replacing lamp without disassembling or removing sleeve.
-      1. Furnish mechanical lifting device for individual lamp modules weighing over 55 lb
+      5. Furnish mechanical lifting device for individual lamp modules weighing over 55 lb
 (25 kg).
 4. Sleeves:
       1. Description:
@@ -291,5 +289,3 @@ treatment equipment.
    1. Section 017000 - Execution and Closeout Requirements:
       1. Requirements for demonstration and training.
    1. Demonstrate equipment startup, shutdown, routine maintenance, and emergency repair procedures to Owner's personnel.
-
-

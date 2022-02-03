@@ -7,13 +7,9 @@ subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Earthwork', 'Prestressed', 'Ground', 'Anchors']
 ---
 
-   1. Section 31 68 19 
-   1. Prestressed Ground Anchors 
-
 ## General
 
-
-	1. Description
+1. Description
    1. This Item shall govern for the installation of post-tensioned ground anchors in place, with grouting as required in accordance with the plans and with these specifications. The ground anchors shall provide the load carrying capacities as required in the anchors that will develop the load as required in the plans and the approved working drawings in accordance with testing requirements of this specification. 
 2. The Contractor shall have the option of furnishing any type of post-tensioning system meeting the requirements of these specifications. The Contractor may also propose the use of proprietary systems which do not conform to all provisions of this specification, if the concept is approved by the Engineer. The system selected shall provide the magnitude and distribution of design prestressing force and minimum ultimate strength required by the plans without exceeding allowable temporary stresses. All design procedures, coefficients and allowable stresses shall be in accordance with the latest Standard AASHTO Specifications for Highway Bridges. 
 	1. Submittals

@@ -7,9 +7,6 @@ subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Earthwork', 'Excavation', 'Fill']
 ---
 
-   1. section 31 23 00
-   1. excavation and fill
-
 ## General
 
 1. SUMMARY

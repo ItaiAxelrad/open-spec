@@ -9,20 +9,20 @@ tags: ['Facility', 'Construction', 'Wood', 'Plastics', 'Composites', 'Interior',
 
 ## General
 
-   1. summary
+1. Summary
    1. Refer to Section 018113 – Sustainable Design Requirements; 018113A – Appendix A - Materials Anticipated to be Used for Recycled Content; and 018113B – LEED Matrix for materials requiring contractor validation of recycled content.
    1. Environmental quality assurance.
    1. New Dimensional Lumber – FSC-Certified:
       1. Certified to be from a well-managed forest by one or more of the following independent certification organizations accredited by the Forest Stewardship Council:
       1. Scientific Certification Systems, Inc., Oakland, California
    1. SmartWood Certification Program, Rainforest Alliance, Burlington, Vermont
-   1. Recommendations
+1. Recommendations
    1. Select FSC-Certified wood products (protects habitats, conserves resources).
    1. Select salvaged wood products and casework (conserves resources).
    1. Avoid products containing urea-formaldehyde binder.
    1. Use engineered wood products (efficient use of resources).
    1. Avoid plastic surfacing materials (avoids pollution).
-   1. References
+1. References
    1. American National Standards Institute, Inc. (ANSI)
    1. A208.1 - Particleboard.
    1. American Society for Testing and Materials (ASTM)
@@ -39,7 +39,7 @@ tags: ['Facility', 'Construction', 'Wood', 'Plastics', 'Composites', 'Interior',
    1. 10B - Fire Tests of Door Assemblies.
    1. U.S. Department of Commerce, National Institute of Standards and Technology
    1. PS 1 - Construction and Industrial Plywood.
-   1. SUBmittals
+1. Submittals
    1. Qualification Data
    1. Submit qualification data for firms and persons specified in "Quality Assurance" Article to demonstrate their capabilities and experience. Include lists of completed projects with project names and addresses, names and addresses of architects and owners, and other information specified.
    1. Warranty
@@ -51,7 +51,7 @@ tags: ['Facility', 'Construction', 'Wood', 'Plastics', 'Composites', 'Interior',
    1. Shop Drawings
    1. Submit Shop Drawings indicating dimensions, method of fastening to backing and layout, wood cabinet erection details, and other pertinent details.
    1. Submit Shop Drawings for architectural wood panels, showing veneer leaves with dimensions, grain direction, exposed face, and identification numbers indicating the flitch and sequence within the flitch for each leaf.
-   1. Samples
+1. Samples
    1. Submit Samples of the following:
       1. Hardwood to receive the transparent finish specified in Section 09910.
    1. Plastic laminate with black 3 mm edgeband.
@@ -87,12 +87,12 @@ tags: ['Facility', 'Construction', 'Wood', 'Plastics', 'Composites', 'Interior',
    1. Install the Work only when normal temperature and humidity conditions approximate the interior conditions that will exist when the building is occupied, not cold and damp, nor hot and dry.
    1. Field Measurements
    1. Take field measurements to verify or supplement dimensions indicated. Be responsible for accurate fit of the Work.
-   1. COORDINATION
+1. COORDINATION
    1. Coordinate sizes and locations of framing, blocking, furring, reinforcements, and other related units of Work specified in other Sections to ensure that interior architectural woodwork can be supported and installed as indicated.
 
 ## Products
 
-   1. wood Materials
+1. wood Materials
    1. Plywood for Transparent Finish
    1. Hardwood plywood complying with AWI Quality Standards, Section 200, or WIC Manual of Millwork, Section 4, and the following:
       1. Face veneer:
@@ -102,7 +102,7 @@ tags: ['Facility', 'Construction', 'Wood', 'Plastics', 'Composites', 'Interior',
       1. good-one-side with back veneer of species and thickness to balance face veneer.
    1. Plywood for Paint Finish
    1. Softwood plywood complying with PS 1, interior type, A-B grade or faced with medium density overlay.
-   1. Lumber
+1. Lumber
    1. Lumber for exposed portions of wood cabinets for transparent finish:
       1. hardwood of same species as plywood face veneer and of AWI Grade I or WIC Premium Grade.
    1. Lumber for wood trim:
@@ -175,7 +175,7 @@ tags: ['Facility', 'Construction', 'Wood', 'Plastics', 'Composites', 'Interior',
 
 ## General
 
-   1. Fabricate cabinets to comply with AWI Quality Standards, Section 400, or WIC Manual of Millwork, Sections 14 or 15, for Premium Grade, unless otherwise specified.
+1. Fabricate cabinets to comply with AWI Quality Standards, Section 400, or WIC Manual of Millwork, Sections 14 or 15, for Premium Grade, unless otherwise specified.
    1. Requirements for materials used in labeled construction, except interior of drawers and concealed framing members:
       1. Maximum fire hazard classification of 75 for flame spread and 125 for smoke developed, when tested in accordance with ASTM E84.
    1. Listed in the UL "Building Materials Directory"
@@ -236,26 +236,22 @@ tags: ['Facility', 'Construction', 'Wood', 'Plastics', 'Composites', 'Interior',
 
 ## Execution
 
-   1. installation
-
-## General
-
+1. installation
    1. Comply with AWI Quality Standards, Section 1700, or WIC manual of Millwork applicable Product and Installation Standard, Premium Grade.
-   1. Back Priming
-   1. Before installing architectural woodwork items, paint surfaces abutting building construction with one coat of wood primer.
-   1. Wood Cabinets and Counters
-   1. Install wood cabinets in accordance with approved Shop Drawings. Coordinate installation of countertop sinks with mechanical trade.
-   1. Sealant
-   1. Seal the following joints with sealant:
+   2. Back Priming
+   3. Before installing architectural woodwork items, paint surfaces abutting building construction with one coat of wood primer.
+   4. Wood Cabinets and Counters
+   5. Install wood cabinets in accordance with approved Shop Drawings. Coordinate installation of countertop sinks with mechanical trade.
+   6. Sealant
+   7. Seal the following joints with sealant:
       1. Joints between architectural woodwork components and vertical surfaces, including partitions and column enclosures.
-   1. Joints in field-applied backsplash and between backsplash and countertop.
-   1. Joints in countertop.
-   1. Adjustable Shelves
-   1. Anchor metal standards to wall, plumb and with slots for brackets level.
-   1. Keying System for Wood Cabinet Locks
-   1. Before final acceptance of building, set up a keying index for locks of wood cabinets installed under this Section, listing the key for each lock, and provide keys with metal tags indicating the lock for which the key was cut.
-   1. Protection
-   1. Protect factory finished architectural woodwork in accordance with manufacturer's directions.
-   1. Cleaning
-   1. Clean finished surfaces of architectural woodwork items in accordance with manufacturer's instructions.
-
+   8. Joints in field-applied backsplash and between backsplash and countertop.
+   9. Joints in countertop.
+   10. Adjustable Shelves
+   11. Anchor metal standards to wall, plumb and with slots for brackets level.
+   12. Keying System for Wood Cabinet Locks
+   13. Before final acceptance of building, set up a keying index for locks of wood cabinets installed under this Section, listing the key for each lock, and provide keys with metal tags indicating the lock for which the key was cut.
+   14. Protection
+   15. Protect factory finished architectural woodwork in accordance with manufacturer's directions.
+   16. Cleaning
+   17. Clean finished surfaces of architectural woodwork items in accordance with manufacturer's instructions.

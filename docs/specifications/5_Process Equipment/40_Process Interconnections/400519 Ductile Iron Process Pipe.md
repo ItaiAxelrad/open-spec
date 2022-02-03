@@ -7,10 +7,6 @@ subgroup: Process Equipment
 tags: ['Process', 'Equipment', 'Interconnections', 'Ductile', 'Iron', 'Pipe']
 ---
 
-   1. section 40 05 19
-   1. pipe:
-      1. ductile
-
 ## General
 
 1. SUMMARY

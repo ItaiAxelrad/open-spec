@@ -12,7 +12,7 @@ tags: ['Facility', 'Construction', 'Concrete', 'Reinforcing']
 1. 
 ## General
 
-1.  
+1. 
 1. DESCRIPTIONS 
 
    1. This section covers furnishing and installing steel bars and welded wire fabric for concrete reinforcement. 
@@ -78,7 +78,7 @@ tags: ['Facility', 'Construction', 'Concrete', 'Reinforcing']
 
 ## Execution
 
-1.  
+1. 
 1. PREPARATION ‑ Remove all mud, oil, loose rust or mill scale and other foreign materials that may reduce bond. Rust or mill scale which is "tight" will be permissible without cleaning or brushing provided weights, dimensions, cross sectional area, and tensile properties meet requirements of ASTM A615. 
 2. INSTALLATION 
 2..1 Bar Placement ‑ Conform to CRSI‑WCRSI "Placing Reinforcing Steel." 

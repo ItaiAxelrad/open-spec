@@ -26,20 +26,20 @@ tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Sheet',
 
 ## PRODUCTS
 
-1.  MATERIALS
-    1.  Membrane Waterproofing
-    2.  Where indicated on Drawings and where otherwise required for proper waterproofing of foundation walls and similar items, provide a complete "Bituthene" waterproofing system as manufactured by the Construction Products Division of W. R. Grace Co., or equal approved in advance by the Owner.
-    3.  Protection Board
-    4.  Where indicated on the Drawings, and where otherwise required for proper protection of the Bituthene waterproof system, provide asphalt impregnated fiberboard not less than 1/8" thick, specially manufactured for use in protecting membrane waterproofing, and approved for this use by the Owner.
-    5.  Other Materials
-    6.  Provide other materials, not specifically described but required for a complete and proper installation, as selected by the Contractor subject to the approval of the Owner.
+1. MATERIALS
+    1. Membrane Waterproofing
+    2. Where indicated on Drawings and where otherwise required for proper waterproofing of foundation walls and similar items, provide a complete "Bituthene" waterproofing system as manufactured by the Construction Products Division of W. R. Grace Co., or equal approved in advance by the Owner.
+    3. Protection Board
+    4. Where indicated on the Drawings, and where otherwise required for proper protection of the Bituthene waterproof system, provide asphalt impregnated fiberboard not less than 1/8" thick, specially manufactured for use in protecting membrane waterproofing, and approved for this use by the Owner.
+    5. Other Materials
+    6. Provide other materials, not specifically described but required for a complete and proper installation, as selected by the Contractor subject to the approval of the Owner.
 
 ## EXECUTION
 
 1. EXAMINATION
-    1.  Examine the areas and conditions under which work of this Section will be performed.
-    2.  Correct conditions detrimental to timely and proper completion of the Work.
-    3.  Do not proceed until unsatisfactory conditions are corrected.
+    1. Examine the areas and conditions under which work of this Section will be performed.
+    2. Correct conditions detrimental to timely and proper completion of the Work.
+    3. Do not proceed until unsatisfactory conditions are corrected.
 2. ERECTION INSTALLATION APPLICATION
-    1.  Prior to start of installation, meet with the Owner and jointly inspect the surfaces to be waterproofed under this Section.
-    2.  Except as may be modified with the advance approval of the Owner, install the work of this Section in strict accordance with the manufacturer's recommendations.
+    1. Prior to start of installation, meet with the Owner and jointly inspect the surfaces to be waterproofed under this Section.
+    2. Except as may be modified with the advance approval of the Owner, install the work of this Section in strict accordance with the manufacturer's recommendations.

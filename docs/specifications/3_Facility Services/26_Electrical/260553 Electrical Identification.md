@@ -7,9 +7,6 @@ subgroup: Facility Services
 tags: ['Facility', 'Services', 'Electrical', 'Identification']
 ---
 
-
-1. ELECTRICAL IDENTIFICATION
-
 ## General
 
 01. RELATED DOCUMENTS

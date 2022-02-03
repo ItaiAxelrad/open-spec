@@ -71,7 +71,7 @@ tags: ['General', 'Requirements', 'Closeout', 'Procedures']
 
 ## Execution
 
-1.  
+1. 
 
 	1. CLOSEOUT PROCEDURES
    1. CONTRACTOR shall notify OWNER in writing the “Substantial Completion” has been reached. CONTRACTOR shall provide a list of items to be completed or corrected. 

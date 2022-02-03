@@ -7,7 +7,6 @@ subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Metals', 'Steel', 'Joist', 'Framing']
 ---
 
-
 ## General
 
 1. SUMMARY
@@ -31,20 +30,19 @@ tags: ['Facility', 'Construction', 'Metals', 'Steel', 'Joist', 'Framing']
    1. Use adequate numbers of skilled workmen who are thoroughly trained and experienced in the necessary crafts and who are completely familiar with the specified requirements and the methods needed for proper performance of the work of this Section.
    1. In addition, comply with:
       1. Pertinent requirements of governmental agencies having jurisdiction.
-
-"Standard Load Tables"
-   1. Pertinent standard specifications of the Steel Joist Institute.
-   1. Coordinate requirements of this Section with design standards and requirements indicated on the Structural drawings. If conflicts arise, requirements of Structural drawings shall take precedence.
-   1. DELIVERY, STORAGE AND PROTECTION
+      2. "Standard Load Tables"
+   2. Pertinent standard specifications of the Steel Joist Institute.
+   3. Coordinate requirements of this Section with design standards and requirements indicated on the Structural drawings. If conflicts arise, requirements of Structural drawings shall take precedence.
+2. DELIVERY, STORAGE AND PROTECTION
    1. Product Handling:
       1. Comply with pertinent provisions of Section 016000.
 
 ## Products
 
-   1. MATERIALS
+1. MATERIALS
    1. Provide steel joists and accessories system in dimensions and arrangements shown on the Drawings and in compliance with SJI specifications.
    1. Provide other materials, not specifically described but required for a complete and proper installation, as selected by the Contractor subject to the approval of the Architect.
-   1. FABRICATION
+1. FABRICATION
    1. Fabricate the steel joists system in strict accordance with the approved Shop Drawings and the requirements of governmental agencies having jurisdiction, and in accordance with the following as pertinent:
       1. Verify dimensions prior to fabrication.
    1. Provide top and bottom joist chord extensions where indicated on the Drawings or otherwise required.
@@ -55,17 +53,15 @@ tags: ['Facility', 'Construction', 'Metals', 'Steel', 'Joist', 'Framing']
    1. Camber joists to accommodate dead load deflections.
    1. Except where galvanizing may be called for on the Drawings or the approved Shop Drawings, shop-prime the joist system using one coat of:
       1. "10-99 Tnemec Primer,"
-
-"Rustoleum No. 5769 Primer,"
-   1. Or equal, approved in advance by the Architect, to a dry film thickness between 2.0 and 3.5 mils.
+      2. "Rustoleum No. 5769 Primer,"
+      3. Or equal, approved in advance by the Architect, to a dry film thickness between 2.0 and 3.5 mils.
 
 ## Execution
 
 1. EXAMINATION
    1. Examine the areas and conditions under which work of this Section will be performed.
-   1. Correct conditions detrimental to timely and proper completion of Work.
-   1. Do not proceed until unsatisfactory conditions are corrected.
-   1. ERECTION INSTALLATION APPLICATION
+   2. Correct conditions detrimental to timely and proper completion of Work.
+   3. Do not proceed until unsatisfactory conditions are corrected.
+1. ERECTION INSTALLATION APPLICATION
    1. Coordinate as required with other trades to assure proper and adequate provision in the work of those trades for interface with the work of this Section.
-   1. Install the work of this Section in strict accordance with the original design, the approved Shop Drawings, pertinent requirements of governmental agencies having jurisdiction, and the manufacturer's recommended installation procedures as approved by the Architect, anchoring all components firmly into position for long life under hard use.
-
+   2. Install the work of this Section in strict accordance with the original design, the approved Shop Drawings, pertinent requirements of governmental agencies having jurisdiction, and the manufacturer's recommended installation procedures as approved by the Architect, anchoring all components firmly into position for long life under hard use.

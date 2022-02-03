@@ -7,9 +7,6 @@ subgroup: Process Equipment
 tags: ['Process', 'Equipment', 'Water', 'Wastewater', 'Filter', 'Media']
 ---
 
-   1. Section 46 61 00
-   1. Filter Media
-
 ## General
 
 1. SUMMARY
@@ -87,8 +84,7 @@ tags: ['Process', 'Equipment', 'Water', 'Wastewater', 'Filter', 'Media']
 	4. Store filter media for no more than 30 days.
 ## Product
 
-## General
-
+1. General
    1. Materials to conform to AWWA B100 as modified herein.
 2. Screen all filter media through standard sieves conforming to ASTM E11.
 2. Filter Greensand Media
@@ -131,54 +127,51 @@ tags: ['Process', 'Equipment', 'Water', 'Wastewater', 'Filter', 'Media']
 3. Media removed from filters shall be legally disposed of offsite by contractor.
 4. Contractor shall coordinate installation of repair coatings in filters following media removal and prior to new media replacement.
 2. Installation
-
-## General
-
-
-	1. Placement of filter materials shall be in accordance with AWWA B100, Section 5, as modified herein.
-	2. Before placing media, the Contractor shall obtain the following approvals from the Engineer:
+   1. General
+	2. Placement of filter materials shall be in accordance with AWWA B100, Section 5, as modified herein.
+	3. Before placing media, the Contractor shall obtain the following approvals from the Engineer:
 		1. The underdrain opening size has been verified by the contractor to prohibit passage of filter media particles through the underdrain.
 		2. Repairs to the existing underdrain have been completed and underdrain distribution has been tested using visual observation in backwash mode.
 		3. Repair coatings on filter walls, troughs, and gullet have been completed and are fully cured.
-	3. Protect existing troughs, underdrains, and filter appurtenances during installation. Repair or replacement of these systems if damaged by Contractor’s operations will be at no additional cost to the Owner.
-	4. Thoroughly clean filter box prior to placement of filter materials in accordance with AWWA C653, Section 2. Maintain clean environment throughout installation and install in a manner which prevents contamination from any source.
-	5. Level lines shall be placed on all sides of the filter basin designating the top elevation of each media layer.
-	6. Place media in each filter per the depths listed in the following table:
+	4. Protect existing troughs, underdrains, and filter appurtenances during installation. Repair or replacement of these systems if damaged by Contractor’s operations will be at no additional cost to the Owner.
+	5. Thoroughly clean filter box prior to placement of filter materials in accordance with AWWA C653, Section 2. Maintain clean environment throughout installation and install in a manner which prevents contamination from any source.
+	6. Level lines shall be placed on all sides of the filter basin designating the top elevation of each media layer.
+	7. Place media in each filter per the depths listed in the following table:
 		1. Layer Media Finished Layer Depth
 			1. Top - Anthracite - 10”
 			2. Bottom - Greensand - 20”
-	7. Placement of filter materials shall be in accordance with AWWA B100, Section 5, as modified herein.
-	8. Smooth top of each layer after installation.
-	9. Prevent disturbance of previously installed layers.
-	10. Receive approval from Engineer of each filter material layer prior to placement of successive layer(s).
-	11. Workmen shall not stand or walk directly on material, but upon boards (minimum ½ inch thick and 2 square feet) to distribute weight without disturbing media.
-	12. Wash filters only when water is available for washing. Except for washing required for first scraping operation, wash only as authorized by Owner.
-	13. Filter media depth shall be measured after the completion of backwashing and skimming.
-2. Filter Greensand Placement.
-	1. Place Greensand in accordance with manufacturer’s specifications.
-3. Anthracite Placement.
-	1. Anthracite filter media shall not be placed in the filter cell until the filter sand in that cell has been skimmed.
-	2. Anthracite shall be placed in the filter so as not to disturb the top layer of sand and shall be finished off smooth and leveled to the specified depth after backwashing and cleaning.
+	8. Placement of filter materials shall be in accordance with AWWA B100, Section 5, as modified herein.
+	9. Smooth top of each layer after installation.
+	10. Prevent disturbance of previously installed layers.
+	11. Receive approval from Engineer of each filter material layer prior to placement of successive layer(s).
+	12. Workmen shall not stand or walk directly on material, but upon boards (minimum ½ inch thick and 2 square feet) to distribute weight without disturbing media.
+	13. Wash filters only when water is available for washing. Except for washing required for first scraping operation, wash only as authorized by Owner.
+	14. Filter media depth shall be measured after the completion of backwashing and skimming.
+3. Filter Greensand Placement.
+	15. Place Greensand in accordance with manufacturer’s specifications.
+4. Anthracite Placement.
+	16. Anthracite filter media shall not be placed in the filter cell until the filter sand in that cell has been skimmed.
+	17. Anthracite shall be placed in the filter so as not to disturb the top layer of sand and shall be finished off smooth and leveled to the specified depth after backwashing and cleaning.
 		1. The anthracite media should be placed with the filter partially filled with water.
-	3. Extreme care shall be taken when introducing water into the filter after the Greensand, and anthracite have been placed. Air trapped in the Greensand can cause severe disturbance of the Greensand layers.
-	4. After the anthracite has been placed, it shall be washed at least three times. Each of these separate and distinct washings shall be of at least five minutes duration and wash rate shall not exceed 2 gpm/sf. Gradually increase wash water rate to maximum rate of 10 gpm/sf.
-	5. The fine-grained materials that accumulate at the surface of the bed shall be scraped off and removed by the Contractor at the end of each period of backwash.
+	18. Extreme care shall be taken when introducing water into the filter after the Greensand, and anthracite have been placed. Air trapped in the Greensand can cause severe disturbance of the Greensand layers.
+	19. After the anthracite has been placed, it shall be washed at least three times. Each of these separate and distinct washings shall be of at least five minutes duration and wash rate shall not exceed 2 gpm/sf. Gradually increase wash water rate to maximum rate of 10 gpm/sf.
+	20. The fine-grained materials that accumulate at the surface of the bed shall be scraped off and removed by the Contractor at the end of each period of backwash.
 		1. The depth of scraping shall be a minimum of 3/4 IN, 1/2 IN, and 1/4 IN, for successive washes.
 		2. Scraping and washing shall continue until, after hydraulic grading, the treated anthracite media remaining in the filter contains no more than 10 percent of anthracite smaller than 0.8 millimeters.
 		3. Sufficient excess material shall be placed to anticipate this requirement.
-	6. If it is necessary to add additional anthracite to bring the bed up to the required mark, the filter should be slowly refilled, backwashed and the fines skimmed again.
-4. Disinfection
-	1. After all work is completed, and before the filter is placed in service, the entire filter shall be disinfected by chlorination in accordance with the following procedure:
+	21. If it is necessary to add additional anthracite to bring the bed up to the required mark, the filter should be slowly refilled, backwashed and the fines skimmed again.
+5. Disinfection
+	22. After all work is completed, and before the filter is placed in service, the entire filter shall be disinfected by chlorination in accordance with the following procedure:
 		1. Inject a sufficient amount of chlorine into the backwash water to produce a free chlorine residual of at least 25 mg/l throughout the filter.
 		2. Allow the chlorinated water to stand in the filter for a period of 24 hours with the water level no more than 6 inches below the top of the filter box.
 		3. Upon completion of disinfection, waste filter water and thoroughly backwash filter to remove chlorine.
-	2. Bacteriological Sampling
+	23. Bacteriological Sampling
 		1. After completion of chlorination and prior to placing filters in service, bacteriological testing shall be completed.
 		2. At least two samples shall be taken from each filter not less than 30 minutes apart and tested for the presence of coliform.
 			1. If no coliforms are detected, the filter may be placed in service.
 			2. If coliforms are present in any of the samples, proceed with 1 or 2 as follows:
-			1. Take samples 24 hours apart until no coliforms are present.
-			2. Rechlorinate filter and conduct bacteriological testing as described.
+			3. Take samples 24 hours apart until no coliforms are present.
+			4. Rechlorinate filter and conduct bacteriological testing as described.
 3.**3 Field Quality Control
    1. Media Manufacturer’s Field Service Representative
 	1. The media manufacturer’s field service representative shall:
@@ -187,4 +180,3 @@ tags: ['Process', 'Equipment', 'Water', 'Wastewater', 'Filter', 'Media']
 		3. Assist in field test of filter media.
 		4. Submit a certification of proper installation and satisfactory performance.
 2. Filter media not meeting the criteria specified herein will be rejected and replaced at no cost to the Owner.
-

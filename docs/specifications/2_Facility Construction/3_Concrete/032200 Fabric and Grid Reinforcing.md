@@ -36,7 +36,7 @@ tags: ['Facility', 'Construction', 'Concrete', 'Fabric', 'Grid', 'Reinforcing']
 
 ## Products
 
-1. 2.1 MATERIALS
+1. MATERIALS
    1. Welded Wire
 	1. Conform to ASTM A185.
 2. Accessories
@@ -47,17 +47,15 @@ tags: ['Facility', 'Construction', 'Concrete', 'Fabric', 'Grid', 'Reinforcing']
 
 ## Execution
 
-1. 3.1 ERECTION INSTALLATION APPLICATION
+1. ERECTION INSTALLATION APPLICATION
    1. Install in longest practicable length. 
-2. Welded wire fabric shall be set on wire chairs or "hooked" during placement of concrete to maintain 3/4" cover.
-3. Lap adjoining pieces one full mesh plus 2 inches minimum and securely wire. 
-4. Do not make laps midway between simple supported members or directly over support members of continuous structures. 
-5. Offset laps in adjacent widths to prevent continuous laps.
-6. Extend fabric through contraction joints and construction joints unless otherwise indicated on the Drawings. 
-7. Detailing, fabrication, and placement of reinforcing steel shall be in accordance with ACI 315, Standard Practice for Detailing Reinforced Concrete Structure.
-8. Except as noted on the Drawings, concrete protection for reinforcement shall be in accordance with ACI 318 and as follows:
-	1. Concrete not exposed to earth or weather.
-1. 3.2 FIELD QUALITY CONTROL
+   2. Welded wire fabric shall be set on wire chairs or "hooked" during placement of concrete to maintain 3/4" cover.
+   3. Lap adjoining pieces one full mesh plus 2 inches minimum and securely wire. 
+   4. Do not make laps midway between simple supported members or directly over support members of continuous structures. 
+   5. Offset laps in adjacent widths to prevent continuous laps.
+   6. Extend fabric through contraction joints and construction joints unless otherwise indicated on the Drawings. 
+   7. Detailing, fabrication, and placement of reinforcing steel shall be in accordance with ACI 315, Standard Practice for Detailing Reinforced Concrete Structure.
+   8. Except as noted on the Drawings, concrete protection for reinforcement shall be in accordance with ACI 318 and as follows:
+     1. Concrete not exposed to earth or weather.
+2. FIELD QUALITY CONTROL
    1. Metal reinforcing, at the time concrete is placed, shall be free from rust, scale, or other coatings, which will destroy or reduce the bond.
-
-

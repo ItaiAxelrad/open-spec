@@ -7,12 +7,8 @@ subgroup: Process Equipment
 tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Storage', 'Direct', 'Drive', 'Single', 'Stage', 'Centrifugal', 'Blowers']
 ---
 
-   1. 43 11 11 Direct Drive Single Stage Centrifugal Blowers
-
-
 ## General
 
-1.
 1. RELATED DOCUMENTS
    1. A.
    1. Drawings, General and Special Provisions of the Contract, and Division 01 Specification Sections apply to this Section.

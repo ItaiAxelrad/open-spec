@@ -216,7 +216,7 @@ tags: ['General', 'Requirements', 'Summary', 'Work', 'SM']
    1. All materials for use in the work shall be stored by the Contractor in such manner as to prevent damage from exposure to the elements, admixture of foreign materials, or from any other cause. The Contractor shall be entirely responsible for damage or loss by weather or other causes. The Material Safety Data Sheets (MSDS) for all products to be used in the work shall be kept on-site by the Contractor, and the material manufacturer's recommendations for proper storage of its products shall be strictly followed.
    1. Materials shall not be stored on City property without the written permission of the City. The Contractor shall be responsible to provide its own storage area or property. Materials for use on the work shall be stored on private property only as allowed by law and with the written permission of the property owner, and a copy of such permission shall be provided to the City. In addition, a release letter signed by said property owner and stating that materials are no longer stored on the property and that Contractor has restored the area to original condition is required prior to the filing of the Notice of Completion.
 
-	1.  **HOURS OF WORK
+	1. **HOURS OF WORK
    1. The normal hours of work shall be between the hours of 8:00 a.m. and 6:00 p.m., Monday through Friday, except City-recognized holidays and holiday moratoriums. 
 2. The hours for night work shall be between:
       1. 8:00pm and 6:00am Sunday Evening through Friday Morning. Contractor shall obtain after-hours permit.

@@ -7,10 +7,6 @@ subgroup: Process Equipment
 tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Storage', 'Backwash', 'Submersible', 'Pumps']
 ---
 
-   1. Section 43 25 00
-   1. Pumping Equipment:
-      1. Backwash submersible Pumps
-
 ## General
 
 1. SUMMARY

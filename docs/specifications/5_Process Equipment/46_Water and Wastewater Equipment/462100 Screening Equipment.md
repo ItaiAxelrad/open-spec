@@ -7,33 +7,28 @@ subgroup: Process Equipment
 tags: ['Process', 'Equipment', 'Water', 'Wastewater', 'Screening']
 ---
 
-1. 46 21 00 Screening Equipment
-
-
 ## General
 
-1.
 1. RELATED DOCUMENTS
    1. A.
-   1. Drawings, General and Special Provisions of the Contract, and Division 01 Specification Sections apply to this Section.
-2.
-1. SUMMARY
+   2. Drawings, General and Special Provisions of the Contract, and Division 01 Specification Sections apply to this Section.
+2. SUMMARY
    1. A.
-   1. Furnish and install two (2) automatic self-cleaning filter screens, a screenings conveyor with feed hoppers and discharge chute, a screw wash press, and control panels for the screens, conveyor and compactor.
-   1. B.
-   1. Related Sections include the following:
+   2. Furnish and install two (2) automatic self-cleaning filter screens, a screenings conveyor with feed hoppers and discharge chute, a screw wash press, and control panels for the screens, conveyor and compactor.
+   3. B.
+   4. Related Sections include the following:
       1. Section 409100 – Instrumentation
-2. Section 409423 – Supervisory Control System
-3. Section 449443 – Programmable Logic Controllers
-4. Section 409513 – Control Panels
+3. Section 409423 – Supervisory Control System
+4. Section 449443 – Programmable Logic Controllers
+5. Section 409513 – Control Panels
 
 	1. SYSTEM DESCRIPTION
 		1. Mechanical Screens: Each unit with 6-mm filtration openings, mounted in a channel measuring
-5. feet wide and 7.5 feet deep and with a 3.5-inch recess in the channel bottom to accommodate the base of the screen, at a 75-degree angle from horizontal. Each unit shall be capable of passing 22.5 MGD of wastewater with a clean-water, clean-screen head loss not exceeding 13 inches. Each screen shall be capable of intermittent or continuous operation, and have a capacity of 1.878 cubic yards of screenings per hour. The screen discharge point shall be at a height of 12 feet above the base of the screen. The unit shall pivot from the channel for servicing.
+6. feet wide and 7.5 feet deep and with a 3.5-inch recess in the channel bottom to accommodate the base of the screen, at a 75-degree angle from horizontal. Each unit shall be capable of passing 22.5 MGD of wastewater with a clean-water, clean-screen head loss not exceeding 13 inches. Each screen shall be capable of intermittent or continuous operation, and have a capacity of 1.878 cubic yards of screenings per hour. The screen discharge point shall be at a height of 12 feet above the base of the screen. The unit shall pivot from the channel for servicing.
 
-		1. Screenings Conveyor: the screenings conveyor shall consist of a spiral, trough, covers, support legs, drive system, and controls. The conveyor shall be designed to receive screenings from the two mechanical screens and convey them by the spiral. The conveyor shall have an inlet capacity of 53 cubic feet per hour, handling wet screenings with an approximate dry weight of not less than 8% solids.
-		2. Screw Wash Press. The screw wash press shall consist of a spiral, trough, support legs, wash zone, trough flush spray, press zone, discharge pipe, drive system, and controls. The press shall be designed to receive the loadings from the screenings conveyor; convey, dewater, and compact them without spillage, jamming or clogging to a discharge point as shown on the Drawings. The compactor shall have an inlet capacity of 53 cubic feet per hour, handling wet screenings with an approximate dry weight of not less than 8% solids.
-	1. SUBMITTALS
+		2. Screenings Conveyor: the screenings conveyor shall consist of a spiral, trough, covers, support legs, drive system, and controls. The conveyor shall be designed to receive screenings from the two mechanical screens and convey them by the spiral. The conveyor shall have an inlet capacity of 53 cubic feet per hour, handling wet screenings with an approximate dry weight of not less than 8% solids.
+		3. Screw Wash Press. The screw wash press shall consist of a spiral, trough, support legs, wash zone, trough flush spray, press zone, discharge pipe, drive system, and controls. The press shall be designed to receive the loadings from the screenings conveyor; convey, dewater, and compact them without spillage, jamming or clogging to a discharge point as shown on the Drawings. The compactor shall have an inlet capacity of 53 cubic feet per hour, handling wet screenings with an approximate dry weight of not less than 8% solids.
+	2. SUBMITTALS
 		1. Submit the following in accordance with the Provisions of the Contract and Division 01 Specification Sections:
 			1. A copy of this specification section, with addendum updates included, and all referenced and applicable sections, with addendum updates included, with each paragraph check- marked to indicate specification compliance or marked to indicate requested deviations from specification requirements. If deviations from the specifications are indicated and, therefore requested by the Contractor the submittal shall be accompanied by a detailed, written justification for each deviation. Failure to include a copy of the marked-up specification sections, along with justification for any requested deviations to the specification requirements, with the submittal shall be cause for rejection of the entire submittal with no further consideration.
 			2. Product Data.
@@ -55,8 +50,8 @@ tags: ['Process', 'Equipment', 'Water', 'Wastewater', 'Screening']
 			4. A tabular listing of all variable set points and their factory settings including VFD parameters where applicable
 			5. A tabular listing of the PLC input, output, and alarm software tags
 			6. Final panel layout drawings
-   1. Final panel wiring diagrams
-2. I/O wiring drawings for all devices that are monitored or controlled by the Mechanical Screens, Conveyor, and Compactor manufacturer’s PLC as listed in the Instrumentation and Controls paragraph of this specification. These drawings shall include the field wiring from the terminal block (showing terminal numbers) to the field device (showing the device tag number).
+   7. Final panel wiring diagrams
+7. I/O wiring drawings for all devices that are monitored or controlled by the Mechanical Screens, Conveyor, and Compactor manufacturer’s PLC as listed in the Instrumentation and Controls paragraph of this specification. These drawings shall include the field wiring from the terminal block (showing terminal numbers) to the field device (showing the device tag number).
 5.
 1. QUALITY ASSURANCE
    1. A.

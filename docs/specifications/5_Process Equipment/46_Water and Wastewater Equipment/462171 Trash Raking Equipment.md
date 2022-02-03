@@ -7,9 +7,6 @@ subgroup: Process Equipment
 tags: ['Process', 'Equipment', 'Water', 'Wastewater', 'Trash', 'Raking']
 ---
 
-
-1. TRASH RAKING EQUIPMENT
-1. 
 ## General
 
 1. SUMMARY

@@ -28,13 +28,12 @@ tags: ['Facility', 'Construction', 'Concrete', 'Forming']
 	1. Formwork, shoring, and reshoring to be designed by a professional structural engineer currently registered in Colorado and have a minimum of three (3) years of experience in this type of design work. 
 		1. These qualifications apply to slabs and beams not cast on the ground, wall and column pours over 15 ft. high.
 5. Miscellaneous:
-      1. 
-	1. Design and engineering of formwork, shoring and reshoring as well as its construction is the responsibility of the Contractor.
-	2. Design requirements:
+	2. Design and engineering of formwork, shoring and reshoring as well as its construction is the responsibility of the Contractor.
+	3. Design requirements:
 		1. Design formwork for loads, lateral pressures and allowable stresses outlined in ACI 347 and for design considerations, wind loads, allowable stresses and other applicable requirements of the controlling local Building Code.
 			1. Where conflicts occur between the above two (2) standards, the more stringent requirements shall govern.
 		2. Design formwork to limit maximum deflection of form facing materials reflected in concrete surfaces exposed to view to 1/240 of span between structural members.
-	3. For slabs and beams not cast on the ground, develop a procedure and schedule for removal of shores and for calculating the loads transferred to the structure during this process.
+	4. For slabs and beams not cast on the ground, develop a procedure and schedule for removal of shores and for calculating the loads transferred to the structure during this process.
 		1. Perform structural calculations as required to prove that all portions of the structure in combination with remaining forming and shoring system has sufficient strength to safely support its own weight plus the loads placed thereon.
 		2. When developing procedure, schedule and structural calculations, consider the following at each stage of construction:
 			1. The structural system that exists.
@@ -43,15 +42,16 @@ tags: ['Facility', 'Construction', 'Concrete', 'Forming']
 			4. The influence of deformations of the structure and shoring system on the distribution of dead loads and construction loads.
 			5. The strength and spacing of shores or shoring systems used, as well as the method of shoring, bracing, shore removal, and reshoring including the minimum time intervals between various operations.
 			6. Any other loading or condition that affects the safety or serviceability of the structure during construction.
-	4. Submittals
+	5. Submittals
 6. Shop Drawings shall include product technical date including:
-	1. Acknowledgement that products submitted meet requirements of the aforementioned standards.
-	2. Manufacturer’s installation instructions.
-	3. Manufacturer and type of proposed form materials.
-	4. Manufacturer and type of proposed form coating materials.
-	5. Manufacturer and type of void forms including compressive strength.
+	6. Acknowledgement that products submitted meet requirements of the aforementioned standards.
+	7. Manufacturer’s installation instructions.
+	8. Manufacturer and type of proposed form materials.
+	9. Manufacturer and type of proposed form coating materials.
+	10. Manufacturer and type of void forms including compressive strength.
 ## Product
-1. 2.1 Materials
+
+1. Materials
    1. Forms for surfaces exposed to view:
 	1. Plywood:
 		1. Douglas Fir species; select sheathing-tight face grade; sound, undamaged sheets with straight edges.
@@ -94,10 +94,9 @@ tags: ['Facility', 'Construction', 'Concrete', 'Forming']
       1. 
 	1. Fabricated from fiberglass, elastomeric material, or urethane.
 
-
 ## Execution
 
-1. 3.1 Preparation
+1. Preparation
    1. Form Surface Treatment:
 	1. Before placing of either reinforcing steel or concrete, cover surfaces of forms with an approved coating material that will effectively prevent absorption of moisture and prevent bond with concrete, will not stain concrete or prevent bonding of future finishes.
 		1. A field applied form release agent or sealer of approved type or a factory applied non-absorptive liner may be used.
@@ -106,7 +105,7 @@ tags: ['Facility', 'Construction', 'Concrete', 'Forming']
 2. Provide temporary openings at base of column and wall forms and at other points where necessary to facilitate cleaning and observation immediately before concrete is placed, and to limit height of free fall of concrete to prevent aggregate segregation.
 	1. Temporary openings to limit height of free fall of concrete shall be spaced no more than 8 FT apart.
 3. Clean surfaces of forms, reinforcing steel and other embedded materials of any accumulated mortar or grout from previous concreting and of all other foreign material before concrete is placed.
-1. 3.2 Erection
+1. Erection
    1. Install products in accordance with manufacturer’s installation instructions. 
 2. Tolerances:
 	1. Variations from the plumb:
@@ -179,4 +178,3 @@ tags: ['Facility', 'Construction', 'Concrete', 'Forming']
 23. For floors supporting shores under newly placed concrete leave original supporting shores in place or reshore.
 	1. Reshoring system shall have a capacity sufficient to resist anticipated loads.
 	2. Locate reshores directly under a shore position above.
-

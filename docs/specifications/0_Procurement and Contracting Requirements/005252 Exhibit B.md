@@ -24,7 +24,7 @@ tags: ['Procurement', 'Contracting', 'Requirements', 'Exhibit', 'B']
 			3. Property, boundary, easement, right-of-way, and other special surveys or data, including establishing relevant reference points.
 			4. Explorations and tests of subsurface conditions at or contiguous to the Site, drawings of physical conditions in or relating to existing surface or subsurface structures at or contiguous to the Site, or hydrographic surveys, with appropriate professional interpretation thereof.
 			5. Environmental assessments, audits, investigations, and impact statements, and other relevant environmental or cultural studies as to the Project, the Site, and adjacent areas, if not part of Engineer’s services.
-			6.  Data or consultations as required for the Project but not otherwise identified in the Agreement or the Exhibits thereto.
+			6. Data or consultations as required for the Project but not otherwise identified in the Agreement or the Exhibits thereto.
 			4. Give prompt written notice to Engineer whenever Owner observes or otherwise becomes aware of the presence at the Site of any Constituent of Concern, or of any other development that affects the scope or time of performance of Engineer’s services, or any defect or nonconformance in Engineer’s services, the Work, or in the performance of any Contractor.
 			5. Furnish as appropriate other services or authorize Engineer to provide Additional Services as set forth in Part 2 of Exhibit A of the Agreement as required.
 			6. Arrange for safe access to and make all provisions for Engineer to enter upon public and private property as required for Engineer to perform services under the Agreement.

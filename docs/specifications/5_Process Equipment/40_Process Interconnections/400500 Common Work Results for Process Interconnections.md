@@ -7,9 +7,6 @@ subgroup: Process Equipment
 tags: ['Process', 'Equipment', 'Interconnections', 'Common', 'Work', 'Results']
 ---
 
-   1. Section 40 05 00
-   1. Common Work Results for Process Interconnections
-
 ## General
 
 1. SUMMARY
@@ -75,13 +72,14 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Common', 'Work', 'Results']
 	5. Delivery, Storage, and Handling
 7. Protect pipe coating during handling using methods recommended by the manufacturer.
 8. Prevent damage to pipe during transit and repair abrasions, scars, and blemishes, if needed. 
-## Product (not applicable to this specification section)
+## Product
 
+(not applicable to this specification section)
 
 ## Execution
 
 
-	1. Exterior Buried Piping Installation
+1. Exterior Buried Piping Installation
    1. Unless otherwise shown on the Drawings, provide a minimum of 4.5 FT and maximum of 8 FT earth cover over exterior buried piping systems and appurtenances conveying water, fluids, or solutions subject to freezing.
 2. Enter and exit through structure walls, floors, and ceilings by using penetrations and seals specified in Specification Section 08 10 00 and as shown on Drawings.
 3. When entering or leaving structures with buried mechanical joint piping, install joint with coupling within 2 FT of point where pipe enters or leaves structure.

@@ -7,47 +7,41 @@ subgroup: Process Equipment
 tags: ['Process', 'Equipment', 'Heating', 'Cooling', 'Drying']
 ---
 
-
-1. CHILLED WATER AND CONDENSER WATER UTILITIES*1. BASED ON DFD MASTER SPECIFICATION DATED 10/16/2020
-1. *This section has been written to cover most (but not all) situations that you will encounter. Depending on the requirements of your specific project, you may have to add material, delete items, or modify what is currently written. The Division of State Facilities expects changes and comments from you.*
-1. P A R T 1 - G E N E R A L
-1. *A/E to include the following if concrete reinforced cylinder piping is used. This statement shall also be placed on Page A1, Invitation to Bid*
-
-“Notice is hereby given in accordance with Section 16.885(10), Wisconsin Statues, that the Division believes that it is in the best interest of the State to contract for the following equipment from only one source, without the usual statutory procedures so that the equipment is compatible with existing 24” chilled water piping and laying schedules: Hanson Pipe and Precast reinforced cylinder pipe.
-1. SCOPE
-   1. This section contains specifications for all underground chilled water and condenser water utility distribution systems for this project. Included are the following topics:
-      1. 
 ## General
 
+1. SCOPE
+   1. This section contains specifications for all underground chilled water and condenser water utility distribution systems for this project. Included are the following topics:
     1. Scope
-    1. Related Work
-    1. Reference
-    1. Reference Standards
+    2. Related Work
+    3. Reference
+    4. Reference Standards
     1. Shop Drawings
-    1. Quality Assurance
-    1. Delivery, Storage, and Handling
-    1. Design Criteria
-   1. Sleeves and Openings
-   1. Product
-    1. Direct Buried Underground Chilled Water and Condenser Water
-    1. Valves, Valve Boxes and Pressure Taps
-    1. Condenser Water (Underground gravity return piping)
-    1. Vents and Relief Valves
-    1. Bedding and Backfill
-    1. Locator Tape
-    1. Pipe Insulation
+    2. Quality Assurance
+    3. Delivery, Storage, and Handling
+    4. Design Criteria
+    2. Sleeves and Openings
+
+## Product
+
+1. Direct Buried Underground Chilled Water and Condenser Water
+2. Valves, Valve Boxes and Pressure Taps
+3. Condenser Water (Underground gravity return piping)
+4. Vents and Relief Valves
+5. Bedding and Backfill
+6. Locator Tape
+7. Pipe Insulation
 
 ## Execution
 
-    1. Preparation
-    1. Bedding and Utility Cover
-    1. Erection
-    1. Copper Pipe Joints
-    1. Mechanical Joint Pipe Connections
-    1. Push-on Gasketed Joint Connections
-    1. Water Systems
-    1. Direct Buried Underground Chilled Water and Condenser Water
-    1. HDPE Joining Methods
+1. Preparation
+1. Bedding and Utility Cover
+1. Erection
+1. Copper Pipe Joints
+1. Mechanical Joint Pipe Connections
+1. Push-on Gasketed Joint Connections
+1. Water Systems
+1. Direct Buried Underground Chilled Water and Condenser Water
+1. HDPE Joining Methods
    1. Joint Testing
     1. Sleeves
     1. Vents and Relief Valves
@@ -281,7 +275,7 @@ tags: ['Process', 'Equipment', 'Heating', 'Cooling', 'Drying']
    1. Slope pipe and position drains at low points and vents at high points.
    1. Do not use any pipe or fittings cracked or damaged in cutting or handling or otherwise not free from defects.
 
-*A/E TO COORDINATE THE FLANGE RATINGS (CLASS) AND SELECTION OF PIPING AND VALVE FLANGES INSIDE BUILDING, TUNNELS AND VAULTS.   1. All general contractor provided piping shall terminate inside at building, utility tunnel or vault with a class **[**250/125**]**, ANSI B16.1 flange. 
+*A/E TO COORDINATE THE FLANGE RATINGS (CLASS) AND SELECTION OF PIPING AND VALVE FLANGES INSIDE BUILDING, TUNNELS AND VAULTS.  1. All general contractor provided piping shall terminate inside at building, utility tunnel or vault with a class **[**250/125**]**, ANSI B16.1 flange. 
    1. Coat all flange bolts with Never-Seez lubricating compound.
    1. The exterior recesses of all restrained and non-restrained bell and spigot joints on pre-stressed concrete cylinder pipe and fittings shall be filed with a Portland cement grout immediately after installation. The foam-lined grout band, supplied by the manufacturer, shall be positioned around and centered on the joint. This band shall be filled with a grout mix using one part Portland cement (ASTM C250 Type 1 or Type 2) to not more than three parts clean sand with sufficient water to achieve a pourable consistency. A stiffer mix of grout shall be applied to the immediate top of the joint to insure complete coverage of all exposed steel.
    1. Install vents, vent piping, valves, and sleeves as indicated on plans.

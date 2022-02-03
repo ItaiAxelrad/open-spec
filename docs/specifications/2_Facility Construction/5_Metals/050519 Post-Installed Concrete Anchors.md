@@ -18,36 +18,35 @@ tags: ['Facility', 'Construction', 'Metals', 'Post-Installed', 'Concrete', 'Anch
 			4. Division 22 Hangers and Supports Section.
 			5. Division 23 Hangers and Supports Section.
 			6. Division 26 Hangers and Supports Section.
-	2. SUBMITTALS
-			1. General: Submit in accordance with *Conditions of the Contract* and Division 1 Submittal Procedures Section.
-			1. Product specifications with recommended design values and physical characteristics for epoxy dowels, expansion and undercut anchors.
-			2. Samples: Representative length and diameters of each type anchor shown on the Drawings.
-			3. Quality Assurance Submittals:
-			1. Test Reports: Certifiedtest reports showing compliance with specified performance characteristics and physical properties. 
-			2. Certificates:
+2. SUBMITTALS
+	1. General: Submit in accordance with *Conditions of the Contract* and Division 1 Submittal Procedures Section.
+      1. Product specifications with recommended design values and physical characteristics for epoxy dowels, expansion and undercut anchors.
+      2. Samples: Representative length and diameters of each type anchor shown on the Drawings.
+      3. Quality Assurance Submittals:
+      4. Test Reports: Certifiedtest reports showing compliance with specified performance characteristics and physical properties. 
+	2. Certificates:
       1. ICC ES Evaluation Reports.
-
 			1. Manufacturer’s installation instructions. 
 			2. Installer Qualifications & Procedures: Submit installer qualifications as stated in Section 1.03.B. Submit a letter of procedure stating method of drilling, the product proposed for use, the complete installation procedure, manufacturer training date, and a list of the personnel to be trained on anchor installation.
 		1. Closeout Submittals: Submit the following:
 			1. Record Documents: Project record documents for installed materials in accordance with Division 1 Closeout Submittals Section.
-	1. QUALITY ASSURANCE
-		1. Installer Qualifications:
+3. QUALITY ASSURANCE
+		2. Installer Qualifications:
 			1. Drilled-in anchors shall be installed by a **[contractor] [installer]** with at least **[three] [five]** years of experience performing similar installations.
-		2. Installer Training: Conduct a thorough training with the manufacturer or the manufacturer’s representative for the **[contractor] [installer]** on the project. Training to consist of a review of the complete installation process for drilled-in anchors, to include but not limited to:
+		3. Installer Training: Conduct a thorough training with the manufacturer or the manufacturer’s representative for the **[contractor] [installer]** on the project. Training to consist of a review of the complete installation process for drilled-in anchors, to include but not limited to:
 			1. hole drilling procedure
 			2. hole preparation & cleaning technique
 			3. adhesive injection technique & dispenser training / maintenance
 			4. rebar dowel preparation and installation
 			5. proof loading/torquing
-		3. Certifications: Unless otherwise authorized by the Engineer, anchors shall have one of the following certifications:
-			1.  ICC ES Evaluation Report indicating conformance with current applicable ICC ES Acceptance Criteria.
-	2. DELIVERY, STORAGE AND HANDLING 
+		4. Certifications: Unless otherwise authorized by the Engineer, anchors shall have one of the following certifications:
+			1. ICC ES Evaluation Report indicating conformance with current applicable ICC ES Acceptance Criteria.
+4. DELIVERY, STORAGE AND HANDLING 
 			1. General: Comply with Division 1 SectionProduct Storage and Handling Requirements. 
-			1. Store anchors in accordance with manufacturer’s recommendations.
+			2. Store anchors in accordance with manufacturer’s recommendations.
 ## Product
-01. MATERIALS
 
+1. MATERIALS
 		1. Fasteners and Anchors: 
 			1. Bolts and Studs: ASTM A307; ASTM A449 where “high strength” is indicated on the Drawings.
 			2. Carbon and Alloy Steel Nuts: ASTM A563.
@@ -68,7 +67,6 @@ tags: ['Facility', 'Construction', 'Metals', 'Post-Installed', 'Concrete', 'Anch
       1. Bolts and studs, nuts, and washers shall conform to ASTM   
 A307, Grade A, and ASTM A449, ASTM A563, and ASTM F436, as applicable. Hot-dip galvanized bolts and studs including associated nuts and washers in accordance with ASTM A153.
    1. DRILLED-IN ANCHORS
-
 		1. Wedge Anchors: Wedge type, torque-controlled, with impact section to prevent thread damage complete with required nuts and washers. Provide anchors with length identification markings conforming to ICC ES AC01 or ICC ES AC193. Type and size as indicated on Drawings.
 			1. Interior Use: Unless otherwise indicated on the Drawings, provide carbon steel anchors with zinc plating in accordance with ASTM B633, Type III Fe/Zn 5 (SC1).
 			2. Exterior Use: As indicated on the Drawings, provide stainless steel anchors. Stainless steel anchors shall be AISI **[Type 304] [and] [Type 316]** stainless steel provided with stainless steel nuts and washers of matching alloy group and minimum proof stress equal to or greater than the specified minimum full-size tensile strength of the externally threaded fastener. Stainless steel nuts shall conform to ASTM F594 unless otherwise specified. Avoid installing stainless steel anchors in contact with galvanically dissimilar metals.
@@ -107,29 +105,25 @@ A307, Grade A, and ASTM A449, ASTM A563, and ASTM F436, as applicable. Hot-dip g
 			4. Where anchor manufacturer is not indicated, subject to compliance with requirements and acceptance by the Architect, provide the following:
 			1. Hilti HVA Adhesive System with HVU capsules.
 
-
 ## Execution
 
-01. INSTALLATION
-
-		1. Cast-In-Place Bolts: Use templates to locate bolts accurately and securely in formwork.
-		2. Drilled-In Anchors: 
-			1. Drill holes with rotary impact hammer drills **using [carbide-tipped bits], [hollow drill bit system], [and][or] [core drills using diamond core bits]**. Drill bits shall be of diameters as specified by the anchor manufacturer. Unless otherwise shown on the Drawings, all holes shall be drilled perpendicular to the concrete surface.
-			1. Cored Holes: Where anchors are permitted to be installed in cored holes, use core bits with matched tolerances as specified by the manufacturer. Properly clean cored hole per manufacturer’s instructions. 
-			2. Embedded Items: Identify position of reinforcing steel and other embedded items prior to drilling holes for anchors. Exercise care in coring or drilling to avoid damaging existing reinforcing or embedded items. Notify the Engineer if reinforcing steel or other embedded items are encountered during drilling. Take precautions as necessary to avoid damaging prestressing tendons, electrical and telecommunications conduit, and gas lines.
-			3. Base Material Strength: Unless otherwise specified, do not drill holes in concrete or masonry until concrete, mortar, or grout has achieved full design strength.
-			2. Perform anchor installation in accordance with manufacturer instructions.
-			3. Wedge Anchors, Heavy-Duty Sleeve Anchors, and Undercut Anchors: Protect threads from damage during anchor installation. Heavy-duty sleeve anchors shall be installed with sleeve fully engaged in part to be fastened. Set anchors to manufacturer’s recommended torque, using a torque wrench. Following attainment of 10% of the specified torque, 100% of the specified torque shall be reached within 7 or fewer complete turns of the nut. If the specified torque is not achieved within the required number of turns, the anchor shall be removed and replaced unless otherwise directed by the Engineer.
-			4. Cartridge Injection Adhesive Anchors: Clean all holes per manufacturer instructions to remove loose material and drilling dust prior to installation of adhesive. Inject adhesive into holes proceeding from the bottom of the hole and progressing toward the surface in such a manner as to avoid introduction of air pockets in the adhesive. Follow manufacturer recommendations to ensure proper mixing of adhesive components. Sufficient adhesive shall be injected in the hole to ensure that the annular gap is filled to the surface. Remove excess adhesive from the surface. Shim anchors with suitable device to center the anchor in the hole. Do not disturb or load anchors before manufacturer specified cure time has elapsed.
-			5. Capsule Anchors: Perform drilling and setting operations in accordance with manufacturer instructions. Clean all holes to remove loose material and drilling dust prior to installation of adhesive. Remove water from drilled holes in such a manner as to achieve a surface dry condition. Capsule anchors shall be installed with equipment conforming to manufacturer recommendations. Do not disturb or load anchors before manufacturer specified cure time has elapsed.
-			6. Observe manufacturer recommendations with respect to installation temperatures for cartridge injection adhesive anchors and capsule anchors.
-02. REPAIR OF DEFECTIVE WORK 
-   1. Remove and replace misplaced or malfunctioning anchors. Fill empty anchor holes and patch failed anchor locations with high-strength non-shrink, nonmetallic grout. Anchors that fail to meet proof load or installation torque requirements shall be regarded as malfunctioning.
-	1. FIELD QUALITY CONTROL
-		1. Testing: **[10%] [25%]** \_\_\_\_\_\_ of each type and size of drilled-in anchor shall be proof loaded by the independent testing laboratory. Adhesive anchors and capsule anchors shall not be torque tested unless otherwise directed by the Engineer. If **[any] [more than 10%]** \_\_\_\_\_\_ of the tested anchors fail to achieve the specified torque or proof load within the limits as defined on the Drawings, all anchors of the same diameter and type as the failed anchor shall be tested, unless otherwise instructed by the Engineer.
-			1. Tension testing should be performed in accordance with ASTM E488.
-			2. Torque shall be applied with a calibrated torque wrench.
-			3. Proof loads shall be applied with a calibrated hydraulic ram. Displacement of adhesive and capsule anchors at proof load shall not exceed D/10, where D is the nominal anchor diameter.
-		2. Minimum anchor embedments, proof loads and torques shall be as shown on the Drawings.
-
-
+1. INSTALLATION
+   1. Cast-In-Place Bolts: Use templates to locate bolts accurately and securely in formwork.
+   2. Drilled-In Anchors: 
+   3. Drill holes with rotary impact hammer drills **using [carbide-tipped bits], [hollow drill bit system], [and][or] [core drills using diamond core bits]**. Drill bits shall be of diameters as specified by the anchor manufacturer. Unless otherwise shown on the Drawings, all holes shall be drilled perpendicular to the concrete surface.
+   4. Cored Holes: Where anchors are permitted to be installed in cored holes, use core bits with matched tolerances as specified by the manufacturer. Properly clean cored hole per manufacturer’s instructions. 
+   5. Embedded Items: Identify position of reinforcing steel and other embedded items prior to drilling holes for anchors. Exercise care in coring or drilling to avoid damaging existing reinforcing or embedded items. Notify the Engineer if reinforcing steel or other embedded items are encountered during drilling. Take precautions as necessary to avoid damaging prestressing tendons, electrical and telecommunications conduit, and gas lines.
+   6. Base Material Strength: Unless otherwise specified, do not drill holes in concrete or masonry until concrete, mortar, or grout has achieved full design strength.
+   7. Perform anchor installation in accordance with manufacturer instructions.
+   8. Wedge Anchors, Heavy-Duty Sleeve Anchors, and Undercut Anchors: Protect threads from damage during anchor installation. Heavy-duty sleeve anchors shall be installed with sleeve fully engaged in part to be fastened. Set anchors to manufacturer’s recommended torque, using a torque wrench. Following attainment of 10% of the specified torque, 100% of the specified torque shall be reached within 7 or fewer complete turns of the nut. If the specified torque is not achieved within the required number of turns, the anchor shall be removed and replaced unless otherwise directed by the Engineer.
+   9. Cartridge Injection Adhesive Anchors: Clean all holes per manufacturer instructions to remove loose material and drilling dust prior to installation of adhesive. Inject adhesive into holes proceeding from the bottom of the hole and progressing toward the surface in such a manner as to avoid introduction of air pockets in the adhesive. Follow manufacturer recommendations to ensure proper mixing of adhesive components. Sufficient adhesive shall be injected in the hole to ensure that the annular gap is filled to the surface. Remove excess adhesive from the surface. Shim anchors with suitable device to center the anchor in the hole. Do not disturb or load anchors before manufacturer specified cure time has elapsed.
+   10. Capsule Anchors: Perform drilling and setting operations in accordance with manufacturer instructions. Clean all holes to remove loose material and drilling dust prior to installation of adhesive. Remove water from drilled holes in such a manner as to achieve a surface dry condition. Capsule anchors shall be installed with equipment conforming to manufacturer recommendations. Do not disturb or load anchors before manufacturer specified cure time has elapsed.
+   11. Observe manufacturer recommendations with respect to installation temperatures for cartridge injection adhesive anchors and capsule anchors.
+2. REPAIR OF DEFECTIVE WORK
+   12. Remove and replace misplaced or malfunctioning anchors. Fill empty anchor holes and patch failed anchor locations with high-strength non-shrink, nonmetallic grout. Anchors that fail to meet proof load or installation torque requirements shall be regarded as malfunctioning.
+1. FIELD QUALITY CONTROL
+   1. Testing: **[10%] [25%]** \_\_\_\_\_\_ of each type and size of drilled-in anchor shall be proof loaded by the independent testing laboratory. Adhesive anchors and capsule anchors shall not be torque tested unless otherwise directed by the Engineer. If **[any] [more than 10%]** \_\_\_\_\_\_ of the tested anchors fail to achieve the specified torque or proof load within the limits as defined on the Drawings, all anchors of the same diameter and type as the failed anchor shall be tested, unless otherwise instructed by the Engineer.
+   2. Tension testing should be performed in accordance with ASTM E488.
+   3. Torque shall be applied with a calibrated torque wrench.
+   4. Proof loads shall be applied with a calibrated hydraulic ram. Displacement of adhesive and capsule anchors at proof load shall not exceed D/10, where D is the nominal anchor diameter.
+   5. Minimum anchor embedments, proof loads and torques shall be as shown on the Drawings.

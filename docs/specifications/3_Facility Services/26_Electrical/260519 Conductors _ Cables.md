@@ -4,17 +4,13 @@ section: '260519'
 divNumb: 26
 divName: Electrical
 subgroup: Facility Services
-tags: ['Facility', 'Services', 'Electrical', 'Conductors', '_', 'Cables']
+tags: ['Facility', 'Services', 'Electrical', 'Conductors', 'Cables']
 ---
-
-
-1. CONDUCTORS AND CABLES
 
 ## General
 
 1. RELATED DOCUMENTS
-   1. Drawings and general provisions of the Contract, including General and Supplementary
-Conditions and Division 01 Specification Sections, apply to this Section.
+   1. Drawings and general provisions of the Contract, including General and Supplementary Conditions and Division 01 Specification Sections, apply to this Section.
 2. SUMMARY
    1. This Section includes the following:
       1. Building wires and cables rated 600 V and less.

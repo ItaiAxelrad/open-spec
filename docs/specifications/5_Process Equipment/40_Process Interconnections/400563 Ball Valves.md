@@ -7,9 +7,6 @@ subgroup: Process Equipment
 tags: ['Process', 'Equipment', 'Interconnections', 'Ball', 'Valves']
 ---
 
-   1. section 40 05 63
-   1. ball valves
-
 ## General
 
 1. SUMMARY

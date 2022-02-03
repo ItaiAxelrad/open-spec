@@ -4,11 +4,8 @@ section: '260526'
 divNumb: 26
 divName: Electrical
 subgroup: Facility Services
-tags: ['Facility', 'Services', 'Electrical', 'Grounding', '_', 'Bonding']
+tags: ['Facility', 'Services', 'Electrical', 'Grounding', 'Bonding']
 ---
-
-
-1. GROUNDING AND BONDING
 
 ## General
 

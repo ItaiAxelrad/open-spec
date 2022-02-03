@@ -98,7 +98,7 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Enclosures', 'Water', 'Utility', 
 2. Bids offered for the boxes and cover designs must be conducive to the various ground areas and conditions and perform satisfactorily under normal usage as stated in this attachment. 
 3. After award, in situations where the boxes and covers do not perform satisfactorily under normal use, the City representative shall notify Contractor of the problem. The Contractor shall modify the design to correct the deficiencies at no cost to the City. 
 4. Prior to any modifications, the Contractor shall provide revised specifications and drawings at no additional costs to the City representative and Purchaser for review and approval. 
-5.  Failure of Contractor to comply with this section of this contract shall constitute a default of this Contract 
+5. Failure of Contractor to comply with this section of this contract shall constitute a default of this Contract 
 1. 2.08 APPROVED MATERIALS
    1. Refer to Approved Materials List in Appendix A.
    1. Note:

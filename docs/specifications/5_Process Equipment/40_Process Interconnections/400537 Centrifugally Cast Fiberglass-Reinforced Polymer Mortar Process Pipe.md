@@ -7,9 +7,6 @@ subgroup: Process Equipment
 tags: ['Process', 'Equipment', 'Interconnections', 'Centrifugally', 'Cast', 'Fiberglass-Reinforced', 'Polymer', 'Mortar', 'Pipe']
 ---
 
-   1. Section 40 05 37
-   1. Centrifugally Cast Fiberglass-Reinforced Polymer Mortar Process Pipe
-
 ## General
 
 

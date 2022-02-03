@@ -7,7 +7,6 @@ subgroup: Facility Services
 tags: ['Facility', 'Services', 'Communications', 'Surface', 'Raceways', 'Systems']
 ---
 
-1. 
 ## General
 
 1. RELATED documents*   1. Drawings and general provisions of the Contract, including General and Supplementary Conditions and Division 1 Specification Sections, apply to this section.

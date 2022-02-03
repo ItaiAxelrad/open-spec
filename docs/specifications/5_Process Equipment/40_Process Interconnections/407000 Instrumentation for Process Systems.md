@@ -7,9 +7,6 @@ subgroup: Process Equipment
 tags: ['Process', 'Equipment', 'Interconnections', 'Instrumentation', 'Systems']
 ---
 
-   1. section 40 70 00
-   1. primary meters and transmitters
-
 ## General
 
 1. SUMMARY

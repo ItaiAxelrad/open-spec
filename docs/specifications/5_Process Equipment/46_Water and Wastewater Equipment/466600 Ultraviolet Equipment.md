@@ -7,9 +7,6 @@ subgroup: Process Equipment
 tags: ['Process', 'Equipment', 'Water', 'Wastewater', 'Ultraviolet']
 ---
 
-   1. Section 46 66 00
-   1. UV System
-
 ## General
 
 1. SUMMARY
@@ -134,6 +131,7 @@ tags: ['Process', 'Equipment', 'Water', 'Wastewater', 'Ultraviolet']
    1. 2Derived from source water quality data provided by MWWSD.
    1. The dose-monitoring strategy shall consist of the Calculated Dose Approach as discussed in the USEPA’s UVDGM.
 ## Product
+
 1. Acceptable Manufacturers
    1. Manufacturers:
 	1. TrojanUV
@@ -238,4 +236,3 @@ tags: ['Process', 'Equipment', 'Water', 'Wastewater', 'Ultraviolet']
    1. Install UV System in accordance with manufacturer specifications and as shown in the Construction Drawings.
 2. The manufacturer shall provide start-up and operator training services on site for the following duration:
 	1. 2-3 days per reactor.
-

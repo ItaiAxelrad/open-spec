@@ -14,7 +14,7 @@ tags: ['Facility', 'Construction', 'Metals', 'Metal', 'Stairs']
       1. 018113 – Sustainable Design Requirements;
    1. 018113A – Appendix A - Materials Anticipated to be Used for Recycled Content; and
    1. 018113B – LEED Matrix for materials requiring contractor validation of recycled content.
-   1. REFERENCES
+1. REFERENCES
    1. American Welding Society (AWS)
    1. D1.1 - Structural Welding Code - Steel.
    1. D1.3 - Structural Welding Code - Sheet Steel.
@@ -45,7 +45,7 @@ tags: ['Facility', 'Construction', 'Metals', 'Metal', 'Stairs']
    1. SSPC-SP 3 - Power Tool Cleaning.
    1. SSPC-SP 6 - Commercial Blast Cleaning.
    1. SSPC-SP 10 - Near-White Blast Cleaning.
-   1. PERFORMANCE REQUIREMENTS
+1. PERFORMANCE REQUIREMENTS
    1. Design pre-engineered, prefabricated stairs, and landings to resist the following loads:
       1. Uniform load:
          1. 100 pounds per square foot of horizontal projection.
@@ -82,12 +82,12 @@ tags: ['Facility', 'Construction', 'Metals', 'Metal', 'Stairs']
 
 ## Products
 
-   1. MANUFACTURERS
+1. MANUFACTURERS
    1. Provide products of one of the following manufacturers, or as approved
    1. American Stair Corporation.
    1. Metal Service Company, Inc.
    1. The Sharon Companies Ltd.
-   1. MATERIALS - METALS
+1. MATERIALS - METALS
    1. Steel Shapes:
       1. Plates, bars, angles, channels, and H-sections:
          1. ASTM A36.
@@ -110,7 +110,7 @@ tags: ['Facility', 'Construction', 'Metals', 'Metal', 'Stairs']
       1. physical quality.
    1. For nonstructural uses:
       1. commercial quality.
-   1. MANUFACTURED COMPONENTS
+1. MANUFACTURED COMPONENTS
    1. Rolled Floor Plate:
       1. Complying with ASTM A786.
    1. Hot-rolled, raised-pattern steel plate complying with ASTM A36, copper-bearing.
@@ -144,7 +144,7 @@ tags: ['Facility', 'Construction', 'Metals', 'Metal', 'Stairs']
       1. As recommended by manufacturer and as indicated.
    1. Units over 5 inches wide:
       1. Two rows of anchors, two at each end, intermediate anchors staggered.
-   1. MATERIALS - MISCELLANEOUS
+1. MATERIALS - MISCELLANEOUS
    1. Nonshrink Grout
    1. A factory premixed and packaged non-metallic compound complying with and ASTM C1107, Grade C, at all flow levels, and one of the following, or as approved:
       1. Dayton Superior Corp. "Sure-Grip High Performance Grout"
@@ -165,7 +165,7 @@ tags: ['Facility', 'Construction', 'Metals', 'Metal', 'Stairs']
       1. Zinc dust paint complying with SSPC-Paint 20, Type II, or DOD P-21035.
    1. Primer for Iron and Steel shop coat and field touch-up:
       1. Tnemec Co. "Tnemec Primer 10-99 Red"; ICI “Devguard Multi-Purpose Metal Primer"; Valspar Corp. "Lead Free Red 13-F-78".
-   1. FABRICATION
+1. FABRICATION
    1. Provide pre-engineered, prefabricated steel stairs, ships ladders and landings; construct as indicated; provide all components necessary for both support and anchorage and to provide a complete installation.
    1. Fabricate using welded joints unless otherwise indicated.
    1. Member sizes indicated are minimum; provide sizes required.
@@ -217,7 +217,7 @@ tags: ['Facility', 'Construction', 'Metals', 'Metal', 'Stairs']
    1. Provide integral nosing on leading edge of treads and platforms.
    1. Provide integral back edge stiffener on treads.
    1. Attach treads to stringers using brackets welded to treads and stringers.
-   1. FABRICATION - RAILINGS
+1. FABRICATION - RAILINGS
    1. Railings - General:
       1. Construct as indicated.
    1. Preassemble in shop to maximum extent practicable.
@@ -259,7 +259,7 @@ tags: ['Facility', 'Construction', 'Metals', 'Metal', 'Stairs']
       1. Use prefabricated radius bends, or form by bending pipe.
    1. Exposed ends of pipe:
       1. Close with prefabricated fittings or with 3/16-inch-thick plate fully welded.
-   1. FABRICATION - SHOP COATINGS
+1. FABRICATION - SHOP COATINGS
    1. Galvanizing for Members Other than Sheet:
       1. Hot-dip galvanize after fabrication.
    1. Shop-prime all iron and steel that is not galvanized.
@@ -287,10 +287,8 @@ tags: ['Facility', 'Construction', 'Metals', 'Metal', 'Stairs']
    1. Set items accurately in location, alignment, and elevation; level, true, and free of rack, measured from established lines and levels.
    1. Provide temporary bracing as required.
    1. Install manufactured components in accordance with manufacturer's instructions.
-   1. CLEANING AND TOUCH-UP
+1. CLEANING AND TOUCH-UP
    1. Touch up damage to galvanized surfaces using galvanizing repair paint in accordance with ASTM A 780.
    1. Touch up shop paint immediately after erection.
    1. Clean field welds, bolted connections, and abraded surfaces.
    1. Paint with same material used for shop painting, minimum 2 mils dry film thickness.
-
-

@@ -7,29 +7,26 @@ subgroup: Process Equipment
 tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Storage', 'Submersible', 'Pumps']
 ---
 
-
-   1. Submersible/Immersible Liquid Pumps
-
 ## General
 
 1. RELATED DOCUMENTS
    1. Drawings, General and Special Provisions of the Contract, and Division 01 Specification Sections apply to this Section.
 2. SUMMARY
    1. This Section includes submersible pumps and accessories including control panels for wastewater systems as follows:
-      1.  Eight (8) influent pumps at Influent Pumping Station, four (4) of which shall include mix-flush valves attached to the volute.
+      1. Eight (8) influent pumps at Influent Pumping Station, four (4) of which shall include mix-flush valves attached to the volute.
 2. Two (2) sump pumps at Sludge Pumping Station
 3. Two (2) sump pumps at Service Water Pumping Station
 4. Two (2) submersible level elements with transmitters
 5. Two (2) sets of four float-type level switches.
    1. Related Sections include the following:
-      1.  Section 409423 – Supervisory Control System
+      1. Section 409423 – Supervisory Control System
 2. Section 409443 – Programmable Logic Controllers
 3. Section 409513 – Control Panels
 3. SYSTEM DESCRIPTION
    1. Pumps specified in this Section shall meet the performance requirements outlined in Paragraph 3.5 - Pump Schedule.
 4. SUBMITTALS
    1. Submit the following in accordance with the Provisions of the Contract and Division 1 Specification Systems:
-      1.  A copy of this specification section, with addendum updates included, and all referenced and applicable sections, with addendum updates included, with each paragraph check- marked to indicate specification compliance or marked to indicate requested deviations from specification requirements. If deviations from the specifications are indicated and, therefore requested by the Contractor the submittal shall be accompanied by a detailed, written justification for each deviation. Failure to include a copy of the marked-up specification sections, along with justification for any requested deviations to the specification requirements, with the submittal shall be cause for rejection of the entire submittal with no further consideration.
+      1. A copy of this specification section, with addendum updates included, and all referenced and applicable sections, with addendum updates included, with each paragraph check- marked to indicate specification compliance or marked to indicate requested deviations from specification requirements. If deviations from the specifications are indicated and, therefore requested by the Contractor the submittal shall be accompanied by a detailed, written justification for each deviation. Failure to include a copy of the marked-up specification sections, along with justification for any requested deviations to the specification requirements, with the submittal shall be cause for rejection of the entire submittal with no further consideration.
 2. Manufacturer’s product data
 3. Certified pump curves
 4. Shop Drawings

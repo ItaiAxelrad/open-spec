@@ -242,7 +242,7 @@ tags: ['Facility', 'Construction', 'Concrete', 'Grouting']
 202. Cement Grout
 203. One part portland cement (ASTM C150, Type I) to 2 1/2 parts clean, natural sand (ASTM C404), mixed with minimum amount of water for hydration and placement.
 204. Receivers for Flashing
-1.  mm (28 gage), formed stainless steel extrusions.
+1. mm (28 gage), formed stainless steel extrusions.
 205. Insulation
 206. Rigid insulation:
    1. Dow Chemical Co. "Styrofoam".
@@ -363,7 +363,7 @@ tags: ['Facility', 'Construction', 'Concrete', 'Grouting']
 301. Examine substrate and conditions for compliance with the requirements for installation tolerances, true and level bearing surfaces, inserts and anchors in supporting Work and other conditions affecting performance. Do not proceed with Work until unsatisfactory conditions are corrected.
 302. Do not install precast concrete units until supporting concrete work has attained minimum design compressive strength.
 303. installation
-      1.   General
+      1.  General
 
 304. Provide temporary supports and bracing required to maintain position, stability, and alignment as units are being permanently connected.
 305. Follow all Federal, state, and local regulations during precast erection.

@@ -70,7 +70,7 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
 	1. Installation, General
    1. Install expansion joints and expansion loops where indicated and required for adequate expansion of installed piping system. Support piping system with hangers and support structures. Do not allow piping system weight on the expansion joint. Remove any temporary spacers or block before placing system into service.
 	2. Expansion Joints
-   1. Install expansion joints in accordance with manufacturer's instructions.   2. Align joints to avoid end loading and torsional stress.
+   1. Install expansion joints in accordance with manufacturer's instructions.  2. Align joints to avoid end loading and torsional stress.
 
 	3. Expansion Compensation for Risers and Terminals
    1. Install connection between piping mains and risers with at least five pipefittings including tee in main. Install connections between piping risers and terminal unitswith at least four pipefittings including tee in riser.

@@ -21,16 +21,16 @@ tags: ['Facility', 'Construction', 'Equipment', 'Playground']
 	1. All public playground equipment supplied shall meet all applicable provisions of the following:
 		1. "Handbook for Public Playground Safety" published by the Consumer
 		2. Product Safety Commission (CPSC)
-			1.  ASTM F1487-01"Standard Consumer Safety Performance Specification for Playground Equipment for Public Use," published by the American Society for Testing and Materials (ASTM).
-			2.  ASTM F1292, Standard Specification for Impact Attenuation of Surface
+			1. ASTM F1487-01"Standard Consumer Safety Performance Specification for Playground Equipment for Public Use," published by the American Society for Testing and Materials (ASTM).
+			2. ASTM F1292, Standard Specification for Impact Attenuation of Surface
 		3. Systems Under and Around Playground Equipment.
-			1.  ASTM F2223, Standard Guide for ASTM Standards on Playground
+			1. ASTM F2223, Standard Guide for ASTM Standards on Playground
 		4. Surfacing.
-			1.  ASTM F2479, Standard Guide for Specification, Purchase, Installation and
+			1. ASTM F2479, Standard Guide for Specification, Purchase, Installation and
 		5. Maintenance of Poured-In-Place Playground Surfacing.
-			1.  ASTM F1951, Standard Specification for Determination of Accessibility of
+			1. ASTM F1951, Standard Specification for Determination of Accessibility of
 		6. Surface Systems Under and Around Playground Equipment.
-			1.  ASTM F2049, Standard Guide for Fences/Barriers for Public, Commercial, and Multi-Family Residential Use Outdoor Play Areas.
+			1. ASTM F2049, Standard Guide for Fences/Barriers for Public, Commercial, and Multi-Family Residential Use Outdoor Play Areas.
 			2. Americans With Disabilities Act
 4. Quality Certification:
       1. 

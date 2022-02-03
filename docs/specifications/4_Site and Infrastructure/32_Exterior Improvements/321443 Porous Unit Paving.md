@@ -517,7 +517,7 @@ Section 1.05.C.
    1. PROTECTION OF PAVEMENT
    1. Pavement surface shall be kept clean and free of clogging debris and soils from the Contractor’s operations and all upstream and adjacent debris. If debris or soils contaminate the pavers/joints, the pavement shall be cleaned at the Contractor’s expense and to the satisfaction of the Engineer. If pavement cannot be unclogged, it shall be removed and replaced at the Contractor’s expense and to the satisfaction of the Engineer.
    1. Paver installation (Sub) Contractor shall return to the site after 6 months from the completion of the Work and provide the following as needed to fully meet the specifications described herein:
-      1. fill paver joints with stones, replace broken or cracked pavers, and re-level settled pavers to initial elevations.  **Any additional work shall be considered part of the original bid price and with no additional compensation.
+      1. fill paver joints with stones, replace broken or cracked pavers, and re-level settled pavers to initial elevations. **Any additional work shall be considered part of the original bid price and with no additional compensation.
 05.
    1. REJECTION
    1. Pavers that do not meet the acceptance criteria set forth in Section 1.05.C will be rejected by the Engineer on a lot by lot basis. Permeable/porous unit pavers that have been rejected by the Engineer or the Contractor shall be removed and replaced at no additional cost to the Owner.

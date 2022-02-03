@@ -7,9 +7,6 @@ subgroup: Process Equipment
 tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Storage', 'Controlled', 'Volume', 'Vertical', 'Reciprocating', 'Pumps']
 ---
 
-   1. Section 43 23 79
-   1. Controlled Volume Vertical Reciprocating Pumps
-
 ## General
 
 1. SUMMARY

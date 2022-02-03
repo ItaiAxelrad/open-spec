@@ -7,9 +7,6 @@ subgroup: Process Equipment
 tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Storage', 'Submersible', 'Turbine', 'Pumps']
 ---
 
-   1. Section 43 25 10
-   1. submersible turbine Pumps
-
 ## General
 
 1. SUMMARY

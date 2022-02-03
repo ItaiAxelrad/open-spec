@@ -7,10 +7,6 @@ subgroup: Process Equipment
 tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Storage', 'Vertical', 'Turbine', 'Pumps']
 ---
 
-   1. Section 43 26 40
-   1. Pumping Equipment:
-      1. VERTICLE TURBINE Pumps
-
 ## General
 
 1. SUMMARY

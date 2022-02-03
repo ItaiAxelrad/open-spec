@@ -22,19 +22,14 @@ tags: ['Facility', 'Construction', 'Concrete', 'Waterstops']
 
 ## Execution
 
-### General
-
-1. Waterstops are required at all formed joints in concrete walls and slabs which separate water filled tanks from the earth or groundwater. Waterstops shall also be placed in horizontal and vertical joints in tank walls and in other joints as shown on the drawings.
-2. Unless otherwise shown or specified, all waterstops shall be fully continuous for the extent of the joint. Waterstops shall be joined by splicing at all intersections so that continuous seal is provided against passage of water.
-3. Suitable precautions shall be taken to shade and protect the exposed waterstop from direct rays of the sun during the entire exposure and until the exposed portion of the waterstop is embedded in concrete.
-4. The Contractor shall take suitable precautions to support and protect the waterstops during the progress of the work and shall repair or replace any waterstops damaged during the progress of the work at no additional cost to the Owner.
-
-1. WATERSTOP INSTALLATION
+1. General
+   1. Waterstops are required at all formed joints in concrete walls and slabs which separate water filled tanks from the earth or groundwater. Waterstops shall also be placed in horizontal and vertical joints in tank walls and in other joints as shown on the drawings.
+   2. Unless otherwise shown or specified, all waterstops shall be fully continuous for the extent of the joint. Waterstops shall be joined by splicing at all intersections so that continuous seal is provided against passage of water.
+   3. Suitable precautions shall be taken to shade and protect the exposed waterstop from direct rays of the sun during the entire exposure and until the exposed portion of the waterstop is embedded in concrete.
+   4. The Contractor shall take suitable precautions to support and protect the waterstops during the progress of the work and shall repair or replace any waterstops damaged during the progress of the work at no additional cost to the Owner.
+2. WATERSTOP INSTALLATION
    1. Waterstops shall be installed as specified herein and in accordance with manufacturers recommendations.
-   1. The installation of waterstops and the method used to hold the waterstop in proper position during and after placement of concrete shall be acceptable to the Engineer before concrete placement is begun.
-
-1. SPECIAL PROVISIONS
-   
-2. MEASUREMENT AND PAYMENT
+   2. The installation of waterstops and the method used to hold the waterstop in proper position during and after placement of concrete shall be acceptable to the Engineer before concrete placement is begun.
+3. SPECIAL PROVISIONS
+4. MEASUREMENT AND PAYMENT
     1. When not listed in the Proposal, all "WATERSTOPS" costs will be considered incidental work for which no separate payment will be made.
-

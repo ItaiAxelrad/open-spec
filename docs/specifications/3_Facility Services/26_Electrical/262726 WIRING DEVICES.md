@@ -7,9 +7,6 @@ subgroup: Facility Services
 tags: ['Facility', 'Services', 'Electrical', 'WIRING', 'DEVICES']
 ---
 
-
-1. WIRING DEVICES
-
 ## General
 
 01. RELATED DOCUMENTS

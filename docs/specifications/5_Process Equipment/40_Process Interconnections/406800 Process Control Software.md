@@ -6,10 +6,6 @@ divName: Process Interconnections
 subgroup: Process Equipment
 tags: ['Process', 'Equipment', 'Interconnections', 'Control', 'Software']
 ---
-
-   1. Section 40 68 00
-   1. Process Control Software
-
 ## General
 
 1. SUMMARY

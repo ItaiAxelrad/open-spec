@@ -62,7 +62,7 @@ tags: ['Facility', 'Construction', 'Wood', 'Plastics', 'Composites', 'Rough', 'C
 10. Delivery, storage, handling and disposal of treated wood products: AWPA M4.
 ## Product
 
-1. 2.1 Materials
+1. Materials
 	1. Lumber (for framing, blocking, nailers, furring, grounds and similar members):
 		1. NIST PS-20.
 		2. Species:
@@ -83,12 +83,11 @@ tags: ['Facility', 'Construction', 'Wood', 'Plastics', 'Composites', 'Rough', 'C
 
 ## Execution
 
-1. 3.1 Preparation
+1. Preparation
    1. Verify measurements, dimensions, and shop drawing details before proceeding.
 2. Coordinate location of studs, nailers, blocking, grounds and similar supports for attached work.
 3. Eliminate sharp projections which would puncture roofing, flashing or underlayment material.
-1. 3.2 Erection and Installation
-General:
+1. Erection and Installation, General:
 	1. Provide preservative treated material for all wood used outside the building or below grade.
 2. Attach work securely by anchoring and fastening as required to support applied loading. 
 	1. Provide stainless steel anchors, bolts, and nuts, unless otherwise noted.

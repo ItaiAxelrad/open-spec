@@ -5,11 +5,7 @@ divNumb: 46
 divName: Water and Wastewater Equipment
 subgroup: Process Equipment
 tags: ['Process', 'Equipment', 'Water', 'Wastewater', 'Rotary', 'Drum', 'Screens']
----
-
-
-1. ROTARY DRUM SCREENS
-1. 
+--- 
 ## General
 
 1. SUMMARY

@@ -13,7 +13,7 @@ tags: ['General', 'Requirements', 'Temporary', 'Tree', 'Plant', 'Protection']
    1. Cost:
        1. Include in prices offered in the schedule for other items of work, except as specified.
 1. Costs for repair or treatment of injured vegetation and replacement of trees or shrubs are the Contractor's responsibility.
-2.  SUBMITTALS
+2. SUBMITTALS
    1. Submit the following in accordance with Section 01330 – Submittals.
    2. Removal Requests:
       1. Requests to remove vegetation not specifically required to be removed.

@@ -18,11 +18,11 @@ tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Sto
 	5. discharge head and driver:
 		1. The discharge head shall be designed to carry the entire weight of the bowl and column assembly along with the specified driver without excessive vibration or noise.
 
-   1.  All of the supplied equipment shall conform to this specification.
+   1. All of the supplied equipment shall conform to this specification.
 1. QUALITY ASSURANCES
 2. Warranty
     1. The manufacturer shall warrant their pumps to be free of defects for a period of one year after the product is put into operation or eighteen months from the shipment date, whichever occurs first.
-   1.  Certifications
+   1. Certifications
 2. The pump manufacturer shall be certified to the ISO 9001 standard for design and manufacture of vertical turbine pumps.
 3. The manufacturer shall be capable of producing vertical turbine pumps certified to NSF/ANSI 61 & 372.
 4. Pressure containing fabrications shall be welded only by those whom are qualified on ASME code section IX. Welder certification shall be provided with the submittal package.
@@ -33,7 +33,7 @@ tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Sto
     1. All vertical turbine pumps shall conform to ANSI/AWWA E101-88 and to the most current edition of Hydraulic Institute Standards
 
 	1. SUBMITTALS
-   1.  With the proposal, the contractor shall submit complete fabrication and assembly drawings together with detailed specifications covering materials, parts, devices, and accessories. The data and specifications for each pumping unit shall include, but not be limited to the following:
+   1. With the proposal, the contractor shall submit complete fabrication and assembly drawings together with detailed specifications covering materials, parts, devices, and accessories. The data and specifications for each pumping unit shall include, but not be limited to the following:
     1. 
    1. Name of Manufacturer
 2. Type and Model

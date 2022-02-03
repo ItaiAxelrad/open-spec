@@ -78,7 +78,7 @@ tags: ['General', 'Requirements', 'Price', 'Payment', 'Procedures']
 5. Bid Item Nos. 2, 3 and 4:
       1. Bid Alternate No. 1 through Bid Alternate No. 3
 	1. Bid alternate lump sum deduct includes deleting all Work required to complete the project elements in conformance with the Contract Documents. Lump sum deduct to include all associated civil, architectural, structural, electrical, mechanical and controls portions of the Work to be completed per the Drawings and Specifications, and associated general conditions, overhead and profit.
-6.  Add or Deduct Alternate
+6. Add or Deduct Alternate
 	1. Base Bid price to be adjusted accordingly for Owner-selected Major Equipment Suppliers. Costs for bid alternates or substitutions to include associated general conditions, overhead and profit.
 	2. Contract amount to be adjusted based on add or deduct alternate lump sum price.
 	3. Payment will be made on a lump sum price basis relative to percent complete for each bid alternate.

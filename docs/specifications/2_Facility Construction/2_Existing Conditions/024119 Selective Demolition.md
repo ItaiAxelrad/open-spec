@@ -48,31 +48,31 @@ tags: ['Facility', 'Construction', 'Existing', 'Conditions', 'Selective', 'Demol
 
 ## PRODUCTS
 
-15. MATERIALS
-    1. Owner will identify salvageable items. As the salvaged items are removed, they will be transported to a location determined by the Owner.
-    2. All other items removed shall be transported out of the construction area in a timely manner.
+1. MATERIALS
+   1. Owner will identify salvageable items. As the salvaged items are removed, they will be transported to a location determined by the Owner.
+   2. All other items removed shall be transported out of the construction area in a timely manner.
 
 ## EXECUTION
 
 1. EXAMINATION
-    1. Owner will identify any known hazardous material involved in the demolition.
-    2. Contractor shall notify the Owner's Representative before proceeding further if materials are encountered that is suspected of being hazardous. A hazardous materials survey will be performed by Owner after notification by Contractor.
+   1. Owner will identify any known hazardous material involved in the demolition.
+   2. Contractor shall notify the Owner's Representative before proceeding further if materials are encountered that is suspected of being hazardous. A hazardous materials survey will be performed by Owner after notification by Contractor.
 2. PREPARATION
-    1. Provide interior and exterior shoring, bracing, or support.
-    2. Cover and protect furniture, equipment and fixtures.
-    3. Erect and maintain dust-proof and weatherproof partitions and closures as required.
-    4. Locate, identify, stub-off and disconnect utility services that are indicated to be removed.
+   1. Provide interior and exterior shoring, bracing, or support.
+   2. Cover and protect furniture, equipment and fixtures.
+   3. Erect and maintain dust-proof and weatherproof partitions and closures as required.
+   4. Locate, identify, stub-off and disconnect utility services that are indicated to be removed.
 3. ERECTION INSTALLATION APPLICATION
-    1. Demolition
-        1. Perform demolition work in a systematic manner.Demolish concrete and masonry in small sections. Cut concrete and masonry using power-driven masonry saw or hand tools. Do not use power-driven impact tools inside buildings.
-        2. Locate demolition equipment throughout structure to avoid imposing excessive loads on supporting walls, floors or framing.
-        3. Do not cut or alter any structural member without authorization of Owner and/or Architect.
-    2. Buried Tanks
-        1. Buried tanks that are to be removed shall be pumped out. Comply with EPA and State of Colorado requirements regarding equipment and disposal of tank contents.
-        2. Per Owner direction underground tanks will be filled with clean sand or lean concrete or will be removed.
-    3. Disposal
-        1. Remove debris, rubbish and other materials resulting from demolition operations from building site and off Owner's property.
-        2. Owner dumpsters shall not be used for disposal of demolished materials.
-        3. Transporting and disposal of materials off site shall be done in a legal manner.
-        4. Burning of removed materials will not be permitted on the site.
-        5. Hazardous or otherwise regulated waste materials will be disposed of in compliance with all applicable local, state and federal regulations, and must be coordinated with Owner.
+   1. Demolition
+     1. Perform demolition work in a systematic manner.Demolish concrete and masonry in small sections. Cut concrete and masonry using power-driven masonry saw or hand tools. Do not use power-driven impact tools inside buildings.
+     2. Locate demolition equipment throughout structure to avoid imposing excessive loads on supporting walls, floors or framing.
+     3. Do not cut or alter any structural member without authorization of Owner and/or Architect.
+   2. Buried Tanks
+     4. Buried tanks that are to be removed shall be pumped out. Comply with EPA and State of Colorado requirements regarding equipment and disposal of tank contents.
+     5. Per Owner direction underground tanks will be filled with clean sand or lean concrete or will be removed.
+   3. Disposal
+     6. Remove debris, rubbish and other materials resulting from demolition operations from building site and off Owner's property.
+     7. Owner dumpsters shall not be used for disposal of demolished materials.
+     8. Transporting and disposal of materials off site shall be done in a legal manner.
+     9. Burning of removed materials will not be permitted on the site.
+     10. Hazardous or otherwise regulated waste materials will be disposed of in compliance with all applicable local, state and federal regulations, and must be coordinated with Owner.

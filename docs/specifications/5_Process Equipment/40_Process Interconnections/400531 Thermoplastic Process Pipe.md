@@ -7,9 +7,6 @@ subgroup: Process Equipment
 tags: ['Process', 'Equipment', 'Interconnections', 'Thermoplastic', 'Pipe']
 ---
 
-   1. section 40 05 31
-   1. Thermoplastic Process Pipe
-
 ## General
 
 1. SUMMARY
@@ -58,7 +55,7 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Thermoplastic', 'Pipe']
    1. part 3 – execuction
 1. 3.1 Installation
    1. Installation:
-	1.  Field threading PVC will not be permitted.
+	1. Field threading PVC will not be permitted.
 		1. Perform required threaded connections or attachments by the use of factory molded socket by threaded adapters.
 		2. Female adapters are not acceptable.
 	2. Employ installation and pipe support practices and solvent welding all in compliance to the manufacturer's printed recommendation.

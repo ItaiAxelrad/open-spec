@@ -7,9 +7,6 @@ subgroup: Process Equipment
 tags: ['Process', 'Equipment', 'Interconnections', 'Hydraulic', 'Gates']
 ---
 
-
-   1. HYDRAULIC GATES
-
 ## General
 
 1. SUMMARY
@@ -29,7 +26,7 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Hydraulic', 'Gates']
 	1. SUBMITTALS
 	1. General:
       1. Submit the following in accordance with Provisions of Contract and Division 1 Specification Sections:
-      1.  A copy of this specification section, with addendum updates included, and all referenced and applicable sections, with addendum updates included, with each paragraph check- marked to indicate specification compliance or marked to indicate requested deviations from specification requirements. If deviations from the specifications are indicated and, therefore requested by the Contractor the submittal shall be accompanied by a detailed, written justification for each deviation. Failure to include a copy of the marked-up specification sections, along with justification for any requested deviations to the specification requirements, with the submittal shall be cause for rejection of the entire submittal with no further consideration.
+      1. A copy of this specification section, with addendum updates included, and all referenced and applicable sections, with addendum updates included, with each paragraph check- marked to indicate specification compliance or marked to indicate requested deviations from specification requirements. If deviations from the specifications are indicated and, therefore requested by the Contractor the submittal shall be accompanied by a detailed, written justification for each deviation. Failure to include a copy of the marked-up specification sections, along with justification for any requested deviations to the specification requirements, with the submittal shall be cause for rejection of the entire submittal with no further consideration.
 2. Manufacturer’s Product Data
 3. Certification of AWWA C501 compliance.
 4. Shop Drawings

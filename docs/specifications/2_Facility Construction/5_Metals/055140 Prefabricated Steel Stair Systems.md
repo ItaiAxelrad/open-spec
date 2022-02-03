@@ -31,25 +31,25 @@ tags: ['Facility', 'Construction', 'Metals', 'Prefabricated', 'Steel', 'Stair', 
 7. ANSI A117.1 - Accessible and Usable Buildings and Facilities
 8. ASCE 7 - Minimum Design Loads for Buildings and Other Structures
 9. ATM International (ASTM):
-		1. ASTM A6/A6M - Standard Specification for General Requirements for Rolled Structural Steel Bars, Plates, Shapes and Sheet Piling.
-			1. ASTM A36/A36M - Standard Specification for Carbon Structural Steel.
-			2. ASTM A53/A53M - Standard Specification for Pipe, Steel, Black and Hot-Dipped, Zinc-Coated, Welded and Seamless.
-			3. ASTM A153/A153M - Standard Specification for Pipe, Steel, Black and Hot-Dipped, Zinc-Coated, Welded and Seamless.
-			4. ASTM A307 - Standard Specification for Common Steel Bolts.
-			5. ASTM A325/A325M - Standard Specification for Structural Bolts, Steel, Heat Treated.
-			6. ASTM A500/A500M - Standard Specification for Cold-Formed Welded and Seamless Carbon Steel Structural Tubing in Rounds and Shapes.
-			7. ASTM A501 - Standard Specification for Hot-Formed Welded and Seamless Carbon Steel Structural Tubing.
-			8. ASTM A513 - Standard Specification for Electric-Resistance-Welded Carbon and Alloy Steel Mechanical Tubing.
-			9.  ASTM A653/A653M - Standard Specification for Steel Sheet, Zinc-Coated (Galvanized) or Zinc-Iron Alloy Coated (Galvannealed) by the Hot-Dip Process.
-			10. ASTM A786 Standard Specification for Hot-Rolled Carbon, Low-Alloy, High-Strength Low-Alloy and Alloy Steel Floor Plates.
-			11. ASTM A1008 Standard Specification for Steel, Sheet, Cold-Rolled, Carbon, Structural, High-Strength Low-Alloy, High-Strength Low-Alloy with Improved Formability, Solution Hardened and Bake harden able.
-			12. ASTM A1011/A1011M - Standard Specification for Steel, Sheet and Strip, Hot Rolled, Carbon Structural, High-Strength Low Alloy, High-Strength Low-Alloy with Improved Formability, and Ultra-High Strength.
-			13. ASTM A1044/A1044M - Standard Specification for Steel Stud Assemblies for Shear Reinforcement of Concrete.
-			14. ASTM E985 - Standard Specification for Permanent Metal Railing Systems and Rails for Buildings
+   1. ASTM A6/A6M - Standard Specification for General Requirements for Rolled Structural Steel Bars, Plates, Shapes and Sheet Piling.
+   2. ASTM A36/A36M - Standard Specification for Carbon Structural Steel.
+   3. ASTM A53/A53M - Standard Specification for Pipe, Steel, Black and Hot-Dipped, Zinc-Coated, Welded and Seamless.
+   4. ASTM A153/A153M - Standard Specification for Pipe, Steel, Black and Hot-Dipped, Zinc-Coated, Welded and Seamless.
+   5. ASTM A307 - Standard Specification for Common Steel Bolts.
+   6. ASTM A325/A325M - Standard Specification for Structural Bolts, Steel, Heat Treated.
+   7. ASTM A500/A500M - Standard Specification for Cold-Formed Welded and Seamless Carbon Steel Structural Tubing in Rounds and Shapes.
+   8. ASTM A501 - Standard Specification for Hot-Formed Welded and Seamless Carbon Steel Structural Tubing.
+   9. ASTM A513 - Standard Specification for Electric-Resistance-Welded Carbon and Alloy Steel Mechanical Tubing.
+   10. ASTM A653/A653M - Standard Specification for Steel Sheet, Zinc-Coated (Galvanized) or Zinc-Iron Alloy Coated (Galvannealed) by the Hot-Dip Process.
+   11. ASTM A786 Standard Specification for Hot-Rolled Carbon, Low-Alloy, High-Strength Low-Alloy and Alloy Steel Floor Plates.
+   12. ASTM A1008 Standard Specification for Steel, Sheet, Cold-Rolled, Carbon, Structural, High-Strength Low-Alloy, High-Strength Low-Alloy with Improved Formability, Solution Hardened and Bake harden able.
+   13. ASTM A1011/A1011M - Standard Specification for Steel, Sheet and Strip, Hot Rolled, Carbon Structural, High-Strength Low Alloy, High-Strength Low-Alloy with Improved Formability, and Ultra-High Strength.
+   14. ASTM A1044/A1044M - Standard Specification for Steel Stud Assemblies for Shear Reinforcement of Concrete.
+   15. ASTM E985 - Standard Specification for Permanent Metal Railing Systems and Rails for Buildings
 10. American Welding Society (AWS):
-		2. AWS A2.4 - Standard Welding Symbols for Welding, Brazing, and Nondestructive Examination
-			1. AWS D1.1/D 1.1M - Structural Welding Code – Steel
-			2. AWS D1.3 - Structural Welding Code - Sheet Steel
+    1. AWS A2.4 - Standard Welding Symbols for Welding, Brazing, and Nondestructive Examination
+    2. AWS D1.1/D 1.1M - Structural Welding Code – Steel
+    3. AWS D1.3 - Structural Welding Code - Sheet Steel
 11. Federal Specification RR-G-1602D - Grating, Metal, Other than Bar Type (Floor, Except for Naval Vessels)
 12. ICC International Building Code: Chapter 10: Means of Egress
 13. International Code Council - International Building Code (IBC)
@@ -113,9 +113,10 @@ tags: ['Facility', 'Construction', 'Metals', 'Prefabricated', 'Steel', 'Stair', 
 			3. Fold metal and plastic banding; flatten and place in designated area for recycling.
 26. Project Site Conditions:
 	18. Field Measurements: Field verify floor to floor and horizontal dimensions of spaces where stairs will be installed prior to fabrication of stairs under this section.
-27. *PART 2*** – ***PRODUCTS*
 
-	19. Acceptable Manufacturers
+## PRODUCTS
+
+1. Acceptable Manufacturers
    1. Subject to compliance with the Contract Documents, the following manufacturer are acceptable:
 	20. Pacific Stair Corporation
 	21. American Stair Corporation.
@@ -130,25 +131,20 @@ tags: ['Facility', 'Construction', 'Metals', 'Prefabricated', 'Steel', 'Stair', 
 			2. Stringers:
       1. Steel plate or channel with side mounted and/or top mounted railing frame attachment as detailed on drawings and/or in accordance with manufactures system recommendations.
    3. Minimum thickness or weight as determined by structural design calculations, structural grade steel plate or channel.
-
 		2. Risers:
       1. Closed riser, minimum 14 gage (1.9mm) hot rolled mild steel sheet, sloped maximum 1-1/2 inches (38.1mm) and conforming to Americans with Disabilities Act (ADA) nosing requirements.
-
 		3. Treads:
       1. Manufacturer's standard tread system, 14 gage (1.9mm) minimum hot rolled mild steel sheet or as determined by structural design calculations. 
    1. All welds on the underside of tread assemblies to be exposed for proper inspection during the service life and/or after seismic, fire, flood, or potentially damaging event. 
    2. Provide treads as indicated and noted on drawings for each stair scheduled.
-
 		4. Landings:
       1. A combination of structural plate, channel and angles for the frame with 1-1/2 inches B-36 Composite Floor Decking x 20 gage and 10 gage (minimum) bent sheet lateral pour stops. 
    1. Decking to be attached to frame by plug welding or other mechanical means provided recommended and engineered by the stair manufacturer.
    2. Flight and landing assemblies fabricated by the stair manufacturer shall be connected by splined "Twist-Off" tension control bolts, grade to be A325 & A490 as engineered and specified by the stair manufacturer.
    3. All pre-tensioning methods are to be conformant to the AISC Steel Construction Manual, Chapter 16; Section #3 Bolted Parts. Subsection 3.2.1 "pre-tensioned joints and related sections noted thereafter".
-
 			4. Additional Fastener and Supports: 
 			5. Sized by the manufacturer to meet structural design criteria. If hanger rod connections are applicable to any of the landing connections, they shall be threaded rod type, size and grade as determined by stair manufacturer's structural design calculations.
 29. NOTE TO SPECIFIER ** Delete if not required.
-
 			6. Railings: 
 			7. Design style as shown on drawings for each stair, selected from manufacturer's standard pre-fabricated, pre-engineered rail styles.
 			8. Stringer Rail Mounting:
@@ -162,13 +158,11 @@ tags: ['Facility', 'Construction', 'Metals', 'Prefabricated', 'Steel', 'Stair', 
          1. To ASTM A500, Grade B or C.
    15. Non-Structural Use:
       2. To ASTM A513, hot rolled or coiled rolled (mill option).
-
 		5. Steel Sheet:
       1. Structural Use:
          1. To ASTM A1011 (hot rolled), Checker Plate ASTM A786.
    1. Non-Structural Use:
       1. To ASTM A786, ASTM A1008.
-
 		6. Fasteners: As recommended by manufacturer.
 			1. Welding Rods: In accordance with AWS code and AWS filler metal specifications.
 			2. Fabrication:
@@ -178,10 +172,8 @@ tags: ['Facility', 'Construction', 'Metals', 'Prefabricated', 'Steel', 'Stair', 
 			6. Finishes:
 			7. Rails, flights, landings and other stair components:
       1. Remove oil, grease, dirt, mill scale, rust, corrosion products, oxides, paint or other foreign matter from steel surface in accordance with SSPC-SP2 and/or SSPC-SP3.
-
 		7. Shop Primer:
       1. Immediately after fabrication and cleaning, spray apply primer to dry film thickness recommended by the primer manufacturer, but not less than 2.0 mil thickness. Apply one coat High Solids Red Oxide Anticorrosive Primer meeting SSPC-15 Paint.
-
 		8. Post Delivery:
       1. Primer coating offers minimal protection against rust and corrosion during transport and while stored at project site. Proper handling and care before during and after installation shall be taken to maintain effectiveness of primer coating prior to receiving final coats of finish paint.
    1. Stair assemblies shall include the following; metal framing, hangers, struts, railings, clips, brackets, bearing plates and other components necessary to support and anchor stairs and platforms to the supporting structure.
@@ -207,14 +199,12 @@ tags: ['Facility', 'Construction', 'Metals', 'Prefabricated', 'Steel', 'Stair', 
 32. NOTE TO SPECIFIER ** Delete if not required.
 33. NOTE TO SPECIFIER ** Delete if not required.
 34. NOTE TO SPECIFIER ** Delete if not required.
-
 	27. Wall Rails
 		1. Wall Rail: 1.25 inches I.D. pipe with pressed steel wall rail bracket with giving proper distance between face of wall and inside face of wall rail assembly.
 		2. Hand Grabs: 1.25 inches I.D. pipe Code Conforming 34 inches to 38 inches above plane of nosings and wrapped continuously past space between flights with pre-formed bend(s) which shall be field fitted with weld prep to equal NOMMA #1.
 		3. Mandrel bent 1-1/4 inches (32 mm) pipe (1.66 inches (42 mm) O.D.), with minimum 12 inches (305 mm) level-offs returning to wall.
 		4. Offset 1-1/2 inches (38 mm) wall brackets evenly spaced with three mounting holes.
 35. NOTE TO SPECIFIER ** Delete if not required.
-
 	28. Exit Control Gates
 		1. Design: Overlapping stop with bumper prevents opening in opposite direction of egress.
 			1. Single swing.
@@ -222,7 +212,6 @@ tags: ['Facility', 'Construction', 'Metals', 'Prefabricated', 'Steel', 'Stair', 
 			3. Barrier Gates: Manufacturers standard swing gate assembly with steel spring hinges and rubber bumper between space that barrier gate and rail post termination intersect. Fabricated from Hollow Structural Steel (HSS) or pipe stock.
 		2. Material: 1-1/4 inches (32 mm) schedule 40 pipe.
 36. NOTE TO SPECIFIER ** Pacific Stair Corporation's Stack-A-Shaft is a stacking stair system that solves many problems commonly found in the construction industry. Stack-A-Shaft has been designed to solve access, elevation and tolerance issues. Stack-A-Shaft units are flown into place by crane and are ready for use typically in less than one hour, providing immediate access for crews. Stack-A-Shaft is designed for multiple building configurations and construction techniques. Each unit includes flights, landings, rail, and connections ready to tie into the building structure and next unit. Delete if not required.
-
 	29. Pre-Assembled Stacking Stair System
 		1. Stack-A-Shaft stacking stair system:
 		2. General Fabrication:
@@ -234,7 +223,6 @@ tags: ['Facility', 'Construction', 'Metals', 'Prefabricated', 'Steel', 'Stair', 
 			6. Remove 2 inches (52 mm) from full height of angles and tubes after structure is in its final configuration and before shoring has been removed.
 			7. Remove short section of bolt-on angle after structure is in final configuration and before shoring has been removed.
 37. NOTE TO SPECIFIER ** Delete type not required.
-
 		3. Type: SAS-LG Light Gauge Steel Structures.
 			1. Designed to connect directly to light gauge members.
 			2. Self-Supporting, no need for additional steel for stair openings or support.
@@ -246,38 +234,31 @@ tags: ['Facility', 'Construction', 'Metals', 'Prefabricated', 'Steel', 'Stair', 
 			1. Multiple attachments available, bolting or welding as required.
 			2. Ability to set stairs without the need to have all decking in place.
 38. NOTE TO SPECIFIER ** Delete if not required.
-
 	30. Luminous Egress Path Marking System
 		1. Safe-T-Nose Retrofit (STNR):
-      1.  NOTE TO SPECIFIER ** STNR offers a universal, low-profile, design that can be applied to existing apartment complex stairs, commercial stairs, bleachers or any other high foot traffic stairway. STNR is a non-slip extruded aluminum safety stair nosing for indoor or outdoor stairs. STNR offers an absolute safety solution for property owners who must keep their stairways safe during all light conditions. STNR is installed on the edge of existing stair treads with the use of adhesive, screws or rivets. STNR can be knurled for additional slip resistance and painted to further designate stair steps. Finish options also provide a unique finished appeal.
-
+      1. NOTE TO SPECIFIER ** STNR offers a universal, low-profile, design that can be applied to existing apartment complex stairs, commercial stairs, bleachers or any other high foot traffic stairway. STNR is a non-slip extruded aluminum safety stair nosing for indoor or outdoor stairs. STNR offers an absolute safety solution for property owners who must keep their stairways safe during all light conditions. STNR is installed on the edge of existing stair treads with the use of adhesive, screws or rivets. STNR can be knurled for additional slip resistance and painted to further designate stair steps. Finish options also provide a unique finished appeal.
 			1. Safe-T-Nose Retrofit (STNR): Photo-luminescent "Glow-in-the-dark" nosing, applied to existing stairways.
 39. NOTE TO SPECIFIER ** Our glow-in-the-dark material is at the cutting edge of chemical phosphorescent technology and provides the brightest, long lasting, non-toxic glow that is available.
-
 			2. Safe-T-Nose: reduces tripping hazards and illuminates the walkway in the event of an emergency. Extruded from premium aluminum, Safe-T-Nose shall be durable and slip resistant.
 		2. Safe-T-Nose Cast-In Place (STNC):
-      1.  NOTE TO SPECIFIER ** STNC is the industry's only safety nosing with a construction cover included. Once the project is complete, the construction cover is simply snapped off and recycled to reveal the untarnished nosing extrusion and glow-in-the-dark striping. Several options allow STNC to be customized, providing further step designation and offering a unique finish appeal.
-
+      1. NOTE TO SPECIFIER ** STNC is the industry's only safety nosing with a construction cover included. Once the project is complete, the construction cover is simply snapped off and recycled to reveal the untarnished nosing extrusion and glow-in-the-dark striping. Several options allow STNC to be customized, providing further step designation and offering a unique finish appeal.
 			1. Safe-T-Nose Cast-In Place (STNC): Photo-luminescent "Glow-in-the-Dark" nosing designed to be pushed into any style of cast concrete at the time of forming. STNC embeds quickly and easily. A proprietary design forms the edge and fastens the nosing when setting in place.
 40. NOTE TO SPECIFIER ** Delete if not required.
-
 			2. Safe-T-Nose reduces tripping hazards and illuminates the walkway in the event of an emergency. Extruded from premium aluminum, Safe-T-Nose is durable and slip resistant. Our glow-in-the-dark material is at the cutting edge of chemical phosphorescent technology and provides the brightest, longest lasting non-toxic glow that is available.
 41. NOTE TO SPECIFIER ** Delete if not required.
-
 			3. Safe-T-Nose For Steel Stair Manufacturers (STNS): Safe-T-Nose For Steel Stair Manufacturers (STNS) is a photo-luminescent "Glow-in-the-Dark" nosing designed for stair fabricators. With proper design planning, STNS can be attached to a variety of tread types and materials at the time of manufacturing. STNS offers a simple solution when stairs must be fabricated with safety nosing incorporated into the design.
 42. NOTE TO SPECIFIER ** Delete if not required.
-
 		3. Safe-T-Nose Photoluminescent Handrail Strips (STNH):
 			1. Cut with scissors, an easy peel and stick application that requires no end caps. Activated by natural artificial light, Safe-T-Nose Handrail strips provide a steady glow to guide people in all lighting conditions. Glows for many hours after the lights go out. Unlimited recharging. The Brightest, Longest Lasting, Nontoxic, Nonradioactive Glow available. UV Light and Oxidation resistant. Smooth easy cleanable surface. Abrasion resistant. High-Impact plastic.
 43. NOTE TO SPECIFIER ** Delete if not required.
-
 	31. Shop Cleaning and Finishing
 		1. Rails and Stair Components: Remove all sharp edges and burrs. Clean surface of rust, scale, grease and all foreign material prior to finishing in accordance with "SP 2 - Hand Tool Cleaning."
 		2. Shop Primer: Immediately after shop fabrication and cleaning, spray apply primer to a minimum dry film thickness as recommended by primer manufacture, but not less than 1.0 mils DFT. Do not prime surfaces in direct contact with concrete or where field welding shall occur.
 		3. Prime Paint: Rodda Low HAP Shopcoat Primer: VOC Compliant Red Oxide #33954.
-44. *PART 3*** – ***EXECUTION*
 
-	32. Examination
+## EXECUTION
+
+1. Examination
 		1. Do not begin installation until substrates and adjacent construction have been properly constructed. Verify structural framing, enclosures, weld plates, blocking, and size and location of pockets.
 		2. If unsatisfactory conditions are encountered, notify Engineer in writing. Do not proceed until unsatisfactory conditions have been corrected.
 		3. Notify Manufacturer of any detail, design or tolerance deviations as noted or drawn on stair shop drawing.
@@ -302,5 +283,3 @@ tags: ['Facility', 'Construction', 'Metals', 'Prefabricated', 'Steel', 'Stair', 
 		1. Touch-up field welds and abraded areas by application of same coating used for shop primer.
 		2. Repair or replace damaged components.
 		3. After stairs are completely installed, remove all construction debris and rubbish from area. Clean surface of exposed rail and stairs. Leave stair system ready for finish painting.
-
-

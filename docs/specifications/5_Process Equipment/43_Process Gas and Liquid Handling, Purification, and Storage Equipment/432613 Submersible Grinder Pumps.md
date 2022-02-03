@@ -7,14 +7,11 @@ subgroup: Process Equipment
 tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Storage', 'Submersible', 'Grinder', 'Pumps']
 ---
 
-
-   1. SUBMERSIBLE GRINDER PUMPS
-
 ## General
 
-   1. Scope of Work 
+1. Scope of Work 
 	1. This Section specifies the furnishing, installation, and testing of submersible pumps and associated equipment for pump station(s), complete, tested and ready for operation. The pumps and associated equipment covered under this Section include the following requirements:
-		1.  Submersible pumps and motors.
+		1. Submersible pumps and motors.
 		2. The following accessories and associated equipment are to be provided by the pump supplier for each pump:
 			1. pump control panel
 			2. lifting cables and hooks
@@ -107,8 +104,8 @@ tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Sto
 		1. 300-pounds per square foot.
 	2. Regular extruded angle section frame.
 	3. Hatch cover:
-		1.  Diamond pattern
-		2.  Opens 90° (degrees) 
+		1. Diamond pattern
+		2. Opens 90° (degrees) 
 		3. Locks automatically with stainless steel positive locking arm and release handle. 
 		4. Hatch cover shall be permanently embossed "CONFINED SPACE" and painted lettering shall not be acceptable. 
 		5. Each door shall be equipped with a recessed hasp enclosure.

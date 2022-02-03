@@ -7,9 +7,6 @@ subgroup: Facility Services
 tags: ['Facility', 'Services', 'Electrical', 'ENCLOSED', 'SWITCHES', 'CIRCUIT', 'BREAKERS']
 ---
 
-
-1. ENCLOSED SWITCHES AND CIRCUIT BREAKERS
-
 ## General
 
 01. RELATED DOCUMENTS

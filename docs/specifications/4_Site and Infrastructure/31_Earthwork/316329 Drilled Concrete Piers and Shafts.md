@@ -7,17 +7,16 @@ subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Earthwork', 'Drilled', 'Concrete', 'Piers', 'Shafts']
 ---
 
-
 ## General
 
-   1. summary
+1. summary
    1. Refer to Section 018113 – Sustainable Design Requirements; 018113A – Appendix A - Materials Anticipated to be Used for Recycled Content; and 018113B – LEED Matrix for materials requiring contractor validation of recycled content.
    1. drilled pier
-   1. Definition:
+1. Definition:
       1. Drilled pier is a machine and/or hand excavated shaft, circular in cross section filled with concrete. Drilled Pier diameter shall match that shown on drawings.
    1. Drilled Pier Type:
       1. Provide straight shaft drilled piers socketed into the bed rock as required on the drawings.
-   1. References
+1. References
    1. American Institute of Steel Construction (AISC)
    1. Code of Standard Practice for Steel Buildings and Bridges.
    1. American Society for Testing and Materials (ASTM)

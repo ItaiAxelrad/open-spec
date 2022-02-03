@@ -7,10 +7,6 @@ subgroup: Process Equipment
 tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Storage']
 ---
 
-   1. Section 43 01 00
-   1. Pumping Equipment:
-      1. Basic Requirements
-
 ## General
 
 1. Summary

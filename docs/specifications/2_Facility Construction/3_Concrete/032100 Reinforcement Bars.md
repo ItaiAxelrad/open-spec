@@ -49,7 +49,8 @@ tags: ['Facility', 'Construction', 'Concrete', 'Reinforcement', 'Bars']
 	4. Store on wooden cribbing.
 	5. Coated rebars subject to rejection by Engineer if rebar coating has been damaged.
 ## Product
-1. 2.1 Materials
+
+1. Materials
    1. Reinforcing bars:
       1. ASTM A619-79, grade 60.
 2. Reinforcing bars to be welded:
@@ -62,10 +63,9 @@ tags: ['Facility', 'Construction', 'Concrete', 'Reinforcement', 'Bars']
 		1. 100 percent non-metallic, non-corrosive.
 		2. Required for all walls elevated construction exposed to liquid containing structures.
 
-
 ## Execution
 
-1. 3.1 Installation
+1. Installation
    1. Tolerances:
 	1. Rebar placement:
 		1. Clear distance to formed surfaces: +1/4 IN.
@@ -112,7 +112,6 @@ tags: ['Facility', 'Construction', 'Concrete', 'Reinforcement', 'Bars']
 			2. All other formed surfaces:
       1. Provide plastic-coated metal chairs, runners, bolsters, spacers, hangers and other reinforcing support.
    1. Only tips in contact with the forms need to be plastic coated.
-
 	1. Where parallel horizontal reinforcement in beams is indicated to be placed in two or more layers, rebars in the upper layers shall be placed directly above rebars in the bottom layer with clear distance between layers to be 1 IN.
 		1. Place spacer rebars at 3 FT maximum centers to maintain the required 1 IN clear distance between layers.
 	2. Extend reinforcement to within 2 IN of concrete perimeter edges.
@@ -133,4 +132,3 @@ tags: ['Facility', 'Construction', 'Concrete', 'Reinforcement', 'Bars']
 	3. Rebars may be moved as necessary to avoid interference with other reinforcing steel, conduits, or embedded items.
 	4. If rebars are moved more than one bar diameter, obtain Engineer's approval of resulting arrangement of rebars.
 	5. No cutting of rebars shall be done without written approval of Engineer.
-

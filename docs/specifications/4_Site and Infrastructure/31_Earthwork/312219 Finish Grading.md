@@ -61,7 +61,7 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Finish', 'Grading']
 8. The Contractor shall contact the Architect and Owner to review the areas when the topsoil has been placed, debris removed, and all final grading has been completed. This review shall occur prior to any sodding, seeding, hydromulching, and/or other landscaping operations proceeding within these designated areas.
 9. Any construction materials, discovered or uncovered during and / or after the landscaping / sodding operations, shall be the responsibility of the Contractor to remove and replace each area to its finished condition.
 2. INSTALLATION
-   1.  Work under this section consists generally of the following operations:
+   1. Work under this section consists generally of the following operations:
 2. Disc the existing and / or filled subgrade to a depth of 6 inches using a landscape scarifier.
 3. Place topsoil material in the amounts required to bring the rough grade to within 2 inches of finish sodded grade; and within 1” of areas to receive hydromulch. 
 4. Assure bonding of layers of fill material by discing in compliance with the specifications.

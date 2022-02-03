@@ -7,9 +7,6 @@ subgroup: Process Equipment
 tags: ['Process', 'Equipment', 'Water', 'Wastewater', 'Cleaning', 'Disinfecting']
 ---
 
-   1. Sec**t**ion 46 08 00
-   1. Cleaning and disinfecting
-
 ## General
 
 1. Summary
@@ -139,7 +136,7 @@ tags: ['Process', 'Equipment', 'Water', 'Wastewater', 'Cleaning', 'Disinfecting'
 		2. Disinfect in Accordance with One of the Following Methods:
 			1. Spray or brush a solution containing 200 mg/L of free chlorine onto the interior surfaces of tank. Apply solution from the bottom up and to the entire structure. Allow to remain 3 hours or until dry before being rinsed off.
 			2. Fill tank with water containing at least 50 mg/L of free chlorine. Hold solution for at least 3 hours, drain the structure, and fill with potable water.
-			3.  Parts of structures, such as ceilings or overflows, that cannot be immersed by the second method above shall be spray or brush disinfected.
+			3. Parts of structures, such as ceilings or overflows, that cannot be immersed by the second method above shall be spray or brush disinfected.
 		3. Drain previous chlorine solution and fill tank with chlorinated water to produce a free chlorine residual of 5 mg/L after a retention period of 24 hours. After holding for 24 hours, drain the reservoir and fill with potable water.
 5. Disposal of Disinfecting Wastewater
    1. Do not allow flow into a waterway without neutralizing disinfectant residual.

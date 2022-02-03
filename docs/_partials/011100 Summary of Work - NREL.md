@@ -22,11 +22,11 @@ tags: ['General', 'Requirements', 'Summary', 'Work', 'Owner']
    3. Assume full responsibility for the protection and safekeeping of products under this contract stored on the site.
    4. Move any stored products, under contractor's control, which interfere with operation of the owner or separate contractor.
    5. Provide protection against rain, snow, wind, ice, storms, or heat so as to maintain work, materials, apparatus, and fixtures free from injury or damage. At the end of each day's work, cover new work likely to be damaged.
-   6.  Provide and maintain adequate protection of work from damage due to freezing, especially freezing earth and soil. Risk of proceeding with the work on or with freezing or frozen materials will be the sole responsibility of the Contractor.
-   7.  Provide protection from damage at all times from rainwater, ground water, backing up of drains or sewers, and other water. Provide pumps and equipment enclosures to provide this protection.
-4.  PROJECT/SITE CONDITIONS
-    1.  Contractor shall at all times conduct operations as to insure the least inconvenience to the employees of Owner and the general public.
-    2.  Contractor shall provide Owner the maximum amount of notice possible for utility interruptions. A minimum of 72 hours notice is required for any utility interruption.
+   6. Provide and maintain adequate protection of work from damage due to freezing, especially freezing earth and soil. Risk of proceeding with the work on or with freezing or frozen materials will be the sole responsibility of the Contractor.
+   7. Provide protection from damage at all times from rainwater, ground water, backing up of drains or sewers, and other water. Provide pumps and equipment enclosures to provide this protection.
+4. PROJECT/SITE CONDITIONS
+    1. Contractor shall at all times conduct operations as to insure the least inconvenience to the employees of Owner and the general public.
+    2. Contractor shall provide Owner the maximum amount of notice possible for utility interruptions. A minimum of 72 hours notice is required for any utility interruption.
 
 ## PRODUCTS
 

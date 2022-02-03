@@ -58,7 +58,7 @@ tags: ['Facility', 'Construction', 'Concrete', 'Precast', 'Vaults']
 	1. Manufacturer or Supplier
 		1. Store reinforcing steel off ground in well drained area to prevent deformation.
 		2. Aggregates and sand: Store on concrete slab and handle to maintain separation and to prevent infiltration of deleterious materials.
-		3. Completed structures: Store off ground using wood blocks, pallets, or othe appropriate means to give ample space between rows and individual pieces, and with enough clearance above and below to allow full view of walls and joint ends for inspection purposes.
+		3. Completed structures: Store off ground using wood blocks, pallets, or other appropriate means to give ample space between rows and individual pieces, and with enough clearance above and below to allow full view of walls and joint ends for inspection purposes.
 		4. Joint ends: Keep clean and off ground.
 	2. Manufacturer's Batching Plant, Casting Equipment, and Curing Facilities: Complete, operating properly, and of proper size and range.
 	3. Manufacturer's Records: Show evidence of continual maintenance and quality control over casting forms and joint forming rings.
@@ -71,36 +71,35 @@ tags: ['Facility', 'Construction', 'Concrete', 'Precast', 'Vaults']
 	2. Oldcastle Infrastructure
 	3. Jensen Precast
 3. Submit request for substitution in accordance with Specification Sections 01 25 00.
-1. 2.2 Precast Concrete Vaults
+1. Precast Concrete Vaults
    1. Precast concrete vaults shall comply with ASTM C 858 except as modified herein.
 2. Design live and dead loads shall be in accordance with ASTM C 857. Design precast concrete vaults to withstand site soil conditions and traffic loading of A-16 per Table 1 of ASTM C 857 with a 30% increase due to impact. Soil lateral loads shall be as determined by ASTM C 857. Alternate design by the strength design method shall include a load factor of 1.7 times the lateral earth or hydrostatic pressures. Design shall evaluate earthquake (Zone 4).
 3. Design shall also comply with the following restrictions:
-      1. 
-	1. The maximum reinforcement ratio allowed is one-half the reinforcement ratio that would produce a balanced strain condition.
-	2. Earth pressure shall be converted to a horizontal pressure using a coefficient of earth pressure at rest of 0.5 and not a coefficient of active earth pressure.
-	3. Include a live load surcharge of 2 feet of soil in the design of the walls. '
+	4. The maximum reinforcement ratio allowed is one-half the reinforcement ratio that would produce a balanced strain condition.
+	5. Earth pressure shall be converted to a horizontal pressure using a coefficient of earth pressure at rest of 0.5 and not a coefficient of active earth pressure.
+	6. Include a live load surcharge of 2 feet of soil in the design of the walls.
 4. Precast vault construction shall be in the form of monolithic walls or horizontal wall sections; do not use panel walls.
 5. Minimum wall thickness shall be 6 inches. Design knockout wall panels to accommodate loading pressures defined above.
 6. Design and construct vaults to be watertight when subjected to groundwater over the entire height of the vault. 
 7. Provide openings in precast vaults for piping and access. Provide cast in place inserts in the roof slab and end walls at the locations as shown on the Drawings. No field coring of openings is allowed.
-1. 2.3 Precast Concrete Risers
+8. Precast Concrete Risers
    1. Precast concrete grade rings and cones shall comply with ASTM C 478, except that the wall thickness shall be 6 inches minimum. Provide interlocking keyways on rings and cones. Provide cones with cast in place inserts for the manhole frame.
-1. 2.4 Sealants and Mortar
+9. Sealants and Mortar
    1. Fill joints between precast sections with a double layer of plastic sealing compound and make watertight. Plastic sealing compound shall comply with Federal Specification SS-S00210. Fill with mortar all recesses, lifting inserts, or other cavities not filled with plastic sealing compound. Mortar shall comply with ASTM C 387, Type S.
-1. 2.5 Cement
-   1. Cement shall be ASTM C 150, Type II.
-1. 2.6 Admixtures
-   1. Provide concrete admixtures as specified in Standard Specification Section 03 01 00.
-1. 2.7 Waterproofing
-   1. The waterproofing material shall be Horn Dehydratine 4, Select Shield 301-A, or Engineer approved equal. The material is a black bituminous compound of brush or spray consistency for application on below grade concrete surfaces.
-1. 2.8 Vault Appurtenances
-   1. Provide ladders, covers and frames, vents, supports, inserts, eyebolts, and other miscellaneous metalwork. Refer to Section 05 50 00.
+10. Cement
+   2. Cement shall be ASTM C 150, Type II.
+11. Admixtures
+   3. Provide concrete admixtures as specified in Standard Specification Section 03 01 00.
+12. Waterproofing
+   4. The waterproofing material shall be Horn Dehydratine 4, Select Shield 301-A, or Engineer approved equal. The material is a black bituminous compound of brush or spray consistency for application on below grade concrete surfaces.
+13. Vault Appurtenances
+   5. Provide ladders, covers and frames, vents, supports, inserts, eyebolts, and other miscellaneous metalwork. Refer to Section 05 50 00.
 
 ## Execution
 
 1. Excavating and Backfilling for Vaults
-2. Perform earthwork as specified in Standard Specification Section 31 01 00. Provide 6-inch minimum thickness 3/4-inch crushed rock over the full width of the vault base and extend 12 inches beyond the edges of the vault. After repairing the waterproofing, backfill and compact around the vault with structural backfill material. Excavated material may be used for structural backfill provided it conforms to the Standard Specifications for structural backfill material.
-	1. Installation of Vaults and Risers
-3. Set each precast concrete vault section or riser plumb on a double layer bed of sealant at least 1/2-inch thick to make a watertight joint with the preceding unit. Point the inside joint and wipe off the excess sealant.
-	1. Waterproofing
-4. Waterproofing shall be factory applied to all exterior surfaces of vaults and risers. This includes the bottom of the vault to be coated as an exterior surface. Apply two coats at a rate of 65 square feet per gallon per coat. Prior to backfilling, field apply waterproofing material on joints and damaged surfaces. Protect coating from damage during backfilling and compacting.
+   1. Perform earthwork as specified in Standard Specification Section 31 01 00. Provide 6-inch minimum thickness 3/4-inch crushed rock over the full width of the vault base and extend 12 inches beyond the edges of the vault. After repairing the waterproofing, backfill and compact around the vault with structural backfill material. Excavated material may be used for structural backfill provided it conforms to the Standard Specifications for structural backfill material.
+2. Installation of Vaults and Risers
+   1. Set each precast concrete vault section or riser plumb on a double layer bed of sealant at least 1/2-inch thick to make a watertight joint with the preceding unit. Point the inside joint and wipe off the excess sealant.
+3. Waterproofing
+   1. Waterproofing shall be factory applied to all exterior surfaces of vaults and risers. This includes the bottom of the vault to be coated as an exterior surface. Apply two coats at a rate of 65 square feet per gallon per coat. Prior to backfilling, field apply waterproofing material on joints and damaged surfaces. Protect coating from damage during backfilling and compacting.

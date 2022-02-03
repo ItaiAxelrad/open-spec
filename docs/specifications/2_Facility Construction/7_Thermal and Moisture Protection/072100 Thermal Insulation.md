@@ -20,7 +20,7 @@ tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Insulat
 ## General
 
  installation/application instruction.
-	2.  Environmental conditions required for installation and installation techniques.
+	2. Environmental conditions required for installation and installation techniques.
 	3. Safety requirements for application of products.
 4. Installer’s/Applicator’s Qualifications:
       1. Submit copy of Installer’s/Applicator’s certification from manufacturer.
@@ -84,7 +84,7 @@ tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Insulat
       1. See Contract drawings.
 1. 2.3 Accessories
    1. Accessories:
-	1.  Provide accessories per insulating system manufacturer’s recommendations, including the following:
+	1. Provide accessories per insulating system manufacturer’s recommendations, including the following:
 		1. Tape:
 			1. Polyethylene self-adhering type for Kraft faced insulation and bright aluminum self-adhering type for foil faced insulation.
 		2. Insulation Fasteners:

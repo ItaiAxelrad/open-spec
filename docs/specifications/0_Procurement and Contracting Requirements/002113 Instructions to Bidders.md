@@ -64,7 +64,7 @@ ARTICLE 2 - COPIES OF BIDDING DOCUMENTS
 1. Complete sets of the Bidding Documents in the number and for the deposit sum, if any, stated in the Advertisement for Bids may be obtained from the Issuing Office. The deposit will be refunded to each document holder of record who returns a complete set of Bidding Documents in good condition within 30 days after opening of Bids.
 2. Complete sets of Bidding Documents must be used in preparing Bids; neither Owner nor Engineer assumes any responsibility for errors or misinterpretations resulting from the use of incomplete sets of Bidding Documents.
 
-	1.  Owner and Engineer in making copies of Bidding Documents available on the above terms do so only for the purpose of obtaining Bids for the Work and do not confer a license or grant for any other use.
+	1. Owner and Engineer in making copies of Bidding Documents available on the above terms do so only for the purpose of obtaining Bids for the Work and do not confer a license or grant for any other use.
    1. ARTICLE 3 - QUALIFICATIONS OF BIDDERS
 1. To demonstrate Bidder’s qualifications to perform the Work, within five days of Owner’s request, Bidder shall submit written evidence such as financial data, previous experience, present commitments, and such other data as may be called for below.
    1. ARTICLE 4 - EXAMINATION OF BIDDING DOCUMENTS, OTHER RELATED DATA, AND SITE

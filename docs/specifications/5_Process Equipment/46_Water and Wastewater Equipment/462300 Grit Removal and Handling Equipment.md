@@ -7,100 +7,93 @@ subgroup: Process Equipment
 tags: ['Process', 'Equipment', 'Water', 'Wastewater', 'Grit', 'Removal', 'Handling']
 ---
 
-1. 46 23 00 Grit Removal and Handling Equipment
-
-
 ## General
 
+1. RELATED DOCUMENTS
+	1. Drawings, General and Special Provisions of the Contract, and Division 01 Specification Sections apply to this Section.
+2. SUMMARY
+	1. The Supplier shall provide all materials, equipment and incidentals required to furnish, transport, and place into operation the Grit Removal, Washing, and Dewatering System. The system must be complete and operational with motors, base plates, control equipment and accessories as shown on the Drawings and specified in this Section.
+	2. Furnish three (3) 1.5-cubic-yard-capacity decanter dewatering units.
+	3. The Grit Removal, Washing, and Dewatering System manufacturer shall furnish and have overall system responsibility for coordination of all major components of the system. Overall system responsibility shall include start-up, training, calibration, and overall successful operation of the equipment. The Grit Removal, Washing, and Dewatering System shall be supplied by a single supplier to ensure coordination and compatibility of equipment.
+	4. Related Sections include the following:
+		1. Section 409100 – Instrumentation
+		2. Section 409423 – Supervisory Control System
+		3. Section 409443 – Programmable Logic Controllers
+		4. Section 409513 – Control Panels
+3. SYSTEM DESCRIPTION
+	1. The Grit Removal, Washing, and Dewatering System shall include two (2) Headcell Grit Concentrator units, two (2) Slurrycup Grit Washing / Classification units, two (2) Grit Snail Grit Dewatering Escalator units, one (1) PLC control panel, and two (2) local control panels (one for each grit removal equipment train) and one (1) local control panel for the grit pumps.
+	2. Each Headcell unit shall be placed in a concrete tank. A Contractor-supplied grit pump shall remove and discharge the settled grit from the Headcell to the Grit Separation / Classification unit. The Grit Separation/Classification unit shall be placed above a Grit Dewatering Escalator unit to allow the settled grit from the Grit Separation / Classification unit to empty into the hopper of the Grit Dewatering Escalator unit where it shall continue to dewater the grit before the grit is expelled into a dumpster.
+	3. All components of the Grit Removal, Washing, and Dewatering System shall be provided by one manufacturer.
+4. QUALITY ASSURANCE
+	1. The equipment shall be supplied by a firm regularly engaged in the manufacturer of the equipment item, whose products have been used satisfactorily in similar services for a minimum period of five (5) years.
+	2. The Contractor may furnish and install equipment of a manufacturer whose products have not been in similar services at 10 installations for five years, provided the equipment manufacturer submits a bond, or deposits a sum equal to the installed price of the equipment, for a period of five (5) years.
+5. SUBMITTALS
+	1. Submit the following in accordance with the Provisions of the Contract and Division 01 Specification Sections:
+		1. A copy of this specification section, with addendum updates included, and all referenced and applicable sections, with addendum updates included, with each paragraph check- marked to indicate specification compliance or marked to indicate requested deviations from specification requirements. If deviations from the specifications are indicated and, therefore requested by the Contractor the submittal shall be accompanied by a detailed, written justification for each deviation. Failure to include a copy of the marked-up specification sections, along with justification for any requested deviations to the specification requirements, with the submittal shall be cause for rejection of the entire submittal with no further consideration.
+		2. Catalog bulletins describing construction. Mark out inapplicable options.
+		3. Dimensional sketches of all units.
+		4. Weight of each unit mounted on base and weights of all components.
+		5. Performance data as specified below.
+		6. Motor data as specified in this section.
+		7. Operation and Maintenance Data: Submit complete instruction for operation and maintenance of Grit Removal, Washing, and Dewatering System components. Include the following data:
+		1. Alignment, adjustment, and repair instructions.
+		2. Manufacturer’s installation instructions.
+		3. Assembly diagrams.
+		4. Guide to troubleshooting.
+		5. Lubrication instructions.
+		6. Recommended spare parts lists and predicted life of parts subject to wear.
+		8. Manufacturer’s Product Warranties
+	2. OPERATION AND MAINTENANCE MANUALS
+		1. Operation and Maintenance Manuals shall be as described in Section 017700 – Closeout Procedures. If preprinted manuals and booklets are included, “X-out” the information that
+	1. does not pertain to the equipment or system supplied; i.e. the information in the manual shall be specific to the equipment model or system supplied for the project.
 
-	1. RELATED DOCUMENTS
-		1. Drawings, General and Special Provisions of the Contract, and Division 01 Specification Sections apply to this Section.
-	2. SUMMARY
-		1. The Supplier shall provide all materials, equipment and incidentals required to furnish, transport, and place into operation the Grit Removal, Washing, and Dewatering System. The system must be complete and operational with motors, base plates, control equipment and accessories as shown on the Drawings and specified in this Section.
-		2. Furnish three (3) 1.5-cubic-yard-capacity decanter dewatering units.
-		3. The Grit Removal, Washing, and Dewatering System manufacturer shall furnish and have overall system responsibility for coordination of all major components of the system. Overall system responsibility shall include start-up, training, calibration, and overall successful operation of the equipment. The Grit Removal, Washing, and Dewatering System shall be supplied by a single supplier to ensure coordination and compatibility of equipment.
-		4. Related Sections include the following:
-			1. Section 409100 – Instrumentation
-			2. Section 409423 – Supervisory Control System
-			3. Section 409443 – Programmable Logic Controllers
-			4. Section 409513 – Control Panels
-	3. SYSTEM DESCRIPTION
-		1. The Grit Removal, Washing, and Dewatering System shall include two (2) Headcell Grit Concentrator units, two (2) Slurrycup Grit Washing / Classification units, two (2) Grit Snail Grit Dewatering Escalator units, one (1) PLC control panel, and two (2) local control panels (one for each grit removal equipment train) and one (1) local control panel for the grit pumps.
-		2. Each Headcell unit shall be placed in a concrete tank. A Contractor-supplied grit pump shall remove and discharge the settled grit from the Headcell to the Grit Separation / Classification unit. The Grit Separation/Classification unit shall be placed above a Grit Dewatering Escalator unit to allow the settled grit from the Grit Separation / Classification unit to empty into the hopper of the Grit Dewatering Escalator unit where it shall continue to dewater the grit before the grit is expelled into a dumpster.
-		3. All components of the Grit Removal, Washing, and Dewatering System shall be provided by one manufacturer.
-	4. QUALITY ASSURANCE
-		1. The equipment shall be supplied by a firm regularly engaged in the manufacturer of the equipment item, whose products have been used satisfactorily in similar services for a minimum period of five (5) years.
-		2. The Contractor may furnish and install equipment of a manufacturer whose products have not been in similar services at 10 installations for five years, provided the equipment manufacturer submits a bond, or deposits a sum equal to the installed price of the equipment, for a period of five (5) years.
-	5. SUBMITTALS
-		1. Submit the following in accordance with the Provisions of the Contract and Division 01 Specification Sections:
-			1. A copy of this specification section, with addendum updates included, and all referenced and applicable sections, with addendum updates included, with each paragraph check- marked to indicate specification compliance or marked to indicate requested deviations from specification requirements. If deviations from the specifications are indicated and, therefore requested by the Contractor the submittal shall be accompanied by a detailed, written justification for each deviation. Failure to include a copy of the marked-up specification sections, along with justification for any requested deviations to the specification requirements, with the submittal shall be cause for rejection of the entire submittal with no further consideration.
-			2. Catalog bulletins describing construction. Mark out inapplicable options.
-			3. Dimensional sketches of all units.
-			4. Weight of each unit mounted on base and weights of all components.
-			5. Performance data as specified below.
-			6. Motor data as specified in this section.
-			7. Operation and Maintenance Data: Submit complete instruction for operation and maintenance of Grit Removal, Washing, and Dewatering System components. Include the following data:
-			1. Alignment, adjustment, and repair instructions.
-			2. Manufacturer’s installation instructions.
-			3. Assembly diagrams.
-			4. Guide to troubleshooting.
-			5. Lubrication instructions.
-			6. Recommended spare parts lists and predicted life of parts subject to wear.
-			8. Manufacturer’s Product Warranties
-		2. OPERATION AND MAINTENANCE MANUALS
-			1. Operation and Maintenance Manuals shall be as described in Section 017700 – Closeout Procedures. If preprinted manuals and booklets are included, “X-out” the information that
-   1. does not pertain to the equipment or system supplied; i.e. the information in the manual shall be specific to the equipment model or system supplied for the project.
+		1. Operation and Maintenance Manuals shall be submitted prior to making application for payment exceeding 75 percent of the Contract Price.
+	1. Within eight weeks of receipt of order, submit for coordination with the Systems Integrator and for approval:
+		1. A written controls narrative
+		2. A tabular listing of the PLC inputs, outputs, and alarms with their associated software tags. Input, output, and alarm software tags must meet the Software Tagging Conventions requirements set forth in Section 409423 - Supervisory Control System.
+		3. A tabular listing of the Operator Adjustable Set Points with their associated software tags
+	2. When the equipment is shipped, submit final hard (paper) and electronic (CD) copies of:
+		1. The PLC application program (electronic copy (CD) only)
+		2. Printouts of the detailed ladder logic with the data tables and cross references (paper print out only)
+		3. The approved written controls narrative
+		4. A tabular listing of all variable set points and their factory settings including VFD parameters where applicable
+		5. A tabular listing of the PLC input, output, and alarm software tags
+		6. Final panel layout drawings
+		7. Final panel wiring diagrams
+		8. I/O wiring drawings for all devices that are monitored or controlled by the Grit Removal Equipment manufacturer’s PLC as listed in the Instrumentation and Controls paragraph of this specification. These drawings shall include the field wiring from the terminal block (showing terminal numbers) to the field device (showing the device tag number).
+1. WARRANTY
+	1. Special Warranty: The manufacturer shall warrant that the work described here shall be free from defects in workmanship and material for a period of one (1) year from the date of acceptance. Any faulty workmanship or defective material furnished that is found within the warranty period shall be corrected without cost to the Owner.
+2. EXTRA MATERIALS
+	1. Furnish extra parts that match items installed and that are packaged with protective covering for storage and identified with labels describing contents. The following spare parts shall be provided:
+		1. Two baffles for the slurry cup units.
+		2. Two sets of tailroll bearings and gaskets, scraper blades, internal scrapers, and clarifier baffles for the grit snail units.
 
-			1. Operation and Maintenance Manuals shall be submitted prior to making application for payment exceeding 75 percent of the Contract Price.
-		1. Within eight weeks of receipt of order, submit for coordination with the Systems Integrator and for approval:
-			1. A written controls narrative
-			2. A tabular listing of the PLC inputs, outputs, and alarms with their associated software tags. Input, output, and alarm software tags must meet the Software Tagging Conventions requirements set forth in Section 409423 - Supervisory Control System.
-			3. A tabular listing of the Operator Adjustable Set Points with their associated software tags
-		2. When the equipment is shipped, submit final hard (paper) and electronic (CD) copies of:
-			1. The PLC application program (electronic copy (CD) only)
-			2. Printouts of the detailed ladder logic with the data tables and cross references (paper print out only)
-			3. The approved written controls narrative
-			4. A tabular listing of all variable set points and their factory settings including VFD parameters where applicable
-			5. A tabular listing of the PLC input, output, and alarm software tags
-			6. Final panel layout drawings
-			7. Final panel wiring diagrams
-			8. I/O wiring drawings for all devices that are monitored or controlled by the Grit Removal Equipment manufacturer’s PLC as listed in the Instrumentation and Controls paragraph of this specification. These drawings shall include the field wiring from the terminal block (showing terminal numbers) to the field device (showing the device tag number).
-	1. WARRANTY
-		1. Special Warranty: The manufacturer shall warrant that the work described here shall be free from defects in workmanship and material for a period of one (1) year from the date of acceptance. Any faulty workmanship or defective material furnished that is found within the warranty period shall be corrected without cost to the Owner.
-	2. EXTRA MATERIALS
-		1. Furnish extra parts that match items installed and that are packaged with protective covering for storage and identified with labels describing contents. The following spare parts shall be provided:
-			1. Two baffles for the slurry cup units.
-			2. Two sets of tailroll bearings and gaskets, scraper blades, internal scrapers, and clarifier baffles for the grit snail units.
-   1. Product
+## Product
 
-	1. MANUFACTURERS
-		1. Subject to compliance with requirements, manufacturers offering products that may be incorporated into the Work include the following:
-			1. Eutek System by Hydro International, Inc.
-			2. Approved equal.
-	2. EQUIPMENT PERFORMANCE
-		
-## General
-
-
+3. MANUFACTURERS
+	2. Subject to compliance with requirements, manufacturers offering products that may be incorporated into the Work include the following:
+		1. Eutek System by Hydro International, Inc.
+		2. Approved equal.
+4. EQUIPMENT PERFORMANCE
+	1. General:
 			1. The Grit Removal, Washing, and Dewatering System shall be designed to remove, classify, wash, and dewater grit from screened raw wastewater.
 			2. The Grit Removal, Washing, and Dewatering System shall be designed to handle:
-			1. Ultimate Peak Flow of 45.0 mgd.
-			2. Design Peak Flow of 40.0 mgd.
-			3. Average Flow of 16.0 mgd.
-		2. Grit Concentrator
+			3. Ultimate Peak Flow of 45.0 mgd.
+			4. Design Peak Flow of 40.0 mgd.
+			5. Average Flow of 16.0 mgd.
+		3. Grit Concentrator
 			1. Each Headcell Grit Concentrator unit shall be designed to operate under the following conditions:
-			1. At Peak Flow of 22.5 mgd (32,400 gpm) with a headloss of not more than 12 inches, each unit shall remove minimum 95% of all grit equal to and larger than 100 micron (specific gravity 2.6) in size.
-		3. Grit Washing / Classification Unit
+			2. At Peak Flow of 22.5 mgd (32,400 gpm) with a headloss of not more than 12 inches, each unit shall remove minimum 95% of all grit equal to and larger than 100 micron (specific gravity 2.6) in size.
+		4. Grit Washing / Classification Unit
 			1. The Grit Separation / Classification unit shall be designed at a flow of 0.43 mgd (300 gpm) with a headloss of approximately 15.0 feet and handle a range of flow from 280 gpm to 450 gpm with an inlet solids concentration of 0.5% TSS.
 			2. At steady state design flow conditions, the unit shall remove minimum 95% of all grit equal to and larger than 50 micron (specific gravity 2.6) in size from the design flow rate of 0.43 mgd (300 gpm) of 0.5% TSS Headcell Settleable Solids Concentrator unit slurry underflow.
-		4. Grit Dewatering Escalator Unit
+		5. Grit Dewatering Escalator Unit
 			1. The Grit Dewatering Escalator unit shall have a capacity of 2.0 yd3/hr of dewatered grit.
 			2. The Grit Dewatering Escalator unit clarifier design shall be based on a settling rate of
-2. gpm/ft2.
-
+5. gpm/ft2.
 			1. The dewatered grit from the Grit Removal, Washing, and Dewatering system shall, on a weighted average, contain no more than 20% (wt) unattached organic solids and a minimum 60% solids concentration.
 			2. The Grit Dewatering unit shall be characterized by the ability to capture and dewater all grit removed by the Grit Separation / Classification unit. Grit screw classifiers, grasshoppers, reciprocating rakes and similar type of units shall not be considered because of their inability to capture and dewater all grit removed by the Grit Separation / Classification unit.
-	1. GRIT CONCENTRATORS
+	3. GRIT CONCENTRATORS
 		1. Two (2) Grit Concentrator units shall be supplied.
 		2. Each Settleable Solids Concentrator shall be characterized by a controlled boundary layer flow to enhance settleable solids concentration and removal. Defining characteristics of the boundary layer concentrator units are as follows:
 			1. Boundary layer flow increasing solids flow toward the center of the units.
@@ -116,122 +109,103 @@ tags: ['Process', 'Equipment', 'Water', 'Wastewater', 'Grit', 'Removal', 'Handli
 		8. Each stack of trays shall securely fit into a 304 SS support frame. The support frame shall fit and secure to the bottom of the Contractor supplied concrete support structure containing all necessary hardware and supply piping connections.
 			1. Each concrete tank shall also contain the settled solids underflow connection for removal of settled solids to the Grit Washing / Classification unit as specified.
 			2. The Contractor shall furnish the concrete structure and all interconnecting piping. Effluent from each Grit Concentrator unit shall be weir-discharged as shown on the drawings.
-   1. Grit Concentrator units water requirements.
-	1. Water requirements for operation of the Headcell units are discussed in Section 2.7- Utility Requirements. A manually actuated bronze ball valve shall be provided to regulate the system water flow rate.
-	2. GRIT WASHING / CLASSIFICATION UNITS
+   3. Grit Concentrator units water requirements.
+	4. Water requirements for operation of the Headcell units are discussed in Section 2.7- Utility Requirements. A manually actuated bronze ball valve shall be provided to regulate the system water flow rate.
+	5. GRIT WASHING / CLASSIFICATION UNITS
 		1. Two (2) Grit Washing / Classification units shall be supplied.
 		2. The Grit Washing / Classification units shall be characterized by a dominant, strong free vortex which utilizes centrifugal and gravitational forces and secondary boundary layer velocities to
-   1. affect the washing, collection and classification of grit from the unit's inflow. Defining characteristics of the dominant free vortex / secondary boundary layer velocity type units are as follows:
-      1. 
-			1. Dominating increasing tangential velocity profile toward the center of the unit.
-			2. The ability to handle increasing flows with no loss of the specified grit removal efficiency and with increasing headloss requirements.
-			3. The ability to classify (wash) the grit from lighter organic material to meet the specified organic solids content.
-			4. No requirements for electrical or mechanical components flow deflecting / guiding weirs or baffles, or compressed air lines within the unit to meet the specified performance.
-			5. A single all-hydraulic process within the unit to achieve grit separation, collection, and classification from water or wastewater.
-			6. No moving parts within the unit.
-			7. Continuous removal of washed, clean grit.
-			8. Vortex grit units which do not have a dominant, strong free vortex / secondary boundary layer velocity and whose performance decreases with increasing flow do not meet the above specifications.
-		1. Each Grit Washing / Classification unit shall be 32-3/8 inches in diameter and shall be fabricated from 304 stainless steel. Welding shall conform to the most current standards of the American Welding Society. The steel shall conform to materials specifications, as detailed in Section 2.8A.
+    1. affect the washing, collection and classification of grit from the unit's inflow. Defining characteristics of the dominant free vortex / secondary boundary layer velocity type units are as follows:
+			2. Dominating increasing tangential velocity profile toward the center of the unit.
+			3. The ability to handle increasing flows with no loss of the specified grit removal efficiency and with increasing headloss requirements.
+			4. The ability to classify (wash) the grit from lighter organic material to meet the specified organic solids content.
+			5. No requirements for electrical or mechanical components flow deflecting / guiding weirs or baffles, or compressed air lines within the unit to meet the specified performance.
+			6. A single all-hydraulic process within the unit to achieve grit separation, collection, and classification from water or wastewater.
+			7. No moving parts within the unit.
+			8. Continuous removal of washed, clean grit.
+			9. Vortex grit units which do not have a dominant, strong free vortex / secondary boundary layer velocity and whose performance decreases with increasing flow do not meet the above specifications.
+		3. Each Grit Washing / Classification unit shall be 32-3/8 inches in diameter and shall be fabricated from 304 stainless steel. Welding shall conform to the most current standards of the American Welding Society. The steel shall conform to materials specifications, as detailed in Section 2.8A.
    1. Each Grit Washing / Classification unit shall be fabricated from 1/4-inch-thick 304 stainless steel standard dished and flanged heads with 3/16-inch-thick stainless steel walls. Exterior surfaces shall be finished in accordance with specifications described in Section 2.8B.
-
-		1. A minimum 18-inch-diameter access shall be provided in the top of the Grit Washing / Classification unit. All internal elements shall be removable from inside the unit.
-		2. Each Grit Washing / Classification unit shall be mounted to a Grit Dewatering Escalator unit.
-		3. The grit underflow from the Grit Washing / Classification units shall be transported by gravity flow to the Grit Dewatering Escalator unit.
-		4. The grit underflow shall be dewatered by a Grit Dewatering Escalator unit.
-		5. The Grit Separation / Classification unit uses a Hydraulic Valve (HV) to deliver a continuous flow of “washed” grit slurry to the dewatering unit. The HV has no mechanical or moving parts.
-		6. Grit Washing / Classification Unit Water Requirements
+		4. A minimum 18-inch-diameter access shall be provided in the top of the Grit Washing / Classification unit. All internal elements shall be removable from inside the unit.
+		5. Each Grit Washing / Classification unit shall be mounted to a Grit Dewatering Escalator unit.
+		6. The grit underflow from the Grit Washing / Classification units shall be transported by gravity flow to the Grit Dewatering Escalator unit.
+		7. The grit underflow shall be dewatered by a Grit Dewatering Escalator unit.
+		8. The Grit Separation / Classification unit uses a Hydraulic Valve (HV) to deliver a continuous flow of “washed” grit slurry to the dewatering unit. The HV has no mechanical or moving parts.
+		9. Grit Washing / Classification Unit Water Requirements
 			1. During operation, the Grit Washing / Classification unit requires a continuous source of clarified water required to 50 psig ± 5 psi. The clarified water is referred to as system water.
 			2. Water quantities required for operation are discussed in Section 2.7 Utility Requirements of this Section. A manually actuated bronze ball valve shall be provided as a manual shut off.
 			3. The Grit Washing / Classification Unit shall have a single 1-1/2 inch NPT pipe stub for connection of the system water.
 			4. The main supply water valve (MSWV) shall be a ball valve provided to allow on/off control of the system water.
 			5. The piping shall branch downstream of the MSWV. One branch (the Supply Water line) shall provide a continuous supply of water to the HV. The Supply Water line shall be provided with a globe valve to regulate the flow rate of system water to the HV and a solenoid valve to allow automated on/off control. The other branch, (the Backwash line) shall be provided with a solenoid valve (BWV) to allow automated on/off control of the periodic backwash.
-		7. Integrated controls and instrumentation to allow automated operation of the Grit Washing / Classification Unit Hydraulic Valve system are provided by the Manufacturer.
-		8. The unit shall be self-standing on three legs to provide a clearance between the bottom of the grit underflow pipe and the Dewatering Unit clarifier surface. The unit shall have one 6" flanged inlet connection and one 8" flanged outlet connection. Flanges shall be rotatable and conform to ANSI B16.1 bolt patterns.
-		9. The unit shall have one (1) 1-1/2-inch grit underflow connection, one (1) 3-inch threaded drain connection and one (1) 1-1/2-inch NPT fluidizing water connection for the Hydraulic Valve supply and Hydraulic Valve backwash. All solenoid valves shall have brass bodies and NEMA 4 enclosures.
-		10. The Grit Washing / Classification unit shall be designed to withstand a maximum working pressure of 14.7 psig. The actual maximum pressure at the inlet shall be no more than
-7. psig.
-
-	1. GRIT DEWATERING ESCALATOR
+		10. Integrated controls and instrumentation to allow automated operation of the Grit Washing / Classification Unit Hydraulic Valve system are provided by the Manufacturer.
+		11. The unit shall be self-standing on three legs to provide a clearance between the bottom of the grit underflow pipe and the Dewatering Unit clarifier surface. The unit shall have one 6" flanged inlet connection and one 8" flanged outlet connection. Flanges shall be rotatable and conform to ANSI B16.1 bolt patterns.
+		12. The unit shall have one (1) 1-1/2-inch grit underflow connection, one (1) 3-inch threaded drain connection and one (1) 1-1/2-inch NPT fluidizing water connection for the Hydraulic Valve supply and Hydraulic Valve backwash. All solenoid valves shall have brass bodies and NEMA 4 enclosures.
+		13. The Grit Washing / Classification unit shall be designed to withstand a maximum working pressure of 14.7 psig. The actual maximum pressure at the inlet shall be no more than psig.
+	6. GRIT DEWATERING ESCALATOR
 		1. Two (2) Grit Dewatering Escalator units shall be supplied.
 		2. The Grit Dewatering unit shall be characterized by the ability to capture and dewater all grit removed by the Grit Washing / Classification unit. Grit screw classifiers, grasshoppers, reciprocating rake and similar types of units shall not be considered because of their inability to capture and dewater all grit removed by the Grit Washing / Classification unit.
 		3. The Grit Dewatering Escalator unit shall have a dewatering capacity of 2.0 yd3/hr.
-		4. The Grit Dewatering Escalator unit clarifier design shall be based on a settling rate of
-2. gpm/ft2.
-
-		1. The Grit Dewatering Escalator unit housing shall be 18 inches wide and inclined at 30 degrees.
-		2. Belt: The Grit Dewatering Escalator unit belt shall be a 12-inch wide hinged type cleats vulcanized on 12-inch wide 1/8 inch x 1/32 inch two-ply polyester reinforced continuous conductor belting. The belt cleats (3-3/8" x 4-9/16") shall be of molded 60 Durometer neoprene construction, aluminum reinforced with minimum 5/32 inch thick neoprene hinge.
-		3. Head and Tailrolls, Retainer Plate, and Scraper
+		4. The Grit Dewatering Escalator unit clarifier design shall be based on a settling rate of gpm/ft2.
+		5. The Grit Dewatering Escalator unit housing shall be 18 inches wide and inclined at 30 degrees.
+		6. Belt: The Grit Dewatering Escalator unit belt shall be a 12-inch wide hinged type cleats vulcanized on 12-inch wide 1/8 inch x 1/32 inch two-ply polyester reinforced continuous conductor belting. The belt cleats (3-3/8" x 4-9/16") shall be of molded 60 Durometer neoprene construction, aluminum reinforced with minimum 5/32 inch thick neoprene hinge.
+		7. Head and Tailrolls, Retainer Plate, and Scraper
 			1. Head and tailrolls shall be of 304 stainless steel. The 9-3/4 inch lagged headroll shall be designed for adjustable take-up without affecting the headroll retainer plate, scraper, or drive unit adjustments. The tailroll shall be designed to mount internally to the Grit Dewatering Escalator unit belt housing with external sealed bearings.
 			2. The Grit Dewatering Escalator unit shall be provided with a headroll scraper having 1/4-inch-thick high density polyethylene (HDPE) contact surfaces complemented with a 1/4-inch-thick HDPE retainer plate. Both retainer plate and scraper shall be loaded to keep belt cleats closed tightly around the headroll during operation.
-		4. Self-Cleaning Tailroll Mechanism
+		8. Self-Cleaning Tailroll Mechanism
 			1. The belt cleats shall be neoprene and shall open to provide at least a 1-inch cleat opening when rotated about the tailroll. The Grit Dewatering Escalator unit belt shall be provided with 2-inch openings to allow transfer of fine solids internal to the belt to the underside of each cleat. The tailroll shall be fitted with a scraper, which shall also function as an internal belt scraper.
-		5. Belt Housing and Clarifier
+		9. Belt Housing and Clarifier
 			1. The belt housing shall be fabricated from 0.135-inch thick 304 stainless steel. The steel shall conform to material specifications listed in section 2.8A. Welding shall conform to the most current standard of the American Welding Society. Surfaces shall be finished in accordance with specifications described in section 2.8B.
 			2. The housing shall be provided with clean out plates and (1) flanged 3-inch NP drain in the tailroll end. The Contractor shall connect the provided 3-inch plug valve directly to the 3-inch drain. The plug valve shall be followed by a contractor-supplied 3-inch tee with the arm of the tee directed towards an open drain and the straight arm of the tee used as a clean-out.
 			3. The housing shall be fitted with a clarifier providing at least 17.3 ft2 of free water surface and walls sloping at least 45 degrees from the horizontal. The clarifier shall provide at least 3 inches of free board. The clarifier shall be fitted with an overflow weir at least 50 inches long with a 6 inch NP overflow discharge connection.
 			4. The Grit Snail 10 gpm belt rinse water shall be fed from the Slurrycup unit supply water header. The rinse bar system shall be pre-piped and factory installed to provide belt rinse above the water level in the clarifier, clarifier rinse with two spray bars below the clarifier water level, and a rinse bar at the tailroll area. The flow to these rinse bars shall be manually adjustable with a flow indicator at the tailroll rinse. Non-potable water shall be supplied to the rinse system whenever the drive motor is energized. The tailroll rinse shall include a 1-inch globe valve to regulate the flow of rinse water to the tailroll section. Two spray bars shall be located above the belt and below the clarifier liquid level to enhance grit washing. This section shall be isolated from the belt rinse water piping with a 3/4-inch ball valve for maintenance.
 			5. A motion sensor shall be installed on the side of the Grit Dewatering unit and shall detect movement of the headroll scraper arm. This will monitor for lack of belt movement (possible stalled belt or drive unit failure) and/or scraper arm overload (too much grit counterbalancing the scraper arm).
 			6. The Grit Dewatering Escalator unit housing shall be inclined at 30 degrees.
-		6. Support Structure
+		10. Support Structure
 			1. The Grit Dewatering Escalator unit support structure shall be as shown on the general arrangement drawing and anchored to a stable base.
-		7. Drive Unit
+		11. Drive Unit
 			1. The drive unit consisting of the motor and the helical gear reducer shall be mounted as a single integrated unit. Bearings shall be anti-friction, ball, or roller type. Heavy-duty bearings are required on the output shaft.
 			2. The motor shall be 1/3 HP, 3 phase, 230/460 VAC, 60 Hz, NEMA Design B, TENV enclosure, Inverter Duty Motor with a 1.0 Service Factor.
 			3. The helical gear reducer shall have hardened alloy steel gears accurately cut to shape.
 			4. A mechanical torque-limiting clutch shall be mounted on the headroll gear assembly to prevent an accidental overload of the drive unit and belt.
 			5. The drive speed shall be adjusted by a variable speed drive that will be housed in the control enclosure. Belt speed shall be adjustable from 1–5 ft/min.
-		8. Grit Discharge Chutes: The manufacturer shall supply two (2) 12” x 12” grit drop chutes fabricated from 10-gauge Type 304 stainless steel plate with stiffeners, supports, and flared hopper at top. Each chute shall be supplied with a flexible hose at the bottom that is long enough such that it prevents splashing of grit when dropped to the decanter dewatering unit (dumpster), and flexible enough such that it bends adequately when the dumpster is moved.
-		9. Anchor Bolts: Anchor bolts shall be as recommended by the manufacturer and shall be of stainless steel.
-	1. INSTRUMENTATION AND CONTROLS
+		12. Grit Discharge Chutes: The manufacturer shall supply two (2) 12” x 12” grit drop chutes fabricated from 10-gauge Type 304 stainless steel plate with stiffeners, supports, and flared hopper at top. Each chute shall be supplied with a flexible hose at the bottom that is long enough such that it prevents splashing of grit when dropped to the decanter dewatering unit (dumpster), and flexible enough such that it bends adequately when the dumpster is moved.
+		13. Anchor Bolts: Anchor bolts shall be as recommended by the manufacturer and shall be of stainless steel.
+	7. INSTRUMENTATION AND CONTROLS
 		1. Controls Equipment Description
    1. The Grit Removal Equipment control system is a PLC-based system. The PLC is provided by the Grit Removal Equipment manufacturer. Other equipment provided by others is also monitored and/or controlled by this control system as listed in paragraphs C and D below. The Grit Removal Equipment manufacturer shall provide controls equipment as described below.
-
-			1. PLC Control Panel
-			1. Construct the PLC Control Panel per the requirements of Section 409513 - Control Panels.
-			2. The PLC control panel will be located indoors in the Headworks Building Electrical Room. This is considered to be an environmentally-controlled location.
-			3. The control system PLC shall be housed in the PLC Control Panel
-			2. Local Control Panels
-			1. Provide three (3) Local Control Panels, one for each Grit Washer/Concentrator and one for the Grit Pumps.
-			2. Construct the Local Control Panels per the requirements of Section 409513 Control Panels.
-			3. The Local Control panels will be located indoors near the Grit Pumps (Grit Pump Control Panel) and near the Grit Escalator (Grit Washer/Concentrator Panels). These are considered to be wet / process locations.
-			4. Include in each Grit Washer/Concentrator Local Control Panel operator switches and indicator lights as listed below and as illustrated on the P&IDs.
-1. LCP-GRT101-A & LCP-GRT-101-B
+			2. PLC Control Panel
+			3. Construct the PLC Control Panel per the requirements of Section 409513 - Control Panels.
+			4. The PLC control panel will be located indoors in the Headworks Building Electrical Room. This is considered to be an environmentally-controlled location.
+			5. The control system PLC shall be housed in the PLC Control Panel
+			6. Local Control Panels
+			7. Provide three (3) Local Control Panels, one for each Grit Washer/Concentrator and one for the Grit Pumps.
+			8. Construct the Local Control Panels per the requirements of Section 409513 Control Panels.
+			9. The Local Control panels will be located indoors near the Grit Pumps (Grit Pump Control Panel) and near the Grit Escalator (Grit Washer/Concentrator Panels). These are considered to be wet / process locations.
+			10. Include in each Grit Washer/Concentrator Local Control Panel operator switches and indicator lights as listed below and as illustrated on the P&IDs.
+6. LCP-GRT101-A & LCP-GRT-101-B
    1. Amount
-   1. Function
-   1. Description
-   1. 5
-   1. HAND-OFF-AUTO
-   1. Switches
-
+   2. Function
+   3. Description
+   4. 5
+   5. HAND-OFF-AUTO
+   6. Switches
 (1) Grit Cyclone System
-
 (1) Grit Cyclone Slurry Water Solenoid
-
 (1) Grit Cyclone Backwash Water Solenoid
-
 (1) System Blow Down Sequence
-
 (1) Grit Washer/Concentrator Water Solenoid
    1. 5
    1. Indicating lights
-
 (1) Grit Cyclone Slurry Water Valve OPEN
-
 (1) Grit Cyclone Backwash Water Valve OPEN
-
 (1) Grit Washer/Concentrator RUNNING
-
 (1) Grit Washer/Concentrator FAULT
-
 (1) Grit Washer/Concentrator Water Valve OPEN
    1. 1
    1. Pushbutton
-
 (1) Auxiliary Backwash
    1. 1
    1. E-Stop (Grit Washer / Concentrator motor)
    1. Mounted on the Control Panel
-
 		1. Include in the Grit Pumps Local Control Panel operator switches and indicator lights as listed below and as illustrated on the P&IDs.
 1. LCP-PMP102-A/B/C
    1. Amount
@@ -240,21 +214,16 @@ tags: ['Process', 'Equipment', 'Water', 'Wastewater', 'Grit', 'Removal', 'Handli
    1. 3
    1. HAND-OFF-AUTO
    1. Switches
-
 (3) Grit Pumps
    1. 1
    1. 3-position selector switch
-
 (1) Pump selector switch to select Grit
    1. Pumps A & B (normal case, with C as standby), Pumps A & C (B in maintenance), or
    1. Pumps B & C (A in maintenance)
    1. 6
    1. Indicating Lights
-
 (3) Grit Pump RUNNING
-
 (3) Grit Pump FAULT
-
 		1. Programming Requirements:
 			1. Programming of the Grit Removal Equipment PLC is the responsibility of the Grit Removal Equipment manufacturer.
 			2. The Grit Removal Equipment manufacturer must coordinate with the Systems Integrator during programming development, equipment fabrication, pre-commissioning testing, and startup to deliver an approved working system.
@@ -280,19 +249,14 @@ tags: ['Process', 'Equipment', 'Water', 'Wastewater', 'Grit', 'Removal', 'Handli
    1. Pressure Gauges
 
 (2) 0-30 psig pressure gauge to measure the (grit slurry) inlet pressure to the Grit Cyclones
-
 (2) 0-30 psig pressure gauge to monitor the pressure in the Grit Cyclone Slurry Water inlet line
-
 (2) 0-30 psig pressure gauge to monitor Backwash Water pressure
    1. Tags:
       1. PI-GRT101AB PI-GRT101AC PI-GRT101AD PI-GRT101BB PI-GRT101BC PI-GRT101BD
    1. 6
    1. Flow Indicators
-
 (2) 0-35 gpm flow meter for the Grit Cyclone Slurry Water
-
 (2) 1-10 gpm flow meter for the Grit Washer/Concentrator tailroll rinse water
-
 (2) 8-40 gpm flow meters for the Grit Chambers fluidizing water
    1. Tags:
       1. FI-GRT101AA FI-GRT101AB FI-GRT101BA FI-GRT101BB FI-GRT102A FI-GRT102B
@@ -416,11 +380,10 @@ tags: ['Process', 'Equipment', 'Water', 'Wastewater', 'Grit', 'Removal', 'Handli
 
 ## Execution
 
-
-	1. INSTALLATION
-		1. Installation of the Grit Removal System shall be performed in accordance with instructions provided by the manufacturer.
-	2. PAINTING
-		1. All carbon steel components that are prime-coated shall be finish-painted in the field.
-	3. EQUIPMENT MANUFACTURER’S SERVICES
-		1. The manufacturer shall provide one (1) person, maximum two (2) trips to the jobsite for installation, start-up, and instruction services as required for minimum total of four (4) days.
+1. INSTALLATION
+   1. Installation of the Grit Removal System shall be performed in accordance with instructions provided by the manufacturer.
+2. PAINTING
+   1. All carbon steel components that are prime-coated shall be finish-painted in the field.
+3. EQUIPMENT MANUFACTURER’S SERVICES
+   1. The manufacturer shall provide one (1) person, maximum two (2) trips to the jobsite for installation, start-up, and instruction services as required for minimum total of four (4) days.
    

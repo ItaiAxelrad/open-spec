@@ -9,8 +9,7 @@ tags: ['Facility', 'Construction', 'Metals', 'Metal', 'Gratings']
 ## General
 
 1. RELATED DOCUMENTS
-   1. Drawings, General and Special Provisions of the Contract, and Division 01 Specification
-Sections apply to this Section.
+   1. Drawings, General and Special Provisions of the Contract, and Division 01 Specification Sections apply to this Section.
 2. SUMMARY
    1. This Section includes the following:
       1. Metal bar gratings.
@@ -31,28 +30,28 @@ Sections apply to this Section.
       1. Comply with NAAMM MBG 531, "Metal Bar Grating Manual."
 5. PROJECT CONDITIONS
    1. Field Measurements:
-      1. Verify actual locations of walls and other construction contiguous with
-gratings by field measurements before fabrication
-   1. Product
+      1. Verify actual locations of walls and other construction contiguous with gratings by field measurements before fabrication
+
+## Product
+
 1. MANUFACTURERS
    1. Available Manufacturers:
-      1. Subject to compliance with requirements, manufacturers offering
-products that may be incorporated into the Work include, but are not limited to, the following:
-      1. Metal Bar Gratings:
-      1. Alabama Metal Industries Corporation.
-      1. All American Grating, Inc.
-      1. Barnett/Bates Corp.
-      1. Borden Metal Products (Canada) Limited.
-      1. Fisher & Ludlow.
-      1. IKG Industries; a Harsco Company.
-      1. Ohio Gratings, Inc.
-      1. Seidelhuber Metal Products, Inc.
-      1. Approved equal.
+      1. Subject to compliance with requirements, manufacturers offering products that may be incorporated into the Work include, but are not limited to, the following:
+      2. Metal Bar Gratings:
+      3. Alabama Metal Industries Corporation.
+      4. All American Grating, Inc.
+      5. Barnett/Bates Corp.
+      6. Borden Metal Products (Canada) Limited.
+      7. Fisher & Ludlow.
+      8. IKG Industries; a Harsco Company.
+      9. Ohio Gratings, Inc.
+      10. Seidelhuber Metal Products, Inc.
+      11. Approved equal.
 2. METALS
    1. Aluminum:
       1. Extruded Bars and Shapes:
          1. ASTM B 221, Alloy 6061-T6 or 6063-T6; Alloy 6061-T1,
-   1. for grating crossbars.
+   2. for grating crossbars.
 3. FASTENERS
 	1. General:
       1. Provide Type 304 stainless-steel fasteners.
@@ -60,8 +59,7 @@ products that may be incorporated into the Work include, but are not limited to,
    1. Bituminous Paint:
       1. Cold-applied asphalt emulsion complying with ASTM D 1187.
 5. FABRICATION
-   1. Cut, drill, and punch material cleanly and accurately. Remove burrs and ease edges. Remove
-sharp or rough areas on exposed surfaces.
+   1. Cut, drill, and punch material cleanly and accurately. Remove burrs and ease edges. Remove sharp or rough areas on exposed surfaces.
    1. Form from materials of size, thickness, and shapes indicated.
    1. Fit exposed connections accurately together to form hairline joints.
    1. Fabricate toeplates for attaching in the field.
@@ -77,13 +75,11 @@ sharp or rough areas on exposed surfaces.
       1. 4 inches o.c.
 5. Traffic Surface:
       1. Striated.
-   1. Fabricate cutouts in grating sections for penetrations indicated. Edge-band openings in grating
-that interrupt four or more bearing bars with bars of same size and material as bearing bars.
+   1. Fabricate cutouts in grating sections for penetrations indicated. Edge-band openings in grating that interrupt four or more bearing bars with bars of same size and material as bearing bars.
    1. Do not notch bearing bars at supports to maintain elevation.
 7. GRATING FRAMES AND SUPPORTS
    1. Frames and Supports for Metal Gratings:
-      1. Fabricate from metal shapes, plates, and bars of
-welded construction to sizes, shapes, and profiles indicated and as necessary to receive gratings.
+      1. Fabricate from metal shapes, plates, and bars of welded construction to sizes, shapes, and profiles indicated and as necessary to receive gratings.
    1. Miter and weld connections for perimeter angle frames. Cut, drill, and tap units to receive
    1. hardware and similar items.
 1. Fabricate from same basic metal as gratings.
@@ -94,17 +90,13 @@ welded construction to sizes, shapes, and profiles indicated and as necessary to
 ## Execution
 
 1. INSTALLATION, GENERAL
-   1. Perform cutting, drilling, and fitting required for installing gratings. Set units accurately in
-location, alignment, and elevation; measured from established lines and levels and free of rack.
+   1. Perform cutting, drilling, and fitting required for installing gratings. Set units accurately in location, alignment, and elevation; measured from established lines and levels and free of rack.
    1. Fit exposed connections accurately together to form hairline joints.
    1. Attach toeplates to gratings by welding at locations indicated.
    1. Corrosion Protection:
-      1. Coat concealed surfaces of aluminum that will come into contact with
-grout, concrete, masonry, wood, or dissimilar metals, with a heavy coat of bituminous paint.
+      1. Coat concealed surfaces of aluminum that will come into contact with grout, concrete, masonry, wood, or dissimilar metals, with a heavy coat of bituminous paint.
    1. Metal Bar Gratings:
-      1. Comply with recommendations of referenced metal bar grating standards,
-including installation clearances and standard anchoring details.
+      1. Comply with recommendations of referenced metal bar grating standards, including installation clearances and standard anchoring details.
 1. Attach units to supporting members with type and size of clips and fasteners indicated or,
    1. if not indicated, as recommended by grating manufacturer for type of installation
    1. conditions shown.
-

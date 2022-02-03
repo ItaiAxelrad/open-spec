@@ -7,9 +7,6 @@ subgroup: Process Equipment
 tags: ['Process', 'Equipment', 'Interconnections', 'High-Density', 'Polyethylene', 'Pipe']
 ---
 
-
-1. HIGH DENSITY POLYETHYLENE (HDPE) PIPE AND FITTINGS
-
 ## General
 
 1. SCOPE OF WORK

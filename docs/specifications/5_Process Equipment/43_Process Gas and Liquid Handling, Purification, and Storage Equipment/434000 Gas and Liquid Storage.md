@@ -7,9 +7,6 @@ subgroup: Process Equipment
 tags: ['Process', 'Equipment', 'Gas', 'Liquid', 'Handling', 'Purification', 'Storage']
 ---
 
-   1. Section 43 40 00
-   1. Gas and Liquid Storage
-
 ## General
 
 1. Summary

@@ -14,7 +14,7 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Copper', 'Utility', 'Pipe', 'Tubi
 
 ## General
 
-1.  
+1. 
 
 01. DESCRIPTION*
    1. This section describes materials, installation, and testing of copper and brass pipe, and copper, brass and bronze fittings, appurtenances and meter boxes. All materials shall be in accordance with NSF 61 Annex G and California legislation (AB1953). Demonstrate and provide the proper connections and compatibility of all pipe, fittings and valves. The minimum pressure rating for all pipes, fittings, valves and appurtenance shall not be less than the test pressure listed in Section 15000 and shall be considered as a high pressure service. The Contractor shall furnish and replace 3/4-inch piping with 1-inch piping and the required transition fittings to connect to existing ¾-inch meters to remain in place. 

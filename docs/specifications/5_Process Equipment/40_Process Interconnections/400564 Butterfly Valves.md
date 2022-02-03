@@ -7,9 +7,6 @@ subgroup: Process Equipment
 tags: ['Process', 'Equipment', 'Interconnections', 'Butterfly', 'Valves']
 ---
 
-   1. section 40 05 64
-   1. butterfly valves
-
 ## General
 
 1. SUMMARY

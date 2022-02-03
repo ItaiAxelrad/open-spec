@@ -7,9 +7,6 @@ subgroup: Facility Services
 tags: ['Facility', 'Services', 'Electronics', 'Safety', 'Security', 'Building', 'Intrusion', 'Alarm', 'System']
 ---
 
-         1. Section 28 10 00
-   1. Building Intrusion Alarm System
-
 ## General
 
 1. SUMMARY
@@ -42,7 +39,7 @@ tags: ['Facility', 'Services', 'Electronics', 'Safety', 'Security', 'Building', 
 14. System Control:
 	1. Central-station control unit shall directly monitor intrusion detection units and connecting wiring.
 	2. System shall automatically reboot program without error, loss of status, or loss of alarm data after any system disturbance.
-	3.  Manual Secure-Access Control:
+	3. Manual Secure-Access Control:
 		1. Coded entries at manual stations shall change status of associated protected zone between secure and access conditions.
 15. Control Panel:
 	1. The control panel shall be the main point of programming, monitoring, accessing, securing, and troubleshooting the intrusion alarm system.

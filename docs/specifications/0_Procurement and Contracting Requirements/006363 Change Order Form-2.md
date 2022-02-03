@@ -90,7 +90,7 @@ $
     1. Ready for final payment (days or date):
        1. 
 
-[Increase] [Decrease] from previously approved Change Orders No.  to No. :
+[Increase] [Decrease] from previously approved Change Orders No. to No. :
       1. [Increase] [Decrease] from previously approved Change Orders  
 No. to No. :
     1. Substantial completion (days):

@@ -38,25 +38,25 @@ tags: ['Facility', 'Construction', 'Existing', 'Conditions', 'Demolition']
    2. Epoxy bonding adhesive:
       1. Euco No.452 MV by Euclid Chemical Co., or equal.
       2. Sikadur 32, Hi-Mod by Sika Corporation, or equal.
-	 3.  Epoxy patch:
-	 4.  Depth of patch:
-    	 1.  Greater than 3/4 IN: Five Star MP Epoxy Patch, or equal.
-    	 2.  Between 1/8 IN and 3/4 IN: Five Star Fluid Epoxy, or equal.
-	 5.  Storage Oil:
-    	 1.  Shell VSI No. 33, or equal.
-	 6.  Rust-Preventive Compound:
-    	 1.  Houghton "Rust Veto 344, "Rust-Oleum T-9," or equal.
+	 3. Epoxy patch:
+	 4. Depth of patch:
+    	 1. Greater than 3/4 IN: Five Star MP Epoxy Patch, or equal.
+    	 2. Between 1/8 IN and 3/4 IN: Five Star Fluid Epoxy, or equal.
+	 5. Storage Oil:
+    	 1. Shell VSI No. 33, or equal.
+	 6. Rust-Preventive Compound:
+    	 1. Houghton "Rust Veto 344, "Rust-Oleum T-9," or equal.
 2. Submit request for substitution in accordance with Specification Section 01 25 00.
-	1.  Materials
-    	1.  Non-shrink Grout:
-        	1.  Nonmetallic, noncorrosive and non-staining.
-        	2.  Premixed with only water to be added in accordance with manufacturer's instructions at job site.
-        	3.  Grout to produce a positive but controlled expansion.
+	1. Materials
+    	1. Non-shrink Grout:
+        	1. Nonmetallic, noncorrosive and non-staining.
+        	2. Premixed with only water to be added in accordance with manufacturer's instructions at job site.
+        	3. Grout to produce a positive but controlled expansion.
     		  4. Mass expansion not to be created by gas liberation or by other means.
-        	5.  Minimum compressive strength at 28 days to be 6500 psi.
-        	6.  Coat exposed edges of grout with a cure/seal compound recommended by grout manufacturer.
+        	5. Minimum compressive strength at 28 days to be 6500 psi.
+        	6. Coat exposed edges of grout with a cure/seal compound recommended by grout manufacturer.
       2. Epoxy Bonding Adhesive:
-        	1.  Two component, moisture insensitive adhesive manufactured for the purpose of bonding fresh concrete to hardened concrete.
+        	1. Two component, moisture insensitive adhesive manufactured for the purpose of bonding fresh concrete to hardened concrete.
 
 ## Execution
 

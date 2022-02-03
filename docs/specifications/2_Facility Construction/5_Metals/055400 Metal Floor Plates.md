@@ -24,7 +24,7 @@ tags: ['Facility', 'Construction', 'Metals', 'Metal', 'Floor', 'Plates']
 
 ## Products
 
-   1. MATERIALS
+1. MATERIALS
    1. Heavy Duty Steel Frame and Grate
    1. Frame and grate to be model no. R-4990-BX, as manufactured by Neenah Foundry Co., or approved equal
    1. Size as indicated on drawings
@@ -37,7 +37,6 @@ tags: ['Facility', 'Construction', 'Metals', 'Metal', 'Floor', 'Plates']
    1. Do not proceed until unsatisfactory conditions are corrected.
    1. Field Measurements:
       1. Take necessary measurements in the field to assure proper dimensions for the work in this Section.
-   1. ERECTION INSTALLATION APPLICATION
+1. ERECTION INSTALLATION APPLICATION
    1. Install the work in this Section in strict accordance with the approved Shop Drawings and the referenced standards, anchoring all items firmly into position.
    1. Coordinate installation with other trades.
-

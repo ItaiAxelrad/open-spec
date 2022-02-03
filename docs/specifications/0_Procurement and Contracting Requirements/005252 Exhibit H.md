@@ -16,7 +16,7 @@ tags: ['Procurement', 'Contracting', 'Requirements', 'Exhibit', 'H']
       1. 
 		1. Dispute Resolution
    1. Mediation. Owner and Engineer agree that they shall first submit any and all unsettled claims, counterclaims, disputes, and other matters in question between them arising out of or relating to this Agreement or the breach thereof (“Disputes”) to mediation by *[insert name of mediator, or mediation service]*   
- .  
+ . 
 If such mediation is unsuccessful in resolving a Dispute, then (1) all dispute in which more than $200,000 is in controversy may be resolved only by a court of competent jurisdiction, (2) for disputes of less than $200,000, the parties may mutually agree to a dispute resolution method of their choice, including but not limited to arbitration pursuant to the terms of paragraph H.6.08.B or (3) in any case either party may seek to have the Dispute resolved by a court of competent jurisdiction.
    1. Arbitration. If the parties mutually agree, and the amount in controversy is less than $200,000 the Disputes between Owner and Engineer shall be settled by arbitration in accordance with the  [*here insert the name of a specified arbitration service or organization*] rules effective at the Effective Date of the Agreement, subject to the conditions stated below. This agreement to arbitrate and any other agreement or consent to arbitrate entered into in accordance with this paragraph H.6.08.A will be specifically enforceable under prevailing law of any court having jurisdiction.
 

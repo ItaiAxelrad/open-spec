@@ -7,9 +7,6 @@ subgroup: Process Equipment
 tags: ['Process', 'Equipment', 'Interconnections', 'Gate', 'Valves']
 ---
 
-   1. section 40 05 61
-   1. gate valves
-
 ## General
 
 1. SUMMARY

@@ -7,9 +7,6 @@ subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Earthwork', 'Dewatering']
 ---
 
-
-1. DEWATERING
-
 ## General
 
 1. RELATED DOCUMENTS

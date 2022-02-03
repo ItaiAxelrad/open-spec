@@ -17,17 +17,17 @@ tags: ['Facility', 'Construction', 'Specialties', 'Identification', 'Devices']
 	1. Quality Assurance
 2. Work shall be per:
 	1. American Society of Mechanical Engineers (ASME):
-		1.  A13.1, Scheme for the Identification of Piping Systems.
+		1. A13.1, Scheme for the Identification of Piping Systems.
 	2. The International Society of Automation (ISA).
 	3. National Electrical Manufacturers Association/American National Standards Institute (NEMA/ANSI):
-		1.  Z535.1, Safety Color Code.
-		2.  Z535.2, Environmental and Facility Safety Signs.
-		3.  Z535.3, Criteria for Safety Symbols.
-		4.  Z535.4, Product Safety Signs and Labels.
+		1. Z535.1, Safety Color Code.
+		2. Z535.2, Environmental and Facility Safety Signs.
+		3. Z535.3, Criteria for Safety Symbols.
+		4. Z535.4, Product Safety Signs and Labels.
 	4. National Fire Protection Association (NFPA):
-		1.  70, National Electrical Code (NEC).
+		1. 70, National Electrical Code (NEC).
 	5. Occupational Safety and Health Administration (OSHA):
-		1.  29 CFR 1910.145, Specification for Accident Prevention Signs and Tags.
+		1. 29 CFR 1910.145, Specification for Accident Prevention Signs and Tags.
 	6. Colorado Department of Public Health and Environment:
 		1. State of Colorado Design Criteria for Potable Water Systems.
 	7. Submittals
@@ -125,7 +125,7 @@ tags: ['Facility', 'Construction', 'Specialties', 'Identification', 'Devices']
 	2. Accessories
 9. Fasteners:
 	1. Bead chain: #6 brass, aluminum or stainless steel.
-	2.  Plastic strap: Nylon, urethane or polypropylene.
+	2. Plastic strap: Nylon, urethane or polypropylene.
 	3. Screws: Self-tapping, stainless steel.
 	4. Adhesive, solvent activated.
 
@@ -137,25 +137,25 @@ tags: ['Facility', 'Construction', 'Specialties', 'Identification', 'Devices']
 2. All identification devices to be printed by mechanical process, hand printing is not acceptable.
 3. Attach tags to equipment with sufficient surface or body area with solvent activated adhesive applied to back of each tag.
 4. Attach tags with 1/8 IN round or flat head screws to equipment without sufficient surface or body area, or porous surfaces.
-	1.  Where attachment with screws should not or cannot penetrate substrate, attach with plastic strap.
+	1. Where attachment with screws should not or cannot penetrate substrate, attach with plastic strap.
 5. Single items of equipment enclosed in a housing or compartment to be tagged on outside of housing.
-	1.  Several items of equipment mounted in housing to be individually tagged inside the compartment.
+	1. Several items of equipment mounted in housing to be individually tagged inside the compartment.
 6. Tracer Wire:
-	1.  Attach to pipe at a maximum of 10 FT intervals with tape or tie-wraps.
-	2.  Continuous pass from each valve box and above grade at each structure.
-	3.  Coil enough wire at each valve box to extend wire a foot above the ground surface.
-	4.  1,000 FT maximum spacing between valve boxes.
-	5.  If split bolts are used for splicing, wrap with electrical tape.
-	6.  If wire nuts are used for splicing, knot wire at each splice point leaving 6 IN of wire for splicing.
-	7.  Use continuous strand of wire between valve boxes where possible.
+	1. Attach to pipe at a maximum of 10 FT intervals with tape or tie-wraps.
+	2. Continuous pass from each valve box and above grade at each structure.
+	3. Coil enough wire at each valve box to extend wire a foot above the ground surface.
+	4. 1,000 FT maximum spacing between valve boxes.
+	5. If split bolts are used for splicing, wrap with electrical tape.
+	6. If wire nuts are used for splicing, knot wire at each splice point leaving 6 IN of wire for splicing.
+	7. Use continuous strand of wire between valve boxes where possible.
 7. Continuous length shall be no shorter than 100 FT.
 1. 3.2 Schedules
    1. Process Systems:
-	1.  General:
-		1.  Provide arrows and markers on piping.
-			1.  At 20 FT maximum centers along continuous lines.
-			2.  At changes in direction (route) or obstructions.
-			3.  At valves, risers, "T" joints, machinery or equipment.
+	1. General:
+		1. Provide arrows and markers on piping.
+			1. At 20 FT maximum centers along continuous lines.
+			2. At changes in direction (route) or obstructions.
+			3. At valves, risers, "T" joints, machinery or equipment.
 			4. Where pipes pass through floors, walls, ceilings, cladding assemblies and like obstructions provide markers on both sides.
 		2. Position markers on both sides of pipe with arrow markers pointing in flow direction.
 			1. If flow is in both directions use double headed arrow markers.
