@@ -70,8 +70,10 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Ductile-Iron', 'Utility', 'Pipe']
    1. Tracer wire shall be installed for ductile-iron pipe in accordance with Section 15000.
 14. WARNING/IDENTIFICATION TAPE
    1. Warning/Identification tape shall be installed for ductile-iron pipe in accordance with Section 15000.
-1. PART 2 MATERIALS
-1. 2.01 DUCTILE-IRON PIPE
+
+## Products
+
+1. DUCTILE-IRON PIPE
    1. Ductile-iron pipe and appurtenant components and materials shall be selected from the Approved Materials List and in accordance with the Standard Drawings.
    1. Minimum pressure class of ductile-iron pipe with push-on, mechanical joint or plain end connections shall be as shown in the following table unless otherwise shown on the Approved Plans:
       1. Pipe Diameter Pressure Class
@@ -85,43 +87,43 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Ductile-Iron', 'Utility', 'Pipe']
    1. Under 20” 53
    1. 20” 54
    1. Over 20” 56
-1. 2.02 GASKETS
+1. GASKETS
    1. Mechanical joint rubber gasket configuration and materials shall comply with AWWA C111 and shall be in accordance with the applicable joint type and pressure rating of the piping system.
    1. Flange gaskets shall be 1/8" thick aramid fibers bound with nitrile for all sizes of pipe. Gaskets shall be full-face type with pre-punched holes.
    1. Push-on joint rubber gaskets shall be per AWWA C111.
    1. If soil contaminated with organic solvents or petroleum products is encountered during the course of the work, alternate gasket materials or joint treatment may be required by the City Engineer.
-1. 2.03 BOLTS AND NUTS FOR FLANGES
+1. BOLTS AND NUTS FOR FLANGES
    1. Bolts and nuts shall be in accordance with Section 15000 and shall be selected from the Approved Materials List.
-1. 2.04 JOINT BONDING AND CATHODIC PROTECTION
+1. JOINT BONDING AND CATHODIC PROTECTION
    1. Joint bonding, flange insulation kits, internal epoxy linings, and cathodic protection materials shall be provided as indicated on the Approved Plans and in accordance with Section 13110.
-1. 2.05 PAINTING AND COATING
+1. PAINTING AND COATING
    1. Buried ductile-iron pipe shall receive a shop-applied asphaltic coating in accordance with AWWA C151.
 2. The City may require alternative coatings based on special conditions and the Corrosion Engineer’s recommendations. Additional coating requirements, if any, shall be shown on the drawings.
 3. Materials for coating of pipe and fittings located above ground and in structures shall be in accordance with Section 09910.
 4. Materials for coating buried mechanical joints and hardware shall be in accordance Section 15000.
-1. 2.06 IMPORTED GRANULAR MATERIAL FOR PIPE AND TRENCH ZONES
+1. IMPORTED GRANULAR MATERIAL FOR PIPE AND TRENCH ZONES
    1. Imported granular material for use in pipe and trench zones shall be in accordance with Section 02223.
-1. 2.07 CONCRETE
+1. CONCRETE
    1. Concrete for thrust, anchor, and support blocks shall be in accordance with Section 03000. 
-1. 2.08 POLYETHYLENE ENCASEMENT
+1. POLYETHYLENE ENCASEMENT
    1. Polyethylene encasement shall be in accordance with Section 15000 and selected from the Approved Materials List.
-1. 2.09 TRACER WIRE
+1. TRACER WIRE
    1. Tracer wire materials shall be in accordance with Section 15000 and selected from the Approved Materials List.
-1. 2.10 WARNING/IDENTIFICATION TAPE
+1. WARNING/IDENTIFICATION TAPE
    1. Warning/Identification tape materials shall be in accordance with Section 15000 and selected from the Approved Materials List.
 1. 
 
 ## Execution
 
-1. 3.01 GENERAL
+1. GENERAL
    1. At all times when the work of installing pipe is not in progress, including worker break times, ends of the pipe shall be closed with tight-fitting, vermin-proof and child-proof caps or plugs. Do not permit trench water to enter the pipe. Do not place tools, clothing, or other materials in the pipe. The Contractor shall maintain the interior of the pipe in a sanitary condition free from foreign materials at all times.
    1. Proper care shall be used to prevent damage in handling, moving and placing the pipe. All pipe, fittings, valves, and other pipeline materials shall be lowered into the trench in a manner that prevents damage. The pipe shall not be dropped, dragged or handled in a manner that will cause bruises, cracks, or other damage. Ductile-iron pipe that has been gouged, scratched, or otherwise damaged shall be subject to rejection at the discretion of the City Engineer.
    1. Where pipe lengths less than the standard 18’ or 20’ are required, the pipe sections shall be installed in accordance with the manufacturer’s installation guide and shall only be used as specified herein or with the approval of the City Engineer. The minimum pipe length permitted is 5’, except at tie-ins or stub-outs, where the minimum pipe length permitted is three (3) times the pipe diameter or 4’, whichever is longer, unless otherwise approved by the City Engineer. 
-1. 3.02 TRENCHING, BACKFILLING AND COMPACTING
+1. TRENCHING, BACKFILLING AND COMPACTING
    1. Trenching, backfilling and compacting shall be performed in accordance with Section 02223.
-1. 3.03 DEWATERING
+1. DEWATERING
    1. Dewatering of trench excavations shall be performed in accordance with Section 02223. If flooding of the trench does occur, the Contractor shall immediately dewater and restore the trench. Damaged or altered pipelines, appurtenances or trench materials shall be repaired or replaced as directed by the City Engineer.
-1. 3.04 PIPE INSTALLATION
+1. PIPE INSTALLATION
    1. When the work requires entry of personnel into the pipe, the Contractor shall comply with all Federal and State regulations for confined space entry. Work inside pipelines shall not be undertaken until all the tests and safety provisions of the Code of Federal Regulations 1910.146, and the General Industry Safety Orders of the California Code of Regulations, Title 8, Section 5159 for confined space entry have been performed and the area is verified as safe to enter. The Contractor shall furnish and install all pipe, specials, fittings, closure pieces, valves, supports, bolts, nuts, gaskets, jointing materials, and all other appurtenances as shown on the Approved Plans and as required to provide a complete and workable installation. Install pipe in the trench as follows:
       1. Lay pipe out for installation on earth berms or timber cradles adjacent to the trench in sequential order of installation.
 2. Inspect each pipe segment and appurtenance before lowering the pipe segment or appurtenance into the trench. Inspect the interior and exterior protective coatings. Patch damaged areas in the field with material recommended by the protective coating manufacturer. Thoroughly clean the ends of the pipe. Remove foreign matter and dirt from inside of the pipe and keep pipe clean during and after installation.
@@ -133,14 +135,14 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Ductile-Iron', 'Utility', 'Pipe']
          1. Assemble the pipe joint using a lubricant selected from the Approved Materials List. Insert the spigot end into the bell or coupling to the proper insertion mark. Check that the elastomeric ring has not left the groove during assembly by passing a feeler gauge around the completed joint. Drive spigot ends of the pipe into bell ends in accordance with the manufacturer’s recommendations. Stabbing shall not be permitted.
 2. Mechanical Joint Type:
       1. Assembly of mechanical joint fittings shall be in accordance with the manufacturer's recommendations regarding installation.
-1. 3.05 FLANGED PIPE AND FITTINGS
+1. FLANGED PIPE AND FITTINGS
    1. Flanged connections shall be installed where indicated on the Approved Drawings.
    1. Bolt holes shall straddle the vertical centerline.
 1. The bolts, nuts and flange faces shall be thoroughly cleaned by wire brush prior to assembly.
 2. Bolts and nuts shall be lubricated with a City-approved anti-seize compound.
 3. Nuts shall be tightened in an alternating "star" pattern to the manufacturer's recommended torque.
 4. Coat the exterior of exposed flanges, bolts and nuts located aboveground or within vaults in accordance with Section 09910.
-1. 3.06 MECHANICAL JOINT CONNECTIONS
+1. MECHANICAL JOINT CONNECTIONS
    1. Install mechanical joint connections per AWWA C600 and the manufacturer's recommendations.
 2. Prior to installation of the mechanical joint, clean the socket and plain end of the pipe. Lubricate both the gasket and plain end of the pipe with an approved lubricant per AWWA C111 immediately prior to slipping the gasket onto the plain end of the pipe.
 3. Tighten the bolts to the normal range of bolt torque per the manufacturer's recommendations And AWWA C600, Table 3, as follows:
@@ -148,27 +150,27 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Ductile-Iron', 'Utility', 'Pipe']
    1. 3" 5/8" 61-81 N-M (45-60 ft.-lb.)
    1. 4” - 24" 3/4" 102-122 N-M (75-90 ft.-lb.)
    1. 30” - 36" 1" 136-163 N-M (100-120 ft.-lb.)
-1. 3.07 JOINT BONDING AND CATHODIC PROTECTION
+1. JOINT BONDING AND CATHODIC PROTECTION
    1. Joint bonding to provide continuity, flange insulation kits, internal epoxy linings, and other cathodic protection items and materials shall be installed where shown on the Approved Plans in accordance with the Standard Drawings and Section 13110.
-1. 3.08 COUPLINGS FOR DUCTILE-IRON PIPE
+1. COUPLINGS FOR DUCTILE-IRON PIPE
    1. Grooved-joint couplings shall be used within vaults, above ground, or where indicated on the Approved Plans and shall be installed in accordance with AWWA C606 and Section 15000.
 2. Flanged coupling adapters shall be used where indicated on the Approved Plans and shall be installed per the manufacturer's recommendations.
 3. Flexible couplings shall be used below ground or where indicated on the Approved Plans and shall be installed per Section 15000 and the manufacturer's recommendations.
-1. 3.09 CONCRETE
+1. CONCRETE
    1. Concrete thrust and anchor blocks shall be installed in accordance with Section 03000 and the Standards Drawings. Prior to filling the pipeline with water, refer to Section 03000 for the minimum concrete curing time required.
-1. 3.10 POLYETHYLENE ENCASEMENT
+1. POLYETHYLENE ENCASEMENT
    1. Polyethylene encasement shall be used for the buried installation of ductile-iron pipe and shall be installed in accordance with Section 15000.
-1. 3.11 THRUST AND ANCHOR BLOCKS
+1. THRUST AND ANCHOR BLOCKS
    1. Concrete thrust and anchor blocks shall be installed in accordance with Section 03000 and the Plan Details.
-1. 3.12 JOINT RESTRAINT SYSTEMS
+1. JOINT RESTRAINT SYSTEMS
    1. Joint restraint systems shall be installed in accordance with Section 15000. Joint restraint lengths along new pipelines shall be as shown on the Approved Plans. If the installation of concrete thrust blocks is not practical and use of joint restraint systems are approved by the City Engineer, calculations indicating joint restraint lengths along new pipelines shall be submitted to the City Engineer for approval.
-1. 3.13 TRACER WIRE
+1. TRACER WIRE
    1. Tracer Wire shall be installed in accordance with Section 15000 and the Standard Drawings.
-1. 3.14 WARNING/IDENTIFICATION TAPE
+1. WARNING/IDENTIFICATION TAPE
    1. Warning/Identification tape shall be installed in accordance with Section 15000 and the Standard Drawings.
-1. 3.15 DISINFECTION AND BACTERIOLOGICAL TESTING
+1. DISINFECTION AND BACTERIOLOGICAL TESTING
    1. Disinfection, bacteriological testing, and flushing shall be performed in accordance with Section 15041.
-1. 3.16 HYDROSTATIC TESTING
+1. HYDROSTATIC TESTING
    1. Field hydrostatic testing shall be performed in accordance with Section 15044.
 
 

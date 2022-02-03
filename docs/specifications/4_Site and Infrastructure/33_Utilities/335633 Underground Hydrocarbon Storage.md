@@ -31,7 +31,9 @@ Construction Limits
    1. Shop Drawings
    1. Operation and Maintenance Data  
 Record Drawings
-    1. PART 2 - MATERIALS
+    
+## Products
+
 
 ## General
 
@@ -194,10 +196,10 @@ Underground Tanks
    1. Overfill protection shall be provided by a 95% valve installed in the fill line which reacts to high levels of product in the tank by closing off the fill line to prevent further product introduction.
 1. EMERGENCY EQUIPMENT
    1. Provide a fire extinguisher with a 20BC rating for each tank. Extinguishers shall be installed in the locations indicated on the drawings. Extinguishers shall be installed in a manner that will protect them from adverse weather conditions and will maintain the extinguishers in good working condition. 
-1. P A R T I I I - E X E C U T I O N
 
-## General
+## Execution
 
+1. General
    1. The tank system including appurtenances shall be installed in strict accordance with the manufacturer’s recommendations and applicable fire and environmental codes. State and local permits shall be obtained prior to installation.
    1. Tanks and systems shall be installed by certified installers in accordance with COM 10.91.
 1. BARRICADES AND WARNING DEVICES

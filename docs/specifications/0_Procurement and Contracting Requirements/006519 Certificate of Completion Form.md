@@ -52,9 +52,7 @@ tags: ['Procurement', 'Contracting', 'Requirements', 'Certificate', 'Completion'
     1. 
     1. Arthur Schwartz, Esq.
 
-## General
-
- Counsel
+## General Counsel
     1. National Society of Professional Engineers
     1. 1420 King Street
     1. Alexandria, VA 22314

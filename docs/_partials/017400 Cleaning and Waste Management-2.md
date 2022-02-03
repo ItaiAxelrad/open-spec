@@ -23,28 +23,26 @@ tags: ['General', 'Requirements', 'Cleaning', 'Waste', 'Management']
 
 ## Products
 
-   1. MATERIALS
+1. MATERIALS
    1. Provide required personnel, equipment, and materials needed to maintain the specified standards of cleanliness.
    1. Use only the cleaning materials and equipment which are compatible with the surface being cleaned, as recommended by the manufacturer of the material.
 
 ## Execution
 
-   1. CLEANING
+1. CLEANING
    1. Progress Cleaning
-
-## General
-
-   1. Retain stored items in an orderly arrangement allowing maximum access, not impeding traffic or drainage, and providing required protection of materials.
-   1. Do not allow accumulation of scrap, debris, waste material, and other items not required for construction of this Work.
-   1. At least twice each month, and more often if necessary, completely remove all scrap, debris, and waste material from the job site.
-   1. Provide adequate storage for all items awaiting removal from the job site, observing requirements for fire protection of the ecology.
-   1. Site
-   1. Daily, and more often if necessary, inspect the site and pick up all scrap, debris, and waste material. Remove such items to the place designated for their storage.
-   1. Weekly, and more often if necessary, inspect all arrangements of materials stored on the site. Restack, tidy, or otherwise service arrangements to meet the requirements of subparagraph 3.1 above.
-   1. Maintain the site in a neat and orderly condition at all times.
-   1. Structures:
+   2. General:
+   3. Retain stored items in an orderly arrangement allowing maximum access, not impeding traffic or drainage, and providing required protection of materials.
+   4. Do not allow accumulation of scrap, debris, waste material, and other items not required for construction of this Work.
+   5. At least twice each month, and more often if necessary, completely remove all scrap, debris, and waste material from the job site.
+   6. Provide adequate storage for all items awaiting removal from the job site, observing requirements for fire protection of the ecology.
+   7. Site
+   8. Daily, and more often if necessary, inspect the site and pick up all scrap, debris, and waste material. Remove such items to the place designated for their storage.
+   9. Weekly, and more often if necessary, inspect all arrangements of materials stored on the site. Restack, tidy, or otherwise service arrangements to meet the requirements of subparagraph 3.1 above.
+   10. Maintain the site in a neat and orderly condition at all times.
+   11. Structures:
       1. Weekly, and more often if necessary, inspect the structures and pick up all scrap, debris, and waste material. Remove such items to the place designated for their storage.
-   1. Weekly, and more often if necessary, sweep interior spaces clean.
+   12. Weekly, and more often if necessary, sweep interior spaces clean.
 
 "Clean," for the purpose of this subparagraph, shall be interpreted as meaning free from dust and other material capable of being removed by use of reasonable effort and a hand-held broom.
    1. As required preparatory to installation of succeeding materials, clean the structures or pertinent portions thereof to the degree of cleanliness recommended by the manufacturer of the succeeding material, using equipment and materials required to achieve the necessary cleanliness.

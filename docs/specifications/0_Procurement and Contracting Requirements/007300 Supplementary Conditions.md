@@ -51,9 +51,7 @@ tags: ['Procurement', 'Contracting', 'Requirements', 'Supplementary', 'Condition
     1. 
     1. Arthur Schwartz, Esq.
 
-## General
-
- Counsel
+## General Counsel
     1. National Society of Professional Engineers
     1. 1420 King Street
     1. Alexandria, VA 22314
@@ -121,22 +119,20 @@ tags: ['Procurement', 'Contracting', 'Requirements', 'Supplementary', 'Condition
    1. Page
    1. Introduction 1
 
-## General
-
- 1
-   1. Mandatory Supplementary Conditions 2
-   1. Relationship of Supplementary Conditions to Other Contract Documents 2
-   1. Arrangement of Subject Matter 3
-   1. Use of this Guide 3
-   1. Standard Prefatory Language And Traditional Format For Supplementary Conditions 4
-   1. Table of Contents 4
-   1. Pagination 4
-   1. Format for Complete Paragraph Change 4
-   1. Format for Change within a Paragraph 5
-   1. Format for Additional Language 5
-   1. Format for Additional Paragraph 5
-   1. Alternate Format For Supplementary Conditions 5
-   1. SUGGESTED SUPPLEMENTARY CONDITIONS 6
+ 1. General
+   2. Mandatory Supplementary Conditions 2
+   3. Relationship of Supplementary Conditions to Other Contract Documents 2
+   4. Arrangement of Subject Matter 3
+   5. Use of this Guide 3
+   6. Standard Prefatory Language And Traditional Format For Supplementary Conditions 4
+   7. Table of Contents 4
+   8. Pagination 4
+   9. Format for Complete Paragraph Change 4
+   10. Format for Change within a Paragraph 5
+   11. Format for Additional Language 5
+   12. Format for Additional Paragraph 5
+   13. Alternate Format For Supplementary Conditions 5
+   14. SUGGESTED SUPPLEMENTARY CONDITIONS 6
 Caption and Introductory Statements 6
    1. SC-2.02 Copies of Documents 6
    1. SC-4.02 Subsurface and Physical Conditions 6
@@ -178,13 +174,10 @@ Principal EJCDC Standard Forms and Related Guides for Construction Contracts
    1. Cost-Plus Agreement/A
    1. Standard General Conditions of the Construction Contract
    1. C-700
-
-## General
-
- Conditions/GC
+1. General Conditions/GC
    1. Guide to the Preparation of Supplementary Conditions
-   1. C-800
-   1. Supplementary Conditions/SC
+   2. C-800
+   3. Supplementary Conditions/SC
 1. Table 2  
 Principal EJCDC Documents Relating to Preparation of Construction Documents
 1. Name
@@ -337,9 +330,7 @@ Principal EJCDC Documents Relating to Preparation of Construction Documents
       1. $
 1. Contractor’s General Liability under Paragraphs 5.04.A.3 through A.6 of the General Conditions which shall include completed operations and product liability coverages and eliminate the exclusion with respect to property under the care, custody and control of Contractor:
 
-## General
-
- Aggregate $
+## General Aggregate $
 1. Products - Completed  
 Operations Aggregate $
 1. Personal and Advertising  
@@ -352,9 +343,7 @@ Explosion, Collapse, and Under-ground coverages
 where applicable.
 1. Excess or Umbrella Liability
 
-## General
-
- Aggregate $
+## General Aggregate $
 1. Each Occurrence $
 1. Automobile Liability under Paragraph 5.04.A.6 of the General Conditions:
       1. Bodily Injury:

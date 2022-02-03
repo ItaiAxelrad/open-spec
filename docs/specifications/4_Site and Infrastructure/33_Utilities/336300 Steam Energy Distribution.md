@@ -889,10 +889,10 @@ shall be same as the jacket. Lap and butt strips may be self-sealing type with f
 22. BURIED UTILITY WARNING TAPE
    1. Tape:
       1. 0.004 inch (0.1 mm) thick, 6 inches (150 mm) wide, yellow polyethylene with a ferrous metallic core, acid and alkali-resistant and shall have a minimum strength of 1750 psi (12,000 kPa) lengthwise and 1500 psi (10,300 kPa) crosswise with an elongation factor of 350 percent. Provide bold black letters on the tape identifying the type of system. Tape color and lettering shall be unaffected by moisture and other substances contained in the backfill material.
-EXECUTION
 
-## General
+## EXECUTION
 
+1. General
    1. If the carrier pipe insulation has failed (disintegrated) in an existing buried piping system, but the system is otherwise sound, there is an alternative to total replacement of injecting foam insulation into the existing system from above grade.
    1. Connect new work to existing work in a neat and workmanlike manner. Where an existing structure must be cut or existing utilities interfere, such obstruction shall be bypassed, removed, replaced or relocated, patched and repaired. Piping connections shall be made only in manholes, tunnels or buildings.
    1. Coordinate the location of all items of equipment and work of all trades. Maintain operability and maintainability of the equipment and systems. The contractor at his cost shall perform any relocation of equipment or systems to comply with the requirement of operability and maintainability.
@@ -1299,10 +1299,7 @@ compatible liquid may be used.
    1. APPENDIX I
    1. ALLOWABLE SITE CHARACTERISTICS FOR CONCRETE SHALLOW TRENCH APPLICATION (SEE NOTE 1)
    1. SITE CONDITION
-
-## General
-
- CONDITIONS OF GROUND WATER DURING THE WETTEST PERIOD OF
+1. General CONDITIONS OF GROUND WATER DURING THE WETTEST PERIOD OF
    1. THE YEAR
    1. SURFACE WATER ACCUMULATION RAINFALL/
    1. IRRIGATION
@@ -1343,10 +1340,7 @@ Same as for A. above.
 5. Lowest point of water entry is defined as the joint between trench wall and trench bottom.
 21. APPENDIX II - CLASSIFICATIONS FOR DIRECT BURIED SYSTEMS A. Groundwater conditions:
       1. Site Classification
-
-## General
-
- Conditions for Such Classifications
+1. General Conditions for Such Classifications
    1. A - Severe
 1. The water table is expected to be frequently above the bottom of the system and surface water is expected to accumulate and remain for long
    1. periods in the soil surrounding the system, or

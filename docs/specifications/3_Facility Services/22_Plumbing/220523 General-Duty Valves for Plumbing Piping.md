@@ -85,9 +85,7 @@ tags: ['Facility', 'Services', 'Plumbing', 'General-Duty', 'Valves', 'Piping']
 
 ## PRODUCTS
 
-
-## General
-
+1. General
    1. Provide valves of manufacturers listed below and of the figure numbers listed, or as updated by the manufacturer. Submittals containing outdated figure numbers will be rejected. Manufacturers and numbers not listed are unacceptable. 
    1. Provide butterfly and plug valves NPS 4 and larger with worm gear operators with position indicators.
    1. Provide butterfly, ball and plug valves of bubble-tight and dead end construction.
@@ -316,10 +314,8 @@ tags: ['Facility', 'Services', 'Plumbing', 'General-Duty', 'Valves', 'Piping']
    1. See Division 22 related sections of the Specifications.
 1. ADJUSTING
    1. Adjust or replace valve packing after piping systems have been tested and put into service but before final adjusting and balancing. Replace valves if persistent leaking occurs.
-1. VALVE INSTALLATION*
-## General
-
-
+1. VALVE INSTALLATION
+  1. General
    1. Provide isolation valves in piping services where branch lines connect to mains and risers. 
    1. Provide isolation valves where service is fully open or closed. 
    1. Provide throttling valves where pressure regulation or modulating flow are required. 
@@ -339,4 +335,3 @@ tags: ['Facility', 'Services', 'Plumbing', 'General-Duty', 'Valves', 'Piping']
    1. Cast copper solder male adapter or union to screwed valves. 
    1. Copper solder joint companion flange unit.
    1. Solder joint valve substitutions for valves specified are not permitted. 
-

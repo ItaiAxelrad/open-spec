@@ -187,7 +187,9 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Common', 'Motor', 'Requirements',
 1. *This paragraph requires careful coordination with the local utility company requirements and the electrical design consultant. It must be edited and expanded specifically for each project. As a general guide only, 200 volt or 230 volt motors over 20 hp and 460 volt motors over 50 hp may need some means of limiting the inrush current on startup.*
 1. MOTORS USED ON VARIABLE FREQUENCY DRIVES
    1. In addition to the requirements specified above, the motor must be suitable for use with the drive specified in Section 23 05 14, including but not limited to motor cooling.
-1. P A R T 3 - E X E C U T I O N
+
+## Execution
+
 1. INSTALLATION
    1. Mount motors on a rigid base designed to accept a motor, using shims if required under each mounting foot to get a secure installation.
    1. When motor will be flexible coupled to the driven device, mount coupling to the shafts in accordance with the coupling manufacturer's recommendations. Check parallel and angular misalignment of the two shafts. Adjust motor position as necessary so that the misalignment of the shafts does not exceed the limits in the table:

@@ -6,11 +6,6 @@ divName: General Requirements
 subgroup: General Requirements
 tags: ['General', 'Requirements', 'Summary', 'Work', 'SM']
 ---
-
-## General
-
- REQUIREMENTS
-1. 
 ## General
 
 01. DEFINITIONS
@@ -69,8 +64,7 @@ tags: ['General', 'Requirements', 'Summary', 'Work', 'SM']
       1. trench restoration; sheeting, shoring, and bracing; dewatering; spill prevention; vehicular, pedestrian and bike path traffic control; implementation of a Water Pollution Control Program and Best Management Practices; and all appurtenant work as shown on the plans and delineated in the specifications.
 03. RELATED WORK SPECIFIED ELSEWHERE
 
-## General
-
+1. General
     1. CONDITIONS
 2. Standard Specifications 01045, 01200, 01310, 01330, 01505, 01510, 01570, 02140, 02222, 02223, 02511, 02528, 02578, 03000, 03480, 03482, 09902, 09910, and Division 15.
 04. SPECIAL PROVISIONS AND OTHER MISCELLANEOUS ITEMS
@@ -267,7 +261,9 @@ tags: ['General', 'Requirements', 'Summary', 'Work', 'SM']
    1. Refer to GENERAL CONDITION Articles 3.8 for additional requirements.
 34. PARKING
    1. The City of Santa Monica does not provide for parking for Contractors and their employees outside of the construction work area limits. All associated costs and difficulties of parking off site are the responsibility of the contractor and shall be included in the bid price.
-1. PART 2 MATERIALS -** Not Used
+
+## Products
+ -** Not Used
 1. 
 
 ## Execution

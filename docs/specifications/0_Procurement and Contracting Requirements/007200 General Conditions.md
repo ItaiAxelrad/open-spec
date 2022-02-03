@@ -6,12 +6,7 @@ divName: Procurement and Contracting Requirements
 subgroup: Procurement and Contracting Requirements
 tags: ['Procurement', 'Contracting', 'Requirements', 'General', 'Conditions']
 ---
-
-   1. Section 00 72 00
-
-## General
-
- Conditions
+## General Conditions
    1. DEFINITIONS
 2. ADDITIONAL INSTRUCTIONS AND DETAIL DRAWINGS
 3. SCHEDULES, REPORTS AND RECORDS

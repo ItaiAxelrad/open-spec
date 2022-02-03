@@ -24,7 +24,7 @@ tags: ['General', 'Requirements', 'Temporary', 'Tree', 'Plant', 'Protection']
 
 ## Product
 
-1. 2.01 REPLACEMENT TREES AND SHRUBS
+1. REPLACEMENT TREES AND SHRUBS
    1. Species:
       1. Same as removed tree or shrub or other species approved by the Contracting Officer.
    1. Size:
@@ -40,10 +40,10 @@ tags: ['General', 'Requirements', 'Temporary', 'Tree', 'Plant', 'Protection']
    5. Minimize, to the greatest extent practicable, clearings and cuts through vegetation. Irregularly shape authorized clearings and cuts to soften undesirable aesthetic impacts.
    6. Do not use trees for anchorage except in emergency cases or as approved by the Contracting Officer's Representative. For such use, wrap the trunk with a sufficient thickness of approved protective material before any rope, cable, or wire is placed.
    7. Use safety ropes where tree climbing is necessary; do not use climbing spurs.
-1. 3.02 REPAIR OR TREATMENT
+1. REPAIR OR TREATMENT
    1. The Contractor is responsible for injuries to vegetation caused by Contractor operations, personnel, or equipment.
    2. Repair or treat injured vegetation without delay and as recommended by and under direction of an experienced horticulturist or licensed tree surgeon approved by the Contracting Officer's Representative.
-2. 3.03 REPLACEMENT
+1. REPLACEMENT
    1. Remove and dispose of trees or shrubs not required or otherwise authorized to be removed that, in the opinion of the Contracting Officer, is damaged or injured beyond saving by Contractor operations, personnel, or equipment.
    2. Replace removed tree or shrub with tree or shrub approved by the Contracting Officer.
 3. END OF SECTION 01569

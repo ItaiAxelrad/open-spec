@@ -57,49 +57,39 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Concrete', 'Manholes']
 
 ## Execution
 
-	1. General:
+1. General:
    1. INSTALLATION OF Sanitary Sewer MANHOLES:
-
-## General
-
-. Manholes shall be constructed to conform to the details shown on the drawings. Channel inverts shall be smooth and U-shaped, conforming to the inside diameter of the existing incoming and outgoing pipelines. Changes in direction of flow shall be made with a channel of a smooth curve of as large a radius as the size of the manhole will permit. Changes in size and grade of the channels shall be made gradually and evenly. Where differences in existing pipeline invert elevations exist, sloped flow channels shall be formed so the fluid does not undergo a vertical drop. The floor of the manhole outside of the channel shall be smooth and shall slope toward the channels not less than 1 inch per foot nor more than 2 inches per foot.
+2. Manholes shall be constructed to conform to the details shown on the drawings. Channel inverts shall be smooth and U-shaped, conforming to the inside diameter of the existing incoming and outgoing pipelines. Changes in direction of flow shall be made with a channel of a smooth curve of as large a radius as the size of the manhole will permit. Changes in size and grade of the channels shall be made gradually and evenly. Where differences in existing pipeline invert elevations exist, sloped flow channels shall be formed so the fluid does not undergo a vertical drop. The floor of the manhole outside of the channel shall be smooth and shall slope toward the channels not less than 1 inch per foot nor more than 2 inches per foot.
    1. The manhole cover shall be set with its top at the grade line as set forth on the Drawings. When a manhole top is above the ground line, compacted backfill shall be placed around the exposed section as shown on the Drawings. Manhole tops without bolted, gasket covers shall not be set at or below surrounding grade, except in paved roadways. The site shall be graded so that drainage is away from the manhole.
-   1. Outside each manhole where the pipe enters/exits, and within 12﷓inches of the manhole base, the Contractor shall install a bell section of pipe, or a flexible joint as shown on the drawings.
-   1. Cast-In-Place Manhole Base. The invert channels may be formed directly in the concrete of the manhole base.
-   1. Precast Manhole Base. The Contractor will have the option to install a precast manhole base subject to the approval of the Engineer. If the Contractor elects to use a precast base, any revisions required to accommodate actual field locations will be at no additional cost to the Owner. The Contractor shall make no claim to the Owner in a situation where a cast-in-place base would have accommodated such revisions.
+   2. Outside each manhole where the pipe enters/exits, and within 12﷓inches of the manhole base, the Contractor shall install a bell section of pipe, or a flexible joint as shown on the drawings.
+   3. Cast-In-Place Manhole Base. The invert channels may be formed directly in the concrete of the manhole base.
+   4. Precast Manhole Base. The Contractor will have the option to install a precast manhole base subject to the approval of the Engineer. If the Contractor elects to use a precast base, any revisions required to accommodate actual field locations will be at no additional cost to the Owner. The Contractor shall make no claim to the Owner in a situation where a cast-in-place base would have accommodated such revisions.
 
-   1. The area beneath the manhole shall be over-excavated 3 to 4 inches beneath the bottom elevation of the manhole. Squeegee backfill material, free of fines, shall be compacted in place for foundational support of the manhole. Screed boards shall be set level at the right elevation and the compacted material screeded to form a uniformly graded foundation. The surface grade of the newly compacted backfill shall be checked and surveyed to ensure a uniform surface elevation beneath the entire manhole base, such that the invert elevations of the channel within the manhole are as shown on the Contract drawings.
-   1. The precast base shall be carefully set so as not to disturb the screeded granular base.
-   1. Manhole Barrel. Each joint of the precast manhole barrel shall have at least one continuous gasket placed on the lower ledge before the barrel immediately above is lowered into place.
-   1. Grouting. Any opening between manhole walls and pipe made by the Contractor, or as designated elsewhere, shall be closed watertight with grout. The opening shall be of sufficient size to accommodate the pipe, “O” rings, and grout. The grout shall extend no less than the full width of the manhole barrel.
-   1. iNSTALLATION OF sTORM sEWER MANHOLES:
-
-## General
-
-. Manholes shall be constructed to conform to the details shown on the drawings. Channel inverts shall be smooth and U-shaped, conforming to the inside diameter of the existing incoming and outgoing pipelines. Changes in direction of flow shall be made with a channel of a smooth curve of as large a radius as the size of the manhole will permit. Changes in size and grade of the channels shall be made gradually and evenly. Where differences in existing pipeline invert elevations exist, sloped flow channels shall be formed so the fluid does not undergo a vertical drop. The floor of the manhole outside of the channel shall be smooth and shall slope toward the channels not less than 1 inch per foot nor more than 2 inches per foot.
-   1. The manhole cover shall be set with its top at the grade line as set forth on the Drawings. When a manhole top is above the ground line, compacted backfill shall be placed around the exposed section as shown on the Drawings. Manhole tops without bolted, gasket covers shall not be set at or below surrounding grade, except in paved roadways. The site shall be graded so that drainage is away from the manhole.
-   1. Outside each manhole where the pipe enters/exits, and within 12-inches of the manhole base, the Contractor shall install a bell section of pipe, or a flexible joint as shown on the drawings.
-   1. Cast-In-Place Manhole Base. The invert channels may be formed directly in the concrete of the manhole base.
-   1. Precast Manhole Base. The Contractor will have the option to install a precast manhole base subject to the approval of the Engineer. If the Contractor elects to use a precast base, any revisions required to accommodate actual field locations will be at no additional cost to the Owner. The Contractor shall make no claim to the Owner in a situation where a cast-in-place base would have accommodated such revisions.
-
-   1. The area beneath the manhole shall be over-excavated 3 to 4 inches beneath the bottom elevation of the manhole. Squeegee backfill material, free of fines, shall be compacted in place for foundational support of the manhole. Screed boards shall be set level at the right elevation and the compacted material screeded to form a uniformly graded foundation. The surface grade of the newly compacted backfill shall be checked and surveyed to ensure a uniform surface elevation beneath the entire manhole base, such that the invert elevations of the channel within the manhole are as shown on the Contract drawings.
-   1. The precast base shall be carefully set so as not to disturb the screeded granular base.
-   1. Manhole Barrel. Each joint of the precast manhole barrel shall have at least one continuous gasket placed on the lower ledge before the barrel immediately above is lowered into place.
-   1. Grouting. Any opening between manhole walls and pipe made by the Contractor, or as designated elsewhere, shall be closed watertight with grout.
-   1. Testing Manholes. During the construction of the manholes, the Contractor shall, in accordance with good practice, insure that no earth, sand, rocks or other foreign material exists on the joint surface during assembly of the sections.
-
-   1. Visual Examination. The Inspector shall visually check each manhole, both exterior and interior, for flaws, cracks, holes, or other inadequacies which might affect the operation or watertight integrity of the manhole. Should any inadequacies be found, the Contractor shall make any repairs deemed necessary by the Inspector.
-   1. Leakage Test. All manholes shall be tested for leakage and all tests shall be witnessed by the Inspector. The leakage test shall be conducted prior to backfilling around the manhole and shall be carried out in the following manner:
+   5. The area beneath the manhole shall be over-excavated 3 to 4 inches beneath the bottom elevation of the manhole. Squeegee backfill material, free of fines, shall be compacted in place for foundational support of the manhole. Screed boards shall be set level at the right elevation and the compacted material screeded to form a uniformly graded foundation. The surface grade of the newly compacted backfill shall be checked and surveyed to ensure a uniform surface elevation beneath the entire manhole base, such that the invert elevations of the channel within the manhole are as shown on the Contract drawings.
+   6. The precast base shall be carefully set so as not to disturb the screeded granular base.
+   7. Manhole Barrel. Each joint of the precast manhole barrel shall have at least one continuous gasket placed on the lower ledge before the barrel immediately above is lowered into place.
+   8. Grouting. Any opening between manhole walls and pipe made by the Contractor, or as designated elsewhere, shall be closed watertight with grout. The opening shall be of sufficient size to accommodate the pipe, “O” rings, and grout. The grout shall extend no less than the full width of the manhole barrel.
+9. INSTALLATION OF sTORM sEWER MANHOLES:
+   10. Manholes shall be constructed to conform to the details shown on the drawings. Channel inverts shall be smooth and U-shaped, conforming to the inside diameter of the existing incoming and outgoing pipelines. Changes in direction of flow shall be made with a channel of a smooth curve of as large a radius as the size of the manhole will permit. Changes in size and grade of the channels shall be made gradually and evenly. Where differences in existing pipeline invert elevations exist, sloped flow channels shall be formed so the fluid does not undergo a vertical drop. The floor of the manhole outside of the channel shall be smooth and shall slope toward the channels not less than 1 inch per foot nor more than 2 inches per foot.
+   11. The manhole cover shall be set with its top at the grade line as set forth on the Drawings. When a manhole top is above the ground line, compacted backfill shall be placed around the exposed section as shown on the Drawings. Manhole tops without bolted, gasket covers shall not be set at or below surrounding grade, except in paved roadways. The site shall be graded so that drainage is away from the manhole.
+   12. Outside each manhole where the pipe enters/exits, and within 12-inches of the manhole base, the Contractor shall install a bell section of pipe, or a flexible joint as shown on the drawings.
+   13. Cast-In-Place Manhole Base. The invert channels may be formed directly in the concrete of the manhole base.
+   14. Precast Manhole Base. The Contractor will have the option to install a precast manhole base subject to the approval of the Engineer. If the Contractor elects to use a precast base, any revisions required to accommodate actual field locations will be at no additional cost to the Owner. The Contractor shall make no claim to the Owner in a situation where a cast-in-place base would have accommodated such revisions.
+   15. The area beneath the manhole shall be over-excavated 3 to 4 inches beneath the bottom elevation of the manhole. Squeegee backfill material, free of fines, shall be compacted in place for foundational support of the manhole. Screed boards shall be set level at the right elevation and the compacted material screeded to form a uniformly graded foundation. The surface grade of the newly compacted backfill shall be checked and surveyed to ensure a uniform surface elevation beneath the entire manhole base, such that the invert elevations of the channel within the manhole are as shown on the Contract drawings.
+   16. The precast base shall be carefully set so as not to disturb the screeded granular base.
+   17. Manhole Barrel. Each joint of the precast manhole barrel shall have at least one continuous gasket placed on the lower ledge before the barrel immediately above is lowered into place.
+   18. Grouting. Any opening between manhole walls and pipe made by the Contractor, or as designated elsewhere, shall be closed watertight with grout.
+   19. Testing Manholes. During the construction of the manholes, the Contractor shall, in accordance with good practice, insure that no earth, sand, rocks or other foreign material exists on the joint surface during assembly of the sections.
+   20. Visual Examination. The Inspector shall visually check each manhole, both exterior and interior, for flaws, cracks, holes, or other inadequacies which might affect the operation or watertight integrity of the manhole. Should any inadequacies be found, the Contractor shall make any repairs deemed necessary by the Inspector.
+   21. Leakage Test. All manholes shall be tested for leakage and all tests shall be witnessed by the Inspector. The leakage test shall be conducted prior to backfilling around the manhole and shall be carried out in the following manner:
       1. All lines leading into or out of the manhole shall be tightly plugged.
-   1. The manhole shall be filled with water to a level at least 2 inches above the uppermost step. The water shall be allowed to stand for two hours to allow for normal water absorption into the manhole material. At the end of the two-hour stabilization period, if the water level in the manhole has dropped below the top step, additional water will be added to bring the level 2 inches above the step as before. Any visible external leakage or drop in water level noted within the one-hour test period shall constitute failure and the Contractor shall repair or replace the defective work and retest.
-   1. Air Test. At the option of the Contractor, air testing of the installed manhole may be used instead of leakage test.
-   1. If the time shown in Table 2, for the designated manhole size and depth, elapses before the air pressure drops 1-inch of mercury (from 10-inches to 9-inches), the section undergoing test shall be considered to have passed.
-
-   1. TABLE 2 – MANHOLE AIR TEST MAXIMUM ALLOWABLE LEAKAGE
-   1. Depth of
-   1. Manhole
-   1. TIME (Seconds)
-
+   22. The manhole shall be filled with water to a level at least 2 inches above the uppermost step. The water shall be allowed to stand for two hours to allow for normal water absorption into the manhole material. At the end of the two-hour stabilization period, if the water level in the manhole has dropped below the top step, additional water will be added to bring the level 2 inches above the step as before. Any visible external leakage or drop in water level noted within the one-hour test period shall constitute failure and the Contractor shall repair or replace the defective work and retest.
+   23. Air Test. At the option of the Contractor, air testing of the installed manhole may be used instead of leakage test.
+   24. If the time shown in Table 2, for the designated manhole size and depth, elapses before the air pressure drops 1-inch of mercury (from 10-inches to 9-inches), the section undergoing test shall be considered to have passed.
+   25. TABLE 2 – MANHOLE AIR TEST MAXIMUM ALLOWABLE LEAKAGE
+   26. Depth of
+   27. Manhole
+   28. TIME (Seconds)
 (ft)
    1. 48" Diameter
    1. 60" Diameter
@@ -146,30 +136,21 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Concrete', 'Manholes']
    1. MEASUREMENT AND PAYMENT
    1. TRENCHING:
       1. Trench excavation and backfill will be paid for as described in Section 02222.
-   
-
    1. MWE STD:
       1. BURIED PIPELINES INSTALLATION:
       1. POTABLE WATER
    1. List deletions, additions, and significant changes to this specification made specifically for this project.
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-   1. THE FOLLOWING APPLIES TO THE MATERIALS SECTION OF THIS SPECIFICATION:
+   2. THE FOLLOWING APPLIES TO THE MATERIALS SECTION OF THIS SPECIFICATION:
       1. 1-1 HISTORY:
             1. 1-2 MODIFICATIONS:
          1. Megalugs added to thrust restraints August 2004
-   1. 
-   1. 
-1-3 USE OF SPEC:
+   3. 1-3 USE OF SPEC:
       1. P?
-   1. P.
-   1. P:
+   4. P.
+   5. P:
       1. T.
-      1. A
+      2. A
 THE FOLLOWING APPLIES TO THE EXECUTION SECTION OF THIS SPECIFICATION:
       1. 1-4 HISTORY
-   1. 
-1-5 MODIFICATIONS
+   1. 1-5 MODIFICATIONS
    1. 1-6 USE OF SPECIFICATION
-   
-

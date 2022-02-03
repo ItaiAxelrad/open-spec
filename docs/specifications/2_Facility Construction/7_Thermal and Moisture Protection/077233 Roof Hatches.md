@@ -92,7 +92,7 @@ in 1.09.
 
 ## Product
 
-1. 2.01 MANUFACTURER
+1. MANUFACTURER
    1. A Provide **Milcor™** Roof Access Hatches as manufactured by:
          1. Milcor™** Company
    1. 5030 Corporate Exchange Blvd. SE
@@ -105,7 +105,7 @@ in 1.09.
       1. infomilcorinc.com
    1. Website:
       1. http://www.milcorinc.com
-1. 2.02 ROOF ACCESS HATCH
+1. ROOF ACCESS HATCH
    1. Milcor™ M-3,** Single Leaf:
       1. Spring Mounted in Frame.
 2. Size:
@@ -132,16 +132,16 @@ in 1.09.
 
 ## Execution
 
-1. 3.01 INSPECTION
+1. INSPECTION
    1. Verify that Milcor™ Roof Access Hatch installation will not disrupt other trades. Verify that the substrate is dry, clean, and free of foreign matter. Report and correct any defects prior to any installation.
    1. Verify by comparing packing slip and box label that product is per specification.
-1. 3.02 SURFACE PREPARATION
+1. SURFACE PREPARATION
    1. Refer to manufacturer’s product literature for surface preparation requirements. Surfaces should be structurally sound, free of voids, spalls, loose aggregate and sharp ridges. Remove dust, dirt, debris or any other foreign materials. 
-1. 3.03 INSTALLATION
+1. INSTALLATION
    1. Submit product design drawings for review and approval to the Architect/Specifier before fabrication.
    1. Installer shall check as-built conditions and verify the manufacturer’s roof hatch details for accuracy to fit the applications prior to fabrication. The installer shall comply with the roof hatch manufacturer’s installation instructions.
    1. The installer shall furnish mechanical fasteners consistent with the roof requirements.
-1. 3.04 CLEANING AND PROTECTION
+1. CLEANING AND PROTECTION
    1. Product requires no spill or leak containment. Dispose of damaged material in accordance with all governmental regulations. 
    1. Protect completed work from subsequent construction activities as recommended by manufacturer.
 07 72 33

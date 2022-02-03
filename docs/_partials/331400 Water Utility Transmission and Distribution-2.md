@@ -7,55 +7,40 @@ subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Utilities', 'Water', 'Utility', 'Transmission', 'Distribution']
 ---
 
-
-   1. water UTILITY distribution PIPING
-1. BASED ON DFD MASTER SPECIFICATION DATED 09/01/2015
-   1. This section has been written to cover most (but not all) situations that you will encounter. Depending on the requirements of your specific project, you may have to add material, delete items, or modify what is currently written. The Division of Facilities Development expects changes and comments from you.
-1. *Modify this document to account for project specific conditions.*
-1. *Note to the Designer:
-      1. If project also includes plumbing coordinate this section with:**
-* ***Section 22 11 00 – Facility Water Distribution*
-
- ***and clearly define party responsible for testing of the respective utility on the Drawings.*
-
 ## General
 
 1. SCOPE
    1. The work under this section shall consist of providing all work, materials, labor, equipment, and supervision necessary to provide water distribution system components and other work, as required in these specifications, on the drawings and as otherwise deemed necessary to complete the work. The limits of the work, including the responsible party for testing purposes, shall be clearly defined on the Drawings. Included are the following topics:
-## General
-
-   1. Scope
-   1. Related Work
-   1. Reference Documents
-   1. Reference Standards
-   1. Submittals
-   1. Continuity of Existing Water Distribution System
-   1. Provisions for Future Work
-   1. As-Built Drawings
-   1. PART 2 - Materials
-   1. Ductile Iron Watermain
-   1. PVC Watermain
-   1. HDPE Watermain
-   1. Copper Water Service
-   1. Ductile Iron Watermain Fittings
-   1. Polyethylene Fittings
-   1. Valves
-   1. Brass Water Service Fittings
-   1. Valve Boxes
-   1. Hydrants
-   1. Joint Restraints
-   1. Polyethylene Encasement Bag
-   1. Board Insulation
-   1. Tracer Wire
-   1. Locator Tape
-   1. Chlorine
-   1. Pipe Joint Lubricant
+   2. Scope
+   3. Related Work
+   4. Reference Documents
+   5. Reference Standards
+   6. Submittals
+   7. Continuity of Existing Water Distribution System
+   8. Provisions for Future Work
+   9. As-Built Drawings
+   10. PART 2 - Materials
+   11. Ductile Iron Watermain
+   12. PVC Watermain
+   13. HDPE Watermain
+   14. Copper Water Service
+   15. Ductile Iron Watermain Fittings
+   16. Polyethylene Fittings
+   17. Valves
+   18. Brass Water Service Fittings
+   19. Valve Boxes
+   20. Hydrants
+   21. Joint Restraints
+   22. Polyethylene Encasement Bag
+   23. Board Insulation
+   24. Tracer Wire
+   25. Locator Tape
+   26. Chlorine
+   27. Pipe Joint Lubricant
 
 ## Execution
 
-
-## General
-
+1. General
    1. Connection to Existing Mains/Tapping
    1. Bedding /Utility Cover
    1. Laying Watermain
@@ -123,7 +108,9 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Water', 'Utility', 'Transmission'
    1. Unless otherwise shown on the drawings, provide valves on “dead end” mains that will allow dry connection to the watermain system. Terminate “dead end” mains with full length of pipe beyond the valve, and a bell end with restrained plug.
    1. AS-Built drawings
    1. Show the actual locations of watermain and services, valves and hydrants on drawings and show changes to proposed watermain size, alignment, or grades. Show the actual locations, sizes and types of underground utilities and other features encountered during construction.
-   1. PART 2 - MATERIALS
+   
+## Products
+
    1. Note to the designer:
       1. Edit material requirements to account for agency/institution and local utility requirements, or variations in material availability. Comply with the substantive requirements of the materials described below.
 1. Ductile iron watermain
@@ -314,9 +301,7 @@ Value
 
 ## Execution
 
-
-## General
-
+1. General
    1. Complete exploratory excavations at utility crossings as shown on the drawings and as necessary to complete the work.
    1. Maintain clearances between watermains and existing or proposed sewer lines as follows:
 * 8’ horizontal separation (measured center to center) between watermains and existing or proposed sanitary or storm sewers.

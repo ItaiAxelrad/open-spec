@@ -15,90 +15,87 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Clearing', 'Owner', 'proj']
    1. All current Owner standards and specifications shall apply, including but not limited to:
       1. Owner CONSTRUCTION SPECIFICATIONS
 1. SUMMARY
-
-## General
-
- site clearing related to the swale and transformer grading.
-   1. Section Includes:
+   1. General site clearing related to the swale and transformer grading.
+   2. Section Includes:
       1. Protecting existing vegetation to remain.
-   1. Removing existing vegetation.
-   1. Clearing and grubbing.
-   1. Stripping and stockpiling topsoil.
-   1. Removing above- and below-grade site improvements.
-   1. Disconnecting, capping or sealing, and removing site utilities.
-   1. Retain subparagraph below if erosion- and sedimentation-control measures are not included in Division 01 Section "Temporary Facilities and Controls."
-   1. Temporary erosion- and sedimentation-control measures.
-   1. Related Sections:
+   3. Removing existing vegetation.
+   4. Clearing and grubbing.
+   5. Stripping and stockpiling topsoil.
+   6. Removing above- and below-grade site improvements.
+   7. Disconnecting, capping or sealing, and removing site utilities.
+   8. Retain subparagraph below if erosion- and sedimentation-control measures are not included in Division 01 Section "Temporary Facilities and Controls."
+   9. Temporary erosion- and sedimentation-control measures.
+   10. Related Sections:
       1. Retain Sections in subparagraphs below that contain requirements Contractor might expect to find in this Section but are specified in other Sections.
-   1. Division 01 Section "Temporary Facilities and Controls" for temporary utility services, construction and support facilities, security and protection facilities**,** and temporary erosion- and sedimentation-control measures.
-   1. Division 01 Section "Execution" for field engineering and surveying.
-   1. Division 01 Section "Construction Waste Management and Disposal.
-   1. Division 02 Section "Structure Demolition" for demolition of buildings, structures, and site improvements.
-   1. Division 02 Section "Selective Structure Demolition" for partial demolition of buildings or structures.
-   1. DEFINITIONS
-   1. Retain definitions remaining after this Section has been edited.
-   1. Subsoil:
-      1. All soil beneath the topsoil layer of the soil profile, and typified by the lack of organic matter and soil organisms.
-   1. Surface Soil:
-      1. Soil that is present at the top layer of the existing soil profile at the Project site. In undisturbed areas, the surface soil is typically topsoil; but in disturbed areas such as urban environments, the surface soil can be subsoil.
-   1. Retain one of first two paragraphs below; revise to define "topsoil" according to local practices if required. Topsoil is raw material that typically needs screening and amending before meeting planting soil mix requirements. First paragraph assumes topsoil depth is known and shown or specified; second paragraph assumes that Contractor will identify and determine depth of existing topsoil. Coordinate with "Topsoil Stripping" Article.
-   1. Topsoil:
-      1. Top layer of the soil profile consisting of existing native surface topsoil or existing in-place surface soil and is the zone where plant roots grow.
-   1. Topsoil:
-      1. Top layer of the soil profile consisting of existing native surface topsoil or existing in-place surface soil and is the zone where plant roots grow. Its appearance is generally friable, pervious, and black or a darker shade of brown, gray, or red than underlying subsoil; reasonably free of subsoil, clay lumps, gravel, and other objects more than 2 inches in diameter; and free of subsoil and weeds, roots, toxic materials, or other nonsoil materials.
-   1. Retain one or both of first two paragraphs to suit Project. See Evaluations.
-   1. Plant-Protection Zone:
-      1. Area surrounding individual trees, groups of trees, shrubs, or other vegetation to be protected during construction, and indicated on Drawings.
-   1. Retain second option in first paragraph below if Contractor will determine extent of one or more tree-protection zones.
-   1. Tree-Protection Zone:
-      1. Area surrounding individual trees or groups of trees to be protected during construction.
-   1. Vegetation:
-      1. Trees, shrubs, groundcovers, grass, and other plants.
-   1. MATERIAL OWNERSHIP
-   1. Except for stripped topsoil and other materials indicated to be stockpiled or otherwise remain Owner's property, cleared materials shall become Contractor's property and shall be removed from Project site.
-1. SUBMITTALS
+   11. Division 01 Section "Temporary Facilities and Controls" for temporary utility services, construction and support facilities, security and protection facilities**,** and temporary erosion- and sedimentation-control measures.
+   12. Division 01 Section "Execution" for field engineering and surveying.
+   13. Division 01 Section "Construction Waste Management and Disposal.
+   14. Division 02 Section "Structure Demolition" for demolition of buildings, structures, and site improvements.
+   15. Division 02 Section "Selective Structure Demolition" for partial demolition of buildings or structures.
+   16. DEFINITIONS
+   17. Retain definitions remaining after this Section has been edited.
+   18. Subsoil:
+      2. All soil beneath the topsoil layer of the soil profile, and typified by the lack of organic matter and soil organisms.
+   19. Surface Soil:
+      3. Soil that is present at the top layer of the existing soil profile at the Project site. In undisturbed areas, the surface soil is typically topsoil; but in disturbed areas such as urban environments, the surface soil can be subsoil.
+   20. Retain one of first two paragraphs below; revise to define "topsoil" according to local practices if required. Topsoil is raw material that typically needs screening and amending before meeting planting soil mix requirements. First paragraph assumes topsoil depth is known and shown or specified; second paragraph assumes that Contractor will identify and determine depth of existing topsoil. Coordinate with "Topsoil Stripping" Article.
+   21. Topsoil:
+      4. Top layer of the soil profile consisting of existing native surface topsoil or existing in-place surface soil and is the zone where plant roots grow.
+   22. Topsoil:
+      5. Top layer of the soil profile consisting of existing native surface topsoil or existing in-place surface soil and is the zone where plant roots grow. Its appearance is generally friable, pervious, and black or a darker shade of brown, gray, or red than underlying subsoil; reasonably free of subsoil, clay lumps, gravel, and other objects more than 2 inches in diameter; and free of subsoil and weeds, roots, toxic materials, or other nonsoil materials.
+   23. Retain one or both of first two paragraphs to suit Project. See Evaluations.
+   24. Plant-Protection Zone:
+      6. Area surrounding individual trees, groups of trees, shrubs, or other vegetation to be protected during construction, and indicated on Drawings.
+   25. Retain second option in first paragraph below if Contractor will determine extent of one or more tree-protection zones.
+   26. Tree-Protection Zone:
+      7. Area surrounding individual trees or groups of trees to be protected during construction.
+   27. Vegetation:
+      8. Trees, shrubs, groundcovers, grass, and other plants.
+   28. MATERIAL OWNERSHIP
+   29. Except for stripped topsoil and other materials indicated to be stockpiled or otherwise remain Owner's property, cleared materials shall become Contractor's property and shall be removed from Project site.
+2. SUBMITTALS
    1. Paragraphs below are defined in Division 01 Section "Submittal Procedures" as "Informational Submittals."
-   1. Existing Conditions:
+   2. Existing Conditions:
       1. Documentation of existing trees and plantings, adjoining construction, and site improvements that establishes preconstruction conditions that might be misconstrued as damage caused by site clearing.
-   1. Revise subparagraphs below and insert additional requirements to suit Project.
-   1. Use sufficiently detailed photographs or videotape.
-   1. Include plans and notations to indicate specific wounds and damage conditions of each tree or other plants designated to remain.
-   1. Revise paragraph below to suit Project.
-   1. Record Drawings:
+   3. Revise subparagraphs below and insert additional requirements to suit Project.
+   4. Use sufficiently detailed photographs or videotape.
+   5. Include plans and notations to indicate specific wounds and damage conditions of each tree or other plants designated to remain.
+   6. Revise paragraph below to suit Project.
+   7. Record Drawings:
       1. Identifying and accurately showing locations of capped utilities and other subsurface structural, electrical, and mechanical conditions.
-1. QUALITY ASSURANCE
+3. QUALITY ASSURANCE
    1. Retain this article if Work of this Section is extensive or complex enough to justify a preinstallation conference.
-   1. Preinstallation Conference:
+   2. Preinstallation Conference:
       1. Conduct conference at project location.
-1. PROJECT CONDITIONS
+4. PROJECT CONDITIONS
    1. Traffic:
       1. Minimize interference with adjoining roads, streets, walks, and other adjacent occupied or used facilities during site-clearing operations.
-   1. Do not close or obstruct streets, walks, or other adjacent occupied or used facilities without permission from Owner and authorities having jurisdiction.
-   1. Provide alternate routes around closed or obstructed traffic ways if required by Owner or authorities having jurisdiction.
-   1. Retain first paragraph below to suit Project; coordinate with Owner.
-   1. Retain first paragraph below to suit Project. Indicate items to be salvaged on Drawings or in schedules.
-   1. Salvageable Improvements:
+   2. Do not close or obstruct streets, walks, or other adjacent occupied or used facilities without permission from Owner and authorities having jurisdiction.
+   3. Provide alternate routes around closed or obstructed traffic ways if required by Owner or authorities having jurisdiction.
+   4. Retain first paragraph below to suit Project; coordinate with Owner.
+   5. Retain first paragraph below to suit Project. Indicate items to be salvaged on Drawings or in schedules.
+   6. Salvageable Improvements:
       1. Carefully remove items indicated to be salvaged and store on Owner's premises.
-   1. Retain one option in first paragraph below. First option is a generic term that is known in various states by different names listed in the other options.
-   1. Utility Locator Service:
+   7. Retain one option in first paragraph below. First option is a generic term that is known in various states by different names listed in the other options.
+   8. Utility Locator Service:
       1. Notify UNCC for area where Project is located before site clearing.
-   1. Retain option in first paragraph below if protection zones and protection-zone fencing are required.
-   1. Do not commence site clearing operations until temporary erosion- and sedimentation-control measures are in place.
-   1. Retain first three paragraphs below if tree- or plant-protection zones are required.
-   1. The following practices are prohibited within protection zones:
+   9. Retain option in first paragraph below if protection zones and protection-zone fencing are required.
+   10. Do not commence site clearing operations until temporary erosion- and sedimentation-control measures are in place.
+   11. Retain first three paragraphs below if tree- or plant-protection zones are required.
+   12. The following practices are prohibited within protection zones:
       1. Revise subparagraphs below to suit Project.
-   1. Storage of construction materials, debris, or excavated material.
-   1. Parking vehicles or equipment.
-   1. Foot traffic.
-   1. Erection of sheds or structures.
-   1. Impoundment of water.
-   1. Excavation or other digging unless otherwise indicated.
-   1. Attachment of signs to or wrapping materials around trees or plants unless otherwise indicated.
-   1. Do not direct vehicle or equipment exhaust towards protection zones.
-   1. Prohibit heat sources, flames, ignition sources, and smoking within or near protection zones.
-   1. Retain paragraph below to suit Project.
-   1. Soil Stripping, Handling, and Stockpiling:
-      1. Perform only when the topsoil is dry or slightly moist.
+   13. Storage of construction materials, debris, or excavated material.
+   14. Parking vehicles or equipment.
+   15. Foot traffic.
+   16. Erection of sheds or structures.
+   17. Impoundment of water.
+   18. Excavation or other digging unless otherwise indicated.
+   19. Attachment of signs to or wrapping materials around trees or plants unless otherwise indicated.
+   20. Do not direct vehicle or equipment exhaust towards protection zones.
+   21. Prohibit heat sources, flames, ignition sources, and smoking within or near protection zones.
+   22. Retain paragraph below to suit Project.
+   23. Soil Stripping, Handling, and Stockpiling:
+      2. Perform only when the topsoil is dry or slightly moist.
 
 ## Products
 
@@ -125,12 +122,12 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Clearing', 'Owner', 'proj']
    1. Verify that flows of water redirected from construction areas or generated by construction activity do not enter or cross protection zones.
    1. Inspect, maintain, and repair erosion- and sedimentation-control measures during construction until permanent vegetation has been established.
    1. Remove erosion and sedimentation controls and restore and stabilize areas disturbed during removal.
-   1. TREE AND PLANT PROTECTION
+1. TREE AND PLANT PROTECTION
    1. Retain this article if required. If retaining, Drawings should show tree- and plant-protection zones and protection-zone fencing.
 	1. General:
       1. Protect trees and plants remaining on-site according to requirements in Division 01 Section "Temporary Tree and Plant Protection."
    1. Repair or replace trees, shrubs, and other vegetation indicated to remain or be relocated that are damaged by construction operations, in a manner approved by Architect.
-   1. EXISTING UTILITIES
+1. EXISTING UTILITIES
    1. Retain one of first two paragraphs below. Retain first if Owner arranges for this work; retain second if Contractor performs this work.
    1. Owner will arrange for disconnecting and sealing indicated utilities that serve existing structures before site clearing, when requested by Contractor.
    1. Verify that utilities have been disconnected and capped before proceeding with site clearing.
@@ -139,10 +136,7 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Clearing', 'Owner', 'proj']
    1. Arrange with utility companies to shut off indicated utilities.
    1. Owner will arrange to shut off indicated utilities when requested by Contractor.
    1. Locate, identify, and disconnect utilities indicated to be abandoned in place.
-
-## General
-
-ly retain first paragraph below unless there are no existing utilities. Coordinate with requirements in Division 01 Section "Temporary Facilities and Controls" for temporary utilities.
+   1. Generally retain first paragraph below unless there are no existing utilities. Coordinate with requirements in Division 01 Section "Temporary Facilities and Controls" for temporary utilities.
    1. Interrupting Existing Utilities:
       1. Do not interrupt utilities serving facilities occupied by Owner or others unless permitted under the following conditions and then only after arranging to provide temporary utility services according to requirements indicated:
       1. Revise subparagraphs below to suit Project. Change "Architect" to "Owner" or other responsible party if required.
@@ -151,7 +145,7 @@ ly retain first paragraph below unless there are no existing utilities. Coordina
    1. Retain one of two paragraphs below. If retaining first, coordinate utility removals with requirements in Division 31 Section "Earth Moving"; if retaining second, coordinate with applicable Sections in Division 21, Division 22, Division 23, Division 26, Division 27, Division 28, and Division 33.
    1. Excavate for and remove underground utilities indicated to be removed.
    1. Removal of underground utilities is included in Division 22, Division 23, Division 26, Division 28 and Division 33 Sections.
-   1. CLEARING AND GRUBBING
+1. CLEARING AND GRUBBING
    1. Remove obstructions, trees, shrubs, and other vegetation to permit installation of new construction.
    1. Do not remove trees, shrubs, and other vegetation indicated to remain or to be relocated.
    1. Grind down stumps and remove roots, obstructions, and debris to a depth of 18 inches below exposed subgrade.

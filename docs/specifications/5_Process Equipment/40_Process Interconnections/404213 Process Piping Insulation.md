@@ -73,7 +73,9 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Piping', 'Insulation']
 1. SHOP DRAWINGS
    1. Refer to division 1, General Conditions, Submittals.
    1. Submit a schedule of all insulating materials to be used on the project, including adhesives, fastening methods, fitting materials along with material safety data sheets and intended use of each material. Include manufacturer's technical data sheets indicating density, thermal characteristics, jacket type, and manufacturer's installation instructions. 
-1. P A R T 2 - P R O D U C T S
+
+## Products
+
 1. MATERIALS
    1. Materials or accessories containing asbestos will not be accepted.
    1. Use composite insulation systems (insulation, jackets, sealants, mastics, and adhesives) that have a flame spread rating of 25 or less and smoke developed rating of 150 or less.
@@ -128,7 +130,9 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Piping', 'Insulation']
    1. Insulating cement to be ANSI/ASTM C195, hydraulic setting mineral wool.
    1. Bedding compounds to be non-shrinking and permanently flexible.
    1. Fungicidal water base coating (Foster 40-20 or equal) to be compatible with vapor barrier coating.
-1. P A R T 3 - E X E C U T I O N
+
+## Execution
+
 1. INSTALLATION
    1. Install insulation, jackets and accessories in accordance with manufacturers instructions and under ambient temperatures and conditions recommended by manufacturer. Surfaces to be insulated must be clean and dry. 
    1. Do not insulate systems or equipment which are specified to be pressure tested or inspected, until testing, inspection and any necessary repairs have been successfully completed.

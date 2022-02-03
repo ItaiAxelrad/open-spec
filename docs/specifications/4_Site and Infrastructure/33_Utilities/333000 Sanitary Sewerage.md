@@ -102,7 +102,9 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Sanitary', 'Sewerage']
    1. When drawings indicate future connection at a manhole or other structure, install a full length of pipe beyond the structure, providing plugged bell at terminal end of pipe. Provide marker board at terminal end of stubbed pipe.
 1. AS-Built drawings
    1. Show the actual locations of sanitary sewer pipes and service lines, manholes and cleanouts on drawings. Show changes to proposed sanitary sewer pipe, alignment, or grades. Show the actual locations, sizes and types of underground utilities and other features encountered during construction.
-1. PART 2 - MATERIALS
+
+## Products
+
 1. *Note to the designer:
       1. Edit material requirements to account for agency/institution and local utility requirements, or variations in material availability. Edit pipe requirements to account for depth of bury, traffic and other load conditions for this project.*
 1. PVC PIPE

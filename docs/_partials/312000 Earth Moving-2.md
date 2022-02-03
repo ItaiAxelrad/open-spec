@@ -182,43 +182,39 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Earth', 'Moving']
    1. Concrete void slabs:
       1. to underside of void forms as noted by structural.
    1. Excavation
-
-## General
-
-   1. Excavate for walls, grade beams, footings, and other related work.
-   1. Slope unbraced excavation to a stable angle in accordance with all local, state and federal regulations to maintain stability of excavation side walls or provide temporary shoring and bracing to prevent cave-ins or adjacent ground movement as specified.
-   1. In excavating for footings and foundations, do not disturb bottom of excavation. Final grade just before concrete reinforcement is placed. Trim bottoms to required lines and grade to leave solid base for other work.
-   1. Provide erosion-control measures to prevent erosion of soil and discharge of soil-bearing water run-off or dust to adjacent properties and walkways.
-   1. For pile foundations, stop excavations from 6 to 12 inches above bottom of footing before piles are placed. After piles have been driven, remove loose and displaced material and excavate to final grade, leaving solid base to receive concrete pile cap.
-   1. Extend excavations a sufficient distance away from footings to permit placing and removal of forms, inspection of Work, and installation of other work.
-   1. Excavated Material Suitable for Filling or Backfilling
-   1. Stockpile excavated materials where directed until required for backfill or fill.
-   1. Locate and retain fill materials away from edges of excavations.
-   1. Drainage and Dewatering
-   1. Grade ground adjacent to excavations to prevent surface water from flowing into excavations.
-   1. Remove water accumulating in excavations to prevent softening of foundation bottoms or soil changes detrimental to stability of the subgrade.
-   1. Provide and maintain sufficient dewatering devices, such as pumps, hoses, strainers other appurtenances, required to convey the water away from excavations.
-   1. Discharge water in a legal manner, a sufficient distance from the excavations to prevent backflow. Maintain dewatering operations until backfill is placed, or as directed.
-   1. Unauthorized Depths
-   1. Take care not to excavate below the depths indicated. Fill unauthorized excavation under footings with lean concrete. Fill unauthorized excavation in other locations with compacted Class II or IIA, Type II granular material.
-   1. Additional Excavation
-   1. When excavation has reached the depth indicated, notify the Testing Agency for inspection of conditions and determination of bearing capacity.
-   1. If unsuitable materials are encountered at the required subgrade elevation or where the bearing capacity required cannot be obtained at the depth indicated, notify the Architect for direction. Additional Work will be paid for in accordance with the established unit prices.
-   1. Temporary Shoring and Bracing
-   1. Provide sheeting, shoring and bracing to prevent cave-ins and adjacent ground movement and comply with local, state and federal codes and ordinances. Construct shoring and bracing of sound material, accurately placed and securely braced. Maintain shoring and bracing during period excavation is open.
-   1. Assume full responsibility for the adequacy of the design, installation and effectiveness of shoring and other protective methods utilized. Be responsible for damages resulting from failure to take adequate measures for protection of persons and adjacent property, including land, structures, facilities, pavements, utilities and grades. Remove shoring when no longer required.
-   1. Prior to installation, make every effort to determine the presence of existing underground conditions not indicated. If unknown services or obstructions and boulders are discovered, notify the Architect before proceeding.
-   1. Wherever boulders or obstructions are encountered, notify the Architect before proceeding. Carefully remove the obstruction, or cut through boulders that cannot be removed without endangering the embankment or provide additional work at the area of the boulder to brace the embankment. Blasting is not allowed in removing boulders or obstructions.
-   1. A boulder is defined as a piece of rock larger than one cubic yard. Base payment for removal of the boulders on the established unit prices and quantities obtained from cross-sectioning the boulder. Refer to Article, "ROCK EXCAVATION", for definitions of rock excavation and associated unit prices.
-   1. Frost Protection
-   1. Protect subgrade and bottoms of excavations against freezing temperature or frost. Provide protective insulating materials as necessary.
-   1. Abandoned Underground Services
-   1. Remove abandoned underground pipe, conduit, and other services to accommodate new Work. Do not remove such abandoned services until they have been disconnected from remaining active services under Divisions 15 and 16, as applicable. Seal open ends of abandoned pipe left in place with concrete.
-   1. Protection Of Existing Structures
-
-## General
-
-   1. Protect adjacent buildings from damage during excavation for new structure.
+   2. General
+   3. Excavate for walls, grade beams, footings, and other related work.
+   4. Slope unbraced excavation to a stable angle in accordance with all local, state and federal regulations to maintain stability of excavation side walls or provide temporary shoring and bracing to prevent cave-ins or adjacent ground movement as specified.
+   5. In excavating for footings and foundations, do not disturb bottom of excavation. Final grade just before concrete reinforcement is placed. Trim bottoms to required lines and grade to leave solid base for other work.
+   6. Provide erosion-control measures to prevent erosion of soil and discharge of soil-bearing water run-off or dust to adjacent properties and walkways.
+   7. For pile foundations, stop excavations from 6 to 12 inches above bottom of footing before piles are placed. After piles have been driven, remove loose and displaced material and excavate to final grade, leaving solid base to receive concrete pile cap.
+   8. Extend excavations a sufficient distance away from footings to permit placing and removal of forms, inspection of Work, and installation of other work.
+   9. Excavated Material Suitable for Filling or Backfilling
+   10. Stockpile excavated materials where directed until required for backfill or fill.
+   11. Locate and retain fill materials away from edges of excavations.
+   12. Drainage and Dewatering
+   13. Grade ground adjacent to excavations to prevent surface water from flowing into excavations.
+   14. Remove water accumulating in excavations to prevent softening of foundation bottoms or soil changes detrimental to stability of the subgrade.
+   15. Provide and maintain sufficient dewatering devices, such as pumps, hoses, strainers other appurtenances, required to convey the water away from excavations.
+   16. Discharge water in a legal manner, a sufficient distance from the excavations to prevent backflow. Maintain dewatering operations until backfill is placed, or as directed.
+   17. Unauthorized Depths
+   18. Take care not to excavate below the depths indicated. Fill unauthorized excavation under footings with lean concrete. Fill unauthorized excavation in other locations with compacted Class II or IIA, Type II granular material.
+   19. Additional Excavation
+   20. When excavation has reached the depth indicated, notify the Testing Agency for inspection of conditions and determination of bearing capacity.
+   21. If unsuitable materials are encountered at the required subgrade elevation or where the bearing capacity required cannot be obtained at the depth indicated, notify the Architect for direction. Additional Work will be paid for in accordance with the established unit prices.
+   22. Temporary Shoring and Bracing
+   23. Provide sheeting, shoring and bracing to prevent cave-ins and adjacent ground movement and comply with local, state and federal codes and ordinances. Construct shoring and bracing of sound material, accurately placed and securely braced. Maintain shoring and bracing during period excavation is open.
+   24. Assume full responsibility for the adequacy of the design, installation and effectiveness of shoring and other protective methods utilized. Be responsible for damages resulting from failure to take adequate measures for protection of persons and adjacent property, including land, structures, facilities, pavements, utilities and grades. Remove shoring when no longer required.
+   25. Prior to installation, make every effort to determine the presence of existing underground conditions not indicated. If unknown services or obstructions and boulders are discovered, notify the Architect before proceeding.
+   26. Wherever boulders or obstructions are encountered, notify the Architect before proceeding. Carefully remove the obstruction, or cut through boulders that cannot be removed without endangering the embankment or provide additional work at the area of the boulder to brace the embankment. Blasting is not allowed in removing boulders or obstructions.
+   27. A boulder is defined as a piece of rock larger than one cubic yard. Base payment for removal of the boulders on the established unit prices and quantities obtained from cross-sectioning the boulder. Refer to Article, "ROCK EXCAVATION", for definitions of rock excavation and associated unit prices.
+   28. Frost Protection
+   29. Protect subgrade and bottoms of excavations against freezing temperature or frost. Provide protective insulating materials as necessary.
+   30. Abandoned Underground Services
+   31. Remove abandoned underground pipe, conduit, and other services to accommodate new Work. Do not remove such abandoned services until they have been disconnected from remaining active services under Divisions 15 and 16, as applicable. Seal open ends of abandoned pipe left in place with concrete.
+   32. Protection Of Existing Structures
+1. General
+ 1. Protect adjacent buildings from damage during excavation for new structure.
    1. Earth Retention System
    1. Provide earth retention systems for protection of adjacent structures, utilities and property. Design and install the earth retention systems and include in the design surcharge loads indicated or otherwise expected during the life of the earth retention system.
    1. Leave earth retention systems in place, unless otherwise indicated. Remove earth retention systems when protection is no longer necessary. Cut off earth retention systems left in place a minimum of 2 feet below finish grade, unless otherwise indicated.
@@ -304,56 +300,54 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Earth', 'Moving']
    1. Comply with paragraph “proof rolling” for unsuitable or otherwise unsatisfactory natural subgrade.
    1. Test
    1. Proof roll the subgrade with a 10-ton roller. If the imprint is more than 1/2 inch deep, recompact the subgrade area.
-   1. GRADING
-
-## General
-
-   1. Grade excavated and filled sections, including transition areas, to provide positive drainage. Reshape graded areas over underground mechanical and electrical utilities and areas rutted or otherwise disturbed during construction operation to obtain uniform transition to adjacent areas or finish grades as indicated.
-   1. Protection and Maintenance of Graded Areas
-   1. Reconditioning Compacted Areas:
+1. GRADING
+   1. General
+   2. Grade excavated and filled sections, including transition areas, to provide positive drainage. Reshape graded areas over underground mechanical and electrical utilities and areas rutted or otherwise disturbed during construction operation to obtain uniform transition to adjacent areas or finish grades as indicated.
+   3. Protection and Maintenance of Graded Areas
+   4. Reconditioning Compacted Areas:
       1. Where completed compacted areas are disturbed by subsequent construction operations or adverse weather, scarify surface, reshape, return to optimum moisture content, and compact to required density prior to further construction..
-   1. Disposal Of Surplus Material
-   1. Unsuitable Material, Debris and Refuse
-   1. Excavated material unsuitable for filling or grading operations, and debris and refuse, including trees not indicated to remain on site, stumps, debris from previously demolished structures, parking lot bumpers and other items indicated to be removed:
+   5. Disposal Of Surplus Material
+   6. Unsuitable Material, Debris and Refuse
+   7. Excavated material unsuitable for filling or grading operations, and debris and refuse, including trees not indicated to remain on site, stumps, debris from previously demolished structures, parking lot bumpers and other items indicated to be removed:
       1. disposed off the Owner's property in compliance with local codes and ordinances.
-   1. Earthfill
-   1. Surplus excavated earthfill not required for backfilling or filling:
+   8. Earthfill
+   9. Surplus excavated earthfill not required for backfilling or filling:
       1. remove and legally dispose off Owner's property.
-   1. All excess fill to be removed from the site.
-   1. FIELD QUALITY CONTROL
-   1. Compaction
-   1. Contractor will, through services of an independent laboratory, test all trench-stabilization material, granular pipe embedment, earth-pipe embedment, and trench backfill to determine conformance with specified moisture- density relationships.
-   1. Contractor will test all embankments, fills, and subgrades under this Contract to determine conformance with specified density relationships.
-   1. Method of test may be either of the following at Contractor's option:
-      1. ASTM D2167 – Standard Test Method for Density and Unit Weight of Soil in Place by the Rubber Balloon Method.
-   1. ASTM D2922 – Standard Test Methods for Density of Soil and Soil-Aggregate in Place by Nuclear Methods (Shallow Depth).
-   1. Subgrades
-   1. Owner will inspect all subgrades to determine conformance with indicated lines and grades.
-   1. Subgrades for roadways, drives, and parking areas shall have a maximum deviation of not more than 1/4 inch in any 10 feet when tested with a 10-foot straightedge applied parallel with and at right angles to the center lines of subgrade areas, except that subgrades to receive aggregate-type surfacing shall have a maximum deviation of not more than 1 inch.
-   1. If in the opinion of the Owner, based on testing service reports and inspections, subgrade or fills which have been placed are below specified density, provide additional compaction and testing at no additional cost to Owner.
-   1. Allowable tolerance for top surface of backfilling is plus or minus one inch.
-   1. Provide for visual inspection of bearing surfaces.
-   1. Compaction testing will be performed in accordance with ANSI/ASTM D2167/D2922.
-   1. Unless otherwise indicated, the minimum compaction required shall be:
-      1. 98% for footing areas
-   1. 98% for slab areas
-   1. 98% for road and parking areas
-   1. 90% for all other areas
-   1. In fill areas greater than 7 feet deep, fill shall be compacted to not less than 98% relative density.
-   1. If tests indicate work does not meet specified requirements, remove work, replace and retest at no cost to Owner.
-   1. PROTECTION
-   1. Maintenance
-   1. Protect newly graded and topsoiled areas from actions of the elements.
-   1. Fill and repair settling or erosion occurring prior to landscaping and reestablish grades to the required elevations and slopes.
-   1. Correction of Backfill Settlement
-   1. Under provisions of the guarantee, Contractor is responsible for correcting any settlement of backfill and damages created thereby within 1 year after acceptance of the Work. Contractor shall:
-      1. Remove surface (pavement, lawn or other finish).
-   1. Excavate as directed.
-   1. Add backfill material
-   1. Compact
-   1. Replace surface treatment
-   1. Restore appearance, quality, and condition of surface or finish to match adjacent work, and eliminate evidence of restoration to greatest extent possible.
-   1. Make repairs within 10 days from and after due notification by Owner of backfill settlement and resulting damage.
-   1. Make own arrangements for access to the site for purposes of repair.
+   10. All excess fill to be removed from the site.
+   11. FIELD QUALITY CONTROL
+   12. Compaction
+   13. Contractor will, through services of an independent laboratory, test all trench-stabilization material, granular pipe embedment, earth-pipe embedment, and trench backfill to determine conformance with specified moisture- density relationships.
+   14. Contractor will test all embankments, fills, and subgrades under this Contract to determine conformance with specified density relationships.
+   15. Method of test may be either of the following at Contractor's option:
+      2. ASTM D2167 – Standard Test Method for Density and Unit Weight of Soil in Place by the Rubber Balloon Method.
+   16. ASTM D2922 – Standard Test Methods for Density of Soil and Soil-Aggregate in Place by Nuclear Methods (Shallow Depth).
+   17. Subgrades
+   18. Owner will inspect all subgrades to determine conformance with indicated lines and grades.
+   19. Subgrades for roadways, drives, and parking areas shall have a maximum deviation of not more than 1/4 inch in any 10 feet when tested with a 10-foot straightedge applied parallel with and at right angles to the center lines of subgrade areas, except that subgrades to receive aggregate-type surfacing shall have a maximum deviation of not more than 1 inch.
+   20. If in the opinion of the Owner, based on testing service reports and inspections, subgrade or fills which have been placed are below specified density, provide additional compaction and testing at no additional cost to Owner.
+   21. Allowable tolerance for top surface of backfilling is plus or minus one inch.
+   22. Provide for visual inspection of bearing surfaces.
+   23. Compaction testing will be performed in accordance with ANSI/ASTM D2167/D2922.
+   24. Unless otherwise indicated, the minimum compaction required shall be:
+      3. 98% for footing areas
+   25. 98% for slab areas
+   26. 98% for road and parking areas
+   27. 90% for all other areas
+   28. In fill areas greater than 7 feet deep, fill shall be compacted to not less than 98% relative density.
+   29. If tests indicate work does not meet specified requirements, remove work, replace and retest at no cost to Owner.
+   30. PROTECTION
+   31. Maintenance
+   32. Protect newly graded and topsoiled areas from actions of the elements.
+   33. Fill and repair settling or erosion occurring prior to landscaping and reestablish grades to the required elevations and slopes.
+   34. Correction of Backfill Settlement
+   35. Under provisions of the guarantee, Contractor is responsible for correcting any settlement of backfill and damages created thereby within 1 year after acceptance of the Work. Contractor shall:
+      4. Remove surface (pavement, lawn or other finish).
+   36. Excavate as directed.
+   37. Add backfill material
+   38. Compact
+   39. Replace surface treatment
+   40. Restore appearance, quality, and condition of surface or finish to match adjacent work, and eliminate evidence of restoration to greatest extent possible.
+   41. Make repairs within 10 days from and after due notification by Owner of backfill settlement and resulting damage.
+   42. Make own arrangements for access to the site for purposes of repair.
    
 

@@ -24,7 +24,7 @@ tags: ['Facility', 'Services', 'Plumbing', 'Fixtures']
 	2. American National Standards Institute (ANSI):
 		1. Z358.1, Emergency Eyewash and Shower Equipment.
 	3. American Society of Heating, Refrigerating and Air Conditioning Engineers/Illuminating Engineering Society of North America (ASHRAE/IESNA):
-		1. 90.1 SI, Energy Standard for Buildings Except Low-Rise Residential Buildings.
+		1. SI, Energy Standard for Buildings Except Low-Rise Residential Buildings.
 	4. American Society of Mechanical Engineers (ASME):
 		1. A112.19.3, Stainless Steel Plumbing Fixtures (Designed for Residential Use).
 	5. American Society of Sanitation Engineers (ASSE):

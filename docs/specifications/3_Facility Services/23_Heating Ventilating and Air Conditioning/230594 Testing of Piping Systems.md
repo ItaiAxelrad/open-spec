@@ -7,9 +7,6 @@ subgroup: Facility Services
 tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 'Testing', 'Piping', 'Systems']
 ---
 
-
-1. TESTING OF PIPING SYSTEMS
-1. 
 ## General
 
 1. RELATED DOCUMENTS

@@ -26,14 +26,16 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Dewatering', 'SM']
    1. Comply with Regional Water Quality Control Board Waste Discharge requirements. Obtain authorization, as required, prior to discharge of groundwater, and comply with the sampling, testing, monitoring, and reporting requirements specified therein.
 05. SUBMITTALS
    1. Shop Drawings which, at a minimum, indicate the proposed type of dewatering system; the arrangement, location, and depths of systems components; a complete description of equipment and instrumentation to be used, with installation, operation and maintenance procedures; and the methods of disposal of pumped water.
-1. PART 2 – MATERIALS
-1. 2.01 MATERIALS AND EQUIPMENT
+
+## Products
+
+1. MATERIALS AND EQUIPMENT
    1. Furnish and maintain all materials, tools, equipment, facilities, and services as required for providing the necessary dewatering work and facilities.
 1. 
 
 ## Execution
 
-1. 3.01 DEWATERING
+1. DEWATERING
    1. Perform dewatering in accordance with approved Shop Drawings. Keep the Engineer advised of any changes made to accommodate field conditions and, on completion of the dewatering system installation, revise and resubmit Shop Drawings as necessary to indicate the installed configuration.
    1. Organize dewatering operations to lower the groundwater level in excavations as required for prosecution of the work, and to provide a stable, dry subgrade for the prosecution of construction operations.
    1. Dispose of water in such a manner as to cause no injury or nuisance to public or private property, or be a menace to the public health. Dispose of the water in accordance with applicable regulatory agency requirements. Do not drain trench water through the pipeline under construction.
@@ -41,7 +43,7 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Dewatering', 'SM']
    1. Prevent disposal of sediments from the soils to adjacent lands or waterways by employing necessary methods, including settling basins. Locate settling basins away from watercourses to prevent silt-bearing water from reaching the watercourse during flow regime.
    1. Where excavations may obstruct the natural flow of a watercourse, implement measures to control and dispose of the surface water that will not adversely affect water quality or beneficial uses of the watercourse. Divert watercourse flows around excavation areas by constructing barriers, temporary culverts, new channels or other appropriate means.
    1. Do not allow water containing mud, silt or other pollutants from aggregate washing or other construction activities to enter a watercourse or be placed in locations that may be subjected to high storm flows.
-1. 3.02 RECORDS
+1. RECORDS
    1. Provide a daily record of the average flow rate. Provide water quality testing as required by the Regional Water Quality Control Board.
 2. Observe and record the elevation of the groundwater during the period that the dewatering system is in operation.
 

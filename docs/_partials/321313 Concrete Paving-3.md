@@ -81,8 +81,7 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Concrete', 'Paving
    1. Finish walls according to drawings.
    1. CONCRETE CURING AND PROTECTION:
 
-## General
-
+1. General
  Protect freshly placed concrete from premature drying and excessive cold and hot temperature, and maintain without drying at a relatively constant temperature for the period of time necessary for hydration of the cement and proper hardening of the concrete.
    1. Start initial curing as soon as free moisture has disappeared from the concrete surface after placing and finishing. Weather permitting; keep continuously moist for not less than 72 hours.
    1. Begin final curing procedures immediately following initial curing and before the concrete has dried. Continue final curing for at least 7 days and in accordance with ACI 301 procedures. Avoid rapid drying at the end of the final curing period.

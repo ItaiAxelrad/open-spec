@@ -140,10 +140,7 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Concrete', 'Paving
    1. Backer Strips for Cold- and Hot-Applied Joint Sealants:
       1. ASTM D 5249; Type 2; of thickness and width required to control joint-sealant depth, prevent bottom-side adhesion of sealant, and fill remainder of joint opening under sealant.
    1. PRIMERS
-
-## General
-
-ly retain this article unless it is known that priming of substrates is not required with joint sealants specified. Purpose of primers is to improve adhesion of joint sealant to substrate.
+      1. Generally retain this article unless it is known that priming of substrates is not required with joint sealants specified. Purpose of primers is to improve adhesion of joint sealant to substrate.
    1. Primers:
       1. Product recommended by joint-sealant manufacturer where required for adhesion of sealant to joint substrates indicated, as determined from preconstruction joint-sealant-substrate tests and field tests.
 

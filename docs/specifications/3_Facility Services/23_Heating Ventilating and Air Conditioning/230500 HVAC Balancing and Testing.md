@@ -7,10 +7,6 @@ subgroup: Facility Services
 tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 'HVAC', 'Balancing', 'Testing']
 ---
 
-   1. section 23 05 00.93
-   1. hvac:
-      1. balancing and testing
-
 ## General
 
 1. SUMMARY
@@ -47,8 +43,9 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
 		2. Additional written verification and other related information clearly identifying project, date and specifics of verification.
 		3. Utilize report forms similar to those shown in Section V of AABC Standard.
 		4. Provide forms typed and signed by the testing and balancing firm.
-## Product (not applicable to this section)
+## Product
 
+(not applicable to this section)
 
 ## Execution
 
@@ -64,4 +61,3 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
 	1. Report deficiencies to the Engineer.
 	2. Report deficiencies to Contractor for remedial action including providing corrective measures required in the function of any part of system to complete balancing.
 6. Make necessary adjustments as required to balance the systems.
-

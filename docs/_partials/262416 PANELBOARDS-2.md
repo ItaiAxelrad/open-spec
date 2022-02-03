@@ -89,51 +89,48 @@ Concrete, reinforcement, and formwork requirements are specified in Division 3.
       1. Subject to compliance with requirements, provide products by one of the following:
       1. Panelboards, Overcurrent Protective Devices, Controllers, Contactors, and Accessories:
       1. Eaton Corporation; Cutler-Hammer Products.
-
-## General
-
- Electric Co.; Electrical Distribution & Protection Div. c. Appleton.
-02. MANUFACTURED UNITS
-   1. Fabricate and test panelboards according to IEEE 344 to withstand seismic forces. B. Enclosures:
+      1. General Electric Co.; Electrical Distribution & Protection Div. c. Appleton.
+2.  MANUFACTURED UNITS
+   2. Fabricate and test panelboards according to IEEE 344 to withstand seismic forces. B. Enclosures:
       1. Flush- and surface-mounted cabinets. NEMA PB 1.
-1. Rated for environmental conditions at installed location. a. Indoor Locations:
+3. Rated for environmental conditions at installed location. a. Indoor Locations:
       1. NEMA 250, Type 1
-      1. Other Wet or Damp Indoor Locations:
+      2. Other Wet or Damp Indoor Locations:
          1. NEMA 250, Type 3R.
-2. Front:
+4. Front:
       1. Secured to box with concealed trim clamps. For surface-mounted fronts, match box dimensions; for flush-mounted fronts, overlap box.
-3. Hinged Front Cover:
+5. Hinged Front Cover:
       1. Entire front trim hinged to box and with standard door within hinged trim cover.
-4. Finish:
+6. Finish:
       1. Manufacturer's standard enamel finish over corrosion-resistant treatment or primer coat.
-5. Directory Card:
+7. Directory Card:
       1. With transparent protective cover, mounted in metal frame, inside panelboard door.
    1. Phase and Ground Buses:
       1. Material:
          1. Hard-drawn copper, 98% conductivity.
-2. Equipment Ground Bus:
+8. Equipment Ground Bus:
       1. Adequate for feeder and branch-circuit equipment ground conductors; bonded to box. Copper, 98% conductive.
-3. Isolated Equipment Ground Bus (if applicable):
+9. Isolated Equipment Ground Bus (if applicable):
       1. Adequate for branch-circuit equipment ground conductors; insulated from box.
-4. Extra-Capacity Neutral Bus:
+10. Extra-Capacity Neutral Bus:
       1. Neutral bus rated 200 percent of phase bus and UL listed as suitable for nonlinear loads. Copper, 98% conductive.
    1. Conductor Connectors:
       1. Suitable for use with conductor material.
-1. Material:
+11. Material:
       1. Hard-drawn copper. 98% conductive
-2. Main and Neutral Lugs:
+12. Main and Neutral Lugs:
       1. Mechanical type.
-3. Ground Lugs and Bus Configured Terminators:
+13. Ground Lugs and Bus Configured Terminators:
       1. Compression type.
-4. Feed-Through Lugs:
+14. Feed-Through Lugs:
       1. Mechanical type suitable for use with conductor material. Locate at opposite end of bus from incoming lugs or main device.
-5. Extra-Capacity Neutral Lugs:
+15. Extra-Capacity Neutral Lugs:
       1. Rated 200 percent of phase lugs mounted on extra- capacity neutral bus.
-   1. E.
-   1. Service Equipment Label:
+   2. E.
+   3. Service Equipment Label:
       1. UL labeled for use as service equipment for panelboards with main service disconnect switches.
-   1. F.
-   1. Future Devices:
+   4. F.
+   5. Future Devices:
       1. Mounting brackets, bus connections, and necessary appurtenances required for future installation of devices.
 03.
    1. PA

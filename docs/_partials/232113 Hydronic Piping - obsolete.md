@@ -193,10 +193,7 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Provide additional requirements for devices used in fire protection systems as specified in Division 23 sections of the Specifications. 
    1. Provide piping for systems as specified, and grooved in compliance with the coupling manufacturers specifications. 
    1. Couplings
-
-## General
-
- runs of pipe:
+1. General runs of pipe:
       1. Rigid Couplings:
       1. Victaulic “Style 07”, or Grinnell “Gruvlok 7401”, unless otherwise specified.
    1. At connections to chillers, cooling towers, coils, pumps, etc.:
@@ -220,46 +217,42 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
 
 ## EXECUTION
 
-
- **Aboveground Piping Installation*
-## General
-
-
+1. Aboveground Piping Installation
    1. Install pipe and pipe fittings in accordance with recognized industry practices to achieve permanently leakproof systems, capable of performing the indicated service without failure.
-   1. Install each piping run with a minimum number of joints and couplings but with adequate and accessible unions/flanges for disassembly and maintenance/replacement of valves and equipment.
-   1. Install piping with sufficient clearance from other piping, building structure and other systems to allow for the piping insulation to be properly applied.
-   1. Run piping above ground parallel with the lines of the building unless otherwise shown or noted. 
-   1. Keep horizontal runs of piping as high as possible to provide maximum head room. 
-   1. Install piping in equipment rooms so as not to interfere with aisleways and to allow unhindered egress from any point in the space.
-   1. Keep vertical lines straight in the partitions or furring or as close to the columns as possible. 
-   1. Run pipe to avoid interference with ducts, wires or apparatus and with approved offsets around columns, beams and other obstructions. 
-   1. Install piping that penetrates a vapor retarder to respect the vapor retarder integrity by sealing the opening around the pipe with vapor retardant tape. 
-   1. Install piping with sufficient clearance from building structural members so as not to interfere with the application of steel fireproofing.
-   1. Establish piping elevations prior to installation to avoid interferences with other piping and materials and equipment of other trades. 
-   1. Cutting, burning, or welding of structural steel is not permitted, unless indicated otherwise. 
-   1. Personnel Protection From Suspended Work
-   1. Refer to Division 23 sections of the Specifications.
-   1. Pitching of Piping 
-   1. Pitch horizontal water and air lines to low points to provide for complete drainage of the system. Minimum pitch, unless otherwise shown:
+   2. Install each piping run with a minimum number of joints and couplings but with adequate and accessible unions/flanges for disassembly and maintenance/replacement of valves and equipment.
+   3. Install piping with sufficient clearance from other piping, building structure and other systems to allow for the piping insulation to be properly applied.
+   4. Run piping above ground parallel with the lines of the building unless otherwise shown or noted. 
+   5. Keep horizontal runs of piping as high as possible to provide maximum head room. 
+   6. Install piping in equipment rooms so as not to interfere with aisleways and to allow unhindered egress from any point in the space.
+   7. Keep vertical lines straight in the partitions or furring or as close to the columns as possible. 
+   8. Run pipe to avoid interference with ducts, wires or apparatus and with approved offsets around columns, beams and other obstructions. 
+   9. Install piping that penetrates a vapor retarder to respect the vapor retarder integrity by sealing the opening around the pipe with vapor retardant tape. 
+   10. Install piping with sufficient clearance from building structural members so as not to interfere with the application of steel fireproofing.
+   11. Establish piping elevations prior to installation to avoid interferences with other piping and materials and equipment of other trades. 
+   12. Cutting, burning, or welding of structural steel is not permitted, unless indicated otherwise. 
+   13. Personnel Protection From Suspended Work
+   14. Refer to Division 23 sections of the Specifications.
+   15. Pitching of Piping 
+   16. Pitch horizontal water and air lines to low points to provide for complete drainage of the system. Minimum pitch, unless otherwise shown:
       1. 1 inch in 40 feet. Install drain valves at low points and air vents at high points and at locations where air may pocket on water lines. 
-   1. Pitch steam piping at a uniform grade of 0.2 percent downward in the direction of steam flow.
-   1. Pitch gravity condensate return piping at a uniform grade of 0.4 percent in the direction of condensate flow.
-   1. Separation of Piping 
-   1. Separate cold piping from hot piping with a minimum of 6 inches air gap between outside diameters of the piping. If piping is insulated, locate the 6-inch air gap between outside diameters of the insulation. 
-   1. Drains 
-   1. Pipe drains from items such as boilers, water relief valves, tanks, cooling coil drain pans, air vents, environmental rooms evaporator condensate drain pans, and drip-pan elbows, to the nearest floor drain. 
-   1. Copper Tubing 
-   1. Swaging copper tubing to couple two lengths together instead of using an approved solder type coupling will not be permitted. Incompletely filled solder joints are not acceptable. 
-   1. Make up horizontal joints on piping NPS 2-1/2 and larger in the vertical position before assembly and erection. 
-   1. Clean surfaces to be soldered both the inside of the fitting and the outside of the tubing, with steel wool or fine sandpaper until all discoloration is removed and metal is smooth and bright. 
-   1. In assembling copper tube systems, take care to establish proper grade and alignment in the system before soldering. Installations will not be approved where tube and fittings are subjected to strain in order to obtain grade or alignment. 
-   1. File or ream cut tube ends to the full original bore. 
-1. Pipe Jointing
+   17. Pitch steam piping at a uniform grade of 0.2 percent downward in the direction of steam flow.
+   18. Pitch gravity condensate return piping at a uniform grade of 0.4 percent in the direction of condensate flow.
+   19. Separation of Piping 
+   20. Separate cold piping from hot piping with a minimum of 6 inches air gap between outside diameters of the piping. If piping is insulated, locate the 6-inch air gap between outside diameters of the insulation. 
+   21. Drains 
+   22. Pipe drains from items such as boilers, water relief valves, tanks, cooling coil drain pans, air vents, environmental rooms evaporator condensate drain pans, and drip-pan elbows, to the nearest floor drain. 
+   23. Copper Tubing 
+   24. Swaging copper tubing to couple two lengths together instead of using an approved solder type coupling will not be permitted. Incompletely filled solder joints are not acceptable. 
+   25. Make up horizontal joints on piping NPS 2-1/2 and larger in the vertical position before assembly and erection. 
+   26. Clean surfaces to be soldered both the inside of the fitting and the outside of the tubing, with steel wool or fine sandpaper until all discoloration is removed and metal is smooth and bright. 
+   27. In assembling copper tube systems, take care to establish proper grade and alignment in the system before soldering. Installations will not be approved where tube and fittings are subjected to strain in order to obtain grade or alignment. 
+   28. File or ream cut tube ends to the full original bore. 
+2. Pipe Jointing
 	1. Steel Pipe 
    1. Provide steel pipe NPS 2 and smaller with plain ends and socket weld joints or threaded ends and screwed joints. Provide sizes NPS 2-1/2 and over flanged or grooved with gaskets or welded. Welding of galvanized pipe is not permitted. Connect galvanized pipe with screwed fittings, companion flanges or approved mechanical couplings. 
-   1. Ream pipe ends and take care to prevent foreign material from entering any pipe. 
-   1. Make screwed joints with oil and graphite or other approved compound. Apply joint compound to male thread only and take care to prevent compound from reaching interior of pipe. 
-   1. Install unions or companion flanges in the pipe lines at locations as required to permit the removal of fixtures, apparatus and equipment without dismantling. Do not install unions and companion flanges in walls, partitions or other inaccessible locations. 
+   2. Ream pipe ends and take care to prevent foreign material from entering any pipe. 
+   3. Make screwed joints with oil and graphite or other approved compound. Apply joint compound to male thread only and take care to prevent compound from reaching interior of pipe. 
+   4. Install unions or companion flanges in the pipe lines at locations as required to permit the removal of fixtures, apparatus and equipment without dismantling. Do not install unions and companion flanges in walls, partitions or other inaccessible locations. 
 
 “PRESSFIT” joint connections
    1. Square cut and properly de-burr pipe ends. Mark pipe ends to indicate proper insertion length and insert into the coupling/fitting to the internal pipe stop so that pipe is fully engaged.

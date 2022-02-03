@@ -69,10 +69,12 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Excavation', 'Fill']
    1. In the event obstructions not shown on the plans are encountered during the progress of the work, and which will require alterations to the plans, the City Engineer shall have the authority to change the plans and order the necessary deviation from the line and grade, in accordance with Section 01000. The Contractor shall not deviate from the specified line and grade without prior written approval by the City Engineer.
 16. HYDROSTATIC TESTING
    1. Pre-testing of the piping system may be performed for the Contractor's convenience at any time. However, the final hydrostatic pressure test shall be as described in Section 15044.
-1. PART 2 MATERIALS
-1. 2.01 GENERAL
+
+## Products
+
+1. GENERAL
    1. The Contractor shall furnish backfill material as specified below. All materials used in and above the pipe zone shall be capable of attaining the required relative density.
-1. 2.02 SAND MATERIAL FOR PIPE BEDDING - PIPE ZONE
+1. SAND MATERIAL FOR PIPE BEDDING - PIPE ZONE
    1. Pipe bedding material shall comply with Section 200-1.5 Sand of the SSPWC and table 200-1.5.3 (A) Sand Equivalent.
    1. U.S. Standard Percent Passing
    1. Sieve Size By Weight
@@ -81,11 +83,11 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Excavation', 'Fill']
    1. No. 30 12 – 50
    1. No. 100 5-20
    1. No. 200 0 – 11
-1. 2.03 SAND-CEMENT SLURRY – TRENCH ZONE
+1. SAND-CEMENT SLURRY – TRENCH ZONE
    1. Unless otherwise indicated, all backfill material shall be one sack cement slurry per SSPWC (Greenbook) 201-6 Controlled Low Strength Material (CLSM)
-1. 2.04 TRENCH PLUGS
+1. TRENCH PLUGS
    1. Trench plugs consisting of compacted Imported Granular Material or sand-cement slurry shall be installed on piping systems that are backfilled with crushed rock.
-1. 2.05 FILTER FABRIC
+1. FILTER FABRIC
    1. Filter fabric shall be manufactured from polyester, nylon, or polypropylene. Material shall be of non-woven construction and shall meet the following requirements:
 
 	1. Grab tensile strength (ASTM D 4632): 45.4kg (100 lbs) minimum for a 1" raveled strip
@@ -95,31 +97,31 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Excavation', 'Fill']
 
 ## Execution
 
-1. 3.01 CLEARING AND GRUBBING
+1. CLEARING AND GRUBBING
    1. Areas where work is to be performed shall be cleared of all trees, shrubs, rubbish, and other objectionable material of any kind, which, if left in place, would interfere with the proper performance or completion of he contemplated work, would impair its subsequent use, or would form obstructions therein.
 2. Organic material from clearing and grubbing operations will not be incorporated in the trench backfill and shall be removed from the project site or retained and incorporated into the topsoil.
-1. 3.02 PAVEMENT, CURB, AND SIDEWALK REMOVAL
+1. PAVEMENT, CURB, AND SIDEWALK REMOVAL
    1. Bituminous or concrete pavements, curbs, and sidewalks shall be removed and replaced in accordance with the requirements of Section 02578.
-1. 3.03 DEWATERING
+1. DEWATERING
    1. The Contractor shall provide and maintain at all times during construction ample means and devices to promptly remove and dispose of all water from any source entering excavations or other parts of the work.
 2. Dewatering shall be performed by methods that will ensure a dry excavation and preservation of the final lines and grades of the bottoms of excavations. Dewatering methods may include well points, sump points, suitable rock or gravel placed as pipe bedding for drainage and pumping, temporary pipelines, or other means, all subject to the approval of the City Engineer. The cost of all dewatering activities shall be borne by the Developer or Contractor.
 3. Sewer systems shall not be used as drains for dewatering trenches or excavations, nor for disposal of collected or accumulated groundwater, without the approval of the agency of jurisdiction.
 4. Concrete shall not be poured in water, nor shall water be allowed to rise around concrete or mortar until it has set at least four hours.
 5. Refer to Section 02140.
    1. The Contractor is responsible for meeting all Federal, State, and local laws, rules and regulations regarding the treatment and disposal of water from dewatering operations at the construction site.
-1. 3.04 SHORING AND SHIELDING
+1. SHORING AND SHIELDING
    1. The Contractor's design and installation of shoring shall be consistent with the rules, orders, and regulations of CAL-OSHA.
 2. Excavations shall be shored, sheeted, and supported such that the walls of the excavation will not slide or settle and all existing improvements of any kind, either on public or private property, will be fully protected from damage.
 3. The sheeting and shoring shall be arranged so as not to place any stress on portions of the completed work until the general construction has proceeded far enough to provide ample strength.
 4. Care shall be exercised in the moving or removal of trench shields, sheeting, and shoring to prevent the caving or collapse of the excavation faces being supported.
-1. 3.05 CORRECTION OF OVER-EXCAVATION
+1. CORRECTION OF OVER-EXCAVATION
    1. Over excavations shall be corrected by backfilling with approved imported granular material or crushed rock, compacted to 90% relative compaction, as directed by the City Engineer.
-1. 3.06 FOUNDATION STABILIZATION
+1. FOUNDATION STABILIZATION
 
 	1. When unsuitable soil materials are encountered, the unsuitable material shall be removed to the depth determined necessary in the field by the Soils Technician, and as acceptable to the City Engineer. The sub-grade shall be restored with compacted Imported Granular Material or crushed rock as recommended by the Soils Technician. Place the appropriate bedding or base material on this restored foundation.
 	2. When rock encroachment is encountered, the rock shall be removed to a point below the intended trench or excavation sub-grade as determined necessary in the field by the Soils Technician, and as acceptable to the City Engineer. The sub-grade shall be restored with compacted Imported Granular Material as recommended by the Soils Technician. Place the appropriate bedding or base material on this restored foundation.
 	3. When excessively wet, soft, spongy, or similarly unstable material is encountered at the surface upon which the bedding or base material is to be placed, the unsuitable material shall be removed to the depth determined necessary in the field by the Soils Technician, and as acceptable to the City Engineer. Restore the trench with crushed rock enclosed in filter fabric as directed by the City Engineer. Larger size rocks, up to 3", with appropriate gradation, may be used if recommended by the Soils Technician. Place the appropriate bedding or base material on this restored foundation.
-1. 3.07 TRENCH EXCAVATION AND PLACEMENT OF BEDDING
+1. TRENCH EXCAVATION AND PLACEMENT OF BEDDING
    1. Excavate the trench to the lines and grades shown on the drawings with allowance for 6" of pipe bedding material. The trench section shall be as shown on the Standard Drawings.
 2. The maximum length of open trench shall be 500' except by permission of the City. The distance is the collective length at any location, including open excavation and pipe laying, which has not been backfilled to the elevation of the surrounding grade.
 3. Trench walls shall be sloped or shored per the requirements of CAL-OSHA.
@@ -134,7 +136,7 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Excavation', 'Fill']
    1. Recycled Water 48”
    1. Sewer 60”
    1. Final street sub-grade shall be established prior to the excavation of pipeline trenches. Minimum cover above pipe shall be 24” for hydrotesting.
-1. 3.08 COMPACTION REQUIREMENTS
+1. COMPACTION REQUIREMENTS
    1. Compaction shall be accomplished by mechanical means. Consolidation by water settling methods such as jetting or flooding is prohibited.
 2. If the backfill fails to meet the specified relative compaction requirements; the backfill shall be reworked until the requirements are met. All necessary excavations for density tests shall be made as directed by the Soils Technician, and as acceptable to the City Engineer. The requirements of the Agency having jurisdiction shall prevail on all public roads.
 3. Compaction tests shall be performed at random depths, and at random intervals not to exceed 150’, as directed by the Soils Technician or City Engineer.
@@ -145,19 +147,19 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Excavation', 'Fill']
 3. Structural section in paved areas - per agency requirements, 95% minimum.
 4. Imported Granular Material for over excavation or foundation stabilization - 90% relative density.
    1. All excavations are subject to compaction tests.
-1. 3.10 TRENCH PLUGS
+1. TRENCH PLUGS
    1. Trench plugs shall be installed at 60m (200') intervals along the entire length of piping systems. Trench plugs shall be 3m (10') in length and shall encompass the entire pipe zone. Additional trench plugs may be required as directed by the City Engineer.
-1. 3.11 PIPE ZONE BACKFILL
+1. PIPE ZONE BACKFILL
 
 	1. Care shall be taken in placing the imported granular backfill material simultaneously around the main pipeline and appurtenance pipes so that the pipe barrel is completely supported and that no voids or uncompacted areas are left beneath the pipe or on the sides of the pipe. Care shall be taken to place material simultaneously on both sides of the pipe to prevent lateral movement. This area shall be mechanically compacted to attain 90% relative density. Care shall be taken when compacting appurtenance laterals 2” and smaller to prevent the crushing or denting of the copper lateral. Additional lifts of 12" or less thickness may be required on 16" or larger diameter pipe to attain complete support of the haunch area. Soils tests may be taken on this layer of backfill.
 	2. After the spring line backfill has been approved by the Soils Technician, backfill of the remainder of the Pipe Zone may proceed. Do not drop sharp, heavy pieces of material directly onto the pipe or the tamped material around the pipe.
 	3. Place and compact the imported granular material at a maximum of 12” lifts. Compact all material placed in the Pipe Zone by mechanical methods. Sand cone tests shall be taken on this layer of backfill.
 	4. The use of a backhoe-mounted compaction wheel is prohibited within the pipe zone to 12” above the top of the pipe.
 	5. Under no circumstances shall consolidation by water settling or water-setting methods (i.e. jetting, diking, etc.) be permitted.
-1. 3.12 TRENCH ZONE BACKFILL
+1. TRENCH ZONE BACKFILL
    1. After the Pipe Zone material has been placed, compacted, approved by the Soil Technician and accepted by the City Engineer, backfill in the Trench Zone may proceed.
 2. Compaction using vibratory equipment, tamping rollers, pneumatic tire rollers, or other mechanical tampers shall be performed with the type and size of equipment necessary to accomplish the work. The backfill shall be placed in horizontal layers of such depths as are considered proper for the type of compacting equipment being used in relation to the backfill material being placed. Each layer shall be evenly spread, properly moistened, and compacted to the specified relative density. The Contractor shall repair or replace any pipe, fitting, manhole, or structure damaged by the installation operations as directed by the City Engineer.
-1. 3.13 PAVEMENT ZONE BACKFILL AND RESTORATION
+1. PAVEMENT ZONE BACKFILL AND RESTORATION
    1. After the Trench Zone material has been placed, compacted, approved by the Soil Technician, and accepted by the City Engineer; backfill in the Pavement Zone may proceed as necessary in accordance with the requirements of the agency having jurisdiction.
 2. Replace bituminous and concrete pavement, curbs, and sidewalks removed or damaged during construction in accordance with the requirements of the agency having jurisdiction.
 

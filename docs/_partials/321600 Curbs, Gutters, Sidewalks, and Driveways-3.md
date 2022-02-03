@@ -58,10 +58,7 @@ Resilient Bituminous Types)
    1. Placing During Warm Weather
 1. The temperature of the concrete as placed shall not exceed 85 degrees F except where an approved retarder is used. The mixing water and/or aggregates shall be cooled, if necessary, to maintain a satisfactory placing temperature. The placing temperature shall not exceed 95 degrees F at any time.
 6. PLANT, EQUIPMENT, MACHINES, AND TOOLS
-
-## General
-
- Requirements
+1. General Requirements
 1. Plant, equipment, machines, and tools used in the work shall be subject to approval and shall be maintained in a satisfactory working condition at all times. The equipment shall have the capability of producing the required product, meeting grade controls, thickness control and smoothness requirements as specified. Use of the equipment shall be discontinued if it produces unsatisfactory results. The Owner shall have access at all times to the plant and equipment to ensure proper operation and compliance with specifications.
    1. Slip Form Equipment
 1. Slip form paver or curb forming machine, shall be approved based on trial use on the job and shall be self-propelled, automatically controlled, crawler mounted, and capable of spreading, consolidating, and shaping the plastic concrete to the desired cross section in 1 pass.
@@ -153,10 +150,7 @@ Resilient Bituminous Types)
    1. Expansion Joints
 1. Expansion joints shall be formed by means of preformed expansion joint filler material cut and shaped to the cross section of curb and gutter. Expansion joints shall be provided in curb and gutter directly opposite expansion joints of abutting portland cement concrete pavement, and shall be of the same type and thickness as joints in the pavement. Where curb and gutter do not abut portland cement concrete pavement, expansion joints at least 1/2 inch in width shall be provided at intervals not less than 30 feet or greater than 120 feet. Expansion joints shall be provided in nonreinforced concrete gutter at locations indicated. Expansion joints shall be sealed immediately following curing of the concrete or as soon thereafter as weather conditions permit. Joints shall be sealed as specified in Section 32 01 19 FIELD MOLDED SEALANTS FOR SEALING JOINTS IN RIGID PAVEMENTS.
 7. CURING AND PROTECTION
-
-## General
-
- Requirements
+1. General Requirements
 1. Concrete shall be protected against loss of moisture and rapid temperature changes for at least 7 days from the beginning of the curing operation. Unhardened concrete shall be protected from rain and flowing water. All equipment needed for adequate curing and protection of the concrete shall be on hand and ready for use before actual concrete placement begins. Protection shall be provided as necessary to prevent cracking of the pavement due to temperature changes during the curing period.
       1. Mat Method
 (i) The entire exposed surface shall be covered with 2 or more layers of burlap. Mats shall overlap each other at least 6 inches. The mat shall be thoroughly wetted with water prior to placing on concrete surface and shall be kept continuously in a saturated condition and in intimate contact with concrete for not less than 7 days.
@@ -175,10 +169,7 @@ Resilient Bituminous Types)
       1. Precautions
 (i) Protective coating shall not be heated by direct application of flame or electrical heaters and shall be protected from exposure to open flame, sparks, and fire adjacent to open containers or applicators. Material shall not be applied at ambient or material temperatures lower than 50 degrees F.
 8. FIELD QUALITY CONTROL
-
-## General
-
- Requirements
+1. General Requirements
 1. The Contractor shall perform the inspection and tests described and meet the specified requirements for inspection details and frequency of testing. Based upon the results of these inspections and tests, the Contractor shall take the action and submit reports as required below, and any additional tests to insure that the requirements of these specifications are met.
    1. Concrete Testing
 1. Strength Testing

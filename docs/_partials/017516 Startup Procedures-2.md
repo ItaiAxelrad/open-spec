@@ -71,12 +71,10 @@ tags: ['General', 'Requirements', 'Startup', 'Procedures']
    1. Contractor to pay all costs associated with System start-up.
 ## Product
 
-
+Not used.
 ## Execution
 
-
-## General
-
+1. General
    1. System Start-up:
 	1. Pre-Commissioning Period including:
 		1. Completion of construction work to bring FPS to a state of Substantial Completion.

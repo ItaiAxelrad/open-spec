@@ -47,12 +47,9 @@ tags: ['Process', 'Equipment', 'Water', 'Wastewater', 'Cleaning', 'Disinfecting'
 		3. Sodium Hypochlorite (5.25 percent Cl): 1 gallon per 4.25 gallons water. 
 			1. If sodium hypochlorite procedure is used, dilute the liquid with water to obtain a 1 percent solution.
 
-
 ## Execution
 
-
-## General
-
+1. General
    1. Prior to disinfectants, clean the water storage tank, pumps, and piping of loose and suspended material. 
 2. Flush piping until clean of solids and color. 
 3. Conform to AWWA C651 for pipes and pipelines.

@@ -100,7 +100,7 @@ tags: ['Process', 'Equipment', 'Interconnections', 'High-Density', 'Polyethylene
    1. Lay pipe on grade and on a stable foundation. Remove unstable or mucky trench bottom soils, and install a 6-inch foundation or bedding of compacted Class I material to pipe bottom grade. Remove excess groundwater from the trench before laying the foundation or bedding and the pipe. A trench cut in rock or stony soil shall be excavated to 6 inches below pipe bottom grade, and brought back to grade with compacted Class I bedding. Remove all ledge rock, boulders, and large stones.
 1. PIPE HANDLING
    1. When lifting with slings, use only wide fabric choker slings to lift, move, or lower pipe and fittings. Do not use wire rope or chain. Slings shall be of sufficient capacity for the load, and shall be inspected before use. Do not use worn or defective equipment.
-1. 3.10 TESTING
+1. TESTING
    1. Hydrostatic Pressure Testing:
       1. Pressure test and flush HDPE pipes after swabbing in accordance with Section 40 05 00, Pipe and Pipe Fittings:
       1. Basic Requirements.

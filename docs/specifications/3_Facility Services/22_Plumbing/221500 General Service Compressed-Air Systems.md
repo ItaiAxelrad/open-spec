@@ -100,7 +100,7 @@ tags: ['Facility', 'Services', 'Plumbing', 'General', 'Service', 'Compressed-Air
 1. Source Quality Control
    1. Blowers:
 	1. Test in accordance with ISO 1217.
-1. 2.10 Maintenance Materials
+1. Maintenance Materials
    1. Filter Element:
 	1. Provide a minimum of two (2) filter replacement elements for each filter.
 

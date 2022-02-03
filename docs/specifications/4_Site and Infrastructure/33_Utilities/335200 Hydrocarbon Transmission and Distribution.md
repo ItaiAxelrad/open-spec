@@ -109,7 +109,9 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Hydrocarbon', 'Transmission', 'Di
    1. All charges for the gas service as shown on the plans, including the connection from the main in the street or other location to the gas meter, shall be paid by this Contractor, including setting of gas meter(s) and all work performed by the gas company.
 1. *List the contact person at the gas utility along with their telephone number and address so the contractor can properly schedule this work.*
 1. *Verify whether or not a gas meter needs a concrete pad. If it does, coordinate this with the architect so that the general contractor installs it.*
-1. P A R T 2 - P R O D U C T S
+
+## Products
+
 1. FUEL OIL** - forsupply, return, fill, vent and gauge systems - **ABOVEGROUND
    1. See Division 23 for specifications.
    1. FUEL OIL PIPING SYSTEMS - UNDERGROUND CONTAINMENT TYPE
@@ -133,7 +135,9 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Hydrocarbon', 'Transmission', 'Di
 	1. See Division 23 for aboveground system specifications. 
    1. Note:
       1. Do not use flanges for underground gas or oil systems. Use fittings that are solvent-welded or fusion-bonded joints only.
-1. P A R T 3 - E X E C U T I O N
+
+## Execution
+
 1. PREPARATION
    1. Remove all foreign material from interior and exterior of pipe and fittings.
 1. ERECTION

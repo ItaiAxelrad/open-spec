@@ -127,7 +127,9 @@ tags: ['Process', 'Equipment', 'Heating', 'Cooling', 'Drying']
    1. Where ASTM B88, type L hard temper copper tubing is specified, ASTM B88, type K hard temper copper tubing may be substituted at Contractor's option.
 1. SLEEVES AND OPENINGS
    1. Refer to Division 1, General Requirements, Sleeves and Openings
-1. P A R T 2 - P R O D U C T S
+
+## Products
+
 1. *The following specifications are based on "normal" systems where the design system pressures for chilled water does not exceed 175 psig. If a specific application requires design pressures/temperatures beyond these limits (central plants or extensions from central plants, for example), contact DFD engineering personnel for assistance.*
    1. DIRECT BURIED UNDERGROUND CHILLED WATER AND CONDENSER WATER
    1. AIR VENT AND DRAIN PIPE:3" and Smaller:
@@ -225,7 +227,9 @@ tags: ['Process', 'Equipment', 'Heating', 'Cooling', 'Drying']
       1. minimum of 6 inches wide, designed for 12" bury; THOR Enterprises, Inc., MagnaTec; Marking Services, Inc., Underground Warning Tape # 52219; Carlton Industries, Inc. # 1667DT6; D & G Sign and Label Co., # 40412; Seton Name Plate Co., Detection Tape # 6 WAT; or approved equal.
 1. PIPE INSULATION
    1. Provide piping insulation per Section 33 07 00.
-1. P A R T 3 - E X E C U T I O N
+
+## Execution
+
 1. PREPARATION
    1. Remove all foreign material from interior and exterior of pipe and fittings.
    1. Excavate trench in accordance with the applicable requirements of Section 31 23 16.13.90 – Trenching for utilities.

@@ -307,10 +307,7 @@ Warning Tape Color Codes
    1. Detection wire shall be buried directly above non-metallic piping at a distance not to exceed 12 inches above the top of pipe. The wire shall extend continuously and unbroken, from manhole to manhole. The ends of the wire shall terminate inside the manholes at each end of the pipe, with a minimum of 3 feet of wire, coiled, remaining accessible in each manhole. The wire shall remain insulated over it's entire length. The wire shall enter manholes between the top of the corbel and the frame, and extend up through the chimney seal between the frame and the chimney seal. For force mains, the wire shall terminate in the valve pit at the pump station end of the pipe.
 10. COMPACTION
    1. Determine in-place density of existing subgrade; if required density exists, no compaction of existing subgrade will be required. Density requirements specified herein are for cohesionless materials. When cohesive materials are encountered or used, density requirements may be reduced by 5 percent.
-
-## General
-
- Site
+1. General Site
 1. Compact underneath areas designated for vegetation and areas outside the 5 foot line of the paved area or structure to 95 percent of ASTM D 1557.
    1. Structures, Spread Footings, and Concrete Slabs
 1. Compact top 12 inches of subgrades to 95 percent of ASTM D 1557. Compact common fill and fill and backfill material select material to 95 percent of ASTM D 1557.

@@ -37,9 +37,13 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Hydronic', 'Steam', 'Energy']
    1. Any installed material not meeting the specification requirements must be replaced with material that meets these specifications without additional cost to the Owner.
 1. DESIGN CRITERIA
    1. See Division 23 for other piping requirements.
-1. P A R T 2 - P R O D U C T S
+
+## Products
+
    1. NONE.
-1. P A R T 3 - E X E C U T I O N
+
+## Execution
+
 1. EXCAVATION
    1. The Contractor is responsible for all demolition, excavation, bedding and backfilling required to install direct buried conduits.
    1. Where the native soil condition is determined to be poor provide excavation below subgrade (EBS) and undercut backfill material to underside of steam pits, box conduit or tunnels mud slab.

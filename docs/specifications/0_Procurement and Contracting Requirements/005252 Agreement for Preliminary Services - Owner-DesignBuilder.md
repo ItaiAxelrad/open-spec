@@ -67,23 +67,20 @@ tags: ['Procurement', 'Contracting', 'Requirements', 'Agreement', 'Preliminary',
    1. Scope
    1. Engineer shall provide, or cause to be provided, the services set forth herein and in Exhibit A.
    1. Owner’s Responsibilities
-
-## General
-
-   1. Owner shall have the responsibilities set forth herein and in Exhibit B.
-   1. Owner shall pay Engineer as set forth in Exhibit C.
-   1. Owner shall be responsible for, and Engineer may rely upon, the accuracy and completeness of all requirements, programs, instructions, reports, data, and other information furnished by Owner to Engineer pursuant to this Agreement. Engineer may use such requirements, programs, instructions, reports, data, and information in performing or furnishing services under this Agreement.
-   1. Schedule For Rendering Services
-   1. Commencement
-   1. Engineer shall begin rendering services as of the Effective Date of the Agreement.
-   1. Time for Completion
-   1. Engineer shall complete its obligations within a reasonable time. Specific periods of time for rendering services are set forth or specific dates by which services are to be completed are provided in Exhibit A, and are hereby agreed to be reasonable.
-   1. If, through no fault of Engineer, such periods of time or dates are changed, or the orderly and continuous progress of Engineer’s services is impaired, or Engineer’s services are delayed or suspended, then the time for completion of Engineer’s services, and the rates and amounts of Engineer’s compensation, shall be adjusted equitably.
-   1. If Owner authorizes changes in the scope, extent, or character of the Project, then the time for completion of Engineer’s services, and the rates and amounts of Engineer’s compensation, shall be adjusted equitably.
-   1. Owner shall make decisions and carry out its other responsibilities in a timely manner so as not to delay the Engineer’s performance of its services.
-   1. If Engineer fails, through its own fault, to complete the performance required in this Agreement within the time set forth, as duly adjusted, then Owner shall be entitled to the recovery of direct damages resulting from such failure.
-   1. Invoices and Payments
-   1. Invoices
+   2. Owner shall have the responsibilities set forth herein and in Exhibit B.
+   3. Owner shall pay Engineer as set forth in Exhibit C.
+   4. Owner shall be responsible for, and Engineer may rely upon, the accuracy and completeness of all requirements, programs, instructions, reports, data, and other information furnished by Owner to Engineer pursuant to this Agreement. Engineer may use such requirements, programs, instructions, reports, data, and information in performing or furnishing services under this Agreement.
+   5. Schedule For Rendering Services
+   6. Commencement
+   7. Engineer shall begin rendering services as of the Effective Date of the Agreement.
+   8. Time for Completion
+   9. Engineer shall complete its obligations within a reasonable time. Specific periods of time for rendering services are set forth or specific dates by which services are to be completed are provided in Exhibit A, and are hereby agreed to be reasonable.
+   10. If, through no fault of Engineer, such periods of time or dates are changed, or the orderly and continuous progress of Engineer’s services is impaired, or Engineer’s services are delayed or suspended, then the time for completion of Engineer’s services, and the rates and amounts of Engineer’s compensation, shall be adjusted equitably.
+   11. If Owner authorizes changes in the scope, extent, or character of the Project, then the time for completion of Engineer’s services, and the rates and amounts of Engineer’s compensation, shall be adjusted equitably.
+   12. Owner shall make decisions and carry out its other responsibilities in a timely manner so as not to delay the Engineer’s performance of its services.
+   13. If Engineer fails, through its own fault, to complete the performance required in this Agreement within the time set forth, as duly adjusted, then Owner shall be entitled to the recovery of direct damages resulting from such failure.
+   14. Invoices and Payments
+   15. Invoices
 
 *Preparation and Submittal of Invoices.* Engineer shall prepare invoices in accordance with its standard invoicing practices and the terms of Exhibit C, and in a manner acceptable to Owner. Engineer shall submit its invoices to Owner no more than once per month. Invoices are due and payable within 60 days of receipt.
    1. Payments
@@ -104,10 +101,7 @@ tags: ['Procurement', 'Contracting', 'Requirements', 'Agreement', 'Preliminary',
    1. If a Construction Cost limit is established between Owner and Engineer, such Construction Cost limit and a statement of Engineer’s rights and responsibilities with respect thereto will be specifically set forth in Exhibit F, “Construction Cost Limit,” to this Agreement.
    1. Opinions of Total Project Costs
    1. The services, if any, of Engineer with respect to Total Project Costs shall be limited to assisting the Owner in collating the various cost categories which comprise Total Project Costs. Engineer assumes no responsibility for the accuracy of any opinions of Total Project Costs.
-
-## General
-
- Considerations
+1. GeneralcConsiderations
    1. Standards of Performance
    1. The standard of care for all professional engineering and related services performed or furnished by Engineer under this Agreement will be the care and skill ordinarily used by members of the subject profession practicing under similar circumstances at the same time and in the same locality. Engineer makes no warranties, express or implied, under this Agreement or otherwise, in connection with Engineer’s services.
    1. Owner shall not be responsible for discovering deficiencies in the technical accuracy of Engineer’s services. Engineer shall correct any such deficiencies in technical accuracy without additional compensation except to the extent such corrective action is directly attributable to deficiencies in Owner-furnished information.

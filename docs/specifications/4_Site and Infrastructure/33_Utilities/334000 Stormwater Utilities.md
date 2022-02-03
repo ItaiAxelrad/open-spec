@@ -121,7 +121,9 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Stormwater']
    1. Construct storm drainage system in a manner that will facilitate future extension or connection. 
 1. AS-Built drawings
    1. Show the actual locations of storm drainage facilities and service lines and structures on drawings. Show changes to proposed storm drainage facilities, alignment, or grades. Show the actual locations, sizes and types of underground utilities and other features encountered during construction.
-1. PART 2 - MATERIALS
+
+## Products
+
 1. *Note to the designer:
       1. Edit material requirements to account for agency/institution and local utility requirements, or variations in material availability. Edit pipe requirements to account for depth of bury, traffic and other load conditions for this project.*
 1. reinforced concrete pipe

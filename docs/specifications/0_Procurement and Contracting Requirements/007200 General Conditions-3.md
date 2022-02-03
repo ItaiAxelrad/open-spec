@@ -199,9 +199,7 @@ Construction Specification Institute
 11. Restrictions on Lobbying 59
 12. Environmental Requirements 59
 
-## General
-
- CONDITIONS
+## General CONDITIONS
    1. Definitions and Terminology
    1. Defined Terms
    1. Wherever used in the Bidding Requirements or Contract Documents and printed with initial capital letters, the terms listed below will have the meanings indicated which are applicable to both the singular and plural thereof. In addition to terms specifically defined, terms with initial capital letters in the Contract Documents include references to identified articles and paragraphs, and the titles of other documents or forms.

@@ -41,8 +41,10 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Enclosures', 'Water', 'Utility', 
    1. The Contractor shall provide a qualified meter box supplier as designated by the City and is capable of meeting project requirements and the requirements of these Specifications.
 06. DELIVERY AND STORAGE
    1. Store each unit in a manner that will prevent cracking, distortion, warping, straining, and other physical damage and in a manner to keep marking visible.
-1. PART 2 – MATERIALS
-1. 2.01 WATER METER BOXES
+
+## Products
+
+1. WATER METER BOXES
    1. All water non concrete meter boxes and covers shall be manufactured and conform to all provisions and standard ANSI/SCTE 77 for Tier 15, Western Underground Committee’s Guide 3.6 and as specified herein. The more stringent requirements shall be used when there is a contradiction between standards and this section.
    1. The meter boxes shall be a two-piece box consisting of body and frame. 
    1. Meter box sizes shall be determined by the water meter size as described in section 2.08 herein. All existing 3/4-inch water meters shall be provided with a meter box size for 1-inch meters. 
@@ -58,7 +60,7 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Enclosures', 'Water', 'Utility', 
       1. meter box frame shall be made of reinforced concrete, steel or high density Polyethylene. The frame shall be rigidly attached to the body to form a structurally sound box. Meter box frame top surface shall have a 0.5 minimum coefficient of friction when tested in accordance with ASTM C-1028. Meter box frame shall be extended beyond the box wall allowing the box to lock into the sidewalk pavement or surrounding backfill materials. Reinforced polymer concrete shall meet impact resistant tested per ASTM D-2444 and have water absorption less than 1% per ASTM D-570.
 6. Each member or element shall be marked to indicate location in the structure, top surface, and date of fabrication.
 7. Provide new meter boxes and covers manufactured by DFW Plastics, Inc., or approved equal, where indicated. Existing Brooks Products, and JR Concrete Products. Meter boxes shall be equipped with DFW Plastic Inc. covers, or approved equal. Refer to Approved Material List.
-1. 2.02 WATER METER BOX COVERS
+1. WATER METER BOX COVERS
    1. Materials:
       1. New water meter box covers shall be made of LLPE. Cover shall contain sufficient reinforcement to meet or exceed the product performance characteristics specified herein, including but not limited to vertical loading. 
    1. Non Concrete Enclosure Manufacturer shall provide third party, independent test lab certification of compliance with the material testing specified herein and in WUC, Guide 3.6. 
@@ -79,9 +81,9 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Enclosures', 'Water', 'Utility', 
 
 	1. WATER METER BOX COVER COLOR
    1. Meter boxes and covers shall be “concrete gray” in color.
-1. 2.05 CONCRETE
+1. CONCRETE
    1. Concrete for the meter boxes shall be Class A per Section 03000, Cast-in-Place Concrete.
-1. 2.06 DESIGN LOAD CAPACITY
+1. DESIGN LOAD CAPACITY
    1. Boxes:
       1. Box assembly shall be designed to withstand 20,800 lbs. Box will be vertical load tested on a 10”x20”x1” steel plate without damage.
 
@@ -92,23 +94,23 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Enclosures', 'Water', 'Utility', 
 2. Apply the 10,400 lb load over the prescribed area centered on the cover. The load shall be transferred into the cover and test frame through a ½” thick piece of rubber backed by ten inch by ten inch by one-inch thick steel plate. A spherical bearing swivel head shall be used in the testing machine. The load shall be applied at a rate of 550 lb / second, +/- 450 lb / second. 
 3. The Design Load (10,400 lb) shall be cycled on the cover in the test frame ten times as per WUC, Guide 3.6 test protocol. On the eleventh cycle, the load shall be increased to confirm the cover can sustain the Proof of Design Load (22,568 lb.). 
 4. The failure criteria shall be determined by the one of the two following criteria. Yield – the point on a stress / strain curve where resistance to the applied load no longer increases as deflection continues. Break – the point where increasing load results in exceeding the tensile or elastic limit of a material.
-1. 2.07 DESIGN/PRODUCT MODIFICATIONS
+1. DESIGN/PRODUCT MODIFICATIONS
 	1. Meter boxes and covers specified in this section are intended for installation in sidewalks and driveways (traffic load areas) alleys and streets and occasionally in bare ground, lawn areas, or sand areas. Heavy loads from traffic are expected in some of these areas. The specifications stated are minimum industry requirements for meter boxes and covers to perform satisfactorily under normal usage in these areas. 
 2. Bids offered for the boxes and cover designs must be conducive to the various ground areas and conditions and perform satisfactorily under normal usage as stated in this attachment. 
 3. After award, in situations where the boxes and covers do not perform satisfactorily under normal use, the City representative shall notify Contractor of the problem. The Contractor shall modify the design to correct the deficiencies at no cost to the City. 
 4. Prior to any modifications, the Contractor shall provide revised specifications and drawings at no additional costs to the City representative and Purchaser for review and approval. 
 5. Failure of Contractor to comply with this section of this contract shall constitute a default of this Contract 
-1. 2.08 APPROVED MATERIALS
+1. APPROVED MATERIALS
    1. Refer to Approved Materials List in Appendix A.
    1. Note:
       1. Meter Boxes located in alleys are designed to withstand H-10 and H-20 loading in non-deliberate or incidental traffic areas and are NOT INTENDED TO BE INSTALLED IN ROADWAYS AND STREETS.
 
 ## Execution
 
-1. 3.01 EXCAVATION AND BACKFILL AROUND METER BOXES
+1. EXCAVATION AND BACKFILL AROUND METER BOXES
    1. Perform excavation, backfill and compaction in accordance with Section 02223, Trenching, Excavation, Backfill, and Compacting. Compact each lift of structural backfill all around meter boxes placing next lift. 
 2. Meter boxes in concrete or pavement for driveways, parking lots, alleys and off-road way applications subjected to occasional non deliberate heavy vehicles require an 8-inch wide concrete collar 10 inches deep around the top of the meter box. Refer to the Approved Plans.
-1. 3.02 INSTALLING METER BOXES
+1. INSTALLING METER BOXES
    1. Set each precast concrete vault unit plumb and flush with existing surfaces and the water service piping shall be located 10-inches below the top of the meter box and shall be centered in the meter box.
 2. Physical movement of existing meters and meter boxes to new locations may be required where service lines are transferred to new mains in conjunction with main replacement work. Unless specified otherwise, the Contractor shall move existing meters and meter boxes and reconnect and adjust customer's yard piping as part of transferring service lines.
 3. All removed meter boxes and covers not to be reused and shall be disposed by the Contractor, except for steel box covers shall be salvaged and returned to the City. As The Contractor shall replace the removed meter boxes with the new and appropriate loading meter boxes per the Approved Material List. Unless otherwise specified, the old service line shall be removed per Section 02222 after the existing meter has been reset in the existing or new meter box. 

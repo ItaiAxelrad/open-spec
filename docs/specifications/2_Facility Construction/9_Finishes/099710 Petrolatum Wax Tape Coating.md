@@ -22,17 +22,19 @@ tags: ['Facility', 'Construction', 'Finishes', 'Petrolatum', 'Wax', 'Tape', 'Coa
 04. RELATED WORK SPECIFIED ELSEWHERE
    1. Standard Drawings
 2. Standard Specifications 01000, 01045, 01200, 01310, 01330, 01505, 01510, 01570, 02140, 02222, 02223, 02511, 02528, 02578, 03000, 03480, 03482, 09910, and Division 15.
-1. PART 2 MATERIALS
-	1. 2.01 GENERAL
+
+## Products
+
+	1. GENERAL
 	1. Wrap all exposed surfaces of buried ferrous pipe, flanges, couplings and other pipeline appurtenances (including bolts, nuts, etc.) with petrolatum wax tape, unless another corrosion protection system (other than a factory-installed paint coating) is otherwise specified or indicated by the Contract Drawings. 
-1. 2.02 PRIMER
+1. PRIMER
 	1. Exposed surfaces shall be prime coated with a blend of petrolatum, plasticizer, and corrosion inhibitor having a paste-like consistency. The material shall have the following properties:
    1. Pour Point 400-100° F 
    1. Flash Point 350° F minimum 
    1. Approximate Coverage 1 gal/100 square feet 
    1. Color Brown 
    1. The primer shall be Trenton Wax-Tape Primer or equivalent. 
-1. 2.03 WAX TAPE
+1. WAX TAPE
 	1. Two types of petrolatum wax tape shall be available from the manufacturer:
       1. one type for buried installations and another type for above-ground installations. 
    1. Buried Installations:
@@ -43,7 +45,7 @@ tags: ['Facility', 'Construction', 'Finishes', 'Petrolatum', 'Wax', 'Tape', 'Coa
    1. Dielectric Strength 170 volts/mil 
    1. Tape Width 6 inches 
    1. Wax tape shall be Wax-Tape #1 as manufactured by The Trenton Corporation (Ann Arbor, Michigan), or approved equal. 
-1. 2.04 OUTER COVERING
+1. OUTER COVERING
 	1. The primed and wax-tape wrapped surface shall be wrapped with a plastic tape covering consisting of three (3) layers of 50 gauge, clear, polyvinylidene chloride, high cling membranes wound together as a single sheet. The material shall have the following properties:
    1. Width 6 inches 
    1. Thickness 1.5 mils 
@@ -51,7 +53,7 @@ tags: ['Facility', 'Construction', 'Finishes', 'Petrolatum', 'Wax', 'Tape', 'Coa
    1. Water Absorption Negligible 
    1. Color Clear 
    1. The outer covering shall be Trenton Poly-Ply or approved equal. 
-1. 2.05 OTHER PETROLATUM WAX TAPE SYSTEM COMPONENTS
+1. OTHER PETROLATUM WAX TAPE SYSTEM COMPONENTS
 	1. Any components not listed above, but required for a complete petrolatum wax tape coating system as recommended for this application by the manufacturer shall be provided at no additional cost to Owner. 
 1. 
 

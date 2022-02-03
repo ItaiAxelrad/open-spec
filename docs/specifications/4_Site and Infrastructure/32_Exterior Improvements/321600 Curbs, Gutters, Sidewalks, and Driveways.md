@@ -20,34 +20,36 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Curbs', 'Gutters',
 03. SUBMITTALS
    1. Shop drawings shall be submitted in accordance with the General Conditions and the requirements of Section 01000.
 
-1. PART 2 - MATERIALS
-1. 2.01 FORMS
+
+## Products
+
+1. FORMS
 	 1. General: Forms shall be as required in Section 03000, Concrete. Stakes and braces shall be provided to hold forms securely in place.
 2. Sidewalk Forms:
       1. Sidewalk forms shall be 2-inch dressed lumber, straight and free from defects, or standard metal forms. Where short-radius forms are required, 1-inch dressed lumber of plywood may be used.
-1. 2.02 AGGREGATE BASE COURSE
+1. AGGREGATE BASE COURSE
    1. Crushed rock base shall be clean 3/4-inch and smaller crushed rock or crushed gravel, free from foreign material, and conforming to Crushed Aggregate Base as specified by Standard Specifications of Public Works Construction:
       1. Section 200-2.2, latest edition.
-1. 2.03 EXPANSION JOINT FILLER
+1. EXPANSION JOINT FILLER
    1. Premolded expansion joint filler shall be 1/4-inch thick for curbs and 1/4-inch thick for sidewalks, or as required or allowed by the City.
-1. 2.04 CONCRETE
+1. CONCRETE
    1. Conform to Section 03000, Cast-in-Place Concrete or the Greenbook.
-1. 2.05 REINFORCING STEEL
+1. REINFORCING STEEL
    1. Conform to Section 03000, Cast-in-Place Concrete.
-1. 2.06 EXCAVATION AND BACKFILL
+1. EXCAVATION AND BACKFILL
    1. Conform to Section 02223, Trenching, Backfilling, and Compacting.
 1. 
 
 ## Execution
 
-1. 3.01 PREPARATION OF SUBGRADE
+1. PREPARATION OF SUBGRADE
    1. Subgrade shall be excavated and shaped to line, grade, and cross section. The top 12-inches of subgrade shall be compacted to 90% relative compaction. All soft material disclosed by excavating shall be removed and replaced with aggregate base as directed. The finished subgrade shall be within a tolerance of +/-0.02 of a foot of the grade and cross section shown and shall be smooth and free from irregularities at the specified relative compaction. The subgrade shall extend over the full width of the construction.
    1. The City Engineer’s approval of finished subgrades must be received prior to continuance of the work.
-1. 3.02 PLACING AGGREGATE BASE
+1. PLACING AGGREGATE BASE
    1. After the subgrade for curbs, sidewalks, and roadway slabs is compacted and accepted, the Contractor shall place and spread aggregate base material, sprinkle with water, and compact to 95% relative density. The surface of the compacted base shall be at the proper level to receive concrete. Curbs and sidewalks shall be underlain by 4-inches or more of compacted aggregate base material.
-1. 3.03 SETTING FORMS
+1. SETTING FORMS
    1. Forms shall conform to Section 03000, Concrete. Forms for a face-of-curb shall not have any horizontal joints within 7-inches of the top of the curb. Forms shall be braced to prevent change of shape or movement in any direction resulting from the weight of the concrete. Short-radius curved forms shall be constructed to exact radius. Tops of forms shall not depart from gradeline more than 1/8-inch when checked with a 10-foot straightedge. Alignment of straight sections shall not vary more than 1/8-inch in 10-feet.
-1. 3.04 CURB CONSTRUCTION
+1. CURB CONSTRUCTION
    1. Jurisdictional Requirements:
       1. Curbs shall be reconstructed to original line and grade if removed. Curbs shall conform to the requirements of the City Standards.
 2. Expansion Joints:
@@ -62,7 +64,7 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Curbs', 'Gutters',
       1. Finished curb shall have a uniform grade and alignment. Any section of curb showing abrupt changes in alignment or grade, or which is more than 1/8-inch away from its intended location, as staked, shall be removed and reconstructed at no additional cost to the City.
 7. Protection of Work:
       1. All concrete surfaces and/or structures shall be protected until the project containing the work is accepted.
-1. 3.05 SIDEWALK CONSTRUCTION
+1. SIDEWALK CONSTRUCTION
 
 ## General
 

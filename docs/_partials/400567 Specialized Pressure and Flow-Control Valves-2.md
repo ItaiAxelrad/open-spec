@@ -41,33 +41,35 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Specialized', 'Pressure', 'F
    1. Backflow prevention assemblies shall be delivered and stored in accordance with AWWA C210, AWWA C213, and AWWA C550. The port openings shall be covered with plastic, cardboard, or wood while in transit and during storage in the field. These covers shall remain in place until the backflow assembly is ready to be installed. Backflow assemblies shall not be stored in contact with bare ground. Backflow assemblies shall not be stacked.
 07. WARNING/IDENTIFICATION TAPE
    1. Warning/Identification tape shall be installed for backflow prevention assemblies in accordance with Section 15000.
-1. PART 2 MATERIALS
-1. 2.01 BACKFLOW PREVENTION ASSEMBLIES
+
+## Products
+
+1. BACKFLOW PREVENTION ASSEMBLIES
    1. Backflow prevention assemblies shall be among those listed on the list of “Approved Backflow Prevention Assemblies for Service Isolation" as issued by the State of California Department of Health Services, Division of Drinking Water and Environmental Management.
-1. 2.02 CONCRETE
+1. CONCRETE
    1. Concrete used for slabs and anchor or thrust blocks shall be in accordance with Section 03000.
-1. 2.03 WARNING/IDENTIFICATION TAPE
+1. WARNING/IDENTIFICATION TAPE
    1. Warning/Identification Tape shall be in accordance with Section 15000 and the Approved Materials List.
 1. 
 
 ## Execution
 
-1. 3.01 INSTALLATION
+1. INSTALLATION
    1. Installation shall comply with the latest edition of the Uniform Plumbing Code, applicable local agency and City requirements.
 2. Backflow prevention assemblies shall be installed in accordance with the Standard Drawings.
 3. Water service and fire service shut-off valves will be secured closed during installation until an approved backflow prevention device is installed and tested in compliance with this specification. 
 4. When static pressure exceeds 150psi, when recommended by the backflow device manufacturer, or when required by the City Engineer, a pressure-reducing valve shall be installed as shown on the Standard Drawings.
-1. 3.02 WARNING/IDENTIFICATION TAPE
+1. WARNING/IDENTIFICATION TAPE
    1. Warning/Identification tape shall be installed in accordance with Section 15000 and the Standard Drawings.
-1. 3.03 CONCRETE
+1. CONCRETE
    1. Concrete thrust or anchor blocks and slabs shall be installed in accordance with Section 03000 and the Standard Drawings. Refer to Section 03000 for the minimum concrete curing time required.
-1. 3.04 ENCLOSURES
+1. ENCLOSURES
    1. Enclosures shall be installed where shown on the Approved Plans or as directed by the Agency of jurisdiction in accordance with the Standard Drawings.
-1. 3.05 DISINFECTION
+1. DISINFECTION
    1. Disinfection and flushing shall be performed in accordance with Section 15041, as part of the process of disinfecting the main pipeline. The backflow assemblies shall be operated during the disinfection period to completely disinfect all internal parts.
-1. 3.06 HYDROSTATIC TESTING
+1. HYDROSTATIC TESTING
    1. Backflow assemblies shall not be hydrostatically tested as part of or in conjunction with the pipeline to which they are connected.
-1. 3.07 TESTING
+1. TESTING
    1. Backflow assemblies shall be tested and certified by a City-approved backflow tester after installation inspection by the City is complete. Required maintenance of the backflow prevention device and appurtenances and annual testing of the device shall be the owner’s responsibility.
 
 

@@ -41,7 +41,7 @@ tags: ['General', 'Requirements', 'Forest', 'Service']
 1. Payment for such services will be made by the Government at not less than the current rate for firefighting services established by the Forest Service in the area concerned. 
 2. Any employees and equipment furnished will be relieved from firefighting as soon as the Forest Service finds that it is practicable to employ other labor and equipment adequate for the protection of the area.
 3. An equitable adjustment in contract time will be made for this period.
-1. 3.02 TEMPORARY ACCESS ROADS AND BORROW AREAS
+1. TEMPORARY ACCESS ROADS AND BORROW AREAS
    1. Except for those access roads and borrow areas specifically covered in these specifications, approval of the Contracting Officer must be obtained in advance before locating additional access roads or borrow areas on national forest land. Mark proposed locations of access roads and borrow areas on the ground for approval by the Contracting Officer in advance of construction.
    1. Temporary Access Road
 1. To prevent excessive erosion, do not use grades in excess of 8 percent, except those which are approved in writing by the Contracting Officer.

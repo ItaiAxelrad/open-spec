@@ -26,23 +26,17 @@ tags: ['Procurement', 'Contracting', 'Requirements', 'Exhibit', 'G']
    1. Disease, Each Employee:
       1. $
 
-## General
-
- Liability – 
+## General Liability – 
    1. Each Occurrence (Bodily Injury and  
 Property Damage): $
 
-## General
-
- Aggregate:
+## General Aggregate:
       1. $
    1. Excess Umbrella Liability – 
    1. Each Occurrence:
       1. $
 
-## General
-
- Aggregate:
+## General Aggregate:
       1. $
    1. Automobile Liability – 
    1. Bodily Injury:
@@ -72,13 +66,9 @@ Property Damage): $
    1. Disease, Each Employee:
       1. $
 
-## General
+## General Liability – 
 
- Liability – 
-
-## General
-
- Aggregate:
+## General Aggregate:
       1. $
    1. Each Occurrence (Bodily Injury and  
 Property Damage): $
@@ -86,9 +76,7 @@ Property Damage): $
    1. Each Occurrence:
       1. $
 
-## General
-
- Aggregate:
+## General Aggregate:
       1. $
    1. Automobile Liability – 
    1. Bodily Injury:

@@ -39,7 +39,7 @@ PART 2 – MATERIALS
 
 ## Execution
 
-1. 3.01 PEDESTRIAN AND PATRON CONTROLS
+1. PEDESTRIAN AND PATRON CONTROLS
    1. Pedestrian Handling Plan
 1. The contractor shall prepare a pedestrian handling plan for the Work to reflect any changes in pedestrian and patron paths including the accessible path. The accessible path shall be as determined by the City in accordance with the requirements of California Building Code and the Americans with Disabilities Act and Architectural Barriers Act Accessibility Guidelines. The pedestrian handling plan shall include drawing(s) showing proposed pedestrian handling devices including temporary signage and way finding signs. The contractor shall submit the plan for review and approval by the City Engineer. Where the plan affects public right-of-way controlled by other jurisdictions, the contractor shall also apply to the jurisdictional agency for approval and obtain the necessary permits. All pedestrian handling devices and signage shall be in compliance with the accessibility requirements of the California Building Code and the Americans with Disabilities Act and Architectural Barriers Act Accessibility Guidelines. 
 2. Include pedestrian handling plans for each phase of the work requiring different pedestrian diversion patterns and methods of control. Include for each phase detailed schedules for performance of work and include proposed pedestrian handling devices. 
@@ -48,7 +48,7 @@ PART 2 – MATERIALS
 1. All construction work within and around the facilities of the project site shall be separated from the public with appropriate barriers to prevent public access to construction areas and to contain construction hazards. 
 2. When the construction work is not within the jobsite perimeter fence, a barrier shall be placed around the construction work area to prevent public access to the work area and to protect the public from construction operations. The area to be enclosed within barriers shall not encroach into an exit path nor block the access path to driveways and sidewalk ramps. 
 3. A barrier that will be removed at the end of the work hours or work shift is a short-term barrier. Work performed within a short-term barrier must be able to be safely secured and not present a hazard to the public when the barrier is removed. Short-term barriers can be portable crowd control barriers, traffic delineator connected with rails, etc. to form a solid barrier, or other field constructed barriers approved by the City Engineer. 
-1. 3.02 TRAFFIC PLAN AND CONTROLS
+1. TRAFFIC PLAN AND CONTROLS
    1. Traffic Plan and Permits:
       1. The Contractor has been provided a traffic control plan required for the Work. The traffic plan includes drawings showing proposed traffic control devices including temporary signage and temporary pavement markings and striping. The Contractor shall implement the traffic control plan. 
 2. Traffic plans have been provided by the City. The Contractor shall include for each phase detailed schedules for performance of work and include proposed traffic control devices.
@@ -72,7 +72,7 @@ PART 2 – MATERIALS
       1. Intersections and street crossings shall be excavated and decked in stages as indicated. Construction shall be phased so that the required number of traffic lanes on each street will be provided at all times during these operations. Trenches or open excavations shall be properly bridged where traffic lanes are to be open to traffic. 
    1. Temporary Paving and Patching:
       1. Construct, maintain, and remove temporary pavement and patching required to safely and expeditiously handle vehicle and pedestrian traffic, within or adjacent to the jobsite. Temporary pavement and patching composition shall conform to the specifications of the local jurisdictional authority. Any construction, maintenance, or removal required by the Contractor's operations off site shall conform to the requirements specified herein. 
-1. 3.03 CONSTRUCTION OPERATIONS UNDER TRAFFIC
+1. CONSTRUCTION OPERATIONS UNDER TRAFFIC
    1. Definitions:
       1. “Construction equipment” is defined for the purposes of this Article as all types of equipment, vehicles, and tools used in connection with construction work. The term “workers” includes every person or firm performing work in or adjacent to public streets. 
    1. Construction Equipment:
@@ -94,7 +94,7 @@ PART 2 – MATERIALS
       1. All temporary signs, barricades, barrier curbs, crash cushions, drums, and cones used to safeguard traffic in connection with construction work shall be removed at the close of the work day, unless the state of the work is such that warning devices are still needed and are adapted for night closing. 
    1. Storage:
       1. No material or traffic control devices shall be stored on any lane intended for traffic use.
-1. 3.04 PORTABLE CHANGEABLE MESSAGE SIGN (CMS)
+1. PORTABLE CHANGEABLE MESSAGE SIGN (CMS)
    1. When conditions warrant, portable changeable message signs shall be furnished, placed, operated, and maintained at locations indicated or designated by the City Engineer, in accordance with Section 12-3.01. "General," of the Caltrans Standard Specifications. 
    1. A CMS shall be placed at a location 800 to 1000 feet upstream from the beginning of temporary barriers alerting motorists of slow trucks ingressing or egressing the median. 
    1. The message shall read:
@@ -112,7 +112,7 @@ PART 2 – MATERIALS
    1. The controller shall contain a non-volatile memory to hold the keyboard created messages in memory during a non-power period. It shall allow for a variable message display rate that allows the operator to match the information display to the speed of the approaching motorists. The flashing off time shall be operator adjustable within the control cabinet. 
    1. Full operation height shall be with the bottom of the sign at least 7 feet above the ground and the top no more than 14 feet, 6 inches above the ground.
    1. The portable changeable message signs, when no longer required for the work, shall become the property of the Contractor.
-1. 3.05 POLLUTION ABATEMENT - GENERAL REQUIREMENTS
+1. POLLUTION ABATEMENT - GENERAL REQUIREMENTS
    1. Comply with General Conditions Article GC 3.23 and 3.4. Conduct construction operations in a manner that will minimize pollution of the environment surrounding the area of the Work by all practicable means and methods. Apply specific controls as specified in the Contract Specifications and as follows:
 1. Waste Materials:
       1. No waste or eroded materials shall be allowed to enter natural or man-made water or sewage removal systems. Eroded materials from excavations, borrow areas, or stockpiled fill shall be contained within the Work area. The Contractor shall develop methods for control of erosion as specified in Article 1.08 herein. 
@@ -121,7 +121,7 @@ PART 2 – MATERIALS
 3. Burying:
       1. No burying of waste materials and debris will be permitted within the limits of the City's property. 
    1. Provide for and maintain the flow of all sewers, drains, building or inlet connections, and all water courses which may be encountered during progress of the Work. Do not allow the contents of any sewer, drain, or building or inlet connection to flow into trenches. Immediately remove from proximity of the Work all offensive matter, using such precautions as are required by local authorities having jurisdiction. 
-1. 3.06 EROSION AND SEDIMENT CONTROL
+1. EROSION AND SEDIMENT CONTROL
    1. Requirements:
       1. The Contractor shall prevent erosion of excavated areas, embankments, stockpiled earth materials, and other erodible areas, and shall provide control of runoff sediment from siltation and pollution of the drainage systems. 
 2. Prevent erosion of excavated areas, embankments, stockpiled earth materials, and other erodible construction areas, and prevent pollution of drainage systems by diversion of storm runoff around construction activities or by trapping or retaining sediment delivered by storm runoff. 
@@ -141,7 +141,7 @@ PART 2 – MATERIALS
    1. Removal of Temporary Structures:
       1. Erosion and sediment control structures and facilities shall be removed from the site upon completion of the affected work.
 
-1. 3.07 DUST CONTROL
+1. DUST CONTROL
    1. The Contractor shall provide dust control at all times, including holidays and weekends, as required to abate dust nuisance on and about the site which is a result of construction activities. Dust control shall be by means of sprinklered water or by other approved methods, except that chemicals, oil, or similar palliative shall not be used. 
    1. Quantities and equipment for dust control shall be sufficient to effectively prevent dust nuisance on and about the jobsite; and when weather conditions warrant, sprinklering equipment shall be on hand at all times for immediate availability. 
    1. The City Engineer shall have authority to order dust control work whenever conditions warrant, and there shall be no additional cost to the City therefor. Dust control shall be effectively maintained whether or not the City Engineer orders such work.
@@ -149,7 +149,7 @@ PART 2 – MATERIALS
    1. Where earthwork operations are in progress, keep exposed earth surfaces dampened continuously. Also, keep dirt accessways and roads dampened continuously. 
    1. If portions of the site are temporarily inactive or abandoned for whatever reason, provide dust control and abatement continuously during such periods of inactivity. 
    1. Where dust resulting from construction activities has collected on public sidewalks and streets, hose down such sidewalks and streets to abate flying dust particles. Clean all sidewalks and streets from accumulated dirt and dust.
-1. 3.08 MUD CONTROL
+1. MUD CONTROL
    1. The Contractor shall take proper measures to prevent tracking of mud onto public streets, driveways, and sidewalks. Such measures shall include, but are not limited to, covering muddy areas on the site with clean, dry sand. 
    1. All egress from the site shall be maintained in a dry condition, and any mud tracked onto streets, sidewalks, or driveways shall be immediately removed, and the affected area shall be cleaned. The City Engineer may order such work at any time the conditions warrant. 
    1. Where trucks will leave a muddy site and enter paved public streets, the Contractor shall maintain a suitable truck wheel-washing facility and crew. All trucks, or other vehicles leaving the site, shall be cleaned of mud and dirt, including mud and dirt clinging to exterior body surfaces of vehicles. 

@@ -51,9 +51,7 @@ tags: ['Procurement', 'Contracting', 'Requirements', 'General', 'Conditions']
     1. 
     1. Arthur Schwartz, Esq.
 
-## General
-
- Counsel
+## General Counsel
     1. National Society of Professional Engineers
     1. 1420 King Street
     1. Alexandria, VA 22314
@@ -67,9 +65,7 @@ tags: ['Procurement', 'Contracting', 'Requirements', 'General', 'Conditions']
    1. This document has important legal consequences; consultation with an attorney is encouraged with respect to its use or modification. This document should be adapted to the particular circumstances of the contemplated Project and the Controlling Law.
    1. STANDARD
 
-## General
-
- CONDITIONS
+## General CONDITIONS
    1. OF THE 
    1. CONSTRUCTION CONTRACT
    1. Prepared by
@@ -239,9 +235,7 @@ tags: ['Procurement', 'Contracting', 'Requirements', 'General', 'Conditions']
 05. *Controlling Law* 41
 06. *Headings* 41
 
-## General
-
- CONDITIONS
+## General CONDITIONS
    1. ARTICLE 1 - DEFINITIONS AND TERMINOLOGY
 01. *Defined Terms*
    1. Wherever used in the Bidding Requirements or Contract Documents and printed with initial capital letters, the terms listed below will have the meanings indicated which are applicable to both the singular and plural thereof. In addition to terms specifically defined, terms with initial capital letters in the Contract Documents include references to identified articles and paragraphs, and the titles of other documents or forms.

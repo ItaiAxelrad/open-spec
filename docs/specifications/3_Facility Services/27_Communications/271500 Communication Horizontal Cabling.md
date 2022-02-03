@@ -9,13 +9,13 @@ tags: ['Facility', 'Services', 'Communications', 'Communication', 'Horizontal', 
 
 ## General
 
-   1. RELATED SECTIONS
+1. RELATED SECTIONS
    1. Drawings and general provisions of the Contract, including General and Supplementary Conditions and Division 1 Specifications, apply to this Section.
 1. SUMMARY
    1. This Section includes telephone and data cabling systems and testing of telephone and data drops.
-   1. DEFINITIONS
+1. DEFINITIONS
    1. Telephone and Data Cabling Systems include all of the necessary components required to establish new services with the Owner voice and data systems. This includes the installation of copper cables and the associated connections.
-   1. SYSTEM DESCRIPTION
+1. SYSTEM DESCRIPTION
 	1. General:
       1. Raceways, cable, racks, patch panels, distribution equipment, devices, and terminations for a complete voice and data communications cable system.
    1. The work described in this specification consists of all labor, materials, equipment, and services necessary and required to complete and test the system. 
@@ -63,16 +63,16 @@ tags: ['Facility', 'Services', 'Communications', 'Communication', 'Horizontal', 
       1. 1 of each type for each 25 installed, but not less than 1.
    1. Outlet Assemblies:
       1. 1 of each type for each 25 installed, but not less than 1.
-   1. SEQUENCING AND SCHEDULING
+1. SEQUENCING AND SCHEDULING
    1. The work shall be completed within the overall project schedule and shall be coordinated with all other building construction so that work specified in this section will not hinder other trades and itself will not be subject to damage by other trades. A separate detailed schedule for work specified in this section shall be submitted at the pre-work conference. When requested, the Contractor shall submit an updated schedule within 3 calendar days.
-   1. DELIVERY, STORAGE, AND HANDLING
+1. DELIVERY, STORAGE, AND HANDLING
    1. Delivery:
       1. The Contractor shall protect products incorporated into the work from damage while in transit to the site. Products must be delivered in original unopened containers with manufacturer's name, brand designation, and contents legibly indicated.
    1. Storage:
       1. The Contractor shall provide temporary storage facilities for products. Storage shall comply with the manufacturer's instructions. The storage area shall permit access for inspection and handling.
    1. Handling:
       1. The Contractor shall load and unload products in such a manner that protects them from damage. 
-   1. PROJECT MEETINGS
+1. PROJECT MEETINGS
    1. Pre-Work Conference:
       1. A pre-work conference will be held prior to the start of work. The Contractor will be notified in advance of meeting time, date and place. The purpose will be to review required work, project drawings, specifications, and construction.
    1. The Contractor, subcontractors and the persons responsible for coordination of the work shall be present at the meeting.
@@ -87,19 +87,19 @@ tags: ['Facility', 'Services', 'Communications', 'Communication', 'Horizontal', 
 
 ## PRODUCTS
 
-   1. SYSTEM REQUIREMENTS
+1. SYSTEM REQUIREMENTS
 	1. General:
       1. Coordinate the features of materials and equipment so they form an integrated system. Match components and interconnections for optimum future performance.
    1. Expansion Capability:
       1. Unless otherwise indicated, quantity of spare fibers and conductor pairs in cables, positions in patch panels, cross connects, terminal strips, and space in backbone cable trays and wireways shall be adequate to accommodate a 20 percent future increase in active workstations.
-   1. MANUFACTURERS
+1. MANUFACTURERS
    1. Cables:
       1. Systimax or approved equal.
    1. Cable Terminations:
       1. Siemon or approved equal.
    1. Patch Panels:
       1. Siemon or approved equal.
-   1. MATERIALS
+1. MATERIALS
    1. Minimum conduit size 1:
       1. Refer to related Division 26 sections of the Specifications. 
    1. Outlet, Junction, and Pull Boxes:
@@ -137,7 +137,7 @@ tags: ['Facility', 'Services', 'Communications', 'Communication', 'Horizontal', 
       1. 1 for each 4-pair conductor group of indicated cables, plus spares and spare positions adequate to satisfy specified expansion criteria.
    1. Mounting:
       1. Rack mounted free standing or wall mounted as indicated.
-   1. FIBER-OPTIC CABLES, CONNECTORS, AND TERMINAL EQUIPMENT
+1. FIBER-OPTIC CABLES, CONNECTORS, AND TERMINAL EQUIPMENT
    1. Cables:
       1. Factory-fabricated, jacketed, low-loss, glass-type, fiber-optic, single-mode, graded index, operating at 1310 and 1550 nanometers (nm).
    1. Strands Per Cable:
@@ -169,11 +169,11 @@ tags: ['Facility', 'Services', 'Communications', 'Communication', 'Horizontal', 
    1. Surge protection:
       1. Copper voice line surge protection devices shall be protective housing devices that incorporate a fusible link or modular plug-in solid-state surge-limiting device.
    1. 110 blocks and light interface units (LIU) or termination enclosure shall be installed at each telecomm closet as required for terminations. Install in separate groups for voice connectivity, data connectivity, work area horizontal and backbone cables.
-   1. IDENTIFICATION PRODUCTS
+1. IDENTIFICATION PRODUCTS
    1. Comply with related Division 26 sections of the Specifications.
    1. Cable Labels:
       1. Self-adhesive vinyl or vinyl-cloth wraparound tape markers, machine printed with alphanumeric cable designations.
-   1. WIRING PATHWAY AND EQUIPMENT MOUNTING ELEMENTS
+1. WIRING PATHWAY AND EQUIPMENT MOUNTING ELEMENTS
    1. Cable Trays:
       1. Comply with related Division 26 sections of the Specifications.
    1. Raceways, Boxes, and Cabinets:
@@ -185,9 +185,7 @@ tags: ['Facility', 'Services', 'Communications', 'Communication', 'Horizontal', 
 
 ## EXECUTION
 
-
-## General
-
+1. General
    1. The Contractor shall furnish and install a local area network secondary cable support system and install/terminate the cable, station jacks and patch panels. The cable drops shall be installed as indicated on the floor plan layout. The cable shall run from the equipment room throughout the area of work.
    1. Labels - Each cable shall be labeled on both ends using a vinyl overwrap label. All station jacks (wall bezel) and patch panels shall also be labeled. Labels shall be printed in a 10 point or greater font and shall be applied not less than 3-inch or more than 4-inches from each termination connector. The clear portion of the label shall completely overwrap the label data. All finished cable drops shall be labeled with printed 10 point or greater font and applied so they are visible on the installed termination jack.
    1. Certification - All cable drops shall be tested using a FLUKE DPS-4000, with the most current software version, and certified to meet EIA/TIA Category 6 standards. The tests shall be performed from the equipment room patch panel to the termination jack. The Contractor shall provide the Project Officer the results of the tests in an E-MAIL. The Contractor shall remove and replace any faulty cables which do not pass the tests.
@@ -206,7 +204,7 @@ tags: ['Facility', 'Services', 'Communications', 'Communication', 'Horizontal', 
       1. Use shielded twisted pair cable conforming to Category 6 of EIA/TIA-568B, for runs between wiring closets and workstation outlets.
    1. Horizontal Cables for Voice Service:
       1. Use unshielded twisted pair cable conforming to Category 6 of EIA/TIA-568B, for runs between wiring closets and workstation outlets.
-   1. FIELD QUALITY CONTROL
+1. FIELD QUALITY CONTROL
    1. Codes and Standards:
       1. The work shall comply with codes and standards applicable to each type of work and as listed in the individual sections of these specifications. This Contract incorporates materials, applications, and tests by reference, with the same force and effect as when they were given in full text.
    1. Conflict:
@@ -268,7 +266,7 @@ tags: ['Facility', 'Services', 'Communications', 'Communication', 'Horizontal', 
    1. Provide a 1 m (3.3 ft) minimum of each Fiber Optic cable terminating at each telecomm outlet box requiring Fiber Optic data cables. Coil Fiber Optic cable slack in box includes adaptor.
    1. Fiber Optic connectors shall terminate in a light interface unit (LIU) or termination enclosure with type SC adapters.
    1. A maximum of 1 inch of exposed wire will be permitted at connections to patch panels and jacks.
-   1. IDENTIFICATION
+1. IDENTIFICATION
    1. Identify system components in compliance with the appropriate requirements of related Division 26 Sections and the following specifications:
       1. Place TELEPHONE label on pull and junction boxes.
    1. System:
@@ -291,4 +289,3 @@ tags: ['Facility', 'Services', 'Communications', 'Communication', 'Horizontal', 
 1. CLEANING AND PROTECTION
    1. On completion of installation, including outlets, fittings, and devices, inspect exposed finish. Remove burrs, dirt, paint spots, and construction debris.
    1. Protect equipment and installations and maintain conditions to ensure that coatings, finishes, and cabinets are without damage or deterioration at time of Substantial Completion.
-

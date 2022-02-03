@@ -51,9 +51,7 @@ tags: ['Procurement', 'Contracting', 'Requirements', 'Supplementary', 'Condition
     1. 
     1. Arthur Schwartz, Esq.
 
-## General
-
- Counsel
+## General Counsel
     1. National Society of Professional Engineers
     1. 1420 King Street
     1. Alexandria, VA 22314
@@ -102,23 +100,20 @@ tags: ['Procurement', 'Contracting', 'Requirements', 'Supplementary', 'Condition
    1. TABLE OF CONTENTS
    1. Page
    1. INTRODUCTION 1
-
-## General
-
- 1
+ 1. General
    1. Relationship of Supplementary Conditions to Other Contract Documents 1
-   1. Arrangement of Subject Matter 2
-   1. Use of this Guide 2
-   1. STANDARD PREFATORY LANGUAGE AND TRADITIONAL FORMAT FOR SUPPLEMENTARY CONDITIONS 3
-   1. Table of Contents 3
-   1. Pagination 3
-   1. Caption and Introductory Statements 3
-   1. Format for Complete Paragraph Change 3
-   1. Format for Change within a Paragraph 3
-   1. Format for Additional Language 4
-   1. Format for Additional Paragraph 4
-   1. ALTERNATE FORMAT FOR SUPPLEMENTARY CONDITIONS 4
-   1. SPECIFIC COMMENTS 4
+   2. Arrangement of Subject Matter 2
+   3. Use of this Guide 2
+   4. STANDARD PREFATORY LANGUAGE AND TRADITIONAL FORMAT FOR SUPPLEMENTARY CONDITIONS 3
+   5. Table of Contents 3
+   6. Pagination 3
+   7. Caption and Introductory Statements 3
+   8. Format for Complete Paragraph Change 3
+   9. Format for Change within a Paragraph 3
+   10. Format for Additional Language 4
+   11. Format for Additional Paragraph 4
+   12. ALTERNATE FORMAT FOR SUPPLEMENTARY CONDITIONS 4
+   13. SPECIFIC COMMENTS 4
 SC-1.01 Defined Terms 4
    1. SC-1.01.A.9 Change Order 4
    1. SC-1.01.A.19 Engineer 5
@@ -192,25 +187,22 @@ SC-1.01 Defined Terms 4
    1. SC-16 Dispute Resolution 26
    1. ADDITIONAL COMMENTS 32
 INTRODUCTION
-
-## General
-
    1. Forms for use as construction contract documents have been prepared by the Engineers Joint Contract Documents Committee (EJCDC) the principal forms are listed in Table 1. EJCDC has also prepared other documents that may be useful in preparing construction contract documents. Some of the principal ones are listed in Table 2. 
-   1. EJCDC publications may be obtained from:
+   2. EJCDC publications may be obtained from:
     1. National Society of Professional Engineers
-    1. Alexandria, VA
-    1. 703-684-2800
-    1. www.NSPE.org
-    1. American Council of Engineering Companies
-    1. Washington, DC
-    1. 202-347-7474
-    1. www.ACEC.org
-    1. American Society of Civil Engineers
-    1. Reston, VA
-    1. 703-295-6000
-    1. www.ASCE.org
-   1. No two projects are the same. Different public owners may have different purchasing statutes, and legal requirements vary by locality. These requirements must be carefully considered when preparing Contract Documents and the standard documents amended accordingly.
-   1. Relationship of Supplementary Conditions to Other Contract Documents
+    2. Alexandria, VA
+    3. 703-684-2800
+    4. www.NSPE.org
+    5. American Council of Engineering Companies
+    6. Washington, DC
+    7. 202-347-7474
+    8. www.ACEC.org
+    9. American Society of Civil Engineers
+    10. Reston, VA
+    11. 703-295-6000
+    12. www.ASCE.org
+   3. No two projects are the same. Different public owners may have different purchasing statutes, and legal requirements vary by locality. These requirements must be carefully considered when preparing Contract Documents and the standard documents amended accordingly.
+   4. Relationship of Supplementary Conditions to Other Contract Documents
 The Supplementary Conditions is one of the Contract Documents. 
    1. Where the amending or supplementing language should best appear in the Contract Documents is discussed in the Uniform Location of Subject Matter (No. N-122) jointly issued by EJCDC, the American Institute of Architects (AIA), and the Construction Specifications Institute (CSI). It is the purpose of this Guide to the Preparation of Supplementary Conditions to discuss and provide suggestions for the preparation of Supplementary Conditions following the concepts of the Locator Guide. 
    1. This Guide and the other Construction Related Documents prepared and issued by EJCDC assume use of the CSI Project Manual concept, which provides for an organizational format for location of all bound documentary information for a construction project -- Bidding Requirements, contract forms (Agreement, Bonds, and certificates), contract conditions, and Specifications. The last grouping, Specifications, is divided into 16 Divisions, the first of which, Division 1, is entitled “General Requirements.” The Project Manual concept is further explained in the CSI Manual of Practice. 
@@ -248,10 +240,7 @@ The Supplementary Conditions is one of the Contract Documents.
    1. Standard General Conditions of the Construction Contract
    1. C-700
    1. 2002
-
-## General
-
- Conditions/GC
+   1. General Conditions/GC
    1. Guide to the Preparation of Supplementary Conditions
    1. C-800
    1. 2002
