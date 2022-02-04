@@ -300,16 +300,16 @@ tags: ['Process', 'Equipment', 'Heating', 'Cooling', 'Drying']
       1. Saddle fusion shall be done in accordance with ASTM F 2620 or TR-41 or the fitting manufacturer’s recommendations and PPI TR-41. Saddle fusion joints shall be made by qualified fusion technicians. Qualification of the fusion technician shall be demonstrated by evidence of fusion training within the past year on the equipment to be utilized on this project. [Saddle fusion is used to fuse branch saddles, tapping tees, and other HDPE constructs onto the wall of the main pipe] (ASTM F905). 
    1. SOCKET FUSION:
       1. Molded socket fusion fittings are only to be used for joining of HDPE pipe from 1/2 inch to 2” in size. Socket fusion shall be done in accordance with ASTM F 2620 or the fitting manufacturer’s recommendations. Socket fusion is the process of fusing pipe to pipe, or pipe to fitting by the use of a male and female end that are heated simultaneously, and pressed together so the outside wall of the male end is fused to the inside wall of the female end. Qualification of the fusion technician shall be demonstrated by evidence of socket fusion training within the past year on the equipment to be utilized on this project. [Socket fusion is not widely used, and the specifier may decide to prohibit its use ] 
-   1. ELECTROFUSION:
+1. ELECTROFUSION:
       1. Electrofusion joining shall be done in accordance with the manufacturers recommended procedure. Other sources of electrofusion joining information are ASTM F 1290 and PPI TN 34. The process of electrofusion requires an electric source , a transformer, commonly called an electrofusion box that has wire leads, a method to read electronically (by laser)or otherwise input the barcode of the fitting, and a fitting that is compatible with the type of electrofusion box used. The electrofusion box must be capable of reading and storing the input parameters and the fusion results for later download to a record file. Qualification of the fusion technician shall be demonstrated by evidence of 
    1. electrofusion training within the past year on the equipment to be utilized for this project. 
-   1. MECHANICAL:
+1. MECHANICAL:
       1. Mechanical connection of HDPE to auxiliary equipment such as valves, pumps, and fittings shall use mechanical joint adapters and other devices in conformance with the PPI Handbook of Polyethylene Pipe, Chapter 9 and AWWA Manual of Practice M55, Chapter 6. 
   1. Mechanical connections on small pipe under 3” are available to connect HDPE pipe to other HDPE pipe, or a fittings, or to a transition to another material. The use of stab-fit style couplings is allowed, along with the use of metallic couplings of brass and other materials. All mechanical and compression fittings shall be recommended by the manufacturer for potable water use. When a compression type or mechanical type of coupling is used, the use of a rigid tubular insert stiffener inside the end of the pipe is recommended. 
   1. Mechanical couplings that wrap around the pipe and act as saddles are made by several manufacturers specifically for HDPE pipe. All such saddles, tapping saddles, couplings, clamps etc. shall be recommended by the manufacturer as being designed for use with HDPE pipe at the pressure class listed in this section. 
   1. Unless specified by the fitting manufacturer, a restraint harness or concrete anchor is recommended with mechanical couplings to prevent pullout. 
   1. Mechanical coupling shall be made by qualified technicians. Qualification of the field technician shall be demonstrated by evidence of mechanical coupling training within the past year. This training shall be on the equipment and pipe components to be utilized for this project. 
-   1. JOINT RECORDING:
+1. JOINT RECORDING:
       1. The critical parameters of each fusion joint, as required by the manufacturer and these specifications, shall be recorded either manually or by an electronic data logging device. All fusion joint data shall be included in the Fusion Technician’s joint report. 
    1. Buried HDPE pipe and fittings shall be installed in accordance with ASTM D2321 or ASTM D2774 for pressure systems and AWWA Manual of Practice M55 Chapter 7. 
    1. Embedment material should be Class I, Class II, or Class III , materials as defined by ASTM D-2321 Section 6. The use of Class IV and Class V materials is not recommended, however it may be used only with the approval of the engineer and appropriate compaction. 
@@ -323,13 +323,13 @@ tags: ['Process', 'Equipment', 'Heating', 'Cooling', 'Drying']
 1. JOINT TESTING
    1. Manufacturer’s “Quick Test” connections for all pre-stressed concrete cylinder pipe field joints. 
    1. For concrete cylinder pipe with testable joints perform the following:
-* Inspect each length of pipe
-* Test each joint with 50 psig of compressed air
-* Maintain a written log of all tests, including date of test, name of tester, air test pressure, length of test
-* Install plugs on test ports
-* Contractor shall have a written confined space entry protocol on site at all times.
-* All personnel shall wear self-contained air testing equipment.
-* Contractor shall provide a written report of the inspection of the interior of the piping. The report shall include inspection of each length of pipe and each joint as described in the laying schedule. Include name and signature of person performing the test.
+      * Inspect each length of pipe
+      * Test each joint with 50 psig of compressed air
+      * Maintain a written log of all tests, including date of test, name of tester, air test pressure, length of test
+      * Install plugs on test ports
+      * Contractor shall have a written confined space entry protocol on site at all times.
+      * All personnel shall wear self-contained air testing equipment.
+      * Contractor shall provide a written report of the inspection of the interior of the piping. The report shall include inspection of each length of pipe and each joint as described in the laying schedule. Include name and signature of person performing the test.
    1. Turn logs over to construction representative.
 1. SLEEVES
    1. Pipe sleeves in new poured concrete construction shall be cast - in -place, schedule 40 hot dip galvanized steel pipe (sized to allow insulated pipe to run through sleeve unless otherwise noted. Provide a modular wall and casing sleeve with 316 stainless steel bolts and nuts. 

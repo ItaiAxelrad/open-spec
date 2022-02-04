@@ -65,7 +65,7 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Coordinate the size and location of concrete equipment pads. Cast anchor bolt inserts into pad.
    1. Coordinate the size and location of structural steel support members.
 
-## PRODUCTS
+## Products
 
 1. MANUFACTURERS
    1. Subject to compliance with requirements, provide products from one of the following:
@@ -159,7 +159,7 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Disposable Filters:
       1. Provide disposable type air filters 2 inches thick, consisting of viscous coated fibers with filtering media encased in fiberboard cell sides having perforated metal grids on each face to provide media support. Airflow resistance with clean media shall not exceed 0.30 inches w.g. at face velocity of 500 fpm, and filter arrestance efficiency of 70 to 82% based on ASHRAE 52.
 
-## EXECUTION
+## Execution
 
 1. EXAMINATION
    1. Examine areas and conditions, with Installer present, for compliance with requirements for installation tolerance, housekeeping pads, and other conditions affecting performance of central-station air-handling units.

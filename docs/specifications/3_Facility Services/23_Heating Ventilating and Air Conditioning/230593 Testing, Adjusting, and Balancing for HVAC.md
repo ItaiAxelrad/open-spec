@@ -57,7 +57,7 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
       1. Sheet Metal and Air Conditioning Contractors' National Association.
    1. TAB:
       1. Testing, Adjusting, and Balancing
-1. references
+1. References
    1. Air Movement and Control Association (AMCA):
       1. 201 – Fans and Systems
    1. Sheet Metal and Air Conditioning Contractors National Association (SMACNA):
@@ -163,13 +163,13 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
       1. The certified Agent has tested and balanced systems according to the Contract Documents.
    1. Systems are balanced to optimum performance capabilities within design and installation limits.
 
-## PRODUCTS
+## Products
 
 1. Equipment
 	1. Instrumentation:
       1. Provide air system adjusting and balancing instrumentation such as pitot tubes, flow hoods, incline gauge or U-tube manometers or magnehelic gages, alnor velometer, tachometer or rpm counter, insertion thermometers, clamp-on ammeter for motor voltage and ampere readings and others to be able to completely analyze and balance air handling systems. Instrumentation shall be accurately calibrated and checked before usage. 
 
-## EXECUTION
+## Execution
 
 1. EXAMINATION
    1. Examine Contract Documents to become familiar with Project requirements and to discover conditions in systems' designs that may preclude proper testing, adjusting, and balancing of systems and equipment.

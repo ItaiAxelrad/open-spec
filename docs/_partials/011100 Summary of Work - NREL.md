@@ -28,10 +28,10 @@ tags: ['General', 'Requirements', 'Summary', 'Work', 'Owner']
     1. Contractor shall at all times conduct operations as to insure the least inconvenience to the employees of Owner and the general public.
     2. Contractor shall provide Owner the maximum amount of notice possible for utility interruptions. A minimum of 72 hours notice is required for any utility interruption.
 
-## PRODUCTS
+## Products
 
 (NOT USED)
 
-## EXECUTION
+## Execution
 
 (NOT USED)

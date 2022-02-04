@@ -124,11 +124,9 @@ tags: ['Facility', 'Services', 'Electronics', 'Safety', 'Security', 'Fire', 'Det
    1. Fuses:
       1. Two of each type installed in the system.
 
-## PRODUCTS
+## Products
 
-
-## General
-
+1. General
    1. The system specified will constitute the building Life Safety System. The system will provide necessary fire and smoke detection as well as providing automatic and manual voice evacuation capability. It shall also incorporate a fully functional intercom system complete with controls, power supplies, speakers, etc.
    1. Each and all items of the Fire Alarm System shall be listed as a product of “SimplexGrinnell” as the fire alarm system manufacturer under the appropriate category by Underwriters' Laboratories, Inc. (UL), and shall bear the "U.L." label. All control equipment shall be listed under UL category UOJZ as a single control unit. There will be no substitutions, and partial listing shall NOT be acceptable. In addition to the UL-UOJZ requirement mentioned above, the system controls shall be UL listed for Power Limited Applications and all circuits must be marked in accordance with NEC article 760-23.
    1. All control equipment must have transient protection to comply with UL864 requirements.
@@ -217,7 +215,7 @@ tags: ['Facility', 'Services', 'Electronics', 'Safety', 'Security', 'Fire', 'Det
       1. initiating circuit devices such as addressable sensors, including sensor type and sensor values; addressable manual stations; supervisory operation, such as sprinkler flow and tamper monitoring; control circuits, such as notification appliances, fan control, elevator control and other similar operations.
    1. Each point made public to the network shall be able to be programmed for operation by any other Fire Alarm Control Panel connected to the network. When point information is programmed into a node other than the “Owner”, a “replica” of that point is programmed into the other node. When a replica is so programmed, the node with the replica can operate on those points as though they were directly connected to that node.
 
-## EXECUTION
+## Execution
 
 1. INSTALLATION
    1. Connecting to Existing Equipment:

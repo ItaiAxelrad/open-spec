@@ -40,13 +40,11 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Cast-in-Place', 'C
    1. The testing laboratory will make additional tests of in-place concrete when test results indicate the specified concrete strengths and other characteristics have not been attained in the structure as directed by the Architect. The testing laboratory may conduct tests to determine adequacy of concrete by cored cylinders complying with ASTM C42 or by other methods as directed. Pay for such tests conducted, and for other additional testing as may be required when unacceptable concrete is verified.
    1. Job Mock-Up
    1. Construct a mock-up sample, 1.5 lineal meters (5 lineal feet) minimum, of the concrete wall indicating all the typical jointing, texture or finishes, and color required in actual construction. Make all mock-up samples as required until acceptance by the Architect. The selected mock-up shall become a standard of workmanship and shall be matched throughout the Project. The sample may be constructed as part of the Project and, if approved, will be accepted as part of the Work. However, should the sample fail to meet the Architect's approval, remove and reconstruct the sample until approved.
-   1. JOB CONDITIONS
+1. JOB CONDITIONS
    1. Protection
    1. Protect the Work and adjacent work against damage during progress of the Work.
-   1. MATERIALS
-
-## General
-
+1. MATERIALS
+ 1. General
    1. Comply with applicable portions of ACI 301.
    1. Do not use standard and high early strength Portland cement interchangeably in the same element or portion of Work. Only use one brand of cement throughout the Work.
    1. Proportion ingredients to produce homogeneous concrete which will attain the required strength, durability, resistance to deterioration and abrasion, water tightness, appearance, and other specified properties.
@@ -134,58 +132,54 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Cast-in-Place', 'C
    1. Embedded Items
    1. Set and build into the Work anchorage devices and other embedded items required for the Project.
    1. CONCRETE PLACEMENT
-
-## General
-
-   1. Place concrete in compliance with practices and recommendations of ACI 304 and as specified herein.
-   1. Placing Concrete in Forms
-   1. Deposit concrete continuously or in layers of such thickness that no concrete will be placed on concrete which has hardened sufficiently to cause the formation of seams or planes of weakness within the section.
-   1. If a section cannot be placed continuously, provide construction joints as herein specified.
-   1. Deposit concrete as nearly as practicable to its final location to avoid segregation due to rehandling or flowing.
-   1. Consolidation and Vibration
-   1. Consolidate placed concrete by mechanical vibrating equipment supplemented by hand-spading, rodding or tamping. Use equipment and procedures for consolidation of concrete in accordance with the recommended practices of ACI 309 to suit the type of concrete and Project conditions.
-   1. Do not use vibrators to transport concrete inside of forms. Insert and withdraw vibrators vertically at uniformly spaced locations not farther than the visible effectiveness of the machine.
-   1. Place vibrators to rapidly penetrate the placed layer of concrete and at least 150 mm (6 inches) into the preceding layer. Do not insert vibrators into lower layers of concrete that have begun to set.
-   1. At each insertion limit the duration of vibration to the time necessary to consolidate the concrete and complete embedment of reinforcement, and other embedded items without causing segregation of the mix.
-   1. FINISH OF FORMED SURFACES
-   1. Rough Form Finish
-   1. This treatment is for formed concrete surfaces not exposed to view in the finished Work or by other construction unless otherwise indicated.
-   1. This is the concrete surface having the texture imparted by the form facing material used, with tie holes and defective areas repaired and patched and fins and other projections exceeding 6 mm (1/4 inch) in height rubbed down or chipped off.
-   1. Smooth Form Finish
-   1. This treatment is for formed concrete surfaces exposed to view or those to be covered with a material bonded to the concrete such as waterproofing, dampproofing, painted or other similar system.
-   1. This is the as-cast concrete surface as obtained with selected form facing material, arranged orderly and symmetrically with a minimum of seams.
+   2. General
+   3. Place concrete in compliance with practices and recommendations of ACI 304 and as specified herein.
+   4. Placing Concrete in Forms
+   5. Deposit concrete continuously or in layers of such thickness that no concrete will be placed on concrete which has hardened sufficiently to cause the formation of seams or planes of weakness within the section.
+   6. If a section cannot be placed continuously, provide construction joints as herein specified.
+   7. Deposit concrete as nearly as practicable to its final location to avoid segregation due to rehandling or flowing.
+   8. Consolidation and Vibration
+   9. Consolidate placed concrete by mechanical vibrating equipment supplemented by hand-spading, rodding or tamping. Use equipment and procedures for consolidation of concrete in accordance with the recommended practices of ACI 309 to suit the type of concrete and Project conditions.
+   10. Do not use vibrators to transport concrete inside of forms. Insert and withdraw vibrators vertically at uniformly spaced locations not farther than the visible effectiveness of the machine.
+   11. Place vibrators to rapidly penetrate the placed layer of concrete and at least 150 mm (6 inches) into the preceding layer. Do not insert vibrators into lower layers of concrete that have begun to set.
+   12. At each insertion limit the duration of vibration to the time necessary to consolidate the concrete and complete embedment of reinforcement, and other embedded items without causing segregation of the mix.
+   13. FINISH OF FORMED SURFACES
+   14. Rough Form Finish
+   15. This treatment is for formed concrete surfaces not exposed to view in the finished Work or by other construction unless otherwise indicated.
+   16. This is the concrete surface having the texture imparted by the form facing material used, with tie holes and defective areas repaired and patched and fins and other projections exceeding 6 mm (1/4 inch) in height rubbed down or chipped off.
+   17. Smooth Form Finish
+   18. This treatment is for formed concrete surfaces exposed to view or those to be covered with a material bonded to the concrete such as waterproofing, dampproofing, painted or other similar system.
+   19. This is the as-cast concrete surface as obtained with selected form facing material, arranged orderly and symmetrically with a minimum of seams.
     1. Repair and patch defective areas with all fins or other projections completely removed and smoothed.
-   1. Provide smooth rubbed finish to scheduled concrete surfaces which have received smooth form finish treatment no later than the day after form removal. Moisten concrete surfaces and rub with carborundum brick or other abrasive until a uniform color and texture is produced. Do not apply cement grout other than that created by the rubbing process.
-   1. Related Unformed Surfaces
-   1. This treatment is for tops of walls, horizontal offsets and other similar unformed surfaces occurring adjacent to formed surfaces.
-   1. Strike off smooth and finish with a texture matching adjacent formed surfaces. Continue final surface treatment of formed surfaces uniformly across adjacent unformed surfaces, unless otherwise shown.
-   1. Sandblast Finish
-   1. The intent of this treatment is to lightly expose the coarse aggregate.
-   1. Clean sandblasted surfaces free of dust and abrasive with water or compressed air containing no oil mist. Remove abrasive and rubbish resulting from sandblasting operations.
-   1. Prior to beginning sandblasting operations, review with the Architect the sequence of operations and equipment to be used.
-   1. Control sandblasting at various ages of concrete to produce uniform surfaces. Etch surfaces to be sandblasted to provide finish matching approved Sample. Extend sandblasted surfaces 50 mm (2 inches) below finish grade.
-   1. Corners shall be free of defects caused by sandblasting.
-   1. Employ templates to prevent etching surfaces not required to be sandblasted and to prevent damage to adjacent work.
-   1. Provide protection as required to prevent damage to adjacent public or private property, and to prevent injury to other personnel.
-   1. CONCRETE CURING
-
-## General
-
-   1. Protect freshly placed concrete from premature drying and excessive cold or hot temperature, and maintain without drying at a relatively constant temperature for a period of time necessary for hydration of cement and proper hardening.
-   1. Duration of Curing
-   1. Continue curing until the cumulative number of hours or fractions thereof during which temperature of the air in contact with the concrete is above 10 degrees C (50 degrees F) has totaled at least 168 hours.
-   1. Prevent rapid drying at the end of the curing period.
-   1. Curing Methods
-   1. Moisture curing:
+   20. Provide smooth rubbed finish to scheduled concrete surfaces which have received smooth form finish treatment no later than the day after form removal. Moisten concrete surfaces and rub with carborundum brick or other abrasive until a uniform color and texture is produced. Do not apply cement grout other than that created by the rubbing process.
+   21. Related Unformed Surfaces
+   22. This treatment is for tops of walls, horizontal offsets and other similar unformed surfaces occurring adjacent to formed surfaces.
+   23. Strike off smooth and finish with a texture matching adjacent formed surfaces. Continue final surface treatment of formed surfaces uniformly across adjacent unformed surfaces, unless otherwise shown.
+   24. Sandblast Finish
+   25. The intent of this treatment is to lightly expose the coarse aggregate.
+   26. Clean sandblasted surfaces free of dust and abrasive with water or compressed air containing no oil mist. Remove abrasive and rubbish resulting from sandblasting operations.
+   27. Prior to beginning sandblasting operations, review with the Architect the sequence of operations and equipment to be used.
+   28. Control sandblasting at various ages of concrete to produce uniform surfaces. Etch surfaces to be sandblasted to provide finish matching approved Sample. Extend sandblasted surfaces 50 mm (2 inches) below finish grade.
+   29. Corners shall be free of defects caused by sandblasting.
+   30. Employ templates to prevent etching surfaces not required to be sandblasted and to prevent damage to adjacent work.
+   31. Provide protection as required to prevent damage to adjacent public or private property, and to prevent injury to other personnel.
+   32. CONCRETE CURING
+   33. General
+   34. Protect freshly placed concrete from premature drying and excessive cold or hot temperature, and maintain without drying at a relatively constant temperature for a period of time necessary for hydration of cement and proper hardening.
+   35. Duration of Curing
+   36. Continue curing until the cumulative number of hours or fractions thereof during which temperature of the air in contact with the concrete is above 10 degrees C (50 degrees F) has totaled at least 168 hours.
+   37. Prevent rapid drying at the end of the curing period.
+   38. Curing Methods
+   39. Moisture curing:
       1. Execute moisture by covering surface with blankets of wetted burlap. Keep material saturated and in place for at least 168 hours. Apply water in form of spray to avoid damage to fresh concrete. Take precaution to prevent blankets from being displaced.
-   1. Liquid membrane curing:
-      1. Apply liquid membrane curing compound to cover surface completely and uniformly per manufacturer's instructions and at a rate which will achieve the performance requirement specified in AASHTO Specification M148, but at a rate not less than 1 liter per 4.9 square meters (1 gallon per 200 square feet). Apply membrane curing compound immediately behind final finishing operation. Failure to provide complete and uniform coverage at required rate will be cause for discontinuation of this method of curing and the substitution of moisture curing. Take special care to apply curing compound immediately after forms have been removed.
-   1. Curing formed surfaces:
-      1. Cure formed concrete surfaces by moisture curing with forms in place for full curing period or until forms are removed. If forms are removed, continue curing by methods specified above, as applicable.
-   1. CONCRETE REPAIRS
-   1. Remove and replace concrete having defective surfaces if defects cannot be repaired to satisfaction of the Architect. Surface defects, as such, include color and texture irregularities, cracks, spalls, air bubbles, honeycomb, rock pockets, fins and other projections on surface, and stains and other discolorations that cannot be removed by cleaning.
-   1. Repair and patch defective areas with cement mortar immediately after removal of forms, but only when acceptable to the Architect.
-   1. Cut out honeycomb, rock pockets, voids over 6 mm (1/4 inch) in any dimension, and holes left by tie rods and bolts down to solid concrete, but in no case to a depth of less than 25 mm (1 inch). Make edges of cuts perpendicular to the concrete surface. Before placing cement mortar or proprietary patching compound, thoroughly clean, dampen with water, and brush-coat the area to be patched with neat cement grout, or proprietary bonding agent.
-   1. For exposed-to-view surfaces, blend white portland cement and standard portland cement so that, when dry, patching mortar will match surrounding color. Provide test areas at inconspicuous locations to verify mixture and color match before proceeding with patching. Compact mortar in place and strike off slightly higher than surrounding surface.
+   40. Liquid membrane curing:
+      2. Apply liquid membrane curing compound to cover surface completely and uniformly per manufacturer's instructions and at a rate which will achieve the performance requirement specified in AASHTO Specification M148, but at a rate not less than 1 liter per 4.9 square meters (1 gallon per 200 square feet). Apply membrane curing compound immediately behind final finishing operation. Failure to provide complete and uniform coverage at required rate will be cause for discontinuation of this method of curing and the substitution of moisture curing. Take special care to apply curing compound immediately after forms have been removed.
+   41. Curing formed surfaces:
+      3. Cure formed concrete surfaces by moisture curing with forms in place for full curing period or until forms are removed. If forms are removed, continue curing by methods specified above, as applicable.
+   42. CONCRETE REPAIRS
+   43. Remove and replace concrete having defective surfaces if defects cannot be repaired to satisfaction of the Architect. Surface defects, as such, include color and texture irregularities, cracks, spalls, air bubbles, honeycomb, rock pockets, fins and other projections on surface, and stains and other discolorations that cannot be removed by cleaning.
+   44. Repair and patch defective areas with cement mortar immediately after removal of forms, but only when acceptable to the Architect.
+   45. Cut out honeycomb, rock pockets, voids over 6 mm (1/4 inch) in any dimension, and holes left by tie rods and bolts down to solid concrete, but in no case to a depth of less than 25 mm (1 inch). Make edges of cuts perpendicular to the concrete surface. Before placing cement mortar or proprietary patching compound, thoroughly clean, dampen with water, and brush-coat the area to be patched with neat cement grout, or proprietary bonding agent.
+   46. For exposed-to-view surfaces, blend white portland cement and standard portland cement so that, when dry, patching mortar will match surrounding color. Provide test areas at inconspicuous locations to verify mixture and color match before proceeding with patching. Compact mortar in place and strike off slightly higher than surrounding surface.
    
 

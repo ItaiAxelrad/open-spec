@@ -10,7 +10,7 @@ tags: ['Facility', 'Construction', 'Furnishings', 'Roller', 'Window', 'Shades', 
 
 ## General
 
-   1. references
+   1. References
    1. American Society for Testing and Materials (ASTM)
    1. G21 - Practice for Determining Resistance of Synthetic Polymeric Materials to Fungi.
    1. G22 - Practice for Determining Resistance of Plastics to Bacteria.
@@ -77,7 +77,7 @@ tags: ['Facility', 'Construction', 'Furnishings', 'Roller', 'Window', 'Shades', 
       1. Provide Contractor’s warranty under provisions of Division 1 - General Requirements that installation shall be free from defects for a period of not less than 1 year.
    1. In the event of a warranted product failure, the Shade Contractor will, at no cost to owner, facilitate acquisition and delivery of all necessary components to the owner.
    
-## PRODUCTS
+## Products
 
    1. Type and Manufacturer
    1. Manual vertical single shade system surface mounted at window cell, bottom-up, designed to control daylight, as manufactured by Draper, Inc.; MechoShade Systems, Inc.; or as approved.

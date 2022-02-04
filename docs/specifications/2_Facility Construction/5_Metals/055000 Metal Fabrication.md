@@ -17,46 +17,46 @@ tags: ['Facility', 'Construction', 'Metals', 'Metal', 'Fabrication']
 	3. Division 03 – Concrete
 	4. Section 03 31 00 – Concrete Materials and Proportioning 
 	5. Section 09 90 00 – Painting and Protective Coatings
-	6. Quality Assurance
-3. Work shall be per:
-	7. Aluminum Association (AA).
-	8. American Association of State Highway and Transportation Officials (AASHTO).
-	9. American Institute of Steel Construction (AISC).
-	10. American National Standards Institute (ANSI).
-	11. American Society of Civil Engineers (ASCE).
-	12. ASTM International (ASTM).
-	13. American Welding Society (AWS).
-	14. National Association of Architectural Metal Manufacturers (NAAMM).
-	15. NACE International (NACE).
-	16. Nickel Development Institute (NiDI).
-	17. Occupational Safety and Health Administration (OSHA).
-	18. Building code.
-4. Qualifications:
-	19. Qualify welding procedures and welding operators in accordance with AWS.
-	20. Fabricator shall have a minimum of 10 years experience in fabrication of metal items specified.
-	21. Engineer for contractor-designed systems and components: Professional structural engineer licensed in the State of Colorado.
-	22. NACE certified inspector shall have minimum of two (2) years experience performing inspections as indicated.
+6. Quality Assurance
+   1. Work shall be per:
+   	1. Aluminum Association (AA).
+   	2. American Association of State Highway and Transportation Officials (AASHTO).
+   	3. American Institute of Steel Construction (AISC).
+   	4.  American National Standards Institute (ANSI).
+   	5.  American Society of Civil Engineers (ASCE).
+   	6.  ASTM International (ASTM).
+   	7.  American Welding Society (AWS).
+   	8.  National Association of Architectural Metal Manufacturers (NAAMM).
+   	9.  NACE International (NACE).
+   	10. Nickel Development Institute (NiDI).
+   	11. Occupational Safety and Health Administration (OSHA).
+   	12. Building code.
+7. Qualifications:
+	 1.  Qualify welding procedures and welding operators in accordance with AWS.
+	7.  Fabricator shall have a minimum of 10 years experience in fabrication of metal items specified.
+	8.  Engineer for contractor-designed systems and components: Professional structural engineer licensed in the State of Colorado.
+	9.  NACE certified inspector shall have minimum of two (2) years experience performing inspections as indicated.
 		1. Have a current Level III coating inspector certification.
-	23. Definitions
-5. Fasteners:
+	10. Definitions
+8. Fasteners:
       1. As defined in ASTM F1789.
-6. Galvanizing:
+9. Galvanizing:
       1. Hot-dip galvanizing per ASTM A123/A123M or ASTM A153/A153M with minimum coating of 2.0 OZ of zinc per square foot of metal (average of specimens) unless noted otherwise or dictated by standard.
-7. Hardware:
+10. Hardware:
       1. As defined in ASTM A153/A153M.
-8. Installer or Applicator:
-	24. Installer or applicator is the person actually installing or applying the product in the field at the Site.
-	25. Submittals
-9. Shop Drawings shall include:
-	26. Fabrication and/or layout drawings and details:
+11. Installer or Applicator:
+	11. Installer or applicator is the person actually installing or applying the product in the field at the Site.
+	12. Submittals
+12. Shop Drawings shall include:
+	13. Fabrication and/or layout drawings and details:
 		1. Submit drawings for all fabrications and assemblies including erection drawings, plans, sections, details, and connection details. 
 		2. Identify materials of construction, shop coatings, and third party accessories.
-	27. Product technical data including manufacturer’s installation instructions and standard allowable load tables. 
-	28. Contractor designed systems and components including but not limited to stairs, landings and ladders:
+	14. Product technical data including manufacturer’s installation instructions and standard allowable load tables. 
+	15. Contractor designed systems and components including but not limited to stairs, landings and ladders:
 		1. Certification that manufactured units meet all design loads specified.
-	29. Delivery, Storage, and Handling
-10. Deliver and handle fabrications to avoid damage.
-11. Store above ground on skids or other supports to keep items free of dirt and other foreign debris and to protect against corrosion. 
+	16. Delivery, Storage, and Handling
+13. Deliver and handle fabrications to avoid damage.
+14. Store above ground on skids or other supports to keep items free of dirt and other foreign debris and to protect against corrosion. 
 ## Product
 
 1. Materials
@@ -145,5 +145,5 @@ tags: ['Facility', 'Construction', 'Metals', 'Metal', 'Fabrication']
 
 1. Installation
    1. Coordinate start and installation of crossover or landing platforms with all related and adjacent work. Installation shall not start until the construction has progressed to the point that remaining construction operations will not damage platform installation.
-2. Verify that dimensions are correct before installation.
-3. Install crossover or landing platform with manufacturer’s installation instruction. 
+   2. Verify that dimensions are correct before installation.
+   3. Install crossover or landing platform with manufacturer’s installation instruction. 

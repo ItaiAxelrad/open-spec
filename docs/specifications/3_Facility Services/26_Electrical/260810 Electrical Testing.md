@@ -102,7 +102,7 @@ tags: ['Facility', 'Services', 'Electrical', 'Testing']
    1. Records must be kept up to date which show date and results of all instruments calibrated or tested.
    1. An up-to-date instrument calibration instruction and procedure will be maintained for each test instrument.
 
-## EXECUTION
+## Execution
 
 1. PREPARATION
    1. Safety and precautions.

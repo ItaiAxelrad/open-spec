@@ -7,9 +7,6 @@ subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Earthwork', 'Dewatering', 'SM']
 ---
 
-
-1. DEWATERING
-1. 
 ## General
 
 01. DESCRIPTION
@@ -31,7 +28,6 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Dewatering', 'SM']
 
 1. MATERIALS AND EQUIPMENT
    1. Furnish and maintain all materials, tools, equipment, facilities, and services as required for providing the necessary dewatering work and facilities.
-1. 
 
 ## Execution
 

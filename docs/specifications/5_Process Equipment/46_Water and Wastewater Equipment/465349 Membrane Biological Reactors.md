@@ -71,7 +71,7 @@ instructions.
    1. Tools:
       1. Furnish special wrenches and other devices required for Owner to maintain and calibrate equipment.
 8. QUALITY ASSURANCE
-   1. Perform Work according to industry and CDPHE design standards.
+   1. Perform Work according to industry and State Department of Public Health and Environment design standards.
 9. QUALIFICATIONS
    1. Manufacturer:
       1. Acceptable manufacturers must have five (5) years of experience treating domestic

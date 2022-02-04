@@ -9,7 +9,7 @@ tags: ['Facility', 'Construction', 'Concrete', 'Grouting']
 
 ## General
 
-1. summary
+1. Summary
 2. Refer to Section 018113 – Sustainable Design Requirements; 018113A – Appendix A - Materials Anticipated to be Used for Recycled Content; and 018113B – LEED Matrix for materials requiring contractor validation of recycled content.
 3. Section includes
 4. Precast architectural units.

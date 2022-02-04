@@ -12,73 +12,73 @@ tags: ['Facility', 'Construction', 'Metals', 'Metal', 'Stairs']
 1. SUMMARY
    1. Refer to sections:
       1. 018113 – Sustainable Design Requirements;
-   1. 018113A – Appendix A - Materials Anticipated to be Used for Recycled Content; and
-   1. 018113B – LEED Matrix for materials requiring contractor validation of recycled content.
-1. REFERENCES
+      2. 018113A – Appendix A - Materials Anticipated to be Used for Recycled Content; and
+      3. 018113B – LEED Matrix for materials requiring contractor validation of recycled content.
+2. REFERENCES
    1. American Welding Society (AWS)
-   1. D1.1 - Structural Welding Code - Steel.
-   1. D1.3 - Structural Welding Code - Sheet Steel.
-   1. American Society for Testing and Materials (ASTM)
-   1. A36 - Specification for Carbon Structural Steel.
-   1. A53 - Specification for Pipe, Steel, Black and Hot-Dipped, Zinc-Coated, Welded and Seamless.
-   1. A123 - Specification for Zinc (Hot-Dip Galvanized) Coatings on Iron and Steel Products.
-   1. A500 - Specification for Cold-Formed Welded and Seamless Carbon Steel Structural Tubing in Rounds and Shapes.
-   1. A513 - Specification for Electric-Resistance-Welded Carbon and Alloy Steel Mechanical Tubing.
-   1. A569 - Specification for Steel, Carbon (0.15 Maximum, Percent), Hot-Rolled Sheet and Strip, Commercial Quality.
-   1. A570 - Specification for Steel, Sheet and Strip, Carbon, Hot-Rolled, Structural Quality
-   1. A611 - Specification for Steel, Sheet, Carbon, Cold-Rolled, Structural Quality.
-   1. A653 - Specification for Steel Sheet, Zinc-Coated (Galvanized) or Zinc-Iron Alloy-Coated (Galvannealed) by the Hot-Dip Process.
-   1. A780 - Practice for Repair of Damaged and Uncoated Areas of Hot-Dip Galvanized Coatings.
-   1. A786 - Specification for Rolled Steel Floor Plates.
-   1. C1107 - Specification for Packaged Dry, Hydraulic-Cement Grout (Nonshrink).
-   1. Consumer Product Safety Commission (CPSC)
-   1. 29 CFR 1910.23 - Occupational Safety and Health Standards; Guarding Floor and Wall Openings and Holes.
-   1. Military Specification (Mil. Spec.)
-   1. DOD P-21035A - Paint, High Zinc Dust Content, Galvanizing Repair.
-   1. National Association of Architectural Metal Manufacturers (NAAMM)
-   1. MBG 531 - Metal Bar Grating Manual for Steel, Stainless Steel, and Aluminum Gratings and Stair Treads.
-   1. SSPC:
+   2. D1.1 - Structural Welding Code - Steel.
+   3. D1.3 - Structural Welding Code - Sheet Steel.
+   4. American Society for Testing and Materials (ASTM)
+   5. A36 - Specification for Carbon Structural Steel.
+   6. A53 - Specification for Pipe, Steel, Black and Hot-Dipped, Zinc-Coated, Welded and Seamless.
+   7. A123 - Specification for Zinc (Hot-Dip Galvanized) Coatings on Iron and Steel Products.
+   8. A500 - Specification for Cold-Formed Welded and Seamless Carbon Steel Structural Tubing in Rounds and Shapes.
+   9. A513 - Specification for Electric-Resistance-Welded Carbon and Alloy Steel Mechanical Tubing.
+   10. A569 - Specification for Steel, Carbon (0.15 Maximum, Percent), Hot-Rolled Sheet and Strip, Commercial Quality.
+   11. A570 - Specification for Steel, Sheet and Strip, Carbon, Hot-Rolled, Structural Quality
+   12. A611 - Specification for Steel, Sheet, Carbon, Cold-Rolled, Structural Quality.
+   13. A653 - Specification for Steel Sheet, Zinc-Coated (Galvanized) or Zinc-Iron Alloy-Coated (Galvannealed) by the Hot-Dip Process.
+   14. A780 - Practice for Repair of Damaged and Uncoated Areas of Hot-Dip Galvanized Coatings.
+   15. A786 - Specification for Rolled Steel Floor Plates.
+   16. C1107 - Specification for Packaged Dry, Hydraulic-Cement Grout (Nonshrink).
+   17. Consumer Product Safety Commission (CPSC)
+   18. 29 CFR 1910.23 - Occupational Safety and Health Standards; Guarding Floor and Wall Openings and Holes.
+   19. Military Specification (Mil. Spec.)
+   20. DOD P-21035A - Paint, High Zinc Dust Content, Galvanizing Repair.
+   21. National Association of Architectural Metal Manufacturers (NAAMM)
+   22. MBG 531 - Metal Bar Grating Manual for Steel, Stainless Steel, and Aluminum Gratings and Stair Treads.
+   23. SSPC:
       1. The Society for Protective Coatings
-   1. SSPC-PA 1 - Shop, Field, and Maintenance Painting.
-   1. SSPC-Paint 20 - Zinc-Rich Primers (Type I, "Inorganic," and Type II, "Organic").
-   1. SSPC-SP 1 - Solvent Cleaning.
-   1. SSPC-SP 3 - Power Tool Cleaning.
-   1. SSPC-SP 6 - Commercial Blast Cleaning.
-   1. SSPC-SP 10 - Near-White Blast Cleaning.
-1. PERFORMANCE REQUIREMENTS
+   24. SSPC-PA 1 - Shop, Field, and Maintenance Painting.
+   25. SSPC-Paint 20 - Zinc-Rich Primers (Type I, "Inorganic," and Type II, "Organic").
+   26. SSPC-SP 1 - Solvent Cleaning.
+   27. SSPC-SP 3 - Power Tool Cleaning.
+   28. SSPC-SP 6 - Commercial Blast Cleaning.
+   29. SSPC-SP 10 - Near-White Blast Cleaning.
+3. PERFORMANCE REQUIREMENTS
    1. Design pre-engineered, prefabricated stairs, and landings to resist the following loads:
       1. Uniform load:
          1. 100 pounds per square foot of horizontal projection.
-   1. Stair treads:
+   2. Stair treads:
       1. Specified uniform load or 300 pounds concentrated load applied to 4 square inches in the center of the tread, whichever produces the greater stress.
-   1. Limit deflection of treads, platforms, and framing members L/360 or 6 mm (1/4 inch), whichever is less.
-   1. Design handrails, guardrails and gates to resist a concentrated load of 200 lbs. in any direction, and a uniform load of 50 lbs. per linear foot applied to the top rail in a vertical and a horizontal direction, without exceeding allowable design working stresses of materials for handrails, railings, anchors, and connections. The concentrated and uniform loads need not act concurrently.
-   1. Design toeboards to conform to the requirements of (CPSC) 29 CFR 1910.23.
-1. SUBMITTALS
+   3. Limit deflection of treads, platforms, and framing members L/360 or 6 mm (1/4 inch), whichever is less.
+   4. Design handrails, guardrails and gates to resist a concentrated load of 200 lbs. in any direction, and a uniform load of 50 lbs. per linear foot applied to the top rail in a vertical and a horizontal direction, without exceeding allowable design working stresses of materials for handrails, railings, anchors, and connections. The concentrated and uniform loads need not act concurrently.
+   5. Design toeboards to conform to the requirements of (CPSC) 29 CFR 1910.23.
+4. SUBMITTALS
    1. Submit manufacturers documentation of recycled content (minimum 25%, optimally >90%).
-   1. Shop Drawings
-   1. For each fabricated item include plans, elevations, and details. Show the following:
+   2. Shop Drawings
+   3. For each fabricated item include plans, elevations, and details. Show the following:
       1. Details of sections.
-   1. Jointing and connections.
-   1. Indicate welded connections using standard AWS symbols; indicate net weld length.
-   1. Reinforcing.
-   1. Fasteners and anchors.
-   1. Accessories.
-   1. Location of each finish.
-   1. Product Data
-   1. Submit manufacturer's specifications, details, and installation instructions for:
+   4. Jointing and connections.
+   5. Indicate welded connections using standard AWS symbols; indicate net weld length.
+   6. Reinforcing.
+   7. Fasteners and anchors.
+   8. Accessories.
+   9. Location of each finish.
+   10. Product Data
+   11. Submit manufacturer's specifications, details, and installation instructions for:
       1. All manufactured products used in fabrications.
-   1. Paints.
-   1. Grouts.
-   1. Samples
-   1. Submit Samples of products and materials when requested.
-1. QUALITY ASSURANCE
+   12. Paints.
+   13. Grouts.
+   14. Samples
+   15. Submit Samples of products and materials when requested.
+5. QUALITY ASSURANCE
    1. Where fabrications are specified to comply with specific structural performance requirements, provide design sealed by a professional engineer registered in the state in which the project is located.
-1. PROJECT CONDITIONS
+6. PROJECT CONDITIONS
    1. Field Measurements
-   1. Take field measurements prior to preparation of Shop Drawings and fabrication where possible. Where taking field measurements prior to fabrication may delay work, allow adequate fabrication tolerances for fitting and trimming.
-   1. Coordination with Masonry and Concrete Work
-   1. Where fabricated items or their anchors are to be embedded into concrete and masonry work, deliver such items to those performing the installation, together with all coordination drawings and installation instructions required. Provide temporary bracing or anchors in formwork where required for installation.
+   2. Take field measurements prior to preparation of Shop Drawings and fabrication where possible. Where taking field measurements prior to fabrication may delay work, allow adequate fabrication tolerances for fitting and trimming.
+   3. Coordination with Masonry and Concrete Work
+   4. Where fabricated items or their anchors are to be embedded into concrete and masonry work, deliver such items to those performing the installation, together with all coordination drawings and installation instructions required. Provide temporary bracing or anchors in formwork where required for installation.
 
 ## Products
 

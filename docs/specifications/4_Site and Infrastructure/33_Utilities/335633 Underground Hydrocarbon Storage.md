@@ -33,9 +33,7 @@ Record Drawings
     
 ## Products
 
-
-## General
-
+1. General
    1. State-Furnished Materials  
 Underground Tanks
     1. Dispensers and Pumps
@@ -47,12 +45,9 @@ Underground Tanks
     1. Overfill Protection
     1. Emergency Equipment
 
-
 ## Execution
 
-
-## General
-
+1. General
     1. Barricades and Warning Devices
     1. Site Demolition
     1. Installation
@@ -117,20 +112,19 @@ Underground Tanks
 1. RECORD DRAWINGS
    1. Refer to Section GR - General Requirements.
    1. Maintain record drawings of all underground tank installations, piping and dispenser connections, electrical power and instrumentation routing, and other points of connection made as part of this project and for future connections on original drawings prepared by the installing Contractor/subcontractor. Include copies of record drawings with the Operating and Maintenance instructions.
-1. P A R T II - M A T E R I A L S
-1. *(Note to the designer:
+
+## Products
+
+2. *(Note to the designer:
       1. bold text usually indicates an opportunity for the designer to choose between two or more specifications.)*
-
-## General
-
    1. Conform all materials to the size and type shown on the plans or as called for in the specifications and to applicable Laws, Codes, and Ordinances.
-   1. All products and materials are to be new, undamaged, clean, and in good condition. Existing products and materials are not to be reused unless specifically indicated.
-   1. Be responsible for the safe storage and handling of all materials utilized in the work -- including any materials furnished by the State. Store all materials in areas designated by the Construction Representative in cooperation with the Owner. Store and/or handle materials so as to not adversely affect traffic, drainage, fire protection, or public safety. Inconveniences to the general public from the storage and handling of materials shall be kept to a minimum.
-   1. Perform all work in accordance with any applicable manufacturer's instructions.
-1. STATE-FURNISHED MATERIALS
-1. *(This article is intended to alert the Contractor that the State will be furnishing some equipment or materials that will have to be received, stored, installed and/or which will need final connection for the completed project. In some cases, it may be appropriate to refer to other sections for a more complete description of the equipment being furnished or the work involved in installation.)*
-1. UNDERGROUND TANKS
-1. *(Note to the designer:
+   2. All products and materials are to be new, undamaged, clean, and in good condition. Existing products and materials are not to be reused unless specifically indicated.
+   3. Be responsible for the safe storage and handling of all materials utilized in the work -- including any materials furnished by the State. Store all materials in areas designated by the Construction Representative in cooperation with the Owner. Store and/or handle materials so as to not adversely affect traffic, drainage, fire protection, or public safety. Inconveniences to the general public from the storage and handling of materials shall be kept to a minimum.
+   4. Perform all work in accordance with any applicable manufacturer's instructions.
+3. STATE-FURNISHED MATERIALS
+4. *(This article is intended to alert the Contractor that the State will be furnishing some equipment or materials that will have to be received, stored, installed and/or which will need final connection for the completed project. In some cases, it may be appropriate to refer to other sections for a more complete description of the equipment being furnished or the work involved in installation.)*
+5. UNDERGROUND TANKS
+6. *(Note to the designer:
       1. Due to the ever-increasing number of underground storage tank products introduced to the market annually, the following listing of tank options is far from exhaustive. The designer is encouraged to insert a suitable recommended alternate product, as long as the needs of the user facility are met, all applicable product standards enumerated below are satisfied, and the product meets all requirements of the regulatory codes in effect at the time of construction.)*
    1. The underground tank system shall include:
 

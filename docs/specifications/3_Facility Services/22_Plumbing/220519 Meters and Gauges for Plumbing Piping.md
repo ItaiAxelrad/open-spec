@@ -119,7 +119,7 @@ tags: ['Facility', 'Services', 'Plumbing', 'Meters', 'Gauges', 'Piping']
    1. Construction:
       1. The turbine element shall be constructed of polypropylene or polysulfone with sapphire jewel bearings and tungsten carbide shafts. The flow sensor shall be constructed of 316 stainless steel with an aluminum electronics enclosure and a gasketed cover. Flow sensor shall have a 50:1 turndown ratio. Accuracy shall be ±2% of actual flow reading from 0.4 feet per second to 20.0 feet per second. The sensor shall have an output signal that can be directly connected to the Owner Delta® DDC system without intermediate electronic devices. The flow sensor shall not use magnetic or photoelectric means to detect flow.
 
-## EXECUTION
+## Execution
 
 1. ERECTION INSTALLATION APPLICATION
    1. Installation of Thermometers:

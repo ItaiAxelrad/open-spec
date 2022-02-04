@@ -7,9 +7,6 @@ subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Asphalt', 'Paving']
 ---
 
-
-1. HOT-MIX ASPHALT (HMA)
-	1. 
 ## General
 
 1. REFERENCES

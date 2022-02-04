@@ -488,13 +488,10 @@ sizes and conform to the following gradation [Designer to specify]:
    1. ordered by the Engineer/Landscape Architect, by dumping individual loads on a
    1. flat surface and sorting and measuring the individual rocks contained in the load.
    1. Cobbles must be washed before placement.
-1. 
 
 ## Execution
 
-0
-## General
-
+1. General
    1. Prevent runoff from adjacent pervious and impervious surfaces from
 entering the bioretention facility (e.g., sand bag inlet curb cuts, stabilize
    1. adjacent areas, flow diversion) until authorization is given by the

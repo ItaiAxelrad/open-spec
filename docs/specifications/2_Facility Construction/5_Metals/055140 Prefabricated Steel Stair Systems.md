@@ -113,7 +113,7 @@ tags: ['Facility', 'Construction', 'Metals', 'Prefabricated', 'Steel', 'Stair', 
 26. Project Site Conditions:
 	18. Field Measurements: Field verify floor to floor and horizontal dimensions of spaces where stairs will be installed prior to fabrication of stairs under this section.
 
-## PRODUCTS
+## Products
 
 1. Acceptable Manufacturers
    1. Subject to compliance with the Contract Documents, the following manufacturer are acceptable:
@@ -255,13 +255,13 @@ tags: ['Facility', 'Construction', 'Metals', 'Prefabricated', 'Steel', 'Stair', 
 		2. Shop Primer: Immediately after shop fabrication and cleaning, spray apply primer to a minimum dry film thickness as recommended by primer manufacture, but not less than 1.0 mils DFT. Do not prime surfaces in direct contact with concrete or where field welding shall occur.
 		3. Prime Paint: Rodda Low HAP Shopcoat Primer: VOC Compliant Red Oxide #33954.
 
-## EXECUTION
+## Execution
 
 1. Examination
-		1. Do not begin installation until substrates and adjacent construction have been properly constructed. Verify structural framing, enclosures, weld plates, blocking, and size and location of pockets.
+	 1. Do not begin installation until substrates and adjacent construction have been properly constructed. Verify structural framing, enclosures, weld plates, blocking, and size and location of pockets.
 		2. If unsatisfactory conditions are encountered, notify Engineer in writing. Do not proceed until unsatisfactory conditions have been corrected.
 		3. Notify Manufacturer of any detail, design or tolerance deviations as noted or drawn on stair shop drawing.
-	33. Stair Installation
+	1. Stair Installation
 		1. Install stair components in accordance with manufacturer's recommendations, approved submittals, and in proper relationship with adjacent construction.
 		2. Install stair components plumb, level and accurately, free from distortion or defects.
 		3. Provide hardware, hangers, fasteners and struts required to connect stairs to parent structure.

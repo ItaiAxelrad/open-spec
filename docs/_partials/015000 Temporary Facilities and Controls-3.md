@@ -26,16 +26,13 @@ tags: ['General', 'Requirements', 'Temporary', 'Facilities', 'Controls']
 
 	1. Haul Routes
    1. Obtain OWNER approval of haul routes.
-1. PART 2 – PRODUCT — NOT USED
+
+## PRODUCT
+
+NOT USED
 
 ## Execution
 
-1. 
-
-	1. SIGNAGE — NOT USED
-
- **PART 4 – MEASUREMENT AND PAYMENT
-1. PAYMENT
+1. SIGNAGE — NOT USED
+2. PAYMENT
    1. All items in Part 1 are incidental to the Work and no separate payment is made for these items.
-   
-

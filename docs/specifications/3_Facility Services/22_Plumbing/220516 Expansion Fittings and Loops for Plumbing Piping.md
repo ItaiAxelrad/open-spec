@@ -11,7 +11,7 @@ tags: ['Facility', 'Services', 'Plumbing', 'Expansion', 'Fittings', 'Loops', 'Pi
 1. RELATED DOCUMENTS
    1. Retain or delete this article in all Sections of Project Manual.
    1. Drawings and general provisions of the Contract, including General and Supplementary Conditions and Division 1 Specification Sections, apply to this Section.
-1. summary
+1. Summary
    1. This Section includes:
       1. Extent of expansion compensation products required by this Section is indicated on drawings and/or specified in other Division 22 sections of the Specifications.
    1. Types of expansion compensation products specified in this Section include the following:
@@ -36,7 +36,7 @@ tags: ['Facility', 'Services', 'Plumbing', 'Expansion', 'Fittings', 'Loops', 'Pi
       1. EJMA Compliance:
          1. Construct expansion compensation products in accordance with standards of EJMA.
 
-## PRODUCTS
+## Products
 
 1. MANUFACTURERS
    1. Subject to compliance with requirements, provide products from one of the following:
@@ -64,7 +64,7 @@ tags: ['Facility', 'Services', 'Plumbing', 'Expansion', 'Fittings', 'Loops', 'Pi
    1. Rubber Expansion Joints:
       1. Fabric-reinforced butyl rubber with full-faced integral flanges and external control rods, and shall be internally reinforced with steel retaining rings over entire surface of flanges, drilled to match flange bolt holes.
 
-## EXECUTION
+## Execution
 
 1. ERECTION INSTALLATION APPLICATION
    1. Installation, General

@@ -43,7 +43,7 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Seeding']
    1. The interim maintenance period shall begin immediately after each area is seeded and continue until substantial completion of entire project. Final acceptance of seeded areas will not be given until Owner’s representative is satisfied with germination and a full stand of grass is in a vigorous growing condition, with consistency and completion of coverage. During this time, be responsible for watering, mowing, spraying, weeding fertilizing and all related work as necessary to ensure that seeded areas are in a vigorous growing condition. Provide all supervision, labor, material and equipment to maintain seeded areas.
    1. Constant, proactive maintenance of seed areas and regular reviews of the performance are critical to the successful establishment of seeded areas. The contractor is expected to monitor the seeded areas before and after the contract maintenance period and keep these as weed free as reasonably possible. This means throughout the construction period the contractor may need to apply herbicides as frequently as a weekly basis on areas infested with weeds (or undesirable species) or areas where aggressive weeds are observed. Mowing may be a suitable method for weed management as long as it is done so as not to prevent the spread of weed seeds. The contractor will be expected to include a weed management program as part of their bid.
    
-## PRODUCTS
+## Products
 
    1. Materials
    1. Seed Mix (Dryland Grass and Enhanced Native Turf)

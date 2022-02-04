@@ -44,7 +44,7 @@ tags: ['Facility', 'Construction', 'Metals', 'Structural', 'Steel', 'Framing']
 
 ## Products
 
-   1. MATERIALS
+1. MATERIALS
    1. Rolled steel plates and bars:
       1. Comply with ASTM A36.
    1. Steel pipe:
@@ -61,7 +61,7 @@ tags: ['Facility', 'Construction', 'Metals', 'Structural', 'Steel', 'Framing']
       1. Use "1099 Tnemec Primer" or "Rustoleum number 5769 Primer."
    1. Other Material:
       1. Provide other materials, not specifically described but required for a complete and proper installation, as selected by the Contractor subject to the approval of the Owner.
-   1. FABRICATION
+1. FABRICATION
    1. Shop fabrication and assembly
    1. Fabricate items of structural steel in accordance with AISC specifications and as shown on the approved Shop Drawings.
    1. Where finishing is required, complete the assembly, including welding of units, before start of finishing.
@@ -69,14 +69,11 @@ tags: ['Facility', 'Construction', 'Metals', 'Structural', 'Steel', 'Framing']
    1. Assemble and weld built-up sections by methods that will produce true alignment of axes without warp.
    1. Do not flame cut holes or enlarge holes by burning.
    1. Shop Painting
-
-## General
-
-   1. Thoroughly clean structural steel, removing all loose mill scale, grease, dirt, and foreign matter by scraping or sandblasting.
-   1. Apply the specified paint to a dry film thickness not less than 1.5 mils.
-   1. Do not paint:
-      1. Contact surfaces of high strength bolted members;
-   1. Steel scheduled to be concealed, or scheduled to be in contact with concrete.
+      1. Thoroughly clean structural steel, removing all loose mill scale, grease, dirt, and foreign matter by scraping or sandblasting.
+      2. Apply the specified paint to a dry film thickness not less than 1.5 mils.
+      3. Do not paint:
+         1. Contact surfaces of high strength bolted members;
+      4. Steel scheduled to be concealed, or scheduled to be in contact with concrete.
 
 ## Execution
 

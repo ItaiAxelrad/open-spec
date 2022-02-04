@@ -7,52 +7,39 @@ subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Utilities', 'Stormwater']
 ---
 
-
-1. STORM DRAINAGE UTILITIES
-1. BASED ON DFD MASTER SPECIFICATION DATED 09/01/2015
-   1. This section has been written to cover most (but not all) situations that you will encounter. Depending on the requirements of your specific project, you may have to add material, delete items, or modify what is currently written. The Division of Facilities Development expects changes and comments from you.
-   1. Modify this document to account for project specific conditions.
-1. *Note to the Designer:
-      1. If project also includes plumbing coordinate this section with:**
-* ***Section 22 14 00 – Facility Storm Drainage*
-
- ***and clearly define party responsible for testing of the respective utility on the Drawings.*
-1. 
 ## General
 
 1. SCOPE
    1. Confirm application limits for Storm Drainage Utilities specifications. Coordinate with Division 22 Plumbing.
-   1. The work under this section shall consist of providing all work, materials, labor, equipment, and supervision necessary to provide for the storm drainage work required in these specifications and on the drawings. The limits of the work, including the responsible party for testing purposes, shall be clearly defined on the Drawings. Included are the following topics:
-## General
-
+   2. The work under this section shall consist of providing all work, materials, labor, equipment, and supervision necessary to provide for the storm drainage work required in these specifications and on the drawings. The limits of the work, including the responsible party for testing purposes, shall be clearly defined on the Drawings. Included are the following topics:
+3. General
    1. Scope
-   1. Related Work
-   1. Reference Documents
-   1. Reference Standards
-   1. Submittals
-   1. Provisions for Future Work
-   1. As-Built Drawings
-   1. PART 2 - MATERIALS
-   1. Reinforced Concrete Pipe
-   1. PVC Pipe
-   1. HDPE Solid Wall Pipe
-   1. HDPE Corrugated Wall Pipe
-   1. Corrugated Metal Pipe
-   1. Ductile Iron Pipe
-   1. Connections for Dissimilar Pipe Materials
-   1. Manholes 
-   1. Inlets
-   1. Round Catch Basins
-   1. Castings
-   1. Apron Endwalls
-   1. Board Insulation
-   1. Locator Tape
+   2. Related Work
+   3. Reference Documents
+   4. Reference Standards
+   5. Submittals
+   6. Provisions for Future Work
+   7. As-Built Drawings
+   8. PART 2 - MATERIALS
+   9. Reinforced Concrete Pipe
+   10. PVC Pipe
+   11. HDPE Solid Wall Pipe
+   12. HDPE Corrugated Wall Pipe
+   13. Corrugated Metal Pipe
+   14. Ductile Iron Pipe
+   15. Connections for Dissimilar Pipe Materials
+   16. Manholes 
+   17. Inlets
+   18. Round Catch Basins
+   19. Castings
+   20. Apron Endwalls
+   21. Board Insulation
+   22. Locator Tape
 
 ## Execution
 
 
-## General
-
+1. General
    1. Laying Pipe
    1. Bedding/Utility Cover
    1. Structures (Manholes, Inlets, Round Catch Basins)
@@ -216,8 +203,7 @@ Value
    1. Note to the designer:
       1. Determine the need for cast-in-place manholes based on consideration of depth/configuration. Determine if sump manholes are required by facility stormwater policy or local stormwater regulations.
 
-## General
-
+1. General
    1. Provide precast concrete manholes unless otherwise shown or required. Cast-in-place manholes may only be used after receiving written approval by the DFD Project Representative and the A/E for customized manhole sizes and shapes.
    1. Submit manufacturer's preproduction (shop) drawings for approval prior to the start of manufacturing. 
    1. Contractor shall carefully locate all pipe locations, sizes, orientation and elevation prior to ordering new manholes. 
@@ -255,8 +241,7 @@ Value
 1. *Note to the designer:
       1. Determine the need for cast-in-place inlets and catch basins based on depth and configuration of inflow and outflow pipes.*
 	1. *Provide details in drawings showing inlet sizes needed for project specific hydrology, pipe size, location and orientation as well as wall thickness and bottom thickness needed for external loads including depth, soils and vehicular traffic.**
-## General
-
+1. General
    1. Inlets and catch basins shall be round or rectangular precast concrete unless otherwise shown or required. Cast-in-place inlets may only be used after receiving written approval by the DFD Project Representative and the A/E for customized sizes and shapes.
    1. Submit manufacturer's preproduction (shop) drawings for approval prior to the start of manufacturing. 
    1. Contractor shall verify pipe locations, sizes, orientation and elevation prior to ordering new inlets. 
@@ -285,8 +270,7 @@ Value
    1. Note to the designer:
       1. Determine casting type, size and load rating. Consult with the Owner Agency to address and specific casting requirements. Determine if any existing castings are able to be salvaged.
 
-## General
-
+1. General
    1. All castings shall be heavy duty iron conforming to ASTM A48, Class 20 and rated for AASHTO H-20 loading. Provide non-rocking or machined castings with concealed pickhole.
    1. Standard Manhole Frame and Casting (Solid Lid)
    1. Neenah Foundry R-1550, with Type B lid; or approved equal. 
@@ -312,8 +296,7 @@ Value
    1. Neenah Foundry Company R-1878-B7G; or approved equal.
 1. APRON ENDWALLS
 
-## General
-
+1. General
    1. Provide apron endwalls where shown on the drawings and at the following locations:
 * Where storm sewers outfall into ditches, swales or other surface water body
 * On both ends of a culvert pipe (pipe that crosses under a road, sidewalk, trail or other surface feature)
@@ -327,13 +310,11 @@ Value
 1. LOCATOR TAPE
    1. Detectable metallic locator tape, specifically manufactured for marking utilities. 
    1. Tape shall be a minimum of 6” wide and shall be marked “STORM”.
-1. 
 
 ## Execution
 
 
-## General
-
+1. General
    1. Complete exploratory excavations at utility crossings as shown on the drawings and as necessary to complete the work.
    1. Maintain clearances between existing or proposed storm drainage lines and watermains as follows:
 * 8’ horizontal separation (measured center to center) between existing or proposed sanitary or storm drainage lines and watermains. 

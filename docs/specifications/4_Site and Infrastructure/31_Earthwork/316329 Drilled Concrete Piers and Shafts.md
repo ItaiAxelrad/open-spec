@@ -9,7 +9,7 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Drilled', 'Concrete', 'Piers', 'S
 
 ## General
 
-1. summary
+1. Summary
    1. Refer to Section 018113 – Sustainable Design Requirements; 018113A – Appendix A - Materials Anticipated to be Used for Recycled Content; and 018113B – LEED Matrix for materials requiring contractor validation of recycled content.
    1. drilled pier
 1. Definition:

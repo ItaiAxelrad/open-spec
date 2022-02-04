@@ -46,7 +46,7 @@ tags: ['Facility', 'Services', 'Electrical', 'Enclosed', 'Switches', 'Circuit', 
    1. Fuse Cabinet:
       1. Provide fuse cabinet(s) as needed to house all spare fuses provided. Mount cabinets as indicated.
 
-## PRODUCTS
+## Products
 
 1. CIRCUIT BREAKER
    1. Manufacturers:
@@ -92,7 +92,7 @@ tags: ['Facility', 'Services', 'Electrical', 'Enclosed', 'Switches', 'Circuit', 
    1. Fuses rated greater than 600 amperes:
       1. UL Class L, current-limiting, per UL 198C, with an interrupting rating of 200,000 amperes RMS.
 
-## EXECUTION
+## Execution
 
 1. INSTALLATION
    1. Enclosed Switches and Circuit Breakers:

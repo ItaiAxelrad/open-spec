@@ -890,7 +890,7 @@ shall be same as the jacket. Lap and butt strips may be self-sealing type with f
    1. Tape:
       1. 0.004 inch (0.1 mm) thick, 6 inches (150 mm) wide, yellow polyethylene with a ferrous metallic core, acid and alkali-resistant and shall have a minimum strength of 1750 psi (12,000 kPa) lengthwise and 1500 psi (10,300 kPa) crosswise with an elongation factor of 350 percent. Provide bold black letters on the tape identifying the type of system. Tape color and lettering shall be unaffected by moisture and other substances contained in the backfill material.
 
-## EXECUTION
+## Execution
 
 1. General
    1. If the carrier pipe insulation has failed (disintegrated) in an existing buried piping system, but the system is otherwise sound, there is an alternative to total replacement of injecting foam insulation into the existing system from above grade.

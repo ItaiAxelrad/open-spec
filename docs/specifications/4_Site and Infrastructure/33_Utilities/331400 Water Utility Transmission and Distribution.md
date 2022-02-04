@@ -12,7 +12,6 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Water', 'Utility', 'Transmission'
 
 ## General
 
-1. 
 01. DESCRIPTION
    1. This section describes the requirements and procedures for piping systems (pressure pipe and gravity sewer pipe) and appurtenances that apply to a number of other complimentary Specification Sections. The items are listed in this section to avoid repetition in sections elsewhere. This section includes, but is not limited to, temporary pipelines, wet taps, flexible pipe couplings, grooved and shouldered end couplings, joint restraint systems, field touch up, bolts, nuts, polyethylene wrap, warning/identification tape, tracer wire, gate well and extension stems, meter boxes, abandonment and removal of existing facilities, salvage, and disposal.
    1. Contractor shall provide the piping systems indicated, complete and operable, in accordance with the Contract Documents.

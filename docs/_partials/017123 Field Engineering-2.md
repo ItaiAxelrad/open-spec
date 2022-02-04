@@ -23,7 +23,6 @@ Use a licensed land surveyor to replace all property corners or other monuments 
 
 ## Products
  C NOT USED
-1. 
 
 ## Execution
 

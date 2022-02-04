@@ -112,7 +112,7 @@ tags: ['Facility', 'Services', 'Plumbing', 'Insulation']
 1. WARRANTY
 	1. See requirements in Division 22, “Common Work Results for Plumbing.”
 
-## PRODUCTS
+## Products
 
 
 ## General
@@ -304,7 +304,7 @@ tags: ['Facility', 'Services', 'Plumbing', 'Insulation']
    1. Outdoor Applications
 016.-inch smooth aluminum with factory-applied moisture barrier liner.
 
-## EXECUTION
+## Execution
 
 
 ## General

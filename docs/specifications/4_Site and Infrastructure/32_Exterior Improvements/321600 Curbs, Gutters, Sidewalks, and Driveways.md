@@ -38,7 +38,6 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Curbs', 'Gutters',
    1. Conform to Section 03000, Cast-in-Place Concrete.
 1. EXCAVATION AND BACKFILL
    1. Conform to Section 02223, Trenching, Backfilling, and Compacting.
-1. 
 
 ## Execution
 
@@ -65,9 +64,7 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Curbs', 'Gutters',
 7. Protection of Work:
       1. All concrete surfaces and/or structures shall be protected until the project containing the work is accepted.
 1. SIDEWALK CONSTRUCTION
-
-## General
-
+1. General
     1. Requirements:
        1. Unless shown otherwise, sidewalks shall be placed in a single pour, 4-inches thick. Walks shall slope 1/4-inch per foot upward from the top of curb. Concrete shall be placed, processed, finished, and cured in conformance with the applicable requirements of ACI 614, latest edition.
 2. New Sidewalk:

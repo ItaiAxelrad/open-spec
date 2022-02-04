@@ -91,7 +91,7 @@ tags: ['Facility', 'Services', 'Electrical', 'Switchboards']
    1. Indicating Lights:
       1. Equal to 10 percent of quantity installed for each size and type, but no fewer than one of each size and type.
 
-## PRODUCTS
+## Products
 
 1. MANUFACTURED UNITS
    1. Manufacturers:
@@ -256,7 +256,7 @@ tags: ['Facility', 'Services', 'Electrical', 'Switchboards']
    1. Control Wiring:
       1. Factory installed, with bundling, lacing, and protection included. Provide flexible conductors for No. 8 AWG and smaller, for conductors across hinges, and for conductors for interconnections between shipping units.
 
-## EXECUTION
+## Execution
 
 1. EXAMINATION
    1. Receive, inspect, handle, and store switchboards according to NECA 400.

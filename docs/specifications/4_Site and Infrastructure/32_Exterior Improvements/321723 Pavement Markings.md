@@ -9,7 +9,6 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Pavement', 'Markin
 
 
 1. PAVEMENT MARKINGS
-1. 
 ## General
 
 1. REFERENCES
@@ -181,7 +180,6 @@ Percent by Weight
 1. Formulate High Build Acrylic Coating (HBAC) to meet the requirements of Table I.
 2. Preapproved HBAC Vendors and Materials
       1. Table II presents a partial list of HBAC vendors and materials. Up to specifications's date of issue, preapproved materials met specification requirements. It is the user's responsibility to confirm preapproved material formulations have not changed and specification requirements shall be met. Other products may meet HBAC requirements.
-1. 
 
 ## Execution
 

@@ -296,7 +296,6 @@ Value
    1. Arch “HTH”, or approved equal.
 1. Pipe joint lubricant
    1. Petroleum free pipe lubricant formulated for use with potable water systems. Product shall meet the requirements of ANSI/AWWA C111/A21.11 - latest revision.
-1. 
 
 ## Execution
 

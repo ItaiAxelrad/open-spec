@@ -111,9 +111,7 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Soil', 'Preparatio
 ## Execution
 
 1. EXAMINATION
-
-## General
-
+   1. General
    1. Verify that existing site conditions are as specified and indicated before beginning work under this Section.
    1. Unknown soil conditions may exist on site. This specification is intended to be a standard specification for Soil Preparation for bid purposes only. The contractor shall be responsible for creating a suitable soil medium that ensures healthy plant growth. Immediately following rough grading operations, the contractor shall take multiple soil samples of the site to identify any chemical, structural, or other soil borne issues that would make the soil counter productive to healthy plant growth. This analysis shall include recommendations for additional organic matter required for the soil. Should amendments or additional work be required to make these soils more conducive to healthy plant growth, the contractors shall submit a change order for the modification 30 days prior to start of landscape installation for Owner’s Approval. The change order request shall clearly detail any additional work or amendments necessary for those unacceptable soils.
    1. Grades

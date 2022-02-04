@@ -56,10 +56,7 @@ tags: ['Facility', 'Services', 'Electrical', 'Exterior', 'Lighting']
    1. Retain factory applied pole wrappings on fiberglass poles until just before pole installation. Handle poles with web fabric straps.
    1. Retain factory applied pole wrappings on metal poles until just before pole installation. For poles with nonmetallic finishes, handle with web fabric straps.
 8. WARRANTY
-
-## General
-
- Warranty:
+    1. General Warranty:
       1. Special warranty specified in this Article shall not deprive Owner of other rights Owner may have under other provisions of the Contract Documents and shall be in addition to, and run concurrent with, other warranties made by Contractor under requirements of the Contract Documents.
    1. Special Warranty:
       1. Written warranty, signed by manufacturer and Installer agreeing to replace external parts of luminaires and poles exhibiting a failure of finish as specified below. This warranty is in addition to, and not a limitation of, other rights and remedies Owner may have under requirements of the Contract Documents.

@@ -159,7 +159,7 @@ tags: ['Facility', 'Services', 'Electrical', 'Interior', 'Lighting']
       1. 10 percent for each type and rating installed.
 1. Extra materials may not be allowed for publicly funded projects.
 
-## PRODUCTS
+## Products
 
    1. LIGHTING FIXTURES
 
@@ -376,7 +376,7 @@ tags: ['Facility', 'Services', 'Electrical', 'Interior', 'Lighting']
    1. Provide high power factor, pulse-start for available wattages; otherwise lead-peak auto type.
 1. Edit this Article with other Part 2 articles or with Interior Lighting Fixture Schedule on Drawings in which manufacturers and products are named. See Division 01 Section "Product Requirements" for an explanation of the terms "Available Manufacturers," "Manufacturers," and "Basis-of-Design Product" and the effect these terms have on "Comparable Product" and "Product Substitution" requirements.
 
-## EXECUTION
+## Execution
 
 1. INSTALLATION
 

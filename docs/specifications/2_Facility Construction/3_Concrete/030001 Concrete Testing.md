@@ -9,29 +9,29 @@ tags: ['Facility', 'Construction', 'Concrete', 'Testing']
 ## General
 
 1. Summary
-  1. Work under this section shall include contractor requirements for testing of concrete and grout and acceptance criteria for concrete. 
+   1. Work under this section shall include contractor requirements for testing of concrete and grout and acceptance criteria for concrete. 
 2. Responsibility and Payment
-  1. Contractor will hire an independent Testing Agency/Service Provider to perform the following testing and inspection and provide test results to the Engineer and Contractor.
-	1. Testing and inspection of concrete and grout produced for incorporation into the work during the construction of the Project for compliance with the Contract Documents.
-	2. Additional testing or retesting of materials occasioned by their failure, by test or inspection, to meet requirements of the Contract Documents.
-	3. Strength testing on concrete required by the Engineer or Special Inspector when the water to cement ratio exceeds the water-cement ratio of the typical test cylinders.
-	4. In-place testing of concrete as may be required by Engineer when strength of structure is considered potentially deficient.
-	5. Other testing services needed or required by Contractor such as field curing of test specimens and testing of additional specimens for determining when forms, form shoring or re-shoring may be removed.
+   1. Contractor will hire an independent Testing Agency/Service Provider to perform the following testing and inspection and provide test results to the Engineer and Contractor.
+	 2. Testing and inspection of concrete and grout produced for incorporation into the work during the construction of the Project for compliance with the Contract Documents.
+	 3. Additional testing or retesting of materials occasioned by their failure, by test or inspection, to meet requirements of the Contract Documents.
+	 4. Strength testing on concrete required by the Engineer or Special Inspector when the water to cement ratio exceeds the water-cement ratio of the typical test cylinders.
+	 5. In-place testing of concrete as may be required by Engineer when strength of structure is considered potentially deficient.
+	 6. Other testing services needed or required by Contractor such as field curing of test specimens and testing of additional specimens for determining when forms, form shoring or re-shoring may be removed.
 3. Contractor shall hire a qualified testing agency to perform the following testing and provide test results to the Engineer.
-	1. Testing of materials and mixes proposed by the Contractor for compliance with the Contract Documents and retesting in the event of changes.
-	2. Additional testing and inspection required because of changes in materials or proportions requested by Contractor.
+	6. Testing of materials and mixes proposed by the Contractor for compliance with the Contract Documents and retesting in the event of changes.
+	7. Additional testing and inspection required because of changes in materials or proportions requested by Contractor.
 4. Duties and Authorities of Testing Agency/Service Provider:
-	1. Any Testing Agency/Service Provider or agencies and their representatives retained by Contractor or Engineer for any reason are not authorized to revoke, alter, relax, enlarge, or release any requirement of Contract Documents, nor to reject, approve or accept any portion of the Work.
-	2. Testing Agency/Service Provider shall inform the Contractor and Engineer regarding acceptability of or deficiencies in the work including materials furnished and work performed by Contractor that fails to fulfill requirements of the Contract Documents.
-	3. Testing Agency to submit test reports and inspection reports to Engineer and Contractor immediately after they are performed.
+	8. Any Testing Agency/Service Provider or agencies and their representatives retained by Contractor or Engineer for any reason are not authorized to revoke, alter, relax, enlarge, or release any requirement of Contract Documents, nor to reject, approve or accept any portion of the Work.
+	9. Testing Agency/Service Provider shall inform the Contractor and Engineer regarding acceptability of or deficiencies in the work including materials furnished and work performed by Contractor that fails to fulfill requirements of the Contract Documents.
+	10. Testing Agency to submit test reports and inspection reports to Engineer and Contractor immediately after they are performed.
 		1. All test reports to include exact location in the 1 work at which batch represented by a test was deposited.
 		2. Reports of strength tests to include detailed information on storage and curing of specimens prior to testing.
-	4. Owner retains the responsibility for ultimate rejection or approval of any portion of the Work.
+	11. Owner retains the responsibility for ultimate rejection or approval of any portion of the Work.
 5. Quality Assurance
   1. Work shall be per:
    	1. American Concrete Institute (ACI):
    		1. 318, Building Code Requirements for Structural Concrete.
-	  2. ASTM International (ASTM):
+	  1. ASTM International (ASTM):
    		1. ASTM Cement and Concrete Reference Laboratory (CCRL).
    		2. C31, Standard Practice for Making and Curing Concrete Test Specimens in the Field.
    		3. C39, Standard Test Method for Compressive Strength of Cylindrical Concrete Specimens.
@@ -46,31 +46,31 @@ tags: ['Facility', 'Construction', 'Concrete', 'Testing']
    		12. C1218, Standard Test Method for Water-Soluble Chloride in Mortar and Concrete.
    		13. E329, Standard Specification for Agencies Engaged in Construction Inspection, Testing, or Special Inspection.
 6. Qualifications:
-	1. Contractor’s Testing Agency:
+	12. Contractor’s Testing Agency:
 		1. Meeting requirements of ASTM E329 and ASTM C94.
 		2. Provide evidence of recent inspection by CCRL of NBS, and correction of deficiencies noted.
-  2. Use of Testing Agency and approval by Engineer of proposed concrete mix design shall in no way relieve Contractor of responsibility to furnish materials and construction in full compliance with Contract Documents.
+  3. Use of Testing Agency and approval by Engineer of proposed concrete mix design shall in no way relieve Contractor of responsibility to furnish materials and construction in full compliance with Contract Documents.
 7. Definitions
-  1. Testing Agency/Service Provider:
+  4. Testing Agency/Service Provider:
     1. An independent professional testing/inspection firm or service hired by Contractor or by Owner to perform testing, inspection or analysis services as directed, and as provided in the Contract Documents.
 8. Submittals
-  1. Shop Drawings shall include:
+  5. Shop Drawings shall include:
    	1. Product technical data including:
    		1. Concrete materials and concrete mix designs proposed for use.
-			2. Include results of all testing performed to qualify materials and to establish mix designs.
-		2. Place no concrete until approval of mix designs has been received in writing.
-		3. Submittal 1 for each concrete mix design to include:
-		4. Sieve analysis and source of fine and coarse aggregates.
-		5. Test for aggregate organic impurities.
-		6. Proportioning of all materials.
-		7. Type of cement with mill certificate for the cement.
-		8. Brand, quantity and class of fly ash proposed for use along with other submittal data as required for fly ash by Specification Section 03 31 00.
-		9. Slump.
-		10. Brand, type and quantity of air entrainment and any other proposed admixtures.
-		11. Shrinkage test results.
-		12. Total water soluble chloride ion concentration in hardened concrete from all ingredients determined per ASTM C1218.
-		13. 28-day compression test results and any other data required by Specification Section 03 31 00 to establish concrete mix design.
-	2. Certifications:
+			1. Include results of all testing performed to qualify materials and to establish mix designs.
+		6. Place no concrete until approval of mix designs has been received in writing.
+		7. Submittal 1 for each concrete mix design to include:
+		8. Sieve analysis and source of fine and coarse aggregates.
+		9. Test for aggregate organic impurities.
+		10. Proportioning of all materials.
+		11. Type of cement with mill certificate for the cement.
+		12. Brand, quantity and class of fly ash proposed for use along with other submittal data as required for fly ash by Specification Section 03 31 00.
+		13. Slump.
+		14. Brand, type and quantity of air entrainment and any other proposed admixtures.
+		15. Shrinkage test results.
+		16. Total water soluble chloride ion concentration in hardened concrete from all ingredients determined per ASTM C1218.
+		17. 28-day compression test results and any other data required by Specification Section 03 31 00 to establish concrete mix design.
+	13. Certifications:
 		1. Testing Agency qualifications.
 
 ## Product

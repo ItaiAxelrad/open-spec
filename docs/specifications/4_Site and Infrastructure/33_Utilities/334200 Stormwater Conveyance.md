@@ -37,7 +37,7 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Stormwater', 'Conveyance']
       1. Notify Owner no fewer than two days in advance of proposed interruption of service.
    1. Do not proceed with interruption of service without Owner's written permission.
 
-## PRODUCTS
+## Products
 
    1. If using more than one type of material and joining method, identify various materials on Drawings and show points of transition from one material to another.
    1. CORRUGATED METAL PIPE AND FITTINGS
@@ -60,7 +60,7 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Stormwater', 'Conveyance']
 1. Retain one of four subparagraphs below for NPS 12 to NPS 144 (DN 300 to DN 3600).
 1. See Division 05 Section "Metal Gratings" for fabricated-steel grating.
 
-## EXECUTION
+## Execution
 
    1. EARTHWORK
    1. Excavation, trenching, and backfilling are specified in Division 31 Section "Earth Moving."

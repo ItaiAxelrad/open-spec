@@ -7,11 +7,6 @@ subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Concrete', 'Cast-in-Place']
 ---
 
-
- **SECTION 03300
-
- **CAST-IN-PLACE CONCRETE AND REINFORCING STEEL
-1. 
 ## General
 
 01. Scope
@@ -100,7 +95,6 @@ tags: ['Facility', 'Construction', 'Concrete', 'Cast-in-Place']
     1. Rubber water stops shall be a 9-inch, two-bulb rubber water stop as manufactured by the Gates Rubber Company, Denver, Colorado, or an approved equal.
     1. Polyvinyl water stops shall be Type No. 5, 6-inch Dura-Joint water stop as manufactured by Electrovert, Inc., New York, N.Y., or approved equal, unless shown otherwise on the Drawings.
     1. The Contractor shall take suitable precautions to support and protect the water stops during the progress of the work.
-1. 
 
 ## Execution
 

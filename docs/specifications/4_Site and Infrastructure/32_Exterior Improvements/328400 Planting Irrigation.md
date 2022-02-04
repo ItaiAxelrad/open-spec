@@ -139,9 +139,7 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Planting', 'Irriga
    1. Shall contain a minimum of three (3) cubic feet of 3/4" crushed gravel wrapped in geotextile at all manual drain valve locations.
    1. Pressure Reducing Valve:
       1. Low Volume Irrigation Components
-
-## General
-
+1. General
    1. Drip irrigation system will consist of a main line pipe network, filter, valve, pressure regulator, drip pipe/hose, and emission devices/emitters.
    1. Filter shall precede the valve and the regulator, thus minimizing the potential of contamination affecting either of the two units and also having the pressure loss of the filter from influencing the regulated pressure.
    1. Pipe/hose

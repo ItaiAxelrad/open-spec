@@ -31,7 +31,7 @@ tags: ['Facility', 'Services', 'Electrical', 'Identification', 'Systems']
       1. Product Data:
       1. Submit manufacturer's data on electrical identification materials and products.
 
-## PRODUCTS
+## Products
 
    1. MATERIALS
 	1. General:
@@ -100,7 +100,7 @@ tags: ['Facility', 'Services', 'Electrical', 'Identification', 'Systems']
    1. Wire marker shall start within 1/32" of end of stripped insulation point.
 1. Retain products in articles below that are retained in "Identification Schedule" Article. Consider alternatives before specifying self-adhesive identification products. See Editing Instruction No. 1 and "Writing Guide" Article in the Evaluations.
 
-## EXECUTION
+## Execution
 
    1. ERECTION INSTALLATION APPLICATION 
 

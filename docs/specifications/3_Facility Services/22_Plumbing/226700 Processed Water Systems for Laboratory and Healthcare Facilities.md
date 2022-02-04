@@ -14,7 +14,7 @@ tags: ['Facility', 'Services', 'Plumbing', 'Processed', 'Water', 'Systems', 'Lab
    1. Drawings and general provisions of the Contract, including General and Supplementary Conditions and Division 1 Specification Sections, apply to this Section.
 1. SUMMARY
    1. This Section includes piping, fittings and specialties for deionized water and process coding water systems..
-1. references
+1. References
    1. American Society of Mechanical Engineers (ASME):
       1. B1.20.1 - Pipe Threads, General Purpose (Inch).
    1. B16.3 - Malleable Iron Threaded Fittings.
@@ -45,7 +45,7 @@ tags: ['Facility', 'Services', 'Plumbing', 'Processed', 'Water', 'Systems', 'Lab
 1. warranty
    1. Follow procedures specified in Division 1 sections of the Specifications. 
 
-## EXECUTION
+## Execution
 
 1. piping materials – underground
 	1. Domestic Water Piping System:
@@ -144,7 +144,7 @@ Para. 934.1.2
    1. 4 inches
    1. Single entry Nibco SE Series
 
-## EXECUTION
+## Execution
 
 1. Underground Piping Installation
 	1. Trench Excavation:

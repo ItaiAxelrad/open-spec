@@ -64,7 +64,6 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Air', 'Valves', 'Water', 'Wa
    1. Warning/Identification Tape shall be in accordance with Section 15000 and selected from the Approved Materials List.
 1. FIELD PAINTING AND COATING
    1. Field painting and coating materials shall be in accordance with Section 09910 and 09915 and selected from the Approved Materials List.
-1. 
 
 ## Execution
 

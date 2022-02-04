@@ -155,7 +155,7 @@ DESIGNER NOTE: Designer to specify the number and location(s) of required post c
 • Extra pavers shall be from the same production run as installed materials.
 1. PART 2
 
-## PRODUCTS
+## Products
 
    1. DESIGNER NOTE:
       1. Some projects may include permeable/porous and solid unit pavers. Specify each product, as required.
@@ -457,7 +457,7 @@ DESIGNER NOTE: If the designer chooses to specify materials per the procedure ab
       1. The designer should consider including specifications for signage and pavement markings in this section.
 1. PART 3
 
-## EXECUTION
+## Execution
 
 01.
    1. SUBGRADE PREPARATION AND PROTECTION

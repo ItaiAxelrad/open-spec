@@ -92,7 +92,7 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Differential Pressure Meter:
       1. For each type of balancing valve and automatic flow control valve, include flowmeter, probes, hoses, flow charts, and carrying case.
 
-## PRODUCTS
+## Products
 
 1. BEDDING AND BACKFILL MATERIALS
    1. Granular Material
@@ -215,7 +215,7 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
       1. roll-grooved on all pipe up through standard wall; cut-grooved on heavy wall and ductile iron piping.
    1. Use long radius ells whenever possible, in changing pipe directions on grooved pipe lines.
 
-## EXECUTION
+## Execution
 
 1. Aboveground Piping Installation
    1. Install pipe and pipe fittings in accordance with recognized industry practices to achieve permanently leakproof systems, capable of performing the indicated service without failure.

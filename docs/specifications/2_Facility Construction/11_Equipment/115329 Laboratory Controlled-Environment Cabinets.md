@@ -10,7 +10,7 @@ tags: ['Facility', 'Construction', 'Equipment', 'Laboratory', 'Controlled-Enviro
 
 ## General
 
-   1. summary
+   1. Summary
    1. This section includes the provision and installation of gas cabinets for dispensing of hazardous gases within the building.
    1. Related sections
    1. Division 21 Section – Wet-Pipe Sprinkler Systems
@@ -28,7 +28,7 @@ tags: ['Facility', 'Construction', 'Equipment', 'Laboratory', 'Controlled-Enviro
    1. Delivery
    1. Do not deliver gas cabinets to the project site until the building is fully enclosed, floor materials have been installed, and painting is complete.
    
-## PRODUCTS
+## Products
 
    1. Manufacturers
    1. Safety Equipment Corporation, Belmont, CA, 7000 Series cabinets.

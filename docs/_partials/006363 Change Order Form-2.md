@@ -130,7 +130,7 @@ $
    1. Change Order
    1. Instructions
 
-## General INFORMATION
+1. General INFORMATION
    1. This document was developed to provide a uniform format for handling contract changes that affect Contract Price or Contract Times. Changes that have been initiated by a Work Change Directive must be incorporated into a subsequent Change Order if they affect Price or Times.
    1. Changes that affect Contract Price or Contract Times should be promptly covered by a Change Order. The practice of accumulating Change Orders to reduce the administrative burden may lead to unnecessary disputes.
    1. If Milestones have been listed in the Agreement, any effect of a Change Order thereon should be addressed.

@@ -85,7 +85,7 @@ tags: ['Facility', 'Services', 'Communications', 'Communication', 'Horizontal', 
    1. The Contractor shall notify the Project Officer in writing at least 5 working days before the completion date so the Government can schedule final inspection.
    1. The Contractor shall require the superintendent to be present during this inspection.
 
-## PRODUCTS
+## Products
 
 1. SYSTEM REQUIREMENTS
 	1. General:
@@ -183,7 +183,7 @@ tags: ['Facility', 'Services', 'Communications', 'Communication', 'Horizontal', 
    1. Equipment Racks:
       1. PFT 19" and 23" inch Cable Management Racks with 12/24 tapped holes (or equivalent). Freestanding modular steel units designed for telecommunications terminal support and coordinated with dimensions of the units to be supported.
 
-## EXECUTION
+## Execution
 
 1. General
    1. The Contractor shall furnish and install a local area network secondary cable support system and install/terminate the cable, station jacks and patch panels. The cable drops shall be installed as indicated on the floor plan layout. The cable shall run from the equipment room throughout the area of work.

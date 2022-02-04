@@ -16,7 +16,7 @@ tags: ['Facility', 'Services', 'Plumbing', 'Chemical-Waste', 'Systems', 'Laborat
    1. This Section includes pipe and fitting materials, joining methods, special-duty valves, and specialties for the following:
       1. Chemical waste piping.
    1. Chemical vent piping.
-1. references
+1. References
    1. American Society of Mechanical Engineers (ASME):
    1. B1.20.1 - Pipe Threads, General Purpose (Inch).
    1. B16.3 - Malleable Iron Threaded Fittings.
@@ -65,7 +65,7 @@ tags: ['Facility', 'Services', 'Plumbing', 'Chemical-Waste', 'Systems', 'Laborat
    1. Polypropylene corrosive waste drainage system conforming to ASTM F1412 flame retardant pipe and fittings. Pipe and fittings shall be joined using a mechanical joint coupling. The Pipe shall be supplied in factory grooved 10-foot lengths and shall meet or exceed schedule 40 dimensions. Each coupling shall have 300 series stainless steel outer band and 5/16” bolts, nuts and washers plated to meet a 100 hour spray test per ASTM B117. The polypropylene material shall conform to ASTM B4101.
    1. Manufacturer shall be Orion or approved equal.
 
-## EXECUTION
+## Execution
 
 1. Underground Piping Installation
 	1. Trench Excavation:

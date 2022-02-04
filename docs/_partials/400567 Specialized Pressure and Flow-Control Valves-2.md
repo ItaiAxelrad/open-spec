@@ -50,7 +50,6 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Specialized', 'Pressure', 'F
    1. Concrete used for slabs and anchor or thrust blocks shall be in accordance with Section 03000.
 1. WARNING/IDENTIFICATION TAPE
    1. Warning/Identification Tape shall be in accordance with Section 15000 and the Approved Materials List.
-1. 
 
 ## Execution
 

@@ -118,7 +118,7 @@ accessories.
 ## Products
 
 1. PACKAGED PLANT WASTEWATER TREATMENT SYSTEM
-   1. Furnish materials according to industry and Colorado Department of Public Health & Environment (CDPHE) Design criteria for Domestic Wastewater Treatment Works standards.
+   1. Furnish materials according to industry and Colorado Department of Public Health & Environment (State Department of Public Health and Environment) Design criteria for Domestic Wastewater Treatment Works standards.
    1. Description:
       1. Factory-built packaged wastewater treatment consisting of trash rake and drum screening, common aeration chamber(s) (tank), Membrane Biological Reactors(s), RAS Recycling system, and separate UV Disinfection System.
 2. System components include the following (but not limited to):
@@ -164,8 +164,8 @@ accessories.
 4. Unit Design Criteria:
       1. Provide aeration system with minimum detention period of 24 hours based on design flows, capable of achieving reduction in daily organic loadings of BOD5 required to meet current facility permit.
       1. Adjustments and routine maintenance during operation shall be possible without interrupting process.
-      1. Maximum organic loading on aeration system per CDPHE requirements .
-      1. Size aeration tank with minimum side water depth per CDPHE requirements.
+      1. Maximum organic loading on aeration system per State Department of Public Health and Environment requirements .
+      1. Size aeration tank with minimum side water depth per State Department of Public Health and Environment requirements.
       1. Sludge shall be held in the liquid treatment train and pumped out utilizing vactor trucks on an as needed basis.
       1. Duration between chemical cleans shall be 21 days or more.
 2. EQUALIZATION CHAMBERS
@@ -179,7 +179,7 @@ accessories.
    1. Filleted on each side of chamber at bottom to prevent sludge accumulation to enhance rotation of tank contents and prevent scum and froth accumulation.
    1. Control air volume introduced longitudinally near bottom of chamber to ensure adequate mixing and cleansing velocities within aeration chamber and maintenance of solids in suspension.
 4. MEMBRANE BIOLOGICAL REACTOR (MBR)
-   1. MBR shall system shall be hollow fiber technology, and shall comply with CDPHE design requirements.
+   1. MBR shall system shall be hollow fiber technology, and shall comply with State Department of Public Health and Environment design requirements.
    1. The MBR manufacturer shall certify that equipment can meet performance requirements of effluent permit with course screening and drum screening. If other grit removal or clarification technology is required, the Contractor shall provide that equipment to guarantee performance from the MBR manufacturer.
 5. UV DISINFECTION SYSTEM
    1. UV Disinfection system shall be designed to the maximum month flow of 40,000 gpd.
@@ -217,10 +217,10 @@ Section.
    1. Furnish blower and associated appurtenances to supply air to aeration tank diffusers, return- sludge airlifts (or other RAS option), MBR air scour, and scum skimmer.
    1. Minimum Air Requirements:
       1. Aeration Tank:
-         1. Provide adequate air per pound of BOD5 applied as required by CDPHE
+         1. Provide adequate air per pound of BOD5 applied as required by State Department of Public Health and Environment
    1. and process requirements as designed by Design Build Team.
 2. Return-Sludge Airlifts:
-      1. Adequate air flow rate to meet minimum recirculation rates as specified by CDPHE and required to meet performance requirements.
+      1. Adequate air flow rate to meet minimum recirculation rates as specified by State Department of Public Health and Environment and required to meet performance requirements.
 3. Scum-Skimming Device:
       1. Furnish air flow rate to skim and return floating material from
    1. settling tank to aeration tank.

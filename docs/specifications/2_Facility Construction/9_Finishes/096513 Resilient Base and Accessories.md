@@ -10,7 +10,7 @@ tags: ['Facility', 'Construction', 'Finishes', 'Resilient', 'Base', 'Accessories
 
 ## General
 
-1. summary
+1. Summary
    1. Refer to Section 018113 – Sustainable Design Requirements; 018113A – Appendix A - Materials Anticipated to be Used for Recycled Content; and 018113B – LEED Matrix for materials requiring contractor validation of recycled content
    1. References
    1. Federal Specifications (Fed. Spec.)

@@ -13,10 +13,10 @@ tags: ['Facility', 'Construction', 'Concrete', 'Accessories']
    1. Section Includes:
       1. Anchor bolts and embeds shall conform to the pertinent provisions of Section 051200, Structural Steel Framing.
 
-## PRODUCTS 
+## Products 
 
 NOT USED
 
-## EXECUTION
+## Execution
 
 NOT USED

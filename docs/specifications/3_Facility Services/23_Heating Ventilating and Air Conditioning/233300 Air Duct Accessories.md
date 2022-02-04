@@ -44,7 +44,7 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Comply with HVAC Duct Construction Standards per SMACNA - Metal & Flexible, 1st Ed., 1985.
    1. Comply with UL 181 – “Factory-Made Air Ducts and Air Connectors,” UL 555 – “Fire Dampers and Ceiling Dampers,” and UL 555S – “Leakage Rate Dampers for Use in Smoke Control Systems.”
 
-## PRODUCTS
+## Products
 
 1. MATERIALS
 	1. Backdraft Dampers:
@@ -174,7 +174,7 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Adhesives:
       1. High strength, quick setting, neoprene based, waterproof and resistant to gasoline and grease.
 
-## EXECUTION
+## Execution
 
 1. EXAMINATION
    1. Examine areas and conditions for compliance with requirements for installation tolerances and other conditions affecting performance of duct accessories. 

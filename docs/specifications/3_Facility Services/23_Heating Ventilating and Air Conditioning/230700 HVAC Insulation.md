@@ -120,7 +120,7 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
 5. WARRANTY
 	3. Refer to requirements in Division 23, “Common Work Results for HVAC.”
 
-## PRODUCTS
+## Products
 
 1. General
    1. Provide insulation, binders, vapor barriers, jackets, adhesives, coatings, tapes and sealers furnished under this section which are listed and labeled by a nationally recognized certifying organization such as Underwriters Laboratories Inc., OmegaPoint, or Southwest Research Institute as having a flame spread rating of 25 or less and smoke development rating of 50 or less when tested in accordance with ASTM E84, unless otherwise specified. 
@@ -321,7 +321,7 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Outdoor Applications
 016.-inch smooth aluminum with factory-applied moisture barrier liner.
 
-## EXECUTION
+## Execution
 
 1. General Application Requirements
 	1. Prior to the installation of insulating material, verify its thickness in accordance with the operating temperature and diameter of pipe or equipment. Should there be any discrepancies, notify the Architect and request resolution of the conflict; do not establish a new thickness or select different material without written approval.

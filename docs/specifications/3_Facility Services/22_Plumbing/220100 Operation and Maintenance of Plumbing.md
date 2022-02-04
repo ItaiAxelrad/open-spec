@@ -18,13 +18,13 @@ tags: ['Facility', 'Services', 'Plumbing', 'Operation', 'Maintenance']
 	1. Performance Requirements:
       1. Test all piping systems provided under Division 23 sections of the Specifications. 
 
-## PRODUCTS
+## Products
 
 1. Equipment
    1. Provide pumps, gages, valves, piping, flanges, blanks and other equipment and material necessary to properly conduct the tests. Check gages used for pressure tests against a dead weight tester and certify correct over the range of the gage. 
    2. Repair defects appearing during tests immediately with new material, at the Contractor's expense, and re-test the lines to prove elimination of defects. 
 
-## EXECUTION
+## Execution
 
 1. ERECTION, INSTALLATION, APPLICATION
   1. General Requirements:

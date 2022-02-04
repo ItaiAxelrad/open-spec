@@ -120,7 +120,7 @@ tags: ['Facility', 'Services', 'Plumbing', 'Common', 'Work', 'Results']
    9. Unless otherwise directed, the manipulation of existing main valves to isolate piping, the shutdown of equipment will be done by Owner maintenance personnel.
    10. Coordinate installation of identifying devices after completion of covering and painting, where devices are applied to surfaces. Install identifying devices prior to installation of acoustical ceilings and similar concealment.
 
-## PRODUCTS
+## Products
 
 1. MATERIALS
    1. Pipe and Pipe Fittings:
@@ -390,7 +390,7 @@ tags: ['Facility', 'Services', 'Plumbing', 'Common', 'Work', 'Results']
       19. For each piping system, on 8-/2-by-11-inch bond paper. Tabulate valve number, piping system, system abbreviation (as shown on valve tag), location of valve (room or space), normal-operating position (open or closed), and variations for identification. Mark valves for emergency shutoff and similar special uses.
    30. Valve tag schedule shall be included in operation and maintenance data.
 
-## EXECUTION
+## Execution
 
 1. ERECTION INSTALLATION APPLICATION
    1. Piping Systems - Common Requirements:

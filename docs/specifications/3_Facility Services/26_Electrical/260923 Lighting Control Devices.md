@@ -132,7 +132,6 @@ tags: ['Facility', 'Services', 'Electrical', 'Lighting', 'Control', 'Devices']
       1. UL listing or rating consistent with type of load served, including tungsten filament, inductive, and high-inrush ballast (ballasts with 15 percent or less total harmonic distortion of normal load current).
 2. Control Coil Voltage:
       1. Match control power source.
-1. 
 
 ## Execution
 

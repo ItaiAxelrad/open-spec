@@ -46,13 +46,13 @@ tags: ['Facility', 'Construction', 'Existing', 'Conditions', 'Selective', 'Demol
            2. Remove, cut off and plug, or cap all utilities within the existing building areas to be demolished, except those designated to remain.
            3. Locate and protect existing utilities to remain during demolition operations.
 
-## PRODUCTS
+## Products
 
 1. MATERIALS
    1. Owner will identify salvageable items. As the salvaged items are removed, they will be transported to a location determined by the Owner.
    2. All other items removed shall be transported out of the construction area in a timely manner.
 
-## EXECUTION
+## Execution
 
 1. EXAMINATION
    1. Owner will identify any known hazardous material involved in the demolition.

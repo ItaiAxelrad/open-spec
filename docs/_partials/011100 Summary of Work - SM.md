@@ -8,7 +8,7 @@ tags: ['General', 'Requirements', 'Summary', 'Work', 'SM']
 ---
 ## General
 
-01. DEFINITIONS
+1. DEFINITIONS
    1. Wherever the following terms or pronouns occur in these Standard Specifications or in related documents, the intent and meaning shall be interpreted as follows:
          1. "Approved Plans"** shall mean the official plans, profiles, typical cross-sections, working drawings, detail drawings, or exact reproductions thereof, approved by the City and other appropriate government agencies, which show the locations, character, dimensions, and details of the work required to construct the specified public improvements. 
    1. Approved Plans are also considered to be “Contract Documents” and “Plans” per GENERAL CONDITIONS Article 1.1.26 and Article 1.1.52 respectively
@@ -33,113 +33,106 @@ tags: ['General', 'Requirements', 'Summary', 'Work', 'SM']
       1. Project consists of the installation of new water mains complete with service connections and all other apparatus to provide an operable pressurized water system conforming to American Water Works Association (AWWA Standards) requirements. Project also consists of the abandonment and/or removal of existing water mains.
 2. Project Locations:
    1. Project No.1:
-      1. 17th Street between Pearl Street and Ocean Park Boulevard.
-   1. Project No.2:
-      1. Ocean Park Boulevard between 14th Street and 18th Street.
-   1. Project No.3:
-      1. Ocean Avenue between Pico Boulevard and Bay Street.
-   1. Project No.4:
-      1. Ashland Avenue between 3rd Street and 4th Street.
-   1. Owner:
-      1. City of Santa Monica, Civil Engineering, 1437 4th Street, Suite 300, Santa Monica, CA 90401
-2. Consulting Engineer:
-      1. Cannon, 11900 W Olympic Boulevard, Suite 530, Los Angeles CA 90064.
-3. Construction Manager:
-      1. The City of Santa Monica 
-4. Work covered by contract documents
+      1. {Location}
+   2. Owner:
+      1. {Agency/Facility}
+3. Consulting Engineer:
+      1. {Engineer}
+4. Construction Manager:
+      1. {Manager} 
+5. Work covered by contract documents
     1. The Work of Project is defined by the Contract Documents and consists of but not limited to following:
        1. Verify and locate of all existing utilities and tie-ins.
-2. Traffic control plan implementation
-3. Removal and disposal existing water mains.
-4. Abandonment existing water mains. 
-
+6. Traffic control plan implementation
+7. Removal and disposal existing water mains.
+8. Abandonment existing water mains. 
    1. The Work consists of furnishing and installing new materials, as shown on the design drawings and as specified herein. All work and materials shall meet the requirements of the City Specifications No. 2429, Construction Drawings U6886, project technical specifications, City of Santa Monica Standard Plans, and Standard Specifications for Public Works Construction sections 2 through 6 (“Greenbook” latest edition, excluding the General Conditions) unless otherwise specified in this Construction Documents.
-2. The Work includes but is not limited to installation of the new 6- inch, 8-inch and 12-inch AWWA C-900 PC 305 (DR14) PVC Blue Potable Water Pipe, Ductile Iron Pipe and fittings, water and fire services, fire lines, detector check valves, valves, fire hydrants, sampling stations, water meter boxes, air-vacuum valves, blow-offs, water meters, street surface removal and replacement, and other appurtenances required to provide an operable pressurized potable water system conforming to AWWA and City of Santa Monica Standards.
-3. The Contractor shall also construct all portions of this project to AWWA, Uniform Plumbing Code standards, and California Department of Health Services criteria for separation of water mains and non-potable pipelines.
-4. The base plans included with these Contract Documents shall be used by the Contractor. Due to the scale of design drawings, it may not always be possible to indicate all offsets, fittings, sleeves, etc., which may be required. The Contractor shall carefully investigate the existing piping conditions, structural and finish conditions affecting this work, and plan the work accordingly, furnishing such offsets, fittings, sleeves, etc., as may be required to meet site conditions. Design drawings are generally diagrammatic and indicative of’ the work to be installed. The Contractor shall install the work in such a manner, so as to avoid conflicts between existing systems, plants, and above and below grade interferences.
-5. The Contractor shall furnish and install all work called for on the design drawings by notes or details whether or not specifically mentioned in the Contract Documents.
-6. It is the intent of the Contract Documents to describe the existing conditions for the project. If the plans or specifications appear in any way to be incomplete, misleading, conflicting, or subject to misinterpretation, it is the Contractor’s responsibility to bring these concerns to the Engineer’s attention prior to bidding. If the Contractor fails to do so, the Contractor must accept the Engineer’s interpretation and any potential related financial impact that may occur.
-7. Work will also include miscellaneous site work, paving, removal and construction of connections to existing water mains, abandonment and removal of replaced water mains and interfering water mains respectively, and restoration of vehicle detection loops, removal and reconstruction of cross gutters, ribbon gutter, curb & gutter, sidewalk and alley approach, maintaining all exiting utilities in service.
-8. In addition to the work described above, the following scope items are typical to all project sites:
+9. The Work includes but is not limited to installation of the new 6- inch, 8-inch and 12-inch AWWA C-900 PC 305 (DR14) PVC Blue Potable Water Pipe, Ductile Iron Pipe and fittings, water and fire services, fire lines, detector check valves, valves, fire hydrants, sampling stations, water meter boxes, air-vacuum valves, blow-offs, water meters, street surface removal and replacement, and other appurtenances required to provide an operable pressurized potable water system conforming to AWWA and City of Santa Monica Standards.
+10. The Contractor shall also construct all portions of this project to AWWA, Uniform Plumbing Code standards, and California Department of Health Services criteria for separation of water mains and non-potable pipelines.
+11. The base plans included with these Contract Documents shall be used by the Contractor. Due to the scale of design drawings, it may not always be possible to indicate all offsets, fittings, sleeves, etc., which may be required. The Contractor shall carefully investigate the existing piping conditions, structural and finish conditions affecting this work, and plan the work accordingly, furnishing such offsets, fittings, sleeves, etc., as may be required to meet site conditions. Design drawings are generally diagrammatic and indicative of’ the work to be installed. The Contractor shall install the work in such a manner, so as to avoid conflicts between existing systems, plants, and above and below grade interferences.
+12. The Contractor shall furnish and install all work called for on the design drawings by notes or details whether or not specifically mentioned in the Contract Documents.
+13. It is the intent of the Contract Documents to describe the existing conditions for the project. If the plans or specifications appear in any way to be incomplete, misleading, conflicting, or subject to misinterpretation, it is the Contractor’s responsibility to bring these concerns to the Engineer’s attention prior to bidding. If the Contractor fails to do so, the Contractor must accept the Engineer’s interpretation and any potential related financial impact that may occur.
+14. Work will also include miscellaneous site work, paving, removal and construction of connections to existing water mains, abandonment and removal of replaced water mains and interfering water mains respectively, and restoration of vehicle detection loops, removal and reconstruction of cross gutters, ribbon gutter, curb & gutter, sidewalk and alley approach, maintaining all exiting utilities in service.
+15. In addition to the work described above, the following scope items are typical to all project sites:
       1. trench restoration; sheeting, shoring, and bracing; dewatering; spill prevention; vehicular, pedestrian and bike path traffic control; implementation of a Water Pollution Control Program and Best Management Practices; and all appurtenant work as shown on the plans and delineated in the specifications.
-03. RELATED WORK SPECIFIED ELSEWHERE
+16. RELATED WORK SPECIFIED ELSEWHERE
 
-1. General
+17. General
     1. CONDITIONS
-2. Standard Specifications 01045, 01200, 01310, 01330, 01505, 01510, 01570, 02140, 02222, 02223, 02511, 02528, 02578, 03000, 03480, 03482, 09902, 09910, and Division 15.
-04. SPECIAL PROVISIONS AND OTHER MISCELLANEOUS ITEMS
+18. Standard Specifications 01045, 01200, 01310, 01330, 01505, 01510, 01570, 02140, 02222, 02223, 02511, 02528, 02578, 03000, 03480, 03482, 09902, 09910, and Division 15.
+19. SPECIAL PROVISIONS AND OTHER MISCELLANEOUS ITEMS
    1. When the work of installing new water main is not in progress, all openings into the pipe and the ends of the pipe in the trenches or structure shall be kept tightly closed to prevent entrance of animals and foreign materials. The Contractor shall maintain the inside of the pipe free from foreign materials and in a clean and sanitary condition until its acceptance by the City.
-2. Night work, from 8 pm to 6 am, will be required for all water main replacements along or crossing Ocean Park Boulevard including adjacent alleys. All work schedules must be coordinated and approved by the City and John Adams middle school prior to construction. Tie in connections, pressure testing, and disinfection of water mains along and adjacent to Ocean Park Boulevard may be completed during the day at the option of the City.
-3. Contractor will be responsible to provide high lining for all water mains to be removed and replaced and maintain service to existing services during shut down periods.
-4. Night work, from 8 pm to 6 am, will be required for all water main replacements along or crossing Pico Boulevard. All work schedules and construction in this area must be coordinated and approved by the City prior to construction. 
-5. The Contractor is required to provide new meter boxes for all existing and new water meters and install new City provided water meters per the meter replacement schedule and project construction plans.
-6. The Contractor is responsible for locating all existing water, service and fire laterals prior to beginning construction. All new services will begin at the new water and end at the new or existing water meter and or the first vertical fitting nearest the property line or as directed by the City. 
-7. Concrete encasement shall be provided per Approved Plans or as directed by the City. Pipe protection slabs shall be constructed whenever the cover over a water pipeline is less than twenty-four (24”) inches in the street. 
-8. Concrete thrust blocks must be poured with transit-mixed concrete. 
-9. The Contractor must closely follow-up the installation process with permanent pavement per the project specifications. Under no circumstances, in any particular stretch of excavation, will temporary pavement be permitted longer that twenty-one (21) calendar days before permanent base and cap pavement is placed. The pavement cap must be placed within two (2) days of the base pavement. This is to minimize traffic inconvenience and impacts in the neighborhood.
-10. The backfill shall be one sack of cement slurry. Any defective backfill will require removal and replacement.
-11. The existing asphalt and or concrete pavement thicknesses have been assumed and have not been established for the proposed locations of excavation for this project unless otherwise noted or provided to the Contractor. Refer to Specification Section 01045, Article 3.10.C for assumed concrete pavement or asphalt concrete pavement thicknesses. It is the Contractor’s responsibility to establish the pavement thicknesses, by potholing, if this information is required by them. 
-12. In cutting the pavement, vacuuming is required for saw cutting.
-13. The new water main shall be installed below the existing water main at the location of the fire hydrant to avoid conflict with the existing water main in installing the new fire hydrants.
-14. Where a valve on the new water main or a valve on the existing water main is left in place to be used as a stop for a main under pressure, the valve shall be securely restrained with Mega-lug glands or a concrete thrust collar. For existing valves, the Contractor shall provide a pipe restraining system with clamps and tie rods or clamps and tie rods to tie back to the concrete thrust collar. 
-15. Where new fittings or valves are installed the existing pipe shall be restrained properly by the Contractor. 
-16. The location of and type of elbows shown on the plans are approximate only. The Contractor shall verify in the field in such a way to keep the alignment of the new water main with respect to that of the existing water main as shown on the plans. The Contractor shall provide the necessary fittings and pipe to make connections to the existing water system. The Contractor shall not deflect the pipes beyond 75% the deflection angle recommended by the manufacturer.
-17. The new pipeline shall be placed in service or tied into the existing water main no more than three (3) days after the Contractor has been informed that the bacteriologic test results are known negative. If the tie-in is not completed within this time, the Contractor shall have the bacteriologic tests performed by a laboratory accepted by the City and provide the City with the results before the pipeline can be placed in service, all at the expense of the Contractor.
-05. LICENSE
-   1. The Contractor installing any new facilities or performing work on existing facilities within the City shall possess, prior to the start of the Project, a License, defined by the latest edition of the California Contractor's License Law and Reference Book, as:
+20. Night work, from 8 pm to 6 am, will be required for all water main replacements along or crossing Ocean Park Boulevard including adjacent alleys. All work schedules must be coordinated and approved by the City and John Adams middle school prior to construction. Tie in connections, pressure testing, and disinfection of water mains along and adjacent to Ocean Park Boulevard may be completed during the day at the option of the City.
+21. Contractor will be responsible to provide high lining for all water mains to be removed and replaced and maintain service to existing services during shut down periods.
+22. Night work, from 8 pm to 6 am, will be required for all water main replacements along or crossing Pico Boulevard. All work schedules and construction in this area must be coordinated and approved by the City prior to construction. 
+23. The Contractor is required to provide new meter boxes for all existing and new water meters and install new City provided water meters per the meter replacement schedule and project construction plans.
+24. The Contractor is responsible for locating all existing water, service and fire laterals prior to beginning construction. All new services will begin at the new water and end at the new or existing water meter and or the first vertical fitting nearest the property line or as directed by the City. 
+25. Concrete encasement shall be provided per Approved Plans or as directed by the City. Pipe protection slabs shall be constructed whenever the cover over a water pipeline is less than twenty-four (24”) inches in the street. 
+26. Concrete thrust blocks must be poured with transit-mixed concrete. 
+27. The Contractor must closely follow-up the installation process with permanent pavement per the project specifications. Under no circumstances, in any particular stretch of excavation, will temporary pavement be permitted longer that twenty-one (21) calendar days before permanent base and cap pavement is placed. The pavement cap must be placed within two (2) days of the base pavement. This is to minimize traffic inconvenience and impacts in the neighborhood.
+28. The backfill shall be one sack of cement slurry. Any defective backfill will require removal and replacement.
+29. The existing asphalt and or concrete pavement thicknesses have been assumed and have not been established for the proposed locations of excavation for this project unless otherwise noted or provided to the Contractor. Refer to Specification Section 01045, Article 3.10.C for assumed concrete pavement or asphalt concrete pavement thicknesses. It is the Contractor’s responsibility to establish the pavement thicknesses, by potholing, if this information is required by them. 
+30. In cutting the pavement, vacuuming is required for saw cutting.
+31. The new water main shall be installed below the existing water main at the location of the fire hydrant to avoid conflict with the existing water main in installing the new fire hydrants.
+32. Where a valve on the new water main or a valve on the existing water main is left in place to be used as a stop for a main under pressure, the valve shall be securely restrained with Mega-lug glands or a concrete thrust collar. For existing valves, the Contractor shall provide a pipe restraining system with clamps and tie rods or clamps and tie rods to tie back to the concrete thrust collar. 
+33. Where new fittings or valves are installed the existing pipe shall be restrained properly by the Contractor. 
+34. The location of and type of elbows shown on the plans are approximate only. The Contractor shall verify in the field in such a way to keep the alignment of the new water main with respect to that of the existing water main as shown on the plans. The Contractor shall provide the necessary fittings and pipe to make connections to the existing water system. The Contractor shall not deflect the pipes beyond 75% the deflection angle recommended by the manufacturer.
+35. The new pipeline shall be placed in service or tied into the existing water main no more than three (3) days after the Contractor has been informed that the bacteriologic test results are known negative. If the tie-in is not completed within this time, the Contractor shall have the bacteriologic tests performed by a laboratory accepted by the City and provide the City with the results before the pipeline can be placed in service, all at the expense of the Contractor.
+36. LICENSE
+   2. The Contractor installing any new facilities or performing work on existing facilities within the City shall possess, prior to the start of the Project, a License, defined by the latest edition of the California Contractor's License Law and Reference Book, as:
 		1. Class A or C-34 for water pipeline installations.
    1. Any Contractor possessing a license other than a Class A must obtain written approval from the City prior to initiating the work.
-06. GEOTECHNICAL REPORT
-   1. A geotechnical study was not performed for the project to evaluate soil and groundwater conditions along the pipeline alignment. 
-   1. The Contractor is responsible for determining the sufficiency of the existing soil conditions and for evaluating the need for, and providing for, any safety measures deemed necessary to perform work. Any such measures shall be considered incidental to the work and no additional payment will be made thereof.
-07. OPERATIONS IN PUBLIC RIGHT-OF-WAY
-   1. Work in public right-of-way shall be done in accordance with the requirements of the permit issued by the public agency in whose right-of-way the work is located, in addition to the requirements of the Approved Plans and Standard Specifications. If a permit is not required, the work shall conform to the standards of the public agency involved in addition to conforming to the Approved Plans and Standard Specifications.
-08. STORMWATER POLLUTION PREVENTION PLAN (SWPPP) REQUIREMENTS
-   1. The Contractor shall abide by the conditions of the Regional Water Quality Control Board, General Construction Activity Storm Water Permit and the project Storm Water Pollution Prevention Plan (SWPPP). 
-   1. Refer to GENERAL CONDITION Articles 3.24 for additional requirements.
-09. REFERENCE STANDARDS
-   1. The reference standards of the organizations listed below form a part of these Standard Specifications to the extent referenced and are referred to in the text by the basic designation only. Reference shall be made to the latest edition of said standards unless otherwise stated.
-   1. AGENCY ADDRESS
-   1. AASHTO American Association 444 N. Capital St.
-   1. of State Highway and Washington, D.C. 20004
-   1. Transportation Officials
-   1. ACI American Concrete P.O. Box 19150
-   1. Institute Detroit, MI 48219
-   1. ANSI American National 1430 Broadway
-   1. Standards Institute New York, NY 10018
-   1. ASA American Standards 70 East 45th Street
-   1. Association New York, NY 10017
-   1. ASME American Society of 345 E. 47th Street
-   1. Mechanical Engineers New York, NY 10017
-   1. ASTM American Society for 1916 Race Street
-   1. Testing and Materials Philadelphia, PA 19103
-   1. AWS American Welding 550 N.W. Le Jeune Rd.
-   1. Society Miami, FL 33135
-   1. AWWA American Water 6666 W. Quincy Ave.
-   1. Works Association, Inc. Denver, CO 80235
-   1. CAL/ State of California 1006 Fourth Street
-   1. OSHA Occupational Safety and Sacramento, CA 95814
-   1. Health Administration
-   1. CFR Code of Federal Regulations Office of Federal Register
-   1. National Archives Admin.
-   1. Washington, D.C. 20408
-   1. CRSI Concrete Reinforcing 228 N. La Salle St.
-   1. Steel Institute Chicago, IL 60601
-   1. CSLB Contractors State 9821 Business Park Dr.
-   1. License Board Sacramento, CA 95827
+37. GEOTECHNICAL REPORT
+   2. A geotechnical study was not performed for the project to evaluate soil and groundwater conditions along the pipeline alignment. 
+   3. The Contractor is responsible for determining the sufficiency of the existing soil conditions and for evaluating the need for, and providing for, any safety measures deemed necessary to perform work. Any such measures shall be considered incidental to the work and no additional payment will be made thereof.
+38. OPERATIONS IN PUBLIC RIGHT-OF-WAY
+   4. Work in public right-of-way shall be done in accordance with the requirements of the permit issued by the public agency in whose right-of-way the work is located, in addition to the requirements of the Approved Plans and Standard Specifications. If a permit is not required, the work shall conform to the standards of the public agency involved in addition to conforming to the Approved Plans and Standard Specifications.
+39. STORMWATER POLLUTION PREVENTION PLAN (SWPPP) REQUIREMENTS
+   5. The Contractor shall abide by the conditions of the Regional Water Quality Control Board, General Construction Activity Storm Water Permit and the project Storm Water Pollution Prevention Plan (SWPPP). 
+   6. Refer to GENERAL CONDITION Articles 3.24 for additional requirements.
+40. REFERENCE STANDARDS
+   7. The reference standards of the organizations listed below form a part of these Standard Specifications to the extent referenced and are referred to in the text by the basic designation only. Reference shall be made to the latest edition of said standards unless otherwise stated.
+   8. AGENCY ADDRESS
+   9. AASHTO American Association 444 N. Capital St.
+   10. of State Highway and Washington, D.C. 20004
+   11. Transportation Officials
+   12. ACI American Concrete P.O. Box 19150
+   13. Institute Detroit, MI 48219
+   14. ANSI American National 1430 Broadway
+   15. Standards Institute New York, NY 10018
+   16. ASA American Standards 70 East 45th Street
+   17. Association New York, NY 10017
+   18. ASME American Society of 345 E. 47th Street
+   19. Mechanical Engineers New York, NY 10017
+   20. ASTM American Society for 1916 Race Street
+   21. Testing and Materials Philadelphia, PA 19103
+   22. AWS American Welding 550 N.W. Le Jeune Rd.
+   23. Society Miami, FL 33135
+   24. AWWA American Water 6666 W. Quincy Ave.
+   25. Works Association, Inc. Denver, CO 80235
+   26. CAL/ State of California 1006 Fourth Street
+   27. OSHA Occupational Safety and Sacramento, CA 95814
+   28. Health Administration
+   29. CFR Code of Federal Regulations Office of Federal Register
+   30. National Archives Admin.
+   31. Washington, D.C. 20408
+   32. CRSI Concrete Reinforcing 228 N. La Salle St.
+   33. Steel Institute Chicago, IL 60601
+   34. CSLB Contractors State 9821 Business Park Dr.
+   35. License Board Sacramento, CA 95827
 
-   1. EPA Environmental 1200 Pennsylvania Ave.
-   1. Protection Agency Washington, DC 20004
-   1. NACE National Association of 1440 South Creek Dr.
-   1. Corrosion Engineers Houston, TX 77084
-   1. NFPA National Fire Protection Battery March Park
-   1. Agency Quincy, MA 02269
-   1. NSF National Sanitation P.O. Box 130140
-   1. Foundation Ann Arbor, MI 48113
-   1. SSPC Steel Structures 4400 Fifth Ave.
-   1. Painting Council Pittsburgh, PA 1521
-   1. SSPWC Standard Specifications for Joint Cooperative Committee
-   1. Public Works Construction c/o Associated General
+   36. EPA Environmental 1200 Pennsylvania Ave.
+   37. Protection Agency Washington, DC 20004
+   38. NACE National Association of 1440 South Creek Dr.
+   39. Corrosion Engineers Houston, TX 77084
+   40. NFPA National Fire Protection Battery March Park
+   41. Agency Quincy, MA 02269
+   42. NSF National Sanitation P.O. Box 130140
+   43. Foundation Ann Arbor, MI 48113
+   44. SSPC Steel Structures 4400 Fifth Ave.
+   45. Painting Council Pittsburgh, PA 1521
+   46. SSPWC Standard Specifications for Joint Cooperative Committee
+   47. Public Works Construction c/o Associated General
 
 (Greenbook) Contractors of California
    1. 1255 Corporate Center Dr., Suite 100
@@ -263,11 +256,9 @@ tags: ['General', 'Requirements', 'Summary', 'Work', 'SM']
    1. The City of Santa Monica does not provide for parking for Contractors and their employees outside of the construction work area limits. All associated costs and difficulties of parking off site are the responsibility of the contractor and shall be included in the bid price.
 
 ## Products
- -** Not Used
-1. 
+
+Not Used
 
 ## Execution
 
- -** Not Used
-
-
+Not Used

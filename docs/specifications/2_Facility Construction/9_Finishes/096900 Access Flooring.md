@@ -9,7 +9,7 @@ tags: ['Facility', 'Construction', 'Finishes', 'Access', 'Flooring']
 
 ## General
 
-1. summary
+1. Summary
    1. Refer to Section 018113 - Environmental Goals for the Project; 018113A – Appendix A - Materials Anticipated to be Used for Recycled Content; and 018113B – LEED Matrix for materials requiring contractor validation of recycled content.
    1. References
    1. Aluminum Association (AA)

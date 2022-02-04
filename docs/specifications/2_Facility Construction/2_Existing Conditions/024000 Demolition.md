@@ -8,7 +8,7 @@ tags: ['Facility', 'Construction', 'Existing', 'Conditions', 'Demolition']
 ---
 
 ## General
- 
+
 ### Summary
 
 1. Section Includes:
@@ -35,16 +35,18 @@ tags: ['Facility', 'Construction', 'Existing', 'Conditions', 'Demolition']
       1. NS Grout by Euclid Chemical, or equal.
       2. Masterflow 713 Plus by BASF Building Systems, or equal.
       3. Sika Grout 212 by Sika, or equal.
-   2. Epoxy bonding adhesive:
+   1. Epoxy bonding adhesive:
       1. Euco No.452 MV by Euclid Chemical Co., or equal.
       2. Sikadur 32, Hi-Mod by Sika Corporation, or equal.
-	 3. Epoxy patch:
-	 4. Depth of patch:
-    	 1. Greater than 3/4 IN: Five Star MP Epoxy Patch, or equal.
-    	 2. Between 1/8 IN and 3/4 IN: Five Star Fluid Epoxy, or equal.
-	 5. Storage Oil:
+	 1. Epoxy patch:
+       1. Depth of patch:
+           1. Greater than 3/4 IN:
+               1. Five Star MP Epoxy Patch, or equal.
+           2. Between 1/8 IN and 3/4 IN:
+               1. Five Star Fluid Epoxy, or equal.
+	 4. Storage Oil:
     	 1. Shell VSI No. 33, or equal.
-	 6. Rust-Preventive Compound:
+	 5. Rust-Preventive Compound:
     	 1. Houghton "Rust Veto 344, "Rust-Oleum T-9," or equal.
 2. Submit request for substitution in accordance with Specification Section 01 25 00.
 	1. Materials
@@ -52,10 +54,10 @@ tags: ['Facility', 'Construction', 'Existing', 'Conditions', 'Demolition']
         	1. Nonmetallic, noncorrosive and non-staining.
         	2. Premixed with only water to be added in accordance with manufacturer's instructions at job site.
         	3. Grout to produce a positive but controlled expansion.
-    		  4. Mass expansion not to be created by gas liberation or by other means.
-        	5. Minimum compressive strength at 28 days to be 6500 psi.
-        	6. Coat exposed edges of grout with a cure/seal compound recommended by grout manufacturer.
-      2. Epoxy Bonding Adhesive:
+    		  1. Mass expansion not to be created by gas liberation or by other means.
+        	1. Minimum compressive strength at 28 days to be 6500 psi.
+        	2. Coat exposed edges of grout with a cure/seal compound recommended by grout manufacturer.
+      1. Epoxy Bonding Adhesive:
         	1. Two component, moisture insensitive adhesive manufactured for the purpose of bonding fresh concrete to hardened concrete.
 
 ## Execution
@@ -67,7 +69,7 @@ tags: ['Facility', 'Construction', 'Existing', 'Conditions', 'Demolition']
 4. Provide and maintain substantial barricades and safety lights as required.
 1. Removals
    1. The contractor shall remove all items and materials as designated on the construction plans, or otherwise directed by the Owner, without disturbing existing adjacent improvements.
-	1. Where adjacent improvements are damaged by the Contractor’s operations they shall be repaired and/or replaced to the satisfaction of the Project Engineer and at the Contractor’s expense.
+	 1. Where adjacent improvements are damaged by the Contractor’s operations they shall be repaired and/or replaced to the satisfaction of the Project Engineer and at the Contractor’s expense.
 2. All materials designated to be removed or demolished and not designated to be reused or salvaged shall be hauled off the Project site and legally disposed of at the Contractor’s expense.
 3. Pavement items:
 	1. Where concrete, pavers, asphalt walks, or roadways are to be removed; saw cutting or other approved methods shall be performed at the location of the extent of demolition. Saw cutting shall be to the full thickness of the material and shall be straight and true.
@@ -136,7 +138,7 @@ tags: ['Facility', 'Construction', 'Existing', 'Conditions', 'Demolition']
 	2. Contractor shall perform Asbestos Containing Materials testing on caulks and sealants, wall boards, insulation materials and candidate gaskets. Determine whether gaskets have the potential to contain Asbestos Containing Materials based on the date of construction. Safely store gaskets for final disposal until an Asbestos Containing Materials determination, or testing results, are available.
 	3. Complete all demolition work where Asbestos Containing Materials is present in strict compliance with current EPA air emissions and waste/disposal requirements, OSHA Asbestos Standard 29 CFR Parts 1910, 1915 and 1926 for worker/building occupant protection requirements, and State of Colorado Regulation No. 8.
 	4. If Asbestos Containing Materials is encountered, develop a Controls and Demolition Work Practices Plan that identifies methods to contain materials to the work area, access control and safety protocols.
-	5. Comply with all State and Federal regulations for disposal of material. Deliver all materials to a CDPHE approved waste disposal site.
+	5. Comply with all State and Federal regulations for disposal of material. Deliver all materials to a State Department of Public Health and Environment approved waste disposal site.
 	6. Establish and maintain an accurate record of all monitoring, handling and waste disposal. Records for tests shall include records of who collected the tests, number of tests, dates, collection locations and results of each sample acquired. Maintain monitoring and other exposure records in accordance with State and Federal regulations. Maintain manifests for of disposal sites and shipping dates. Submit copies of all records to Owner.
 6. Disposal
    1. Remove demolition debris daily; handle potential Hazardous Materials per State and Federal regulations.

@@ -296,102 +296,100 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Turf', 'Grasses']
    1. Compaction of Surface Grade Prior to Landscape Installation
    1. Firm, but not hard (85% standard Proctor density within 2% optimum moisture).
    1. Prior to acceptance of grades, hand rake to smooth, even surface free of debris, clods, rocks, and vegetable matter greater than 1".
-   1. Seeding
-
-## General
-
-   1. Seed Native Seed Mix and Buffalo grass Seed in manner such that after surface is raked and rolled, seed shall have 1/4" of cover.
-   1. After broadcasting wildflower seed mix, very lightly rake in.
-   1. Apply Soil Guard and tackifying agents where required.
-   1. Hydraulic seeding/mulching equipment shall include pump capable of being operated at 100 gallons per minute and at 100 lbs. per sq. inch pressure, unless otherwise directed.
-   1. Equipment shall have a nozzle adaptable to hydraulic seeding requirements.
-   1. Storage tanks shall have a means of estimating volume used or remaining in tank.
-   1. Seed all drainage channels and other areas of potentially high flows at two times the specified rate.
-   1. Mulching
-   1. Hydromulching
-   1. Mixing
-   1. Add cellulose fiber mulch after proportionate quantities of water and other accepted material have been placed in slurry tank.
-   1. Mix ingredients to form homogeneous slurry.
-   1. Spraying
-   1. Spray apply slurry mulch uniformly over designated seed areas using color of mulch as metering agent.
-   1. Apply at rate of 2,000 lbs. per acre plus tackifier at rate of 100 lbs. per acre.
-   1. Do not apply hydromulch in presence of free surface water resulting from rain, melting snow or other causes.
-   1. Timing
-   1. Mulch seeded areas within 24 hours after seeding.
-   1. Areas not mulched within 24 hours after seeding shall be reseeded with the specified seed mix prior to mulching.
-   1. If Contractor elects to hydroseed, it must be done with a separate step from hydromulching in order to maximize soil contact with the seed.
-   1. Hay Mulching
-   1. Hay mulching may be substituted for hydromulching.
-   1. Uniformly apply wheat straw at a rate of 2 tons per acre and crimp in with a crimper or other approved equipment.
-   1. Employ handcrimping operations where excessive ground slopes or confinement cause unsatisfactory crimping to result by mechanical methods.
-   1. Spray mixture of 100 lbs. tackifier, 150 lbs. hydromulch and 750 gallons water over wheat straw.
-   1. Timing
-   1. Crimp seeded areas within 24 hours after seeding.
-   1. Areas not crimped within 24 hours shall be reseeded with the specified seed mix prior to crimping.
-   1. Quality Control
-   1. Repair and remulch areas improperly mulched or damaged by Contractor's negligence, in specified manner.
-   1. Mulch removed by circumstances beyond the Contractor's control shall be repaired and remulched as ordered with payment for this corrective work, when ordered, at the contract prices.
-   1. Erosion Control
-   1. For drainage channels and other areas of potentially high flows, use Super Duty Excelsior Blanket (4' width).
-   1. Slope Erosion Control
-   1. For slopes 3:1 and steeper, apply Soil Guard as follows:
+1. Seeding
+   2. General
+   3. Seed Native Seed Mix and Buffalo grass Seed in manner such that after surface is raked and rolled, seed shall have 1/4" of cover.
+   4. After broadcasting wildflower seed mix, very lightly rake in.
+   5. Apply Soil Guard and tackifying agents where required.
+   6. Hydraulic seeding/mulching equipment shall include pump capable of being operated at 100 gallons per minute and at 100 lbs. per sq. inch pressure, unless otherwise directed.
+   7. Equipment shall have a nozzle adaptable to hydraulic seeding requirements.
+   8. Storage tanks shall have a means of estimating volume used or remaining in tank.
+   9. Seed all drainage channels and other areas of potentially high flows at two times the specified rate.
+   10. Mulching
+   11. Hydromulching
+   12. Mixing
+   13. Add cellulose fiber mulch after proportionate quantities of water and other accepted material have been placed in slurry tank.
+   14. Mix ingredients to form homogeneous slurry.
+   15. Spraying
+   16. Spray apply slurry mulch uniformly over designated seed areas using color of mulch as metering agent.
+   17. Apply at rate of 2,000 lbs. per acre plus tackifier at rate of 100 lbs. per acre.
+   18. Do not apply hydromulch in presence of free surface water resulting from rain, melting snow or other causes.
+   19. Timing
+   20. Mulch seeded areas within 24 hours after seeding.
+   21. Areas not mulched within 24 hours after seeding shall be reseeded with the specified seed mix prior to mulching.
+   22. If Contractor elects to hydroseed, it must be done with a separate step from hydromulching in order to maximize soil contact with the seed.
+   23. Hay Mulching
+   24. Hay mulching may be substituted for hydromulching.
+   25. Uniformly apply wheat straw at a rate of 2 tons per acre and crimp in with a crimper or other approved equipment.
+   26. Employ handcrimping operations where excessive ground slopes or confinement cause unsatisfactory crimping to result by mechanical methods.
+   27. Spray mixture of 100 lbs. tackifier, 150 lbs. hydromulch and 750 gallons water over wheat straw.
+   28. Timing
+   29. Crimp seeded areas within 24 hours after seeding.
+   30. Areas not crimped within 24 hours shall be reseeded with the specified seed mix prior to crimping.
+   31. Quality Control
+   32. Repair and remulch areas improperly mulched or damaged by Contractor's negligence, in specified manner.
+   33. Mulch removed by circumstances beyond the Contractor's control shall be repaired and remulched as ordered with payment for this corrective work, when ordered, at the contract prices.
+   34. Erosion Control
+   35. For drainage channels and other areas of potentially high flows, use Super Duty Excelsior Blanket (4' width).
+   36. Slope Erosion Control
+   37. For slopes 3:1 and steeper, apply Soil Guard as follows:
       1. Grade and smooth slope.
-   1. Mix 50 lbs. Soil Guard to 125 gallons of water. Seed can be added to the mix at any desired rate.
-   1. Apply 4,000 lbs. (dry) per acre with hydraulic seeding equipment.
-   1. Soil Guard is approved for use with all Bowle Hydro-Mulchers and Finn Hydroseeders.
-   1. Cover should be 1/8" to 3/16" after drying, at 100% ground cover.
-   1. Drainage Channels
-   1. Grade and smooth channel.
-   1. Apply fertilizer and seed prior to installing blankets.
-   1. Anchor blankets at top of channel. Backfill with check slot material. For culvert outfalls, place blanket at least 12 inches upstream from pipe opening.
-   1. Install a blanket in the center of the channel, in the direction of water flow. Additional blankets are installed at the edges of this center blanket.
-   1. Construct check slots with soil, gravel, or stone, in the middle (45 ft.) and end of each blanket.
-   1. Overlap side channel blanket edges a minimum of 3" over the center channel blanket and staple. Overlap end and beginning blanket edges a minimum of 6" and staple.
-   1. Anchor the top edge of side channel blankets.
-   1. Anchor the terminal ends of blankets in a check slot.
-   1. Stapling
-   1. Staple overlaps which run parallel to direction of flow in channel bottoms on 2 ft. intervals.
-   1. Staple outside edges, centers and overlaps on banks on 2 ft. intervals.
-   1. Install row of staples down center as well as along each side for each width of cloth.
-   1. Staple check slots and junctions of new rolls across channel on 6" intervals.
-   1. On soft or sandy soil or in windy areas, apply staples in alternate slanting position and space at 14" to 18" intervals.
-   1. For extra hard soil or shale areas, use sharp hardened steel 3" fence type staples.
-   1. Fertilizing
-   1. First Application:
-      1. See Section 02484.
-   1. Sodding
-   1. Soil on which sod is laid shall be slightly moist.
-   1. Lay with longest dimension parallel to contours and in continuous rows.
-   1. Tightly butt ends and sides of sod together. Stagger sod rows by 2'-0" minimum and compact vertical joints between sod strips by rolling so sod will be incorporated with the ground surface, insuring tight joints between adjacent pieces. Sod shrinkage is grounds for rejection.
-   1. Cut rows terminating on the designated property lines to a straight line.
-   1. Use a sod cutter to provide a clean edge on existing sod if required. New to existing sod edge must match smoothly.
-   1. Rolling
-   1. When soil and sod are moist, roll sod lightly as soon as possible after it is laid.
-   1. Delay rolling until just before the second watering.
-   1. Reroll sod as necessary prior to acceptance.
-   1. Assure finished areas of sod are such that positive drainage of storm and irrigation water will occur and ponding of water will be minimized.
-   1. FIELD QUALITY CONTROL
-   1. Inspection
-   1. Provide notice to Owner requesting inspection at least seven (7) days prior to anticipated date of completion.
-   1. Deficiencies
-   1. Owner will specify deficiencies to Contractor who shall make satisfactory adjustments and shall again notify Owner for final inspection.
-   1. Notification
-   1. Give notice requesting inspection by Owner at least seven (7) days prior to the anticipated date of completion.
-   1. All new sod must be alive and healthy in order to be considered complete.
-   1. If deficiencies exist, Owner shall specify such deficiencies to the Contractor who shall make satisfactory adjustments and will again notify the Owner for final inspection.
-   1. CLEANING
-   1. Remove debris and excess materials from site.
-   1. Clean out drainage inlet structures as required.
-   1. Clean paved and finished surfaces soiled as a result of work under this Section, in accordance with direction given by Owner.
-   1. Remove debris and excess materials from site.
-   1. Clean paved and finished areas soiled as a result of work under this Section, in accordance with direction given by Owner.
-   1. Clean out drainage inlet structures.
-   1. Remove mulch immediately from trees, shrubs and sod to prevent damage to same.
-   1. Remove pallets, unused sod, and other debris from site.
-   1. Clean paved and finished surfaces soiled as a result of work under this Section.
-   1. Clean out drainage inlet structures as required.
-   1. PROTECTION
-   1. Provide and install barriers as required and as directed by Owner to protect completed areas against damage from pedestrian and vehicular traffic until acceptance by Owner.
-   1. Contractor is not responsible for malicious destruction caused by others.
+   38. Mix 50 lbs. Soil Guard to 125 gallons of water. Seed can be added to the mix at any desired rate.
+   39. Apply 4,000 lbs. (dry) per acre with hydraulic seeding equipment.
+   40. Soil Guard is approved for use with all Bowle Hydro-Mulchers and Finn Hydroseeders.
+   41. Cover should be 1/8" to 3/16" after drying, at 100% ground cover.
+   42. Drainage Channels
+   43. Grade and smooth channel.
+   44. Apply fertilizer and seed prior to installing blankets.
+   45. Anchor blankets at top of channel. Backfill with check slot material. For culvert outfalls, place blanket at least 12 inches upstream from pipe opening.
+   46. Install a blanket in the center of the channel, in the direction of water flow. Additional blankets are installed at the edges of this center blanket.
+   47. Construct check slots with soil, gravel, or stone, in the middle (45 ft.) and end of each blanket.
+   48. Overlap side channel blanket edges a minimum of 3" over the center channel blanket and staple. Overlap end and beginning blanket edges a minimum of 6" and staple.
+   49. Anchor the top edge of side channel blankets.
+   50. Anchor the terminal ends of blankets in a check slot.
+   51. Stapling
+   52. Staple overlaps which run parallel to direction of flow in channel bottoms on 2 ft. intervals.
+   53. Staple outside edges, centers and overlaps on banks on 2 ft. intervals.
+   54. Install row of staples down center as well as along each side for each width of cloth.
+   55. Staple check slots and junctions of new rolls across channel on 6" intervals.
+   56. On soft or sandy soil or in windy areas, apply staples in alternate slanting position and space at 14" to 18" intervals.
+   57. For extra hard soil or shale areas, use sharp hardened steel 3" fence type staples.
+   58. Fertilizing
+   59. First Application:
+      2. See Section 02484.
+   60. Sodding
+   61. Soil on which sod is laid shall be slightly moist.
+   62. Lay with longest dimension parallel to contours and in continuous rows.
+   63. Tightly butt ends and sides of sod together. Stagger sod rows by 2'-0" minimum and compact vertical joints between sod strips by rolling so sod will be incorporated with the ground surface, insuring tight joints between adjacent pieces. Sod shrinkage is grounds for rejection.
+   64. Cut rows terminating on the designated property lines to a straight line.
+   65. Use a sod cutter to provide a clean edge on existing sod if required. New to existing sod edge must match smoothly.
+   66. Rolling
+   67. When soil and sod are moist, roll sod lightly as soon as possible after it is laid.
+   68. Delay rolling until just before the second watering.
+   69. Reroll sod as necessary prior to acceptance.
+   70. Assure finished areas of sod are such that positive drainage of storm and irrigation water will occur and ponding of water will be minimized.
+   71. FIELD QUALITY CONTROL
+   72. Inspection
+   73. Provide notice to Owner requesting inspection at least seven (7) days prior to anticipated date of completion.
+   74. Deficiencies
+   75. Owner will specify deficiencies to Contractor who shall make satisfactory adjustments and shall again notify Owner for final inspection.
+   76. Notification
+   77. Give notice requesting inspection by Owner at least seven (7) days prior to the anticipated date of completion.
+   78. All new sod must be alive and healthy in order to be considered complete.
+   79. If deficiencies exist, Owner shall specify such deficiencies to the Contractor who shall make satisfactory adjustments and will again notify the Owner for final inspection.
+   80. CLEANING
+   81. Remove debris and excess materials from site.
+   82. Clean out drainage inlet structures as required.
+   83. Clean paved and finished surfaces soiled as a result of work under this Section, in accordance with direction given by Owner.
+   84. Remove debris and excess materials from site.
+   85. Clean paved and finished areas soiled as a result of work under this Section, in accordance with direction given by Owner.
+   86. Clean out drainage inlet structures.
+   87. Remove mulch immediately from trees, shrubs and sod to prevent damage to same.
+   88. Remove pallets, unused sod, and other debris from site.
+   89. Clean paved and finished surfaces soiled as a result of work under this Section.
+   90. Clean out drainage inlet structures as required.
+   91. PROTECTION
+   92. Provide and install barriers as required and as directed by Owner to protect completed areas against damage from pedestrian and vehicular traffic until acceptance by Owner.
+   93. Contractor is not responsible for malicious destruction caused by others.
 
 

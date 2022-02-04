@@ -11,7 +11,7 @@ tags: ['Facility', 'Construction', 'Concrete', 'Mixing', 'Placing', 'Jointing', 
 
 1. SUMMARY
    1. Work under this section shall include:
-	1. Mixing, placing, jointing and curing of concrete construction.
+      1. Mixing, placing, jointing and curing of concrete construction.
 2. Related Specification Sections include:
 	1. Section 03 11 00, Formwork.
 	2. Section 03 20 00, Reinforcement.
@@ -20,7 +20,7 @@ tags: ['Facility', 'Construction', 'Concrete', 'Mixing', 'Placing', 'Jointing', 
 	5. Section 03 01 01, Concrete Testing.
 	6. Quality Assurance
 3. Work shall be per:
-	1. American Concrete Institute (ACI):
+	7. American Concrete Institute (ACI):
 		1. CT-13, Cement and Concrete Terminology.
 		2. 304R, Guide for Measuring, Mixing, Transporting and Placing Concrete.
 		3. 304.2R, Placing Concrete by Pumping Methods.
@@ -28,7 +28,7 @@ tags: ['Facility', 'Construction', 'Concrete', 'Mixing', 'Placing', 'Jointing', 
 		5. 306.1, Standard Specification for Cold Weather Concreting.
 		6. 308.1, Specification for Curing Concrete.
 		7. 309R, Guide for Consolidation of Concrete.
-	2. ASTM International (ASTM):
+	8. ASTM International (ASTM):
 		1. C94/C94M, Standard Specification for Ready-Mixed Concrete.
 		2. C156, Standard Test Method for Water Loss (from a Mortar Specimen) Through Liquid Membrane-Forming Curing Compounds for Concrete.
 		3. C171, Standard Specification for Sheet Materials for Curing Concrete.
@@ -36,17 +36,17 @@ tags: ['Facility', 'Construction', 'Concrete', 'Mixing', 'Placing', 'Jointing', 
 		5. D994, Standard Specification for Preformed Expansion Joint Filler for Concrete (Bituminous Type). 
 		6. D1056, Standard Specification for Flexible Cellular Materials-Sponge or Expanded Rubber.
 		7. D1751, Standard Specification for Preformed Expansion Joint Filler for Concrete Paving and Structural Construction (Nonextruding and Resilient Bituminous Types).
-	3. Corps of Engineers (COE):
+	9. Corps of Engineers (COE):
 		1. CRD-C572, Specifications for Polyvinylchloride Waterstop.
-	4. National Ready Mixed Concrete Association (NRMCA):
+	10. National Ready Mixed Concrete Association (NRMCA):
 		1. Checklist for Certification of Ready Mixed Concrete Production Facilities.
-	5. NSF International (NSF).
+	11. NSF International (NSF).
 4. Qualifications:
-	1. Ready mixed concrete batch plant shall be certified by NRMCA.
-	2. Waterstop manufacturer’s representative shall provide on-site training of waterstop installation, field splicing, welding and inspection procedures prior to construction, and at no additional cost. If waterstop installers have prior training, provide proof of training.
-	3. Submittals
+	12. Ready mixed concrete batch plant shall be certified by NRMCA.
+	13. Waterstop manufacturer’s representative shall provide on-site training of waterstop installation, field splicing, welding and inspection procedures prior to construction, and at no additional cost. If waterstop installers have prior training, provide proof of training.
+	14. Submittals
 5. Shop Drawings shall include:
-	1. Product technical data including: 
+	15. Product technical data including: 
 		1. Acknowledgement that products submitted meet requirements of the aforementioned standards.
 		2. Manufacturer’s installation instructions include procedure for adding high-range water reducer at the jobsite.
 		3. Scaled drawings showing proposed locations and types of construction joints. 
@@ -55,17 +55,17 @@ tags: ['Facility', 'Construction', 'Concrete', 'Mixing', 'Placing', 'Jointing', 
 			2. Curing agents.
 			3. Construction joint bonding adhesive.
 			4. Waterstops.
-	2. Certifications of the following:
+	16. Certifications of the following:
 		1. Ready mix concrete plant certification.
 		2. Waterstops:
 			1. Products shipped meet or exceed the physical properties specified.
 			2. Certificate of training from the waterstop manufacturer for the individuals performing field welds of waterstops.
 6. Information submittals:
-	1. Copies of concrete delivery tickets.
-	2. Description of proposed curing methods.
-	3. Delivery, Storage, and Handling
+	17. Copies of concrete delivery tickets.
+	18. Description of proposed curing methods.
+	19. Delivery, Storage, and Handling
 7. Delivery:
-	1. Concrete:
+	20. Concrete:
 		1. Prepare a delivery ticket for each load of ready mixed concrete.
 		2. Truck operator shall hand ticket to Contractor at the time of delivery.
 		3. Ticket to show:
@@ -78,9 +78,9 @@ tags: ['Facility', 'Construction', 'Concrete', 'Mixing', 'Placing', 'Jointing', 
 			7. Time of discharge.
 			8. Amount of water that may be added at the site without exceeding the specified water-cement ratio.
 			9. Amount of water added at the site.
-	2. Project Conditions
+	21. Project Conditions
 8. Adjust concrete mix design when material characteristics, job conditions, weather, strength test results or other circumstances warrant.
-	1. Revised concrete mix design must be approved by the Engineer.
+	22. Revised concrete mix design must be approved by the Engineer.
 ## Product
 
 1. Components

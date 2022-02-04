@@ -82,7 +82,7 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. All parts and labor for 12 months not exceeding 18 months from date of shipment.
 1. When warranties are required, verify with Owner's counsel that special warranties stated in this article are not less than remedies available to Owner under prevailing local laws.
 
-## PRODUCTS
+## Products
 
 1. MANUFACTURERS
    1. See Editing Instruction No. 1 in the Evaluations for cautions about naming manufacturers. Retain one of two paragraphs and list of manufacturers in this article. See Division 01 Section "Product Requirements."
@@ -256,7 +256,7 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Manufacturers:
       1. Trane, York Int. Corp., or McQuay.
 
-## EXECUTION
+## Execution
 
 1. EXAMINATION
    1. Examine areas to receive chillers for compliance with requirements for installation tolerances and other conditions affecting chiller performance. Proceed with installation only after unsatisfactory conditions have been corrected.

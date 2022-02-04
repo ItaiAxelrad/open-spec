@@ -23,7 +23,7 @@ tags: ['Facility', 'Services', 'Electrical', 'Hangers', 'Supports', 'Elec', 'Sys
 	1. Manufacturer Qualifications 
    1. Firms regularly engaged in the manufacture of supporting devices, of types, sizes, and ratings required, whose products have been in satisfactory use in similar service for not less than 3 years. 
 
-## PRODUCTS
+## Products
 
 1. MANUFACTURED SUPPORTING DEVICES
 	1. U-channel Strut Systems:
@@ -48,7 +48,7 @@ tags: ['Facility', 'Services', 'Electrical', 'Hangers', 'Supports', 'Elec', 'Sys
    1. Miscellaneous Devices and Hardware:
    1. Corrosion resistant. 
 
-## EXECUTION
+## Execution
 
 1. COORDINATION
    1. Coordinate size and location of concrete bases. Cast anchor-bolt inserts into bases. Concrete, reinforcement, and formwork requirements are specified in Division 3.

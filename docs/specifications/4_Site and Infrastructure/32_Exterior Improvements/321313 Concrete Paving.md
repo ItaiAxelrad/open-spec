@@ -147,48 +147,45 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Concrete', 'Paving
    1. Calcium Chloride:
       1. Use is prohibited.
    1. Use of admixtures will not relax cold weather placement requirements.
-   1. PORTLAND CEMENT CONCRETE FOR CURBS, GUTTERS AND WALKS:
-      1. MATERIALS AND MIXTURES
-
-## General
-
-ly retain first option in first subparagraph below unless concrete with lighter shades or brighter colors is required. See Evaluations.
-   1. Retain one or both of first two subparagraphs below if supplementary cementing materials are permitted. Generally delete both subparagraphs if using white portland cement. Ready-mix plants blend these materials with portland cement. Fly ash and slag may slow rate of concrete strengthening and affect color uniformity. Use of Type C or Type F fly ash may be determined by regional availability as well as by properties cited in ASTM C 618.
-   1. Retain subparagraph below if factory-blended hydraulic cement is permitted. Insert target percentage or range of slag or pozzolan as a suffix to Type IS or Type IP designations if required; insert special properties if required. See Evaluations. Verify availability of options before specifying. Slag or pozzolan in nonportland cement part of blended hydraulic cement may slow rate of concrete strengthening and affect color uniformity of integrally colored concrete.
-   1. Retain one of first three options in first paragraph below or revise to suit Project. ASTM C 33 limits deleterious substances in coarse aggregate depending on climate severity and in-service location of concrete. Classes 4S, 4M, and 1N apply to paving in Severe, Moderate, and Negligible weathering regions, respectively. Consider retaining last option below if damage caused by concrete expansion from alkali-silica or other chemical reactions is anticipated.
-   1. Provide Class B concrete materials containing 20% fly ash in accordance with CDOT Specification Section 601 – Structural Concrete. A minimum 28-day compressive strength of 3,500 psi shall be required unless otherwise noted in the plans and specifications.
-   1. Calcium Chloride:
+1. PORTLAND CEMENT CONCRETE FOR CURBS, GUTTERS AND WALKS:
+1. MATERIALS AND MIXTURES
+      2. Generally retain first option in first subparagraph below unless concrete with lighter shades or brighter colors is required. See Evaluations.
+   2. Retain one or both of first two subparagraphs below if supplementary cementing materials are permitted. Generally delete both subparagraphs if using white portland cement. Ready-mix plants blend these materials with portland cement. Fly ash and slag may slow rate of concrete strengthening and affect color uniformity. Use of Type C or Type F fly ash may be determined by regional availability as well as by properties cited in ASTM C 618.
+   3. Retain subparagraph below if factory-blended hydraulic cement is permitted. Insert target percentage or range of slag or pozzolan as a suffix to Type IS or Type IP designations if required; insert special properties if required. See Evaluations. Verify availability of options before specifying. Slag or pozzolan in nonportland cement part of blended hydraulic cement may slow rate of concrete strengthening and affect color uniformity of integrally colored concrete.
+   4. Retain one of first three options in first paragraph below or revise to suit Project. ASTM C 33 limits deleterious substances in coarse aggregate depending on climate severity and in-service location of concrete. Classes 4S, 4M, and 1N apply to paving in Severe, Moderate, and Negligible weathering regions, respectively. Consider retaining last option below if damage caused by concrete expansion from alkali-silica or other chemical reactions is anticipated.
+   5. Provide Class B concrete materials containing 20% fly ash in accordance with CDOT Specification Section 601 – Structural Concrete. A minimum 28-day compressive strength of 3,500 psi shall be required unless otherwise noted in the plans and specifications.
+   6. Calcium Chloride:
       1. Use is prohibited.
-   1. Use of admixtures will not relax cold weather placement requirements.
-   1. Fiber Mesh Reinforcement:
+   7. Use of admixtures will not relax cold weather placement requirements.
+   8. Fiber Mesh Reinforcement:
       1. 100% virgin polypropylene, fibrillated fibers containing no reprocessed olefin materials and specifically manufactured to an optimum gradation utilizing 25 individual fiber designs for use as concrete secondary reinforcement. Volume per cubic yard shall equal a minimum of 0.1% (1.5 pounds). Fiber manufacturer must document evidence of 5 year satisfactory performance history, compliance with applicable building codes and ASTM C1116 Type III 4.1.3 and ASTM C1116 Performance Level I. Fibrous concrete reinforcement shall be manufactured by Fibermesh Company, 4019 Industry Drive, Chattanooga, Tennessee, USA 37416 or approved equal.
-   1. Retain option for coarse-aggregate size in first subparagraph below; insert gradation requirements if preferred. PCA recommends maximum aggregate size of 3/4 inch (19 mm) in base slab if seeded exposed aggregate is paving finish.
-   1. Retain first paragraph below if seeded or monolithic exposed-aggregate paving finish is required.
-   1. CURING MATERIALS
-   1. Burlap Cloth made from Jute or Kenaf:
-      1. AASHTO M 182.
-   1. Liquid Membrane-Forming Compounds for Curing Concrete:
-      1. AASHTO M148.
-   1. Sheet Materials for Curing Concrete:
-      1. AASHTO M171.
-   1. Evaporation retarder in first paragraph below temporarily reduces moisture loss from concrete surfaces awaiting finishing in hot, dry, and windy conditions. Evaporation retarders are not curing compounds or chemical surface retarders used to delay concrete setting.
-   1. Retain paragraph below if a white, waterborne, membrane-forming curing compound is required. Retain if more reflectivity is required. Review product choices because some dissipate and others are abraded by traffic. Although the EPA permits VOC emissions of up to 350 g/L for this product category, verify that product meets curing compound VOC emission limits of authorities having jurisdiction.
-   1. RELATED MATERIALS
-   1. Joint Fillers:
-   1. Joint sealant with backer rod:
-      1. The backer rod placed prior to joint sealant shall be constructed of closed cell polyethylene strand as approved.
-   1. Bonding agent in first paragraph below may be used directly from container or as an admixture in cement or sand-cement slurry.
-   1. Bonding Agent:
-      1. ASTM C 1059, Type II, non-redispersible, acrylic emulsion or styrene butadiene.
-   1. Epoxy Bonding Adhesive:
-      1. ASTM C 881/C 881M, two-component epoxy resin capable of humid curing and bonding to damp surfaces; of class suitable for application temperature, of grade complying with requirements, and of the following types:
-      1. Retain one option in subparagraph below based on service loading.
-   1. Types I and II, non-load bearing or Types IV and V, load bearing, for bonding hardened or freshly mixed concrete to hardened concrete.
-   1. Retain first paragraph below for exposed-aggregate finish requiring surface retarder; this is not an evaporation retarder.
-   1. Chemical Surface Retarder:
-      1. Water-soluble, liquid, set retarder with color dye, for horizontal concrete surface application, capable of temporarily delaying final hardening of concrete to a depth of 1/8 to 1/4 inch.
-   1. Pigmented mineral dry-shake hardener in first paragraph below is nonmetallic and used because of its nonrusting characteristics for concrete that is frequently wet.
-   1. Insert product requirements here for permanent-marking tapes or thermoplastic paints if required. See Evaluations.
+   9.  Retain option for coarse-aggregate size in first subparagraph below; insert gradation requirements if preferred. PCA recommends maximum aggregate size of 3/4 inch (19 mm) in base slab if seeded exposed aggregate is paving finish.
+   10. Retain first paragraph below if seeded or monolithic exposed-aggregate paving finish is required.
+   11. CURING MATERIALS
+   12. Burlap Cloth made from Jute or Kenaf:
+      2. AASHTO M 182.
+   13. Liquid Membrane-Forming Compounds for Curing Concrete:
+      3. AASHTO M148.
+   14. Sheet Materials for Curing Concrete:
+      4. AASHTO M171.
+   15. Evaporation retarder in first paragraph below temporarily reduces moisture loss from concrete surfaces awaiting finishing in hot, dry, and windy conditions. Evaporation retarders are not curing compounds or chemical surface retarders used to delay concrete setting.
+   16. Retain paragraph below if a white, waterborne, membrane-forming curing compound is required. Retain if more reflectivity is required. Review product choices because some dissipate and others are abraded by traffic. Although the EPA permits VOC emissions of up to 350 g/L for this product category, verify that product meets curing compound VOC emission limits of authorities having jurisdiction.
+   17. RELATED MATERIALS
+   18. Joint Fillers:
+   19. Joint sealant with backer rod:
+      5. The backer rod placed prior to joint sealant shall be constructed of closed cell polyethylene strand as approved.
+   20. Bonding agent in first paragraph below may be used directly from container or as an admixture in cement or sand-cement slurry.
+   21. Bonding Agent:
+      6. ASTM C 1059, Type II, non-redispersible, acrylic emulsion or styrene butadiene.
+   22. Epoxy Bonding Adhesive:
+      7. ASTM C 881/C 881M, two-component epoxy resin capable of humid curing and bonding to damp surfaces; of class suitable for application temperature, of grade complying with requirements, and of the following types:
+      8. Retain one option in subparagraph below based on service loading.
+   23. Types I and II, non-load bearing or Types IV and V, load bearing, for bonding hardened or freshly mixed concrete to hardened concrete.
+   24. Retain first paragraph below for exposed-aggregate finish requiring surface retarder; this is not an evaporation retarder.
+   25. Chemical Surface Retarder:
+      9. Water-soluble, liquid, set retarder with color dye, for horizontal concrete surface application, capable of temporarily delaying final hardening of concrete to a depth of 1/8 to 1/4 inch.
+   26. Pigmented mineral dry-shake hardener in first paragraph below is nonmetallic and used because of its nonrusting characteristics for concrete that is frequently wet.
+   27. Insert product requirements here for permanent-marking tapes or thermoplastic paints if required. See Evaluations.
 
 ## Execution
 

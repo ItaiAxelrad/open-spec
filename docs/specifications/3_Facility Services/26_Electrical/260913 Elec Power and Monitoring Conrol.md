@@ -41,7 +41,7 @@ tags: ['Facility', 'Services', 'Electrical', 'Elec', 'Power', 'Monitoring', 'Con
    1. Replacement of all defective hardware and software furnished with this system under this contract for one year after date of acceptance.
 1. Retain one or both subparagraphs below. Retain first if work includes only local metering and monitoring, without connections to data transmission network. Retain both if monitoring and control are connected to a LAN.
 
-## PRODUCTS
+## Products
 
 1. LOCAL ELECTRONIC METERING UNIT
 	1. Main Distribution System (MDS) Metering
@@ -112,7 +112,7 @@ tags: ['Facility', 'Services', 'Electrical', 'Elec', 'Power', 'Monitoring', 'Con
       1. Electrical power demand (kilowatts), electrical power consumption (kilowatt-hours)power factor.
    1. ASHRAE 135 (BACnet) communication interface with the BAS shall enable the BAS operator to remotely monitor meter information from a BAS operator workstation. Control features and monitoring points displayed locally at metering panel shall be available through
 
-## PRODUCTS
+## Products
 
 1. INSTALLATION
 

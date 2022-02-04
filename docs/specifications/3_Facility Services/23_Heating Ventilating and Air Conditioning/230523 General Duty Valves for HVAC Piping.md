@@ -14,7 +14,7 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Drawings and general provisions of the Contract, including General and Supplementary Conditions and Division 1 Specification Sections, apply to this Section.
 1. Summary
 		1. This Section includes valves for chilled water, condenser water and heating hot water piping for HVAC systems.
-1. references
+1. References
 		1. American Petroleum Institute (API)
    1. Standard 600 - Steel Gate Valve - Flanged and Butt-Welding Ends, Bolted and Pressure Sealed Bonnets.
    1. Standard 607 - Fire Test for Soft-Seated Quarter-Turn Valves.
@@ -73,7 +73,7 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
 1. warranty
 		1. Follow procedures specified in Division 1.
 
-## PRODUCTS
+## Products
 
 1. General
 	1. Provide valves of manufacturers listed below and of the figure numbers listed, or as updated by the manufacturer. Submittals containing outdated figure numbers will be rejected. Manufacturers and numbers not listed are unacceptable. 
@@ -210,7 +210,7 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
 		8. Provide straightway flow diaphragm valves on closed circulating systems where required for flow regulation and isolation: Dia-Flo Straightway Valves as manufactured by ITT Industries, motor operated modulating type where indicated on the drawings.
 			1. Size valves for piping system where installed and adjust to control pressures shown. Select valve and diaphragm materials to operate at the piping system pressure ratings and the temperature range of the liquid in the piping system. In general valves for chilled water and heating water service shall be cast iron body with butyl rubber lining rated to minimum 125 psig and 200 deg. F.
 
-## EXECUTION
+## Execution
 
 1. VALVE EXAMINATION
 		1. Examine valve interior for cleanliness, freedom from foreign matter, and corrosion. Remove special packing materials, such as blocks, used to prevent disc movement during shipping and handling.

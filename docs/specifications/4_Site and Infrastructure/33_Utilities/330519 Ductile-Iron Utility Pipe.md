@@ -111,7 +111,6 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Ductile-Iron', 'Utility', 'Pipe']
    1. Tracer wire materials shall be in accordance with Section 15000 and selected from the Approved Materials List.
 1. WARNING/IDENTIFICATION TAPE
    1. Warning/Identification tape materials shall be in accordance with Section 15000 and selected from the Approved Materials List.
-1. 
 
 ## Execution
 

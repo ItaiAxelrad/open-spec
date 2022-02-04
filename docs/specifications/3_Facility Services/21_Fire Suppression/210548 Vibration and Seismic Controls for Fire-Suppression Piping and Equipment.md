@@ -80,7 +80,7 @@ tags: ['Facility', 'Services', 'Fire', 'Suppression', 'Vibration', 'Seismic', 'C
       1. For nonferrous piping, provide bronze hose covered with bronze wire braid with copper tube ends or bronze flanged ends, braze-welded to hose.
    1. For ferrous piping, provide stainless steel hose covered with stainless steel wire braid with NPT steel nipples or 150 psi ANSI flanges, welded to hose.
 
-## EXECUTION
+## Execution
 
 1. EXAMINATION
    1. Examine areas and conditions under which vibration control units are to be installed. Do not proceed with work until unsatisfactory conditions have been corrected in manner acceptable to Installer.

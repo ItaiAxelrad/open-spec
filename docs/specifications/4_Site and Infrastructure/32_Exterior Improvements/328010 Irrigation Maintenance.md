@@ -16,7 +16,7 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Irrigation', 'Main
    1. This section provides guidance on properly managing the application of supplemental water to the landscape areas. 
    1. The irrigation system shall use non-potable, Rain Bird brand components.
    1. The contractor is expected to enroll in the Rain Bird Maxi-Dollar rewards program and submit all invoices on the behalf of the Property Manager for all products used on this project. A ledger showing all purchased components shall be provided to the Property Management by October 15th of each year.
-   1. references
+   1. References
    1. See Green Industries of Colorado ([www.greenco.org](http://www.greenco.org)) Best Management Practices (BMP) for information on water budgeting and irrigation efficiency.
    1. PROJECT COMMUNICATION
    1. The Contractor shall have one person designated as the Contract Manager. That person shall be available for a meeting and/or walk through of the property, at least once each month, upon the request of the management or owner group.
@@ -42,7 +42,7 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Irrigation', 'Main
    1. The following procedure will be followed regarding emergency repairs. Emergency repair will be promptly acted on by the Contractor. The Contractor will react to mainline breaks immediately shutting down the system and/or closing gate valves to isolate the area. The Contractor must respond immediately to eliminate any threat of property damage or public safety. The Contractor may be liable for any damages and associated costs which result from a failure to respond to emergencies under the limits of this agreement. Immediately after isolating the issues, the Contractor will present the emergency repair and associated costs and estimates to the Owner’s Representative for a decision on the repair(s).
    1. Whenever possible do not shut down the irrigation pumps, meter, or backflows to isolate damaged areas – gate valves in the mainline should be the first course of corrective action always.
    
-## PRODUCTS
+## Products
 
    1. Refer to plans.
 

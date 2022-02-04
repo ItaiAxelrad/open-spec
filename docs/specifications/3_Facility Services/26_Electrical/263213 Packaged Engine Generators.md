@@ -256,7 +256,7 @@ tags: ['Facility', 'Services', 'Electrical', 'Packaged', 'Engine', 'Generators']
       1. One set each of lubricating oil, fuel, and combustion-air filters.
    1. ach of lubricating oil, fuel, and combustion-air filters.
 
-## PRODUCTS
+## Products
 
    1. MANUFACTURErS
    1. Caterpiller Company By Wagner Equipment Company
@@ -591,7 +591,7 @@ When the engine speed increases beyond normal cranking speed, the control system
    1. ACCESSORIES 
    1. All items are contained is Specification Section 2.04 Equipment. 
 
-## EXECUTION
+## Execution
 
 1. PREPARATION 
    1. Provide concrete pad for the Generator skid to be bolted onto.

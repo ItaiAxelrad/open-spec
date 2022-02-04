@@ -9,7 +9,6 @@ tags: ['Facility', 'Services', 'Plumbing', 'Sump', 'Pumps']
 
 
 1. SUMP PUMPS
-1. 
 ## General
 
 1. RELATED DOCUMENTS
@@ -67,7 +66,6 @@ For pumps and controls, to include in operation and maintenance manuals.
 1. Motor Sizes:
       1. Minimum size as indicated. If not indicated, large enough so driven load will not require motor to operate in service factor range above 1.0.
    1. Motors for submersible pumps shall be hermetically sealed.
-1. 
 
 ## Execution
 

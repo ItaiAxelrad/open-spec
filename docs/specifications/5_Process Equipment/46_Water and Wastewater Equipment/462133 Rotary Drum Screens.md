@@ -48,7 +48,7 @@ instructions.
    1. Project Record Documents:
       1. Record actual locations of rotary drum screens.
 7. QUALITY ASSURANCE
-   1. Perform Work according to industry and CDPHE standards.
+   1. Perform Work according to industry and State Department of Public Health and Environment standards.
    1. Maintain 1 copy of each standard affecting Work of this Section on Site.
 8. QUALIFICATIONS
    1. Manufacturer:
@@ -104,7 +104,6 @@ instructions.
    1. Provide shop inspection and testing of completed assembly. B. Certificate of Compliance:
       1. If manufacturer is approved by authorities having jurisdiction, submit certificate of compliance indicating Work performed at manufacturer's facility conforms to Contract Documents.
 2. Specified shop tests are not required for Work performed by approved manufacturer.
-1. 
 
 ## Execution
 

@@ -48,7 +48,7 @@ instructions.
    1. Tools:
       1. Furnish special wrenches and other devices required for Owner to maintain trash raking equipment.
 7. QUALITY ASSURANCE
-   1. Perform Work according to CDPHE and industry standards.
+   1. Perform Work according to State Department of Public Health and Environment and industry standards.
    1. Maintain one copy of each standard affecting the Work of this Section on-Site.
 8. QUALIFICATIONS
    1. Manufacturer:

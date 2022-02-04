@@ -27,7 +27,6 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Flexible', 'Paving
    1. Seal coat shall be a slow-setting emulsified asphalt, SS1 anionic emulsion per Table 203-3.2 (A) of the Standard Specifications for Public Works Construction.
 1. TACK COAT
    1. Tack coat shall conform to Section 302-5.4 of the Standard Specifications for Public Works Construction.
-1. 
 
 ## Execution
 

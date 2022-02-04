@@ -18,7 +18,7 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Stormwater', 'Culverts']
    1. Section 02720; Catch Basin Inlets
    1. Section 02601; Manholes
   
-## PRODUCTS
+## Products
 
    1. Corrugated Metal Pipe
    1. Corrugated Metal Pipe (CMP):

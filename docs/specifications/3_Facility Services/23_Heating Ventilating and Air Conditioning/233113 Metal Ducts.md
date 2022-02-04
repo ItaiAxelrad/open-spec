@@ -90,7 +90,7 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Deliver and store stainless steel sheets with mill-applied adhesive protective paper maintained through fabrication and installation.
 1. Retain one of first two paragraphs below if welding is required. If retaining, also retain "Welding certificates" Paragraph in "Submittals" Article. Retain first paragraph if only one AWS standard is applicable. Retain second paragraph if more than one AWS standard is referenced.
 
-## PRODUCTS
+## Products
 
 1. MATERIALS
 	1. Sheet Metal Materials
@@ -223,7 +223,7 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Pleated Elbows Sizes through 14 Inches and Pressures through 10 Inches:
       1. 26-gauge.
 
-## EXECUTION
+## Execution
 
 1. ERECTION INSTALLATION APPLICATION
    1. Duct Installation, General

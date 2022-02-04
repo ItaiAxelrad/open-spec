@@ -31,7 +31,7 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
 1. QUALITY ASSURANCE
    1. Comply with NFPA 70.
 
-## PRODUCTS
+## Products
 
 1. MANUFACTURERS
    1. Manufacturer's product must comply with specifications. Submittal does not assure engineering approval.
@@ -94,7 +94,7 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
 1. Motor characteristics such as NEMA designation, temperature rating, service factor, enclosure type, and efficiency are specified in Division 23 Section "Common Motor Requirements for HVAC Equipment." If different characteristics are required, add subparagraphs below to suit Project.
 1. See Editing Instruction No. 1 in the Evaluations for cautions about naming manufacturers and products. Retain one of first three paragraphs and list of manufacturers below. See Division 01 Section "Product Requirements."
 
-## EXECUTION
+## Execution
 
 1. ERECTION INSTALLATION APPLICATION
    1. Installation and connection of gas-fire heaters and associated fuel and vent features and systems installed and connected in accordance with NFPA 54, applicable local codes and regulations, and manufacturer's printed installation instructions.

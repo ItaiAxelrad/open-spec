@@ -56,7 +56,7 @@ tags: ['Facility', 'Services', 'Electrical', 'Low-Voltage', 'Transformers']
    1. Temporary Heating:
       1. Apply temporary heat according to manufacturer's written instructions within the enclosure of each ventilated-type unit, throughout periods during which equipment is not energized and when transformer is not in a space that is continuously under normal control of temperature and humidity.
 
-## PRODUCTS
+## Products
 
 1. Dry-Type Distribution Transformers (500 kVA And Below)
 	1. Manufacturers:
@@ -162,7 +162,7 @@ tags: ['Facility', 'Services', 'Electrical', 'Low-Voltage', 'Transformers']
    1. Conduct testing using three single-phase 120V nonlinear load banks with personal computer harmonic profile at 35 percent or more of transformer nameplate load level.
    1. Submit test results including transformer efficiency, change in voltage THD between transformer primary and secondary terminals, ratio of 3rd harmonic current in primary delta current profile compared to that in secondary phase current.
 
-## EXECUTION
+## Execution
 
 1. Installation
 	1. Dry-type Transformers:

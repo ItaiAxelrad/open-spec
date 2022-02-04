@@ -220,7 +220,6 @@ tags: ['Facility', 'Services', 'Electrical', 'TVSS', 'LV', 'Elec', 'Power', 'Cir
       1. 530
     1. L-L:
        1. 550
-1. 
 
 ## Execution
 

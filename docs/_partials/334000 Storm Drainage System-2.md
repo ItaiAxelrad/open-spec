@@ -7,9 +7,6 @@ subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Utilities', 'Storm', 'Drainage', 'System']
 ---
 
-
-1. STORM DRAINAGE UTILITIES
-1. 
 ## General
 
 1. REFERENCES
@@ -281,7 +278,6 @@ AASHTO M 306 (FS A-A-60005).
       1. Connectors shall be in accordance with ASTM C 923M (ASTM C 923) for joints between manhole and pipes.
 7. MANHOLE AND CATCH-BASIN ACCESS STEPS
 7..1 Access shall be in accordance with ASTM C 478M (ASTM C 478), using steps for manholes or catch basins at least four feet deep.
-1. 
 
 ## Execution
 

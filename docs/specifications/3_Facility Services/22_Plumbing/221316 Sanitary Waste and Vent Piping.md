@@ -72,7 +72,7 @@ tags: ['Facility', 'Services', 'Plumbing', 'Sanitary', 'Waste', 'Vent', 'Piping'
 1. warranty
    1. Follow procedures specified in Division 1 of the Specifications. 
 
-## PRODUCTS
+## Products
 
 1. Piping Materials - Underground
 
@@ -151,7 +151,7 @@ Up to NPS 4
 1. TRAPS
    1. Provide traps for each plumbing fixture, floor drain, and other equipment requiring connection to the sanitary sewer system. Place each trap as near to the fixture outlet as practical. Trap material and type of connections shall be compatible with the connecting drainage system and be suitable for the intended application.
 
-## EXECUTION
+## Execution
 
 1. UNDERGROUND PIPING INSTALLATION
    1. Trench Excavation

@@ -9,7 +9,6 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Steel', 'Utility', 'Pipe']
 
 
    1. CARBON STEEL PIPE AND FITTINGS
-1. 
 ## General
 
 01. DESCRIPTION
@@ -104,7 +103,6 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Steel', 'Utility', 'Pipe']
    1. By special permission from the City when the duration of shutdown is critical, outlets for connection to existing steel water pipelines may be made using fabricated steel nozzles. In such cases nozzle outlets shall be fabricated in accord with the applicable portions of the latest revision of the AWWA Manual M11, "Steel Pipe  A Guide for Design and Installation". In all cases, a full-wrap reinforcing plate shall be welded around the outside of the pipe section; and (on the nozzle-size) a circular annular reinforcing collar plate (with minimum ¼-inch thickness) shall be welded over the top of the steel wrapper pad, around the base of the nozzle opening. Refer to the IRWD Standard Drawings for welding and plate details.
 1. WARNING/IDENTIFICATION TAPE
    1. Warning/Identification tape materials shall be in accordance with Section 15000 and selected from the Approved Materials List.
-1. 
 
 ## Execution
 

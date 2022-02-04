@@ -522,7 +522,7 @@ DESIGNER NOTE: The designer should adjust infiltration rates to reflect project 
    1. Per Specifications
 1. PART 2
 
-## PRODUCTS
+## Products
 
 01.
    1. DESIGNER NOTE:
@@ -728,7 +728,7 @@ Plans and included herein:
       1. The designer should consider including specifications for signage and pavement markings in this section.
 1. PART 3
 
-## EXECUTION
+## Execution
 
 01.
    1. SUBGRADE PREPARATION AND PROTECTION

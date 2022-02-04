@@ -87,7 +87,7 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
 1. WARRANTY
    1. See Division 23 sections of the Specifications.
 
-## PRODUCTS
+## Products
 
 1. MANUFACTURED UNITS
    1. Centrifugal Fans - Type CF
@@ -246,7 +246,7 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Guards
    1. See Division 23 sections of the Specifications for requirements for V-belt drive guards.
 
-## EXECUTION
+## Execution
 
 1. ERECTION, INSTALLATION AND APPLICATION
    1. Install fans level and plumb.

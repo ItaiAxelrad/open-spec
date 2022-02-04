@@ -53,7 +53,7 @@ tags: ['Facility', 'Construction', 'Existing', 'Conditions', 'Structure', 'Demol
 
 ## Product
 
-(Not Used)]
+(Not Used)
 
 ## Execution
 

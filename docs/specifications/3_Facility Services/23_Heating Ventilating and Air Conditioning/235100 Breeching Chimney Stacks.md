@@ -68,7 +68,7 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
 1. WARRANTY
    1. See Division 23 of the Specifications.
 
-## PRODUCTS
+## Products
 
 1. MATERIALS
    1. Gas fired domestic water heater, direct gas fired and unit heater type B vents:
@@ -98,7 +98,7 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
       1. Provide guy wires of galvanized wire rope of regular lay, on fiber core. Provide drop-forged steel, galvanized rope sockets of the open or closed type. Provide forged steel, galvanized turnbuckles eye-end type.
    1. Select wire rope to withstand a stress resulting from a wind load of not less than 30 pounds per square foot of projected vertical surface of the guyed structure. Employ a safety factor of not less than three, relative to the ultimate strength of the rope material.
 
-## EXECUTION
+## Execution
 
 1. EXAMINATION
    1. Examine areas and conditions for compliance with requirements for installation tolerances and other conditions affecting performance of work.

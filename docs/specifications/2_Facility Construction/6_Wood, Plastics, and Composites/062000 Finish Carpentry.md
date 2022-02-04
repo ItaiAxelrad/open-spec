@@ -117,10 +117,12 @@ Class I of the U.S. Department of Commerce Commercial Standard CS236-66, hot pre
 12. Install floor-supported counters in proper location to true level and properly secure to walls and floors as approved. Cope cabinet and counter face frames to abutting walls and furring above and to adjacent casework.
 13. Sand all exposed surfaces to remove all marks and irregularities and proved smooth finish ready for painters' finish.
 14. Protect all cabinetwork against damage until final completion and acceptance of the building.
-15. PART 4 – SPECIAL PROVISIONS
+
+## SPECIAL PROVISIONS
+
 16. MEASUREMENT AND PAYMENT
    1. When listed in the Proposal, payment for work specified under this section and related sections will be made at the units and prices named in the Proposal and as outlined below, complete and acceptable to the Engineer.
-17. Payment for all work specified under this and related sections as required for the completion of the Laboratory/Office Building to be made at the lump sum price named in the Proposal for "Laboratory/Office Building, Complete."
-	5. Payment for all work specified under this and related sections as required for the completion of the Blower/Disinfection Building to be made at the lump sum price named in the Proposal for "Blower/Disinfection Building, Complete."
-	6. Framing and finish carpentry work required for other than the Laboratory/Office and Blower/Disinfection Buildings will be considered incidental work for which no separate payment will be made.
+    1. Payment for all work specified under this and related sections as required for the completion of the Laboratory/Office Building to be made at the lump sum price named in the Proposal for "Laboratory/Office Building, Complete."
+	1. Payment for all work specified under this and related sections as required for the completion of the Blower/Disinfection Building to be made at the lump sum price named in the Proposal for "Blower/Disinfection Building, Complete."
+	2. Framing and finish carpentry work required for other than the Laboratory/Office and Blower/Disinfection Buildings will be considered incidental work for which no separate payment will be made.
    1. Payment indicated to include complete compensation for all labor, equipment, materials and incidentals associated with the structure indicated unless otherwise specified in other sections contained herein. No additional compensation to be allowed.

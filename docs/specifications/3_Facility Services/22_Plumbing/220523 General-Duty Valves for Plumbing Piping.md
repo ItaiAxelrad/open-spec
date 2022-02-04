@@ -83,7 +83,7 @@ tags: ['Facility', 'Services', 'Plumbing', 'General-Duty', 'Valves', 'Piping']
 1. WARRANTY
    1. Follow procedures specified in Division 1 sections of the Specifications.
 
-## PRODUCTS
+## Products
 
 1. General
    1. Provide valves of manufacturers listed below and of the figure numbers listed, or as updated by the manufacturer. Submittals containing outdated figure numbers will be rejected. Manufacturers and numbers not listed are unacceptable. 
@@ -302,7 +302,7 @@ tags: ['Facility', 'Services', 'Plumbing', 'General-Duty', 'Valves', 'Piping']
    1. Manufacturers:
       1. ASCO “Red Hat Series 8221” or Honeywell “Skinner Model 7321 GBN”.
 
-## EXECUTION
+## Execution
 
 1. VALVE EXAMINATION
    1. Examine valve interior for cleanliness, freedom from foreign matter, and corrosion. Remove special packing materials, such as blocks, used to prevent disc movement during shipping and handling.

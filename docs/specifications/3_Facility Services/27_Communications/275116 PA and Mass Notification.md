@@ -14,7 +14,7 @@ tags: ['Facility', 'Services', 'Communications', 'PA', 'Mass', 'Notification']
    1. Drawings and general provisions of the Contract, including General and Supplementary Conditions and Division 1 Specification Sections, apply to this Section.
 1. SUMMARY
    1. This Section includes the requirements for a public address PA system and all related components.
-   1. DEFINITIONS
+1. DEFINITIONS
    1. Channels:
       1. Separate parallel signal paths, from sources to loudspeakers or loudspeaker zones, with separate amplification and switching that permit selection between paths for speaker alternative program signals.
    1. Zone:
@@ -23,7 +23,7 @@ tags: ['Facility', 'Services', 'Communications', 'PA', 'Mass', 'Notification']
       1. Definitions of terms and other electrical considerations as set forth in the:
       1. National Electrical Code
    1. National Fire Protection Association
-   1. SYSTEM DESCRIPTION
+1. SYSTEM DESCRIPTION
    1. Paging may be initiated to all speakers in the building, and integrated with the Owner site wide paging system. Pages shall be of the volume set on the amplifier. Local volume controls shall not affect paging.
 1. SUBMITTALS
    1. Furnish submittals which shall include but not be limited to the following:
@@ -70,11 +70,11 @@ tags: ['Facility', 'Services', 'Communications', 'PA', 'Mass', 'Notification']
    1. Provide one (1) year warranty on all components
    1. Provide one (1) year warranty on cable installation and cable connection to speakers.
    1. Warranty shall include all repair labor and parts and travel time.
-1. Retain definition(s) remaining after this Section has been edited.
+   2. Retain definition(s) remaining after this Section has been edited.
 
-## PRODUCTS
+## Products
 
-   1. Paging System
+1. Paging System
    1. Valcom Inc., 5614 Hollins Road, Roanoke, VA 24019
    1. Dukane Corporation, 2900 Dukane Drive, St. Charles, IL 60174
    1. Wire and Cable
@@ -124,7 +124,7 @@ tags: ['Facility', 'Services', 'Communications', 'PA', 'Mass', 'Notification']
    1. Solid state electronics
    1. Screw type terminals for all connections
    1. Telephone connections shall be standard telephone jack type connections.
-   1. COMPONENTS
+1. COMPONENTS
    1. Speakers, Grilles and Enclosures
    1. Speakers:
       1. All speakers shall be dual cone 8” diameter.
@@ -167,7 +167,7 @@ tags: ['Facility', 'Services', 'Communications', 'PA', 'Mass', 'Notification']
     1. Plenum rated cable, West Penn 25224B or equal.
 1. See Editing Instruction No. 1 in the Evaluations for cautions about naming manufacturers. Retain paragraph and list of manufacturers below. See Division 01 Section "Product Requirements."
 
-## EXECUTION
+## Execution
 
 1. INSTALLATION 
    1. Conduit Installation
@@ -237,15 +237,15 @@ tags: ['Facility', 'Services', 'Communications', 'PA', 'Mass', 'Notification']
    1. Ceiling tiles shall be cleaned or replaced as related to the installation of PA system components.
    1. As installation progresses in an area the floor area shall be swept clean using a vacuum sweeper.
    1. Provided portable trash bins to contain scrap, boxes, and other waste. Remove such waste from the Owner premises at the end of each day.
-   1. GROUNDING
+1. GROUNDING
    1. Ground cable shields and equipment to eliminate shock hazard and to minimize ground loops, common-mode returns, noise pickup, cross talk, and other impairments.
    1. Signal Ground Terminal:
       1. Locate at main equipment cabinet. Isolate from power system and equipment grounding.
    1. Install grounding electrodes as specified in related Division 26 Sections.
-   1. LABELING
+1. LABELING
    1. All cables shall be labeled indicating area served at each amplifier location.
    1. All terminal blocks shall be labeled with cable number
-   1. FIELD QUALITY CONTROL 
+1. FIELD QUALITY CONTROL 
    1. Testing Agency:
       1. Engage a qualified testing agency to perform tests and inspections.
    1. Manufacturer's Field Service:
@@ -282,16 +282,16 @@ tags: ['Facility', 'Services', 'Communications', 'PA', 'Mass', 'Notification']
       1. Zone Description, Physical Zone Number, Physical Zone Code, Input or Output, Zone Expansion module number.
    1. Zone Configuration Table shall consist of the following information:
       1. Description of Output Zone, Physical Zone Code, Type of Output, Page Enable.
-   1. STARTUP SERVICE
+1. STARTUP SERVICE
    1. Engage a factory-authorized service representative to perform startup service.
    1. Verify that electrical wiring installation complies with manufacturer's submittal and installation requirements.
    1. Complete installation and startup checks according to manufacturer's written instructions.
-   1. ADJUSTING
+1. ADJUSTING
    1. On-Site Assistance:
       1. Engage a factory-authorized service representative to provide on-site assistance in adjusting sound levels, resetting transformer taps, and adjusting controls to meet occupancy conditions.
    1. Occupancy Adjustments:
       1. When requested within 12 months of date of Substantial Completion, provide on-site assistance in adjusting system to suit actual occupied conditions. Provide up to two visits to Project during other-than-normal occupancy hours for this purpose.
-   1. DEMONSTRATION
+1. DEMONSTRATION
    1. Engage a factory-authorized service representative to train Owner's maintenance personnel to adjust, operate, and maintain the public address and mass notification systems and equipment.
    1. Wiring
    1. Before speaker wiring is connected to PA system amplifier a line impedance measurement shall be made and recorded.
@@ -306,4 +306,3 @@ tags: ['Facility', 'Services', 'Communications', 'PA', 'Mass', 'Notification']
    1. The Contractor shall supply personnel and all required auxiliary equipment for the public address system test.
    1. The Public Address system technical representative shall supply personnel to train Owner’s personnel in operation and maintenance of the system installed.
 1. Retain one of first two paragraphs below and coordinate with Drawings. Delete both if wiring methods for system are indicated on Drawings. Coordinate selection with "Raceways" Article.
-

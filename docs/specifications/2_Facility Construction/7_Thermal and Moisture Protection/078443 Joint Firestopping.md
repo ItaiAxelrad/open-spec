@@ -16,7 +16,7 @@ tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Joint',
    1. Head-of-wall joints.
    1. Wall-to-wall joints.
    1. Joints between perimeter edge of fire-resistance-rated floor assemblies and back of non-fire-resistance-rated, exterior, glazed aluminum curtain walls.
-   1. references
+   1. References
    1. International Conference of Building Officials (ICBO)
    1. Evaluation Service
    1. AC30 – Joint Systems.

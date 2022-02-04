@@ -101,7 +101,7 @@ tags: ['Facility', 'Services', 'Electrical', 'Common', 'Work', 'Results']
    1. Provide wiring diagrams, instruction books, installation books, and service manuals to the Owner. Clearly identify each item as to which product it applies and the equipment location. 
    1. Provide special tools as specified and required for equipment maintenance to the Owner. Clearly identify each item as to which piece of equipment it applies and the equipment location. 
 
-## PRODUCTS
+## Products
 
 1. Manufacturers*	1. General:
       1. Furnish products by one of the equipment manufacturers listed under the heading "Manufacturers" within the applicable sections. When given, furnish the specified product model or brand for the selected manufacturer. 
@@ -123,7 +123,7 @@ tags: ['Facility', 'Services', 'Electrical', 'Common', 'Work', 'Results']
       1. Permit Architect (and Owner) to observe factory tests. Provide minimum five working days notice of factory tests. 
    1. Schedule no more than one equipment or system factory test per week. 
 
-## EXECUTION
+## Execution
 
 1. COORDINATION
    1. Coordinate arrangement, mounting, and support of electrical equipment:

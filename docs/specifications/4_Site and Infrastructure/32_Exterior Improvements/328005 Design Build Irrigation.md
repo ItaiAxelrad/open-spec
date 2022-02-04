@@ -117,19 +117,12 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Design', 'Build', 
 
 ## Products
 
-
-	1. MATERIALS:
-
-## General
-
- Information
+1. MATERIALS:
+1. General Information
    1. Substitution of any product, material, or equipment without prior written approval of the Owner’s Representative will not be permitted. 
    1. Contractor shall be responsible for performance of substitutes to be equal to the original design in every respect.
    1. If substitutions are unsatisfactory in the opinion of the Owner’s Representative, remove substituted work and replace with the originally specified equipment.
-
-## General
-
- Piping:
+1. General Piping:
       1. Pressure Supply Line (from point of connection through backflow prevention unit) - Type "L" Hard Copper.
    1. Pressure Supply Lines (downstream of backflow prevention units) - Class 200 PVC BE (1" - 2 ½") and Class 160 PVC RT (3" and larger).
    1. Non-pressure lines - Class 200 PVC BE
@@ -273,9 +266,7 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Design', 'Build', 
    1. Main line piping greater than 4”
    1. Install with rubber gaskets, steel fittings, and concrete thrust blocks at each change of direction and terminal points. Provide thrust blocks in accordance with pipe manufacturer’s instructions.
    1. Drip tubing and emitters
-
-## General
-
+1. General
    1. Provide six 1 gallon per hour emission points for trees with a caliper greater than 2” in diameter, four 1 gallon per hour emission points for trees with a caliper less than 2” in diameter, two ½ gallon per hour points for each shrub, and one ½ gallon per hour emission point for smaller plants.
    1. Do not install drip tubing until 5 gallon and larger plant materials are placed and finish grade is established.
    1. Drip lines shall be buried with soil. Depth of bury indicates amount of coverage by backfill, as measured below the weed fabric.

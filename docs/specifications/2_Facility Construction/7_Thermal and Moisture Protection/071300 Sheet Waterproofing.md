@@ -24,7 +24,7 @@ tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Sheet',
 4. DELIVERY, STORAGE, AND PROTECTION
    1. Comply with pertinent provisions of Section 016000.
 
-## PRODUCTS
+## Products
 
 1. MATERIALS
     1. Membrane Waterproofing
@@ -34,7 +34,7 @@ tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Sheet',
     5. Other Materials
     6. Provide other materials, not specifically described but required for a complete and proper installation, as selected by the Contractor subject to the approval of the Owner.
 
-## EXECUTION
+## Execution
 
 1. EXAMINATION
     1. Examine the areas and conditions under which work of this Section will be performed.

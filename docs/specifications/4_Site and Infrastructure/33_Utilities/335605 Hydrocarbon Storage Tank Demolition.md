@@ -29,10 +29,10 @@ Barricades and Warning Devices
 Controlled Backfill
    1. Owner Furnished Materials  
 Items for Storage/Reuse
-    1. Part III - **Execution
 
-## General
+## Execution
 
+1. General
    1. Protection of Tank Site  
 Utility Lines  
 Site Demolition  
@@ -145,10 +145,9 @@ Madison, WI 53707
 1. *(Note to the Designer:
       1. Include a listing of items known to require storage and/ or reuse.)*
 
-## EXECUTI0N
+## Execution
 
-## General
-
+1. General
 1. *(Note to the Designer:
       1. Discuss the interruption of any traffic or deliveries with the occupants of nearby buildings to determine how interruptions can best be made with minimum disruption. If work is required outside of regular work hours, this must be indicated in the specifications and/or working drawings. Add specifics regarding locations, hours, lengths of disruption, etc.)*
 1. *(Add provisions, if needed, for security requirements for work performed at a correctional institution)*

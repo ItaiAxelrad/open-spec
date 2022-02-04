@@ -9,10 +9,8 @@ tags: ['Facility', 'Construction', 'Finishes', 'Petrolatum', 'Wax', 'Tape', 'Coa
 
 
 1. PETROLATUM WAX TAPE COATING
-1. 
 ## General
 
-1. 
 01. SCOPE
 	1. This section covers the work necessary to furnish and install petrolatum wax tape coating on buried ferrous materials including pipe flanges, bolted fittings and couplings, valves and other buried pipeline appurtenances, complete, as shown or specified. 
 02. SUBMITTALS DURING CONSTRUCTION
@@ -55,7 +53,6 @@ tags: ['Facility', 'Construction', 'Finishes', 'Petrolatum', 'Wax', 'Tape', 'Coa
    1. The outer covering shall be Trenton Poly-Ply or approved equal. 
 1. OTHER PETROLATUM WAX TAPE SYSTEM COMPONENTS
 	1. Any components not listed above, but required for a complete petrolatum wax tape coating system as recommended for this application by the manufacturer shall be provided at no additional cost to Owner. 
-1. 
 
 ## Execution
 

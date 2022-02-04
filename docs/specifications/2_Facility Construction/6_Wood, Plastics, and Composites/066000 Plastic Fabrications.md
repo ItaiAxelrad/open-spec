@@ -9,9 +9,9 @@ tags: ['Facility', 'Construction', 'Wood', 'Plastics', 'Composites', 'Plastic', 
 
 ## General
 
-1. summary
+1. Summary
    1. Refer to Section 018113 – Sustainable Design Requirements; 018113A – Appendix A - Materials Anticipated to be Used for Recycled Content; and 018113B – LEED Matrix for materials requiring contractor validation of recycled content.
-1. references
+1. References
    1. American Society for Testing and Materials (ASTM)
    1. E84 - Test Method for Surface Burning Characteristics of Building Materials.
    1. delivery, storage and handling
@@ -28,7 +28,7 @@ tags: ['Facility', 'Construction', 'Wood', 'Plastics', 'Composites', 'Plastic', 
 
 ## Products
 
-   1. plastic stools and vanity tops
+1. plastic stools and vanity tops
    2. Materials
    3. Plastic material:
       1. DuPont Co. “Corian” Avonite, Inc. “Avonite”, or as approved, non-porous homogenous of polyester or acrylic polymers and mineral fillers, in color and pattern selected by the Architect form manufacturer’s standard range and having a maximum fire hazard classification of 25 for flame spread and 60 for smoke developed, when tested in accordance with ASTM E84.
@@ -43,8 +43,8 @@ tags: ['Facility', 'Construction', 'Wood', 'Plastics', 'Composites', 'Plastic', 
 
 ## Execution
 
-   1. Install the Work in accordance with approved Shop Drawings and manufacturer's instruction.
-   2. installation
+1. installation
+   2. Install the Work in accordance with approved Shop Drawings and manufacturer's instruction.
    3. Plastic Stool and Vanity Tops
    4. Install plastic stools with adhesive and plastic vanity tops with adhesive and corrosion-resistant clips.
    5. Provide 1/32-inch expansion joints at 8-foot spacing.

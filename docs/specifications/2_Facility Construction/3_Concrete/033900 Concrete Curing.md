@@ -26,7 +26,7 @@ tags: ['Facility', 'Construction', 'Concrete', 'Curing']
 1. SAMPLES
    1. Construct and deliver to the Owner’s Representative 1’-0” x 1’-0” concrete samples with specified finish as required to allow the review and acceptance of concrete finish by the Owner’s Representative prior to the building of the 8’-0” x 8’-0” mock-up as described in Section 01450. The materials and methods used to produce the finish will be indicated.
 
-## PRODUCTS
+## Products
 
 2. MATERIALS
    1. Use materials and methods for project work as used to produce sample finishes acceptable to Architect.
@@ -47,7 +47,7 @@ tags: ['Facility', 'Construction', 'Concrete', 'Curing']
       1. Penetrating Sealer:
          1. Key Acrylic Sealer by Key Resin Company or equal.
 
-## EXECUTION
+## Execution
 
 2. CONCRETE MIXING
    3. Concrete mixing, placing, consolidation and curing shall be as specified in Section 033000 Cast-In-Place Concrete except as modified in this Section.

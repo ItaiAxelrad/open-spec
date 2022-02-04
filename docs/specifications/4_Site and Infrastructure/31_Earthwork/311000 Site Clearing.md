@@ -7,7 +7,6 @@ subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Earthwork', 'Clearing']
 ---
 
-
 ## General
 
 1. SUMMARY
@@ -17,7 +16,7 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Clearing']
    1. Section 312000 – Earth Moving
    1. Comply with
    1. Provisions of the Owner Particulate Emissions Control Plan and the Owner Storm Water Pollution Prevention Plan.
-   1. REFERENCES
+1. REFERENCES
    1. AASHTO Standards:
       1. T99 - The Moisture-Density Relations of Soils Using a 5.5-Pound (2.5-kg) Rammer and a 12-Inch (305-mm) Drop.
    1. T104 - Soundness of Aggregate by Use of Sodium Sulfate or Magnesium Sulfate.
@@ -29,26 +28,22 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Clearing']
    1. D4254 - Minimum Index Density of Soils and Calculation of Relative Density.
 1. SUBMITTALS
    1. Submit site specific Erosion and Sediment and Control plan in accordance with the Owner Storm Water Pollution Prevention Plan.
-   1. QUALITY CONTROL
+1. QUALITY CONTROL
    1. Requirements of Regulatory Agencies
    1. Soil erosion and sedimentation control permit as may be required by the State of Colorado will be obtained by the Owner. Contractor must have a copy of the permit on site and comply with all requirements.
    1. Obtain a soil erosion and sedimentation control permit as may be required and pay all associated fees.
    1. Reference Specifications
    1. Colorado Water Quality Control Act, sections 25-8-501 through 505, C.R.S. as amended.
-   1. DEFINITIONS
+1. DEFINITIONS
    1. Topsoil:
       1. Loose friable loam reasonably free of admixture of subsoil, refuse, stumps, soil sterilants, rocks, brush, weeds, all material 2" in diameter and larger and detrimental to proper development of vegetative growth.
-   1. MATERIALS
-
-## General
-
-   1. Provide materials as indicated on the Drawings, in compliance with Soil Erosion and Sedimentation Control, subject to approval and modification by the Architect and the local enforcing agency.
+1. MATERIALS
+   1. General
+      1. Provide materials as indicated on the Drawings, in compliance with Soil Erosion and Sedimentation Control, subject to approval and modification by the Architect and the local enforcing agency.
 
 ## Execution
 
-
-## General
-
+1. General
    1. Comply with all requirements of the Colorado Water Quality Control Act. Minimum requirements are detailed in the Contract Documents. It is noted that the basic purpose of the referenced Act is to ensure that "Sediment caused by accelerated soil erosion...be removed from runoff water before it leaves the site of the earth change.". Where the following unanticipated events result in the need for additional or modified soil erosion and sedimentation control installations to meet the objective of the referenced Act, provide such installation on a timely basis:
       1. Unanticipated alterations to the Contract schedule when not dictated by the Owner.
    1. Unanticipated weather conditions, except unusual natural occurrences such as tornado, 50-year storm or fire.

@@ -39,7 +39,7 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Underground', 'Utility', 'Marking
    1. Coordination
    1. Contractor to coordinate installation of marker balls with utility trenching and installation activities.
 
-## PRODUCTS
+## Products
 
 1. MANUFACTURERS
    1. 3M Dynatel. No substitution allowed.
@@ -49,22 +49,16 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Underground', 'Utility', 'Marking
    1. Telephone/Communication – Orange, 1421-XR/ID
    1. Sanitary Sewer – Green, 1424-XR/ID
    1. Water – Blue, 1423-XR/ID
+   2. General – Fuscia, 1428-XR/ID
+   3. Intermediate marker balls shall be – 3M Non RFID Marker Series 1400-XR
+   4. Gas – Yellow, 1405-XR
+   5. Power – Red, 1402-XR
+   6. Telephone/Communication – Orange, 1401-XR
+   7. Sanitary Sewer – Green, 1404-XR
+   8. Water – Blue, 1403-XR
+   9. General – Fuscia, 1408-XR 
 
-## General
-
- – Fuscia, 1428-XR/ID
-   1. Intermediate marker balls shall be – 3M Non RFID Marker Series 1400-XR
-   1. Gas – Yellow, 1405-XR
-   1. Power – Red, 1402-XR
-   1. Telephone/Communication – Orange, 1401-XR
-   1. Sanitary Sewer – Green, 1404-XR
-   1. Water – Blue, 1403-XR
-
-## General
-
- – Fuscia, 1408-XR 
-
-## EXECUTION
+## Execution
 
 1. ERECTION, INSTALLATION AND APPLICATION
    1. Tracer wire is required on Gas, Telephone/Communication (telecom), Water, and Sanitary Sewer.

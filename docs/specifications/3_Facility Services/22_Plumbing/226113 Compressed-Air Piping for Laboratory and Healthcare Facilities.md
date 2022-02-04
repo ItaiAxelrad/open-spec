@@ -15,7 +15,7 @@ tags: ['Facility', 'Services', 'Plumbing', 'Compressed-Air', 'Piping', 'Laborato
 1. SUMMARY
    1. See other sections of Division 22 and the Drawings to determine the extent of the required Work. 
    1. This Section includes compressed-air piping and specialties for nonmedical laboratory facilities, designated "laboratory air," operating between 50 psig (345 kPa) and 125 psig (860 kPa).
-1. references
+1. References
    1. American Society of Mechanical Engineers (ASME):
       1. B1.20.1 - Pipe Threads, General Purpose (Inch).
    1. B16.3 - Malleable Iron Threaded Fittings.
@@ -96,7 +96,7 @@ tags: ['Facility', 'Services', 'Plumbing', 'Compressed-Air', 'Piping', 'Laborato
    1. Pressure Regulators:
       1. Bronze body and trim; spring-loaded, diaphragm-operated, relieving type; manual pressure-setting adjustment; rated for 250 psig minimum inlet pressure; and capable of controlling delivered air pressure within 0.5 psig for each 10 psig inlet pressure. Matheson Model 18 Series or equal.
 
-## EXECUTION
+## Execution
 
 1. INSTALLATION
 	1. General:

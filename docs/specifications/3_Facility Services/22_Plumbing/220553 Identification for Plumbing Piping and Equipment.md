@@ -37,7 +37,7 @@ tags: ['Facility', 'Services', 'Plumbing', 'Identification', 'Piping', 'Equipmen
 1. WARRANTY
    1. Refer to requirements in Division 22 sections of the Specifications.
 
-## PRODUCTS
+## Products
 
 1. PIPING MARKERS
    1. Provide pipe markers consisting of pipe contents identification name with flow direction arrows. 
@@ -62,7 +62,7 @@ tags: ['Facility', 'Services', 'Plumbing', 'Identification', 'Piping', 'Equipmen
 	1. Identify all equipment installed under this Division with 2-inch-high Gothic vinyl film black letters or numbers with permanent adhesive and conforming to the equipment designation identification shown on the Drawings:
       1. Brady Worldwide, Inc. “B-933” or approved product of Seton Identification Products or Marking Services, Inc.
 
-## EXECUTION
+## Execution
 
 1. INSTALLATION OF PIPE MARKERS
 	1. Identify the content and directional flow of all piping on the Project with the specified pipe markers. 

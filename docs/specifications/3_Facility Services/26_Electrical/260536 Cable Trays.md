@@ -56,7 +56,7 @@ tags: ['Facility', 'Services', 'Electrical', 'CableTrays']
    1. Radius cable roller. 
    1. Products 
 
-## PRODUCTS
+## Products
 
 1. CABLE TRAY SYSTEM COMPONENTS
 	1. Manufacturers 

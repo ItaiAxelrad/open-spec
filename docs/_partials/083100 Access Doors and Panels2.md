@@ -16,7 +16,7 @@ tags: ['Facility', 'Construction', 'Openings', 'Access', 'Doors', 'Panels']
    1. Fire-rated wall access doors and frames.
    1. Ceiling access doors and frames.
    1. Fire-rated ceiling access doors and frames.
-   1. references
+   1. References
    1. American Society for Testing and Materials (ASTM)
    1. A36/A36M - Specification for Carbon Structural Steel.
    1. A276 - Specification for Stainless Steel Bars and Shapes.

@@ -204,7 +204,7 @@ A panel will be considered raveled if aggregate is dislodged from a contiguous a
 3. Required Inspections:
       1. Notify the Engineer at least 48 hours prior to required inspections specified in Sections 3.01, 3.02, and 3.03.B.
 
-## PRODUCTS
+## Products
 
    1. DESIGNER NOTE:
       1. Designers should maximize the use of regionally available materials.
@@ -558,7 +558,7 @@ Plans and included herein:
       1. The designer should consider including specifications for signage and pavement markings in this section.
 1. PART 3
 
-## EXECUTION
+## Execution
 
 01.
    1. SUBGRADE PREPARATION AND PROTECTION

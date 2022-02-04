@@ -35,7 +35,7 @@ tags: ['General', 'Requirements', 'Traffic', 'Control']
 02. Barricades
     1. Minimum 8' wide on movable skids.
    
-## EXECUTION
+## Execution
 
 4.  Maintaining Traffic
     1. Unless specified elsewhere in this contract, the Contractor shall keep the existing road open and in acceptable condition while improvements are being made. The Contractor will be required to arrange his work so that only one side of the existing roadbed will be denied to traffic at any time. However, every effort shall be made to maintain two-way traffic as much as possible. One-way traffic will be allowed for a maximum of six hours if notice is given to the City and the Engineer at least one day prior to beginning one-way traffic. The Contractor shall also provide and maintain in a safe condition temporary approaches or crossings and intersections with trails, roads, streets, businesses, parking lots, residences and garages. The Contractor shall bear all expense of maintaining traffic over the section of road undergoing improvement, and of constructing and maintaining such approaches, crossings, intersections, and other features as may be necessary without direct compensation.

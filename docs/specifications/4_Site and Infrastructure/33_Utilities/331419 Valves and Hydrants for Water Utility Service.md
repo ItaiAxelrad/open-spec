@@ -9,7 +9,6 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Valves', 'Hydrants', 'Water', 'Ut
 
 
 1. FIRE HYDRANTS
-1. 
 ## General
 
 01. DESCRIPTION
@@ -57,7 +56,6 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Valves', 'Hydrants', 'Water', 'Ut
    1. Warning/Identification tape materials shall be in accordance with Section 15000 and the Approved Materials List, or approved equal.
 1. FIELD PAINTING AND COATING
    1. Field painting and coating materials shall be in accordance with Section 09910 in accordance with the Approved Materials List, or approved equal.
-1. 
 
 ## Execution
 

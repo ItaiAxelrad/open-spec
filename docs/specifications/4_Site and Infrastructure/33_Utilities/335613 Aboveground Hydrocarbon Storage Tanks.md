@@ -33,14 +33,11 @@ Shop Drawings
     
 ## Products
 
-
-## General
-
-
+1. General
 State-Furnished Materials
    1. Aboveground Tanks
-   1. Foundation Slab
-   1. Dispensers and Pumps  
+   2. Foundation Slab
+   3. Dispensers and Pumps  
 Piping and Fittings  
 Leak Monitoring System
    1. Automatic Tank Gauging System
@@ -49,13 +46,9 @@ Leak Monitoring System
    1. Emergency Equipment
    1. Collision Protection  
 
-
 ## Execution
 
-
-## General
-
-
+1. General
 Barricades and Warning Devices
    1. Site Demolition
    1. Installation
@@ -118,12 +111,11 @@ Site Restoration
 1. RECORD DRAWINGS
    1. Refer to Section GR - General Requirements.
    1. Maintain record drawings of all aboveground tank installations, piping and dispenser connections, electrical power and instrumentation routing, and other points of connection made as part of this project and for future connections on original drawings prepared by the installing Contractor/subcontractor. Include copies of record drawings with the Operating and Maintenance instructions.
-1. P A R T II - M A T E R I A L S
+
+## Products
 1. *(Note to the designer:
       1. bold text usually indicates an opportunity for the designer to choose between two or more specifications.)*
-
-## General
-
+1. General
    1. Conform all materials to the size and type shown on the plans or as called for in the specifications and to applicable Laws, Codes, and Ordinances.
    1. All products and materials are to be new, undamaged, clean, and in good condition. Existing products and materials are not to be reused unless specifically indicated.
    1. Be responsible for the safe storage and handling of all materials utilized in the work -- including any materials furnished by the owner. Store all materials in areas designated by the Construction Representative in cooperation with the user agency. Store and/or handle materials so as to not adversely affect traffic, drainage, fire protection, or public safety. Inconveniences to the general public from the storage and handling of materials shall be kept to a minimum.
@@ -193,14 +185,12 @@ The dimensions of the tank shall not exceed ***(specify maximum)*** inches diame
    1. The tanks shall be surrounded by collision protection devices on the sides which are exposed to vehicular traffic. Collision protection shall be provided through the use of precast concrete barriers. Construction and placement of the precast concrete barriers must meet all specifications as detailed herein and as shown on the drawings. Final configuration of collision protection shall be subject to plan review by the local tank inspector and or Wisconsin Department of Commerce.
    1. Precast concrete barriers shall:
     1. (a.) extend a minimum of 36 inches above finished grade;
+    2. (b.) be set into the concrete slab a minimum of 36 inches; and
+    3. (c.) shall be spaced at intervals as shown on the drawings.
 
- (b.) be set into the concrete slab a minimum of 36 inches; and
+## Execution
 
- (c.) shall be spaced at intervals as shown on the drawings.
-1. P A R T III - E X E C U T I O N
-
-## General
-
+1. General
    1. The tank system including appurtenances shall be installed in strict accordance with the manufacturer’s recommendations and applicable fire and environmental codes. State and local permits shall be obtained prior to installation.
    1. Tanks and systems shall be installed by certified installers in accordance with COM 10.91.
 1. BARRICADES AND WARNING DEVICES

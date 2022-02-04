@@ -9,7 +9,6 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Erosion', 'Sedimentation', 'Contr
 
 
 1. EROSION CONTROL
-1. 
 ## General
 
 1. REFERENCES
@@ -414,7 +413,6 @@ Parameter Range
 3. The average absorption of block samples shall be not greater than 7 percent, with no individual sample greater than 8 percent, in accordance with ASTM C 140.
 11. WATER
    1. Unless otherwise directed, water shall be the responsibility of the Contractor. Water shall be greywater, potable or supplied by an existing irrigation system.
-1. 
 
 ## Execution
 

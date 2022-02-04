@@ -10,7 +10,7 @@ tags: ['Facility', 'Construction', 'Wood', 'Plastics', 'Composites', 'Rough', 'C
 ## General
 
 1. Summary
-   1. Work shall include rough carpentry.
+  1. Work shall include rough carpentry.
 2. Related specifications include:
 	1. Section 05 50 00 Metal Fabrications
 	2. Quality Assurance
@@ -40,26 +40,28 @@ tags: ['Facility', 'Construction', 'Wood', 'Plastics', 'Composites', 'Rough', 'C
 		1. International Code Council (ICC):
 			1. International Building Code and associated standards, 2015 Edition including all amendments, referred to herein as Building Code.
 4. Qualifications:
-	10. Wood Treatment Plant: AWPA M3
-	11. Treated Wood Inspection: AWPA M2.
+	1. Wood Treatment Plant: AWPA M3
+	2. Treated Wood Inspection: AWPA M2.
 5. Miscellaneous:
-	12. Factory marking:
+	1. Factory marking:
 		1. Lumber:
 			1. Identify type, grade, moisture content, inspection service, producing mill, and other qualities specified.
 			2. Marking may be omitted, as allowed by Building Code, if certificate of inspection is provided for each shipment.
-	13. Submittals
+	2. Submittals
 6. Shop drawings shall include:
-	14. Fabrication or layout drawings. 
-	15. Product technical data including acknowledgement that products meet the aforementioned references, manufacturer’s installation instructions, and chemical resistance data.
+	1. Fabrication or layout drawings. 
+	2. Product technical data including acknowledgement that products meet the aforementioned references, manufacturer’s installation instructions, and chemical resistance data.
 7. Certifications of the following:
-	16. Chemicals used in treatment process, registered with and approved by the EPA.
-	17. Moisture content of material prior to treatment.
-	18. Material has been kiln-dried after treatment (KDAT) to the specified moisture content.
+	1. Chemicals used in treatment process, registered with and approved by the EPA.
+	2. Moisture content of material prior to treatment.
+	3. Material has been kiln-dried after treatment (KDAT) to the specified moisture content.
 8. Documentation of treated material in accordance with the aforementioned standards. 
-	19. Delivery and Storage
+	1. Delivery and Storage
 9. Delivery, storage and handling of untreated wood products:
-	20. Plywood: APA U450E.
-10. Delivery, storage, handling and disposal of treated wood products: AWPA M4.
+	1. Plywood: APA U450E.
+10. Delivery, storage, handling and disposal of treated wood products:
+    1.  AWPA M4.
+
 ## Product
 
 1. Materials
@@ -77,7 +79,8 @@ tags: ['Facility', 'Construction', 'Wood', 'Plastics', 'Composites', 'Rough', 'C
 			3. Lumber: 19 percent maximum.
 			4. Plywood: 18 percent maximum.
 		2. Preservative:
-			1. Waterborne: AWPA P5.
+			1. Waterborne:
+   			1. AWPA P5.
 		3. Pressure-treat material in accordance with AWPA U1.
 	3. Fasteners and Anchors see Section 05 50 00 on Metal Fabrications.
 

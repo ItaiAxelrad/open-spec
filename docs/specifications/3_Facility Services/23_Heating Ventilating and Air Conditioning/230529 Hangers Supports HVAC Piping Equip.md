@@ -43,7 +43,7 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Regulatory Requirements:
       1. Comply with applicable plumbing codes pertaining to product materials and installation of supports and anchors.
 
-## PRODUCTS
+## Products
 
 1. MANUFACTURERS
    1. Subject to compliance with requirements, provide hangers and supports from one of the following:
@@ -67,7 +67,7 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Thermal Hanger Shield Inserts:
       1. 100 psi average compressive strength, waterproofed calcium silicate, and encased with a sheet metal shield. Insert and shield shall cover entire circumference of the pipe and shall be of length indicated by manufacturer for pipe size and thickness of insulation.
 
-## EXECUTION
+## Execution
 
 1. EXAMINATION
    1. Examine substrates and conditions under which supports and anchors are to be installed. Do not proceed with installation until unsatisfactory conditions have been corrected.

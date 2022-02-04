@@ -10,7 +10,7 @@ tags: ['Facility', 'Services', 'Plumbing', 'Sanitary', 'Sewers']
 
 ## General
 
-   1. summary
+   1. Summary
    1. This Section provides for the site sewerage system from a point immediately outside of the building to the point of disposal and includes:
       1. Sanitary sewer
    1. Related appurtenances.
@@ -125,7 +125,7 @@ tags: ['Facility', 'Services', 'Plumbing', 'Sanitary', 'Sewers']
    1. Utility Compliance
    1. Comply with local utility regulations and standards pertaining to sewerage.
    
-## PRODUCTS
+## Products
 
    1. pipe and fittings
    1. Provide pipe and pipe fitting materials compatible with each other. Where more than one type of product is specified, selection is Contractor's option.

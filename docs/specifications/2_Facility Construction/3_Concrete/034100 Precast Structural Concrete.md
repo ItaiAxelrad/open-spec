@@ -50,7 +50,7 @@ tags: ['Facility', 'Construction', 'Concrete', 'Precast', 'Structural']
 	24. Design structural precast concrete framing system and connections to maintain clearances at openings, to allow for fabrication and construction tolerances, to accommodate live-load deflection, shrinkage and creep of primary building structure, and other building movements. Maintain structural precast concrete deflections within limits of ACI 318 (ACI 318M).
 	25. Thermal Movements: Provide for thermal movements noted.
 		1. The precast system design shall consider the maximum seasonal climatic temperature change.
-		2. In plane thermal movements of individual members directly exposed to the sun shall consider a temperature range of <**Insert temperature range****.
+		2. In plane thermal movements of individual members directly exposed to the sun shall consider a temperature range of <**Insert temperature range**>.
 		3. Member connection design shall consider through thickness thermal gradients as appropriate.
 	26. Fire Resistance Rating: Provide components to meet the following fire ratings:
 		1. Roof: **rating**
@@ -58,7 +58,7 @@ tags: ['Facility', 'Construction', 'Concrete', 'Precast', 'Structural']
 		3. Columns: **rating**
 		4. Exterior Walls: **rating**
 		5. additional elements or special occupancy separations**
-	27. Vehicular Impact Loads: Design spandrel beams acting as vehicular barriers for passenger cars to resist a single load of **(6,000 lb [26.7 kN]) load**** service load applied horizontally in any direction to the spandrel beam, with anchorages or attachments capable of transferring this load to the structure. Design spandrel beams, assuming the load to act at a height of 18 in (457 mm) and 27 in (686 mm) above the floor or ramp surface on an area not to exceed 1 ft2 (0.093 m2). 
+	27. Vehicular Impact Loads: Design spandrel beams acting as vehicular barriers for passenger cars to resist a single load of **(6,000 lb [26.7 kN]) load** service load applied horizontally in any direction to the spandrel beam, with anchorages or attachments capable of transferring this load to the structure. Design spandrel beams, assuming the load to act at a height of 18 in (457 mm) and 27 in (686 mm) above the floor or ramp surface on an area not to exceed 1 ft2 (0.093 m2). 
 1. ACTION SUBMITTALS
    1. Product Data:
       1. For each type of product indicated. Retain quality control records and certificates of compliance for 5 years after completion of structure. 
@@ -140,21 +140,21 @@ tags: ['Facility', 'Construction', 'Concrete', 'Precast', 'Structural']
 
 ## Product
 
-1. *FABRICATORS*
+1. FABRICATORS
    1. Fabricators:
       1. Subject to compliance with requirements, **[provide products by the following]** **[provide products by one of the following] [fabricators offering products that may be incorporated into the Work include, but are not limited to, the following]**:
    2. Fabricators:
       1. Subject to compliance with requirements, provide products by one of the following:
    3. [Insert in separate subparagraphs, fabricators:
-      1. names and product designations for** **acceptable manufacturers.****  
-1. *FORM MATERIALS*
+      1. names and product designations for** **acceptable manufacturers.**  
+1. FORM MATERIALS
    1. Forms:
       1. Rigid, dimensionally stable, non-absorptive material, warp and buckle free, that will provide precast concrete surfaces within fabrication tolerances indicated; nonreactive with concrete and suitable for producing required surface finishes.
    2. Form-Release Agent:
       1. Commercially produced form-release agent that will not bond with, stain or affect hardening of precast concrete surfaces and will not impair subsequent surface or joint treatments of precast concrete.
-1. *REINFORCING MATERIALS*
+1. REINFORCING MATERIALS
    1. Recycled Content of Steel Products:
-      1. Provide products with an average recycled content of steel products so postconsumer recycled content plus one-half of pre-consumer recycled content is not less than **[25] [60] number**** percent.
+      1. Provide products with an average recycled content of steel products so postconsumer recycled content plus one-half of pre-consumer recycled content is not less than **[25] [60] number** percent.
    2. Reinforcing Bars:
       1. ASTM A 615/A 615M, Grade 60 (Grade 420), deformed.
    3. Low-Alloy-Steel Reinforcing Bars:
@@ -166,12 +166,12 @@ tags: ['Facility', 'Construction', 'Concrete', 'Precast', 'Structural']
    8. Deformed-Steel Welded Wire Reinforcement: ASTM A 497/A 497M, or ASTM A 1064/A 1064M, flat sheet.
    9. Epoxy-Coated-Steel Welded Wire Reinforcement: ASTM A 884/A 884M, Class A coated, **[plain] [deformed]**, flat sheet, **Type (1 bendable coating) (2 non-bendable coating).
    10. Supports: Use bolsters, chairs, spacers, and other devices for spacing, supporting, and fastening reinforcing bars and welded wire reinforcement in place according to PCI MNL 116.
-1. *PRESTRESSING TENDONS*
+1. PRESTRESSING TENDONS
    1. Prestressing Strand: ASTM A 416/A 416M, Grade 250 (Grade 1720) or Grade 270 (Grade 1860), uncoated, 7-wire, low-relaxation strand or ASTM A 886/A 886M, Grade 270 (Grade 1860), indented, 7-wire, low-relaxation strand (including supplement).
    2. Unbonded Post-Tensioning Strand: ASTM A 416/A 416M, Grade 270 (Grade 1860), 7-wire, low-relaxation strand with corrosion inhibitor conforming to ACI 423.7, with polypropylene tendon sheathing. Include anchorage devices.
    3. Prestressing Strand: ASTM A 910/A 910M, Grade 270 (Grade 1860), uncoated, weldless, 2-and 3-wire, low relaxation strand.
    4. Post-Tensioning Bars: ASTM A 722/A 722M, uncoated high strength steel bar.
-1. *CONCRETE MATERIALS*
+1. CONCRETE MATERIALS
    1. Portland Cement: ASTM C 150, Type I or III.
    2. For surfaces exposed to view in finished structure, use same type, brand, and mill source throughout the precast concrete production.
    3. Supplementary Cementitious Materials  
@@ -193,7 +193,7 @@ tags: ['Facility', 'Construction', 'Concrete', 'Precast', 'Structural']
    19. High-Range, Water-Reducing and Retarding Admixture: ASTM C 494/C 494M, Type G.
    20. Plasticizing Admixture for Flowable Concrete: ASTM C 1017/C 1017M.
    21. Corrosion Inhibiting Admixture: ASTM C 1582/C 1582M 
-1. *STEEL CONNECTION MATERIALS*
+1. STEEL CONNECTION MATERIALS
    1. Carbon-Steel Shapes and Plates: ASTM A 36/A 36M 
    2. Carbon-Steel Headed Studs: ASTM A 108, Grades 1010 through 1020, cold finished, AWS D1.1/D1.1M, Type A or B, with arc shields and with the minimum mechanical properties of PCI MNL 116, Table 3.2.3.
    3. Carbon-Steel Plate: ASTM A 283/A 283M, Grade C.
@@ -210,12 +210,12 @@ tags: ['Facility', 'Construction', 'Concrete', 'Precast', 'Structural']
    14. For steel shapes, plates, and tubing to be galvanized, limit silicon content of steel to less than 0.03 percent or to between 0.15 and 0.25 percent or limit sum of silicon content and 2.5 times phosphorous content to 0.09 percent.
    15. Galvanizing Repair Paint: Zinc paint with dry film containing not less than 94 percent zinc dust by weight, and complying with DOD-P-21035B or SSPC-Paint 20.
    16. Galvanizing Paint: Zinc paint with dry film containing not less than 94 percent zinc dust by weight, and complying with DOD-P-21035B or SSPC-Paint 20. Comply with manufacturer’s requirements for surface preparation.
-1. *STAINLESS-STEEL CONNECTION MATERIALS*
+1. STAINLESS-STEEL CONNECTION MATERIALS
    1. Stainless-Steel Plate: ASTM A 666, Type 304, Type 316, or Type 201, of grade suitable for application.
    2. Stainless-Steel Bolts and Studs: ASTM F 593, alloy 304 or 316, hex-head bolts and studs; stainless-steel nuts; and flat, stainless-steel washers. 
    3. Lubricate threaded parts of stainless-steel bolts with an anti-seize thread lubricant during assembly.
    4. Stainless-Steel Headed Studs: ASTM A 276, with minimum mechanical properties for studs as indicated under MNL 116, Table 3.2.3.
-1. *BEARING PADS AND OTHER ACCESSORIES*
+1. BEARING PADS AND OTHER ACCESSORIES
    1. Provide one of the following bearing pads for structural precast concrete members **[as recommended by precast fabricator for application]:
    2. Elastomeric Pads: AASHTO M 251, plain, vulcanized, 100 percent polychloroprene (neoprene) elastomer, molded to size or cut from a molded sheet, 50 to 70 Shore A durometer according to ASTM D 2240, minimum tensile strength 2250 psi (15.5 MPa) per ASTM D 412.
    3. Random-Oriented, Fiber-Reinforced Elastomeric Pads: Preformed, randomly oriented synthetic fibers set in elastomer. Surface hardness of 70 to 90 Shore A durometer according to ASTM D2240. Capable of supporting a compressive stress of 3000 psi (20.7 Mpa) with no cracking, splitting or delaminating in the internal portions of the pad.
@@ -226,17 +226,17 @@ tags: ['Facility', 'Construction', 'Concrete', 'Precast', 'Structural']
    8. Reglets: **[PVC extrusions.] [Stainless steel, Type 304] [Copper] [Reglets and flashing are specified in Section 07620 “Sheet Metal Flashing and Trim.”]** felt or fiber filled face opening of slots covered.
    9. Erection Accessories: Provide clips, hangers, high density plastic or steel shims, and other accessories required to install structural precast concrete members.
    10. Welding Electrodes: Comply with AWS standards for steel type and/or alloy being welded.
-1. *GROUT MATERIALS*
+1. GROUT MATERIALS
    1. Sand-Cement Grout: Portland cement, ASTM C 150, Type I, and clean, natural sand, ASTM C 144, or ASTM C 404. Mix at ratio of 1 part cement to 2 ½ to 3 parts sand, by volume, with minimum water required for placement and hydration. Water-soluble chloride ion content of grout less than 0.06 percent chloride ion by weight of cement when tested in accordance with ASTM C 1218/C 1218M.
    2. Nonshrink Grout: Premixed, prepackaged ferrous and non-ferrous aggregate shrink-resistant grout containing selected silica sands, portland cement, shrinkage-compensating agents, plasticizing and water-reducing agents, complying with ASTM C 1107, Grade A for drypack and Grades B and C for flowable grout and of consistency suitable for application with a 30-minute working time. Water-soluable chloride ion content of grout less than 0.06 percent chloride ion by weight of cement when tested in accordance with ATM C1218/C1218M.
    3. Epoxy-resin grout: Two-component mineral-filled epoxy-resin: ASTM C 881/C 881M of type, grade, and class to suit requirements.
-1. *INSULATED PANEL ACCESSORIES*
-   1. Expanded-Polystyrene Board Insulation: ASTM C 578, Type **[XI, 0.70 lb/ft3(12kg/m3)], [I, 0.90 lb/ft3 (15kg/m3)][VIII, 1.15 lb/ft3(18kg/m3)][II, 1.35 lb/ft3(22kg/m3)][IX, 1.80 lb/ft3(29 kg/m3)]**; **[square][ship-lap]** edges; with thickness of **dimension****.
-   2. Extruded-Polystyrene Board Insulation: ASTM C 578, Type **[X, 1.30 lb/ft3(21kg/m3)][IV, 1.55 lb/ft3(25 kg/m3)][VI, 1.80 lb/ft3(29 kg/m3)][VII, 2.20 lb/ft3(35 kg/m3)][V, 3.00 lb/ft3(48 kg/m3)]; [square][ship-lap]** edges; with thickness of **dimension****.
+1. INSULATED PANEL ACCESSORIES
+   1. Expanded-Polystyrene Board Insulation: ASTM C 578, Type **[XI, 0.70 lb/ft3(12kg/m3)], [I, 0.90 lb/ft3 (15kg/m3)][VIII, 1.15 lb/ft3(18kg/m3)][II, 1.35 lb/ft3(22kg/m3)][IX, 1.80 lb/ft3(29 kg/m3)]**; **[square][ship-lap]** edges; with thickness of **dimension**.
+   2. Extruded-Polystyrene Board Insulation: ASTM C 578, Type **[X, 1.30 lb/ft3(21kg/m3)][IV, 1.55 lb/ft3(25 kg/m3)][VI, 1.80 lb/ft3(29 kg/m3)][VII, 2.20 lb/ft3(35 kg/m3)][V, 3.00 lb/ft3(48 kg/m3)]; [square][ship-lap]** edges; with thickness of **dimension**.
    3. Polyisocyanurate Board Insulation: Rigid, cellular polyisocyanurate thermal insulation complying with ASTM C 591; Grade 1, or ASTM C 1289 Type **[I, 1.8 lb/ft3(29kg/m3)][II, 2.5 lb/ft3 (40kg/m3)][(III, 3.0 lb/ft3(48kg/m3)]**; square edged; unfaced; with thickness of **dimension**.
    4. Wythe Connectors: **[Glass-fiber in vinyl-ester polymer], [Polypropylene pin], [Stainless-steel pin], [Bent galvanized reinforcing bars] [Galvanized welded wire trusses], [Galvanized bent wire connectors] [Epoxy coated carbon fiber grid], [Fiberglass truss]** manufactured to connect wythes of precast concrete panels. 
    5. Provide holes in insulation for connector placement at least 4 in. (100 mm) and no more than 12 in. (0.30m) from edges of member or openings.
-1. *CONCRETE MIXTURES*
+1. CONCRETE MIXTURES
   1. Prepare design mixtures for each type of precast concrete required.
 	1. Limit use of fly ash to 35 percent replacement of portland cement by weight; granulated blast-furnace slag to 50 percent of portland cement by weight; and metakaolin and silica fume to 10 percent of portland cement by weight.
     1. Design mixtures may be prepared by a qualified independent testing agency or by qualified precast plant personnel at structural precast concrete fabricator’s option.
@@ -252,11 +252,11 @@ tags: ['Facility', 'Construction', 'Concrete', 'Precast', 'Structural']
     11. Add air-entraining admixture at manufacturer’s prescribed rate to result in concrete at point of placement having an air content complying with PCI MNL 116.
     12. When included in design mixtures, add other admixtures to concrete mixtures according to manufacturer’s written instructions.
     13. Concrete Mixture Adjustments: Concrete mixture design adjustments may be proposed if characteristics of materials, Project conditions, weather, test results, or other circumstances warrant.
-2. *FORM FABRICATION*
+2. FORM FABRICATION
     1. Form: Accurately construct forms, mortar tight, of sufficient strength to withstand pressures due to concrete placement and vibration operations and temperature changes, and for prestressing and detensioning operations. Coat contact surfaces of forms with release agent before reinforcement is placed. Avoid contamination of reinforcement and prestressing tendons by release agent.
     2. Maintain forms to provide completed structural precast concrete members of shapes, lines, and dimensions indicated in Contract Documents, within fabrication tolerances specified.
     		1. Edge and Corner Treatment: Uniformly **[chamfered] [radiused]** or as built-in on standard forms.
-3. *FABRICATION*
+3. FABRICATION
     1. Cast-in Anchors, Inserts, Plates, Angles, and Other Anchorage Hardware: Fabricate anchorage hardware with sufficient anchorage and embedment to comply with design requirements. Accurately position for attachment of loose hardware and secure in place during precasting operations. Locate anchorage hardware where it does not affect position of main reinforcement or concrete placement. Do not relocate bearing plates in members unless approved by Architect.
     2. Weld headed studs and deformed bar anchors used for anchorage according to AWS D1.1/D1.1M and AWS C5.4, “Recommended Practices for Stud Welding.”
     3. Furnish loose hardware items including steel plates, clip angles, seat angles, anchors, dowels, hangers, and other hardware shapes for securing precast concrete members to supporting and adjacent construction.
@@ -282,14 +282,14 @@ tags: ['Facility', 'Construction', 'Concrete', 'Precast', 'Structural']
     18. Comply with PCI MNL 116 procedures for hot and cold-weather concrete placement.
     19. Identify pickup points of precast concrete members and orientation in structure with permanent markings, complying with markings indicated on Shop Drawings. Imprint or permanently mark casting date on each precast concrete member on a surface that will not show in finished structure.
     20. Cure concrete, according to requirements in PCI MNL 116, by moisture retention without heat or by accelerated heat curing using live steam or radiant heat and moisture. Cure members until compressive strength is high enough to ensure that stripping does not have an effect on the performance or appearance of final product. 
-2. *INSULATED PANEL CASTING*
+2. INSULATED PANEL CASTING
   1.  Cast, screed and consolidate bottom concrete wythe supported by form.
 	2. Place insulation boards, abutting edges and ends of adjacent boards. Stagger end joints between rows to minimize cold joints. Stagger joints of insulation layers one-half board apart. Insert wythe connectors through insulation, and consolidate concrete around connectors according to connector manufacturer’s written instructions.
 	3. Cast and screed top wythe and apply required finish.
 	4. Maintain temperature below 150 deg. F (65 deg. C) in bottom cast concrete wythe.
-5. *FABRICATION TOLERANCES*
+5. FABRICATION TOLERANCES
     1.  Fabricate structural precast concrete members of shapes, lines and dimensions indicated, so each finished member complies with PCI MNL 135 product tolerances as well as position tolerances for cast-in items.
-5. *FINISHES*
+5. FINISHES
 	1. Commercial (Structural) Finishes
 	6. Commercial Grade: Remove fins and protrusions larger than 1/8 inch (3 mm) and fill holes with a diameter larger than ½ inch (13 mm). Rub or grind ragged edges. Faces shall be true, well-defined surfaces. Air holes, water marks, and color variations are acceptable. Allowable form joint offsets are limited to 3/16 in. (5mm).
     1.  Standard Grade: Normal plant-run finish produced in forms that impart a smooth finish to concrete. Surface holes smaller than 1/2 inch (13mm) caused by air bubbles, normal color variations, form joint marks, and minor chips and spalls are acceptable. Fill air holes greater than 1/4 inch (6 mm) in width that occur in high concentration (more than one per 2 in.² [1300 mm²]). Major or unsightly imperfections, honeycombs, or structural defects are not permitted. Allowable joint offset limited to 1/8 inch (3 mm).
@@ -298,7 +298,7 @@ tags: ['Facility', 'Construction', 'Concrete', 'Precast', 'Structural']
     4.  Screed or float finish unformed surfaces. Strike off and consolidate concrete with vibrating screeds to a uniform finish, float finish, if required. Hand screed at projections. Normal color variations, minor indentations, minor chips, and spalls are permitted. No major imperfections, honeycombing, or defects are permitted.
     5.  Smooth steel-trowel finish unformed surfaces. Consolidate concrete, bring to proper level with straightedge, float and trowel to a smooth, uniform finish. 
     6.  Apply roughened surface finish in accordance with ACI 318 (ACI 318M) to precast concrete members that will receive concrete topping after installation.
-7. *SOURCE QUALITY CONTROL*
+7. SOURCE QUALITY CONTROL
     1.  Quality-Control Testing: Test and inspect precast concrete according to PCI MNL 116 requirements. If using self-consolidating concrete also test and inspect according to PCI TR-6 “Interim Guidelines for the Use of Self-Consolidating Concrete” and ASTM C 1611/C 1611M, ASTM C 1712, ASTM 1610/1610M, and ASTM C 1621/C 1621M. 
     2.  In addition to PCI Certification, Owner will employ an accredited independent testing agency to evaluate structural precast concrete fabricator’s quality-control and testing methods.
     3.  Allow Owner’s testing agency access to material storage areas, concrete production equipment, concrete placement, and curing facilities. Cooperate with Owner’s testing agency and provide samples of materials and concrete mixtures as may be requested for additional testing and evaluation.
@@ -317,11 +317,11 @@ tags: ['Facility', 'Construction', 'Concrete', 'Precast', 'Structural']
 
 1. PREPARATION
    1. Furnish loose connection hardware and anchorage devices for precast concrete members to be embedded in or attached to the building structural frame or foundation before starting that Work. Provide locations, setting diagrams, templates and instructions for the proper installation of each anchorage device.
-1. *EXAMINATION*
+1. EXAMINATION
    1. Examine supporting structural frame or foundation and conditions for compliance with requirements for installation tolerances, bearing surface tolerances, and other conditions affecting precast concrete performance. 
    2. Proceed with precast concrete installation only after unsatisfactory conditions have been corrected.
    3. Contractor shall notify precast concrete erector that supporting cast-in-place concrete foundation and building structural framing has attained minimum allowable design compressive strength or supporting steel or other structure is structurally ready to receive loads from precast concrete members prior to proceeding with installation.
-2. *ERECTION*
+2. ERECTION
    1. Install loose clips, hangers, bearing pads, and other accessories required for connecting structural precast concrete members to supporting members and backup materials.
    2. Erect structural precast concrete level, plumb and square within the specified allowable erection tolerances. Provide temporary structural framing, shoring and bracing as required to maintain position, stability, and alignment of members until permanent connections are completed.
 	1. Install temporary steel or plastic spacing shims or bearing pads as precast concrete members are being erected. Surface weld steel shims to each other to prevent shims from separating.
@@ -357,7 +357,7 @@ tags: ['Facility', 'Construction', 'Concrete', 'Precast', 'Structural']
       4. Do not use drilled or power-actuated fasteners for attaching accessory items to precast, prestressed concrete members unless approved by Precast Engineer and Engineer of Record.
 3. ERECTION TOLERANCES
    1. Erect structural precast concrete members level, plumb, square, and in alignment without exceeding the noncumulative erection tolerances of PCI MNL 135. Level out variations between adjacent members by jacking, loading, or any other feasible method as recommended by the fabricator and acceptable to the Architect.
-4. *FIELD QUALITY CONTROL*
+4. FIELD QUALITY CONTROL
 5. Special Inspections:
       1. [Owner will engage][Contractor will engage]** a qualified special inspector to perform the following special inspections and prepare reports:
 		1. Erection of loadbearing precast concrete members.
@@ -368,12 +368,12 @@ tags: ['Facility', 'Construction', 'Concrete', 'Precast', 'Structural']
    3. Testing agency will report test results promptly and in writing to Contractor and Architect.
    4. Repair or remove and replace work where tests and inspections indicate that it does not comply with specified requirements.
     1. Additional testing and inspecting, at Erector’s expense, will be performed to determine compliance of corrected work with specified requirements.
-7. *REPAIRS*
+7. REPAIRS
    1. Repairs will be permitted provided structural adequacy, serviceability and durability of members and appearance are not impaired.
    2. Prepare and repair damaged galvanized coatings with galvanizing repair paint according to ASTM A 780/A 780M.
    3. Wire brush, clean, and paint damaged prime-painted components with same type of shop primer.
    4. Remove and replace damaged structural precast concrete members when repairs do not comply with specified requirements.
-8. *CLEANING*
+8. CLEANING
    1. Clean mortar, plaster, fireproofing, weld slag, and any other deleterious material from concrete surfaces and adjacent materials immediately.
    2. Clean exposed surfaces of precast concrete members after erection and completion of joint treatment to remove weld marks, other markings, dirt, and stains.
    3. Perform cleaning procedures, if necessary, according to precast concrete fabricator’s recommendations. Protect adjacent work from staining or damage due to cleaning operations.

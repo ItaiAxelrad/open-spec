@@ -116,7 +116,7 @@ tags: ['Facility', 'Services', 'Fire', 'Suppression', 'Wet-Pipe', 'Sprinkler', '
    2. Sprinkler Cabinets:
       1. Finished, wall-mounting steel cabinet and hinged cover, with space for a minimum of six spare sprinklers plus sprinkler wrench. Include the number of sprinklers required by NFPA 13 and wrench for sprinklers. Include separate cabinet with sprinklers and wrench for each type of sprinkler on Project.
 
-## PRODUCTS
+## Products
 
 1. General
    1. See requirements of Division 21 sections of the Specifications related sections.
@@ -160,7 +160,7 @@ tags: ['Facility', 'Services', 'Fire', 'Suppression', 'Wet-Pipe', 'Sprinkler', '
       1. Fire Hose Valve (FHV-1) cast brass valve with red hand wheel, male hose threads with cap and chain. Unit shall be rough chrome plated finish, UL Listed. Potter Roemer Model 4065-C with 4625-C or approved equal.
    1. Fire Hose Valve (FHV-2) cabinet shall be 20 gauge box, 20 gauge tubular steel door and continuous steel hinge for recessed mounting. Provide with red powder coated finish. Furnish with hose valve same as FHV-1. Potter Roemer Model 1810 with full glass door and 4065 valve and 4625-C cap, or approved equal.
 
-## EXECUTION
+## Execution
 
 1. General
    1. Comply with requirements of Division 21 related sections. 

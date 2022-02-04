@@ -9,7 +9,7 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Established', 'Lan
 
 ## General
 
-1. summary
+1. Summary
    1. This section provides guidance on long term maintenance and care for landscape areas.
    2. The contractor will accomplish irrigation management, fertilization, pruning, weeding, pesticide applications, bed cultivation, mowing, edging and litter removal in landscape areas. Clean up of walkways, trails, and open space with in the project limits shall also be included.
    3. Unit Prices

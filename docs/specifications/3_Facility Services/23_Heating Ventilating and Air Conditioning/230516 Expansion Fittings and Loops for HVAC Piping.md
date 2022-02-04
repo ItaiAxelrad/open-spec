@@ -35,7 +35,7 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
       1. EJMA Compliance:
          1. Construct expansion compensation products in accordance with standards of EJMA.
 
-## PRODUCTS
+## Products
 
 3. MANUFACTURERS
 	1. Subject to compliance with requirements, provide products from one of the following:
@@ -63,7 +63,7 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    2. Rubber Expansion Joints:
       1. Fabric-reinforced butyl rubber with full-faced integral flanges and external control rods, and shall be internally reinforced with steel retaining rings over entire surface of flanges, drilled to match flange bolt holes.
 
-## EXECUTION
+## Execution
 
 6. ERECTION INSTALLATION APPLICATION
 	1. Installation, General

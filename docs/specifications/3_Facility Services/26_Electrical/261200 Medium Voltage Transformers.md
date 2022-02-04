@@ -54,7 +54,7 @@ tags: ['Facility', 'Services', 'Electrical', 'Medium', 'Voltage', 'Transformers'
    1. Transformer shall carry a one-year warranty from the date of final acceptance for repair or replacement of defective material and workmanship.
    1. During the warranty period, the supplier/manufacturer shall be required to make the necessary repairs or replacements on site. The Owner shall not accept or pay for travel time, mileage, airfare, freight, labor, rental charges, or any costs incurred to warranty this equipment. If necessary, the repair shall be made on a premium time basis without cost to the Owner.
 
-## PRODUCTS
+## Products
 
    1. MANUFACTURERS
    1. Approved manufacturers are as follows:

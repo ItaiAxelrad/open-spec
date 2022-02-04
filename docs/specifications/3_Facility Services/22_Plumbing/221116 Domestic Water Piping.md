@@ -55,7 +55,7 @@ tags: ['Facility', 'Services', 'Plumbing', 'Domestic', 'Water', 'Piping']
 1. WARRANTY
    1. Follow the procedure specified in Division 1 of the Specifications. 
 
-## PRODUCTS
+## Products
 
 1. PIPING MATERIALS - UNDERGROUND
 	1. Domestic Water Piping System 
@@ -151,7 +151,7 @@ tags: ['Facility', 'Services', 'Plumbing', 'Domestic', 'Water', 'Piping']
    1. ASTM D2000, CA 615, A25B44Z
    1. EPDM, Grade E, Green
 
-## EXECUTION
+## Execution
 
 1. UNDERGROUND PIPING INSTALLATION
 	1. Trench Excavation 

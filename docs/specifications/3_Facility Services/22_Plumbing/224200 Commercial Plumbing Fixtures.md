@@ -34,7 +34,7 @@ tags: ['Facility', 'Services', 'Plumbing', 'Commercial', 'Fixtures']
 1. WARRANTY
    1. See to Division 22, Section “Warranties” of the Specifications.
 
-## PRODUCTS
+## Products
 
 
 ## General
@@ -159,7 +159,7 @@ tags: ['Facility', 'Services', 'Plumbing', 'Commercial', 'Fixtures']
 1. FIXTURE SUPPORTS
    1. Single-component silicone sealant complying with ASTM C920. Dow Corning, 786; GE Silicones Sanitary SCS1700; Pecora, 898; or as approved. 
 
-## EXECUTION
+## Execution
 
 
 ## General

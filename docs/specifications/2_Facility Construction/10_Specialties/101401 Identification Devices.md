@@ -7,9 +7,6 @@ subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Specialties', 'Identification', 'Devices']
 ---
 
-   1. Section 10 14 00
-   1. identification devices
-
 ## General
 
 1. SUMMARY
@@ -36,6 +33,7 @@ tags: ['Facility', 'Construction', 'Specialties', 'Identification', 'Devices']
 	1. Product technical data including catalog information for all identification systems and acknowledgement that products submitted meet requirements of standards referenced. 
 	2. Include a signage plan.
 ## Product
+
 1. Manufactured Units
    1. Type A1 - Round Metal Tags:
 	1. Materials:
@@ -426,7 +424,7 @@ tags: ['Facility', 'Construction', 'Specialties', 'Identification', 'Devices']
 			1. OSHA Danger Sign.
 			2. Description of Danger: “MULTIPLE VOLTAGE SOURCES”.
 	15. Color Coding
-5. Color and band piping in accordance with State of CDPHE, Design Criteria for Potable Water Systems.
+5. Color and band piping in accordance with State of State Department of Public Health and Environment, Design Criteria for Potable Water Systems.
 	1. Place bands:
 		1. Along continuous lines.
 		2. At changes in direction.

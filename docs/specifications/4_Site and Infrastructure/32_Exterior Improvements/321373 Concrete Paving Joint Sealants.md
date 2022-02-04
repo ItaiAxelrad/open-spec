@@ -45,7 +45,7 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Concrete', 'Paving
       1. Provide written warranty, signed by manufacturer and installer agreeing to, within warranty period of five years after date of substantial completion, replace/repair defective materials and workmanship defined to include:
       1. instances of leakage of water or air; failures in joint adhesion, material cohesion, abrasion resistance, strain resistance, or general durability; failure to perform as required; and the general appearance of deterioration in any other manner not clearly specified in manufacturer's published product literature as an inherent characteristic of the sealant material.
    
-## PRODUCTS
+## Products
 
    1. SEALANT MATERIALS FOR VERTICAL SURFACES
    1. Single-component, elastomeric sealant complying with ASTM C920, Type S, Grade NS, Class 25, Use NT, a silicone material, one of the following or as approved:
@@ -77,9 +77,7 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Concrete', 'Paving
    1. Protect the Work and adjacent construction against damage. Clean Work adjacent to joints free of smears of sealant as Work progresses. Protect surfaces difficult to clean with masking tape or other suitable means not injurious to surfaces being protected.
    1. Joint Opening Preparation
    1. Substrates
-
-## General
-
+1. General
    1. Prepare joint openings in conformance with manufacturer's written instructions and ASTM C1193, and as specified.
    1. Dry, sound and thoroughly clean sealant substrates are required when primer (where required by manufacturer for optimum adhesion) and sealant are installed. Allow concrete, masonry or other porous substrates wetted by rain or other sources of moisture to dry for at least 24 hours under good drying conditions before application of primer or sealant. Protect surfaces that have been cleaned from contamination by deleterious materials such as oil, dust and rain, until primer (where required) and sealant are applied.
    1. Use cleaning solvents as recommended by the sealant manufacturer. Furnish containers for cleaning solvent storage that are clean, oil-free and suitable for use with the solvent.
@@ -111,9 +109,7 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Concrete', 'Paving
    1. Unless indicated otherwise on the Drawings, for joint opening widths from 6 mm (1/4 inch) up to 13 mm (1/2 inch) wide, provide joint opening depth of 6 mm (1/4 inch); for joint opening widths over 13 mm (1/2 inch) to 19 mm (3/4 inch) wide, provide joint opening depth of one half the width; for joint opening widths over 19 mm (3/4 inch) to 50 mm (2 inches) wide, provide joint opening depth no greater than 10 mm (3/8 inch); and for joint opening widths exceeding 50 mm (2 inches), provide depth as determined by the sealant manufacturer.
    1. Refer to Drawings for joint opening requirements.
    1. Sealant Installation
-
-## General
-
+1. General
    1. Provide sealant in conformance with manufacturer's written instructions and ASTM C1193, and as specified.
    1. Inspect joint opening prior to sealant installation for proper installation of sealant backing or bond breaker, proper opening depth and proper substrate preparation, cleaning and (where required) priming.
    1. Do not apply sealant to damp, wet or frost covered substrates, sealant backing or bond breaker.

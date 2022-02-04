@@ -76,7 +76,7 @@ tags: ['Facility', 'Services', 'Electrical', 'Pad', 'Mounted', 'Medium-Voltage',
    1. Store equipment as to maintain it in a clean and dry condition.
    1. Store in a heated area with a minimum ambient temperature in accordance with manufacturer’s recommendations.
 
-## PRODUCTS
+## Products
 
 1. MANUFACTURERS
    1. See Editing Instruction No. 1 in the Evaluations for cautions about naming manufacturers and products.
@@ -245,7 +245,7 @@ tags: ['Facility', 'Services', 'Electrical', 'Pad', 'Mounted', 'Medium-Voltage',
    1. Verify transformer ratio and polarity. 
    1. Verify relay operation. 
 
-## PRODUCTS
+## Products
 
 1. SUMMARY
    1. Pad-mounted equipment shall be installed on concrete pads in accordance with the manufacturers published, standard installation drawings and procedures, except that they shall be modified to meet the requirements of this document. Units shall be carefully installed so as not to damage equipment or scratch painted or coated surfaces. After installation, surfaces shall be inspected and scratches touched up with a paint or coating provided by the manufacturer especially for this purpose. Three phase transformer installations shall be installed with A, B, C phase sequence. Primary taps shall be set at tap to produce nominal secondary voltage.

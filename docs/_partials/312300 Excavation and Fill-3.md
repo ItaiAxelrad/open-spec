@@ -7,9 +7,6 @@ subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Earthwork', 'Excavation', 'Fill']
 ---
 
-
-1. EXCAVATION AND FILL
-1. 
 ## General
 
 1. REFERENCES
@@ -236,7 +233,6 @@ Warning Tape Color Codes
 1. Polyethylene plastic tape conforming to the width, color, and printing equirements specified above. Minimum thickness of the tape shall be 0.004 inch. Tape shall have a minimum strength of 1500 psi lengthwise and 1250 psi crosswise. Tape shall be manufactured with integral wires, foil backing, or other means of enabling detection by a metal detector when tape is buried up to 3 feet deep. Encase metallic element of the tape in a protective jacket or provide with other means of corrosion protection.
 11. DETECTION WIRE FOR NON-METALLIC PIPING
    1. Detection wire shall be insulated single strand, solid copper with a minimum of 12 AWG.
-1. 
 
 ## Execution
 

@@ -362,9 +362,7 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Potable', 'Water', 'Supply', 'Wel
    1. MOTORS
    1. Motor characteristics such as NEMA designation, temperature rating, service factor, enclosure type, and efficiency are specified in Section 220513 "Common Motor Requirements for Plumbing Equipment." If different characteristics are required, add paragraphs to this Article to suit Project.
 
-## General
-
- requirements for motors are specified in Section 220513 "Common Motor Requirements for Plumbing Equipment."
+1. General requirements for motors are specified in Section 220513 "Common Motor Requirements for Plumbing Equipment."
    1. Motor Sizes:
       1. Minimum size as indicated. If not indicated, large enough so driven load will not require motor to operate in service factor range above 1.0.
    1. Controllers, Electrical Devices, and Wiring:

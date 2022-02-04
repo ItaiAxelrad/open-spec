@@ -16,24 +16,21 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Spring-loaded', 'Weirs']
    1. Bray Series 70 2nd Generation Electric Actuator Operation and Maintenance Manual (provided). 
 1. SUMMARY
    1. This section covers Stainless Steel Downward Opening Weir Gates and operators. The Emergency Stop Valve Weir Gate must conform to the specifications of the Bray Series 70 actuator or supply the engineer with an equal product for approval by the engineer of record. 
-
-## General
-
-   1. The equipment provided under this section shall be fabricated, assembled, erected, and placed in proper operating condition in full conformity with the drawings, specifications, engineering data, instructions and recommendations of the equipment manufacturer unless exceptions are noted by the engineer.
-   1. Gates and operators shall be supplied with all the necessary parts and accessories indicated on the drawings, specified or otherwise required for a complete, properly operating installation and shall be the latest standard product of a manufacturer regularly engaged in the production control gates.
-   1. Weir gates shall be designed to withstand the design head (maximum design head shall be taken as the height of the slide unless otherwise shown in the schedule).
-
-	1. QUALITY ASSURANCE
+   2. General
+      1. The equipment provided under this section shall be fabricated, assembled, erected, and placed in proper operating condition in full conformity with the drawings, specifications, engineering data, instructions and recommendations of the equipment manufacturer unless exceptions are noted by the engineer.
+   3. Gates and operators shall be supplied with all the necessary parts and accessories indicated on the drawings, specified or otherwise required for a complete, properly operating installation and shall be the latest standard product of a manufacturer regularly engaged in the production control gates.
+   4. Weir gates shall be designed to withstand the design head (maximum design head shall be taken as the height of the slide unless otherwise shown in the schedule).
+2. QUALITY ASSURANCE
    1. The manufacturer shall:
          1. 	1. Shall have experience in the production of substantially similar equipment, and shall show evidence of satisfactory operation. 
-	2. Ensure shop welds, welding procedures and welders are qualified and certified in accordance with the requirement of the latest edition of ASME, Section IX.
-	3. Shall conform with all provisions of the Bray Series 70 Specifications as well as the Operations and Maintenance Manual.
+	1. Ensure shop welds, welding procedures and welders are qualified and certified in accordance with the requirement of the latest edition of ASME, Section IX.
+	2. Shall conform with all provisions of the Bray Series 70 Specifications as well as the Operations and Maintenance Manual.
    1. Retain definitions remaining after this Section has been edited.
-1. SUBMITTALS
+3. SUBMITTALS
    1. See Specification Section 01 33 00 for requirements for the mechanics and administration of the submittal process.
-   1. Shop Drawings:
+   2. Shop Drawings:
       1. The manufacturer shall submit, for approval by the purchaser, product data sheets and drawings showing the principal dimensions, general construction and materials used in the gate and lift mechanism.
-   1. Paragraphs below are defined in Division 01 Section "Submittal Procedures" as "Informational Submittals."
+   3. Paragraphs below are defined in Division 01 Section "Submittal Procedures" as "Informational Submittals."
 
 ## Products
 

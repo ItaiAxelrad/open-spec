@@ -6,14 +6,13 @@ divName: Utilities
 subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Utilities', 'Sanitary', 'Sewerage']
 ---
- 
+
 ## General
 
 1. SCOPE
    1. Confirm application limits for Sanitary Sewerage Utilities specifications. Coordinate with Division 22 Plumbing.
-   1. The work under this section shall consist of providing all work, materials, labor, equipment, and supervision necessary to provide for the sanitary sewer work required in these specifications and on the drawings. The limits of the work, including the responsible party for testing purposes, shall be clearly defined on the Drawings. Included are the following topics:
-## General
-
+   1. The work under this section shall consist of providing all work, materials, labor, equipment, and supervision necessary to provide for the sanitary sewer work required in these specifications and on the drawings. The limits of the work, including the responsible party for testing purposes, shall be clearly defined on the Drawings. Includd are the following topics:
+1. General
    1. Scope
    1. Related Work
    1. Reference Documents
@@ -36,9 +35,7 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Sanitary', 'Sewerage']
 
 ## Execution
 
-
-## General
-
+1. General
    1. Diverting Sewage
    1. Diversion Plan
    1. Laying Pipe
@@ -181,9 +178,7 @@ Value
    1. Couplings shall have neoprene gaskets with stainless steel shield, and multiple stainless steel clamps with worm gear tightening device. The couplings shall be made specifically for the type and size of pipe materials being connected. 
    1. Couplings shall be Fernco, Husky, or approved equal.
 1. MANHOLES
-
-## General
-
+1. General
    1. Provide precast concrete manholes. Cast-in-place manholes may only be used after receiving written approval by the DFD Project Representative and the A/E for customized manhole sizes and shapes.
    1. Submit manufacturer's preproduction (shop) drawings for approval prior to the start of manufacturing. 
    1. Contractor shall verify existing pipe locations, sizes, orientation and elevation prior to ordering new manholes. 
@@ -219,9 +214,7 @@ Value
 1. CASTINGS
    1. Note to the designer:
       1. Determine casting type, size and load rating. Consult with the Owner Agency to address and specific casting requirements. Determine if any existing castings are able to be salvaged.
-
-## General
-
+1. General
    1. All manhole castings shall be heavy duty iron conforming to ASTM A48, Class 20 and rated for AASHTO H-20 loading. Provide water-tight, gasketed, self-sealing, non-rocking lids with concealed pickhole.
    1. Standard Manhole Frame and Casting
    1. Neenah Foundry R-1550, with Type B lid; or approved equal.
@@ -248,13 +241,10 @@ Value
 1. locator tape
    1. Tape shall be detectable metallic locator tape, specifically manufactured for marking utilities with a minimum width of 6 inches and detectable at a depth of 18”.
    1. Tape shall be marked “SEWER” and green colored.
-1. 
 
 ## Execution
 
-
-## General
-
+1. General
    1. Complete exploratory excavations at utility crossings as shown on the drawings and as necessary to complete the work.
    1. Maintain clearances between existing or proposed sewer lines and watermains as follows:
 * 8’ horizontal separation (measured center to center) between existing or proposed sanitary or storm sewers and watermains. 

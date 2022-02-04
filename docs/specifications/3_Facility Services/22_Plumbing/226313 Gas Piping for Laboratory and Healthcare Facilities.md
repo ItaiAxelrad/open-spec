@@ -16,7 +16,7 @@ tags: ['Facility', 'Services', 'Plumbing', 'Gas', 'Piping', 'Laboratory', 'Healt
    1. This Section includes piping and specialties for laboratory gas services.
    1. Owner-Furnished Material:
       1. Bulk gas storage tanks.
-1. references
+1. References
    1. American Society of Mechanical Engineers (ASME):
       1. B1.20.1 - Pipe Threads, General Purpose (Inch).
    1. B16.3 - Malleable Iron Threaded Fittings.
@@ -281,7 +281,7 @@ tags: ['Facility', 'Services', 'Plumbing', 'Gas', 'Piping', 'Laboratory', 'Healt
 6. Perform pneumatic pressure tests using dry nitrogen gas. Hold pressure for a minimum of 4 hours without pressure drop on test gauge.
 7. Provide 1 manday (8 hours) manufacturer's installation and startup assistance at the work site to make final checkout, conduct acceptance test, and certify that all vacuum-insulated pipe and accessories are properly installed, operable and ready for use.
 
-## EXECUTION
+## Execution
 
 1. Underground Piping Installation
 	1. Trench Excavation:

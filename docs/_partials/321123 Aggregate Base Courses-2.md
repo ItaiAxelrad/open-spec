@@ -9,7 +9,6 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Aggregate', 'Base'
 
 
 1. AGGREGATE AND/OR GRADED-CRUSHED AGGREGATE BASE COURSE
-1. 
 ## General
 
 1. REFERENCES
@@ -175,7 +174,6 @@ certified delivery tickets for all aggregates actually used, as specified in the
       1. The values are based on aggregates of uniform specific gravity. If materials from different sources are used for the coarse and fine aggregates, they shall be tested in accordance with ASTM C 127 and ASTM C 128 to determine their specific gravities. If the specific gravities vary by more than 10 percent, the percentages passing the various sieves shall be corrected as directed by the Owner.
 2. LIQUID LIMIT AND PLASTICITY INDEX
    1. Liquid limit and plasticity index requirements shall apply to the completed course and shall also apply to any component that is blended to meet the required gradation. The portion of any component or of the completed course passing the No. 40 sieve shall be either nonplastic or have a liquid limit not greater than 25 and a plasticity index not greater than 5.
-1. 
 
 ## Execution
 

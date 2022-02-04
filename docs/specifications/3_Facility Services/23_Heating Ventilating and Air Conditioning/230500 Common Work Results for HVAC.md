@@ -119,7 +119,7 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    9. Unless otherwise directed, the manipulation of existing main valves to isolate piping, the shutdown of fans, pumps, and other equipment will be done by Owner maintenance personnel.
    10. Coordinate installation of identifying devices after completion of covering and painting, where devices are applied to surfaces. Install identifying devices prior to installation of acoustical ceilings and similar concealment.
 
-## PRODUCTS
+## Products
 
 1. MATERIALS
    1. Pipe and Pipe Fittings:
@@ -219,7 +219,7 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Design Mix:
       1. 5000 psi, 28-day compressive strength.
 
-## EXECUTION
+## Execution
 
 1. ERECTION INSTALLATION APPLICATION
    1. Piping Systems - Common Requirements:

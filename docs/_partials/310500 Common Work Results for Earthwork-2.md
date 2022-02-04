@@ -239,7 +239,7 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Common', 'Work', 'Results']
    1. Dewater excavations which extend to or below groundwater by lowering and keeping the groundwater level beneath such excavation at least 12 inches below the bottom of the excavation
    1. Divert surface water or otherwise prevent it from entering excavated areas or trenches to the extent practical without damaging adjacent property
    1. Maintain all drainage pipes, keep clean and free of sediment during construction and final cleanup
-   1. Obtain and comply with conditions of CDPHE construction dewatering permit:
+   1. Obtain and comply with conditions of State Department of Public Health and Environment construction dewatering permit:
       1. Reference Section 00360 for application form for this permit
    1. SHEETING, SHORING AND BRACING
    1. Provide proper and substantial sheeting, shoring, and bracing, as required, to prevent caving or sliding, to protect workmen and the Work, and to protect existing structures and facilities
@@ -470,9 +470,9 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Common', 'Work', 'Results']
    1. Field locate barriers along slopes, next to water courses and downstream of disturbed areas to prevent surface runoff from eroding areas disturbed by Contractor during construction, to minimize the transport of suspended solids downstream or into adjacent streams, canals or ditches and to protect newly seeded areas
    1. Maintain and replace barriers as required for effective erosion control until satisfactory uniform plant growth is established as defined herein
    1. STORMWATER MANAGEMENT PLAN
-   1. Submit General Permit Application to CDPHE for stormwater discharges associated with construction activity and comply with all conditions of the permit
+   1. Submit General Permit Application to State Department of Public Health and Environment for stormwater discharges associated with construction activity and comply with all conditions of the permit
    1. Reference Stormwater Management Plan included in these Contract Documents
-   1. Obtain and comply with conditions of CDPHE construction stormwater management permit:
+   1. Obtain and comply with conditions of State Department of Public Health and Environment construction stormwater management permit:
       1. Requirements for permit application are attached immediately following this section
    1. SETTLEMENT
    1. Warranty for settlement of all fills, embankments, and backfills is stipulated in the General Conditions from final completion of Contract under which Work is performed

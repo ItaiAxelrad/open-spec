@@ -47,7 +47,7 @@ tags: ['Procurement', 'Contracting', 'Requirements', 'Scopes']
 * Addition of VFDs to the existing lift station pumps. 
 	+ See Available Project Information for Pump Details.
 * Disposal of all shipping chemicals
-* Obtain approvals required by CDPHE. 
+* Obtain approvals required by State Department of Public Health and Environment. 
 1. Scope Ladder
    1. A lump sum cost for each priority must be provided which includes line items 1-6 from page 1 of the Scope and Cost Proposal Form.
    1. Each priority included in total design/build cost is worth an equal amount of points for evaluation purposes.

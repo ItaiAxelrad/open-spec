@@ -29,7 +29,7 @@ tags: ['Facility', 'Construction', 'Equipment', 'Laboratory']
    1. Field Measurements
    1. Take field measurements to verify or supplement dimensions indicated. Be responsible for accurate fit of the Work.
    
-## PRODUCTS
+## Products
 
    1. Finish For Aluminum
    1. Clear Anodic Finish

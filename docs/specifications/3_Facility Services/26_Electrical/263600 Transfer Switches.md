@@ -45,7 +45,7 @@ tags: ['Facility', 'Services', 'Electrical', 'Transfer', 'Switches']
    1. Comply with NFPA 110.
    1. Comply with UL 1008 unless requirements of these Specifications are stricter.
 
-## PRODUCTS
+## Products
 
 1. Automatic Transfer Switches
 	1. Manufacturers:
@@ -123,7 +123,7 @@ tags: ['Facility', 'Services', 'Electrical', 'Transfer', 'Switches']
    1. Manually-operated, mechanically-held isolation switch. 
    1. Provide externally operable handle mechanism arranged for padlocking in the "open" position with up to three padlocks. 
 
-## EXECUTION
+## Execution
 
 1. Installation*	1. General:
    1. Install automatic transfer switch [and bypass-isolation switch] at locations indicated. 

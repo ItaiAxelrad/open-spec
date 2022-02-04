@@ -9,7 +9,6 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Excavation', 'Fill']
 
 
 1. TRENCHING, EXCAVATION, BACKFILL AND COMPACTION
-1. 
 ## General
 
 01. DESCRIPTION
@@ -93,7 +92,6 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Excavation', 'Fill']
 	1. Grab tensile strength (ASTM D 4632): 45.4kg (100 lbs) minimum for a 1" raveled strip
 	2. Weight (ASTM D 3776): 4.5 oz./yd2 
 	3. Apparent opening size (ASTM D 4751): 0.006"
-1. 
 
 ## Execution
 

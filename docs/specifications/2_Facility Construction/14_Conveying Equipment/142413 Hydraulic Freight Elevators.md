@@ -95,7 +95,7 @@ tags: ['Facility', 'Construction', 'Conveying', 'Equipment', 'Hydraulic', 'Freig
    1. Submit parts catalog and show evidence of local parts inventory with complete list of recommended spare parts. Parts shall be produced by manufacturer of original equipment.
    1. Manufacturer shall have a service office and full time service personnel within a 50 mile radius of the project site.
 
-## PRODUCTS
+## Products
 
    1. MANUFACTURERS
    1. Manufacturer:

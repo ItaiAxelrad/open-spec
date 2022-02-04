@@ -44,14 +44,14 @@ tags: ['Facility', 'Services', 'Electrical', 'Systems', 'Commissioning']
    1. Allow sufficient time before final completion dates so electrical systems start-up, checkout, and commissioning testing can be accomplished.
    1. For specified electrical systems and component testing by a third-party testing Contractor, coordinate with the CA, the scope and schedule of that testing for observation by the CA during the actual testing.
 
-## PRODUCTS
+## Products
 
 1. TEST EQUIPMENT
    1. Contractor shall provide all standard and specialized test equipment as necessary to test and start up and functionally test the electrical equipment. Equipment subject to calibration shall be calibrated per NETA, ISA, and manufacturer’s requirements, whichever is the most stringent.
    1. Proprietary test equipment required to test installed equipment, whether specified or not, shall be provided by the manufacturer of the equipment. Manufacturer shall provide the test equipment, and demonstrate its use and assist the contractor and CA in the commissioning process.
 1. See Editing Instruction No. 1 in the Evaluations for cautions about naming manufacturers and products. Retain one of three paragraphs and list of manufacturers below. See Division 01 Section "Product Requirements."
 
-## EXECUTION
+## Execution
 
 1. WORK PRIOR TO COMMISSIONING
    1. Complete all phases of work so the system can be energized, started, tested, and otherwise commissioned. The Divisions 26, 27 and 28 Contractors have primary start-up responsibilities with obligations to provide, install and test complete systems, including all sub-systems so they are functional. This includes the complete installation of all equipment, materials, raceways, wire, terminations, controls, etc., per the Contract Documents and related directives, clarifications, change orders, etc.

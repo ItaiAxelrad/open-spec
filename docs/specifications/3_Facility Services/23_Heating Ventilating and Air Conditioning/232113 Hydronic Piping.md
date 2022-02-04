@@ -91,7 +91,7 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Differential Pressure Meter:
       1. For each type of balancing valve and automatic flow control valve, include flowmeter, probes, hoses, flow charts, and carrying case.
 
-## PRODUCTS
+## Products
 
 1. BEDDING AND BACKFILL MATERIALS
    1. Granular Material
@@ -183,7 +183,7 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Machine
    1. Bolts
 
-## EXECUTION
+## Execution
 
 1. Aboveground Piping Installation*
    1. Install pipe and pipe fittings in accordance with recognized industry practices to achieve permanently leakproof systems, capable of performing the indicated service without failure.

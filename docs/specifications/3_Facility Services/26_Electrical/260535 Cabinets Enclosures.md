@@ -22,7 +22,7 @@ tags: ['Facility', 'Services', 'Electrical', 'Cabinets', 'Enclosures']
 	1. Product Data:
       1. Submit manufacturer's technical product data on enclosures, terminal cabinets, terminal blocks and accessories. 
 
-## PRODUCTS
+## Products
 
 1. HINGED COVER ENCLOSURES*
    1. Manufacturers:
@@ -74,7 +74,7 @@ tags: ['Facility', 'Services', 'Electrical', 'Cabinets', 'Enclosures']
    18. Provide power terminals, for voltages above 50 volts, of the unit-construction, closed-back design, with tubular pressure screw terminal connectors, rated 600 volts. Provide barriers between each set of terminals. 
    19. Provide signal and control terminals for voltages 50 volts and less of the modular construction type, channel mounted with tubular pressure-screw terminal connectors, rated 300 volts. 
 
-## EXECUTION
+## Execution
 
 1. INSTALLATION
    1. General: 

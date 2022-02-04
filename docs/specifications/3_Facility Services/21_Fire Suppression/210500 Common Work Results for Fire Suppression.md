@@ -182,7 +182,7 @@ tags: ['Facility', 'Services', 'Fire', 'Suppression', 'Common', 'Work', 'Results
    1. Should the failure be such as to fall under this warranty, pay the cost of the services; otherwise the Owner will pay for such service at the prevailing rate. 
    1. Should the Contractor fail to make such service personnel available "on call" within eight hours or less, the Owner may employ such personnel as are available to the Owner, at the expense of the Contractor. 
 
-## PRODUCTS
+## Products
 
 1. MATERIALS
    1. Underground Piping, Fittings and Valves:
@@ -501,7 +501,7 @@ tags: ['Facility', 'Services', 'Fire', 'Suppression', 'Common', 'Work', 'Results
    1. Provide a sectional drain valve and common drain piping to the nearest floor drain for drainage. 
    1. Provide a test valve, sight glass, sprinkler orifice equivalent and piping trim to the common drain piping for system testing. 
 
-## EXECUTION
+## Execution
 
 1. PREPARATION
    1. Perform fire-hydrant flow test according to NFPA 13 and NFPA 291. Use results for system design calculations required in "Quality Assurance" Article in Part 1 of this section of the Specifications.

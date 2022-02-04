@@ -67,7 +67,7 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Comply with manufacturer's rigging and installation instructions for unloading terminal units and moving them to final location.
 1. First four paragraphs below are defined in Division 01 Section "Submittal Procedures" as "Action Submittals."
 
-## PRODUCTS
+## Products
 
 1. MANUFACTURERS
    1. Subject to compliance with requirements, provide baseboard radiation from one of the following:
@@ -166,7 +166,7 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Extended Oilers:
       1. Plastic motor oiler tubes extending to beneath top discharge grille.
 
-## PRODUCTS
+## Products
 
 1. EXAMINATION
    1. Examine areas and conditions under which terminal units are to be installed. 

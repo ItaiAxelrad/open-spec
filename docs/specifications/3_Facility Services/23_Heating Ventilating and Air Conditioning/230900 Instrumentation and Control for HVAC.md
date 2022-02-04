@@ -79,7 +79,7 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Maintain cartons while shipping, storing, and handling as required to prevent equipment damage and to eliminate dirt and moisture from equipment. 
    1. Store equipment and materials inside and protect from weather.
 
-## PRODUCTS
+## Products
 
 1. MANUFACTURERS
    1. Subject to compliance with requirements, provide control systems from:
@@ -277,7 +277,7 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Where flow switches are used in chilled water applications, provide vapor-proof type to prevent condensation on electrical switch. 
    1. Provide pressure-flow switches of bellows actuated mercury type or snap-acting type, with appropriate scale range and differential adjustment for service indicated.
 
-## EXECUTION
+## Execution
 
 1. EXAMINATION
    1. Examine areas and conditions under which control systems are to be installed. 
