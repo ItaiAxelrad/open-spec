@@ -7,6 +7,6 @@ subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Specialties']
 ---
 
-   1. Division 10
-   1. Specialties
+# Division 10
 
+## Specialties

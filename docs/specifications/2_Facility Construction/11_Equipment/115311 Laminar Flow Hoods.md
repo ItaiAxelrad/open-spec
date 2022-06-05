@@ -16,12 +16,12 @@ tags: ['Facility', 'Construction', 'Equipment', 'Laminar', 'Flow', 'Hoods']
    1. Complete one-piece bench top polypropylene hood with minimum use of metal parts. All metal parts are Teflon coated (blower), HEPA filter is seporatorless and the adjustable sash is Lexan to access the non-metallic work zone.
    1. Fume Hood Base
    1. Matching acid storage fume hood bases to accommodate the width, depth and indicated work surface height.
-   1. RELATED SECTIONS
+1. RELATED SECTIONS
    1. Division 12 Section – General Requirements for Casework and Fume Hoods
    1. Division 23 Section – Laboratory Hood Instrumentation and Controls
    1. Division 26:
       1. Electrical
-   1. REFERENCES
+1. REFERENCES
    1. Federal Standard 209E – Airborne Particulate Cleanliness Classes in Cleanrooms and Clean Zones
    1. American National Standards Institute (ANSI)
    1. ANSI / ASHRAE Standard 110-1995 – Method of Testing Performance of Laboratory Fume Hoods.
@@ -35,7 +35,7 @@ tags: ['Facility', 'Construction', 'Equipment', 'Laminar', 'Flow', 'Hoods']
    1. Underwriters Laboratories
    1. 1805 – Standard for Laboratory Hoods and Cabinets
    1. 61010A-1 – Standard for Electrical Equipment for Laboratory Use.
-   1. DELIVERY, STORAGE AND HANDLING
+1. DELIVERY, STORAGE AND HANDLING
    1. Do not deliver or install equipment until the following conditions have been met:
       1. Windows and doors are installed and the building is secure and weather tight. Space heated to at least 40°F.
    1. Ceiling, overhead ductwork, and lighting are installed.

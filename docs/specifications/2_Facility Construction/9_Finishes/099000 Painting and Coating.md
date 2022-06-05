@@ -7,9 +7,6 @@ subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Finishes', 'Painting', 'Coating']
 ---
 
-   1. Section 09 90 00
-   1. Painting and Protective Coating
-
 ## General
 
 1. SUMMARY
@@ -219,7 +216,6 @@ tags: ['Facility', 'Construction', 'Finishes', 'Painting', 'Coating']
 		2. Finish coat(s):
 			1. F1 = 1 coat, 3 mils, 9200 System High Build Epoxy
 			2. F2 = 1 coat, 3 mils, 9200 System High Build Epoxy
-
 
 ## Execution
 
@@ -528,4 +524,3 @@ tags: ['Facility', 'Construction', 'Finishes', 'Painting', 'Coating']
 	1. Use care not to damage finished surfaces.
 9. Upon completion of painting, replace hardware, accessories, plates, fixtures, and similar items.
 10. Remove surplus materials, scaffolding, and debris.
-

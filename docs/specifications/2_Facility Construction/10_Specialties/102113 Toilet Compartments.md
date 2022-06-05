@@ -6,8 +6,6 @@ divName: Specialties
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Specialties', 'Toilet', 'Compartments']
 ---
-
-
 ## General
 
 1. SUMMARY
@@ -15,7 +13,7 @@ tags: ['Facility', 'Construction', 'Specialties', 'Toilet', 'Compartments']
    1. Provide floor mounted, top rail braced, metal toilet partition systems and shower/dressing compartments where shown on the Drawings, and as specified herein, and as needed for a complete and proper installation.
    1. Related Sections
    1. Documents affecting work of this Section include, but are not necessarily limited to, General Conditions, Supplemental Conditions, and Sections in Division 1 of these Specifications.
-1. SUBMITTALS
+2. SUBMITTALS
    1. Comply with pertinent provisions of Section 013300.
    1. Provide the following:
       1. Materials list of items proposed to be provided under this Section.
@@ -23,26 +21,23 @@ tags: ['Facility', 'Construction', 'Specialties', 'Toilet', 'Compartments']
    1. Shop Drawings in sufficient detail to show fabrication, installation, anchorage, and interface of the work of this Section with the work of adjacent trades.
    1. Color charts showing colors available from the proposed manufacturer in the specified products.
    1. Manufacturer's recommended installation procedures which, when approved by the Owner, will become the basis for accepting or rejecting actual installation procedures used on the Work.
-1. QUALITY ASSURANCE
+3. QUALITY ASSURANCE
    1. Use adequate numbers of skilled workman who are thoroughly trained and experienced in the necessary crafts and who are completely familiar with the specified requirements and the methods needed for proper performance of the work of this Section.
-   1. DELIVERY, STORAGE, AND PROTECTION
+4. DELIVERY, STORAGE, AND PROTECTION
    1. Comply with the pertinent provisions of Section 016000.
 
 ## Products
 
-   1. MANUFACTURERS
+1. MANUFACTURERS
    1. Accurate Partitions Div., Kinkead Industries, Inc.
    1. American Sanitary Partition Corporation
-
-## General
-
- Partitions Manufacturing Co.
+   1. General Partitions Manufacturing Co.
    1. Global Steel Products Corp.
    1. Knickerbocker Partition Corp.
    1. Metpar Steel Products Corp.
    1. The Mill Company
    1. Sanymetal Products Co.
-   1. MATERIALS
+2. MATERIALS
    1. Metal Toilet Partitions
    1. Provide metal toilet partitions, and urinal screens if so indicated on the Drawings, in the dimensions and arrangements shown, and with the following attributes.
    1. Door panels:
@@ -105,9 +100,8 @@ tags: ['Facility', 'Construction', 'Specialties', 'Toilet', 'Compartments']
    1. Examine the areas and conditions under which work of this Section will be performed.
    1. Correct conditions detrimental to timely and proper completion of the Work.
    1. Do not proceed until unsatisfactory conditions are corrected.
-   1. ERECTION INSTALLATION APPLICATION
+2. ERECTION INSTALLATION APPLICATION
    1. Coordinate as required with other trades to assure proper and adequate provisions in the work of those trades for interface with the work of this Section.
    1. Install the work of this Section in strict accordance with the original design, the approved Shop Drawings, pertinent requirements of governmental agencies having jurisdiction, and the manufacturer's recommended installation procedures as approved by the Owner, anchoring all components firmly into position for long life under hard use, plumb, level, and square.
    1. Except for compartments for the handicapped, adjust doors to remain at a uniformly open position when unlocked.
    1. Touchup scratches and abrasions to be permanently and completely invisible to the unaided eye from a distance of five feet.
-

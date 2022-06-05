@@ -10,74 +10,70 @@ tags: ['Facility', 'Construction', 'Finishes', 'Exterior', 'Painting']
 
 1. FIELD PAINTING AND COATING
    1. PART1 GENERAL
-01. DESCRIPTION
+1. DESCRIPTION
    1. This section includes materials and field application of painting and coating systems for exposed surfaces. 
-02. REFERENCE STANDARDS
+2. REFERENCE STANDARDS
    1. The publications listed below form part of this specification to the extent referenced and are referred to in the text by the basic designation only. Reference shall be made to the latest edition of said standards unless otherwise called for. 
    1. AWWA C 210 -- Liquid-Epoxy Coating Systems for the Interior and Exterior of Steel Water Pipelines
-2. AWWA C 218 -- Liquid Coating Systems for the Exterior of Above-Ground Steel Water
-3. Pipelines and Fittings
-4. SSPC -- Steel Structure Painting Council
-03. RELATED WORK SPECIFIED ELSEWHERE
+   2. AWWA C 218 -- Liquid Coating Systems for the Exterior of Above-Ground Steel Water
+   3. Pipelines and Fittings
+   4. SSPC -- Steel Structure Painting Council
+3. RELATED WORK SPECIFIED ELSEWHERE
    1. Standard Drawings
-2. Standard Specifications 01000, 01045, 01200, 01310, 01330, 01505, 01510, 01570, 02140, 02222, 02223, 02528, 02578, 03000, 03480, 03482, 09902, and Division 15.
-04. RESTRICTION ON CONTACT WITH POTABLE WATER
-   1. Under no circumstances shall paint materials specified in this Section be used where they may come in contact with the public water supply or for buried installations. These products are intended for exposed exterior use only.
-   1. Painting and coating materials in contact with potable and recycled water or for buried installations shall be in accordance with Section 15000.
-05. QUALITY CONTROL
-   1. Notify the City 48 hours in advance of field operations involving surface preparation and coating application.
-   1. The City will inspect shop and field-prepared surfaces. The Contractor shall not proceed with paint application until the surface preparation has been approved by the City Engineer.
-   1. The City will inspect application of all prime, intermediate, finish, and touch-up coatings to verify the integrity of the coating and compliance with the specifications. Each coating application will be checked and deficiencies marked. Items exhibiting an improper finish or color, or insufficient surface preparation or dry film thickness shall be prepared as necessary and corrected, utilizing the specified paint materials to obtain compliance. 
-06. SURFACES NOT TO BE FIELD PAINTED
-
-## General
-
-ly, the following items or materials are not to be field painted unless specifically required elsewhere in the specifications:
+   2. Standard Specifications 01000, 01045, 01200, 01310, 01330, 01505, 01510, 01570, 02140, 02222, 02223, 02528, 02578, 03000, 03480, 03482, 09902, and Division 15.
+4.  RESTRICTION ON CONTACT WITH POTABLE WATER
+   3. Under no circumstances shall paint materials specified in this Section be used where they may come in contact with the public water supply or for buried installations. These products are intended for exposed exterior use only.
+   4. Painting and coating materials in contact with potable and recycled water or for buried installations shall be in accordance with Section 15000.
+5.  QUALITY CONTROL
+   5. Notify the City 48 hours in advance of field operations involving surface preparation and coating application.
+   6. The City will inspect shop and field-prepared surfaces. The Contractor shall not proceed with paint application until the surface preparation has been approved by the City Engineer.
+   7. The City will inspect application of all prime, intermediate, finish, and touch-up coatings to verify the integrity of the coating and compliance with the specifications. Each coating application will be checked and deficiencies marked. Items exhibiting an improper finish or color, or insufficient surface preparation or dry film thickness shall be prepared as necessary and corrected, utilizing the specified paint materials to obtain compliance. 
+6.  SURFACES NOT TO BE FIELD PAINTED
+    1. Generally, the following items or materials are not to be field painted unless specifically required elsewhere in the specifications:
       1. Buried mortar-coated pipe and fittings.
-2. Stainless steel.
-3. Interior surfaces of valves, fittings and pipe.
-4. Nameplates.
-5. Grease fittings.
-6. Brass, copper, bronze, or galvanized items except as required for recycled water system identification.
-7. Buried pipe and appurtenances except as required in the piping specifications.
-07. COLOR AND PAINT SYSTEM SCHEDULE
-   1. The following tables designate the color and paint system that shall be used on the City’s various potable water and recycled water facilities.
-   1. Potable Water:
+    2. Stainless steel.
+    3. Interior surfaces of valves, fittings and pipe.
+    4. Nameplates.
+    5.  Grease fittings.
+    6.  Brass, copper, bronze, or galvanized items except as required for recycled water system identification.
+    7.  Buried pipe and appurtenances except as required in the piping specifications.
+7.  COLOR AND PAINT SYSTEM SCHEDULE
+   8. The following tables designate the color and paint system that shall be used on the City’s various potable water and recycled water facilities.
+   9. Potable Water:
          1. ITEM
-1. COLOR
-1. PAINT SYSTEM
-   1. Fire Hydrant
-   1. Safety Yellow
-   1. Acrylic or Epoxy/Urethane
-   1. Blow Off Box Lids
-   1. Safety Yellow
-   1. Acrylic Traffic Paint
-   1. Gate Well Lids
-   1. Blue
-   1. Acrylic Traffic Paint
-   1. Valve Can Lids - Fire Hydrant Valves
-   1. Safety Yellow
-   1. Acrylic Traffic Paint
-   1. Valve Can Lids- Normally Closed Valves
-   1. Safety Red
-   1. Acrylic Traffic Paint
-   1. Air/Vac Assemblies
-   1. Safety Yellow
-   1. Acrylic or Epoxy/Urethane
-   1. Water Test Station Enclosures
-   1. Green
-   1. Fusion Bonded Polyester 
-   1. Protector Posts
-   1. Safety Yellow
-   1. Acrylic or Epoxy/Urethane
-   1. Vault Piping
-   1. Per City
-   1. Acrylic or Epoxy
-   1. Above Ground Piping
-   1. Per City
-   1. Acrylic or Epoxy/Urethane
+8.  COLOR
+9.  PAINT SYSTEM
+   10. Fire Hydrant
+   11. Safety Yellow
+   12. Acrylic or Epoxy/Urethane
+   13. Blow Off Box Lids
+   14. Safety Yellow
+   15. Acrylic Traffic Paint
+   16. Gate Well Lids
+   17. Blue
+   18. Acrylic Traffic Paint
+   19. Valve Can Lids - Fire Hydrant Valves
+   20. Safety Yellow
+   21. Acrylic Traffic Paint
+   22. Valve Can Lids- Normally Closed Valves
+   23. Safety Red
+   24. Acrylic Traffic Paint
+   25. Air/Vac Assemblies
+   26. Safety Yellow
+   27. Acrylic or Epoxy/Urethane
+   28. Water Test Station Enclosures
+   29. Green
+   30. Fusion Bonded Polyester 
+   31. Protector Posts
+   32. Safety Yellow
+   33. Acrylic or Epoxy/Urethane
+   34. Vault Piping
+   35. Per City
+   36. Acrylic or Epoxy
+   37. Above Ground Piping
+   38. Per City
+   39. Acrylic or Epoxy/Urethane
 
-   
 ## Products
 
 1. GENERAL
@@ -136,7 +132,7 @@ ly, the following items or materials are not to be field painted unless specific
 1. SURFACE PREPARATION
    1. Do not prepare more surface area than can be coated in the same workday.
    1. Surface preparation shall conform to the SSPC specifications as follows:
-Solvent Cleaning SP-1
+   1. Solvent Cleaning SP-1
    1. Hand Tool Cleaning SP-2
    1. Power Tool Cleaning SP-3
    1. White Metal Blast Cleaning SP-5
@@ -171,6 +167,4 @@ Solvent Cleaning SP-1
 1. FUSION-BONDED POLYESTER
    1. Surface preparation for the Fusion-Bonded Polyester Paint System shall be in accordance with SSPC-SP-6. , Commercial Blast Cleaning. If Commercial Blast Cleaning is not feasible, prepare surfaces in accordance with SSPC-SP-11, Power Tool Cleaning to Bare Metal. 
    1. The Fusion-Bonded Polyester Paint System shall consist of a rapid-drying fusion-bonded polyester prime coat and a rapid-drying fusion-bonded polyester finish coat to provide a total dry film thickness of 6 mils to 10 mils. 
-   1. Observe minimum and maximum re-coat times and specified by the manufacturer. If these times are exceeded, the surface shall be re-prepared as recommended by the manufacturer and as directed by the City Engineer prior to receiving additional coats. 
-END OF SECTION
-
+   1. Observe minimum and maximum re-coat times and specified by the manufacturer. If these times are exceeded, the surface shall be re-prepared as recommended by the manufacturer and as directed by the City Engineer prior to receiving additional coats.

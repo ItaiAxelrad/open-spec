@@ -13,7 +13,7 @@ tags: ['Facility', 'Construction', 'Equipment', 'Projection', 'Screens']
 1. SUMMARY
    1. This Section includes the following:
       1. Front-projection screens.
-   1. RELATED SECTIONS
+1. RELATED SECTIONS
    1. Division 6 Section "Rough Carpentry" for wood backing for recessed screen installation.
    1. Division 26 Sections for electrical service and connections including metal device boxes for switches and conduit, where required, for low-voltage control wiring.
 1. SUBMITTALS
@@ -39,12 +39,12 @@ tags: ['Facility', 'Construction', 'Equipment', 'Projection', 'Screens']
 
 ## Products
 
-   1. MANUFACTURERS
+1. MANUFACTURERS
    1. Draper Inc. products are specified herein. Products by acceptable manufacturers may be substituted.
    1. Acceptable Manufacturers
    1. Draper Inc.
    1. Da-Lite Screen Co., Inc.
-   1. FRONT-PROJECTION SCREENS
+1. FRONT-PROJECTION SCREENS
    1. Draper Inc. envoy model, or approved equal.
    1. Recessed, Electrically Operated Screen with Automatic Ceiling Closure:
       1. Motor in roller unit designed and fabricated for recessed installation in ceiling; with bottom of case composed of two panels fully enclosing screen, motor, and wiring, one panel hinged and designed to open and close automatically when screen is lowered and fully raised, the other removable or openable for access to interior of case.

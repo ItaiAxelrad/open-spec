@@ -1,3 +1,3 @@
 # CAD Standards
 
-A documentation site for CAD standards.
+An open source documentation site for construction specifications, CAD standards, and design checklists.

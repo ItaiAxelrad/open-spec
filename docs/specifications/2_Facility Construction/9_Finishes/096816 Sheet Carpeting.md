@@ -7,7 +7,6 @@ subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Finishes', 'Sheet', 'Carpeting']
 ---
 
-
 ## General
 
 1. SUMMARY
@@ -18,7 +17,7 @@ tags: ['Facility', 'Construction', 'Finishes', 'Sheet', 'Carpeting']
    1. Verify that "or equal" carpets have same type construction and yarn face weights.
    1. Verify that flame and smoke ratings comply with State laws.
    1. Related Sections
-   1. DEFINITIONS
+1. DEFINITIONS
    1. Gauge:
       1. The number of surface yarns per inch counting across a carpet
    1. Pitch:
@@ -42,11 +41,11 @@ tags: ['Facility', 'Construction', 'Finishes', 'Sheet', 'Carpeting']
    1. Smoke developed for all facilities not exceeding 450 when tested by NFPA Standard 258.
    1. To meet accessibility requirements, provide only carpet of high density, low uncut pile, and non-absorbent fiber with total height of carpet and pad not exceeding 3/8 in. (0.95 cm.).
    1. Static requirements, for all carpet, not exceeding 3.5 KV per AATCC Test 134.
-   1. DELIVERY, STORAGE AND PROTECTION
+1. DELIVERY, STORAGE AND PROTECTION
    1. Deliver when areas of building are ready for carpet.
    1. Deliver with mill register numbers attached. Tag and mark accessory items for identification.
    1. Provide protection from loss or damage.
-   1. PROJECT/SITE CONDITIONS
+1. PROJECT/SITE CONDITIONS
    1. Install after all other finishing operations are completed in area to be carpeted.
    1. Verify suitability of substrate to accept carpeting.
    1. Check moisture content by sealing an inverted glass tumbler to floor with putty for 24 hours.
@@ -57,14 +56,14 @@ tags: ['Facility', 'Construction', 'Finishes', 'Sheet', 'Carpeting']
    1. Excessive wear is defined as wearing away of face yarns which reduces pile height by more than 10 percent in any area, seam separation and/or pulling out of nap.
    1. Contractor to cover entire cost of carpet replacement, including removal and disposal of defective carpet.
    1. Written guarantee to be jointly signed by Contractor, Installer and Manufacturer.
-   1. MAINTENANCE
+1. MAINTENANCE
    1. Provide operational and maintenance instructions for products and components into a manual.
    1. Specifications requirements for maintenance information should include recommended brand names of cleaning solutions, spot removers, and equipment.
    1. Wet cleaning methods are not to be used due to fading and shrinkage from carpet fibers being over-wet and due to the drying time required.
 
 ## Products
 
-   1. MANUFACTURERS
+1. MANUFACTURERS
    1. Bentley
    1. Collins & Aikman
    1. Stratton
@@ -98,6 +97,5 @@ tags: ['Facility', 'Construction', 'Finishes', 'Sheet', 'Carpeting']
 
 ## Execution
 
-   1. CLEANING
+1. CLEANING
    1. See Section 1.10, Maintenance, above.
-

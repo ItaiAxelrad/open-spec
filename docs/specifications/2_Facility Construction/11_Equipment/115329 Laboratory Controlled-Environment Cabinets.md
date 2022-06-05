@@ -10,27 +10,27 @@ tags: ['Facility', 'Construction', 'Equipment', 'Laboratory', 'Controlled-Enviro
 
 ## General
 
-   1. Summary
+1. Summary
    1. This section includes the provision and installation of gas cabinets for dispensing of hazardous gases within the building.
    1. Related sections
    1. Division 21 Section – Wet-Pipe Sprinkler Systems
    1. Division 22 Sections for Compressed Air
    1. Division 22 Section – Gas Piping
    1. Division 23 – Mechanical for exhaust system connection requirements
-   1. REFERENCES
+1. REFERENCES
    1. International Fire Code (IFC)
-8..5 – Gas Cabinets
+   5 – Gas Cabinets
    1. Submittals
-   1. Submit manufacturer’s literature indicating details of gas cabinet construction.
-   1. Submit Shop Drawings showing details of fabrication.
-   1. Provide a schedule showing sizes and locations of gas cabinets to be provided.
+   2. Submit manufacturer’s literature indicating details of gas cabinet construction.
+   3. Submit Shop Drawings showing details of fabrication.
+   4. Provide a schedule showing sizes and locations of gas cabinets to be provided.
 1. PROJECT CONDITIONS
    1. Delivery
-   1. Do not deliver gas cabinets to the project site until the building is fully enclosed, floor materials have been installed, and painting is complete.
+   2. Do not deliver gas cabinets to the project site until the building is fully enclosed, floor materials have been installed, and painting is complete.
    
 ## Products
 
-   1. Manufacturers
+1. Manufacturers
    1. Safety Equipment Corporation, Belmont, CA, 7000 Series cabinets.
    1. Spectra-Gases, Inc., Branchburg, NJ, 200 Series cabinets
    1. Norcimbus, Inc., Phoenix, AZ, GCE Series cabinets

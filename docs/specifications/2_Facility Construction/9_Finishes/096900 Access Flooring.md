@@ -11,7 +11,7 @@ tags: ['Facility', 'Construction', 'Finishes', 'Access', 'Flooring']
 
 1. Summary
    1. Refer to Section 018113 - Environmental Goals for the Project; 018113A – Appendix A - Materials Anticipated to be Used for Recycled Content; and 018113B – LEED Matrix for materials requiring contractor validation of recycled content.
-   1. References
+1. References
    1. Aluminum Association (AA)
    1. DAF-45 - Designation System for Aluminum Finishes.
    1. American Association of Textile Chemists and Colorists (AATCC)
@@ -59,14 +59,14 @@ tags: ['Facility', 'Construction', 'Finishes', 'Access', 'Flooring']
    1. quality assurance
    1. Contractor's Qualifications
    1. Employ an authorized representative of the access floor manufacturer to install the floor with the use of workmen skilled in the trade.
-   1. warranty
+1. warranty
    1. Special Warranty
    1. Warrant access floor work for two years against defective materials and workmanship, except defects due to Owner's abuse or failure of other work.
    1. During the warranty period, restore defective Work to the standard of the Contract documents, including materials, labor and other costs incidental to the Work. Within 24 hours after receipt of notice from the Owner, inspect the Work. Restore Work found to be defective as defined in the Contract Documents within 10 days after receipt of notice from the Owner.
 
 ## Products
 
-   1. COMPONENTS
+1. COMPONENTS
    1. Manufacturers
    1. C-TEC, Inc.
    1. Maxcess Technologies, Inc.
@@ -114,7 +114,7 @@ tags: ['Facility', 'Construction', 'Finishes', 'Access', 'Flooring']
 
 ## Execution
 
-   1. Preparation
+1. Preparation
    1. Clean the sub-floor area free of dirt and debris prior to installation of access floors. Remove substances which may interfere with bond from concrete in contact with adhesive.
    1. installation
    1. Panels and Panel Supports
@@ -124,9 +124,7 @@ tags: ['Facility', 'Construction', 'Finishes', 'Access', 'Flooring']
    1. Provide openings and cutouts in access floor as required to receive equipment wiring and vertical structures in area. Fit cutouts with sponge rubber filler. Provide raised moulded trim of resilient material framed around openings and cutouts to cover edge of metal facing. Provide 10 cutouts in bid to receive equipment wiring.
    1. Resilient Base
    1. Provide resilient base where access floor system abuts walls, columns and partitions.
-   1. Cleaning
+1. Cleaning
    1. Upon completion of the Work, clean panel surfacing material in accordance with the instructions of the surfacing material manufacturer.
    1. Electrical Grounding
    1. Attach the floor structure in at least 3 places to the structural steel or to the electrical ground system.
-
-

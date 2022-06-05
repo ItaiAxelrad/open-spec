@@ -7,7 +7,6 @@ subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Finishes', 'Gypsum', 'Board']
 ---
 
-
 ## General
 
 1. SUMMARY

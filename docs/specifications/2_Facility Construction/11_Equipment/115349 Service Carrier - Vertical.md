@@ -7,7 +7,6 @@ subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Equipment', 'Service', 'Carrier', 'Vertical']
 ---
 
-
 ## General
 
 1. SUMMARY
@@ -17,7 +16,7 @@ tags: ['Facility', 'Construction', 'Equipment', 'Service', 'Carrier', 'Vertical'
       1. Section 12345 – Inset Steel Laboratory Casework
    1. Division 23 – Heating Ventilating and Air Conditioning
    1. Division 26 – Electrical
-   1. SYSTEM DESIGN REQUIREMENTS
+1. SYSTEM DESIGN REQUIREMENTS
    1. Modular dimensioned system of support structures.
    1. Service Carriers:
       1. Support structure for designed as a service chase for all utility, mechanical and HVAC feeds.
@@ -44,7 +43,7 @@ tags: ['Facility', 'Construction', 'Equipment', 'Service', 'Carrier', 'Vertical'
       1. Modern plant with proper tools, dies, fixtures and skilled workmen to produced high quality laboratory casework and equipment, and shall meet the following minimum requirements:
       1. Five years or more experience in manufacture of laboratory casework and equipment of type specified.
    1. Ten installations of equal or larger size and requirements.
-   1. REFERENCE STANDARDS
+1. REFERENCE STANDARDS
    1. All casework, work surface and service fixture construction and performance characteristics shall be in full compliance with SEFA (Scientific Equipment and Furniture Association) standards. At the owner’s request, independent, third party testing must be submitted validating compliance and adheres to the architectural specifications.
    1. SEFA 2.3 – Installation of Scientific Laboratory Furniture and Equipment.
    1. SEFA 3 – Work Surfaces
@@ -60,44 +59,41 @@ tags: ['Facility', 'Construction', 'Equipment', 'Service', 'Carrier', 'Vertical'
 
 ## Products
 
-   1. MANUFACTURER
+1. MANUFACTURER
    1. Design, materials, construction and finish of the Vertical Service Carrier specified is the minimum acceptable standard of quality for adaptable laboratory casework.
-   1. CARRIER BODIES
-
-## General
-
- requirements for Carriers:
+1. CARRIER BODIES
+   1. General requirements for Carriers:
       1. Structural support frame:
          1. 12-gauge cold rolled steel unistrut channel. Weld members using the inert gas process.
-   1. Carrier body wrapper:
+   2. Carrier body wrapper:
       1. One piece 16-gauge cold rolled steel
-   1. Access doors shall incorporate two-point hinge system with door latch. Doors shall be removed without tools for utility access and visual inspection.
-   1. Carrier body shall be factory pre-punched for the maximum amount of electrical, teledata outlets and service fittings.
-   1. Side Panels shall be removable, in the field, by means of simple mechanical fasteners without jeopardizing the structural integrity of the support structure.
-   1. Optional bottom patch panel shall provide a means to support optional localized exhaust units.
-   1. Plug caps:
+   3. Access doors shall incorporate two-point hinge system with door latch. Doors shall be removed without tools for utility access and visual inspection.
+   4. Carrier body shall be factory pre-punched for the maximum amount of electrical, teledata outlets and service fittings.
+   5. Side Panels shall be removable, in the field, by means of simple mechanical fasteners without jeopardizing the structural integrity of the support structure.
+   6. Optional bottom patch panel shall provide a means to support optional localized exhaust units.
+   7. Plug caps:
       1. Flame resistant ABS plastic, color matched.
-   1. Finish:
+   8. Finish:
       1. Chemical resistant powder paint finish in manufacturer's standard color to be selected.
-   1. Carrier Bodies
-   1. Nominal dimensions:
+   9. Carrier Bodies
+   10. Nominal dimensions:
       1. Width:
          1. 16" X 16”
-   1. Height:
-      1. 36”
-   1. Upper support channels shall offer a means to attach to the building structure with commercial available “C” channel support attachments.
-   1. FINISHES
-   1. Metal finish:
-      1. Preparation:
+   11. Height:
+      2. 36”
+   12. Upper support channels shall offer a means to attach to the building structure with commercial available “C” channel support attachments.
+1. FINISHES
+   14. Metal finish:
+      3. Preparation:
          1. Properly clean metal to receive finish.
-   1. Application:
-      1. Electrostatically apply urethane powder coat of selected color and bake in controlled high temperature oven to assure a smooth, hard satin finish. Surfaces shall have a chemical resistant, high grade laboratory furniture quality finish of the following thickness:
-      1. Liquid, dipped, solvent based finishes are not and will not be acceptable.
-   1. Exterior and interior exposed surfaces:
+   15. Application:
+      4. Electrostatically apply urethane powder coat of selected color and bake in controlled high temperature oven to assure a smooth, hard satin finish. Surfaces shall have a chemical resistant, high grade laboratory furniture quality finish of the following thickness:
+      5. Liquid, dipped, solvent based finishes are not and will not be acceptable.
+   16. Exterior and interior exposed surfaces:
       1.5 mil average and 1.2 mil min.
-   1. Backs of cabinets and other surfaces not exposed to view:
+   17. Backs of cabinets and other surfaces not exposed to view:
       1.2 mil average.
-   1. Cabinet Surface Finish Tests:
+   18. Cabinet Surface Finish Tests:
       1. All casework construction and performance characteristics shall be in full compliance with SEFA 8 standards.
 
 ## Execution
@@ -106,12 +102,10 @@ tags: ['Facility', 'Construction', 'Equipment', 'Service', 'Carrier', 'Vertical'
    1. Carrier system installation:
       1. Install system in strict accordance with manufacturer's instructions.
    1. Set system components plumb, square, and straight with no distortion and securely anchored to building structure.
-   1. ADJUSTING
+1. ADJUSTING
    1. Repair or remove and replace defective work, as directed by Owner upon completion of installation.
-   1. CLEANING
+1. CLEANING
    1. Clean shop finished laboratory furniture system surfaces and touch up as required.
-   1. PROTECTION OF FINISHED WORK
+1. PROTECTION OF FINISHED WORK
    1. Provide all necessary protective measures to prevent exposure of laboratory furniture system and attached components to other construction activity.
    1. Advise contractor of procedures and precautions for protection of material, installed laboratory furniture system, casework and fixtures from damage by work of other trades.
-
-

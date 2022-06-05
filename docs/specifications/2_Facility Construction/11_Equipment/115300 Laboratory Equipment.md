@@ -7,10 +7,9 @@ subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Equipment', 'Laboratory']
 ---
 
-
 ## General
 
-   1. REFERENCES
+1. REFERENCES
    1. Aluminum Association (AA)
    1. DAF-45 - Designation System for Aluminum Finishes.
    1. SAA-46 - Standards for Anodized Architectural Aluminum.

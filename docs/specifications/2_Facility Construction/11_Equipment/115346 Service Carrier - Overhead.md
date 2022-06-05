@@ -20,7 +20,7 @@ tags: ['Facility', 'Construction', 'Equipment', 'Service', 'Carrier', 'Overhead'
       1. Mechanical
    1. Plumbing
    1. Electrical
-   1. SYSTEM DESIGN REQUIREMENTS
+1. SYSTEM DESIGN REQUIREMENTS
    1. Horizontal service chase ties into the roof deck and is suspended below the ceiling t-grid.
    1. Heavy-Duty Vertical Uprights:
       1. Support structure for cantilevered shelves with optional ceiling extension assemblies that can height adjust the horizontal carrier body for different working heights. Carrier body shall serve as a service chase for all cabling, plumbing, electrical conduit, light fixtures and localized exhaust ductwork.
@@ -58,62 +58,56 @@ tags: ['Facility', 'Construction', 'Equipment', 'Service', 'Carrier', 'Overhead'
 
 ## Products
 
-   1. MANUFACTURER
+1. MANUFACTURER
    1. Design, materials, construction and finish of product specified are the minimum acceptable standard of quality for the Overhead Service Carrier.
-   1. OVERHEAD SERVICE CARRIER
-
-## General
-
- requirements for carriers:
+1. OVERHEAD SERVICE CARRIER
+   1. General requirements for carriers:
       1. Carrier body and inside/outside access covers shall be fabricated from 16-gauge cold rolled steel.
-   1. Carrier body shall incorporate UL approved, factory installed junction boxes for electrical and teledata outlets. Electrical and teledata outlets to be field installed.
-   1. Carrier body shall also incorporate factory punched and plugged service ports. Service fixtures to be field installed.
-   1. Finish:
+   2. Carrier body shall incorporate UL approved, factory installed junction boxes for electrical and teledata outlets. Electrical and teledata outlets to be field installed.
+   3. Carrier body shall also incorporate factory punched and plugged service ports. Service fixtures to be field installed.
+   4. Finish:
       1. Chemical resistant powder paint finish in manufacturer's standard color to be selected.
-   1. Carrier body:
+   5. Carrier body:
       1. Nominal table frame dimensions:
             1. Width:
-      1. 72”
-   1. Depth:
+      2. 72”
+   6. Depth:
       1. 18”
-   1. Height:
+   7. Height:
       1. 8.5”
-   1. Capable of vertical adjustment in one-inch increments.
-   1. Interior service bracket:
+   8. Capable of vertical adjustment in one-inch increments.
+   9. Interior service bracket:
       1. Support bracket of 11-gauge cold rolled steel that can accept attachment brackets for copper and conduit service lines.
-   1. Carrier body end covers shall include a set of two end covers to enclose exposed ends of the carrier body.
-   1. Patch panel assemblies shall include lamp assembly, snorkel panels for localized exhaust and blank panels for field modifications.
-   1. Lamp assemblies shall include two 40W florescent bulbs, prismatic lens and replaceable ballasts.
-   1. Lamp assemblies can be rebulbed by a bottom removal of the lens cover. Accessibility from the body interior is not acceptable.
-   1. Load bearing capabilities:
-      1. Total overhead service carrier plus 400 pounds per unit.
-   1. Shelf unit plus 100 to 180 pounds respective of size.
-   1. CEILING POST ASSEMBLIES
-
-## General
-
- requirements for ceiling post assemblies, ceiling extension assemblies structures:
-      1. Vertical structural support:
+   10. Carrier body end covers shall include a set of two end covers to enclose exposed ends of the carrier body.
+   11. Patch panel assemblies shall include lamp assembly, snorkel panels for localized exhaust and blank panels for field modifications.
+   12. Lamp assemblies shall include two 40W florescent bulbs, prismatic lens and replaceable ballasts.
+   13. Lamp assemblies can be rebulbed by a bottom removal of the lens cover. Accessibility from the body interior is not acceptable.
+   14. Load bearing capabilities:
+      2. Total overhead service carrier plus 400 pounds per unit.
+   15. Shelf unit plus 100 to 180 pounds respective of size.
+   16. CEILING POST ASSEMBLIES
+       1.  General requirements for ceiling post assemblies, ceiling extension assemblies structures:
+      3. Vertical structural support:
          1. 16-gauge cold rolled vertical shall integrate a slotted standard to cantilevered components.
-   1. Nominal height options:
-      1. 36”
-   1. Ceiling extension assembly shall insert into the ceiling posts to add 24” to distance from carrier body to the ceiling area.
-   1. Ceiling extensions shall be attached to the ceiling posts by four mechanical attached devices that can be installed with simple hand tools.
-   1. Ceiling gusset assemblies include a set of two gussets to provide a means to attach to the ceiling deck or structural support. Ceiling gusset shall include attachment hardware to extension assembly. 11-gauge rolled steel.
-   1. Filler panel assemblies shall provide an umbilical chase between the ceiling plenum and horizontal chase.
-   1. A set of two filler panels shall enclose the space between the ceiling posts.
-   1. FINISHES
-   1. Metal finish:
-      1. Preparation:
+   17. Nominal height options:
+      4. 36”
+   18. Ceiling extension assembly shall insert into the ceiling posts to add 24” to distance from carrier body to the ceiling area.
+   19. Ceiling extensions shall be attached to the ceiling posts by four mechanical attached devices that can be installed with simple hand tools.
+   20. Ceiling gusset assemblies include a set of two gussets to provide a means to attach to the ceiling deck or structural support. Ceiling gusset shall include attachment hardware to extension assembly. 11-gauge rolled steel.
+   21. Filler panel assemblies shall provide an umbilical chase between the ceiling plenum and horizontal chase.
+   22. A set of two filler panels shall enclose the space between the ceiling posts.
+23. FINISHES
+   24. Metal finish:
+      5. Preparation:
          1. Properly clean metal to receive finish.
-   1. Application:
-      1. Electrostatically apply urethane powder coat of selected color and bake in controlled high temperature oven to assure a smooth, hard satin finish. Surfaces shall have a chemical resistant, high grade laboratory furniture quality finish of the following thickness:
-      1. Liquid, dipped, solvent based finishes are not and will not be acceptable.
-   1. Exterior and interior exposed surfaces:
+   25. Application:
+      6. Electrostatically apply urethane powder coat of selected color and bake in controlled high temperature oven to assure a smooth, hard satin finish. Surfaces shall have a chemical resistant, high grade laboratory furniture quality finish of the following thickness:
+      7. Liquid, dipped, solvent based finishes are not and will not be acceptable.
+   26. Exterior and interior exposed surfaces:
       1.5 mil average and 1.2 mil min.
-   1. Backs of cabinets and other surfaces not exposed to view:
+   27. Backs of cabinets and other surfaces not exposed to view:
       1.2 mil average.
-   1. Cabinet Surface Finish Tests:
+   28. Cabinet Surface Finish Tests:
       1. All casework construction and performance characteristics shall be in full compliance with SEFA 8 standards.
 
 ## Execution
@@ -123,12 +117,10 @@ tags: ['Facility', 'Construction', 'Equipment', 'Service', 'Carrier', 'Overhead'
       1. Install system in strict accordance with manufacturer's instructions.
    1. Set system components plumb, square, and straight with no distortion and securely anchored to building structure. Shim as required using concealed shims.
    1. Install Overhead Service Carrier and accessory items per Manufacturer’s recommendations
-   1. ADJUSTING
+1. ADJUSTING
    1. Repair or remove and replace defective work, as directed by Owner upon completion of installation.
-   1. CLEANING
+1. CLEANING
    1. Clean shop finished laboratory Overhead Service Carrier system and touch up as required.
-   1. PROTECTION OF FINISHED WORK
+1. PROTECTION OF FINISHED WORK
    1. Provide all necessary protective measures to prevent exposure of laboratory Overhead Service Carrier system and attached components from exposure to other construction activity.
    1. Advise contractor of procedures and precautions for protection of material, installed laboratory Overhead Service Carrier system, and fixtures from damage by work of other trades.
-
-

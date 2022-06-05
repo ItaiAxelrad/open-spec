@@ -19,8 +19,11 @@ tags: ['Facility', 'Construction', 'Finishes', 'Common', 'Work', 'Results', 'Flo
 
 1. FLOOR FILLERS
    1. Tamms Industries Co. Floorstone, for thick or thin fills, as appropriate.
+
+## Execution
+
 1. INSTALLATION
-1. APPLICATION
+2. APPLICATION
    1. Mix and apply as instructed by manufacturer.
-   1. Fill and smooth around conduit set in grooves cut into existing slabs.
-   1. Fill and smooth spalled or otherwise damaged slabs as required for proper installation of finish flooring.
+   2. Fill and smooth around conduit set in grooves cut into existing slabs.
+   3. Fill and smooth spalled or otherwise damaged slabs as required for proper installation of finish flooring.

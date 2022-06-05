@@ -64,7 +64,7 @@ tags: ['Facility', 'Construction', 'Finishes', 'Resinous', 'Flooring']
 
 ## Products
 
-   1. Manufacturers
+1. Manufacturers
    2. Crossfield Products Corp. (Dex-O-Tex)
    General Polymers Corp. (General Polymers)
    1. Key Resin Co. (Key Resin)

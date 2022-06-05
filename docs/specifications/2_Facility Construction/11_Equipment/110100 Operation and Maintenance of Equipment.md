@@ -7,10 +7,6 @@ subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Equipment', 'Operation', 'Maintenance']
 ---
 
-   1. Section 11 01 00
-   1. Equipment:
-      1. Basic Requirements
-
 ## General
 
 1. SUMMARY
@@ -78,10 +74,7 @@ tags: ['Facility', 'Construction', 'Equipment', 'Operation', 'Maintenance']
 	3. Submittals
 9. See Specification Section 01 33 00 for requirements for the mechanics and administration of the submittal process.
 10. Shop Drawings:
-	
-## General
-
- for all equipment:
+1. General for all equipment:
 		1. See Specification Section 01 33 00 for requirements for the mechanics and administration of the submittal process.
 		2. Data sheets that include manufacturer's name and complete product model number.
 			1. Clearly identify all optional accessories that are included.
@@ -106,7 +99,7 @@ tags: ['Facility', 'Construction', 'Equipment', 'Operation', 'Maintenance']
 			1. Certification that all components comply fully with OSHA requirements.
 			2. Full details of construction/fabrication.
 			3. Scaled plan and sections showing relationship to equipment.
-	2. Mechanical and process equipment:
+	1. Mechanical and process equipment:
 		1. Operating characteristics:
 			1. Technical information including applicable performance curves showing specified equipment capacity, rangeability, and efficiencies.
 			2. Brake horsepower requirements.
@@ -116,7 +109,7 @@ tags: ['Facility', 'Construction', 'Equipment', 'Operation', 'Maintenance']
 		4. Equipment foundation data:
 			1. Equipment center of gravity.
 			2. Criteria for designing vibration, special or unbalanced forces resulting from equipment operation.
-	3. Electric motor:
+	2. Electric motor:
 		1. Motor manufacturer and model number.
 		2. Complete motor nameplate data.
 		3. Weight.
@@ -144,47 +137,49 @@ tags: ['Facility', 'Construction', 'Equipment', 'Operation', 'Maintenance']
 			3. Include minimum speed at which the motor may be operated for the driven machinery.
 		15. Electrical gear:
 			1. Unless specified in a narrow-scope Specification Section, provide the following:
-			1. Equipment ratings: Voltage, continuous current, kVA, watts, short circuit with stand, etc., as applicable.
-			2. Control panels:
-			1. Panel construction, material, and enclosure rating
-			2. Point-to-point ladder diagrams.
-			3. Scaled panel face and subpanel layout.
-			4. Technical product data on panel components.
-			5. Panel and subpanel dimensions and weights.
-			6. Panel access openings.
-			7. Nameplate schedule.
-			8. Panel anchorage.
-	4. Systems schematics and data:
+			2. Equipment ratings: Voltage, continuous current, kVA, watts, short circuit with stand, etc., as applicable.
+			3. Control panels:
+			4. Panel construction, material, and enclosure rating
+			5. Point-to-point ladder diagrams.
+			6. Scaled panel face and subpanel layout.
+			7. Technical product data on panel components.
+			8. Panel and subpanel dimensions and weights.
+			9. Panel access openings.
+			10. Nameplate schedule.
+			11. Panel anchorage.
+	3. Systems schematics and data:
 		1. Provide system schematics where required in system specifications.
 			1. Acknowledge all system components being supplied as part of the system.
 			2. Utilize equipment, instrument and valving tag numbers defined in the Contract Documents for all components.
 			3. Provide technical data for each system component showing compliance with the Contract Document requirements.
 			4. For piping components, identify all utility connections, vents and drains which will be included as part of the system.
-	5. For factory painted equipment, provide paint submittals in accordance with Specification Section 09 90 00.
-	6. Qualifications for:
+	4. For factory painted equipment, provide paint submittals in accordance with Specification Section 09 90 00.
+	5. Qualifications for:
 		1. Electrical equipment and connections testing firm and personnel.
-	7. Equipment Monitoring and Testing plans, in accordance with PART 3 of this Specification Section:
+	6. Equipment Monitoring and Testing plans, in accordance with PART 3 of this Specification Section:
 		1. Electrical equipment and connection testing.
 11. Operation and Maintenance Manuals:
-	1. See Specification Section 01 33 00 for requirements for:
+	7. See Specification Section 01 33 00 for requirements for:
 		1. The mechanics and administration of the submittal process.
 		2. The content of Operation and Maintenance Manuals.
 12. Informational Submittals:
-	1. Sample form letter for equipment field certification.
-	2. Certification that equipment has been installed properly, has been initially started up, has been calibrated and/or adjusted as required, and is ready for operation.
-	3. Certification for major equipment supports that equipment foundation design loads shown on the Drawings or specified have been compared to actual loads exhibited by equipment provided for this Project and that said design loadings are equal to or greater than the loads produced by the equipment provided.
-	4. Field noise testing reports if such testing is specified in narrow-scope Specification Sections.
-	5. Notification, at least one (1) week in advance, that motor testing will be conducted at factory.
-	6. Certification from equipment manufacturer that all manufacturer-supplied control panels that interface in any way with other controls or panels have been submitted to and coordinated with the supplier/installer of those interfacing systems.
-	7. Motor test reports.
-	8. Certification prior to Project closeout that electrical panel drawings for manufacturer supplied control panels truly represent panel wiring including any field-made modifications.
-	9. Provide three (3) bound final written reports documenting vibration monitoring and testing for specified equipment.
+	8. Sample form letter for equipment field certification.
+	9. Certification that equipment has been installed properly, has been initially started up, has been calibrated and/or adjusted as required, and is ready for operation.
+	10. Certification for major equipment supports that equipment foundation design loads shown on the Drawings or specified have been compared to actual loads exhibited by equipment provided for this Project and that said design loadings are equal to or greater than the loads produced by the equipment provided.
+	11. Field noise testing reports if such testing is specified in narrow-scope Specification Sections.
+	12. Notification, at least one (1) week in advance, that motor testing will be conducted at factory.
+	13. Certification from equipment manufacturer that all manufacturer-supplied control panels that interface in any way with other controls or panels have been submitted to and coordinated with the supplier/installer of those interfacing systems.
+	14. Motor test reports.
+	15. Certification prior to Project closeout that electrical panel drawings for manufacturer supplied control panels truly represent panel wiring including any field-made modifications.
+	16. Provide three (3) bound final written reports documenting vibration monitoring and testing for specified equipment.
 		1. Include the acceptance criteria of all equipment tested.
 		2. Provide individual tabbed sections for information associated with each piece of tested equipment.
-	10. Preliminary field quality control testing format to be used as a basis for final field quality control reporting.
-	11. Testing and monitoring reports in accordance with PART 3 of this Specification Section.
-	12. Certification that driven equipment and VFD are compatible.
+	17. Preliminary field quality control testing format to be used as a basis for final field quality control reporting.
+	18. Testing and monitoring reports in accordance with PART 3 of this Specification Section.
+	19. Certification that driven equipment and VFD are compatible.
+
 ## Product
+
 1. Manufactured Units
    1. Electric Motors:
 	1. Where used in conjunction with adjustable speed AC or DC drives, provide motors that are fully compatible with the speed controllers.
@@ -338,7 +333,6 @@ tags: ['Facility', 'Construction', 'Equipment', 'Operation', 'Maintenance']
 	2. Provide routine test for all motors.
 	3. The Owner reserves the right to select and have tested, either routine or complete, any motor included in the project.
 
-
 ## Execution
 
 1. Installation
@@ -455,4 +449,3 @@ tags: ['Facility', 'Construction', 'Equipment', 'Operation', 'Maintenance']
 		1. The ratio of the natural frequency of the structure to the frequency of the disturbing force shall not be between 0.5 and 1.5.
 1. Demonstration
    1. Demonstrate equipment in accordance with Section 01 75 00.
-

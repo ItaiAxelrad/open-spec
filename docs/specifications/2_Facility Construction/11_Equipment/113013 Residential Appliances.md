@@ -7,9 +7,6 @@ subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Equipment', 'Residential', 'Appliances']
 ---
 
-
-   1. RESIDENTIAL APPLIANCES
-
 ## General
 
 1. SUMMARY

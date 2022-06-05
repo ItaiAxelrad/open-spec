@@ -7,7 +7,6 @@ subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Equipment', 'Laboratory', 'Fume', 'Hoods']
 ---
 
-
 ## General
 
 1. SUMMARY
@@ -18,7 +17,7 @@ tags: ['Facility', 'Construction', 'Equipment', 'Laboratory', 'Fume', 'Hoods']
    1. Plumbing Specifications
    1. Mechanical Specifications
    1. Electrical Specifications
-   1. FUME HOOD GENERAL DESIGN REQUIREMENTS
+1. FUME HOOD GENERAL DESIGN REQUIREMENTS
    1. Fume hoods shall function as ventilated, enclosed workspaces, designed to capture, confine and exhaust fumes, vapors and particulate matter produced or generated within the enclosure.
    1. Fume hood shall provide for consistent and safe air flow through the hood face. Negative variations of face velocity shall not exceed 20% of the average face velocity at any designated measuring point as defined in this section.
    1. Average illumination of work area with Polyresin liner:

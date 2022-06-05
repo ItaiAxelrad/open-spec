@@ -7,10 +7,9 @@ subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Specialties', 'Other']
 ---
 
-
 ## General
 
-   1. REFERENCES
+1. REFERENCES
    1. Aluminum Association (AA)
    1. DAF-45 - Designation System for Aluminum Finishes.
    1. SAA-46 - Standards for Anodized Architectural Aluminum.
@@ -21,7 +20,7 @@ tags: ['Facility', 'Construction', 'Specialties', 'Other']
    1. 252 - Methods of Fire Tests of Door Assemblies.
    1. Underwriters Laboratories Inc. (UL)
    1. 10B - Fire Tests of Door Assemblies.
-   1. Submittals
+1. Submittals
    1. Shop Drawings
    1. Submit Shop Drawings of each item, showing layout and details of fabrication and installation.
    1. Samples
@@ -35,7 +34,7 @@ tags: ['Facility', 'Construction', 'Specialties', 'Other']
    
 ## Products
 
-   1. Finish For Aluminum
+1. Finish For Aluminum
    1. Clear Anodic Finish
    1. For work specified to have clear anodic finish, provide an AA-M12C22A31 finish, unless otherwise specified, in accordance with AA DAF-45 and AA SAA-46.
    1. Hard Anodic Finish
@@ -48,7 +47,7 @@ tags: ['Facility', 'Construction', 'Specialties', 'Other']
    1. Coat Racks - Wall Mounted
    1. Manufacturers
    1. Nominal 12 inch projection, length and number of shelves indicated, as manufactured by Emco Specialty Products, Inc. or as approved. Brackets and mounts spaced per manufacturer’s recommendations.
-   1. Fabrication
+1. Fabrication
    1. Shelves:
       1. four extruded aluminum tubes, clear satin finish, with ends closed by brackets or caps.
    1. Hanger rod:
@@ -60,7 +59,7 @@ tags: ['Facility', 'Construction', 'Specialties', 'Other']
    1. Finish:
       1. Powder-coat in manufacturer’s standard color, selected by Architect.
    1. janitor closet Utility Shelf
-   1. Manufacturers
+1. Manufacturers
    1. American Specialties, Inc. "No. 1308"; Bobrick Washroom Equipment, Inc. "B-239"; or as approved, approximately 34 inches wide with 3 mop holders and 4 rag and towel hooks.
    1. Fabrication
    1. Shelf and vertical strip:
@@ -84,21 +83,17 @@ tags: ['Facility', 'Construction', 'Specialties', 'Other']
 1. PREPARATION
    1. Protection
    1. Protect the Work and adjacent construction against damage.
-   1. Installation
-
-## General
-
+1. Installation
    1. Install each item of miscellaneous specialties in accordance with manufacturer's instructions, approved Shop Drawings and specified requirements. Furnish each item with required fasteners.
-   1. Replace concrete where necessary to properly receive embedded anchors.
-   1. Coat Racks
-   1. Anchor wall mounts to wall with toggle bolts at maximum spacing of 38 inches.
-   1. Utility Shelf
-   1. Anchor a utility shelf to the wall of each janitor's closet.
-   1. Vestibule Mat
-   1. Install mat in floor recess with corrugations parallel to thresholds, edges square, straight and parallel to boundary of recess.
-   1. Where joints are required in large mats for ease of handling, fit the joints tight.
-   1. Vestibule Grating
-   1. Install frame surface mounted in recess in concrete floor in a level and accurate plane. Set grating in frame.
-   1. CLEANING
+   3. Replace concrete where necessary to properly receive embedded anchors.
+   4. Coat Racks
+   5. Anchor wall mounts to wall with toggle bolts at maximum spacing of 38 inches.
+   6. Utility Shelf
+   7. Anchor a utility shelf to the wall of each janitor's closet.
+   8. Vestibule Mat
+   9. Install mat in floor recess with corrugations parallel to thresholds, edges square, straight and parallel to boundary of recess.
+   10. Where joints are required in large mats for ease of handling, fit the joints tight.
+   11. Vestibule Grating
+   12. Install frame surface mounted in recess in concrete floor in a level and accurate plane. Set grating in frame.
+2. CLEANING
    1. Upon completion, clean the Work in accordance with manufacturer's instructions.
-

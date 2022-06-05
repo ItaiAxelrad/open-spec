@@ -10,28 +10,28 @@ tags: ['Facility', 'Construction', 'Specialties', 'Identification', 'Devices']
 ## General
 
 1. SUMMARY
-   1. Work under this section shall include tag, and tape systems for equipment, piping, valves, pumps, ductwork and similar items, and hazard and safety signs. 
-	1. Quality Assurance
-2. Work shall be per:
-	1. American Society of Mechanical Engineers (ASME):
-		1. A13.1, Scheme for the Identification of Piping Systems.
-	2. The International Society of Automation (ISA).
-	3. National Electrical Manufacturers Association/American National Standards Institute (NEMA/ANSI):
-		1. Z535.1, Safety Color Code.
-		2. Z535.2, Environmental and Facility Safety Signs.
-		3. Z535.3, Criteria for Safety Symbols.
-		4. Z535.4, Product Safety Signs and Labels.
-	4. National Fire Protection Association (NFPA):
-		1. 70, National Electrical Code (NEC).
-	5. Occupational Safety and Health Administration (OSHA):
-		1. 29 CFR 1910.145, Specification for Accident Prevention Signs and Tags.
-	6. Colorado Department of Public Health and Environment:
-		1. State of Colorado Design Criteria for Potable Water Systems.
-	7. Submittals
-3. See Specification Section 01 33 00 for requirements for the mechanics and administration of the submittal process.
-4. Shop drawings shall include:
-	1. Product technical data including catalog information for all identification systems and acknowledgement that products submitted meet requirements of standards referenced. 
-	2. Include a signage plan.
+  1. Work under this section shall include tag, and tape systems for equipment, piping, valves, pumps, ductwork and similar items, and hazard and safety signs. 
+2. Quality Assurance
+  1. Work shall be per:
+   	1. American Society of Mechanical Engineers (ASME):
+   		1. A13.1, Scheme for the Identification of Piping Systems.
+   	2. The International Society of Automation (ISA).
+   	3. National Electrical Manufacturers Association/American National Standards Institute (NEMA/ANSI):
+   		1. Z535.1, Safety Color Code.
+   		2. Z535.2, Environmental and Facility Safety Signs.
+   		3. Z535.3, Criteria for Safety Symbols.
+   		4. Z535.4, Product Safety Signs and Labels.
+   	4. National Fire Protection Association (NFPA):
+   		1. 70, National Electrical Code (NEC).
+   	5. Occupational Safety and Health Administration (OSHA):
+   		1. 29 CFR 1910.145, Specification for Accident Prevention Signs and Tags.
+   	6. Colorado Department of Public Health and Environment:
+   		1. State of Colorado Design Criteria for Potable Water Systems.
+3. Submittals
+  1. See Specification Section 01 33 00 for requirements for the mechanics and administration of the submittal process.
+  3. Shop drawings shall include:
+   	1. Product technical data including catalog information for all identification systems and acknowledgement that products submitted meet requirements of standards referenced. 
+   	2. Include a signage plan.
 ## Product
 
 1. Manufactured Units
@@ -437,4 +437,3 @@ tags: ['Facility', 'Construction', 'Specialties', 'Identification', 'Devices']
 		4. Piping greater than 48 IN DIA: 8 IN minimum.
 	3. Hazard and Safety Signs
 6. Provide Chemical Hazard and Safety Signs on all chemical tanks and on the exterior of the chemical storage room, pump room, and filter room.
-

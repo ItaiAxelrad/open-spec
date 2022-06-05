@@ -6,8 +6,6 @@ divName: Finishes
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Finishes', 'Resilient', 'Flooring']
 ---
-
-
 ## General
 
 1. SUMMARY
@@ -23,7 +21,7 @@ tags: ['Facility', 'Construction', 'Finishes', 'Resilient', 'Flooring']
 
 ## Products
 
-   1. FLOORING MATERIALS AND ACCESSORIES
+1. FLOORING MATERIALS AND ACCESSORIES
    1. Vinyl Composition Tile (VCT):
       1. Provide and install Armstrong 1/8" gauge Excelon Tile in 12" x 12" squares; or approved equal.
    1. Rubber Base:

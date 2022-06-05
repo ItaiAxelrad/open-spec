@@ -1,6 +1,6 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
-
+require('dotenv').config();
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
@@ -24,6 +24,8 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           editUrl: 'https://github.com/ItaiAxelrad/open-spec/blob/main/',
+          showLastUpdateAuthor: true,
+          showLastUpdateTime: true,
         },
         blog: {
           showReadingTime: true,
@@ -81,6 +83,14 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
+      // algolia: {
+      //   appId: process.env.APP_ID,
+      //   apiKey: process.env.API_KEY,
+      //   indexName: process.env.INDEX_NAME,
+      //   contextualSearch: true,
+      //   searchParameters: {},
+      //   searchPagePath: 'search',
+      // },
     }),
 };
 

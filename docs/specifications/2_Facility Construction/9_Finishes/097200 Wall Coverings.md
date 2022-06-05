@@ -6,8 +6,6 @@ divName: Finishes
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Finishes', 'Wall', 'Coverings']
 ---
-
-
 ## General
 
 1. SUMMARY
@@ -21,7 +19,7 @@ tags: ['Facility', 'Construction', 'Finishes', 'Wall', 'Coverings']
    1. All material shall comply with the following standards:
       1. Certification:
          1. Vinyl fabric and adhesive shall have been tested to provide a Steiner Tunnel Test (ASTM E84) Class "A" U.L. rating system.
-   1. DELIVERY, STORAGE AND PROTECTION
+1. DELIVERY, STORAGE AND PROTECTION
    1. Deliver and store all wallcovering in undamaged condition as packaged by the manufacturer, with manufacturer's seals and labels intact.
    1. Exercise care to prevent damage during delivery, handling and storage.
    1. Store all materials flat in a clean, dry area with maintained temperature above 40 degrees Fahrenheit.
@@ -29,7 +27,7 @@ tags: ['Facility', 'Construction', 'Finishes', 'Wall', 'Coverings']
 
 ## Products
 
-   1. MANUFACTURERS
+1. MANUFACTURERS
    1. Koroseal
    1. Genon
    1. MATERIALS
@@ -61,5 +59,3 @@ tags: ['Facility', 'Construction', 'Finishes', 'Wall', 'Coverings']
    1. Use fabric panels in exact order as they are cut from rolls; use rolls in consecutive order.
    1. Apply paste to the fabric backing using a roller or paste brush.
    1. Hang smooth, nonmatch patterns by pasting strips on the wall, overlapping the edges, and double cut to assure closure.
-
-

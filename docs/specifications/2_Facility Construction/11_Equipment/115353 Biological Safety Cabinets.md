@@ -7,7 +7,6 @@ subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Equipment', 'Biological', 'Safety', 'Cabinets']
 ---
 
-
 ## General
 
 1. SUMMARY
@@ -52,9 +51,9 @@ tags: ['Facility', 'Construction', 'Equipment', 'Biological', 'Safety', 'Cabinet
 
 ## Products
 
-   1. MANUFACTURERS
+1. MANUFACTURERS
    1. Nuaire Model Nu- 407 or approved equal.
-   1. COMPONENTS
+1. COMPONENTS
    1. Cabinet shall provide airflows & biological safety performance as specified.
    1. The following features shall be incorporated into the design of bench type hoods only.
    1. Cabinet shall provide biological containment protection for both operator and product proven by an actual test, (e.g. test conducted by NSF) and routinely validated by manufacturer.
@@ -83,7 +82,7 @@ tags: ['Facility', 'Construction', 'Equipment', 'Biological', 'Safety', 'Cabinet
    1. Cabinet shall be capable of front filter removal.
    1. The following optional equipment shall be available to support installation and user requirements:
       1. Ground Fault Interrupter for Electrical System, Additional Service Valves for Gas, Air, Vacuum, Alarm Systems, Exhaust Interlocks and Thimble Exhaust Transitions.
-   1. SOURCE QUALITY CONTROL
+1. SOURCE QUALITY CONTROL
    1. Manufacturer shall conduct NSF 49 performance test on a hood manufactured of type ordered, at the manufacturer's test facility.
    1. The hood must be designed to achieve a control level of 0.05 ppm or lower as manufactured.
    1. Manufacturer to submit test room description and testing proposal and notify Owner at least 10 working days before all tests.
@@ -91,24 +90,24 @@ tags: ['Facility', 'Construction', 'Equipment', 'Biological', 'Safety', 'Cabinet
 
 ## Execution
 
-   1. ERECTION INSTALLATION APPLICATION
+1. ERECTION INSTALLATION APPLICATION
    1. Install Fume hoods plumb, level, rigid, securely anchored with manufacturer's instructions.
    1. Coordinate sequence of work with general contractor.
    1. Moving Parts:
       1. Carefully check to insure smooth, near-silent, and accurate operation; sash operation with one hand with uniform contact of rubber bumpers; without interference.
    1. Securely attach access panels but provide for easy removal and secure reattachment.
-   1. ADJUSTING
+1. ADJUSTING
    1. The average face velocity with sash open to sash stop shall be between 100-110 fpm, with no individual face velocity measurement less than 80 fpm.
    1. Hood manufacturer shall specify actual design velocity for optimum performance of the manufacturer's specific hood.
    1. The velocity profile shall have a uniformity of +/- 20% of specified design air velocity at all points of hood face as measured in accordance with NSF 49 performance test.
-   1. CLEANING
+1. CLEANING
    1. Clean surfaces, including both sides of glass.
    1. Clean shop-finished surfaces, touch-up as required, and remove or refinish damaged or soiled areas, as acceptable to Owner
    1. Protection:
       1. Advise the general contractor of procedures and precautions for protection of materials and installed laboratory furniture from damage by the work of other trades until acceptance of the work by Owner.
    1. Damaged Work:
       1. Repair equal to new undamaged work, or replace with new units, as acceptable to Owner
-   1. DEMONSTRATION
+1. DEMONSTRATION
    1. Manufacturer to guarantee 10% or a minimum of 1 (whichever is greater) of each hood type to pass the ASHRAE performance test (maximum control level of 0.1 ppm) after installation with hood and HVAC system balanced and operating normally in accordance with hood manufacturer's specifications and the guidelines of the 17th or newer addition of the Industrial Ventilation Manual.
    1. Tests will be conducted by Owner at Owner’s expense.
    1. Representatives of the hood manufacturer will be allowed to be present during testing.
@@ -124,9 +123,8 @@ tags: ['Facility', 'Construction', 'Equipment', 'Biological', 'Safety', 'Cabinet
    1. At the completion of the corrective measures, the manufacturer shall, at his own expense re-test the hood in the presence of an Owner’s representative.
    1. If the re-test fails, the hood manufacturer shall, at his own expense, make additional corrective measurers to the hood.
    1. If the second re-test fails, the hood manufacturer shall remove the hood of this type from the premises and fully refund all costs for the hood and installation.
-   1. SOURCE QUALITY CONTROL
+1. SOURCE QUALITY CONTROL
    1. Manufacturer shall conduct ASHRAE 110 performance test on a hood manufactured of type ordered, at the manufacturer's test facility.
    1. The hood must be designed to achieve a control level of 0.05 ppm or lower as manufactured.
    1. Manufacturer to submit test room description and testing proposal and notify Owner at least 10 working days before all tests.
    1. Representatives of Owner to be allowed to be present during test.
-

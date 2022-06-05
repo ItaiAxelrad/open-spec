@@ -7,7 +7,6 @@ subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Specialties', 'Exterior', 'Sun', 'Control', 'Devices']
 ---
 
-
 ## General
 
 1. SUMMARY
@@ -22,7 +21,7 @@ tags: ['Facility', 'Construction', 'Specialties', 'Exterior', 'Sun', 'Control', 
          1. Division 8
    1. Wall system:
       1. Division 7
-   1. REFERENCES
+1. REFERENCES
 	1. General:
       1. Standards listed by reference, including revisions by issuing authority, form a part of this specification section to extent indicated. Standards listed are identified buy issuing authority, authority abbreviation, designation number, title, or other designation established by issuing authority. Issuing authority abbreviation and standard designation refers to standards subsequently referenced herein.
    1. American Society for Testing and Materials (ASTM):
@@ -50,7 +49,7 @@ tags: ['Facility', 'Construction', 'Specialties', 'Exterior', 'Sun', 'Control', 
       1. Submit the following:
       1. Certificates:
          1. Product certificates signed by manufacturer certifying materials comply with specified performance characteristics and criteria, and physical requirements.
-   1. DELIVERY, STORAGE & HANDLING
+1. DELIVERY, STORAGE & HANDLING
 	1. General:
       1. Comply with Division 1 Product Requirements Sections.
    1. Ordering:
@@ -67,7 +66,7 @@ tags: ['Facility', 'Construction', 'Specialties', 'Exterior', 'Sun', 'Control', 
 
 ## Products
 
-   1. SUNSCREEN DEVICES
+1. SUNSCREEN DEVICES
    1. Design Basis:
       1. Model 1800 SA manufactured by Industrial Louvers Inc. (ILI).
    1. Contact:
@@ -75,14 +74,14 @@ tags: ['Facility', 'Construction', 'Specialties', 'Exterior', 'Sun', 'Control', 
       1. (763) 972-2981; Fax:
       1. (763) 972-2911, or as approved.
    1. Equal products matching the depth, spacing, finish and performance of the Design Basis as manufactured by Industrial Louvers, Inc.; Construction Specialties, Inc.; Airolite; or Louvers & Dampers are acceptable.
-   1. MATERIAL
+1. MATERIAL
    1. Blades shall be fabricated from a minimum .090” wall thickness extruded aluminum. Blades shall be of airfoil tube design, 18 inches in height.
    1. Fascia and tapered outrigger material shall be fabricated from a minimum .250” (1/4”) wall thickness extruded.
    1. Aluminum Extrusions:
       1. ASTM B221, Alloy 6063
    1. Fully welded construction
    1. Mounting brackets shall be fabricated from .375” (3/8”) aluminum
-   1. FINISHES
+1. FINISHES
    1. Shop Finishing:
       1. Factory finish louvers and accessories with an organic coating.
    1. Organic Coating:
@@ -101,4 +100,3 @@ tags: ['Facility', 'Construction', 'Specialties', 'Exterior', 'Sun', 'Control', 
    1. Corners:
       1. Miter sunshade units at corners as shown on drawings.
    1. Cut and trim units during erection only with the approval of the manufacturer and in accordance with their recommendations. Restore finish completely.
-

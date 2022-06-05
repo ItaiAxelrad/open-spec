@@ -59,7 +59,7 @@ tags: ['Facility', 'Construction', 'Finishes', 'Resilient', 'Sheet', 'Flooring']
 1. SCHEDULING
    1. Interior finish work such as drywall finishing, ceiling work, and painting work shall be complete and dry before installation.
    1. Mechanical, electrical, and other work above ceiling line shall be completed. Heating, ventilating, and air conditioning systems shall be installed and operating in order to maintain temperature and humidity requirements.
-   1. GUARANTY:
+1. GUARANTY:
       1. Submit written guaranty, in accordance with General Condition requirements except that guarantee period shall be extended to include two (2) years.
 
 ## Products

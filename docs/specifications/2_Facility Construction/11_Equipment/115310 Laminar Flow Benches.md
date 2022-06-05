@@ -10,7 +10,7 @@ tags: ['Facility', 'Construction', 'Equipment', 'Laminar', 'Flow', 'Benches']
 
 ## General
 
-   1. Summary
+1. Summary
    1. This section includes requirements to furnish and install laminar flow benches that provide a clean work zone within the bench. Laminar flow benches recirculate room air and do not have a requirement for an exhaust system connection.
    1. related sections
    1. Division 22 Section – Gaseous Nitrogen Distribution System

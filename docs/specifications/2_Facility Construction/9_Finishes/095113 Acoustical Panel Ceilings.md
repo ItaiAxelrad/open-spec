@@ -30,17 +30,16 @@ tags: ['Facility', 'Construction', 'Finishes', 'Acoustical', 'Panel', 'Ceilings'
 ## Products
 
 1. PANELS
-1. PANELS (Standard):
       1. 24" x 24" x 5/8" non-combustible, non-directional fissured units by any major manufacturer of acoustical ceilings. Washable white finish. Provide manufacturer's standard warranty against sagging and/or warping.
-1. SUSPENSION SYSTEM
+2. SUSPENSION SYSTEM
    1. As required to support acoustical units, fixtures and other components as indicated, and including anchorages, hangers, runners, cross runners, splines, clips, moldings, fasteners and other members, devices and accessories. Contractor responsible for adequacy of suspension system, and determining method of attachment of system to supporting structure.
-   1. Hanger Wire:
+   2. Hanger Wire:
       1. Not less than 12 gauge (0.106") galvanized steel.
-   1. Exposure:
+   3. Exposure:
       1. Fully-exposed (lay-in) suspension system. All areas indicated to receive lay-in tile shall be standard, square edge, lay-in suspension system; coordinate suspension height to provide indicated ceiling height to face of tile.
-   1. Exposed Finish:
+   4. Exposed Finish:
       1. Low-Gloss vinyl latex, color:
-      1. white
+      2. white
 
 ## Execution
 

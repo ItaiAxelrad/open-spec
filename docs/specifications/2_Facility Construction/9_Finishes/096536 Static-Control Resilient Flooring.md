@@ -7,7 +7,6 @@ subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Finishes', 'Static-Control', 'Resilient', 'Flooring']
 ---
 
-
 ## General
 
 1. SUMMARY
@@ -26,7 +25,7 @@ tags: ['Facility', 'Construction', 'Finishes', 'Static-Control', 'Resilient', 'F
    1. related sections
    1. Division 9 Section – Resilient Base and Accessories
    1. Division 26 - Electrical
-   1. Submittals
+1. Submittals
    1. Product Data:
       1. For each type of product indicated.
    1. Samples for Initial Selection:
@@ -75,7 +74,7 @@ tags: ['Facility', 'Construction', 'Finishes', 'Static-Control', 'Resilient', 'F
 
 ## Products
 
-   1. materials
+1. materials
    1. Specification is based on Norament System, 928 al S grano tile 39.37” x 39.37” x 0.14” thick as manufactured by Freudenberg building Systems, Lawrence, MA. Equal products by one of the following are acceptable:
       1. AB ElectroStatic, American Biltrite (Canada) Ltd.
    1. Forbo Industries, Inc.
@@ -113,7 +112,7 @@ tags: ['Facility', 'Construction', 'Finishes', 'Static-Control', 'Resilient', 'F
 
 ## Execution
 
-   1. examination
+1. examination
    1. Examine substrates with Installer and manufacturers representative present, for compliance with requirements for installation tolerances, moisture content, and other conditions affecting performance.
    1. Verify that finishes of substrates comply with tolerances and other requirements specified in other Sections and that substrates are free of cracks, ridges, depressions, scale, and foreign deposits that might interfere with adhesion or static-control characteristics of floor coverings.
    1. Proceed with installation only after unsatisfactory conditions have been corrected.
@@ -157,7 +156,7 @@ tags: ['Facility', 'Construction', 'Finishes', 'Static-Control', 'Resilient', 'F
    1. Arrange for testing of floor coverings before performing polish procedures.
    1. Remove and replace static-control floor covering where test results indicate that they do not comply with specified requirements.
    1. Additional testing and inspecting, at Contractor’s expense, will be performed to determine compliance of replaced or additional work with specified requirements.
-   1. Cleaning and protection
+1. Cleaning and protection
    1. Perform the following operations immediately after completing floor covering installation:
       1. Remove adhesive and other surface blemishes from floor covering surfaces.
    1. Sweep and vacuum floor coverings thoroughly.
@@ -167,4 +166,3 @@ tags: ['Facility', 'Construction', 'Finishes', 'Static-Control', 'Resilient', 'F
    1. Do not wax static control resilient floor coverings.
    1. Cover floor coverings with undyed, untreated building paper until Substantial Completion.
    1. Do not move heavy and sharp objects directly over floor coverings. Place plywood or hardboard panels over floor coverings and under objects while they are being moved. Slide or roll objects over panels without moving panels.
-*

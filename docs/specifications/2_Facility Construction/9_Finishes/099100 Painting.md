@@ -7,19 +7,18 @@ subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Finishes', 'Painting']
 ---
 
-
 ## General
 
 1. SUMMARY
    1. Section Includes
    1. All labor, materials, equipment, and services necessary to complete all painting and finishing required for surfaces as indicated or specified.
    1. Related Sections
-   1. REFERENCES
+1. REFERENCES
    1. Color selection based on Kelley Moore.
-   1. DEFINITIONS
+1. DEFINITIONS
    1. Volatile Organic Compounds (VOC):
       1. Substances that cause odor in liquid finishes.
-   1. SYSTEM DESCRIPTION
+1. SYSTEM DESCRIPTION
    1. Colors are from Kelly Moore.
 1. SUBMITTALS
    1. Provide samples of paint colors as specified by Owner
@@ -30,7 +29,7 @@ tags: ['Facility', 'Construction', 'Finishes', 'Painting']
    1. All material shall comply with the following standards:
       1. All liquid surface finishes to contain no VOCs.
    1. All liquid surface finishes to be without out-gassing and odor.
-   1. DELIVERY, STORAGE AND PROTECTION
+1. DELIVERY, STORAGE AND PROTECTION
    1. Deliver all paint to site in manufacturer's labeled and sealed containers.
    1. Labels shall give manufacturer's name, brand, type, batch number, color of paint and instructions for reducing.
    1. Thin only in accordance with printed directions of manufacturer.
@@ -39,7 +38,7 @@ tags: ['Facility', 'Construction', 'Finishes', 'Painting']
    1. Any damage to it or to its surroundings shall be repaired by Contractor.
    1. Remove any oily rags, waste, etc. from the building every night and take every precaution to avoid any danger of fire.
    1. In no case shall amount of materials stored exceed that permitted by local ordinances, state laws, or fire underwriter regulations.
-   1. PROJECT/SITE CONDITIONS
+1. PROJECT/SITE CONDITIONS
    1. Do not apply exterior paint in damp, rainy weather or until the surface has dried thoroughly from the effects of such weather.
    1. Do not apply varnish or paint when temperature is below 50 degrees Fahrenheit.
    1. Avoid painting surfaces when exposed to hot sunlight.
@@ -55,11 +54,11 @@ tags: ['Facility', 'Construction', 'Finishes', 'Painting']
 
 ## Products
 
-   1. MANUFACTURERS
+1. MANUFACTURERS
    1. Glidden Lifemaster
    1. EcoTech Safecoat
    1. Sherwin Williams ProMar Salon Interior
-   1. MATERIALS
+1. MATERIALS
    1. Brands of paint, varnishes, and stains are specified herein.
    1. All paint materials shall be factory fresh.
    1. Basic painting materials such as linseed oil, shellac, turpentine, thinners, driers, etc. shall be of highest quality, made by reputable manufacturers as specified, have identifying labels on containers and shall be approved by Owner.
@@ -98,7 +97,7 @@ tags: ['Facility', 'Construction', 'Finishes', 'Painting']
    1. If the moisture content is between 8% and 12%, prime with alkali-resistant primer.
    1. If 8% or less, prime with specified primer.
    1. Remove the dry salt deposits from all plaster surfaces by brushing with a stiff brush before painting.
-   1. ERECTION INSTALLATION APPLICATION
+1. ERECTION INSTALLATION APPLICATION
    1. Stain or paint only when surfaces are clean, dry, smooth and adequately protected from dampness.
    1. Each coat of paint shall be well brushed on, worked out evenly and allowed to dry at least 24 hours before the subsequent coat is applied.
    1. Finished work shall be uniform, of approved color, smooth and free from runs, sags, clogging or excessive flooding.
@@ -107,5 +106,3 @@ tags: ['Facility', 'Construction', 'Finishes', 'Painting']
    1. Each coat of material applied must be inspected and approved by Owner before the application of the succeeding specified coat; otherwise no credit for the concealed coat will be given, and the Contractor shall assume the responsibility to recoat the work in question.
    1. Painting Contractor shall notify Owner when each coat is completed.
    1. At completion, touch up and restore finish where damaged and leave finish surfaces in good condition.
-
-
