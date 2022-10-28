@@ -67,6 +67,12 @@ const config = {
             label: 'Checklists',
           },
           {
+            type: 'docSidebar',
+            sidebarId: 'lisp',
+            position: 'left',
+            label: 'Lisp',
+          },
+          {
             href: 'https://github.com/ItaiAxelrad/open-spec',
             label: 'GitHub',
             position: 'right',
@@ -83,14 +89,6 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
-      // algolia: {
-      //   appId: process.env.APP_ID,
-      //   apiKey: process.env.API_KEY,
-      //   indexName: process.env.INDEX_NAME,
-      //   contextualSearch: true,
-      //   searchParameters: {},
-      //   searchPagePath: 'search',
-      // },
     }),
 };
 
