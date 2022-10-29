@@ -1,8 +1,8 @@
-# ssploy
+# sspoly
 
-[Source](../../static/scripts/ssploy.lsp)
+[Source](../../static/scripts/sspoly.lsp)
 
-```lsp title="ssploy.lsp"
+```lsp title="sspoly.lsp"
 (vl-load-com)
 (defun sspoly ( / en ent pnts )
   (setq en (car (entsel)) ent (entget en))

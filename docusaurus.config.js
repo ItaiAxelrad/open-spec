@@ -9,7 +9,7 @@ const config = {
   tagline: 'community driven construction specifications',
   url: 'https://open-spec.com',
   baseUrl: '/',
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.png',
   organizationName: 'ItaiAxelrad',
