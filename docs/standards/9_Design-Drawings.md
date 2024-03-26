@@ -6,7 +6,7 @@ date: 2021-04-10
 
 Design or base drawings are to externally referenced into production sheet drawings as needed to execute annotation and plan production.
 
-### Titleblock
+## Titleblock
 
 All title blocks for use on projects are to be found in the Tool Palettes Drawing Setup Menu. They are sorted by size of the plan sheet you are creating. This drawing is referenced into each production drawing. To set up a title block for your project, follow the steps below:
 
@@ -18,7 +18,7 @@ All title blocks for use on projects are to be found in the Tool Palettes Drawin
 6. The company logo in the title block has a pulldown that allows the user to select which office the drawing is originating from.
 7. When the text and logo are updated, Save and Close this drawing.
 
-### Survey Base
+## Survey Base
 
 This drawing will contain only data created by the Survey Division. It should be created using the template and adhere to CAD standards as set forth in this manual.
 
@@ -32,17 +32,17 @@ The existing surface is created as a data shortcut from this drawing.
 
 - XXXX EG Surface
 
-### Existing Base
+## Existing Base
 
 This drawing should contain any data about existing features on a particular project not specifically created by the Survey Department. Sources for this data may include third party surveys, GIS data, sketches from aerial or other photographic methods, or from observations made in the field by an engineer or other designer. Wherever possible, all objects in this drawing should adhere, or be converted to, company standards for existing features.
 
-### Site Base
+## Site Base
 
 This drawing will contain any proposed design features for a project. For larger projects, multiple proposed bases may be required for site design, utility design, roadway, etc. It is the responsibility of the designer to name each drawing appropriately with the type of proposed features present in the drawing.
 
 Generaly, this is the horizontal layout of the project that is referenced into the different drawings associated with the project. This file does not contain any vertical design information, survey data or civil 3D objects. Only 2D polylines set at an elevation of zero (0) should be in the drawing. Exhibits, construction documents, etc. should not be created in this drawing. No references, images, or PDFs shall be attached to this drawing. Attaching xrefs make the file size large and will slow down drawings that use the Site base.
 
-### Civil Base
+## Civil Base
 
 This file is for proposed civil 3D design objects such as the proposed surface, alignments, profiles and corridors. Civil 3D objects should be data shortcut so they can be used in production drawings and exhibits. Below is the naming convention to be used for Surfaces, Alignments & Profiles & corridors. Including the project number to the naming conventions not only lets you know what project the object is for but also helps when multiple project numbers use the same data short (For example, a project has multiple phases and each one is a different project number).
 
@@ -68,13 +68,13 @@ Profiles
 
 - Use templates naming standards
 
-### Pipe Network Base
+## Pipe Network Base
 
 Pipe networks should be in a separate file depending on the size of the projects. Large projects or projects with a large number of pipes will have its own drawing. Multiple people can work on a project if the drawings are separated and the files not cluttered with other design information. If a project is small or has a very limited number of pipes, the pipe networks can be in the Civil Design Base. Only one pipe network shall be created for each utility (even when the pipes are separated) and named using the naming convention below. Naming the pipe network with the job number helps when multiple projects are sharing the same information.
 
 - XXXX Storm
 - XXXX Sanitary
 
-### 3rd Party Drawings
+## 3rd Party Drawings
 
 When referencing a drawing from a third party, save that drawing with the date it was received in the title in a sub-folder of the project Drawings folder titled “3rd Party”. Follow the steps above to insert this into the working drawing. Additional coordination with the source of the drawing may be required to align and scale correctly. If any modifications to a 3rd party drawing are required as part of this coordination, save a copy of the drawing with the date and REVISED in the title in the “3rd Party” folder.

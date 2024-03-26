@@ -5,7 +5,7 @@ date: 2021-04-10
 ---
 A viewport is used to “see” the entities in model space from the paper space layout. The template drawing has one viewport already created on the vports layer.
 
-#### Use a viewport
+## Use a viewport
 
 1. Activate it by double-clicking inside it
 2. Type `Z` (ZOOM)
@@ -13,7 +13,7 @@ A viewport is used to “see” the entities in model space from the paper space
 
 This will frame all of the entities in model space inside the viewport. You can now zoom to the part of the drawing you wish to display in the sheet.
 
-#### Create a new viewport
+## Create a new viewport
 
 1. Type `VPORTS`
 2. A dialogue box will appear. Select the number of viewports you wish to create.
@@ -22,7 +22,7 @@ This will frame all of the entities in model space inside the viewport. You can 
 
 Follow steps above to set the new view ports’ approximate scale.
 
-#### Rotate a view
+## Rotate a view
 
 1. Select the “Express Tools” tab from the main ribbon.
 2. In the Layout tab, select “Align Space”

@@ -6,7 +6,7 @@ date: 2021-04-10
 
 Sheet set manager is a tool for organizing, managing, and plotting multiple sheet tabs from at the same time. These sheets may be in the same drawing or multiple drawings. This toll is a significant time saving device when plotting. Each new project started with more than three sheets should include initiating a sheet set for that project. Typically a sheet set manager is created after all drawings for the project have been established, however, additional drawings may be added to the Sheet Set at any time.
 
-### Naming Convention
+## Naming Convention
 
 Name the sheet set with the project number and description of what it is. Below are examples of how to name the sheet sets:
 
@@ -17,7 +17,7 @@ Name the sheet set with the project number and description of what it is. Below 
 - Survey Documents
   - XXXX Plat/Alta/ISP/LSP.dst
 
-### Create a sheet set
+## Create a Sheet Set
 
 1. Command Line: `SHEETSET` A dialogue box will open.
 2. From the top pull down menu, select “New Sheet Set”
@@ -32,13 +32,13 @@ Name the sheet set with the project number and description of what it is. Below 
 11. You will then be given a preview of the Sheet Set. If it is acceptable, click “Finish”. If not, repeat the previous steps until all the drawings for the set are shown.
 12. Your sheet set will now populate in the Sheet Set Manager dialogue box.
 
-#### Adding to Sheet Sets
+### Adding to Sheet Sets
 
 1. To add a sheet to a set, right click on the name of your sheet set in the dialogue box OR right click on the sheet tab you wish to add and select “Import Layout as Sheet”. Repeat the steps above to browse for and select the sheet you wish to add.
 2. The new sheet will be added to the sheet set manager list at the bottom.
 3. To move the sheet into a different position in the set, simply highlight it in the sheet set manager dialogue box and drag it to the new position.
 
-#### Modifying Sheet Sets
+### Modifying Sheet Sets
 
 One of the benefits to using Sheet Set Manager is that it will update sheet information for you without opening each drawing and tab to change it manually:
 
@@ -49,7 +49,7 @@ One of the benefits to using Sheet Set Manager is that it will update sheet info
 5. In the “Description” box, enter the cumulative sheet number. If it is the 26th sheet in the set, enter 26 in this box.
 6. Make sure to regenerate (Command Line `RE`) your drawing to see the effects of any changes made in the Sheet Set.
 
-#### Insert Sheet List Table
+## Insert Sheet List Table
 
 Sheet Set Manager will also update your sheet list on your title bock:
 

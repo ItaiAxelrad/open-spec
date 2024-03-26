@@ -15,7 +15,7 @@ In section I. of this chapter, the process for using Page Set-up Manager is desc
 Command line: `PLOT` (or `Ctrl+P`).
 The Plot dialogue box will open.
 
-#### Page Setup
+### Page Setup
 
 This is the first pulldown at the top of the Plot dialogue box. If you use the Page Setup Manager, your sheet options will be available to you here. Select the appropriate setup, preview the drawing and if all is correct, select “OK” and your drawing will be sent to the appropriate plotter.
 
@@ -34,49 +34,49 @@ All colors are assigned a Pen number based on the ending number of the color. Fo
 
 ![](/img/standards/image19.png)
 
-#### Printer/Plotter
+### Printer/Plotter
 
 Pull down the menu and select the appropriate printer/plotter for your office.
 
-#### Plot Area
+### Plot Area
 
 1. In this pull-down there are four options: Display, Extents, Layout, Window. In most cases you will select “Window”.
 2. When you select “Window” A “Window<” button will appear to the right of the Plot Area list.
 3. Click the “Window<” button and draw a box around all items you wish to appear in the plot. For title blocks, snap to the corners of the red border for scale plotting.
 
-#### Paper size
+### Paper size
 
 For any paper size that is not covered in the Template page setups, you may select from the list of available paper sizes for the printer you have selected
 
-#### Plot Style Table
+### Plot Style Table
 
 In the upper right hand corner of the Plot dialogue box is a pull down for the list of Plot Style Tables. For drawings not set up from the Template or with imported Page Setups, you may select the Plot Style from this list. In almost all cases you will be selecting a .ctb file from the list with company in the name. Be advised that each style changes the line weights and in some cases, colors of the lines, so choose carefully.
 
-#### Line Weights
+### Line Weights
 
 Leave this in the default position.
 
-#### Scale
+### Scale
 
 When you have selected a plot window you may choose to scale the drawing. After selecting the scale you want the drawing to print at, preview your plot before sending to make sure it is correct.
 
-#### Plot Options
+### Plot Options
 
 Leave these toggles in the default position.
 
-#### Drawing Orientation
+### Drawing Orientation
 
 You may toggle landscape or portrait as needed.
 
-#### Shaded Viewport Options
+### Shaded Viewport Options
 
 Leave this in the default position.
 
-#### Plot Offset
+### Plot Offset
 
 Typically you will toggle “Center the Plot”
 
-### Electronic Plotting
+## Electronic Plotting
 
 The two main file types for electronic plotting are .pdf and .dwf. Pdf files are viewed with Adobe software, Dwf files are viewed with Autodesk Design Review. In many cases, submittals to clients and reviewing agencies will be in one of these two formats. Typically pdfs are larger and require compression when transmitting. Dwfs are smaller, however not all recipients have the appropriate software to view the drawings in this format.
 

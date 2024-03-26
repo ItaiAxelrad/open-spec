@@ -4,9 +4,7 @@ title: 'Production Drawings'
 date: 2021-04-12
 ---
 
-
-## Product
-ion drawings represent the finished document as it will be displayed for the contractor or developer within the set. All drawings that are to be issued for publication should be annotated live in model space of the sheet drawing. DO NOT ANNOTATE IN PAPER SPACE.
+Production drawings represent the finished document as it will be displayed for the contractor or developer within the set. All drawings that are to be issued for publication should be annotated live in model space of the sheet drawing. **DO NOT ANNOTATE IN PAPER SPACE**.
 
 ## Naming Convention
 
@@ -47,7 +45,7 @@ Below are sheets commonly found in a civil construction document:
 
 Within each sheet, give each sheet tab an individual and specific name as it will help to keep them organized when setting up Sheet Set Manager.
 
-## Creating a Production Drawing:
+## Creating a Production Drawing
 
 1. Open a new drawing with the template and save it to the project Drawings folder with the project number and the type of drawing in the title. (Example: 5000-CIVIL CDs)
 2. When the drawing is set up, insert the desired base drawings into model space, following the steps outlined in the External Reference section.
@@ -55,7 +53,7 @@ Within each sheet, give each sheet tab an individual and specific name as it wil
 4. Create sheet tabs for each drawings sheet (Examples: Cover, Site Plan, Grading Plan, Details, etc.). Adjust Viewports as necessary to properly frame the data to be presented on each sheet.
 5. If multiple sheet drawings are being employed to create sheets, assemble them for production using Sheet Set Manager, as explained in Section 6.d.
 
-## Insert Sheet Info block
+## Insert Sheet Info Block
 
 1. From the Drawing Setup Tool Palette, select the Sheet Info block that corresponds to the title block size you inserted.
 2. Insert the Sheet Info block at 0,0,0
@@ -86,7 +84,7 @@ Within each sheet, give each sheet tab an individual and specific name as it wil
 2. Toggle on “Create a Copy” and select the placement for the new tab as prompted.
 3. When the new tab appears, rename it as appropriate.
 
-### Images & PDFs
+## Images & PDFs
 
 At times it will be necessary to insert picture files into a drawing. This can be done through the Xref manager. Next to the DWG icon in the upper left hand corner is a pulldown that will allow you to insert other file types. Select the appropriate file type and follow the instructions above as you would for an xref.
 
@@ -99,17 +97,17 @@ Typically, drawings should not show the frame around an inserted image when plot
 
 *NOTE: When inserting an aerial, it should always be inserted on layer “XREF-IMAGE”.*
 
-### Sheet Numbering
+## Sheet Numbering
 
 Sheet numbering typically follows industry standards, with an alphabetic prefix by discipline and a numeric sheet number suffix. Typically the prefix will be “C” for “Civil”. Projects that have mechanical components will have an “M” prefix, survey sheets will have an “S” prefix, etc.
 
-### North Arrow and Scale
+## North Arrow and Scale
 
 A north arrow and a dynamic block scale are available for insertion into all sheets from the tool palette for Sheet Setup. See section 4.C for instruction on setting up and using Tool Palettes. Scales and north arrows should always be inserted into the PAPERSPACE of a drawing. Use the pull down attribute in the scale block to select the correct scale to match the associated viewport.
 
 Take care to rotate the north arrow so that it orients with the view of the drawing. Typically the north direction should be either at the top or right hand side of the sheet.
 
-### Sheet Callouts
+## Sheet Callouts
 
 A dynamic Sheet Callout block is available for insertion from the Page Setup tool Palette. Every viewport, drawing, and detail should have a callout identifying the page number, title of the drawing or view, and the first sheet that references the drawing.
 

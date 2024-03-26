@@ -12,7 +12,7 @@ Typically, each project will have a series of base drawings that are x-reference
 - Existing Base
 - Site Base
 
-### Insert an External Reference
+## Insert an External Reference
 
 1. Make “xref” the active layer
 2. Command line: `XREF` (or `XR`)

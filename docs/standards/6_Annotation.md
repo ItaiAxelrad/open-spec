@@ -14,21 +14,21 @@ Do not label anything visible in a viewport in paper space.
 
 Leroy style font is the current standard for body text. The font “MultPL-H” is used for titles, and headings.
 
-### Styles
+## Styles
 
 When creating a drawing form the Template, all text and annotation styles will be pre-loaded and available for use. To access these styles, select the “Annotate” tab in the ribbon. Each category of annotation will have a pull down with a list of available styles. Civil 3D labels are also available from this tab in the ADD LABELS feature.
 
 Use the L100 style at a height of 0.10 times the drawing scale for all callouts, dimensioning and other notes.
 
-### Dimensions
+## Dimensions
 
 The size for arrows are to be set to 0.12 and for closed dots set to 0.08 at a height of 1.0 times the drawing scale and width of 0.8 for all dimensioning. This should be setup already from the template drawing.
 
-#### Annotative Scale
+## Annotative Scale
 
 Annotative Scale is a method for managing the size of text, blocks, dimensions and callouts in drawings in the same set that may be at different scales. When used correctly, Annotative objects will appear the same size on printed sheets regardless of the scale of the drawing. While this can be a useful tool, it can also be very confusing. Generally speaking, you should only use Annotative Scale for drawings that have multiple viewports with different scales. For example, you may have an overall site plan at 1”:50’ and a series of detailed site plans at 1”:30’ and in both cases want text to appear at 0.1” on a printed page.
 
-##### Assign Annotative scale to Items
+### Assign Annotative scale to Items
 
 1. After object is created, right click and select “Properties”
 2. Under Text, Select the Annotative pull down and change it to YES.
@@ -42,7 +42,7 @@ The template drawing has text, callout, and annotation styles already establishe
 
 In the case of Civil 3D label objects, Annotative Scale works differently. Refer to that section for more information.
 
-### Color
+## Color
 
 The AutoCAD color palette uses numbers from 1-255. Each number corresponds to a color and lineweight. This works in conjunction with the .ctb print files in order to produce drawings as they should appear for distribution to reviewing agencies, clients, and contractors. See the Appendices for a sheet showing all colors and their corresponding appearances as plotted.
 
@@ -54,7 +54,7 @@ Within the provided template, all layers have been assigned specific linetypes. 
 
 In the event there is no template layer appropriate for an entity that needs to be included in a drawing, create a new layer as described in section G.ii and assign the desired linetype to it.
 
-#### Assign a Linetype to a Layer
+### Assign a Linetype to a Layer
 
 1. After creating a new layer, click on its linetype
 2. A dialogue box will open, showing the available, loaded linetypes in the template.
