@@ -1,6 +1,6 @@
 ---
+id: 15
 title: 'Plotting'
-eleventyNavigation:
 date: 2021-04-10
 ---
 

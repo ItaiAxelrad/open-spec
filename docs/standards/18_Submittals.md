@@ -1,6 +1,6 @@
 ---
+id: 18
 title: Submittals
-eleventyNavigation:
 date: 2021-04-10
 ---
 

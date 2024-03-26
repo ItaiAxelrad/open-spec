@@ -1,6 +1,6 @@
 ---
+id: 10
 title: 'External References'
-eleventyNavigation:
 date: 2021-04-12
 ---
 

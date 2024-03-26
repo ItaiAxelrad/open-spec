@@ -1,6 +1,6 @@
 ---
+id: 5
 title: 'Layering'
-eleventyNavigation:
 date: 2021-04-10
 ---
 

@@ -1,6 +1,6 @@
 ---
+id: 9
 title: 'Design Drawings'
-eleventyNavigation:
 date: 2021-04-10
 ---
 

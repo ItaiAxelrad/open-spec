@@ -1,6 +1,6 @@
 ---
+id: 8
 title: 'Template Drawings'
-eleventyNavigation:
 date: 2021-04-10
 ---
 

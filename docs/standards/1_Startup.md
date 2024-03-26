@@ -1,6 +1,6 @@
 ---
+id: 1
 title: Startup
-eleventyNavigation:
 date: 2021-04-10
 ---
 
@@ -8,5 +8,5 @@ AutoDesk currently has a network based license for several seats that have to be
 
 ![AuoCAD Icon](/img/standards/image1.png)
 
-- **Latest revision date:** July 2018.
-- **Current Software:** AutoCAD Civil 3D 2018
+- **Latest revision date:** April 2024.
+- **Current Software:** AutoCAD Civil 3D 2023

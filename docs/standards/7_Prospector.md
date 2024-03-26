@@ -1,6 +1,6 @@
 ---
+id: 7
 title: 'Prospector'
-eleventyNavigation:
 date: 2021-04-10
 ---
 

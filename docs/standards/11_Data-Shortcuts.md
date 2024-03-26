@@ -1,6 +1,6 @@
 ---
+id: 11
 title: 'Data Shortcuts'
-eleventyNavigation:
 date: 2021-04-10
 ---
 
