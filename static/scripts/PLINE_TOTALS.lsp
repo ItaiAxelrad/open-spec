@@ -1,8 +1,3 @@
-# Pline Totals
-
-[Source](../../static/scripts/Pline Totals.lsp)
-
-```lsp title="PLINE TOTALS.lsp"
 (defun C:TOT ( / CurObj CurSet FltLst TmpLgt TotLgt)
  (if (< (atof (getvar "ACADVER")) 15.0)
   (alert " VxJoinLines requires AutoCAD 2000(i) or higher. ")
@@ -37,4 +32,3 @@
  )
  (princ)
 )
-```
