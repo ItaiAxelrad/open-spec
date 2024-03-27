@@ -4,7 +4,7 @@ title: Importing LiDAR from GIS to CAD
 
 Determine which LiDAR dataset the site is on with the Google Earth kmz file. Either "N:\\GIS\_data\\LiDAR Extents.kmz" or "C:\\GIS\\LiDAR Extents.kmz" on the GIS machine.
 
-![](images/lidar/image2.png)
+![](/images/lidar/image2.png)
 
 ## GIS
 
@@ -13,9 +13,9 @@ Determine which LiDAR dataset the site is on with the Google Earth kmz file. Eit
 *   Go to menu Windows > Catalog
 *   (If this is your first time using ArcGIS on the computer) click Connect to Folder Icon and add “N:\\GIS\_data” and “C:\\GIS folders”
 
-![](images/lidar/image4.png)
+![](/images/lidar/image4.png)
 
-![](images/lidar/image3.png)
+![](/images/lidar/image3.png)
 
 *   Add some data to find your area of interest
 *   Either drag and drop shapefiles from the Catalog or on the menu bar go to Add Data drop down arrow and select Add Data
@@ -25,7 +25,7 @@ Determine which LiDAR dataset the site is on with the Google Earth kmz file. Eit
 *   Add base map to refine location
 *   On the menu bar go to Add Data drop down arrow and select Add Basemap and select Imagery or Streets (Streets tend to perform better than the aerial imagery).
 
-![](images/lidar/image6.png)
+![](/images/lidar/image6.png)
 
 *   Click close on the Geographic Coordinate Systems Warning dialog box, if it gives you a warning.
 *   Choose/Check correct coordinate system
@@ -47,7 +47,7 @@ Determine which LiDAR dataset the site is on with the Google Earth kmz file. Eit
 *   Create new shape file in scratch folder
 *   Catalog>N:\\GIS\_data\\scratch\\(PROJECT#)>RT-Click>New>Shapefile
 
-![](images/lidar/image5.png)
+![](/images/lidar/image5.png)
 
 *   Change the Name to Boundary
 *   Change Feature Type: Polygon
@@ -57,11 +57,11 @@ Determine which LiDAR dataset the site is on with the Google Earth kmz file. Eit
 *   If the Create Features Window is not present click on the Editor pulldown in the Editor Toolbar and select Editing Windows>Create Features
 *   In the Create Features Window select shape file name
 
-![](images/lidar/image8.png)
+![](/images/lidar/image8.png)
 
 *   In Construction Tools section below select desired tool (Rectangle, Polygon, Circle)
 
-![](images/lidar/image7.png)
+![](/images/lidar/image7.png)
 
 *   Draw the shape that you want to use to clip down the topo
 *   In the Editor toolbar click the dropdown Editor>Editor>Stop Editing>Save
@@ -77,7 +77,7 @@ Determine which LiDAR dataset the site is on with the Google Earth kmz file. Eit
 *   Select coordinate system (NAD 1983- CO state plane)
 *   Save to project folder
 
-![](images/lidar/image10.png)
+![](/images/lidar/image10.png)
 
 ### Export Aerial image (optional)
 
@@ -119,9 +119,9 @@ The following instructions are modified from the info on the link below.
 6.  Make sure that the Current Coordinate system and the Input Coordinate system are the same 
 7.  Click the … inside the cell under Data:
 
-![](images/lidar/image9.png)
+![](/images/lidar/image9.png)
 
-![](images/lidar/image1.png)
+![](/images/lidar/image1.png)
 
 8.  Click Create object data.
     *   Optional: Click Select Fields… to choose which GIS attributes to import
@@ -139,13 +139,13 @@ The following instructions are modified from the info on the link below.
     *   Change “Selected coordinate system code:” from CO83-NF to CO83-CF
 3.  If the Map Task Pane is not currently showing, type MAPWSPACE at the command line and select On.
 
-![http://www.thecadmasters.com/wordpress/wp-content/uploads/2011/03/20110309-TaskPane.jpg](images/lidar/image13.jpg)
+![http://www.thecadmasters.com/wordpress/wp-content/uploads/2011/03/20110309-TaskPane.jpg](/images/lidar/image13.jpg)
 
 4.  In the Map Explorer tab, right-click Drawings and click Attach.
 5.  Select the drawing previously created in Part A, click Add (if you need to add the N: drive as a connection click the Create/Exit Aliases button).
 6.  Click OK.
 
-![http://www.thecadmasters.com/wordpress/wp-content/uploads/2011/03/20110309-Attach-291x300.jpg](images/lidar/image11.jpg)
+![http://www.thecadmasters.com/wordpress/wp-content/uploads/2011/03/20110309-Attach-291x300.jpg](/images/lidar/image11.jpg)
 
 ### Part C – Query to Assign Elevations.
 
@@ -176,7 +176,7 @@ Save the new drawing and then detach the first drawing.  (On the Map Explorer 
 3.  Alternatively you can put all the contours on layer “E-G-CONT-USER” so that if you create a Civil 3D surface they aren’t on the same layers as those contours.
 4.  Enable Linetype Generation on all contour lines in both layers.
 
-![](images/lidar/image12.png)
+![](/images/lidar/image12.png)
 
 ## CAD Import Parcels
 

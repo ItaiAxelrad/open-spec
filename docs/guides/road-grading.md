@@ -8,11 +8,11 @@ title: ROAD GRADING/PROPOSED FLOWLINE
 
 3.  Determine new road requirements, ie; lane widths, bike lane, asphalt patchback requirements (2%-4%).  
 
-![](images/road-grading/image3.jpg)
+![](/images/road-grading/image3.jpg)
 
-![](images/road-grading/image12.jpg)
+![](/images/road-grading/image12.jpg)
 
-![](images/road-grading/image23.jpg)
+![](/images/road-grading/image23.jpg)
 
 4.  Determine drop from CL of existing road to new flowline.
 
@@ -28,7 +28,7 @@ IE. Lane width = 10’ @ 2% + 2’ Gutter (-0.17) = -0.37
 
 9.  Create PROFILE VIEW for vertical curve to be created in step VI below. 
 
-![](images/road-grading/image10.png)
+![](/images/road-grading/image10.png)
 
 10.  Create VERTICAL CURVE based on profile of existing grade created from alignment (make sure grade A (algebraic) differences and K-values are per city minimum requirement’s)
 
@@ -38,11 +38,11 @@ IE. Lane width = 10’ @ 2% + 2’ Gutter (-0.17) = -0.37
 1.  Algebraic difference in grade breaks has to be  <0.40%, K-Values: Sag>40, Crest>30
 2.  To create vertical curves: More Free Vertical Curves🡪 Free Vertical Parabola (PVI) based
 
-![](images/road-grading/image22.png)
+![](/images/road-grading/image22.png)
 
-![](images/road-grading/image29.png)
+![](/images/road-grading/image29.png)
 
-![](images/road-grading/image27.png)
+![](/images/road-grading/image27.png)
 
 11.  Create ASSEMBLY for corridor for vertical curve.
 
@@ -53,7 +53,7 @@ IE. Lane width = 10’ @ 2% + 2’ Gutter (-0.17) = -0.37
 3.  Code Set Style= Standard
 4.  Pick a spot near profile view created to locate where the baseline of the assembly will be located
 
-![](images/road-grading/image15.png)
+![](/images/road-grading/image15.png)
 
 2.  Open TOOL PALETTE
 
@@ -72,15 +72,15 @@ above, and add to both sides of baseline,
 2.  Change depth = 0.50’
 3.  Change slope = 2.0%
 
-![](images/road-grading/image20.png)
+![](/images/road-grading/image20.png)
 
-![](images/road-grading/image13.png)
+![](/images/road-grading/image13.png)
 
-![](images/road-grading/image1.png)
+![](/images/road-grading/image1.png)
 
-![](images/road-grading/image1.png)
+![](/images/road-grading/image1.png)
 
-![](images/road-grading/image1.png)
+![](/images/road-grading/image1.png)
 
 2.  Curbs 🡪 Urban Curb & Gutter
 
@@ -98,17 +98,17 @@ above, and add to both sides of baseline,
 10.  change Dimension F = 4.5”
 11.  change Dimension G = 12”
 
-![](images/road-grading/image16.png)
+![](/images/road-grading/image16.png)
 
-![](images/road-grading/image13.png)
+![](/images/road-grading/image13.png)
 
-![](images/road-grading/image1.png)
+![](/images/road-grading/image1.png)
 
-![](images/road-grading/image1.png)
+![](/images/road-grading/image1.png)
 
-![](images/road-grading/image1.png)
+![](/images/road-grading/image1.png)
 
-![](images/road-grading/image18.png)
+![](/images/road-grading/image18.png)
 
 3.  Mountable Curbs 🡪 Urban Curb Gutter Valley 1
 
@@ -125,17 +125,17 @@ above, and add to both sides of baseline,
 9.  change Dimension E = 7”
 10.  change Dimension F = 10”
 
-![](images/road-grading/image2.png)
+![](/images/road-grading/image2.png)
 
-![](images/road-grading/image13.png)
+![](/images/road-grading/image13.png)
 
-![](images/road-grading/image1.png)
+![](/images/road-grading/image1.png)
 
-![](images/road-grading/image1.png)
+![](/images/road-grading/image1.png)
 
-![](images/road-grading/image5.png)
+![](/images/road-grading/image5.png)
 
-![](images/road-grading/image1.png)
+![](/images/road-grading/image1.png)
 
 4.  Curb 🡪 Urban Sidewalk
 
@@ -147,15 +147,15 @@ above, and add to both sides of gutter created above,
 2.  Change slope = 2.0%
 3.  Change depth = 0.5’
 
-![](images/road-grading/image14.png)
+![](/images/road-grading/image14.png)
 
-![](images/road-grading/image13.png)
+![](/images/road-grading/image13.png)
 
-![](images/road-grading/image1.png)
+![](/images/road-grading/image1.png)
 
-![](images/road-grading/image1.png)
+![](/images/road-grading/image1.png)
 
-![](images/road-grading/image1.png)
+![](/images/road-grading/image1.png)
 
 5.  Generic 🡪 Link Slope to surface
 
@@ -166,13 +166,13 @@ above, and add to both sides of sidewalk created above,
 1.  Change slope = 25% or 33%
 2.  Add to Link Code = daylight
 
-![](images/road-grading/image21.png)
+![](/images/road-grading/image21.png)
 
-![](images/road-grading/image13.png)
+![](/images/road-grading/image13.png)
 
-![](images/road-grading/image1.png)
+![](/images/road-grading/image1.png)
 
-![](images/road-grading/image1.png)
+![](/images/road-grading/image1.png)
 
 6.  Add name to each assembly with text box and edit field,
 
@@ -190,7 +190,7 @@ above, and add to both sides of sidewalk created above,
 6.  Target Surface = EG (or surface to daylight to)
 7.  Set baseline and region parameters = Uncheck Box
 
-![](images/road-grading/image9.png)
+![](/images/road-grading/image9.png)
 
 8.  Corridor should have been built along alignment.
 9.  Right click Corridor 🡪Corridor Properties 🡪Surfaces 🡪 Click on first Icon, Corridor added to list.
@@ -198,11 +198,11 @@ above, and add to both sides of sidewalk created above,
 
 1.  Surface should be created
 
-![](images/road-grading/image4.png)
+![](/images/road-grading/image4.png)
 
-![](images/road-grading/image11.png)
+![](/images/road-grading/image11.png)
 
-![](images/road-grading/image11.png)
+![](/images/road-grading/image11.png)
 
 11.  Pull back limits of corridor to revised surface to actual point of new road not full length of alignment created.
 12.  Right click Corridor 🡪Corridor Properties 🡪Boundaries 🡪 Right Click on corridor listed 🡪 Corridor extents at outer boundary 🡪 APPLY
@@ -220,23 +220,23 @@ above, and add to both sides of sidewalk created above,
 
 1.  Right Click Subassembly and change in properties menu
 
-![](images/road-grading/image7.png)
+![](/images/road-grading/image7.png)
 
-![](images/road-grading/image8.png)
+![](/images/road-grading/image8.png)
 
-![](images/road-grading/image8.png)
+![](/images/road-grading/image8.png)
 
 15.  Add Corridor Surface to PG surface under Edits 🡪 right click 🡪 paste surface
 
-![](images/road-grading/image6.png)
+![](/images/road-grading/image6.png)
 
-![](images/road-grading/image30.png)
+![](/images/road-grading/image30.png)
 
 INTERSECTIONS
 
 1.  Create intersection, then select intersection point of alignments.
 
-![](images/road-grading/image31.png)
+![](/images/road-grading/image31.png)
 
 2.  GENERAL
 
@@ -248,33 +248,33 @@ Intersection Label Style= Standard
 
 Intersection Corridor Type= Primary Road Crown Maintained
 
-![](images/road-grading/image32.png)
+![](/images/road-grading/image32.png)
 
 3.  GEOMETRY DETAILS
 
 1.  Intersecting Alignments= (make sure correct alignments are shown)
 
-![](images/road-grading/image33.png)
+![](/images/road-grading/image33.png)
 
 2.  Offset and Curb Returns🡪 OFFSET PARAMETERS
 
-![](images/road-grading/image34.png)
+![](/images/road-grading/image34.png)
 
 3.  Offset and Curb Returns🡪 CURB RETURN PARAMETERS (make sure to go through all quadrants)
 
-![](images/road-grading/image24.png)
+![](/images/road-grading/image24.png)
 
-![](images/road-grading/image19.png)
+![](/images/road-grading/image19.png)
 
 4.  Offset and Curb Return Profiles🡪 LANE SLOPE PARAMETERS
 
-![](images/road-grading/image25.png)
+![](/images/road-grading/image25.png)
 
 5.  Offset and Curb Return Profiles🡪 CURB RETURN PROFILE PARAMETERS (all quadrants)
 
-![](images/road-grading/image26.png)
+![](/images/road-grading/image26.png)
 
-![](images/road-grading/image17.png)
+![](/images/road-grading/image17.png)
 
 4.  CORRIDOR REGIONS
 
@@ -283,7 +283,7 @@ Intersection Corridor Type= Primary Road Crown Maintained
 1.  Be sure to ad to existing corridor
 2.  Choose the correct Assembly for each region
 
-![](images/road-grading/image28.png)
+![](/images/road-grading/image28.png)
 
 2.  Corridor Region Section Type
 

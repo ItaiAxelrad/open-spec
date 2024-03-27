@@ -8,13 +8,13 @@ title: Corridors – Curb Returns
 4.  Create PROFILE of alignment created in step 3 above.
 1.  Add EG surface to profile.
 
-![](images/curb-returns/image26.png)
+![](/images/curb-returns/image26.png)
 
-![](images/curb-returns/image10.png)
+![](/images/curb-returns/image10.png)
 
 5.  Create PROFILE VIEW for vertical curve to be created in step VI below. 
 
-![](images/curb-returns/image28.png)
+![](/images/curb-returns/image28.png)
 
 6.  Create VERTICAL CURVE based on profile of existing grade created from alignment (make sure grade A (algebraic) differences and K-values are per city minimum requirement’s)
 
@@ -23,11 +23,11 @@ title: Corridors – Curb Returns
 1.  Algebraic difference in grade breaks has to be  <0.40%, K-Values: Sag>40, Crest>30
 2.  To create vertical curves: More Free Vertical Curves🡪 Free Vertical Parabola (PVI) based
 
-![](images/curb-returns/image9.png)
+![](/images/curb-returns/image9.png)
 
-![](images/curb-returns/image27.png)
+![](/images/curb-returns/image27.png)
 
-![](images/curb-returns/image23.png)
+![](/images/curb-returns/image23.png)
 
 7.  Create ASSEMBLY for corridor for vertical curve.
 
@@ -38,22 +38,22 @@ title: Corridors – Curb Returns
 3.  Code Set Style= Standard
 4.  Pick a spot near profile view created to locate where the baseline of the assembly will be located
 
-![](images/curb-returns/image22.png)
+![](/images/curb-returns/image22.png)
 
 2.  Open TOOL PALETTE
 1.  Lanes 🡪 Generic Pavement Structure
 1.  Select lane assembly created in Step 1 above, and add to both sides of baseline, (green line)
 1.  Change width = 12’ (distance from CL to edge of pan)
 2.  Change depth = 0.50’
-3.  Change slope = 2.0%![](images/curb-returns/image25.png)
+3.  Change slope = 2.0%![](/images/curb-returns/image25.png)
 
-![](images/curb-returns/image2.png)
+![](/images/curb-returns/image2.png)
 
-![](images/curb-returns/image1.png)
+![](/images/curb-returns/image1.png)
 
-![](images/curb-returns/image1.png)
+![](/images/curb-returns/image1.png)
 
-![](images/curb-returns/image1.png)
+![](/images/curb-returns/image1.png)
 
 2.  Curbs 🡪 Urban Curb & Gutter
 1.  Select lane assembly created in Step 1 above, and add to both sides of Lane created above,
@@ -69,12 +69,12 @@ title: Corridors – Curb Returns
 10.  change Dimension F = 4.5”
 11.  change Dimension G = 12”
 
-![](images/curb-returns/image2.png)
-![](images/curb-returns/image24.png)
-![](images/curb-returns/image1.png)
-![](images/curb-returns/image1.png)
-![](images/curb-returns/image1.png)
-![](images/curb-returns/image12.png)
+![](/images/curb-returns/image2.png)
+![](/images/curb-returns/image24.png)
+![](/images/curb-returns/image1.png)
+![](/images/curb-returns/image1.png)
+![](/images/curb-returns/image1.png)
+![](/images/curb-returns/image12.png)
 
 3.  Mountable Curbs 🡪 Urban Curb Gutter Valley 1
 1.  Select lane assembly created in Step 1 above, and add to both sides of Lane created above,
@@ -89,12 +89,12 @@ title: Corridors – Curb Returns
 9.  change Dimension E = 7”
 10.  change Dimension F = 10”
 
-![](images/curb-returns/image2.png)
-![](images/curb-returns/image4.png)
-![](images/curb-returns/image1.png)
-![](images/curb-returns/image1.png)
-![](images/curb-returns/image11.png)
-![](images/curb-returns/image1.png)
+![](/images/curb-returns/image2.png)
+![](/images/curb-returns/image4.png)
+![](/images/curb-returns/image1.png)
+![](/images/curb-returns/image1.png)
+![](/images/curb-returns/image11.png)
+![](/images/curb-returns/image1.png)
 
 4.  Curb 🡪 Urban Sidewalk
 1.  Select lane assembly created in Step 1 above, and add to both sides of gutter created above,
@@ -102,28 +102,28 @@ title: Corridors – Curb Returns
 2.  Change slope = 2.0%
 3.  Change depth = 0.5’
 
-![](images/curb-returns/image3.png)
+![](/images/curb-returns/image3.png)
 
-![](images/curb-returns/image2.png)
+![](/images/curb-returns/image2.png)
 
-![](images/curb-returns/image1.png)
+![](/images/curb-returns/image1.png)
 
-![](images/curb-returns/image1.png)
+![](/images/curb-returns/image1.png)
 
-![](images/curb-returns/image1.png)
+![](/images/curb-returns/image1.png)
 
 5.  Generic 🡪 Link Slope to surface
 1.  Select lane assembly created in Step 1 above, and add to both sides of sidewalk created above,
 1.  Change slope = 25% or 33%
 2.  Add to Link Code = daylight
 
-![](images/curb-returns/image5.png)
+![](/images/curb-returns/image5.png)
 
-![](images/curb-returns/image2.png)
+![](/images/curb-returns/image2.png)
 
-![](images/curb-returns/image1.png)
+![](/images/curb-returns/image1.png)
 
-![](images/curb-returns/image1.png)
+![](/images/curb-returns/image1.png)
 
 6.  Add name to each assembly with text box and edit field,
 1.  Create mText box above assembly, right click within text box 🡪Insert Field 🡪Object 🡪 Select Assembly 🡪Then select “Name” within property box
@@ -138,18 +138,18 @@ title: Corridors – Curb Returns
 6.  Target Surface = EG (or surface to daylight to)
 7.  Set baseline and region parameters = Uncheck Box
 
-![](images/curb-returns/image14.png)
+![](/images/curb-returns/image14.png)
 
 8.  Corridor should have been built along alignment.
 9.  Right click Corridor 🡪Corridor Properties 🡪Surfaces 🡪 Click on first Icon, Corridor added to list.
 10.  Specify Code 🡪 Top 🡪 Add 🡪 Apply
 1.  Surface should be created
 
-![](images/curb-returns/image13.png)
+![](/images/curb-returns/image13.png)
 
-![](images/curb-returns/image6.png)
+![](/images/curb-returns/image6.png)
 
-![](images/curb-returns/image6.png)
+![](/images/curb-returns/image6.png)
 
 11.  Pull back limits of corridor to revised surface to actual point of new road not full length of alignment created.
 12.  Right click Corridor 🡪Corridor Properties 🡪Boundaries 🡪 Right Click on corridor listed 🡪 Corridor extents at outer boundary 🡪 APPLY
@@ -162,23 +162,23 @@ title: Corridors – Curb Returns
 14.  If the surface of the road does not show a crowned road the Subassembly of crown road codes needs to be revised to have TopLink Codes = Top,Pave & Shape Codes = Pave1
 1.  Right Click Subassembly and change in properties menu
 
-![](images/curb-returns/image20.png)
+![](/images/curb-returns/image20.png)
 
-![](images/curb-returns/image7.png)
+![](/images/curb-returns/image7.png)
 
-![](images/curb-returns/image7.png)
+![](/images/curb-returns/image7.png)
 
 15.  Add Corridor Surface to PG surface under Edits 🡪 right click 🡪 paste surface
 
-![](images/curb-returns/image19.png)
+![](/images/curb-returns/image19.png)
 
-![](images/curb-returns/image21.png)
+![](/images/curb-returns/image21.png)
 
 ### INTERSECTIONS
 
 1.  Create intersection, then select intersection point of alignments.
 
-![](images/curb-returns/image29.png)
+![](/images/curb-returns/image29.png)
 
 2.  GENERAL
 
@@ -190,33 +190,33 @@ Intersection Label Style= Standard
 
 Intersection Corridor Type= Primary Road Crown Maintained
 
-![](images/curb-returns/image30.png)
+![](/images/curb-returns/image30.png)
 
 3.  GEOMETRY DETAILS
 
 1.  Intersecting Alignments= (make sure correct alignments are shown)
 
-![](images/curb-returns/image31.png)
+![](/images/curb-returns/image31.png)
 
 2.  Offset and Curb Returns🡪 OFFSET PARAMETERS
 
-![](images/curb-returns/image32.png)
+![](/images/curb-returns/image32.png)
 
 3.  Offset and Curb Returns🡪 CURB RETURN PARAMETERS (make sure to go through all quadrants)
 
-![](images/curb-returns/image33.png)
+![](/images/curb-returns/image33.png)
 
-![](images/curb-returns/image18.png)
+![](/images/curb-returns/image18.png)
 
 4.  Offset and Curb Return Profiles🡪 LANE SLOPE PARAMETERS
 
-![](images/curb-returns/image15.png)
+![](/images/curb-returns/image15.png)
 
 5.  Offset and Curb Return Profiles🡪 CURB RETURN PROFILE PARAMETERS (all quadrants)
 
-![](images/curb-returns/image16.png)
+![](/images/curb-returns/image16.png)
 
-![](images/curb-returns/image8.png)
+![](/images/curb-returns/image8.png)
 
 4.  CORRIDOR REGIONS
 
@@ -224,7 +224,7 @@ Intersection Corridor Type= Primary Road Crown Maintained
 1.  Be sure to ad to existing corridor
 2.  Choose the correct Assembly for each region
 
-![](images/curb-returns/image17.png)
+![](/images/curb-returns/image17.png)
 
 2.  Corridor Region Section Type
 1.  Curb radius fillet = \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
