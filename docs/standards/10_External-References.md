@@ -20,7 +20,7 @@ Typically, each project will have a series of base drawings that are x-reference
 4. Browse for the drawing you wish to insert and select. In most cases you will insert the drawing at 1 to 1 scale and at the origin. Toggle on “Overlay” and Toggle off “Scale: Specify Onscreen” and “Insertion Point: Specify Onscreen”.
 5. Click OK.
 
-![](/img/standards/image20.png)
+![](/images/standards/image20.png)
 
 Inserting x-refs that are not scaled or on the same origin or rotation as your drawing can be difficult. In this case you will typically Toggle on “Insertion Point: Specify Onscreen” and place the xref as close as possible to its correct location. When the xref has been inserted, it can be manipulated using the MOVE `M`, ROTATE `RO`, and SCALE `SC` commands to align it correctly.
 

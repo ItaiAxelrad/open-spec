@@ -21,13 +21,13 @@ There are four defined layer name data fields:
 
 The Discipline Designator and Major Group fields are mandatory. The Minor Group and Status fields are optional. Each data field is separated from adjacent fields by a dash ("-") for clarity.
 
-![National CAD Standards](/img/standards/image5.png)
+![National CAD Standards](/images/standards/image5.png)
 
 ### Discipline Designator, Level 1
 
 The Discipline Designator denotes the category of subject matter contained on the specified layer. The Discipline Designator is a two-character field. The first character is the discipline character, and the second character is an optional modifier.
 
-![Level 1 Discipline](/img/standards/image16.png)
+![Level 1 Discipline](/images/standards/image16.png)
 
 ### Major Group
 
@@ -66,7 +66,7 @@ This is already setup from the template. C will be the Discipline Designator. Ne
 - U - Utility
 - EC - Erosion Control
 
-![Layer spreadsheet](/img/standards/image17.png)
+![Layer spreadsheet](/images/standards/image17.png)
 
 The Template drawing has the majority of the layers already created that you will use on any project. These layers have the properties set so that they will appear as the correct type and weight when produced on company plotters or printers. Each layer has a description that will clearly indicate what features are appropriate for that layer. A list of the Template layers can be found in the Appendices. DO NOT alter the properties of any of these layers in your drawing. In the event that there is no Template layer appropriate for a feature you need to enter, you will need to create a layer based on the format in the following section.
 
@@ -76,4 +76,4 @@ Proper layer management allows the user to have more control over drawing entiti
 
 To turn off/freeze all survey points, a layer filter has been added to the layer properties manager. Select the “Hide Survey Points” filter located on the left side of the window. All layers associated with the points will be filtered so they can be turned off or frozen in the drawing.
 
-![Layer Manager](/img/standards/image12.png)
+![Layer Manager](/images/standards/image12.png)

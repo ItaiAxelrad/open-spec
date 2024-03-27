@@ -19,7 +19,7 @@ A data shortcut (DREF) is a method for sharing Civil 3D information, such as sur
 9. Right click on “Data Shortcuts”. Select “Create Data Shortcuts”. You may be prompted to save. Do so and select “Create Data Shortcuts” again.
 10. A “Share Data” dialogue box will appear. This list indicates all Civil 3D information in the drawing that is available to be shared with other drawings. Select all items that apply and click “OK”.
 
-![](/img/standards/image21.png)
+![](/images/standards/image21.png)
 
 ## Destination Drawing
 

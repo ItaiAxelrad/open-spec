@@ -10,9 +10,9 @@ All projects are given a unique alphanumeric code or Job Number setup by the pro
 
 - N:\\2021\\2101001
 
-Any new project directory should have the standard file tree installed. That file tree can be found in N:/img/standards/Project Directory.
+Any new project directory should have the standard file tree installed. That file tree can be found in N:/images/standards/Project Directory.
 
-![New Job Folders template](/img/standards/image11.png)
+![New Job Folders template](/images/standards/image11.png)
 
 ## Calculations
 
@@ -75,7 +75,7 @@ Any project related emails or scanned hard copy communications appropriate for t
 
 The drawing folder is where all AutoCAD files are to be saved for the project. Inside this folder are subfolders to help organize the different types of production drawings and exhibits. The main base drawings used for the project shall be saved outside of the subfolders because they are xref’d in multiple drawings. Base drawings should be easy to find and always found in the same spot in every project file.
 
-![](/img/standards/image14.png)
+![](/images/standards/image14.png)
 
 ### Construction Documents
 

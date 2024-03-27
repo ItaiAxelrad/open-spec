@@ -54,7 +54,7 @@ The AutoCAD color palette uses numbers from 1-255. Each number corresponds to a 
 
 Within the provided template, all layers have been assigned specific linetypes. All template layers have an associated linetype that will plot according to the standards. Do not alter or change the template linetypes for any reason. These linetypes are to remain as is. Per the .LIN file. All entities created in a drawing should be assigned a linetype `BYLAYER` in the entity properties menu.
 
-![](/img/standards/image18.png)
+![](/images/standards/image18.png)
 
 In the event there is no template layer appropriate for an entity that needs to be included in a drawing, create a new layer as described in section G.ii and assign the desired linetype to it.
 

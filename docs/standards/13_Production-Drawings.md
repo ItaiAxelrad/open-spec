@@ -49,9 +49,9 @@ A flowchart for drawing organization can be found in Section 3.b.
 
 :::
 
-![drawing diagram small](/img/standards/image15.png)
+![drawing diagram small](/images/standards/image15.png)
 
-![drawing diagram large](/img/standards/image4.png)
+![drawing diagram large](/images/standards/image4.png)
 
 Within each sheet, give each sheet tab an individual and specific name as it will help to keep them organized when setting up Sheet Set Manager.
 

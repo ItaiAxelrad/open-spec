@@ -62,9 +62,9 @@ Upon first setting up your AutoCAD profile, the following configurations should 
 6. Click “Close”.
 7. Right click in the sidebar of the Tool Palette. Select the new pallet from the list.
 
-![Options](/img/standards/image13.png)
+![Options](/images/standards/image13.png)
 
-![Customize](/img/standards/image10.png)
+![Customize](/images/standards/image10.png)
 
 ## Drafting Setup and Customization
 
@@ -99,7 +99,7 @@ Most users prefer to work on black backgrounds (to be able to see the color yell
 2. Add the variables in the image below or any other variable you like to monitor for changes. This helps for instance when you crash and `FILEDIA` gets switched to 0. This will give you a notification and you can easily switch it back.
 3. Click on “Enable balloon notification".
 
-![System Variable Monitor](/img/standards/image6.png)
+![System Variable Monitor](/images/standards/image6.png)
 
 ## Settings Outside of AutoCAD
 

@@ -32,7 +32,7 @@ There may be instances when it is not desirable to use any of the default Page S
 
 All colors are assigned a Pen number based on the ending number of the color. For example: color 11 is a Pen 1, color 226 is a Pen 6, and color 48 is a Pen 8. Colors ending in 0 plot in color and are assigned a Pen 4 width. If the color is in a “screened” row, it will plot gray with the corresponding Pen width. The following chart mimics the provided XXX.ctb file (see Support Files) and shall always be used when plotting
 
-![](/img/standards/image19.png)
+![](/images/standards/image19.png)
 
 ### Printer/Plotter
 

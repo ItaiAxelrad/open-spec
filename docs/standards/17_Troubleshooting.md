@@ -6,7 +6,7 @@ date: 2021-04-10
 
 If you are getting the following dialog box when you start Civil 3D about AutoCAD Raster Design, it will keep happening every time you open it.
 
-![](/img/standards/image8.png)
+![](/images/standards/image8.png)
 
 To get it to stop you will need to close Civil 3D and then open up AutoCAD Map 3D 2016 – English. Once that is open you can close it and the dialog box should now not appear when you open Civil 3D.
 
