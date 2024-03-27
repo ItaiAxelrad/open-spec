@@ -6,7 +6,9 @@ title: Corridors
 2.  Create a PG surface for the corridor.
 3.  Create ALIGNMENT, i.e. NW ROAD of proposed road.
 4.  Create PROFILE of alignment created in step 3 above.
-5.  Add EG surface to profile.![](images/corridors/image27.png)
+5.  Add EG surface to profile.
+
+![](images/corridors/image27.png)
 
 ![](images/corridors/image11.png)
 
@@ -15,12 +17,14 @@ title: Corridors
 ![](images/corridors/image29.png)
 
 2.  Create VERTICAL CURVE based on profile of existing grade created from alignment (make sure grade A (algebraic) differences and K-values are per city minimum requirements)
-
 1.  PROFILE 🡪 Profile Creation Tool 
 2.  “Profile Layout Tools” toolbar pops up
-
 1.  Algebraic difference in grade breaks has to be  <0.40%, K-Values: Sag>40, Crest>30
-2.  To create vertical curves: More Free Vertical Curves🡪 Free Vertical Parabola (PVI) based![](images/corridors/image10.png)![](images/corridors/image28.png)
+2.  To create vertical curves: More Free Vertical Curves🡪 Free Vertical Parabola (PVI) based
+
+![](images/corridors/image10.png)
+
+![](images/corridors/image28.png)
 
 ![](images/corridors/image24.png)
 
@@ -31,7 +35,9 @@ title: Corridors
 1.  Assembly Type = Undivided Crowned Road
 2.  Assembly Style = Standard
 3.  Code Set Style= Standard
-4.  Pick a spot near profile view created to locate where the baseline of the assembly will be located![](images/corridors/image23.png)
+4.  Pick a spot near profile view created to locate where the baseline of the assembly will be located
+
+![](images/corridors/image23.png)
 
 2.  Open TOOL PALETTE
 
@@ -48,11 +54,15 @@ above, and add to both sides of baseline,
 (distance from CL to edge of pan)
 
 2.  Change depth = 0.50’
-3.  Change slope = 2.0%![](images/corridors/image26.png)
+3.  Change slope = 2.0%
+
+![](images/corridors/image26.png)
 
 ![](images/corridors/image2.png)
 
-![](images/corridors/image1.png)![](images/corridors/image1.png)
+![](images/corridors/image1.png)
+
+![](images/corridors/image1.png)
 
 ![](images/corridors/image1.png)
 
@@ -74,9 +84,15 @@ above, and add to both sides of Lane created above,
 10.  change Dimension F = 4.5”
 11.  change Dimension G = 12”
 
-![](images/corridors/image9.png)![](images/corridors/image25.png)
+![](images/corridors/image9.png)
 
-![](images/corridors/image1.png)![](images/corridors/image1.png)![](images/corridors/image1.png)
+![](images/corridors/image25.png)
+
+![](images/corridors/image1.png)
+
+![](images/corridors/image1.png)
+
+![](images/corridors/image1.png)
 
 ![](images/corridors/image13.png)
 
@@ -97,11 +113,17 @@ above, and add to both sides of Lane created above,
 9.  change Dimension E = 7”
 10. change Dimension F = 10”
 
-![](images/corridors/image2.png)![](images/corridors/image4.png)
+![](images/corridors/image2.png)
 
-![](images/corridors/image1.png)![](images/corridors/image1.png)
+![](images/corridors/image4.png)
 
-![](images/corridors/image12.png)![](images/corridors/image1.png)
+![](images/corridors/image1.png)
+
+![](images/corridors/image1.png)
+
+![](images/corridors/image12.png)
+
+![](images/corridors/image1.png)
 
 4.  Curb 🡪 Urban Sidewalk
 
@@ -117,7 +139,11 @@ above, and add to both sides of gutter created above,
 
 ![](images/corridors/image2.png)
 
-![](images/corridors/image1.png)![](images/corridors/image1.png)![](images/corridors/image1.png)
+![](images/corridors/image1.png)
+
+![](images/corridors/image1.png)
+
+![](images/corridors/image1.png)
 
 5.  Generic 🡪 Link Slope to surface
 
@@ -126,7 +152,9 @@ above, and add to both sides of gutter created above,
 above, and add to both sides of sidewalk created above,
 
 1.  Change slope = 25% or 33%
-2.  Add to Link Code = daylight![](images/corridors/image5.png)
+2.  Add to Link Code = daylight
+
+![](images/corridors/image5.png)
 
 ![](images/corridors/image2.png)
 
@@ -148,7 +176,9 @@ above, and add to both sides of sidewalk created above,
 4.  Profile = FG NW Road 1 (profile created in step VI)
 5.  Assembly = LOCAL ROAD 28’ FL – FL (or corresponding assembly)
 6.  Target Surface = EG (or surface to daylight to)
-7.  Set baseline and region parameters = Uncheck Box![](images/corridors/image15.png)
+7.  Set baseline and region parameters = Uncheck Box
+
+![](images/corridors/image15.png)
 
 8.  Corridor should have been built along alignment.
 9.  Right click Corridor 🡪Corridor Properties 🡪Surfaces 🡪 Click on first Icon, Corridor added to list.
@@ -158,7 +188,9 @@ above, and add to both sides of sidewalk created above,
 
 ![](images/corridors/image14.png)
 
-![](images/corridors/image6.png)![](images/corridors/image6.png)
+![](images/corridors/image6.png)
+
+![](images/corridors/image6.png)
 
 11.  Pull back limits of corridor to revised surface to actual point of new road not full length of alignment created.
 12.  Right click Corridor 🡪Corridor Properties 🡪Boundaries 🡪 Right Click on corridor listed 🡪 Corridor extents at outer boundary 🡪 APPLY
@@ -182,7 +214,9 @@ above, and add to both sides of sidewalk created above,
 
 ![](images/corridors/image7.png)
 
-15.  Add Corridor Surface to PG surface under Edits 🡪 right click 🡪 paste surface![](images/corridors/image20.png)
+15.  Add Corridor Surface to PG surface under Edits 🡪 right click 🡪 paste surface
+
+![](images/corridors/image20.png)
 
 ![](images/corridors/image22.png)
 
@@ -216,7 +250,9 @@ Intersection Corridor Type= Primary Road Crown Maintained
 
 3.  Offset and Curb Returns🡪 CURB RETURN PARAMETERS (make sure to go through all quadrants)
 
-![](images/corridors/image34.png)![](images/corridors/image19.png)
+![](images/corridors/image34.png)
+
+![](images/corridors/image19.png)
 
 4.  Offset and Curb Return Profiles🡪 LANE SLOPE PARAMETERS
 
@@ -224,7 +260,9 @@ Intersection Corridor Type= Primary Road Crown Maintained
 
 5.  Offset and Curb Return Profiles🡪 CURB RETURN PROFILE PARAMETERS (all quadrants)
 
-![](images/corridors/image17.png)![](images/corridors/image8.png)
+![](images/corridors/image17.png)
+
+![](images/corridors/image8.png)
 
 4.  CORRIDOR REGIONS
 
@@ -244,5 +282,4 @@ Intersection Corridor Type= Primary Road Crown Maintained
 5.  Secondary Road Section = \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 6.  Secondary Road Section- Daylight LEFT = \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 7.  Secondary Road Section- Daylight RIGHT = \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
 3.  Create Intersection
