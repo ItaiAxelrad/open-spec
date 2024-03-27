@@ -28,4 +28,4 @@ A data shortcut (DREF) is a method for sharing Civil 3D information, such as sur
 
 Any Civil 3D styles associated with the parent drawing must be present in the destination drawing for the DREFs to display correctly. The styles are pre-loaded into the Template drawings, but any older drawing not created with the template will need to have the styles loaded manually. See Chapter 4, Section A for instructions.
 
-Any Civil 3D labels associated with the parent drawing will not be carried over to the destination drawing. They will need to be recreated as necessary. See Chapter 4, Section H for more information about labeling.
+Any Civil 3D labels associated with the parent drawing will not be carried over to the destination drawing. They will need to be recreated as necessary. See the Annotating chapter for more information about labeling.

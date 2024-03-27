@@ -4,7 +4,15 @@ section: '312500'
 divNumb: 31
 divName: Earthwork
 subgroup: Site and Infrastructure
-tags: ['Site', 'Infrastructure', 'Earthwork', 'Erosion', 'Sedimentation', 'Controls']
+tags:
+  [
+    'Site',
+    'Infrastructure',
+    'Earthwork',
+    'Erosion',
+    'Sedimentation',
+    'Controls',
+  ]
 ---
 
 ## General
@@ -94,100 +102,100 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Erosion', 'Sedimentation', 'Contr
 
 ## Products
 
-   1. MATERIALS
-   1. Erosion and Sedimentation Control Materials:
-      1. Provide one or more of the following materials, as shown on the plans or as applicable for site conditions:
-      1. Sand bags.
-   1. Rock socks
-   1. S- fences (**[www.ertecsystems.com/](http://www.ertecsystems.com/)**). (Ertec systems or equivalent)Standard black silt fences are not permitted. Reinforced standard black silt fences are permitted at the NWTC.
-   1. Rock riprap.
-   1. Straw wattle or other similar devices
-   1. Inlet protection devices (Dandy Bags, gravel filters or equivalent)
-   1. Vehicle tracking pad (recycled concrete aggregate is not permitted)
-   1. Concrete washout facility (Ecopans or equivalent. Pits (lined or unlined) are not permitted.
-   1. Secondary containment for chemicals. Chemicals stored outdoors must be protected by a shelter/other means for preventing stormwater/snowmelt from interacting w/ chemicals.
-   1. Fiber mulch.
-   1. Erosion Control Blanket.
-   1. High Performance Flexible Growth Medium
-   1. Other materials as proposed by the contractor and approved by Owner.
-    1. Seed Protection - Fiber Mulches, Erosion Control Blankets and High Performance Flexible Growth Medium
-    1. Summary of Seed Protection Materials
-1. SEED PROTECTION MATERIAL VERSUS SLOPE MATRIX
-1. SEED PROTECTION MATERIALE
-1. LOCATION
-1. SLOPE
-1. FUNCTIONAL LONGEVITY
-1. CONSIDERATIONS
-   1. Fiber Mulch
+1.  MATERIALS
+1.  Erosion and Sedimentation Control Materials:
+    1. Provide one or more of the following materials, as shown on the plans or as applicable for site conditions:
+    1. Sand bags.
+1.  Rock socks
+1.  S- fences (**[www.ertecsystems.com/](http://www.ertecsystems.com/)**). (Ertec systems or equivalent)Standard black silt fences are not permitted. Reinforced standard black silt fences are permitted at the NWTC.
+1.  Rock riprap.
+1.  Straw wattle or other similar devices
+1.  Inlet protection devices (Dandy Bags, gravel filters or equivalent)
+1.  Vehicle tracking pad (recycled concrete aggregate is not permitted)
+1.  Concrete washout facility (Ecopans or equivalent. Pits (lined or unlined) are not permitted.
+1.  Secondary containment for chemicals. Chemicals stored outdoors must be protected by a shelter/other means for preventing stormwater/snowmelt from interacting w/ chemicals.
+1.  Fiber mulch.
+1.  Erosion Control Blanket.
+1.  High Performance Flexible Growth Medium
+1.  Other materials as proposed by the contractor and approved by Owner.
+1.  Seed Protection - Fiber Mulches, Erosion Control Blankets and High Performance Flexible Growth Medium
+1.  Summary of Seed Protection Materials
+1.  SEED PROTECTION MATERIAL VERSUS SLOPE MATRIX
+1.  SEED PROTECTION MATERIAL
+1.  LOCATION
+1.  SLOPE
+1.  FUNCTIONAL LONGEVITY
+1.  CONSIDERATIONS
+    1. Fiber Mulch
     1. Roadside
+    1. &lt; 10:1
+    1. minimum 18 months
+    1. Hay Mulch
+    1. Grasslands
+    1. &lt; 10:1
+    1. minimum 12 months
+    1. Crimping required within 24 hours
+    1. Coconut
+    1. Coir /Straw Blanket
+    1. Grasslands
 
-< 10:1 
-   1. minimum 18 months
+&gt; 10:1 and &lt; 6:1
 
-   1. Hay Mulch
-   1. Grasslands 
+1.  minimum 18 months
+1.  Density depends on when planting installation will occur seasonally
+1.  Coconut Coir Blanket
+1.  Drainageways
 
-< 10:1 
-   1. minimum 12 months
-   1. Crimping required within 24 hours
-   1. Coconut 
-   1. Coir /Straw Blanket
-   1. Grasslands 
+&gt; 6:1
 
-> 10:1 and < 6:1
-   1. minimum 18 months
-   1. Density depends on when planting installation will occur seasonally
-   1. Coconut Coir Blanket
-   1. Drainageways
+1.  minimum 36 months
+1.  Product selection will be guided by channel velocity, sheer stress, and slope.
+1.  High Performance Flexible Growth Medium
+1.  Grasslands
 
-> 6:1 
-   1. minimum 36 months
-   1. Product selection will be guided by channel velocity, sheer stress, and slope.
-   1. High Performance Flexible Growth Medium
-   1. Grasslands
+&gt; 6:1
 
-> 6:1
-   1. minimum 18 months
-   1. HP-FGM must be applied within 48 hours of seeding
-   1. Seed Protection Material Requirements
-   1. Fiber Mulch:
-      1. Biodegradable, comprised of threshed straw of oats, wheat, barley or rye; nontoxic, certified weed free and free of plant-growth, germination inhibitors, mold or other objectionable material; with a maximum moisture content of 15 percent and a pH range of 4.5 to 6.5.
-   1. Fiber Mulch must contain at least 50% by weight of material to be 10 inches or longer.
-    1. Nonasphaltic Tackifier:
-       1. Consisting of a free-flowing, noncorrosive powder produced from the natural plant gum of Plantago isularis (Desert Indianwheat), applied in a slurry with water and wood fiber. Must not contain mineral filler, recycled cellulose fiber, clays or other substances that may inhibit germination or growth of plants.
-   1. High Performance Flexible Growth Medium for slopes greater than 6:1 :
-      1. High Performance Flexible Growth Medium (HP-FGM) shall be hydraulically-applied, 100% biodegradable, manufactured in the United States and is composed of 100% recycled thermally refined (within a pressure vessel) wood fibers, crimped interlocking man-made biodegradable fibers, micro-pore granules, naturally derived crosslinked biopolymers and water absorbents. HP-FGM shall be phytosanitized, free from plastic netting, requires no curing period and upon application forms an intimate bond with the soil surface to create a continuous, porous, absorbent and flexible erosion resistant blanket that allows rapid germination and accelerated plant growth.
-   1. Preferred Manufacturer/Product:
-      1. Flexterra HP-FGM, by Profile Products, or approved equal.
-    1. Coconut Coir /Straw Blanket for slopes 6:1 or less:
-       1. Biodegradable 100% coconut-fiber mat enclosed with biodegradable jute/equivalent natural fiber netting and thread.
-    1. Available Products:
-       1. Subject to compliance with requirements, products that may be incorporated into the Work include, but are not limited to the following:
-       1. North American Green:
-          1. BioNet SC150BN
-   1. American Excelsior Company:
-      1. AEC Premier Coconut /Straw ECB
-    1. Coconut Coir Blanket Fasteners:
-       1. Provide rigid, biodegradable fasteners (non-metallic).
-   1. Subject to compliance with requirements, products that may be incorporated into the Work include, but are not limited to the following:
-      1. North American Green:
-         1. BioSTAKEs
-   1. North American Green:
-      1. EcoSTAKEs
-   1. American Excelsior Company:
-      1. E-Staple
-   1. Wood Stakes (Min. 24” length)
-   1. Fastening Pattern:
-      1. Selection of and placement/spacing of fasteners will be contingent upon the following (Contractor to provide manufacturer’s recommendations supporting):
-      1. Slope
-   1. Soil type (sandy, rocky, etc.)
-   1. Designed to withstand water velocities of 5-year storm event
-    1. For drainage channels and other areas of potentially high flows, use Super Duty Excelsior Blanket, (Xcel SD-3 Super Duty), or Rolanka Coir 40, 60, 70 or 90 .
+1.  minimum 18 months
+1.  HP-FGM must be applied within 48 hours of seeding
+1.  Seed Protection Material Requirements
+1.  Fiber Mulch:
+    1. Biodegradable, comprised of threshed straw of oats, wheat, barley or rye; nontoxic, certified weed free and free of plant-growth, germination inhibitors, mold or other objectionable material; with a maximum moisture content of 15 percent and a pH range of 4.5 to 6.5.
+1.  Fiber Mulch must contain at least 50% by weight of material to be 10 inches or longer.
+1.  Nonasphaltic Tackifier:
+    1.  Consisting of a free-flowing, noncorrosive powder produced from the natural plant gum of Plantago isularis (Desert Indianwheat), applied in a slurry with water and wood fiber. Must not contain mineral filler, recycled cellulose fiber, clays or other substances that may inhibit germination or growth of plants.
+1.  High Performance Flexible Growth Medium for slopes greater than 6:1 :
+    1. High Performance Flexible Growth Medium (HP-FGM) shall be hydraulically-applied, 100% biodegradable, manufactured in the United States and is composed of 100% recycled thermally refined (within a pressure vessel) wood fibers, crimped interlocking man-made biodegradable fibers, micro-pore granules, naturally derived crosslinked biopolymers and water absorbents. HP-FGM shall be phytosanitized, free from plastic netting, requires no curing period and upon application forms an intimate bond with the soil surface to create a continuous, porous, absorbent and flexible erosion resistant blanket that allows rapid germination and accelerated plant growth.
+1.  Preferred Manufacturer/Product:
+    1. Flexterra HP-FGM, by Profile Products, or approved equal.
+1.  Coconut Coir /Straw Blanket for slopes 6:1 or less:
+    1.  Biodegradable 100% coconut-fiber mat enclosed with biodegradable jute/equivalent natural fiber netting and thread.
+1.  Available Products:
+    1.  Subject to compliance with requirements, products that may be incorporated into the Work include, but are not limited to the following:
+    1.  North American Green:
+        1. BioNet SC150BN
+1.  American Excelsior Company:
+    1. AEC Premier Coconut /Straw ECB
+1.  Coconut Coir Blanket Fasteners:
+    1.  Provide rigid, biodegradable fasteners (non-metallic).
+1.  Subject to compliance with requirements, products that may be incorporated into the Work include, but are not limited to the following:
+    1. North American Green:
+       1. BioSTAKEs
+1.  North American Green:
+    1. EcoSTAKEs
+1.  American Excelsior Company:
+    1. E-Staple
+1.  Wood Stakes (Min. 24” length)
+1.  Fastening Pattern:
+    1. Selection of and placement/spacing of fasteners will be contingent upon the following (Contractor to provide manufacturer’s recommendations supporting):
+    1. Slope
+1.  Soil type (sandy, rocky, etc.)
+1.  Designed to withstand water velocities of 5-year storm event
+1.  For drainage channels and other areas of potentially high flows, use Super Duty Excelsior Blanket, (Xcel SD-3 Super Duty), or Rolanka Coir 40, 60, 70 or 90 .
 
 ## Execution
 
 1. PREPARATION
-	1. General:
+   1. General:
       1. Determine the existing ground elevations, drainage patterns, and changes to such patterns during excavation in order to satisfactorily plan and provide materials for adequate erosion and sediment control devices.
    1. The Owner EHS Office must approve placement and installation of BMPs prior to issuance of an Owner Penetration or Excavation Permit and subsequently, prior to the start of earth disturbance.
 1. EXAMINATION
@@ -222,58 +230,57 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Erosion', 'Sedimentation', 'Contr
       1. ≤ 6:1 slope:
          1. 2,500 pounds per acre.
 
-> 6:1 slope and ≤ 3:1 slope: 3,000 pounds per acre.
+&gt; 6:1 slope and ≤ 3:1 slope: 3,000 pounds per acre.
 
 ≥ 3:1 slope and ≤ 2:1 slope: 3,500 pounds per acre.
-   1. Hydromulching shall not be done during or after rainstorms, when water is standing or when runoff is occurring or when below freezing, or in the presence of snow.
-   1. Hay Mulching
-   1. Hay mulching may be substituted for hydromulching on > 10:1 slopes .
-   1. Uniformly apply wheat straw at a rate of 2 tons per acre and crimp in with a crimper or other approved equipment.
-   1. Employ handcrimping operations where excessive ground slopes or confinement cause unsatisfactory crimping to result by mechanical methods.
-   1. Spray mixture of 100 lbs. tackifier, 150 lbs. hydromulch and 750 gallons water over wheat straw.
-   1. Timing
-   1. Crimp seeded areas within 24 hours after seeding.
-   1. Areas not crimped within 24 hours shall be reseeded with the specified seed mix prior to crimping.
-   1. Erosion Control For Drainage Channels
-   1. Selection of appropriate material will consider channel velocity, sheer stress, slope, season (planting in spring may allow a less dense blanket – in fall a more dense blanket), longevity must be at least 36 months, and must be 100% biodegradable including netting.
-   1. Apply fertilizer and seed prior to installing blankets.
-   1. Anchor blankets at top of channel. Backfill with check slot material. For culvert outfalls, place blanket at least 12 inches upstream from pipe opening.
-   1. Install a blanket in the center of the channel, in the direction of water flow. Additional blankets are installed at the edges of this center blanket.
-   1. Construct check slots with soil, gravel, or stone, in the middle (45 ft.) and end of each blanket.
-   1. Overlap side channel blanket edges a minimum of 3" over the center channel blanket and staple. Overlap end and beginning blanket edges a minimum of 6" and staple.
-   1. Anchor the top edge of side channel blankets.
-   1. Anchor the terminal ends of blankets in a check slot.
-    1. Chemicals and Pollutants:
-    1. Locate construction materials and chemicals stored outdoors in such a way that they will not come in contact with stormwater. This may involve the use of cabinets, roofed enclosures, or a dike located around the perimeter of the storage area.
-   1. Locate areas used for collection and temporary storage of solid and liquid waste away from the storm drainage system. Provide covering or fencing as required to prevent windblown materials; construct perimeter dike to contain liquid runoff. These measures may not be necessary if materials are immediately placed in covered waste containers.
-   1. Locate fueling areas a minimum of 100 feet from site stormwater conveyances or detention basins.
-   1. Locate equipment maintenance areas a minimum of 100 feet from site stormwater conveyances or detention basins and in designated areas using measures such as drip pans to control petroleum products spillage.
-   1. Immediately clean up and properly dispose of spills of construction related materials such as paints, solvents, equipment fluids, or other chemicals.
-   1. INSPECTIONS
-   1. Frequency – Contractor shall perform inspections every seven days, within 24 hours after a storm event exceeding 0.25 inches of precipitation, and after a snowmelt event capable of causing erosion and sedimentation. Reduction in inspection frequency is allowed under the EPA CGP during periods of seasonal or prolonged drought, frozen conditions and in stabilized areas. Please refer to Section 4.1.4 of the EPA CGP. Please also note that for construction sites covered under State Department of Public Health and Environment’s Stormwater Discharges Associated w/ Construction Activities general permit, inspections are required when any storm (regardless of the precipitation amount) or snowmelt event occurs that is capable of causing erosion and sedimentation.
-   1. Inspection Report Form – Contractor shall use the inspection form provided in Attachment ‘A’ – Section 312500 of this Specification. Contractor shall provide to Owner a copy of an inspection report within 24 hours of the inspection occurring.
-   1. Inspection Contents – During an inspection, Contractor shall make observations relative to the following:
-      1. Are all erosion and sediment controls and pollution prevention controls installed properly and working as intended to minimize pollutant discharges?
-   1. Do any controls need to be replaced, repaired or maintained?
-   1. Are conditions present on site that could lead to spills, leaks or other accumulations of pollutants?
-   1. Are there locations where new or modified stormwater controls are needed?
-   1. Are there signs of erosion and sedimentation visible at the points of discharge of stormwater from the construction site?
-   1. Are there any locations or indications of noncompliance observed?
-   1. Is a discharge of stormwater from the construction site observed?
-   1. Owner Inspections. The Owner Project Manager, in coordination with the Owner EHS Office, monitors Contractor stormwater management by conducting periodic site inspections.
-   1. Offsite Discharge. If a stormwater discharge is observed leaving the construction site either during an inspection or at any other time, the Contractor shall adhere to the EPA CGP requirements identified in Part 4.1.6.6 of the EPA CGP and provide all documentation to Owner within 24 hours.
-   1. Inspection Reports – Refer to Section 322501 for inspection reporting requirements that are required by the EPA CGP.
-    1. Corrective Actions.
-   1. When the need for corrective actions is identified during an inspection, the contractor shall complete the required actions according to the following schedule:
-      1. Initiate work to fix the problem immediately, and complete the work by the close of the next work day.
-   1. If the problem requires installation of a new erosion or sediment control or a significant repair is needed, the new or modified control must be installed no later than seven days from the time of discovery. Document corrective actions taken and the date corrected.
-   1. If it is infeasible to install the new or modified control within seven calendar days, the reasons why the work is infeasible together with a schedule for making the control operation as soon as practicable after the seven-day timeframe must be documented on the inspection report.
-   1. The SWPPP must be revised to reflect additions, relocation or removal of BMPs. Contractor must provide a revised erosion and sediment control plan and/or revised SWPPP pages to Owner within seven calendar days.
-   1. Circumstances Requiring Reporting to the EPA. Contractor shall comply fully with all requirements of the EPA CGP. Should the circumstances identified in Part 5.2 of the EPA CGP occur, Contractor shall immediately notify the Owner EHS Office prior to the required EPA notifications being made.
-   1. Final Stabilization and Long-Term Management
-   1. Final Stabilization. Final stabilization shall be achieved through permanent vegetation and landscaping after construction of all buildings and paved surfaces.
-   1. Removal of Temporary Erosion and Sediment Controls. Temporary erosion and sediment control measures may be removed as determined by the Owner EHS Office after project acceptance is obtained from the Owner Project Manager.
-   1. Controls Remaining During Vegetation Establishment. Some erosion and sediment controls may be required to remain in newly seeded/planted areas to prevent erosion during establishment. These controls must be approved by the Owner EHS Office. All erosion and sediment controls that are to be left in place during vegetation establishment must be thoroughly cleaned at the conclusion of construction activities prior to the contractor leaving the site.
-   1. Cleaning of Owner Drainage Infrastructure. Contractor must remove all sediment from Owner drainage infrastructure following completion of site stabilization activities. Contractor must also repair drainage conveyances, erosion or other damage to Owner drainage infrastructure including detention basins. This may include sediment removal, regrading, reseeding and/or application of mulch or erosion control blankets.
 
-
+1.  Hydromulching shall not be done during or after rainstorms, when water is standing or when runoff is occurring or when below freezing, or in the presence of snow.
+1.  Hay Mulching
+1.  Hay mulching may be substituted for hydromulching on &gt; 10:1 slopes .
+1.  Uniformly apply wheat straw at a rate of 2 tons per acre and crimp in with a crimper or other approved equipment.
+1.  Employ handcrimping operations where excessive ground slopes or confinement cause unsatisfactory crimping to result by mechanical methods.
+1.  Spray mixture of 100 lbs. tackifier, 150 lbs. hydromulch and 750 gallons water over wheat straw.
+1.  Timing
+1.  Crimp seeded areas within 24 hours after seeding.
+1.  Areas not crimped within 24 hours shall be reseeded with the specified seed mix prior to crimping.
+1.  Erosion Control For Drainage Channels
+1.  Selection of appropriate material will consider channel velocity, sheer stress, slope, season (planting in spring may allow a less dense blanket – in fall a more dense blanket), longevity must be at least 36 months, and must be 100% biodegradable including netting.
+1.  Apply fertilizer and seed prior to installing blankets.
+1.  Anchor blankets at top of channel. Backfill with check slot material. For culvert outfalls, place blanket at least 12 inches upstream from pipe opening.
+1.  Install a blanket in the center of the channel, in the direction of water flow. Additional blankets are installed at the edges of this center blanket.
+1.  Construct check slots with soil, gravel, or stone, in the middle (45 ft.) and end of each blanket.
+1.  Overlap side channel blanket edges a minimum of 3" over the center channel blanket and staple. Overlap end and beginning blanket edges a minimum of 6" and staple.
+1.  Anchor the top edge of side channel blankets.
+1.  Anchor the terminal ends of blankets in a check slot.
+1.  Chemicals and Pollutants:
+1.  Locate construction materials and chemicals stored outdoors in such a way that they will not come in contact with stormwater. This may involve the use of cabinets, roofed enclosures, or a dike located around the perimeter of the storage area.
+1.  Locate areas used for collection and temporary storage of solid and liquid waste away from the storm drainage system. Provide covering or fencing as required to prevent windblown materials; construct perimeter dike to contain liquid runoff. These measures may not be necessary if materials are immediately placed in covered waste containers.
+1.  Locate fueling areas a minimum of 100 feet from site stormwater conveyances or detention basins.
+1.  Locate equipment maintenance areas a minimum of 100 feet from site stormwater conveyances or detention basins and in designated areas using measures such as drip pans to control petroleum products spillage.
+1.  Immediately clean up and properly dispose of spills of construction related materials such as paints, solvents, equipment fluids, or other chemicals.
+1.  INSPECTIONS
+1.  Frequency – Contractor shall perform inspections every seven days, within 24 hours after a storm event exceeding 0.25 inches of precipitation, and after a snowmelt event capable of causing erosion and sedimentation. Reduction in inspection frequency is allowed under the EPA CGP during periods of seasonal or prolonged drought, frozen conditions and in stabilized areas. Please refer to Section 4.1.4 of the EPA CGP. Please also note that for construction sites covered under State Department of Public Health and Environment’s Stormwater Discharges Associated w/ Construction Activities general permit, inspections are required when any storm (regardless of the precipitation amount) or snowmelt event occurs that is capable of causing erosion and sedimentation.
+1.  Inspection Report Form – Contractor shall use the inspection form provided in Attachment ‘A’ – Section 312500 of this Specification. Contractor shall provide to Owner a copy of an inspection report within 24 hours of the inspection occurring.
+1.  Inspection Contents – During an inspection, Contractor shall make observations relative to the following:
+    1. Are all erosion and sediment controls and pollution prevention controls installed properly and working as intended to minimize pollutant discharges?
+1.  Do any controls need to be replaced, repaired or maintained?
+1.  Are conditions present on site that could lead to spills, leaks or other accumulations of pollutants?
+1.  Are there locations where new or modified stormwater controls are needed?
+1.  Are there signs of erosion and sedimentation visible at the points of discharge of stormwater from the construction site?
+1.  Are there any locations or indications of noncompliance observed?
+1.  Is a discharge of stormwater from the construction site observed?
+1.  Owner Inspections. The Owner Project Manager, in coordination with the Owner EHS Office, monitors Contractor stormwater management by conducting periodic site inspections.
+1.  Offsite Discharge. If a stormwater discharge is observed leaving the construction site either during an inspection or at any other time, the Contractor shall adhere to the EPA CGP requirements identified in Part 4.1.6.6 of the EPA CGP and provide all documentation to Owner within 24 hours.
+1.  Inspection Reports – Refer to Section 322501 for inspection reporting requirements that are required by the EPA CGP.
+1.  Corrective Actions.
+1.  When the need for corrective actions is identified during an inspection, the contractor shall complete the required actions according to the following schedule:
+    1. Initiate work to fix the problem immediately, and complete the work by the close of the next work day.
+1.  If the problem requires installation of a new erosion or sediment control or a significant repair is needed, the new or modified control must be installed no later than seven days from the time of discovery. Document corrective actions taken and the date corrected.
+1.  If it is infeasible to install the new or modified control within seven calendar days, the reasons why the work is infeasible together with a schedule for making the control operation as soon as practicable after the seven-day timeframe must be documented on the inspection report.
+1.  The SWPPP must be revised to reflect additions, relocation or removal of BMPs. Contractor must provide a revised erosion and sediment control plan and/or revised SWPPP pages to Owner within seven calendar days.
+1.  Circumstances Requiring Reporting to the EPA. Contractor shall comply fully with all requirements of the EPA CGP. Should the circumstances identified in Part 5.2 of the EPA CGP occur, Contractor shall immediately notify the Owner EHS Office prior to the required EPA notifications being made.
+1.  Final Stabilization and Long-Term Management
+1.  Final Stabilization. Final stabilization shall be achieved through permanent vegetation and landscaping after construction of all buildings and paved surfaces.
+1.  Removal of Temporary Erosion and Sediment Controls. Temporary erosion and sediment control measures may be removed as determined by the Owner EHS Office after project acceptance is obtained from the Owner Project Manager.
+1.  Controls Remaining During Vegetation Establishment. Some erosion and sediment controls may be required to remain in newly seeded/planted areas to prevent erosion during establishment. These controls must be approved by the Owner EHS Office. All erosion and sediment controls that are to be left in place during vegetation establishment must be thoroughly cleaned at the conclusion of construction activities prior to the contractor leaving the site.
+1.  Cleaning of Owner Drainage Infrastructure. Contractor must remove all sediment from Owner drainage infrastructure following completion of site stabilization activities. Contractor must also repair drainage conveyances, erosion or other damage to Owner drainage infrastructure including detention basins. This may include sediment removal, regrading, reseeding and/or application of mulch or erosion control blankets.

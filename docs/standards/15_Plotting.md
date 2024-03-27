@@ -1,6 +1,6 @@
 ---
 id: 15
-title: 'Plotting'
+title: Plotting
 date: 2021-04-10
 ---
 
@@ -41,8 +41,8 @@ Pull down the menu and select the appropriate printer/plotter for your office.
 ### Plot Area
 
 1. In this pull-down there are four options: Display, Extents, Layout, Window. In most cases you will select “Window”.
-2. When you select “Window” A “Window<” button will appear to the right of the Plot Area list.
-3. Click the “Window<” button and draw a box around all items you wish to appear in the plot. For title blocks, snap to the corners of the red border for scale plotting.
+2. When you select “Window” A “Window&lt;” button will appear to the right of the Plot Area list.
+3. Click the “Window&lt;” button and draw a box around all items you wish to appear in the plot. For title blocks, snap to the corners of the red border for scale plotting.
 
 ### Paper size
 

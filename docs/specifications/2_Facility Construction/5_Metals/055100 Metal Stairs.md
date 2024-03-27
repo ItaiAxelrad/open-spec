@@ -38,13 +38,13 @@ tags: ['Facility', 'Construction', 'Metals', 'Metal', 'Stairs']
    21. National Association of Architectural Metal Manufacturers (NAAMM)
    22. MBG 531 - Metal Bar Grating Manual for Steel, Stainless Steel, and Aluminum Gratings and Stair Treads.
    23. SSPC:
-      1. The Society for Protective Coatings
-   24. SSPC-PA 1 - Shop, Field, and Maintenance Painting.
-   25. SSPC-Paint 20 - Zinc-Rich Primers (Type I, "Inorganic," and Type II, "Organic").
-   26. SSPC-SP 1 - Solvent Cleaning.
-   27. SSPC-SP 3 - Power Tool Cleaning.
-   28. SSPC-SP 6 - Commercial Blast Cleaning.
-   29. SSPC-SP 10 - Near-White Blast Cleaning.
+   24. The Society for Protective Coatings
+   25. SSPC-PA 1 - Shop, Field, and Maintenance Painting.
+   26. SSPC-Paint 20 - Zinc-Rich Primers (Type I, "Inorganic," and Type II, "Organic").
+   27. SSPC-SP 1 - Solvent Cleaning.
+   28. SSPC-SP 3 - Power Tool Cleaning.
+   29. SSPC-SP 6 - Commercial Blast Cleaning.
+   30. SSPC-SP 10 - Near-White Blast Cleaning.
 3. PERFORMANCE REQUIREMENTS
    1. Design pre-engineered, prefabricated stairs, and landings to resist the following loads:
       1. Uniform load:
@@ -55,7 +55,7 @@ tags: ['Facility', 'Construction', 'Metals', 'Metal', 'Stairs']
    4. Design handrails, guardrails and gates to resist a concentrated load of 200 lbs. in any direction, and a uniform load of 50 lbs. per linear foot applied to the top rail in a vertical and a horizontal direction, without exceeding allowable design working stresses of materials for handrails, railings, anchors, and connections. The concentrated and uniform loads need not act concurrently.
    5. Design toeboards to conform to the requirements of (CPSC) 29 CFR 1910.23.
 4. SUBMITTALS
-   1. Submit manufacturers documentation of recycled content (minimum 25%, optimally >90%).
+   1. Submit manufacturers documentation of recycled content (minimum 25%, optimally &gt;90%).
    2. Shop Drawings
    3. For each fabricated item include plans, elevations, and details. Show the following:
       1. Details of sections.
@@ -67,11 +67,11 @@ tags: ['Facility', 'Construction', 'Metals', 'Metal', 'Stairs']
    9. Location of each finish.
    10. Product Data
    11. Submit manufacturer's specifications, details, and installation instructions for:
-      1. All manufactured products used in fabrications.
-   12. Paints.
-   13. Grouts.
-   14. Samples
-   15. Submit Samples of products and materials when requested.
+   12. All manufactured products used in fabrications.
+   13. Paints.
+   14. Grouts.
+   15. Samples
+   16. Submit Samples of products and materials when requested.
 5. QUALITY ASSURANCE
    1. Where fabrications are specified to comply with specific structural performance requirements, provide design sealed by a professional engineer registered in the state in which the project is located.
 6. PROJECT CONDITIONS

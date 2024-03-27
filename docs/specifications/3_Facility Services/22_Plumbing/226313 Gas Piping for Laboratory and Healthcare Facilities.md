@@ -4,9 +4,18 @@ section: '226313'
 divNumb: 22
 divName: Plumbing
 subgroup: Facility Services
-tags: ['Facility', 'Services', 'Plumbing', 'Gas', 'Piping', 'Laboratory', 'Healthcare', 'Facilities']
+tags:
+  [
+    'Facility',
+    'Services',
+    'Plumbing',
+    'Gas',
+    'Piping',
+    'Laboratory',
+    'Healthcare',
+    'Facilities',
+  ]
 ---
-
 
 ## General
 
@@ -48,17 +57,17 @@ tags: ['Facility', 'Services', 'Plumbing', 'Gas', 'Piping', 'Laboratory', 'Healt
    1. Specialty Gas:
       1. Gas, other than medical gas, for nonmedical laboratory facility applications.
 1. Submittals
-	1. Refer to related Division 22 sections of the Specifications. 
+   1. Refer to related Division 22 sections of the Specifications.
    1. Submit Product Data on the following:
       1. Underground piping materials.
    1. Aboveground piping materials.
 1. warranty
-   1. Refer to the procedures specified in Division 1 sections of the Specifications. 
+   1. Refer to the procedures specified in Division 1 sections of the Specifications.
 
 ## General
 
 1. Piping Materials - Aboveground
-	1. High purity Gas Installations:
+   1. High purity Gas Installations:
       1. Copper Piping Specifications
    1. Applicability:
       1. This section defines the requirements for the fabrication, installation, and testing of high purity gas distribution systems using copper tubing. This includes such high purity gases as:
@@ -130,11 +139,11 @@ tags: ['Facility', 'Services', 'Plumbing', 'Gas', 'Piping', 'Laboratory', 'Healt
       1. All joints are to be tested with bubble leak detecting solution. Test shall start at 60-100 psig pressure in order to reveal large magnitude leaks. The test gas shall be UHP argon or nitrogen. Leaks shall be repaired under purge. Once the line passes the low pressure test, the pressure shall be raised to 200 psig and maintained for 24 hours (after being valved off from the source gas) with no more than a 5 psig pressure loss. Any noncompensated pressure loss will be cause for rejection.
    1. Performance Certification:
       1. All piping shall be certified to meet the following maximum requirements after purge and prior to acceptance:
-      1. Moisture content < 2 ppm
-   1. Oxygen contents < 2 ppm
-   1. carbon monoxide < 2 ppm
-   1. total Hydrocarbons < 1 ppm
-   1. Particulates < 10 particles/ft3 (of size 0.5 microns diameter or larger)
+      1. Moisture content &lt; 2 ppm
+   1. Oxygen contents &lt; 2 ppm
+   1. carbon monoxide &lt; 2 ppm
+   1. total Hydrocarbons &lt; 1 ppm
+   1. Particulates &lt; 10 particles/ft3 (of size 0.5 microns diameter or larger)
    1. Labeling:
       1. Use Brady labels or equivalent in compliance with Owner policy. Each service drop must have a label and label disc inserted in valve handle. Labels shall identify gas in each tube, plus, header location and column number. Labeling shall be placed on tubing every 10 feet on straight tube runs, before and after valves, and before and after breaching walls and partitions. Tubing 1/2 inch or larger requires labels having print at least 1/2-inch in height.
    1. Line Protection:
@@ -215,15 +224,15 @@ tags: ['Facility', 'Services', 'Plumbing', 'Gas', 'Piping', 'Laboratory', 'Healt
       1. No pounding or hammering on any joints or equipment shall be performed to test installation integrity. All systems must be visually inspected to ensure that they comply with design drawings. Documentation of all component specification must be verified to ensure they meet requirements; including pressure and temperature ratings. Joints and components must be visually inspected to ensure proper external cleanliness and line integrity.
    1. Each weld shall be inspected visually after welding has been completed, to detect any surface defects. This includes ensuring that the specified base metal and filler metal have been used, that the weld is free of cracks, that all craters are filled to the full cross section of the weld and are free of cracks upon completion of the welding, that the face of the weld is at least flush with the outside surface of the pipe, and that the weld merges smoothly with the base metal. The depth of weld undercut shall not exceed 1/32” irrespective of length. The weld reinforcement shall not exceed 3/32” along the face.
    1. Leak Testing:
-      1. 100% of all orbital tube welds are leak checked. The integrity of all welds and connections must be both inboard and outboard leak tested. 
+      1. 100% of all orbital tube welds are leak checked. The integrity of all welds and connections must be both inboard and outboard leak tested.
    1. An inboard leak test is performed by evacuating the line and introducing helium at all connections, valves, joints, welds, and fittings, while monitoring mass spectrometer (mass spec.) to detect any helium that may enter the line. The leak rate must not exceed 5 x 10-8 sccm of helium. The leak detector must be capable of detecting a leak slower than of 5 x 10-8 sccs of helium by testing the detector with a helium leak standard of known value before testing the line in order to ensure that the equipment is functioning properly.
    1. An outboard leak test – pressure decay method is performed by pressuring a line to the maximum achievable pressure (at least 1.5 times the normal operating pressure), and then isolating the line from the pressure source. The line is then held at pressure for a minimum of 24 hours and the maximum pressure loss is 5 psig pressure loss over a 24 hour period at 1.5 times normal operating pressure.
    1. Performance Certification:
       1. All piping shall be certified to meet the following maximum requirements after purge and prior to acceptance:
-      1. Moisture content < 2 ppm
-   1. Oxygen contents < 2 ppm
-   1. Hydrocarbons < 1 ppm
-   1. Particulates < 10 particles/ft3
+      1. Moisture content &lt; 2 ppm
+   1. Oxygen contents &lt; 2 ppm
+   1. Hydrocarbons &lt; 1 ppm
+   1. Particulates &lt; 10 particles/ft3
    1. Labeling:
       1. Use Brady labels or equivalent in compliance with Owner policy. Each service drop must have a label and label disc inserted in valve handle. Labels shall identify gas in each tube, plus, header location and column number. Labeling shall be placed on tubing every 10 feet on straight tube runs, before and after valves, and before and after breaching walls and partitions. Tubing 1/2 inch or larger requires labels having print at least 1/2 inch in height.
    1. Line Protection:
@@ -240,9 +249,9 @@ tags: ['Facility', 'Services', 'Plumbing', 'Gas', 'Piping', 'Laboratory', 'Healt
 
 ## General
 
- Materials:
-      1. Vacuum-Insulated Pipe
-   1. Item
+Materials: 1. Vacuum-Insulated Pipe
+
+1. Item
 1. Pipe Sizes
 1. Description
 1. Reference Standards
@@ -272,65 +281,58 @@ tags: ['Facility', 'Services', 'Plumbing', 'Gas', 'Piping', 'Laboratory', 'Healt
    1. Approved Manufacturers
    1. Specification is based on products manufactured by Chart Industries (Burnsville, MN). Equal products as manufactured by PHPK Technologies, Inc. (Columbus, OH) or Vacuum Barrier Systems (VBS), (Campbell, CA) are acceptable.
 
- **NOTES**:
-       1. Design, furnish and install all piping, accessories, hangers and supports in accordance with the manufacturer's recommendations, and be responsible for a complete analysis of the entire piping system, including location of all hangers and supports.
-2. Read vacuum on each section of pipe installed; report any vacuum reading higher than 35 microns to the Owner's Representative.
-3. Pressurize entire system with dry nitrogen gas to maximum operating pressure.
-4. Introduce liquid nitrogen into piping system from supply tank. Open valve at use point farthest from supply tank. Allow nitrogen gas to flow until liquid nitrogen begins to issue from valve. Close valve. Repeat at all use points until entire system is cooled to operating temperature. Visually inspect entire system for condensation or frost formation.
-5. All work shall be done in strict accordance with manufacturer's requirements for handling, installing and testing. The manufacturer's requirements shall take precedence over all other specifications.
-6. Perform pneumatic pressure tests using dry nitrogen gas. Hold pressure for a minimum of 4 hours without pressure drop on test gauge.
-7. Provide 1 manday (8 hours) manufacturer's installation and startup assistance at the work site to make final checkout, conduct acceptance test, and certify that all vacuum-insulated pipe and accessories are properly installed, operable and ready for use.
+**NOTES**: 1. Design, furnish and install all piping, accessories, hangers and supports in accordance with the manufacturer's recommendations, and be responsible for a complete analysis of the entire piping system, including location of all hangers and supports. 2. Read vacuum on each section of pipe installed; report any vacuum reading higher than 35 microns to the Owner's Representative. 3. Pressurize entire system with dry nitrogen gas to maximum operating pressure. 4. Introduce liquid nitrogen into piping system from supply tank. Open valve at use point farthest from supply tank. Allow nitrogen gas to flow until liquid nitrogen begins to issue from valve. Close valve. Repeat at all use points until entire system is cooled to operating temperature. Visually inspect entire system for condensation or frost formation. 5. All work shall be done in strict accordance with manufacturer's requirements for handling, installing and testing. The manufacturer's requirements shall take precedence over all other specifications. 6. Perform pneumatic pressure tests using dry nitrogen gas. Hold pressure for a minimum of 4 hours without pressure drop on test gauge. 7. Provide 1 manday (8 hours) manufacturer's installation and startup assistance at the work site to make final checkout, conduct acceptance test, and certify that all vacuum-insulated pipe and accessories are properly installed, operable and ready for use.
 
 ## Execution
 
 1. Underground Piping Installation
-	1. Trench Excavation:
-      1. Excavate trenches so that piping may be laid correctly on line and grade. Remove any large rocks or other debris encountered in the excavation and dispose of appropriately. 
-   1. Excavate to a sufficient depth and width to provide adequate room for construction and installation of the work except that the width of the trench from the pipe invert to a point 12 inches above the top of the pipe shall not be greater than 30 inches. 
-   1. Where it is impossible to maintain proper line and grade, excavate below grade and replace the bedding with compacted sand. 
+   1. Trench Excavation:
+      1. Excavate trenches so that piping may be laid correctly on line and grade. Remove any large rocks or other debris encountered in the excavation and dispose of appropriately.
+   1. Excavate to a sufficient depth and width to provide adequate room for construction and installation of the work except that the width of the trench from the pipe invert to a point 12 inches above the top of the pipe shall not be greater than 30 inches.
+   1. Where it is impossible to maintain proper line and grade, excavate below grade and replace the bedding with compacted sand.
    1. Sheeting, Bracing, and Shoring:
-   1. Provide and maintain sheeting, bracing and shoring required to provide substantial support for the sides of excavations and trenches to prevent movement of the soil or edges of the trench, to protect the construction work and insure the safety of the workmen. 
-   1. As the trench is backfilled, remove supports in such a manner as to prevent the caving in of the sides of the trench or damage to the pipe or structures. 
+   1. Provide and maintain sheeting, bracing and shoring required to provide substantial support for the sides of excavations and trenches to prevent movement of the soil or edges of the trench, to protect the construction work and insure the safety of the workmen.
+   1. As the trench is backfilled, remove supports in such a manner as to prevent the caving in of the sides of the trench or damage to the pipe or structures.
    1. Underpinning:
-      1. Where excavation work is required under or adjacent to existing footings, under-pin as required to adequately support existing construction in such a manner as to avoid raising or lowering or otherwise damaging existing construction. 
+      1. Where excavation work is required under or adjacent to existing footings, under-pin as required to adequately support existing construction in such a manner as to avoid raising or lowering or otherwise damaging existing construction.
    1. Removal of Water:
-      1. Keep excavations as dry as possible until backfill has been completed above the pipe. In ground containing excessive amount of water, provide and maintain such pumps and associated pipes and connections as are necessary to remove the water from the trench and assure safe, proper construction of the piping system. 
+      1. Keep excavations as dry as possible until backfill has been completed above the pipe. In ground containing excessive amount of water, provide and maintain such pumps and associated pipes and connections as are necessary to remove the water from the trench and assure safe, proper construction of the piping system.
    1. Bedding:
-   1. Provide Class "B" bedding for piping inside the building, consisting of a layer of granular material with a minimum thickness of 4 inches and a maximum thickness of 6 inches below the bottom of the pipe barrel. Extend the bedding to a minimum depth of 12 inches over the top of the pipe. 
-   1. Place sand-gravel cover in 6-inch layers, mechanically compacted to 95 percent of maximum density as determined by ASTM D1557. 
-   1. Firmly support a given segment of the bottom of the pipe. The segment, as a minimum, shall be equal to five-tenths of the outside diameter of the barrel, and shall be uniformly supported by direct contact with firm bedding. Excavate bell holes at proper intervals so that no part of the load on the pipe is supported by the bells. 
+   1. Provide Class "B" bedding for piping inside the building, consisting of a layer of granular material with a minimum thickness of 4 inches and a maximum thickness of 6 inches below the bottom of the pipe barrel. Extend the bedding to a minimum depth of 12 inches over the top of the pipe.
+   1. Place sand-gravel cover in 6-inch layers, mechanically compacted to 95 percent of maximum density as determined by ASTM D1557.
+   1. Firmly support a given segment of the bottom of the pipe. The segment, as a minimum, shall be equal to five-tenths of the outside diameter of the barrel, and shall be uniformly supported by direct contact with firm bedding. Excavate bell holes at proper intervals so that no part of the load on the pipe is supported by the bells.
    1. Pipe Laying:
-      1. Lay piping only in filled or disturbed earth after it has been compacted to properly support general construction. 
-   1. Lay pipe in dry and clean trenches. 
-   1. Inspect pipe and fittings for defects prior to being lowered into the trench and clean both inside of the bell and outside of the spigot. 
-   1. Lay pipe lines straight and in true alignment with the grade and location established. 
+      1. Lay piping only in filled or disturbed earth after it has been compacted to properly support general construction.
+   1. Lay pipe in dry and clean trenches.
+   1. Inspect pipe and fittings for defects prior to being lowered into the trench and clean both inside of the bell and outside of the spigot.
+   1. Lay pipe lines straight and in true alignment with the grade and location established.
    1. Install cast iron storm, sub-surface drain collector and sanitary drainage systems in accordance with manufacturer's recommendations.
    1. Backfilling:
-   1. Place and compact backfill so that subsequent harmful settlement will not occur and the installation of concrete floor slabs may proceed after completion. Begin backfilling as required at the bedding of the pipe and continue vertically to the surface. 
-   1. Do not commence backfilling prior to inspection of the pipe. After inspection, place the sand required above the pipe and proceed with the backfilling operation. 
-   1. Provide sand backfill mechanically compacted in 6-inch lifts to 95 percent of maximum density as determined by ASTM D1557, for all piping inside the building. 
+   1. Place and compact backfill so that subsequent harmful settlement will not occur and the installation of concrete floor slabs may proceed after completion. Begin backfilling as required at the bedding of the pipe and continue vertically to the surface.
+   1. Do not commence backfilling prior to inspection of the pipe. After inspection, place the sand required above the pipe and proceed with the backfilling operation.
+   1. Provide sand backfill mechanically compacted in 6-inch lifts to 95 percent of maximum density as determined by ASTM D1557, for all piping inside the building.
    1. Pipes Through Grade Beams:
-      1. Provide pipes and tubing passing through or under building grade beams with a schedule 40 pipe sleeve with 4-inch clearance to prevent possible damage from building settlement. 
-1. Aboveground Piping Installation*	1. General:
+      1. Provide pipes and tubing passing through or under building grade beams with a schedule 40 pipe sleeve with 4-inch clearance to prevent possible damage from building settlement.
+1. Aboveground Piping Installation\* 1. General:
    1. Install pipe and pipe fittings in accordance with recognized industry practices to achieve permanently leakproof systems, capable of performing the indicated service without failure.
    1. Install each piping run with a minimum number of joints and couplings but with adequate and accessible unions/flanges for disassembly and maintenance/replacement of valves and equipment.
    1. Install piping with sufficient clearance from other piping, building structure and other systems to allow for the piping insulation to be properly applied.
-   1. Run piping above ground parallel with the lines of the building unless otherwise shown or noted. 
-   1. Keep horizontal runs of piping as high as possible to provide maximum head room. 
+   1. Run piping above ground parallel with the lines of the building unless otherwise shown or noted.
+   1. Keep horizontal runs of piping as high as possible to provide maximum head room.
    1. Install piping in equipment rooms so as not to interfere with aisleways and to allow unhindered egress from any point in the space.
-   1. Keep vertical lines straight in the partitions or furring or as close to the columns as possible. 
-   1. Run pipe to avoid interference with ducts, wires or apparatus and with approved offsets around columns, beams and other obstructions. 
-   1. Install piping that penetrates a vapor retarder to respect the vapor retarder integrity by sealing the opening around the pipe with vapor retardant tape. 
+   1. Keep vertical lines straight in the partitions or furring or as close to the columns as possible.
+   1. Run pipe to avoid interference with ducts, wires or apparatus and with approved offsets around columns, beams and other obstructions.
+   1. Install piping that penetrates a vapor retarder to respect the vapor retarder integrity by sealing the opening around the pipe with vapor retardant tape.
    1. Install piping with sufficient clearance from building structural members so as not to interfere with the application of steel fireproofing.
-   1. Establish piping elevations prior to installation to avoid interferences with other piping and materials and equipment of other trades. 
-   1. Cutting, burning, or welding of structural steel is not permitted, unless indicated otherwise. 
+   1. Establish piping elevations prior to installation to avoid interferences with other piping and materials and equipment of other trades.
+   1. Cutting, burning, or welding of structural steel is not permitted, unless indicated otherwise.
    1. Personnel Protection From Suspended Work:
       1. Refer to related Division 22 sections of the Specifications.
 1. Pipe Jointing
-	1. Stainless Steel Tubing:
+   1. Stainless Steel Tubing:
       1. Install piping to be completely drainable, pitching 1 inch in 50 feet to drain points and installing only eccentric type reducers.
    1. For tubing sizes up through NPS 1, instead of fittings, tubing may be bent, using a tubing bender in accordance with ANSI B11.15 and ASME B31.1.
-   1. Install diaphragm valves and automatic flow controls oriented to permit drainage per manufacturer's instructions. 
+   1. Install diaphragm valves and automatic flow controls oriented to permit drainage per manufacturer's instructions.
    1. Equip low points of piping with system drain valves. For tubing sizes NPS ½ through NPS 2, install NPS ½ valves. For sizes NPS 3 and NPS 4, install NPS 1 valves..
    1. Make welds with Tungsten Inert Gas (TIG) automatic welding machine, without filler metal, using direct current, straight polarity welding technique.
    1. Obtain Owner's prior permission for any welds that cannot be made by the welding machine. Use 316L filler metal for Owner-approved manual welds.
@@ -338,15 +340,15 @@ tags: ['Facility', 'Services', 'Plumbing', 'Gas', 'Piping', 'Laboratory', 'Healt
    1. Remove butt weld connection from ball valves before welding in place.
    1. Perform all welding in compliance with ASME B31.1.
 
-“T-Drill” Tube Branching System: 
-   1. Copper tee fittings may be made by means of the “T-Drill” tube branching system, providing:
-      1. The size and wall thickness of both the run tube and the branch tube are listed by the manufacturer of forming equipment as “Acceptable Application”.
-   1. The mechanically extracted collars are formed by means of a continuous operation consisting of drilling a hole and drawing out the tube surface to form a collar having a height of not less than three times the thickness of the branch tube wall so as to comply with the American Welding Society lap joint weld. Employ a collaring device that is completely adjustable to ensure proper tolerance and complete uniformity of the joint. 
-   1. The end of branch tube is notched to conform to the inner curve of the run tube, and dimpled to set the exact penetration depth into the collar.
-   1. Braze all joints in accordance with the CDA Copper Tube Handbook, using BcuP series filler metal. Soft soldered collar joints are not permitted.
+“T-Drill” Tube Branching System:
 
-“T-Drill” Tube Coupling System: Copper couplings may be made by means of mechanically formed couplings, providing:
-      1. The couplings are formed by first annealing the area at the end of the tube where the expansion is to occur, inserting the tube expander to the die size required and expanding the tube to accept tubing of the same size.
-   1. The resulting joint is a minimum of three times as long as the thickness of the tube and is brazed using B-CuP series filler metal.
+1.  Copper tee fittings may be made by means of the “T-Drill” tube branching system, providing:
+    1. The size and wall thickness of both the run tube and the branch tube are listed by the manufacturer of forming equipment as “Acceptable Application”.
+1.  The mechanically extracted collars are formed by means of a continuous operation consisting of drilling a hole and drawing out the tube surface to form a collar having a height of not less than three times the thickness of the branch tube wall so as to comply with the American Welding Society lap joint weld. Employ a collaring device that is completely adjustable to ensure proper tolerance and complete uniformity of the joint.
+1.  The end of branch tube is notched to conform to the inner curve of the run tube, and dimpled to set the exact penetration depth into the collar.
+1.  Braze all joints in accordance with the CDA Copper Tube Handbook, using BcuP series filler metal. Soft soldered collar joints are not permitted.
+
+“T-Drill” Tube Coupling System: Copper couplings may be made by means of mechanically formed couplings, providing: 1. The couplings are formed by first annealing the area at the end of the tube where the expansion is to occur, inserting the tube expander to the die size required and expanding the tube to accept tubing of the same size.
+
+1. The resulting joint is a minimum of three times as long as the thickness of the tube and is brazed using B-CuP series filler metal.
 1. (THIS PAGE INTENTIONALLY BLANK)
-
