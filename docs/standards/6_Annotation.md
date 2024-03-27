@@ -32,11 +32,15 @@ Annotative Scale is a method for managing the size of text, blocks, dimensions a
 
 1. After object is created, right click and select “Properties”
 2. Under Text, Select the Annotative pull down and change it to YES.
-3. Under the Annotative Scale pull down, select the ellipses and from the list that appears, select all drawing scales that correspond to the viewport scales of the sheets where you wish the object to appear.\*
+3. Under the Annotative Scale pull down, select the ellipses and from the list that appears, select all drawing scales that correspond to the viewport scales of the sheets where you wish the object to appear.
 4. To position or rotate the text in model space once the annotative scales have been assigned, you must change the drawing scale by using the tab in the lower right hand corner of the screen to cycle between the different annotative scales. You can also position or rotate the object through the viewport.
 5. Make sure that the Annotation Visibility icon in the lower right hand corner of the screen is toggled “ON” and the icon to automatically add annotation scales to objects is toggled “OFF”
 
-*\*NOTE: If you have not selected the correct scale the object will not appear in the viewport.*
+:::note
+
+If you have not selected the correct scale the object will not appear in the viewport.
+
+:::
 
 The template drawing has text, callout, and annotation styles already established with Annotative Scales enabled. These can be found on the Annotation Tab in the main ribbon. For these objects you can eliminate step 2 above.
 
@@ -48,7 +52,7 @@ The AutoCAD color palette uses numbers from 1-255. Each number corresponds to a 
 
 ## Linetypes
 
-Within the provided template, all layers have been assigned specific linetypes. All template layers have an associated linetype that will plot according to the standards. Do not alter or change the template linetypes for any reason. These linetypes are to remain as is. Per the .LIN file. All entities created in a drawing should be assigned a linetype “BYLAYER” in the entity properties menu.
+Within the provided template, all layers have been assigned specific linetypes. All template layers have an associated linetype that will plot according to the standards. Do not alter or change the template linetypes for any reason. These linetypes are to remain as is. Per the .LIN file. All entities created in a drawing should be assigned a linetype `BYLAYER` in the entity properties menu.
 
 ![](/img/standards/image18.png)
 

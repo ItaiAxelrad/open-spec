@@ -74,7 +74,7 @@ The Survey Department does not employ the Prospector Survey functions at this ti
 
 ## View Frame Groups
 
-This tool is used when creating plan and profile sheets. The procedure for generating view frames is described in Chapter 6, Section B. viii.
+This tool is used when creating plan and profile sheets. The procedure for generating view frames is described later on.
 
 ## Data Shortcuts
 

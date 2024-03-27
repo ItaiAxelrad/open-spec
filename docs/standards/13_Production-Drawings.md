@@ -4,7 +4,13 @@ title: 'Production Drawings'
 date: 2021-04-12
 ---
 
-Production drawings represent the finished document as it will be displayed for the contractor or developer within the set. All drawings that are to be issued for publication should be annotated live in model space of the sheet drawing. **DO NOT ANNOTATE IN PAPER SPACE**.
+Production drawings represent the finished document as it will be displayed for the contractor or developer within the set. All drawings that are to be issued for publication should be annotated live in model space of the sheet drawing.
+
+:::warning
+
+DO NOT ANNOTATE IN PAPER SPACE
+
+:::
 
 ## Naming Convention
 
@@ -37,7 +43,11 @@ Below are sheets commonly found in a civil construction document:
 - Detail Sheets (If not included in the Cover Drawing)
   - XXXX Details.dwg
 
-*NOTE: A flowchart for drawing organization can be found in Section 3.b.*
+:::note
+
+A flowchart for drawing organization can be found in Section 3.b.
+
+:::
 
 ![drawing diagram small](/img/standards/image15.png)
 
@@ -61,7 +71,7 @@ Within each sheet, give each sheet tab an individual and specific name as it wil
 4. If you are planning to use Sheet Set Manager for your project, click OK. You will enter the Sheet Info data there.
 5. If you are not using Sheet Set Manager enter the Plan Name, Sheet Number and Sheet X.
 
-## Plotting & Page Setup 
+## Plotting & Page Setup
 
 1. Open the project drawing that will contain the sheet set.
 2. Activate a tab in paperspace.
@@ -95,7 +105,11 @@ Typically, drawings should not show the frame around an inserted image when plot
 1. Command Line: `IMAGEFRAME`
 2. You will be prompted to enter a value. Type 2 and press enter. This will allow you to manipulate the image frame in the drawing, but will not plot the frame.
 
-*NOTE: When inserting an aerial, it should always be inserted on layer “XREF-IMAGE”.*
+:::note
+
+When inserting an aerial, it should always be inserted on layer “XREF-IMAGE”.
+
+:::
 
 ## Sheet Numbering
 
