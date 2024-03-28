@@ -55,6 +55,12 @@ const config: Config = {
         },
         {
           type: 'docSidebar',
+          sidebarId: 'guides',
+          position: 'left',
+          label: 'Guides',
+        },
+        {
+          type: 'docSidebar',
           sidebarId: 'checklists',
           position: 'left',
           label: 'Checklists',
