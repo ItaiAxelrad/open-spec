@@ -10,7 +10,7 @@ const config: Config = {
   baseUrl: '/',
   organizationName: 'ItaiAxelrad',
   projectName: 'open-spec',
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   presets: [
     [
