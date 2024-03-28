@@ -5,7 +5,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 const config: Config = {
   title: 'Open Spec',
   tagline: 'community driven construction specifications',
-  favicon: 'img/favicon.png',
+  favicon: '/favicon.png',
   url: 'https://open-spec.com',
   baseUrl: '/',
   organizationName: 'ItaiAxelrad',
@@ -38,7 +38,7 @@ const config: Config = {
       title: 'OpenSpec',
       logo: {
         alt: 'OpenSpec Logo',
-        src: 'img/favicon.png',
+        src: '/favicon.png',
       },
       items: [
         {
