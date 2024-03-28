@@ -1,6 +1,6 @@
 # Feature Line Quick Keys
 
-[Source](../../static/scripts/FeatureLineQuickKeys.lsp)
+[Source](/scripts/FeatureLineQuickKeys.lsp)
 
 ```lsp title="FeatureLineQuickKeys.lsp"
 ;;; Feature Line Quick Keys

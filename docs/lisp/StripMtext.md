@@ -1,6 +1,6 @@
 # StripMtext
 
-[Source](../../static/scripts/StripMtext.lsp)
+[Source](/scripts/StripMtext.lsp)
 
 ```lsp title="StripMtext.lsp"
 ;;;;  StripMtext Version 5.0c for AutoCAD 2000 and above
@@ -16,10 +16,10 @@
 ;;;;
 ;;;;  Please send comments, wish lists, or bug reports to:
 ;;;;  cadabyss@gmail.com or lowercase@hawaii.rr.com
-;;;; 
+;;;;
 ;;;;  Look for new stable releases at:
 ;;;;  http://cadabyss.wordpress.com/
-;;;; 
+;;;;
 ;;;;  More information may also be found at:
 ;;;;  http://www.theswamp.org/
 ;;;;  Subforum: "Show your stuff", Subject: "StripMtext v5"
@@ -133,7 +133,7 @@
 ;;;;
 ;;;;  (4)  Hit the "Ok" button to proceed with removing formats or the
 ;;;;      "Cancel" button to exit without making changes.
-;;;;      
+;;;;
 ;;;;  (5)  Enjoy!
 ;;;;
 ;;;;
@@ -287,7 +287,7 @@
 ;;;;  the history list so as to bump the next version up and avoid any
 ;;;;  confusion with the so called lost version. sd
 ;;;;
-;;;; 
+;;;;
 ;;;;  v5.0 01-01-10 "The Joe Burke RegExp Version"
 ;;;;  The stripping functions in this version have been completely
 ;;;;  rewritten by Joe Burke and make use of the search and replace power
@@ -297,7 +297,7 @@
 ;;;;  columns, and background masks.  Joe also added support for
 ;;;;  processing new entity objects that contain mtext: Mleaders, Tables,
 ;;;;  and Multiline Attributes.  Other changes are the elimination of the
-;;;;  external DCL file by creating a temporary DCL written "on the fly". 
+;;;;  external DCL file by creating a temporary DCL written "on the fly".
 ;;;;  Comments have been rewritten and expanded to make it easier for
 ;;;;  new user to understand how to load and run.  I also wish to thank
 ;;;;  Lee Mac for creating animated GIFs demonstrating StripMtext in
@@ -659,12 +659,12 @@
   ;;; 'formats argument is a list of format keys: '("A" "C" ... "F")
   ;;;                   or a string of format keys: "ACF"
   ;;;
-  ;;;  For more info on syntax and valid arugments, please refer to 
+  ;;;  For more info on syntax and valid arugments, please refer to
   ;;; "HOW TO USE BY SCRIPT OR AUTOLISP" in header comments at top of file,
   ;;;  or read through comments in subs below.
   ;;;
   ;;;  Powered by Joe Burke's stripping functions:
-  ;;; 
+  ;;;
   ;;;    StripColumn
   ;;;    StripField
   ;;;    StripFormat
@@ -695,7 +695,7 @@
       ((= (type arg) 'LIST)
         (mapcar 'strcase arg)
       )
-      ((= (type arg) 'STR)   
+      ((= (type arg) 'STR)
         (while (not (eq "" (substr arg 1)))
           (if (eq "^" (substr arg 1 1))
             (setq lst (cons (strcat "^" (substr arg 2 1)) lst)
@@ -709,7 +709,7 @@
         (mapcar 'strcase (reverse lst))
       )
     )
-  ) ; end FormatsToList  
+  ) ; end FormatsToList
 
   ;; Arguments:
   ;; str - an mtext string.
@@ -883,7 +883,7 @@
         (if (/= 0 testpos)
           (setq numcheck (substr teststr testpos 1))
         )
-        ;; Check whether the character before a stacked string/fraction 
+        ;; Check whether the character before a stacked string/fraction
         ;; is a number. Add a space if it is.
         (if
           (and
@@ -1042,7 +1042,7 @@
 
   ;; Added JB 1/27/2010. Used in the StripColumn function below.
   ;; Argument: the ename of an annotative object.
-  ;; Returns: a list of annotative scales or nil if the object is 
+  ;; Returns: a list of annotative scales or nil if the object is
   ;; not annotative.
   (defun GetAnnoScales (e / dict lst rewind res)
     (if
@@ -1177,7 +1177,7 @@
       (setq str (SymbolString obj))
     )
     ;; Added JB 1/29/2008 to fix a problem with fields in multiline
-    ;; attributes which do not update correctly when undo is called 
+    ;; attributes which do not update correctly when undo is called
     ;; afer running StripMtext.
     (if (eq typ "AcDbAttribute")
       (command "._updatefield" (vlax-vla-object->ename obj) "")
@@ -1185,7 +1185,7 @@
     (and (= -1 (vlax-get obj 'HasExtensionDictionary))
          (not
            (vl-catch-all-error-p
-             (setq dict (vl-catch-all-apply 'vlax-invoke 
+             (setq dict (vl-catch-all-apply 'vlax-invoke
                (list obj 'GetExtensionDictionary))
              )
            )
@@ -1255,8 +1255,8 @@
     (setq rclst (RowsColumns (vlax-get obj 'Rows) (vlax-get obj 'Columns)))
     (foreach x rclst
       (setq row (car x) col (cadr x))
-      (if 
-        (and 
+      (if
+        (and
           (vlax-method-applicable-p obj 'GetCellState)
           (/= 0 (vlax-invoke obj 'GetCellState row col))
         )
@@ -1264,7 +1264,7 @@
       )
       (if (not (eq "" (vlax-invoke obj 'GetText row col)))
         (setq temprclst (cons x temprclst))
-      ) 
+      )
     )
     (vla-put-RegenerateTableSuppressed obj acTrue)
     ;; The equal test may be temporary. Not sure yet.
@@ -1419,9 +1419,9 @@
         (setq str (cdr (assoc 304 (entget e))))
       )
       ;; Revised SD 1/15/2010. Looks good JB 1/19/2010.
-      ((wcmatch typ "*Dimension*")      
+      ((wcmatch typ "*Dimension*")
         (setq str (cdr (assoc 1 (entget e))))
-      )                  
+      )
     )
     str
   ) ; end SymbolString
@@ -1618,7 +1618,7 @@
                       formats
                     )
       )
-    (progn 
+    (progn
            (setq spinflag (> (length mtextobjlst) 100))
            (foreach x mtextobjlst
              (setq str (StripFormat (SymbolString x) formats))

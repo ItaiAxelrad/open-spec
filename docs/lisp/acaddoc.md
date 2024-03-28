@@ -1,6 +1,6 @@
 # acaddoc
 
-[Source](../../static/scripts/acaddoc.lsp)
+[Source](/scripts/acaddoc.lsp)
 
 copyright 2013, Timothy Corey
 
@@ -59,21 +59,21 @@ We have tested on AutoCAD Civil 3d 2014 and 2013
   (getdoc)
   (layerstate-save "PointIsoLayerState" 1 nil)
 
-  
+
   (setq firstobj (car (entsel "\nSelect object on layer to set current: "))
 	newclyr (cdr (assoc 8 (entget firstobj)))
 	)
   (setq pts (ssadd))
   (ssadd firstobj pts)
-  
-  
+
+
   (prompt "Select objects on layers to isolate: ")
-  (setq	ptsget	  (ssget)	
+  (setq	ptsget	  (ssget)
 	ptsctr	  0
 	;ptslen	  (if (not (= ptsget nil))(sslength ptsget))
 	layerlist (strcat (cdr (assoc 8 (entget (ssname pts ptsctr)))) ",")
   )
-  
+
   (if (not (= ptsget nil))
     (progn
       (ssadd firstobj ptsget)
@@ -227,10 +227,10 @@ We have tested on AutoCAD Civil 3d 2014 and 2013
 
 			       (t "")
 			 );end cond
-		 
+
   );end strcat
 		 )
-  
+
 
   (setq	acadapp	(vlax-get-acad-object)
 	c3dapp	(vla-getinterfaceobject acadapp aecappno)

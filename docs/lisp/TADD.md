@@ -1,6 +1,6 @@
 # TADD
 
-[Source](../../static/scripts/TADD.lsp)
+[Source](/scripts/TADD.lsp)
 
 ```lsp title="TADD.lsp"
 ;|                                                    ;;
@@ -142,7 +142,7 @@
            '((:vlr-pickfirstmodified . *oo_object_modification*))
          )
   )
-  ;;Command ended 
+  ;;Command ended
   (if oo_object_modification_action
     (progn (vlr-remove oo_object_modification_action)
            (setq oo_object_modification_action nil)
@@ -159,7 +159,7 @@
 
 
 (defun c:TADD-r ()
- 
+
   (if oo_object_modification_action
     (progn (vlr-remove oo_object_modification_action)
            (setq oo_object_modification_action nil)

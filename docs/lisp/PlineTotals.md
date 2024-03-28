@@ -1,6 +1,6 @@
 # Pline Totals
 
-[Source](../../static/scripts/PLINE_TOTALS.lsp)
+[Source](/scripts/PLINE_TOTALS.lsp)
 
 ```lsp title="PLINE TOTALS.lsp"
 (defun C:TOT ( / CurObj CurSet FltLst TmpLgt TotLgt)

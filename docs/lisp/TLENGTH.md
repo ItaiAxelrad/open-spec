@@ -1,18 +1,18 @@
 # TLENGTH
 
-[Source](../../static/scripts/TLENGTH.lsp)
+[Source](/scripts/TLENGTH.lsp)
 
 ```lsp title="TLENGTH.lsp"
 
 ;;
 ;; J'ai modifi� le Lisp pour qu'il prenne en compte les R�gions et les MPolygons.
 ;; par Patrick_35 - 05/2009 - Forum : ACAD_2007
-;; Commande au clavier :  LONGT (French Version)  --->  TLENGTH (US Version) 
+;; Commande au clavier :  LONGT (French Version)  --->  TLENGTH (US Version)
 ;;
-;; Micro-Micro Modif pour avoir le resultat dans l ecran texte (ligne de commande) 
+;; Micro-Micro Modif pour avoir le resultat dans l ecran texte (ligne de commande)
 ;;
- 
-(defun c:TLENGTH(/ di ent n pt1 pt2 sel) 
+
+(defun c:TLENGTH(/ di ent n pt1 pt2 sel)
 
   (vl-load-com)
 
@@ -59,7 +59,7 @@
 ;;        (princ (strcat "\nLa Longueur de l'objet est de : " (rtos di)))
 ;;        (princ (strcat "\nLa Longueur totale des " (itoa (vla-get-count sel)) " objets est de : " (rtos di)))
 
-;;;;;; US Version ;;;;;; 
+;;;;;; US Version ;;;;;;
           (princ (strcat "\nThe Total Length of the Object is : " (rtos di)))
           (princ (strcat "\nThe Total Length of the " (itoa (vla-get-count sel)) " Objects are : " (rtos di)))
 
@@ -69,6 +69,6 @@
   )
   (princ)
 )
- 
+
 
 ```

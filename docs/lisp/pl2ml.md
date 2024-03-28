@@ -1,6 +1,6 @@
 # pl2ml
 
-[Source](../../static/scripts/pl2ml.lsp)
+[Source](/scripts/pl2ml.lsp)
 
 ```lsp title="pl2ml.lsp"
 (defun C:P2L (/ ss n pl i); = Polyline(s) {to} Leader(s)

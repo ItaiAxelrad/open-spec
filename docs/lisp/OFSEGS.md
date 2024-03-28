@@ -1,6 +1,6 @@
 # OFSEGS
 
-[Source](../../static/scripts/OFSEGS.lsp)
+[Source](/scripts/OFSEGS.lsp)
 
 ```lsp title="OFSEGS.lsp"
 ;; OFSEGS -Gilles Chanteau- 2008/03/26

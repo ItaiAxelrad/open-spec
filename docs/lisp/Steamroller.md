@@ -1,6 +1,6 @@
 # Steamroller
 
-[Source](../../static/scripts/Steamroller.lsp)
+[Source](/scripts/Steamroller.lsp)
 
 ```lsp title="Steamroller.lsp"
 (defun C:STEAMROLLER ()

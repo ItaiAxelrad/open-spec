@@ -1,6 +1,6 @@
 # TLEN
 
-[Source](../../static/scripts/TLEN.lsp)
+[Source](/scripts/TLEN.lsp)
 
 ```lsp title="TLEN.lsp"
 ;|

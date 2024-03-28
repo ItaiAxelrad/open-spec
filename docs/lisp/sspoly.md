@@ -1,6 +1,6 @@
 # sspoly
 
-[Source](../../static/scripts/sspoly.lsp)
+[Source](/scripts/sspoly.lsp)
 
 ```lsp title="sspoly.lsp"
 (vl-load-com)

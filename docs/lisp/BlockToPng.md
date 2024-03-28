@@ -1,12 +1,12 @@
 # Blocks to PNG
 
-[Source](../../static/scripts/BlocksToPng.lsp)
+[Source](/scripts/BlocksToPng.lsp)
 
 ```
 (defun c:BlocksToPng ( / s i e n l f x)
 
   (or *BlocksToPng-folder* (setq *BlocksToPng-folder* (getvar 'dwgprefix)))
-  
+
   (if (and (setq s (ssget "_X" (list '(0 . "INSERT") (cons 8 (getvar 'clayer)) (cons 410 (getvar 'ctab)))))
 	   (setq *BlocksToPng-folder* (acet-ui-pickdir "Specify output folder" *BlocksToPng-folder*))
 	   )

@@ -1,6 +1,6 @@
 # Numbering
 
-[Source](../../static/scripts/Numbering.lsp)
+[Source](/scripts/Numbering.lsp)
 
 ```lsp title="Numbering.lsp"
 ;;; inserts increasing numbers with or without prefix or suffix text
@@ -111,9 +111,9 @@
       )
       (if pref
 	;(command "text" "j" "mc" p "" "" ntx)
-	(entmake (list (cons 0 "TEXT")	
-		    (cons 10 p)	
-		    (cons 11 p)	
+	(entmake (list (cons 0 "TEXT")
+		    (cons 10 p)
+		    (cons 11 p)
 		    (cons 1 ntx); actual text
 		    (cons 7 (getvar "TEXTSTYLE"))
 		    (cons 40 txt)
@@ -121,9 +121,9 @@
 	      )
      )
 	;(command "text" "j" "mc" p "" "" n)
-	(entmake (list (cons 0 "TEXT")	
-		    (cons 10 p)	
-		    (cons 11 p)	
+	(entmake (list (cons 0 "TEXT")
+		    (cons 10 p)
+		    (cons 11 p)
 		    (cons 1 n); actual text
 		    (cons 7 (getvar "TEXTSTYLE"))
 		    (cons 40 txt)
@@ -137,7 +137,7 @@
 	  nns (itoa n)
 	  np n
     )
-    
+
     (if	suff
       (if pref
 	(setq ntxx (strcat pref nns suff))
@@ -247,9 +247,9 @@
 
   (while p
     (if	suff
-      (entmake (list (cons 0 "TEXT")	
-		    (cons 10 p)	
-		    (cons 11 p)	
+      (entmake (list (cons 0 "TEXT")
+		    (cons 10 p)
+		    (cons 11 p)
 		    (cons 1 ntxx); actual text
 		    (cons 7 (getvar "TEXTSTYLE"))
 		    (cons 40 txt)
@@ -257,18 +257,18 @@
 	      )
      )
       (if pref
-	(entmake (list (cons 0 "TEXT")	
-		    (cons 10 p)	
-		    (cons 11 p)	
+	(entmake (list (cons 0 "TEXT")
+		    (cons 10 p)
+		    (cons 11 p)
 		    (cons 1 ntx); actual text
 		    (cons 7 (getvar "TEXTSTYLE"))
 		    (cons 40 txt)
 		    (cons 72 4)
 	      )
      )
-	(entmake (list (cons 0 "TEXT")	
-		    (cons 10 p)	
-		    (cons 11 p)	
+	(entmake (list (cons 0 "TEXT")
+		    (cons 10 p)
+		    (cons 11 p)
 		    (cons 1 nns); actual text
 		    (cons 7 (getvar "TEXTSTYLE"))
 		    (cons 40 txt)
@@ -282,7 +282,7 @@
 	  nns (rtos n 2 3)
 	  np n
     )
-    
+
     (if	suff
       (if pref
 	(setq ntxx (strcat pref nns suff))
@@ -310,7 +310,7 @@
 
 ;;; inserts increasing numbers circled up
 (defun c:nmc (/ p n ni ts oecho ds th txt na)
-  
+
   (if (= 0 (getvar "dimscale"))(setq ds 1.0)(setq ds (getvar "dimscale")))
   (setq th (getvar "dimtxt"))
   (setq txt (* th ds))
@@ -322,7 +322,7 @@
   (princ " >? : ")
   (setq ni (getint))
   (if (= ni nil)(setq ni nn)(setq nn ni))
-  
+
   (if np
     (setq np (fix np))
     (setq np 1)
@@ -338,12 +338,12 @@
   (setq p (getpoint "\n Number location: "))
   (setq oecho (getvar "cmdecho"))
   (setvar "cmdecho" 0)
-  
+
   (while p
     (setq na (itoa n))
-    (entmake (list (cons 0 "TEXT")	
-		    (cons 10 p)	
-		    (cons 11 p)	
+    (entmake (list (cons 0 "TEXT")
+		    (cons 10 p)
+		    (cons 11 p)
 		    (cons 1 na); actual text
 		    (cons 7 (getvar "TEXTSTYLE"))
 		    (cons 40 txt)
@@ -358,7 +358,7 @@
 	  np n
     )
   )
-	 
+
   (setvar "cmdecho" oecho)
   (princ)
 )
@@ -372,8 +372,8 @@
 
 ; inserts increasing numbers inside hexagon
 (defun c:nmp (/ p n ni ts oecho ds th txt na)
-  
-  
+
+
   (if (= 0 (getvar "dimscale"))(setq ds 1.0)(setq ds (getvar "dimscale")))
   (setq th (getvar "dimtxt"))
   (setq txt (* th ds))
@@ -385,7 +385,7 @@
   (princ " >? : ")
   (setq ni (getint))
   (if (= ni nil)(setq ni nn)(setq nn ni))
-  
+
   (if np
     ()
     (setq np 1)
@@ -401,12 +401,12 @@
   (setq p (getpoint "\n Number location: "))
   (setq oecho (getvar "cmdecho"))
   (setvar "cmdecho" 0)
-  
+
   (while p
     (setq na (itoa n))
-    (entmake (list (cons 0 "TEXT")	
-		    (cons 10 p)	
-		    (cons 11 p)	
+    (entmake (list (cons 0 "TEXT")
+		    (cons 10 p)
+		    (cons 11 p)
 		    (cons 1 na); actual text
 		    (cons 7 (getvar "TEXTSTYLE"))
 		    (cons 40 txt)
@@ -421,7 +421,7 @@
 	  np n
     )
   )
-	 
+
   (setvar "cmdecho" oecho)
   (princ)
 )
@@ -434,7 +434,7 @@
 
 ; inserts increasing numbers
 (defun c:nm (/ p n ni ts oecho ds th txt na)
-  
+
   (setq ts (getvar "textsize"))
   (if (= 0 (getvar "dimscale"))(setq ds 1.0)(setq ds (getvar "dimscale")))
   (setq th (getvar "dimtxt"))
@@ -446,7 +446,7 @@
   (princ " >? : ")
   (setq ni (getint))
   (if (= ni nil)(setq ni nn)(setq nn ni))
-  
+
   (if np
     ()
     (setq np 1)
@@ -462,12 +462,12 @@
   (setq p (getpoint "\n Number location: "))
   (setq oecho (getvar "cmdecho"))
   (setvar "cmdecho" 0)
-  
+
   (while p
     (setq na (itoa n))
-    (entmake (list (cons 0 "TEXT")	
-		    (cons 10 p)	
-		    (cons 11 p)	
+    (entmake (list (cons 0 "TEXT")
+		    (cons 10 p)
+		    (cons 11 p)
 		    (cons 1 na); actual text
 		    (cons 7 (getvar "TEXTSTYLE"))
 		    (cons 40 txt)
@@ -479,7 +479,7 @@
 	  np n
     )
   )
-	 
+
   (setvar "cmdecho" oecho)
   (princ)
 )
@@ -580,9 +580,9 @@
 (while (and p (< nu 26))
   (setq n (nth nu alf))
   (setq pnu (nth (1+ nu) alf))
-  (entmake (list (cons 0 "TEXT")	
-		    (cons 10 p)	
-		    (cons 11 p)	
+  (entmake (list (cons 0 "TEXT")
+		    (cons 10 p)
+		    (cons 11 p)
 		    (cons 1 n); actual text
 		    (cons 7 (getvar "TEXTSTYLE"))
 		    (cons 40 txt)
@@ -728,23 +728,23 @@
   (setvar "cmdecho" 0)
   (setvar "osmode" 0)
 
-  
+
 
 (while (and p (< nu 26))
   (if pref
     (setq n (strcat pref (nth nu alf)))
     (setq n (nth nu alf))
   )
-  (entmake (list (cons 0 "TEXT")	
-		    (cons 10 p)	
-		    (cons 11 p)	
+  (entmake (list (cons 0 "TEXT")
+		    (cons 10 p)
+		    (cons 11 p)
 		    (cons 1 n); actual text
 		    (cons 7 (getvar "TEXTSTYLE"))
 		    (cons 40 txt)
 		    (cons 72 4)
 	      )
      )
-  
+
   (if (< nu 26)
     (if	pref
       (if (= nu 25)

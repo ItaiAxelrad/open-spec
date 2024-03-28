@@ -1,6 +1,6 @@
 # SWPOLY
 
-[Source](../../static/scripts/SWPOLY.lsp)
+[Source](/scripts/SWPOLY.lsp)
 
 ```lsp title="SWPOLY.lsp"
 (defun C:SWPOLY (/ dat c elst wid ename pend pt)
