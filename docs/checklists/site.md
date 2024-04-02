@@ -15,3 +15,5 @@
 - [ ] Lighting (pole bases) and electrical routing coordinated
 - [ ] Guardrails at minimum height of 42” above adjacent surfaces
 - [ ] Adequate snow storage area planned and shown
+
+![](/images/checklists/3-HC.png)

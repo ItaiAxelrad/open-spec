@@ -8,3 +8,5 @@
 - [ ] Blankets on slopes 3:1 or greater
 - [ ] Seed mix meeting local jurisdiction requirements
 - [ ] Erosion Control in accordance with the SWMP and discharge permit (if required)
+
+![](/images/checklists/5-EC.png)

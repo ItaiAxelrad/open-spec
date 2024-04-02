@@ -17,3 +17,5 @@
 - [ ] Earthwork balance calculated and shrink/swell accounted for, or method noted
 - [ ] Finished Floor elevations designed to accommodate localized flooding (if applicable)
 - [ ] Top and Bottom of wall grades clearly labeled
+
+![](/images/checklists/4-GRADING.png)

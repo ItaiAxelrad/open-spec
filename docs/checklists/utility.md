@@ -13,3 +13,5 @@
 - [ ] Min and Max slopes verified on all gravity sewers
 - [ ] Deflection angles at manholes does not exceed 90 degrees
 - [ ] Manhole spacing does not exceed 500 feet
+
+![](/images/checklists/6-UTILITY.png)
