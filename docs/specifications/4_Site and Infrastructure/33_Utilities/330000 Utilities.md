@@ -7,6 +7,5 @@ subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Utilities']
 ---
 
-   1. Division 33
-   1. Utilities
+1. Division 33 - Utilities
 
