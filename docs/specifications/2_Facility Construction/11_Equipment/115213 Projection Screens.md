@@ -7,7 +7,6 @@ subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Equipment', 'Projection', 'Screens']
 ---
 
-
 ## General
 
 1. SUMMARY
@@ -68,11 +67,9 @@ tags: ['Facility', 'Construction', 'Equipment', 'Projection', 'Screens']
 ## Execution
 
 1. INSTALLATION
-	1. General:
+   1. General:
       1. Install projection screen at location indicated to comply with screen manufacturer's written instructions.
    1. Install front-projection screens with screen cases in position and in relation to adjoining construction indicated. Securely anchor to supporting substrate in a manner that produces a smoothly operating screen with vertical edges plumb and viewing surface flat when screen is lowered.
    1. Test electrically operated units to verify that screen controls, limit switches, closure, and other operating components are in optimum functioning condition.
    1. PROTECTING AND CLEANING
    1. After installation, protect projection screens from damage during construction. If damage occurs despite such protection, remove and replace damaged components or entire unit as required to provide units in their original, undamaged condition.
-
-

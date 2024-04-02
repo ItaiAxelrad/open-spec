@@ -4,7 +4,17 @@ section: '090561'
 divNumb: 9
 divName: Finishes
 subgroup: Facility Construction
-tags: ['Facility', 'Construction', 'Finishes', 'Common', 'Work', 'Results', 'Flooring', 'Preparation']
+tags:
+  [
+    'Facility',
+    'Construction',
+    'Finishes',
+    'Common',
+    'Work',
+    'Results',
+    'Flooring',
+    'Preparation',
+  ]
 ---
 
 ## General

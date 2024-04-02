@@ -4,7 +4,17 @@ section: '064023'
 divNumb: 6
 divName: Wood, Plastics, and Composites
 subgroup: Facility Construction
-tags: ['Facility', 'Construction', 'Wood', 'Plastics', 'Composites', 'Interior', 'Architectural', 'Woodwork']
+tags:
+  [
+    'Facility',
+    'Construction',
+    'Wood',
+    'Plastics',
+    'Composites',
+    'Interior',
+    'Architectural',
+    'Woodwork',
+  ]
 ---
 
 ## General
@@ -129,32 +139,32 @@ tags: ['Facility', 'Construction', 'Wood', 'Plastics', 'Composites', 'Interior',
    1. for drawers over 24 inches wide (100-pound class) - Knape & Vogt No. 1429, Grant No. 5632 or Accuride 3832.
    1. 1 set over travel drawer slides, ball bearing, side mount, lever disconnect:
    1. where indicated, 150-pound class - Accuride 3307.
-   1. 1 pull - Colonial No. 753, Stanley No. 4484 or Baldwin No. 4676, US26D. 
+   1. 1 pull - Colonial No. 753, Stanley No. 4484 or Baldwin No. 4676, US26D.
    1. For each drawer to be locked:
-      1. 1 lock – Pin tumbler, half mortise, dead bolt x flat strike, as manufactured by National Cabinet Lock, MK US26D. 
+      1. 1 lock – Pin tumbler, half mortise, dead bolt x flat strike, as manufactured by National Cabinet Lock, MK US26D.
    1. Doors
    1. For each 3/4-inch-thick single door - flush overlay design:
-      1. 1 pair hinges - Stanley No. 1588, Lawrence No. 1223, 2-1/2" x fast pin, US26D. 
-   1. 1 pair self-closing concealed hinges - Blum No. 71.6500, US14. 
-   1. 1 pull - Colonial No. 752, Stanley No. 4483-1/2 or Baldwin No. 4674, US26D. 
+      1. 1 pair hinges - Stanley No. 1588, Lawrence No. 1223, 2-1/2" x fast pin, US26D.
+   1. 1 pair self-closing concealed hinges - Blum No. 71.6500, US14.
+   1. 1 pull - Colonial No. 752, Stanley No. 4483-1/2 or Baldwin No. 4674, US26D.
    1. For each 3/4-inch-thick single door to be locked:
-      1. 1 lock – Pin tumbler, half mortise, dead bolt x flat strike, as manufactured by National Cabinet Lock, MK US26D. 
+      1. 1 lock – Pin tumbler, half mortise, dead bolt x flat strike, as manufactured by National Cabinet Lock, MK US26D.
    1. For each 3/4-inch-thick pair of doors - flush overlay design:
-      1. 2 pair hinges - Stanley No. 1588, Lawrence No. 1223, 2-1/2" x fast pin, US26D. 
-   1. 2 pair self-closing concealed hinges - Blum No. 71.6500, US14. 
-   1. 2 pulls - Colonial No. 752, Stanley No. 4483-1/2 or Baldwin No. 4674, US26D. 
+      1. 2 pair hinges - Stanley No. 1588, Lawrence No. 1223, 2-1/2" x fast pin, US26D.
+   1. 2 pair self-closing concealed hinges - Blum No. 71.6500, US14.
+   1. 2 pulls - Colonial No. 752, Stanley No. 4483-1/2 or Baldwin No. 4674, US26D.
    1. For each 3/4-inch-thick pair of doors to be locked:
-      1. 1 lock – Pin tumbler, half mortise, dead bolt x flat strike, as manufactured by National Cabinet Lock, MK US26D. 
-   1. 1 elbow catch - Ives No. 2. 
-   1. 1 magnetic catch - Epco No. 541. 
+      1. 1 lock – Pin tumbler, half mortise, dead bolt x flat strike, as manufactured by National Cabinet Lock, MK US26D.
+   1. 1 elbow catch - Ives No. 2.
+   1. 1 magnetic catch - Epco No. 541.
    1. For each 1-1/8-inch-thick pair of doors 60 inches or less in height - flush overlay design:
-      1. 2 pair hinges - Stanley No. 1588, Lawrence No. 1223, 2-1/2" x fast pin, US26D. 
-   1. 2 pair self-closing concealed hinges - Blum No. 71M9590, US14. 
-   1. 2 pulls - Colonial No. 752, Stanley No. 4483-1/2 or Baldwin No. 4674, US26D. 
+      1. 2 pair hinges - Stanley No. 1588, Lawrence No. 1223, 2-1/2" x fast pin, US26D.
+   1. 2 pair self-closing concealed hinges - Blum No. 71M9590, US14.
+   1. 2 pulls - Colonial No. 752, Stanley No. 4483-1/2 or Baldwin No. 4674, US26D.
    1. For each 1-1/8-inch-thick pair of doors:
-      1. 1 lock – Pin tumbler, half mortise, dead bolt x flat strike, as manufactured by National Cabinet Lock, MK US26D. 
-   1. 2 surface bolts - Baldwin No. 2003 or Ives No. 043B. 
-   1. 2 magnetic catches - Epco No. 541. 
+      1. 1 lock – Pin tumbler, half mortise, dead bolt x flat strike, as manufactured by National Cabinet Lock, MK US26D.
+   1. 2 surface bolts - Baldwin No. 2003 or Ives No. 043B.
+   1. 2 magnetic catches - Epco No. 541.
    1. Shelves
    1. For each set of adjustable wood shelves:
       1. 4 standards - Knape & Vogt No. 255, Garcy No. S373 or Parker No. 67.
@@ -169,64 +179,64 @@ tags: ['Facility', 'Construction', 'Wood', 'Plastics', 'Composites', 'Interior',
    1. Cabinet Fabrication
    1. Definition
    1. Cabinets include counters and enclosures of all kinds indicated to be Architectural Woodwork. Other terms are defined in the AWI Quality Standards or WIC Manual of Millwork.
-   2. Fabricate cabinets to comply with AWI Quality Standards, Section 400, or WIC Manual of Millwork, Sections 14 or 15, for Premium Grade, unless otherwise specified.
-   3. Requirements for materials used in labeled construction, except interior of drawers and concealed framing members:
+   1. Fabricate cabinets to comply with AWI Quality Standards, Section 400, or WIC Manual of Millwork, Sections 14 or 15, for Premium Grade, unless otherwise specified.
+   1. Requirements for materials used in labeled construction, except interior of drawers and concealed framing members:
       1. Maximum fire hazard classification of 75 for flame spread and 125 for smoke developed, when tested in accordance with ASTM E84.
-   4. Listed in the UL "Building Materials Directory"
-   5. Bear the UL classification marking or listing mark.
-   6. Details of cabinet front construction:
+   1. Listed in the UL "Building Materials Directory"
+   1. Bear the UL classification marking or listing mark.
+   1. Details of cabinet front construction:
       1. comply with requirements of AWI Quality Standards, Article 400-G-7, for flush overlay design, edge treatment is indicated on the Finish Plans.
-   7. Drawers
-   8. Provide drawer guides having proper clearance, accurately aligned to insure easy operation of drawers without binding.
-   9. Doors
-   10. Doors wider than 36 inches or higher than 66 inches:
-      1. 1-3/8 inches thick, solid core, flush wood doors conforming to AWI Quality Standards, Section 1300 or WIC Manual of Millwork, Section 12.
-   11. Shelves for Cabinets
-   12. Adjustable, unless otherwise specified with standards recessed flush.
-   13. Adjustable, unless otherwise specified, with 4mm holes at 32mm spacing in cabinet sides for shelf supports.
-   14. Hardware
-   15. Shop install hardware insofar as practicable. Furnish and deliver to the building all hardware items not shop installed, complete with templates, keys, screws and hardware manufacturer's installation directions.
-   16. Provide locks for cabinet doors and drawers as indicated.
-   17. Cabinets having locks that are located in the same room or space:
-      2. keyed alike but unlike those in any other room or space and masterkeyed in accordance with the Architect's instructions. Provide two keys with each lock and four masterkeys for each masterkey system.
-   18. Wood Laminate Cabinets
-   19. Fabricate wood laminate cabinets of plywood for transparent finish, unless otherwise specified.
-   20. Drawer fronts:
-      3. 3/4-inch-thick solid lumber.
-   21. 1-3/8-inch-thick doors:
-      4. faced both sides with face veneer specified for plywood for transparent finish.
-   22. Plastic Laminate Cabinets
-   23. Fabricate plastic laminate cabinets specified to be labeled construction of UL-labeled panel systems.
-   24. Core for plastic laminate:
-      5. 3/4-inch-thick particleboard or lauan-faced veneer core plywood.
-   25. Core for countertops in which sinks occur and for backsplashes for such tops:
-      6. exterior grade lauan-faced plywood or phenolic resin particleboard. Joint between backsplash and countertop shall be waterproof.
-   26. Apply plastic laminate face sheet to exposed surfaces and the following:
-      7. Back of doors, except when Dakota Burl; Biocomposit is being used.
-   27. Top of cabinet shelves, except when Dakota Burl; Biocomposit is being used.
-   28. Drawer fronts, except when Dakota Burl; Biocomposit is being used.
-   29. Finish exposed edges with 3 mm black melamine edgeband.
-   30. Face semi-exposed surfaces, including bottom of cabinet PDC shelves, with 0.020-inch plastic laminate cabinet liner or AWI grade III overlay as indicated on Finish Plans and Casework Detail Plans.
-   31. Open Shelf Units TO BE PAINTED
-   32. Plywood for paint finish with exposed ends of sides, dividers, shelves, and top having solid hardwood noses rabbeted to the plywood.
-   33. Counter And Apron Units
-   34. Counter and apron units, including backsplashes:
-      8. Dakota Burl; Biocomposits, LLC as indicated on Casework Detail Plans..
-   35. Cut openings in countertop in accordance with sink manufacturer's template.
-   36. Vanity Unit
-   37. Vanity unit, including countertop and backsplashes where indicated:
-      9. solid surface material construction including the following:
-      10. Base cabinet with integral base and doors.
-   38. Countertop with sink opening as indicated.
-   39. Adjustable Shelves - Wall Mounted
-   40. Adjustable Wood Shelves
-   41. Wood shelves for paint finish:
-      11. kiln-dried, sanded, edge-glued fir, 3/4 inch thick.
-   42. Adjustable Plastic Laminate Shelves
-   43. 3/4-inch-thick particleboard or lauan plywood core with plastic laminate face sheet applied under pressure to both surfaces and edges with waterproof adhesive.
-   44. Metal Standards and Brackets
-   45. Knape & Vogt Mfg. Co. No. 80 slotted standards, with matching screws, and No. 180 boltless bracket. Finish:
-      12. Satin Anochrome.
+   1. Drawers
+   1. Provide drawer guides having proper clearance, accurately aligned to insure easy operation of drawers without binding.
+   1. Doors
+   1. Doors wider than 36 inches or higher than 66 inches:
+   1. 1-3/8 inches thick, solid core, flush wood doors conforming to AWI Quality Standards, Section 1300 or WIC Manual of Millwork, Section 12.
+   1. Shelves for Cabinets
+   1. Adjustable, unless otherwise specified with standards recessed flush.
+   1. Adjustable, unless otherwise specified, with 4mm holes at 32mm spacing in cabinet sides for shelf supports.
+   1. Hardware
+   1. Shop install hardware insofar as practicable. Furnish and deliver to the building all hardware items not shop installed, complete with templates, keys, screws and hardware manufacturer's installation directions.
+   1. Provide locks for cabinet doors and drawers as indicated.
+   1. Cabinets having locks that are located in the same room or space:
+   1. keyed alike but unlike those in any other room or space and masterkeyed in accordance with the Architect's instructions. Provide two keys with each lock and four masterkeys for each masterkey system.
+   1. Wood Laminate Cabinets
+   1. Fabricate wood laminate cabinets of plywood for transparent finish, unless otherwise specified.
+   1. Drawer fronts:
+   1. 3/4-inch-thick solid lumber.
+   1. 1-3/8-inch-thick doors:
+   1. faced both sides with face veneer specified for plywood for transparent finish.
+   1. Plastic Laminate Cabinets
+   1. Fabricate plastic laminate cabinets specified to be labeled construction of UL-labeled panel systems.
+   1. Core for plastic laminate:
+   1. 3/4-inch-thick particleboard or lauan-faced veneer core plywood.
+   1. Core for countertops in which sinks occur and for backsplashes for such tops:
+   1. exterior grade lauan-faced plywood or phenolic resin particleboard. Joint between backsplash and countertop shall be waterproof.
+   1. Apply plastic laminate face sheet to exposed surfaces and the following:
+   1. Back of doors, except when Dakota Burl; Biocomposit is being used.
+   1. Top of cabinet shelves, except when Dakota Burl; Biocomposit is being used.
+   1. Drawer fronts, except when Dakota Burl; Biocomposit is being used.
+   1. Finish exposed edges with 3 mm black melamine edgeband.
+   1. Face semi-exposed surfaces, including bottom of cabinet PDC shelves, with 0.020-inch plastic laminate cabinet liner or AWI grade III overlay as indicated on Finish Plans and Casework Detail Plans.
+   1. Open Shelf Units TO BE PAINTED
+   1. Plywood for paint finish with exposed ends of sides, dividers, shelves, and top having solid hardwood noses rabbeted to the plywood.
+   1. Counter And Apron Units
+   1. Counter and apron units, including backsplashes:
+   1. Dakota Burl; Biocomposits, LLC as indicated on Casework Detail Plans..
+   1. Cut openings in countertop in accordance with sink manufacturer's template.
+   1. Vanity Unit
+   1. Vanity unit, including countertop and backsplashes where indicated:
+   1. solid surface material construction including the following:
+   1. Base cabinet with integral base and doors.
+   1. Countertop with sink opening as indicated.
+   1. Adjustable Shelves - Wall Mounted
+   1. Adjustable Wood Shelves
+   1. Wood shelves for paint finish:
+   1. kiln-dried, sanded, edge-glued fir, 3/4 inch thick.
+   1. Adjustable Plastic Laminate Shelves
+   1. 3/4-inch-thick particleboard or lauan plywood core with plastic laminate face sheet applied under pressure to both surfaces and edges with waterproof adhesive.
+   1. Metal Standards and Brackets
+   1. Knape & Vogt Mfg. Co. No. 80 slotted standards, with matching screws, and No. 180 boltless bracket. Finish:
+   1. Satin Anochrome.
 
 ## Execution
 
@@ -241,11 +251,11 @@ tags: ['Facility', 'Construction', 'Wood', 'Plastics', 'Composites', 'Interior',
       2. Joints between architectural woodwork components and vertical surfaces, including partitions and column enclosures.
    5. Joints in field-applied backsplash and between backsplash and countertop.
    6. Joints in countertop.
-   7.  Adjustable Shelves
-   8.  Anchor metal standards to wall, plumb and with slots for brackets level.
-   9.  Keying System for Wood Cabinet Locks
+   7. Adjustable Shelves
+   8. Anchor metal standards to wall, plumb and with slots for brackets level.
+   9. Keying System for Wood Cabinet Locks
    10. Before final acceptance of building, set up a keying index for locks of wood cabinets installed under this Section, listing the key for each lock, and provide keys with metal tags indicating the lock for which the key was cut.
 2. Protection
-   1.  Protect factory finished architectural woodwork in accordance with manufacturer's directions.
-   2.  Cleaning
-   3.  Clean finished surfaces of architectural woodwork items in accordance with manufacturer's instructions.
+   1. Protect factory finished architectural woodwork in accordance with manufacturer's directions.
+   2. Cleaning
+   3. Clean finished surfaces of architectural woodwork items in accordance with manufacturer's instructions.

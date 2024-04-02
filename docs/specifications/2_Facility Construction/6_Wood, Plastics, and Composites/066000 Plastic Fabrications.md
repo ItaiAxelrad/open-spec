@@ -4,7 +4,16 @@ section: '066000'
 divNumb: 6
 divName: Wood, Plastics, and Composites
 subgroup: Facility Construction
-tags: ['Facility', 'Construction', 'Wood', 'Plastics', 'Composites', 'Plastic', 'Fabrications']
+tags:
+  [
+    'Facility',
+    'Construction',
+    'Wood',
+    'Plastics',
+    'Composites',
+    'Plastic',
+    'Fabrications',
+  ]
 ---
 
 ## General
@@ -28,24 +37,17 @@ tags: ['Facility', 'Construction', 'Wood', 'Plastics', 'Composites', 'Plastic', 
 
 ## Products
 
-1. plastic stools and vanity tops
-   2. Materials
-   3. Plastic material:
-      1. DuPont Co. “Corian” Avonite, Inc. “Avonite”, or as approved, non-porous homogenous of polyester or acrylic polymers and mineral fillers, in color and pattern selected by the Architect form manufacturer’s standard range and having a maximum fire hazard classification of 25 for flame spread and 60 for smoke developed, when tested in accordance with ASTM E84.
-   4. Adhesives:
+1. plastic stools and vanity tops 2. Materials 3. Plastic material:
+   1. DuPont Co. “Corian” Avonite, Inc. “Avonite”, or as approved, non-porous homogenous of polyester or acrylic polymers and mineral fillers, in color and pattern selected by the Architect form manufacturer’s standard range and having a maximum fire hazard classification of 25 for flame spread and 60 for smoke developed, when tested in accordance with ASTM E84.
+   2. Adhesives:
       1. As recommended by plastic material manufacturer for the application.
-   5. Sealant for caulked joints:
+   3. Sealant for caulked joints:
       1. Silicone formulated to provide an exact color match.
-   6. Thickness:
+   4. Thickness:
       1. 1/2” or thicker, No 1/4” thicknesses.
-   7. Fabrication
-   8. Fabricate stools and vanity tops of plastic material of thickness indicated, with joints, including corner joints, butted. Seal joints in pieces wider than 30 inches with joint adhesive.
+   5. Fabrication
+   6. Fabricate stools and vanity tops of plastic material of thickness indicated, with joints, including corner joints, butted. Seal joints in pieces wider than 30 inches with joint adhesive.
 
 ## Execution
 
-1. installation
-   2. Install the Work in accordance with approved Shop Drawings and manufacturer's instruction.
-   3. Plastic Stool and Vanity Tops
-   4. Install plastic stools with adhesive and plastic vanity tops with adhesive and corrosion-resistant clips.
-   5. Provide 1/32-inch expansion joints at 8-foot spacing.
-   6. Seal joints indicated to be caulked with sealant.
+1. installation 2. Install the Work in accordance with approved Shop Drawings and manufacturer's instruction. 3. Plastic Stool and Vanity Tops 4. Install plastic stools with adhesive and plastic vanity tops with adhesive and corrosion-resistant clips. 5. Provide 1/32-inch expansion joints at 8-foot spacing. 6. Seal joints indicated to be caulked with sealant.

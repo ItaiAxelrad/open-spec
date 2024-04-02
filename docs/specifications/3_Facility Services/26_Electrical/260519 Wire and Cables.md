@@ -7,7 +7,6 @@ subgroup: Facility Services
 tags: ['Facility', 'Services', 'Electrical', 'Wire', 'Cables']
 ---
 
-
 ## General
 
 1. RELATED DOCUMENTS
@@ -52,40 +51,41 @@ tags: ['Facility', 'Services', 'Electrical', 'Wire', 'Cables']
 
 ## Products
 
-   1. MANUFACTURERS
-   1. Acceptable Power and Control Cable Manufacturers:
-      1. Cablec.
+1.  MANUFACTURERS
+1.  Acceptable Power and Control Cable Manufacturers:
+    1. Cablec.
 
 ## General
 
- Cable.
-   1. Rome Cable.
-   1. Okonite.
-   1. Triangle.
-   1. American Insulated Wire Corporation.
-   1. Diamond Wire and Cable.
-   1. Acceptable Instrumentation Cable Manufacturers:
-      1. Belden.
-   1. Carol.
-   1. Alpha.
-   1. MATERIALS
-   1. Power and Control Conductors:
-      1. Unless specifically indicated otherwise, conductor sizes are for soft drawn, minimum 98% conductivity, minimum insulation rating of 600 volts. All wire shall be copper.
-   1. Except as indicated, provide conductors of No. 12 AWG minimum size.
-   1. Conductors No 16 AWG and smaller:
-      1. TFFN insulation, unless otherwise indicated.
-   1. Conductors No 14 AWG and larger:
-      1. Stranded with Type THHN/THWN dual rating insulation, unless otherwise indicated
-   1. Provide conductors with Type THHN/THWN dual rating for No. 14 and No. 12. Provide solid conductors for use on toggle switches and receptacles.
-   1. Wire No. 10 and smaller shall be factory color-coded.
-   1. Wire No. 8 and larger shall be color-coded by field painting or color taping the entire length of exposed ends or 12 inches of exposed end, whichever is less.
-   1. For all sizes, conductors with mineral filled cross-linked thermosetting polyethylene insulation, UL Type XHHW rated 75° C in wet or dry locations, may be used.
-   1. Where ambient temperatures are within 18°F of the maximum allowable operating temperature of the insulation of a conductor, provide conductors with insulations (such as Type AVA) suitable for the temperatures and other conditions to be encountered.
-   1. Stranded wire is to be used for all control circuits No. 14 THHN/THWN unless otherwise noted.
-   1. Use only stranded wire for all motor connections minimum size No. 12 THHN/THWN unless otherwise noted.
-   1. Solid wire shall be used on all receptacle outlets and toggle switches.
-   1. Contractor may use stranded wire on toggle switches and receptacles if all terminations are made with compression type ring tongue terminals.
-   1. Class B or Class C stranded or solid, annealed, uncoated per UL 83 or 1063.
+Cable.
+
+1.  Rome Cable.
+1.  Okonite.
+1.  Triangle.
+1.  American Insulated Wire Corporation.
+1.  Diamond Wire and Cable.
+1.  Acceptable Instrumentation Cable Manufacturers:
+    1. Belden.
+1.  Carol.
+1.  Alpha.
+1.  MATERIALS
+1.  Power and Control Conductors:
+    1. Unless specifically indicated otherwise, conductor sizes are for soft drawn, minimum 98% conductivity, minimum insulation rating of 600 volts. All wire shall be copper.
+1.  Except as indicated, provide conductors of No. 12 AWG minimum size.
+1.  Conductors No 16 AWG and smaller:
+    1. TFFN insulation, unless otherwise indicated.
+1.  Conductors No 14 AWG and larger:
+    1. Stranded with Type THHN/THWN dual rating insulation, unless otherwise indicated
+1.  Provide conductors with Type THHN/THWN dual rating for No. 14 and No. 12. Provide solid conductors for use on toggle switches and receptacles.
+1.  Wire No. 10 and smaller shall be factory color-coded.
+1.  Wire No. 8 and larger shall be color-coded by field painting or color taping the entire length of exposed ends or 12 inches of exposed end, whichever is less.
+1.  For all sizes, conductors with mineral filled cross-linked thermosetting polyethylene insulation, UL Type XHHW rated 75° C in wet or dry locations, may be used.
+1.  Where ambient temperatures are within 18°F of the maximum allowable operating temperature of the insulation of a conductor, provide conductors with insulations (such as Type AVA) suitable for the temperatures and other conditions to be encountered.
+1.  Stranded wire is to be used for all control circuits No. 14 THHN/THWN unless otherwise noted.
+1.  Use only stranded wire for all motor connections minimum size No. 12 THHN/THWN unless otherwise noted.
+1.  Solid wire shall be used on all receptacle outlets and toggle switches.
+1.  Contractor may use stranded wire on toggle switches and receptacles if all terminations are made with compression type ring tongue terminals.
+1.  Class B or Class C stranded or solid, annealed, uncoated per UL 83 or 1063.
 
 ## Execution
 
@@ -144,76 +144,76 @@ tags: ['Facility', 'Services', 'Electrical', 'Wire', 'Cables']
 ## General
 
 -purpose D.C. control circuits shall be light blue for negative, pink for positive.
-   1. Switch legs shall be violet.
-   1. Color coding and phasing shall be consistent throughout the site.
-   1. Bus bars at panel boards, switchboards, and motor control centers shall be connected A-B-C, top to bottom, or left to right, facing connecting lugs.
-   1. Splices:
-      1. Splices in 600-volt wire, which are not pre-insulated, shall be insulated with four layers of tape each half-lapped.
-   1. Splices in below grade pull boxes or in any box subject to flooding shall be made watertight using either:
-      1. A heat shrink insulating system listed for submersible applications.
-   1. An epoxy resin splicing kit.
-   1. Control Connections:
-      1. Connect control wiring as indicated and in accordance with the wiring diagrams furnished by the equipment manufacturer
-   1. Number all wires in accordance with control wiring diagram at each end of the wire.
-   1. Use insulated ring type wire terminators for connections to all screw terminals manufactured by:
-      1. T-B Stakon
-   1. 3M & Corp.
-   1. Or approved equal
-   1. CONTRACTOR is responsible for working from manufacturer's drawings for process equipment connections
-   1. Medium Voltage Systems:
-      1. Splices:
-            1. Permanent in line splice.
-   1. Suitable for submersible, direct burial applications.
-   1. Power cable splices for shielded solid dielectric plastic cables shall be factory-engineered kits containing all necessary components to reinstate primary cable insulation, metallic shielding/grounding system and overall gasket.
-   1. Splice shall be of a uniform cross section heat shrinkable polymeric construction consisting of a linear stress relief system, a high dielectric strength insulating material and an integrally bonded outer conductive layer for shielding.
-   1. 1) The original cable jacket shall be replaced with a heavy wall heat shrinkable sleeve with a waterproof mastic seal on both ends
-   1. The splice shall accommodate a range of cable sizes and be completely independent of cable manufacturer's tolerances
-   1. When assembled on cables the splice shall be capable of passing the electrical test requirements of:
-      1. 1) IEEE--48-1975
-   1. 2) IEEE--404-1977
-   1. 3) ANSI--C119.2-1974
-   1. As manufactured by Ray Chem.
-   1. Live Front Terminators:
-      1. Terminators for shielded solid dielectric plastic cables shall be factory engineered kits containing all necessary components to terminate the primary cables and shield systems.
-   1. All locations exterior of buildings shall be considered outdoors and appropriate heat shrinkable skirts of a non-tracking material shall be installed.
-   1. Terminators shall be of a material that will relieve the associated voltage stresses at the point of termination.
-   1. Non-tracking.
-   1. Ultra-violet, ozone, sulphur dioxide resistant.
-   1. Terminator shall be of a uniform cross section heat shrinkable polymeric construction consisting of a linear stress relief system.
-   1. The terminator shall accommodate a range of cable sizes and be completely independent of cable manufacturer’s tolerances.
-   1. When assembled on cables the terminator shall be capable of passing the electrical test requirements of IEEE--48-1975.
-   1. Dead Front Terminators -- 600 Amperes:
-      1. Terminators for shielded solid dielectric plastic cables shall be factory engineered kits containing all necessary components to terminate the primary cables and shield systems.
-   1. Modular pre-molded dead system.
-   1. Fully shielded dead front operation.
-   1. Submersible.
-   1. Capable of mating with any manufacturer interface complying with ANSI 386-1977.
-   1. All aluminum crimp connector using standard compression tools to join the conductor to the interface.
-   1. To be used as an elbow or a "T".
-   1. Cable adapters to connect the cable insulation to the dead front terminator.
-   1. Terminator is to be bolted to the bushing or connector plug with an insulating plug for the connection.
-   1. Conductive cap covering the insulating plug.
-   1. Conductive shield to provide reliable continuity between jacket of cable and connector.
-   1. Conductive insert to prevent corona.
-   1. With a capacitive test point on the insulating plug to allow circuit testing without disturbing the connection.
-   1. Firestopping:
-      1. Apply Firestopping to electrical penetrations of fire-rated floor and wall assemblies to restore original fire resistance of assembly. Coordinate with the requirements related Division 7 sections of the Specifications.
-   1. FIELD QUALITY CONTROL
-   1. Test:
-      1. Perform meggar tests in conformance with related Division 26 Sections of the Specifications.
-   1. SCHEDULES
+
+1.  Switch legs shall be violet.
+1.  Color coding and phasing shall be consistent throughout the site.
+1.  Bus bars at panel boards, switchboards, and motor control centers shall be connected A-B-C, top to bottom, or left to right, facing connecting lugs.
+1.  Splices:
+    1. Splices in 600-volt wire, which are not pre-insulated, shall be insulated with four layers of tape each half-lapped.
+1.  Splices in below grade pull boxes or in any box subject to flooding shall be made watertight using either:
+    1. A heat shrink insulating system listed for submersible applications.
+1.  An epoxy resin splicing kit.
+1.  Control Connections:
+    1. Connect control wiring as indicated and in accordance with the wiring diagrams furnished by the equipment manufacturer
+1.  Number all wires in accordance with control wiring diagram at each end of the wire.
+1.  Use insulated ring type wire terminators for connections to all screw terminals manufactured by:
+    1. T-B Stakon
+1.  3M & Corp.
+1.  Or approved equal
+1.  CONTRACTOR is responsible for working from manufacturer's drawings for process equipment connections
+1.  Medium Voltage Systems:
+    1. Splices:
+       1. Permanent in line splice.
+1.  Suitable for submersible, direct burial applications.
+1.  Power cable splices for shielded solid dielectric plastic cables shall be factory-engineered kits containing all necessary components to reinstate primary cable insulation, metallic shielding/grounding system and overall gasket.
+1.  Splice shall be of a uniform cross section heat shrinkable polymeric construction consisting of a linear stress relief system, a high dielectric strength insulating material and an integrally bonded outer conductive layer for shielding.
+1.  1. The original cable jacket shall be replaced with a heavy wall heat shrinkable sleeve with a waterproof mastic seal on both ends
+1.  The splice shall accommodate a range of cable sizes and be completely independent of cable manufacturer's tolerances
+1.  When assembled on cables the splice shall be capable of passing the electrical test requirements of:
+    1. 1. IEEE--48-1975
+1.  2. IEEE--404-1977
+1.  3. ANSI--C119.2-1974
+1.  As manufactured by Ray Chem.
+1.  Live Front Terminators:
+    1. Terminators for shielded solid dielectric plastic cables shall be factory engineered kits containing all necessary components to terminate the primary cables and shield systems.
+1.  All locations exterior of buildings shall be considered outdoors and appropriate heat shrinkable skirts of a non-tracking material shall be installed.
+1.  Terminators shall be of a material that will relieve the associated voltage stresses at the point of termination.
+1.  Non-tracking.
+1.  Ultra-violet, ozone, sulphur dioxide resistant.
+1.  Terminator shall be of a uniform cross section heat shrinkable polymeric construction consisting of a linear stress relief system.
+1.  The terminator shall accommodate a range of cable sizes and be completely independent of cable manufacturer’s tolerances.
+1.  When assembled on cables the terminator shall be capable of passing the electrical test requirements of IEEE--48-1975.
+1.  Dead Front Terminators -- 600 Amperes:
+    1. Terminators for shielded solid dielectric plastic cables shall be factory engineered kits containing all necessary components to terminate the primary cables and shield systems.
+1.  Modular pre-molded dead system.
+1.  Fully shielded dead front operation.
+1.  Submersible.
+1.  Capable of mating with any manufacturer interface complying with ANSI 386-1977.
+1.  All aluminum crimp connector using standard compression tools to join the conductor to the interface.
+1.  To be used as an elbow or a "T".
+1.  Cable adapters to connect the cable insulation to the dead front terminator.
+1.  Terminator is to be bolted to the bushing or connector plug with an insulating plug for the connection.
+1.  Conductive cap covering the insulating plug.
+1.  Conductive shield to provide reliable continuity between jacket of cable and connector.
+1.  Conductive insert to prevent corona.
+1.  With a capacitive test point on the insulating plug to allow circuit testing without disturbing the connection.
+1.  Firestopping:
+    1. Apply Firestopping to electrical penetrations of fire-rated floor and wall assemblies to restore original fire resistance of assembly. Coordinate with the requirements related Division 7 sections of the Specifications.
+1.  FIELD QUALITY CONTROL
+1.  Test:
+    1. Perform meggar tests in conformance with related Division 26 Sections of the Specifications.
+1.  SCHEDULES
 
 ## General
 
- Installation Sequence:
-      1. Install conductors only after the conduit installation is complete, and all enclosures have been vacuumed clean, and the affected conduits have been swabbed clean and dry.
-   1. Number all wires at each end after being installed in the conduit and prior to meggar testing and termination.
-   1. Meggar all wires prior to final connection of devices.
-   1. Medium Voltage Cables Special Sequence:
-      1. Submit cable pulling tension calculations prior to conduit installation.
-   1. Swab clean conduits prior to cable installation.
-   1. Pre-lubricate conduits as required.
-   1. Install cable under the observation of the ENGINEER, ENGINEER shall witness cable dynamometer during cable installation to compare pulling tension with calculated and maximum values.
-   1. Phase conductors, fire tape, and install terminators.
-   1. Conduct HI-Pot test in the presence of ENGINEER and OWNER. Provide minimum of 5 days advanced notice of testing.
+Installation Sequence: 1. Install conductors only after the conduit installation is complete, and all enclosures have been vacuumed clean, and the affected conduits have been swabbed clean and dry.
 
+1.  Number all wires at each end after being installed in the conduit and prior to meggar testing and termination.
+1.  Meggar all wires prior to final connection of devices.
+1.  Medium Voltage Cables Special Sequence:
+    1. Submit cable pulling tension calculations prior to conduit installation.
+1.  Swab clean conduits prior to cable installation.
+1.  Pre-lubricate conduits as required.
+1.  Install cable under the observation of the ENGINEER, ENGINEER shall witness cable dynamometer during cable installation to compare pulling tension with calculated and maximum values.
+1.  Phase conductors, fire tape, and install terminators.
+1.  Conduct HI-Pot test in the presence of ENGINEER and OWNER. Provide minimum of 5 days advanced notice of testing.

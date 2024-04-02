@@ -4,7 +4,19 @@ section: '235523'
 divNumb: 23
 divName: Heating Ventilating and Air Conditioning
 subgroup: Facility Services
-tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 'Gas', 'Fired', 'Radient', 'Heaters']
+tags:
+  [
+    'Facility',
+    'Services',
+    'Heating',
+    'Ventilating',
+    'Air',
+    'Conditioning',
+    'Gas',
+    'Fired',
+    'Radient',
+    'Heaters',
+  ]
 ---
 
 ## General
@@ -23,7 +35,7 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. 54 - National Fuel Gas Code
    1. 70 - National Electrical Code (NEC)
 1. SUBMITTALS
-	1. General:
+   1. General:
       1. Submit the following in accordance with Division 23 Specifications.
    1. Product data including weights, dimensions, metal gauges, and data on features and components. Include plan and elevation views of units, minimum clearances, and data on ratings and capacities.
    1. Maintenance data for products for inclusion in Division 23 Specification sections.
@@ -56,7 +68,7 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Control Transformer:
       1. Integrally mounted. 120 VAC/24 VAC.
    1. Gas-Fired Tubular Infrared Heaters
-	1. General:
+   1. General:
       1. Comply with ANSI Z83.6.
    1. Electric Ignition:
       1. 115vac rating.
@@ -120,4 +132,3 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
       1. Arrange and pay for services of a factory authorized service representative to demonstrate adjustment, operation, and maintenance of heater and heater systems and to train Owner's personnel.
    1. Conduct a minimum of two hours of training.
    1. Schedule training with project manager.
-

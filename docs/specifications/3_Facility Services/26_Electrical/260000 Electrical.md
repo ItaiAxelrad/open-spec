@@ -7,6 +7,4 @@ subgroup: Facility Services
 tags: ['Facility', 'Services', 'Electrical']
 ---
 
-   1. Division 26
-   1. Electrical
-
+Division 26 - Electrical

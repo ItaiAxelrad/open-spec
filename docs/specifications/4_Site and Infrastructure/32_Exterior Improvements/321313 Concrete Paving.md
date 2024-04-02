@@ -4,14 +4,15 @@ section: '321313'
 divNumb: 32
 divName: Exterior Improvements
 subgroup: Site and Infrastructure
-tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Concrete', 'Paving']
+tags:
+  ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Concrete', 'Paving']
 ---
 
 ## General
 
 1. RELATED DOCUMENTS
    1. Retain or delete this article in all Sections of Project Manual.
-   1. Drawings and general provisions of the Contract, including General and Supplementary Conditions and Division 01 Specification Sections, apply to this Section. 
+   1. Drawings and general provisions of the Contract, including General and Supplementary Conditions and Division 01 Specification Sections, apply to this Section.
    1. All current Owner standards and specifications shall apply, including but not limited to:
       1. Owner CONSTRUCTION SPECIFICATIONS
 1. SUMMARY
@@ -111,81 +112,75 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Concrete', 'Paving
 
 ## Products
 
-   1. FORMS
-   1. Form Materials:
-      1. Plywood, metal, metal-framed plywood, or other approved panel-type materials to provide full-depth, continuous, straight, and smooth exposed surfaces.
-   1. Form-Release Agent:
-      1. Commercially formulated form-release agent that will not bond with, stain, or adversely affect concrete surfaces and that will not impair subsequent treatments of concrete surfaces.
-   1. STEEL REINFORCEMENT
-   1. Steel reinforcement shall be designed per Structural Engineer.
-   1. Retain this article if steel reinforcement is required; revise to suit Project.
-   1. Retain first paragraph below if recycled content is required for LEED-NC or LEED-CS Credits MR 4.1 and MR 4.2. The USGBC allows a default value of 25 percent to be used for steel, without documentation; higher percentages can be claimed if they are supported by appropriate documentation.
-   1. Deformed and Plain Billet-Steel Bars for Concrete Reinforcement:
-      1. ASTM A 615.
-   1. Axle-Steel Deformed and Plain Bars for Concrete Reinforcement:
-      1. ASTM A 996.
-   1. Low Alloy-Steel Bars for Concrete Reinforcement [to be welded]:
-      1. ASTM A 706.
-   1. Fabricated Deformed Steel Bar Mats for Concrete Reinforcement:
-      1. ASTM A 184l.
-   1. Steel Welded Wire Fabric, Plain, for Concrete Reinforcement:
-      1. AASHTO M 55.
-   1. Steel Welded Wire Fabric, Deformed, for Concrete Reinforcement:
-      1. AASHTO M 221.
-   1. Epoxy-Coated Reinforcing Bars:
-      1. AASHTO M 284.
-   1. Wire Rope:
-      1. AASHTO M 30
-   1. Dowel Bars and Tie Bars:
-      1. Tie bars for longitudinal and transverse joints:
-         1. AASHTO M284, grade 40, epoxy coated and deformed
-   1. Dowel bars for transverse joints:
-      1. AASHTO M 254 for coating and ASTM A615, grade 60 for core material and epoxy coated, smooth and lightly greased, precoated with wax or asphalt emulsion, or sprayed with an approved material for their full length.
-   1. PORTLAND CEMENT CONCRETE PAVEMENT:
-      1. MATERIALS AND MIXTURES
-   1. Provide Class P concrete materials in accordance with CDOT specification Section 601- Structural Concrete. A minimum 28-day compressive strength of 4200 psi shall be required unless otherwise noted in the plans and specifications.
-   1. Calcium Chloride:
-      1. Use is prohibited.
-   1. Use of admixtures will not relax cold weather placement requirements.
-1. PORTLAND CEMENT CONCRETE FOR CURBS, GUTTERS AND WALKS:
-1. MATERIALS AND MIXTURES
-      2. Generally retain first option in first subparagraph below unless concrete with lighter shades or brighter colors is required. See Evaluations.
-   2. Retain one or both of first two subparagraphs below if supplementary cementing materials are permitted. Generally delete both subparagraphs if using white portland cement. Ready-mix plants blend these materials with portland cement. Fly ash and slag may slow rate of concrete strengthening and affect color uniformity. Use of Type C or Type F fly ash may be determined by regional availability as well as by properties cited in ASTM C 618.
-   3. Retain subparagraph below if factory-blended hydraulic cement is permitted. Insert target percentage or range of slag or pozzolan as a suffix to Type IS or Type IP designations if required; insert special properties if required. See Evaluations. Verify availability of options before specifying. Slag or pozzolan in nonportland cement part of blended hydraulic cement may slow rate of concrete strengthening and affect color uniformity of integrally colored concrete.
-   4. Retain one of first three options in first paragraph below or revise to suit Project. ASTM C 33 limits deleterious substances in coarse aggregate depending on climate severity and in-service location of concrete. Classes 4S, 4M, and 1N apply to paving in Severe, Moderate, and Negligible weathering regions, respectively. Consider retaining last option below if damage caused by concrete expansion from alkali-silica or other chemical reactions is anticipated.
-   5. Provide Class B concrete materials containing 20% fly ash in accordance with CDOT Specification Section 601 – Structural Concrete. A minimum 28-day compressive strength of 3,500 psi shall be required unless otherwise noted in the plans and specifications.
-   6. Calcium Chloride:
-      1. Use is prohibited.
-   7. Use of admixtures will not relax cold weather placement requirements.
-   8. Fiber Mesh Reinforcement:
-      1. 100% virgin polypropylene, fibrillated fibers containing no reprocessed olefin materials and specifically manufactured to an optimum gradation utilizing 25 individual fiber designs for use as concrete secondary reinforcement. Volume per cubic yard shall equal a minimum of 0.1% (1.5 pounds). Fiber manufacturer must document evidence of 5 year satisfactory performance history, compliance with applicable building codes and ASTM C1116 Type III 4.1.3 and ASTM C1116 Performance Level I. Fibrous concrete reinforcement shall be manufactured by Fibermesh Company, 4019 Industry Drive, Chattanooga, Tennessee, USA 37416 or approved equal.
-   9.  Retain option for coarse-aggregate size in first subparagraph below; insert gradation requirements if preferred. PCA recommends maximum aggregate size of 3/4 inch (19 mm) in base slab if seeded exposed aggregate is paving finish.
-   10. Retain first paragraph below if seeded or monolithic exposed-aggregate paving finish is required.
-   11. CURING MATERIALS
-   12. Burlap Cloth made from Jute or Kenaf:
-      2. AASHTO M 182.
-   13. Liquid Membrane-Forming Compounds for Curing Concrete:
-      3. AASHTO M148.
-   14. Sheet Materials for Curing Concrete:
-      4. AASHTO M171.
-   15. Evaporation retarder in first paragraph below temporarily reduces moisture loss from concrete surfaces awaiting finishing in hot, dry, and windy conditions. Evaporation retarders are not curing compounds or chemical surface retarders used to delay concrete setting.
-   16. Retain paragraph below if a white, waterborne, membrane-forming curing compound is required. Retain if more reflectivity is required. Review product choices because some dissipate and others are abraded by traffic. Although the EPA permits VOC emissions of up to 350 g/L for this product category, verify that product meets curing compound VOC emission limits of authorities having jurisdiction.
-   17. RELATED MATERIALS
-   18. Joint Fillers:
-   19. Joint sealant with backer rod:
-      5. The backer rod placed prior to joint sealant shall be constructed of closed cell polyethylene strand as approved.
-   20. Bonding agent in first paragraph below may be used directly from container or as an admixture in cement or sand-cement slurry.
-   21. Bonding Agent:
-      6. ASTM C 1059, Type II, non-redispersible, acrylic emulsion or styrene butadiene.
-   22. Epoxy Bonding Adhesive:
-      7. ASTM C 881/C 881M, two-component epoxy resin capable of humid curing and bonding to damp surfaces; of class suitable for application temperature, of grade complying with requirements, and of the following types:
-      8. Retain one option in subparagraph below based on service loading.
-   23. Types I and II, non-load bearing or Types IV and V, load bearing, for bonding hardened or freshly mixed concrete to hardened concrete.
-   24. Retain first paragraph below for exposed-aggregate finish requiring surface retarder; this is not an evaporation retarder.
-   25. Chemical Surface Retarder:
-      9. Water-soluble, liquid, set retarder with color dye, for horizontal concrete surface application, capable of temporarily delaying final hardening of concrete to a depth of 1/8 to 1/4 inch.
-   26. Pigmented mineral dry-shake hardener in first paragraph below is nonmetallic and used because of its nonrusting characteristics for concrete that is frequently wet.
-   27. Insert product requirements here for permanent-marking tapes or thermoplastic paints if required. See Evaluations.
+1.  FORMS
+1.  Form Materials:
+    1. Plywood, metal, metal-framed plywood, or other approved panel-type materials to provide full-depth, continuous, straight, and smooth exposed surfaces.
+1.  Form-Release Agent:
+    1. Commercially formulated form-release agent that will not bond with, stain, or adversely affect concrete surfaces and that will not impair subsequent treatments of concrete surfaces.
+1.  STEEL REINFORCEMENT
+1.  Steel reinforcement shall be designed per Structural Engineer.
+1.  Retain this article if steel reinforcement is required; revise to suit Project.
+1.  Retain first paragraph below if recycled content is required for LEED-NC or LEED-CS Credits MR 4.1 and MR 4.2. The USGBC allows a default value of 25 percent to be used for steel, without documentation; higher percentages can be claimed if they are supported by appropriate documentation.
+1.  Deformed and Plain Billet-Steel Bars for Concrete Reinforcement:
+    1. ASTM A 615.
+1.  Axle-Steel Deformed and Plain Bars for Concrete Reinforcement:
+    1. ASTM A 996.
+1.  Low Alloy-Steel Bars for Concrete Reinforcement [to be welded]:
+    1. ASTM A 706.
+1.  Fabricated Deformed Steel Bar Mats for Concrete Reinforcement:
+    1. ASTM A 184l.
+1.  Steel Welded Wire Fabric, Plain, for Concrete Reinforcement:
+    1. AASHTO M 55.
+1.  Steel Welded Wire Fabric, Deformed, for Concrete Reinforcement:
+    1. AASHTO M 221.
+1.  Epoxy-Coated Reinforcing Bars:
+    1. AASHTO M 284.
+1.  Wire Rope:
+    1. AASHTO M 30
+1.  Dowel Bars and Tie Bars:
+    1. Tie bars for longitudinal and transverse joints:
+       1. AASHTO M284, grade 40, epoxy coated and deformed
+1.  Dowel bars for transverse joints:
+    1. AASHTO M 254 for coating and ASTM A615, grade 60 for core material and epoxy coated, smooth and lightly greased, precoated with wax or asphalt emulsion, or sprayed with an approved material for their full length.
+1.  PORTLAND CEMENT CONCRETE PAVEMENT:
+    1. MATERIALS AND MIXTURES
+1.  Provide Class P concrete materials in accordance with CDOT specification Section 601- Structural Concrete. A minimum 28-day compressive strength of 4200 psi shall be required unless otherwise noted in the plans and specifications.
+1.  Calcium Chloride:
+    1. Use is prohibited.
+1.  Use of admixtures will not relax cold weather placement requirements.
+1.  PORTLAND CEMENT CONCRETE FOR CURBS, GUTTERS AND WALKS:
+1.  MATERIALS AND MIXTURES 2. Generally retain first option in first subparagraph below unless concrete with lighter shades or brighter colors is required. See Evaluations. 2. Retain one or both of first two subparagraphs below if supplementary cementing materials are permitted. Generally delete both subparagraphs if using white portland cement. Ready-mix plants blend these materials with portland cement. Fly ash and slag may slow rate of concrete strengthening and affect color uniformity. Use of Type C or Type F fly ash may be determined by regional availability as well as by properties cited in ASTM C 618. 3. Retain subparagraph below if factory-blended hydraulic cement is permitted. Insert target percentage or range of slag or pozzolan as a suffix to Type IS or Type IP designations if required; insert special properties if required. See Evaluations. Verify availability of options before specifying. Slag or pozzolan in nonportland cement part of blended hydraulic cement may slow rate of concrete strengthening and affect color uniformity of integrally colored concrete. 4. Retain one of first three options in first paragraph below or revise to suit Project. ASTM C 33 limits deleterious substances in coarse aggregate depending on climate severity and in-service location of concrete. Classes 4S, 4M, and 1N apply to paving in Severe, Moderate, and Negligible weathering regions, respectively. Consider retaining last option below if damage caused by concrete expansion from alkali-silica or other chemical reactions is anticipated. 5. Provide Class B concrete materials containing 20% fly ash in accordance with CDOT Specification Section 601 – Structural Concrete. A minimum 28-day compressive strength of 3,500 psi shall be required unless otherwise noted in the plans and specifications. 6. Calcium Chloride:
+    1. Use is prohibited.
+    2. Use of admixtures will not relax cold weather placement requirements.
+    3. Fiber Mesh Reinforcement:
+       1. 100% virgin polypropylene, fibrillated fibers containing no reprocessed olefin materials and specifically manufactured to an optimum gradation utilizing 25 individual fiber designs for use as concrete secondary reinforcement. Volume per cubic yard shall equal a minimum of 0.1% (1.5 pounds). Fiber manufacturer must document evidence of 5 year satisfactory performance history, compliance with applicable building codes and ASTM C1116 Type III 4.1.3 and ASTM C1116 Performance Level I. Fibrous concrete reinforcement shall be manufactured by Fibermesh Company, 4019 Industry Drive, Chattanooga, Tennessee, USA 37416 or approved equal.
+    4. Retain option for coarse-aggregate size in first subparagraph below; insert gradation requirements if preferred. PCA recommends maximum aggregate size of 3/4 inch (19 mm) in base slab if seeded exposed aggregate is paving finish.
+    5. Retain first paragraph below if seeded or monolithic exposed-aggregate paving finish is required.
+    6. CURING MATERIALS
+    7. Burlap Cloth made from Jute or Kenaf:
+    8. AASHTO M 182.
+    9. Liquid Membrane-Forming Compounds for Curing Concrete:
+    10. AASHTO M148.
+    11. Sheet Materials for Curing Concrete:
+    12. AASHTO M171.
+    13. Evaporation retarder in first paragraph below temporarily reduces moisture loss from concrete surfaces awaiting finishing in hot, dry, and windy conditions. Evaporation retarders are not curing compounds or chemical surface retarders used to delay concrete setting.
+    14. Retain paragraph below if a white, waterborne, membrane-forming curing compound is required. Retain if more reflectivity is required. Review product choices because some dissipate and others are abraded by traffic. Although the EPA permits VOC emissions of up to 350 g/L for this product category, verify that product meets curing compound VOC emission limits of authorities having jurisdiction.
+    15. RELATED MATERIALS
+    16. Joint Fillers:
+    17. Joint sealant with backer rod:
+    18. The backer rod placed prior to joint sealant shall be constructed of closed cell polyethylene strand as approved.
+    19. Bonding agent in first paragraph below may be used directly from container or as an admixture in cement or sand-cement slurry.
+    20. Bonding Agent:
+    21. ASTM C 1059, Type II, non-redispersible, acrylic emulsion or styrene butadiene.
+    22. Epoxy Bonding Adhesive:
+    23. ASTM C 881/C 881M, two-component epoxy resin capable of humid curing and bonding to damp surfaces; of class suitable for application temperature, of grade complying with requirements, and of the following types:
+    24. Retain one option in subparagraph below based on service loading.
+    25. Types I and II, non-load bearing or Types IV and V, load bearing, for bonding hardened or freshly mixed concrete to hardened concrete.
+    26. Retain first paragraph below for exposed-aggregate finish requiring surface retarder; this is not an evaporation retarder.
+    27. Chemical Surface Retarder:
+    28. Water-soluble, liquid, set retarder with color dye, for horizontal concrete surface application, capable of temporarily delaying final hardening of concrete to a depth of 1/8 to 1/4 inch.
+    29. Pigmented mineral dry-shake hardener in first paragraph below is nonmetallic and used because of its nonrusting characteristics for concrete that is frequently wet.
+    30. Insert product requirements here for permanent-marking tapes or thermoplastic paints if required. See Evaluations.
 
 ## Execution
 
@@ -204,8 +199,8 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Concrete', 'Paving
    1. Clean forms after each use and coat with form-release agent to ensure separation from concrete without damage.
    1. STEEL REINFORCEMENT
    1. Retain this article if steel-reinforced concrete paving is required; revise to suit Project.
-	1. General:
-      1. Comply with CRSI's "Manual of Standard Practice" for fabricating, placing, and supporting reinforcement.
+   1. General:
+   1. Comply with CRSI's "Manual of Standard Practice" for fabricating, placing, and supporting reinforcement.
    1. Clean reinforcement of loose rust and mill scale, earth, ice, or other bond-reducing materials.
    1. Arrange, space, and securely tie bars and bar supports to hold reinforcement in position during concrete placement. Maintain minimum cover to reinforcement.
    1. Install welded wire reinforcement in lengths as long as practicable. Lap adjoining pieces at least one full mesh, and lace splices with wire. Offset laps of adjoining widths to prevent continuous laps in either direction.
@@ -218,8 +213,8 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Concrete', 'Paving
    1. Install fabricated bar mats in lengths as long as practicable. Handle units to keep them flat and free of distortions. Straighten bends, kinks, and other irregularities, or replace units as required before placement. Set mats for a minimum 2-inch overlap of adjacent mats.
    1. JOINTS
    1. Coordinate joint types, descriptions, and locations with Drawings. Construction, isolation, and contraction joints and edging have been consolidated in this article for consistency rather than for strict sequence of installation.
-	1. General:
-      1. Form construction, isolation, and contraction joints and tool edges true to line, with faces perpendicular to surface plane of concrete. Construct transverse joints at right angles to centerline unless otherwise indicated.
+   1. General:
+   1. Form construction, isolation, and contraction joints and tool edges true to line, with faces perpendicular to surface plane of concrete. Construct transverse joints at right angles to centerline unless otherwise indicated.
    1. When joining existing paving, place transverse joints to align with previously placed joints unless otherwise indicated.
    1. Construction Joints:
       1. Set construction joints at side and end terminations of paving and at locations where paving operations are stopped for more than one-half hour unless paving terminates at isolation joints.
@@ -293,8 +288,8 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Concrete', 'Paving
    1. Fog-spray form, steel reinforcement, and subgrade just before placing concrete. Keep subgrade moisture uniform without standing water, soft spots, or dry areas.
    1. FLOAT FINISHING
    1. Retain first paragraph below. Some floating and troweling machines have watering attachments. Adding water weakens the concrete surface and can cause dusting and scaling.
-	1. General:
-      1. Do not add water to concrete surfaces during finishing operations.
+   1. General:
+   1. Do not add water to concrete surfaces during finishing operations.
    1. Initial floating operation is included in "Concrete Placement" Article.
    1. Float Finish:
       1. Begin the second floating operation when bleed-water sheen has disappeared and concrete surface has stiffened sufficiently to permit operations. Float surface with power-driven floats or by hand floating if area is small or inaccessible to power units. Finish surfaces to true planes. Cut down high spots and fill low spots. Refloat surface immediately to uniform granular texture.
@@ -305,7 +300,7 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Concrete', 'Paving
       1. Draw a soft-bristle broom across float-finished concrete surface perpendicular to line of traffic to provide a uniform, fine-line texture.
    1. Medium-to-Coarse-Textured Broom Finish:
       1. Provide a coarse finish by striating float-finished concrete surface 1/16 to 1/8 inch deep with a stiff-bristled broom, perpendicular to line of traffic.
-   1. Sandblast Finish 
+   1. Sandblast Finish
    1. Sandblasting Operations And Requirements:
       1. Apply sandblast finish to concrete where indicated on the drawings, as needed to match the approved mockup.
    1. Perform sandblasting at least 72 hours after placement of concrete. Coordinate with formwork construction, concrete placement schedule, and formwork removal to ensure that surfaces to be blast finished are blasted at the same age for uniform results.
@@ -316,7 +311,7 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Concrete', 'Paving
    1. Surface Continuity:
       1. Perform sandblasting finishing in as continuous an operation as possible, utilizing the same work crew to maintain continuity of finish on each surface or area of work. Maintain patterns of variances in depths of cuts as indicated.
    1. Protection and Repair:
-   1. Protect adjacent materials and finishes from dust, dirt, and other surface or physical damage during sandblasting operations. 
+   1. Protect adjacent materials and finishes from dust, dirt, and other surface or physical damage during sandblasting operations.
    1. Provide protection as required by local, state and federal codes and remove from site at the completion of the work.
    1. Repair or replace other work damaged by finishing operations.
    1. Clean-up:
@@ -325,8 +320,8 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Concrete', 'Paving
    1. Retain paragraph below if pigmented mineral dry-shake hardener finish is required. Use compatible curing compounds in lieu of moisture curing to prevent discoloration and staining.
    1. Insert requirements for concrete stain, pigmented sealer, or pigmented curing and sealing compound if pigment is required but pigmented mineral dry-shake hardener is not used for detectable warnings.
    1. CONCRETE PROTECTION AND CURING
-	1. General:
-      1. Protect freshly placed concrete from premature drying and excessive cold or hot temperatures.
+   1. General:
+   1. Protect freshly placed concrete from premature drying and excessive cold or hot temperatures.
    1. Comply with ACI 306.1 for cold-weather protection.
    1. If evaporation rate in first paragraph below is exceeded, ACI 305R states that plastic shrinkage cracking is probable. See manufacturers' literature or ACI 305R for estimated moisture-loss chart that relates relative humidity, air and concrete temperature, and wind velocity to rate of evaporation.
    1. Begin curing after finishing concrete but not before free water has disappeared from concrete surface.
@@ -385,5 +380,4 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Concrete', 'Paving
    1. Drill test cores, where directed by Architect, when necessary to determine magnitude of cracks or defective areas. Fill drilled core holes in satisfactory paving areas with portland cement concrete bonded to paving with epoxy adhesive.
    1. Protect concrete paving from damage. Exclude traffic from paving for at least 14 days after placement. When construction traffic is permitted, maintain paving as clean as possible by removing surface stains and spillage of materials as they occur.
    1. Maintain concrete paving free of stains, discoloration, dirt, and other foreign material. Sweep paving not more than two days before date scheduled for Substantial Completion inspections.
-32 13 13
-
+      32 13 13

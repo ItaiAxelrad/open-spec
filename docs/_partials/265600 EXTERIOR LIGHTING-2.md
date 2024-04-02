@@ -7,8 +7,6 @@ subgroup: Facility Services
 tags: ['Facility', 'Services', 'Electrical', 'EXTERIOR', 'LIGHTING']
 ---
 
-1. EXTERIOR LIGHTING
-
 ## General
 
 1. RELATED DOCUMENTS

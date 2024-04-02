@@ -4,8 +4,18 @@ section: '102800'
 divNumb: 10
 divName: Specialties
 subgroup: Facility Construction
-tags: ['Facility', 'Construction', 'Specialties', 'Toilet', 'Bath', 'Laundry', 'Accessories']
+tags:
+  [
+    'Facility',
+    'Construction',
+    'Specialties',
+    'Toilet',
+    'Bath',
+    'Laundry',
+    'Accessories',
+  ]
 ---
+
 ## General
 
 1. RELATED DOCUMENTS
@@ -20,13 +30,13 @@ tags: ['Facility', 'Construction', 'Specialties', 'Toilet', 'Bath', 'Laundry', '
    2. Product Schedule:
       1. Indicating types, quantities, sizes, and installation locations by room of each accessory required.
       2. Identify locations using room designations indicated.
-      3. Identify products using designations indicated. 
+      3. Identify products using designations indicated.
    3. Maintenance data.
 4. WARRANTY
    1. Special Mirror Warranty:
       1. Manufacturer's standard form in which manufacturer agrees to replace mirrors that develop visible silver spoilage defects and that fail in materials or workmanship within specified warranty period.
    2. Warranty Period:
-      1. 15 years from date of project completion. 
+      1. 15 years from date of project completion.
 
 ## Products
 
@@ -56,7 +66,7 @@ tags: ['Facility', 'Construction', 'Specialties', 'Toilet', 'Bath', 'Laundry', '
 3. FABRICATION
    1. Keys:
       1. Provide universal keys for internal access to accessories for servicing and resupplying.
-      2. Provide minimum of six keys to Owner's representative. 
+      2. Provide minimum of six keys to Owner's representative.
 
 ## Execution
 

@@ -4,9 +4,9 @@ section: '3213132'
 divNumb: 32
 divName: Exterior Improvements
 subgroup: Site and Infrastructure
-tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Concrete', 'Paving']
+tags:
+  ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Concrete', 'Paving']
 ---
-
 
 ## General
 
@@ -42,25 +42,25 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Concrete', 'Paving
 
 ## Products
 
-   1. MATERIALS
-   1. Concrete for paving, sidewalks and curb and gutter shall be:
-      1. As specified in Section 033000 - Cast In Place Concrete
-   1. 3000 psi
-   1. 5 1/2 sack
-   1. Air entrained
-   1. Medium broom finish.
-   1. Aggregate base course shall be:
-      1. Crushed gravel consisting of clear, hard, durable product
-   1. 3/4" Class 6, Department of Highway Standard Specification 703.03.
-   1. Soil sterilizer shall be a mixture consisting of 1 pound sodium chlorate and 2 pounds sodium borate per 1 gallon of water.
-   1. Lane Marking Paint:
-      1. Opaque White:
-         1. Matching Federal Standard 585 for white paint and having the daylight directional reflectance specified in FS TT-P-115f, Type I.
-   1. Yellow:
-      1. Match color chip No. 13538 of Federal Standard 595A with yellow color within the green and red tolerance limits when compared with the latest Highway Yellow Color Tolerance Chart, PR Color No. 1, U.S. Department of Transportation, Federal Highway Administration.
-   1. In-Laid Thermo-Plastic Markings:
-      1. Provide "Cata-Therm" by Cataphote, Inc., 1-800-221-2574, white reflective color, or approved substitute alkyd-based thermo-plastic material complying with AASHTO M249.
-   1. Provide drop-in glass beads which are skid-resistant and which comply with the local standards.
+1.  MATERIALS
+1.  Concrete for paving, sidewalks and curb and gutter shall be:
+    1. As specified in Section 033000 - Cast In Place Concrete
+1.  3000 psi
+1.  5 1/2 sack
+1.  Air entrained
+1.  Medium broom finish.
+1.  Aggregate base course shall be:
+    1. Crushed gravel consisting of clear, hard, durable product
+1.  3/4" Class 6, Department of Highway Standard Specification 703.03.
+1.  Soil sterilizer shall be a mixture consisting of 1 pound sodium chlorate and 2 pounds sodium borate per 1 gallon of water.
+1.  Lane Marking Paint:
+    1. Opaque White:
+       1. Matching Federal Standard 585 for white paint and having the daylight directional reflectance specified in FS TT-P-115f, Type I.
+1.  Yellow:
+    1. Match color chip No. 13538 of Federal Standard 595A with yellow color within the green and red tolerance limits when compared with the latest Highway Yellow Color Tolerance Chart, PR Color No. 1, U.S. Department of Transportation, Federal Highway Administration.
+1.  In-Laid Thermo-Plastic Markings:
+    1. Provide "Cata-Therm" by Cataphote, Inc., 1-800-221-2574, white reflective color, or approved substitute alkyd-based thermo-plastic material complying with AASHTO M249.
+1.  Provide drop-in glass beads which are skid-resistant and which comply with the local standards.
 
 ## Execution
 
@@ -89,6 +89,3 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Concrete', 'Paving
    1. Apply with mechanical equipment to produce a wet film thickness not less than 0.015" and 4" line widths unless otherwise required.
    1. Handicap Parking:
       1. International symbol for handicap parking.
-   
-    
-

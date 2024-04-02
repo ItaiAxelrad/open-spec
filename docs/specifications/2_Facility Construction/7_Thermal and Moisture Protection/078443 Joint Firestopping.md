@@ -4,7 +4,16 @@ section: '078443'
 divNumb: 7
 divName: Thermal and Moisture Protection
 subgroup: Facility Construction
-tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Joint', 'Firestopping']
+tags:
+  [
+    'Facility',
+    'Construction',
+    'Thermal',
+    'Moisture',
+    'Protection',
+    'Joint',
+    'Firestopping',
+  ]
 ---
 
 ## General
@@ -26,7 +35,7 @@ tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Joint',
    1. 2079 – Tests for Fire Resistance of Building Joint Systems.
    1. Fire Resistance Directory
    1. PERFORMANCE REQUIREMENTS
-	1. General:
+   1. General:
       1. For joints in the following constructions, provide fire-resistive joint systems that are produced and installed to resist spread of fire according to requirements indicated, resist passage of smoke and other gases, and maintain original fire-resistance rating of assembly in which fire-resistive joint systems are installed:
       1. Fire-resistance-rated load-bearing walls, including partitions, with fire rated openings.
    1. Fire-resistance-rated non-load-bearing walls, including partitions, with fire rated openings.
@@ -87,67 +96,67 @@ tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Joint',
 
 ## Products
 
-   1. MANUFACTURERS
-   1. Subject to compliance with requirements, provide products by one of the following:
-      1. Fire-Resistive Joint Systems:
-            1. International Protective Coatings Corp.
-   1. Johns Manville.
-   1. Nelson Firestop Products.
-   1. Specified Technologies Inc.
-   1. 3M Fire Protection Products.
-   1. Tremco, Inc.
-   1. Perimeter Fire-Containment Systems:
-      1. International Protective Coatings Corp.
-   1. Johns Manville.
-   1. Specified Technologies Inc.
-   1. 3M Fire Protection Products.
-   1. USG Corp.
-   1. FIRE-RESISTIVE JOINT SYSTEMS
+1.  MANUFACTURERS
+1.  Subject to compliance with requirements, provide products by one of the following:
+    1. Fire-Resistive Joint Systems:
+       1. International Protective Coatings Corp.
+1.  Johns Manville.
+1.  Nelson Firestop Products.
+1.  Specified Technologies Inc.
+1.  3M Fire Protection Products.
+1.  Tremco, Inc.
+1.  Perimeter Fire-Containment Systems:
+    1. International Protective Coatings Corp.
+1.  Johns Manville.
+1.  Specified Technologies Inc.
+1.  3M Fire Protection Products.
+1.  USG Corp.
+1.  FIRE-RESISTIVE JOINT SYSTEMS
 
 ## General
 
-   1. Provide fire-resistive joint systems that are compatible with joint substrates, under conditions of service and application, as demonstrated by fire-resistive joint system manufacturer based on testing and field experience.
-   1. Provide components of fire-resistive joint systems, including forming materials, that are needed to install fill materials and to comply with Part 1 "Performance Requirements" Article. Use only components specified by fire-resistive joint system manufacturer and approved by the qualified testing and inspecting agency for systems indicated.
-   1. Where UL-classified fire-resistive joint systems are indicated, they refer to alphanumeric designations listed in the UL “Fire Resistance Directory" under product Category XHBN.
-   1. Floor-to-Wall, Fire-Resistive Joint System:
-      1. UL-Classified Products:
-         1. FW-D – 1000 Series.
-   1. Assembly Rating:
-      1. See code plans.
-   1. Joint Width:
-      1. 100 mm (4 inches) maximum
-   1. Movement Capabilities:
-      1. Class II – 25 percent compression and/or extension.
-   1. Head-of-Wall, Fire-Resistive Joint System :
-      1. UL-Classified Products:
-         1. HW-D – 0000 Series or 1000 Series
-   1. Assembly Rating:
-      1. See code plans.
-   1. Joint Width:
-      1. 19 mm (¾ inch) for 0000 Series, 100 mm (4 inches) maximum for 1000 Series.
-   1. Movement Capabilities:
-      1. Class II - 33 percent compression and/or extension. for 0000 Series, 12.5 percent compression and/or extension for 1000 Series.
-   1. Wall-to-Wall, Fire-Resistive Joint System :
-      1. UL-Classified Products:
-         1. WW-D – 1000 Series
-   1. Assembly Rating:
-      1. See code plans.
-   1. Joint Width:
-      1. 100 mm (4 inches) maximum.
-   1. Movement Capabilities:
-      1. Class II - 25 percent compression and/or extension.
-   1. PERIMETER FIRE-CONTAINMENT SYSTEMS
-   1. Where UL-classified perimeter fire-containment systems (or safing insulation) are indicated, they refer to alphanumeric designations listed in the UL "Fire Resistance Directory" under product Category XHDG.
-   1. Perimeter Fire-Containment System
-   1. UL-Classified or Omega Point-Classified Products:
-      1. CW-S 1000 Series (UL)
-   1. CEJ – 100 Series (Omega Point)
-   1. Integrity Rating:
-      1. See code plans.
-   1. Insulation Rating:
-      1. 1 hour.
-   1. Linear Opening Width:
-      1. 200 mm (8 inches) maximum.
+1.  Provide fire-resistive joint systems that are compatible with joint substrates, under conditions of service and application, as demonstrated by fire-resistive joint system manufacturer based on testing and field experience.
+1.  Provide components of fire-resistive joint systems, including forming materials, that are needed to install fill materials and to comply with Part 1 "Performance Requirements" Article. Use only components specified by fire-resistive joint system manufacturer and approved by the qualified testing and inspecting agency for systems indicated.
+1.  Where UL-classified fire-resistive joint systems are indicated, they refer to alphanumeric designations listed in the UL “Fire Resistance Directory" under product Category XHBN.
+1.  Floor-to-Wall, Fire-Resistive Joint System:
+    1. UL-Classified Products:
+       1. FW-D – 1000 Series.
+1.  Assembly Rating:
+    1. See code plans.
+1.  Joint Width:
+    1. 100 mm (4 inches) maximum
+1.  Movement Capabilities:
+    1. Class II – 25 percent compression and/or extension.
+1.  Head-of-Wall, Fire-Resistive Joint System :
+    1. UL-Classified Products:
+       1. HW-D – 0000 Series or 1000 Series
+1.  Assembly Rating:
+    1. See code plans.
+1.  Joint Width:
+    1. 19 mm (¾ inch) for 0000 Series, 100 mm (4 inches) maximum for 1000 Series.
+1.  Movement Capabilities:
+    1. Class II - 33 percent compression and/or extension. for 0000 Series, 12.5 percent compression and/or extension for 1000 Series.
+1.  Wall-to-Wall, Fire-Resistive Joint System :
+    1. UL-Classified Products:
+       1. WW-D – 1000 Series
+1.  Assembly Rating:
+    1. See code plans.
+1.  Joint Width:
+    1. 100 mm (4 inches) maximum.
+1.  Movement Capabilities:
+    1. Class II - 25 percent compression and/or extension.
+1.  PERIMETER FIRE-CONTAINMENT SYSTEMS
+1.  Where UL-classified perimeter fire-containment systems (or safing insulation) are indicated, they refer to alphanumeric designations listed in the UL "Fire Resistance Directory" under product Category XHDG.
+1.  Perimeter Fire-Containment System
+1.  UL-Classified or Omega Point-Classified Products:
+    1. CW-S 1000 Series (UL)
+1.  CEJ – 100 Series (Omega Point)
+1.  Integrity Rating:
+    1. See code plans.
+1.  Insulation Rating:
+    1. 1 hour.
+1.  Linear Opening Width:
+    1. 200 mm (8 inches) maximum.
 
 ## Execution
 
@@ -165,7 +174,7 @@ tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Joint',
    1. Masking Tape:
       1. Use masking tape to prevent fill materials of fire-resistive joint system from contacting adjoining surfaces that will remain exposed on completion of Work and that would otherwise be permanently stained or damaged by such contact or by cleaning methods used to remove smears from fire-resistive joint system materials. Remove tape as soon as possible without disturbing fire-resistive joint system's seal with substrates.
 1. INSTALLATION
-	1. General:
+   1. General:
       1. Install fire-resistive joint systems to comply with Part 1 "Performance Requirements" Article and fire-resistive joint system manufacturer's written installation instructions for products and applications indicated.
    1. Install forming/packing/backing materials and other accessories of types required to support fill materials during their application and in position needed to produce cross-sectional shapes and depths required to achieve fire ratings indicated.
    1. Install fill materials for fire-resistive joint systems by proven techniques to produce the following results:
@@ -181,5 +190,3 @@ tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Joint',
 1. CLEANING AND PROTECTION
    1. Clean off excess fill materials adjacent to joints as Work progresses by methods and with cleaning materials that are approved in writing by fire-resistive joint system manufacturers and that do not damage materials in which openings occur.
    1. Provide final protection and maintain conditions during and after installation that ensure fire-resistive joint systems are without damage or deterioration at time of Substantial Completion. If damage or deterioration occurs despite such protection, cut out and remove damaged or deteriorated fire-resistive joint systems immediately and install new materials to produce fire-resistive joint systems complying with specified requirements.
-
-

@@ -4,9 +4,9 @@ section: '210500'
 divNumb: 21
 divName: Fire Suppression
 subgroup: Facility Services
-tags: ['Facility', 'Services', 'Fire', 'Suppression', 'Common', 'Work', 'Results']
+tags:
+  ['Facility', 'Services', 'Fire', 'Suppression', 'Common', 'Work', 'Results']
 ---
-
 
 ## General
 
@@ -59,26 +59,26 @@ tags: ['Facility', 'Services', 'Fire', 'Suppression', 'Common', 'Work', 'Results
    1. Manufacturers Standardization Society of the Valve and Fittings Industry, Inc.(MSS):
       1. SP-80 – Bronze Gate, Globe, Angle and Check Valves.
    1. National Fire Protection Association (NFPA):
-      1. 13 - Installation of Sprinkler Systems 
+      1. 13 - Installation of Sprinkler Systems
    1. 14 - Installation of Standpipe, Private Hydrant, and Hose Systems
-   1. 24 - Installation of Private Fire Service Mains 
-   1. 70 - National Electrical Code. 
-   1. 291 – Fire Flow Testing and Marking of Hydrants. 
+   1. 24 - Installation of Private Fire Service Mains
+   1. 70 - National Electrical Code.
+   1. 291 – Fire Flow Testing and Marking of Hydrants.
    1. 1963 – Fire Hose Connections.
    1. Underwriters Laboratories Inc. (UL):
       1. Fire Protection Equipment Directory.
    1. 45 – Portable Electric Tools.
-   1. 213 – Rubber-Gasketed Fittings for Fire Protection Service. 
+   1. 213 – Rubber-Gasketed Fittings for Fire Protection Service.
    1. 262 - Gate Valves for Fire Protection Service.
    1. 312 – Check Valves for Fire Protection Service.
    1. 405 – Fire Department Connections.
    1. 789 – Indicator Posts for Fire Protection Service.
-   1. 1091 – Butterfly Valves for Fire Protection Service 
+   1. 1091 – Butterfly Valves for Fire Protection Service
    1. 1821 – Thermo-Plastic Sprinkler Pipe and Fittings for Fire Protection Service.
 1. SUBMITTALS
    1. Shop Drawings, Product Data and Samples:
-      1. Submit Shop Drawings, Product Data and Samples for the materials, equipment and systems (products) so specified elsewhere in Division 21sections of the Specifications. 
-   1. See Division 1 sections of the Specifications for submittal requirements and for product options and substitutions. 
+      1. Submit Shop Drawings, Product Data and Samples for the materials, equipment and systems (products) so specified elsewhere in Division 21sections of the Specifications.
+   1. See Division 1 sections of the Specifications for submittal requirements and for product options and substitutions.
    1. Shop Drawings and Product Data:
       1. Before any Work is commenced, the following:
          1. Shop Drawings, sprinkler system hydraulic calculations including standpipe pressure and flow, material and equipment lists and full descriptive data for each system for approval to:
@@ -86,13 +86,13 @@ tags: ['Facility', 'Services', 'Fire', 'Suppression', 'Common', 'Work', 'Results
    1. Owner
    1. Architect
    1. Obtain approval of Shop Drawings, hydraulic calculations, and Product Data from the Fire Marshal prior to submission to the Owner and the Architect.
-   1. Partial submittals are not acceptable. 
-   1. Include in Shop Drawings reflected ceiling plans showing sprinkler head locations. 
+   1. Partial submittals are not acceptable.
+   1. Include in Shop Drawings reflected ceiling plans showing sprinkler head locations.
    1. Submit sprinkler drawings which are legible and show:
-      1. Exact piping arrangement and show all pipe lengths, valves, fittings and sizes. 
-   1. Section views and sufficient notes to provide full descriptive data for review, except for flow-requirements which shall be shown on calculation sheets. 
+      1. Exact piping arrangement and show all pipe lengths, valves, fittings and sizes.
+   1. Section views and sufficient notes to provide full descriptive data for review, except for flow-requirements which shall be shown on calculation sheets.
    1. Standpipe system type and class.
-   1. Coordination with all drawings is required for bidding and installation. 
+   1. Coordination with all drawings is required for bidding and installation.
    1. Submit manufacturers data sheets on all system components including the following:
       1. Underground pipe and fittings
    1. Underground valves
@@ -120,67 +120,68 @@ tags: ['Facility', 'Services', 'Fire', 'Suppression', 'Common', 'Work', 'Results
    1. Full load speeds (fpm).
    1. Enclosure type (ODP, TEFC, explosion proof, TENV, WPI, etc.).
 
-*Note: All tests (except locked rotor current) shall be made at full voltage and rated frequency.*
-   1. Motor Controllers:
-      1. Torque, speed, and horsepower requirements of the load.
-   1. Rating and characteristics of supply circuit and required control sequence.
-   1. Ambient and environmental conditions of installation location.
-   1. Capacitor size (KVAR) for maximum power factor correction at 95% lagging.
-   1. Fire-Hydrant Flow Test Report:
-      1. As specified in "Preparation" Article in Part 3 of this section.
-   1. Approved Sprinkler Piping Drawings:
-      1. Working plans, prepared according to NFPA 13, that have been approved by authorities having jurisdiction. Include hydraulic calculations.
-   1. Field Test Reports and Certificates:
-      1. Indicate and interpret test results for compliance with performance requirements and as described in NFPA 13 and NFPA 14. Include "Contractor's Material and Test Certificate for Aboveground Piping" and "Contractor's Material and Test Certificate for Underground Piping."
-   1. Maintenance Data:
-      1. For each type of standpipe and sprinkler specialty to include in maintenance manuals specified in Division 1sections of the Specifications.
-   1. Record Drawings:
-      1. Upon completion of the Work, provide a complete set of reproducible record drawings of each fire protection system on mylar film with title block similar to full size Project Drawings. 
-   1. Operation and Maintenance Manuals:
-   1. Submit operation and maintenance manuals for each mechanical system, except as otherwise specified herein, and for each piece of equipment. 
-   1. Submit 1 draft copy of each manual at least 15 days before requesting inspection for Substantial completion. Include a complete operation and maintenance directory. Architect will return the copy indicating whether scope and general content of manuals are acceptable.
-   1. Include the names, addresses, and telephone numbers of each subcontractor installing equipment and systems and of local representatives for each item of equipment and each system. Provide a table of contents and assemble the manual to conform to the table of contents with the tab sheets placed before instructions covering the subject. Instruction sheets shall be legible and easy to read, with large sheets of drawings folded in. 
-   1. Include the following in the manual:
-   1. A system description and layout showing piping, valves, and controls
-   1. Wiring and control diagrams with data to explain detailed operation and control of each component
-   1. A control sequence describing start-up, operation and shutdown
-   1. A detailed description of the function of each principal component of the system 
-   1. The procedure for starting
-   1. The procedure for operation 
-   1. Shutdown instructions
-   1. Installation instructions 
-   1. Maintenance and overhaul instructions
-   1. Lubrication schedule including type, grade, temperature range, and frequency 
-   1. Safety precautions, diagrams, and illustrations 
-   1. Test procedures 
-   1. Performance data 
-   1. Parts lists
-   1. In the parts lists for equipment, indicate the sources of supply, recommended spare parts, and the service organization which is reasonably convenient to the building site. 
-   1. Provide the manual complete in all respects for all equipment, controls, accessories, and associated appurtenances provided. 
-1. QUALITY ASSURANCE
-   1. Installer Qualifications:
-      1. An experienced installer who has designed and installed fire-suppression piping similar to that indicated for this Project and obtained design approval and inspection approval from authorities having jurisdiction.
-   1. Engineering Responsibility:
-      1. Preparation of working plans, calculations, and field test reports by a qualified professional engineer. Base calculations on results of fire-hydrant flow test.
-   1. Professional Engineer Qualifications:
-      1. A professional engineer who is legally qualified to practice in jurisdiction where Project is located and who is experienced in providing engineering services of the kind indicated. Engineering services are defined as those performed for installations of fire-suppression piping that are similar to those indicated for this Project in material, design, and extent.
-   1. Manufacturer Qualifications:
-      1. Firms whose equipment, specialties, and accessories are listed by product name and manufacturer in UL's "Fire Protection Equipment Directory" and FM's "Fire Protection Approval Guide" and that comply with other requirements indicated.
-   1. Standpipe and Sprinkler Components:
-      1. Listing/approval stamp, label, or other marking by a testing agency acceptable to authorities having jurisdiction.
-   1. Electrical Components, Devices, and Accessories:
-      1. Listed and labeled as defined in NFPA 70, Article 100, by a testing agency acceptable to authorities having jurisdiction.
-   1. NFPA Standards:
-      1. Equipment, specialties, accessories, installation, and testing complying with NFPA 13, 13R, 14, and 230.
-1. warranty
-	1. General:
-      1. Submit Special Warranties for the products so specified elsewhere in Divisions 21 sections of the Specifications. 
-   1. Submit Statements of Compliance for the products so specified elsewhere in Divisions 2, and 21 sections of the Specifications. 
-   1. Service During Contract Correction Period:
-      1. In the event of the failure of any system or its component equipment items or the improper functioning thereof, within the period provided in The Conditions of the Contract for correction of the Work, or within such longer period of time as may be prescribed by law or by the terms of any applicable special warranty required elsewhere in Division 21 sections of the Specifications, have available and "on call" within eight hours or less, competent service personnel for the restoration of systems and equipment for complete operation. 
-   1. Should the nature of the failure be such as to present an emergency, in the opinion of the Owner, make such personnel promptly available, regardless of the hour of the day or the day of the week. 
-   1. Should the failure be such as to fall under this warranty, pay the cost of the services; otherwise the Owner will pay for such service at the prevailing rate. 
-   1. Should the Contractor fail to make such service personnel available "on call" within eight hours or less, the Owner may employ such personnel as are available to the Owner, at the expense of the Contractor. 
+_Note: All tests (except locked rotor current) shall be made at full voltage and rated frequency._
+
+1.  Motor Controllers:
+    1. Torque, speed, and horsepower requirements of the load.
+1.  Rating and characteristics of supply circuit and required control sequence.
+1.  Ambient and environmental conditions of installation location.
+1.  Capacitor size (KVAR) for maximum power factor correction at 95% lagging.
+1.  Fire-Hydrant Flow Test Report:
+    1. As specified in "Preparation" Article in Part 3 of this section.
+1.  Approved Sprinkler Piping Drawings:
+    1. Working plans, prepared according to NFPA 13, that have been approved by authorities having jurisdiction. Include hydraulic calculations.
+1.  Field Test Reports and Certificates:
+    1. Indicate and interpret test results for compliance with performance requirements and as described in NFPA 13 and NFPA 14. Include "Contractor's Material and Test Certificate for Aboveground Piping" and "Contractor's Material and Test Certificate for Underground Piping."
+1.  Maintenance Data:
+    1. For each type of standpipe and sprinkler specialty to include in maintenance manuals specified in Division 1sections of the Specifications.
+1.  Record Drawings:
+    1. Upon completion of the Work, provide a complete set of reproducible record drawings of each fire protection system on mylar film with title block similar to full size Project Drawings.
+1.  Operation and Maintenance Manuals:
+1.  Submit operation and maintenance manuals for each mechanical system, except as otherwise specified herein, and for each piece of equipment.
+1.  Submit 1 draft copy of each manual at least 15 days before requesting inspection for Substantial completion. Include a complete operation and maintenance directory. Architect will return the copy indicating whether scope and general content of manuals are acceptable.
+1.  Include the names, addresses, and telephone numbers of each subcontractor installing equipment and systems and of local representatives for each item of equipment and each system. Provide a table of contents and assemble the manual to conform to the table of contents with the tab sheets placed before instructions covering the subject. Instruction sheets shall be legible and easy to read, with large sheets of drawings folded in.
+1.  Include the following in the manual:
+1.  A system description and layout showing piping, valves, and controls
+1.  Wiring and control diagrams with data to explain detailed operation and control of each component
+1.  A control sequence describing start-up, operation and shutdown
+1.  A detailed description of the function of each principal component of the system
+1.  The procedure for starting
+1.  The procedure for operation
+1.  Shutdown instructions
+1.  Installation instructions
+1.  Maintenance and overhaul instructions
+1.  Lubrication schedule including type, grade, temperature range, and frequency
+1.  Safety precautions, diagrams, and illustrations
+1.  Test procedures
+1.  Performance data
+1.  Parts lists
+1.  In the parts lists for equipment, indicate the sources of supply, recommended spare parts, and the service organization which is reasonably convenient to the building site.
+1.  Provide the manual complete in all respects for all equipment, controls, accessories, and associated appurtenances provided.
+1.  QUALITY ASSURANCE
+    1.  Installer Qualifications:
+        1. An experienced installer who has designed and installed fire-suppression piping similar to that indicated for this Project and obtained design approval and inspection approval from authorities having jurisdiction.
+    1.  Engineering Responsibility:
+        1. Preparation of working plans, calculations, and field test reports by a qualified professional engineer. Base calculations on results of fire-hydrant flow test.
+    1.  Professional Engineer Qualifications:
+        1. A professional engineer who is legally qualified to practice in jurisdiction where Project is located and who is experienced in providing engineering services of the kind indicated. Engineering services are defined as those performed for installations of fire-suppression piping that are similar to those indicated for this Project in material, design, and extent.
+    1.  Manufacturer Qualifications:
+        1. Firms whose equipment, specialties, and accessories are listed by product name and manufacturer in UL's "Fire Protection Equipment Directory" and FM's "Fire Protection Approval Guide" and that comply with other requirements indicated.
+    1.  Standpipe and Sprinkler Components:
+        1. Listing/approval stamp, label, or other marking by a testing agency acceptable to authorities having jurisdiction.
+    1.  Electrical Components, Devices, and Accessories:
+        1. Listed and labeled as defined in NFPA 70, Article 100, by a testing agency acceptable to authorities having jurisdiction.
+    1.  NFPA Standards:
+        1. Equipment, specialties, accessories, installation, and testing complying with NFPA 13, 13R, 14, and 230.
+1.  warranty
+    1. General:
+       1. Submit Special Warranties for the products so specified elsewhere in Divisions 21 sections of the Specifications.
+    1. Submit Statements of Compliance for the products so specified elsewhere in Divisions 2, and 21 sections of the Specifications.
+    1. Service During Contract Correction Period:
+       1. In the event of the failure of any system or its component equipment items or the improper functioning thereof, within the period provided in The Conditions of the Contract for correction of the Work, or within such longer period of time as may be prescribed by law or by the terms of any applicable special warranty required elsewhere in Division 21 sections of the Specifications, have available and "on call" within eight hours or less, competent service personnel for the restoration of systems and equipment for complete operation.
+    1. Should the nature of the failure be such as to present an emergency, in the opinion of the Owner, make such personnel promptly available, regardless of the hour of the day or the day of the week.
+    1. Should the failure be such as to fall under this warranty, pay the cost of the services; otherwise the Owner will pay for such service at the prevailing rate.
+    1. Should the Contractor fail to make such service personnel available "on call" within eight hours or less, the Owner may employ such personnel as are available to the Owner, at the expense of the Contractor.
 
 ## Products
 
@@ -202,7 +203,7 @@ tags: ['Facility', 'Services', 'Fire', 'Suppression', 'Common', 'Work', 'Results
       1. ASTM A135 or ASTM A795, lightwall, with wall thickness less than Schedule 10 and greater than Schedule 5.
    1. Schedule 5 Steel Pipe:
       1. ASTM A135 or ASTM A795, lightwall.
-   1. Hot-Dip galvanize in accordance with ASTM A795 coating specifications sprinkler piping and fittings used in dry-pipe systems, exposed to the weather or used in a corrosive atmosphere (where noted on Drawings). 
+   1. Hot-Dip galvanize in accordance with ASTM A795 coating specifications sprinkler piping and fittings used in dry-pipe systems, exposed to the weather or used in a corrosive atmosphere (where noted on Drawings).
    1. Submit mill certificates verifying that the products submitted meet the above criteria.
    1. Hot-dip galvanize metallic components of all hangers and supports.
    1. As an alternate to solid piping offsets in sprinkler piping drops to attain center of ceiling tile locations, the following flexible system is acceptable:
@@ -225,8 +226,8 @@ tags: ['Facility', 'Services', 'Fire', 'Suppression', 'Common', 'Work', 'Results
    1. Steel, Press-Seal Fittings:
       1. UL 213 and FM-approved, 175-psig pressure rating; with steel housing, butylene O-rings, and pipe stop; for use with Schedule 5, plain-end, steel pipe. Include UL 45-listed fitting manufacturer's pressure-sealing tools.
    1. Above Ground Fire Protection Service Valves:
-	1. General:
-         1. UL listed and FM approved, with minimum 175-psig nonshock working-pressure rating. Valves for grooved-end piping may be furnished with grooved ends instead of type of ends specified.
+   1. General:
+      1. UL listed and FM approved, with minimum 175-psig nonshock working-pressure rating. Valves for grooved-end piping may be furnished with grooved ends instead of type of ends specified.
    1. Gate Valves, NPS 2 and Smaller:
       1. UL 262; cast-bronze, threaded ends; solid wedge; OS&Y; and rising stem.
    1. Indicating Valves, NPS 2-1/2 and Smaller:
@@ -271,19 +272,19 @@ tags: ['Facility', 'Services', 'Fire', 'Suppression', 'Common', 'Work', 'Results
       1. In the sprinkler/standpipe riser as part of the alarm valve trim.
    1. Adjacent to each sprinkler zone control valve.
 1. SUPERVISORY TAMPER SWITCHES
-   1. Provide UL listed and FM approved supervisory tamper switches on all manually operated valves whose position could impair any part or all of sprinkler system operation. 
+   1. Provide UL listed and FM approved supervisory tamper switches on all manually operated valves whose position could impair any part or all of sprinkler system operation.
    1. Provide switches with single or double-pole, double-throw contacts rated at 1.0 amps, 120 volts, 60 hertz, ac and 0.25 amps, 24 volts dc. Coordinate with Division 28 sections of the Specifications to determine the exact electrical requirements of the supervisory tamper switches to ensure their compatibility with the fire alarm system.
    1. Provide switches with a gasketed, watertight wiring compartment coverplate.
    1. Wiring of switches into the fire alarm system is specified elsewhere in Division 21 sections of the Specifications.
    1. Provide supervisory tamper switches on any of the following type valves:
-      1. Post indicator valves (piv) *
+      1. Post indicator valves (piv) \*
    1. Outside screw and yoke (os&y) valves.
    1. Butterfly valves
    1. Plug valves
    1. Lever-operated ball valves.
-1. Post indicator valves shall have an indicator, visible through an opening in the post that shows whether the valve is opened or closed.*
+1. Post indicator valves shall have an indicator, visible through an opening in the post that shows whether the valve is opened or closed.\*
 1. ALARM VALVE
-	1. Provide a UL-listed and FM-approved alarm check valve, rated at a minimum of 300 psig working pressure, capable of being installed vertically or horizontally. Provide valve body of ductile iron with flanged or grooved connections. Provide valve with a brass seat, and single hinge pin and latch design. Provide variable pressure trim set with retard chamber, drain connections, pressure gauges, and connections for water motor gong alarm. Do not discharge the drip cup assembly into the main drain piping. The Viking Corp. "Model J-1", or as approved.
+   1. Provide a UL-listed and FM-approved alarm check valve, rated at a minimum of 300 psig working pressure, capable of being installed vertically or horizontally. Provide valve body of ductile iron with flanged or grooved connections. Provide valve with a brass seat, and single hinge pin and latch design. Provide variable pressure trim set with retard chamber, drain connections, pressure gauges, and connections for water motor gong alarm. Do not discharge the drip cup assembly into the main drain piping. The Viking Corp. "Model J-1", or as approved.
 1. FIRE DEPARTMENT CONNECTIONS
    1. Wall, Fire Department Connections:
       1. UL 405; cast-brass body with brass, wall, escutcheon plate; brass, lugged caps with gaskets and brass chains; and brass, lugged swivel connections. Include inlets with threads according to NFPA 1963 and matching local fire department sizes and threads, outlet with pipe threads, extension pipe nipples, check devices or clappers for inlets, and escutcheon plate with marking "AUTO SPKR & STANDPIPE."
@@ -297,9 +298,9 @@ tags: ['Facility', 'Services', 'Fire', 'Suppression', 'Common', 'Work', 'Results
       1. UL 405, cast-brass body, inlets with threads according to NFPA 1963 and matching local fire department sizes and threads, and bottom outlet with pipe threads. Include brass, lugged caps, gaskets, and brass chains; brass, lugged swivel connection and drop clapper for each hose-connection inlet; 18-inch-high brass sleeve; and round, floor, brass, escutcheon plate with marking "AUTO SPKR & STANDPIPE."
    1. Finish Including Sleeve:
       1. Polished brass.
-1. ELECTRIC MOTORS*	1. General:
-      1. All motors (except as noted) shall conform to the following specifications:
-      1. Comply with requirements in this Section except when stricter requirements are specified in fire suppression equipment schedules or sections.
+1. ELECTRIC MOTORS\* 1. General:
+   1. All motors (except as noted) shall conform to the following specifications:
+   1. Comply with requirements in this Section except when stricter requirements are specified in fire suppression equipment schedules or sections.
    1. 1/2 hp and Small:
       1. Single-phase.
    1. Larger than 1/2 hp shall be three-phase, except where specifically noted otherwise
@@ -314,88 +315,91 @@ tags: ['Facility', 'Services', 'Fire', 'Suppression', 'Common', 'Work', 'Results
 
 ## General
 
- purpose NEMA MG 1, Design B, except “C” where required for high starting torque, medium induction motor.
-   1. NEMA Premium Efficiency, as defined in NEMA MG 1 when available, otherwise energy efficient.
-   1. Service Factor:
-      1.15.
-   1. Multi-speed Motors:
-      1. Separate winding for each speed.
-   1. Rotor:
-      1. Random-wound, copper windings, squirrel cage.
-   1. Bearings:
-      1. Regreasable, shielded, antifriction ball bearings suitable for radial and thrust loading, minimum 40,000 hour L 10 life.
-   1. Sleeve type bearings are permitted for fractional horsepower and light-duty motors.
-   1. Code Letter Designation:
-      1. Motors 15 hp and Larger:
-         1. NEMA starting Code F or Code G.
-   1. Motors Smaller than 15 hp:
-      1. Manufacturer’s standard starting characteristic.
-   1. Enclosure
-   1. Material:
-      1. Cast iron for motor frame sizes 324T and larger; rolled steel for motor frame sizes smaller than 324T.
-   1. Open drip-proof motors for indoor use where satisfactorily housed and properly ventilated during operation.
-   1. Weather protected Type I for outdoor use when enclosed or housed with adequate ventilation, or TEFC when exposed to weather or moist locations.
-   1. Special enclosures required for hazardous areas (explosion-proof, etc.) per equipment schedules. Explosion-proof motors shall be UL listed.
-   1. Motor Selection Criteria:
-      1. Motor size shall be large enough so that the driven load will not require the motor to operate above 80% of its rated horsepower. Minimum horsepower ratings are shown or scheduled on the drawings.
-   1. Pump motors shall be “non-overloading”; i.e. shall not operate in service factor at any point on pump curve.
-   1. Polyphase Motors with Additional Requirements:
-      1. Motors Used with Reduced-Voltage and Multi-speed Controllers:
-         1. Match wiring connection requirements for controller with required motor leads. Provide terminals in motor terminal box, suited to control method.
-   1. Motors Used with Variable Frequency Controllers:
-      1. Ratings, characteristics, and features coordinated with and approved by controller manufacturer.
-   1. Windings:
-      1. Copper magnet wire with moisture-resistant insulation varnish, designed and tested to resist transient spikes, high frequencies, and short time rise pulses produced by pulse-width modulated inverters.
-   1. Energy- and Premium-Efficient Motors:
-      1. Class B temperature rise; Class F insulation.
-   1. Inverter-Duty Motors:
-      1. Class F temperature rise; Class H insulation.
-   1. Thermal Protection:
-      1. Comply with NEMA MG 1 requirements for thermally protected motors.
-   1. Single Phase Motors:
-   1. Motors shall be one of the following, to suit starting torque and requirements of specific motor application:
-      1. Permanent-split capacitor.
-   1. Spilt phase.
-   1. Multi-speed Motors:
-      1. Variable-torque, permanent-split-capacitor type.
-   1. Bearings:
-      1. Pre-lubricated, antifriction ball bearings or sleeve bearings suitable for radial and thrust loading.
-   1. Thermal Protection:
-      1. Internal protection to automatically open power supply circuit to motor when winding temperature exceeds a safe value calibrated to temperature rating of motor insulation. Thermal-protection device shall automatically reset when motor temperature returns to normal range.
-1. POWER FACTOR CORRECTION
-	1. Capacitors shall be installed on all motors 25 hp and larger that have an uncorrected power factor of less than 90% at rated load. KVAR size shall be as required to correct motor power factor to 95% lagging.
-   1. Capacitors shall have:
-      1. Individual unit cells
-   1. All welded steel housings
-   1. Non-flammable synthetic liquid impregnant
-   1. Craft tissue insulation
-   1. Aluminum foil electrodes
-   1. Each capacitor shall be internally fused. 
-1. MOTOR CONTROLLERS*
+purpose NEMA MG 1, Design B, except “C” where required for high starting torque, medium induction motor.
+
+1.  NEMA Premium Efficiency, as defined in NEMA MG 1 when available, otherwise energy efficient.
+1.  Service Factor:
+    1.15.
+1.  Multi-speed Motors:
+    1. Separate winding for each speed.
+1.  Rotor:
+    1. Random-wound, copper windings, squirrel cage.
+1.  Bearings:
+    1. Regreasable, shielded, antifriction ball bearings suitable for radial and thrust loading, minimum 40,000 hour L 10 life.
+1.  Sleeve type bearings are permitted for fractional horsepower and light-duty motors.
+1.  Code Letter Designation:
+    1. Motors 15 hp and Larger:
+       1. NEMA starting Code F or Code G.
+1.  Motors Smaller than 15 hp:
+    1. Manufacturer’s standard starting characteristic.
+1.  Enclosure
+1.  Material:
+    1. Cast iron for motor frame sizes 324T and larger; rolled steel for motor frame sizes smaller than 324T.
+1.  Open drip-proof motors for indoor use where satisfactorily housed and properly ventilated during operation.
+1.  Weather protected Type I for outdoor use when enclosed or housed with adequate ventilation, or TEFC when exposed to weather or moist locations.
+1.  Special enclosures required for hazardous areas (explosion-proof, etc.) per equipment schedules. Explosion-proof motors shall be UL listed.
+1.  Motor Selection Criteria:
+    1. Motor size shall be large enough so that the driven load will not require the motor to operate above 80% of its rated horsepower. Minimum horsepower ratings are shown or scheduled on the drawings.
+1.  Pump motors shall be “non-overloading”; i.e. shall not operate in service factor at any point on pump curve.
+1.  Polyphase Motors with Additional Requirements:
+    1. Motors Used with Reduced-Voltage and Multi-speed Controllers:
+       1. Match wiring connection requirements for controller with required motor leads. Provide terminals in motor terminal box, suited to control method.
+1.  Motors Used with Variable Frequency Controllers:
+    1. Ratings, characteristics, and features coordinated with and approved by controller manufacturer.
+1.  Windings:
+    1. Copper magnet wire with moisture-resistant insulation varnish, designed and tested to resist transient spikes, high frequencies, and short time rise pulses produced by pulse-width modulated inverters.
+1.  Energy- and Premium-Efficient Motors:
+    1. Class B temperature rise; Class F insulation.
+1.  Inverter-Duty Motors:
+    1. Class F temperature rise; Class H insulation.
+1.  Thermal Protection:
+    1. Comply with NEMA MG 1 requirements for thermally protected motors.
+1.  Single Phase Motors:
+1.  Motors shall be one of the following, to suit starting torque and requirements of specific motor application:
+    1. Permanent-split capacitor.
+1.  Spilt phase.
+1.  Multi-speed Motors:
+    1. Variable-torque, permanent-split-capacitor type.
+1.  Bearings:
+    1. Pre-lubricated, antifriction ball bearings or sleeve bearings suitable for radial and thrust loading.
+1.  Thermal Protection:
+    1. Internal protection to automatically open power supply circuit to motor when winding temperature exceeds a safe value calibrated to temperature rating of motor insulation. Thermal-protection device shall automatically reset when motor temperature returns to normal range.
+1.  POWER FACTOR CORRECTION
+    1. Capacitors shall be installed on all motors 25 hp and larger that have an uncorrected power factor of less than 90% at rated load. KVAR size shall be as required to correct motor power factor to 95% lagging.
+    1. Capacitors shall have:
+       1. Individual unit cells
+    1. All welded steel housings
+    1. Non-flammable synthetic liquid impregnant
+    1. Craft tissue insulation
+    1. Aluminum foil electrodes
+    1. Each capacitor shall be internally fused.
+1.  MOTOR CONTROLLERS\*
+
 ## General
 
- Motor Controller Characteristics:
-      1. Single speed and multi-speed motor controllers shall be combination type [full NEMA rated] [IEC][NEMA-Equivalent] starters with [motor circuit protector][fused or non fused][disconnect switch] for all motors provided.
+Motor Controller Characteristics: 1. Single speed and multi-speed motor controllers shall be combination type [full NEMA rated] [IEC][NEMA-Equivalent] starters with [motor circuit protector][fused or non fused][disconnect switch] for all motors provided.
 
-*Exception: Starters that are shown to be provided integral within packaged equipment, control panels with door mounted disconnects or in motor control centers*
-   1. All combination starters shall be adequately braced for the fault current available. [42,000 AIC  480V, three-phase and 65,000 AIC  208V, three-phase shall be the minimum ratings.] All starters, whether separately furnished or integral with equipment, shall comply with the following:
-      1. Enclosures:
-         1. NEMA Type 1, general purpose enclosures with padlock ears, except in wet locations shall be NEMA Type 3R with conduit hubs, or units in hazardous locations that shall have NEC proper class and division explosion proof enclosure.
-   1. All starters for three-phase motors shall be magnetic complete with the following accessories.
-   1. Three-leg Class 10 trip-free electronic overload protection with externally operated manual reset and visual trip indicator. Trip setting shall be adjustable with locking cover.
-   1. Built-in three-phase voltage monitor to provide quick-trip on single phasing, phase reversal, or high/ low voltage, manual reset.
-   1. Control transformers with fused primary and secondary per NEC.
-   1. 120-volt holding coils.
-   1. Integral Hand-Off-Auto switch for single-speed motors.
-   1. Integral High-Low-Off-Auto switch for two-speed starters.
-   1. High-to low-speed compelling time delay relay for two-speed starters.
-   1. Auxiliary contacts, one normally open and one normally closed minimum.
+_Exception: Starters that are shown to be provided integral within packaged equipment, control panels with door mounted disconnects or in motor control centers_
+
+1.  All combination starters shall be adequately braced for the fault current available. [42,000 AIC 480V, three-phase and 65,000 AIC 208V, three-phase shall be the minimum ratings.] All starters, whether separately furnished or integral with equipment, shall comply with the following:
+    1. Enclosures:
+       1. NEMA Type 1, general purpose enclosures with padlock ears, except in wet locations shall be NEMA Type 3R with conduit hubs, or units in hazardous locations that shall have NEC proper class and division explosion proof enclosure.
+1.  All starters for three-phase motors shall be magnetic complete with the following accessories.
+1.  Three-leg Class 10 trip-free electronic overload protection with externally operated manual reset and visual trip indicator. Trip setting shall be adjustable with locking cover.
+1.  Built-in three-phase voltage monitor to provide quick-trip on single phasing, phase reversal, or high/ low voltage, manual reset.
+1.  Control transformers with fused primary and secondary per NEC.
+1.  120-volt holding coils.
+1.  Integral Hand-Off-Auto switch for single-speed motors.
+1.  Integral High-Low-Off-Auto switch for two-speed starters.
+1.  High-to low-speed compelling time delay relay for two-speed starters.
+1.  Auxiliary contacts, one normally open and one normally closed minimum.
 
 “Run” pilot light.
+
 1. INDENTIFCATION
-	1. Equipment Labels:
+   1. Equipment Labels:
       1. Metal Labels for Equipment:
-            1. Material and Thickness:
+         1. Material and Thickness:
       1. Brass, 0.032-inch minimum thickness, and having predrilled or stamped holes for attachment hardware.
    1. Minimum Label Size:
       1. Length and width vary for required label content, but not less than 2-1/2 by 3/4 inch.
@@ -430,76 +434,76 @@ tags: ['Facility', 'Services', 'Fire', 'Suppression', 'Common', 'Work', 'Results
 
 ## General
 
- Requirements for Manufactured Pipe Labels:
-         1. Preprinted, color-coded, with lettering indicating service, and showing flow direction.
-   1. Pre-tensioned Pipe Labels:
-      1. Pre-coiled, semi-rigid plastic formed to cover full circumference of pipe and t attach to pipe without fasteners or adhesive.
-   1. Self-Adhesive Pipe Labels:
-      1. Printed plastic with contact-type, permanent-adhesive backing.
-   1. Pipe Label Contents:
-      1. Include identification of piping service using same designations or abbreviations as used on Drawings, pipe size, and an arrow indicating flow direction.
-   1. Flow-Direction Arrows:
-      1. Integral with piping system service lettering to accommodate both directions, or as separate unit on each pipe label to indicate flow direction.
-   1. Lettering Size:
-      1. At least 1-1/2 inches high.
-   1. Stencils:
-      1. Stencils:
-         1. Prepare with letter sizes according to ASME A 13.1 for piping; minimum letter height of 2 inches for equipment labels, and similar operational instructions.
-   1. Stencil Material:
-      1. Fiberboard or metal.
-   1. Stencil Paint:
-      1. Exterior, gloss enamel black unless otherwise indicated. Paint may be in pressurized spray-can form.
-   1. Identification Paint:
-      1. Exterior enamel in colors according to ASME A13.1 unless otherwise indicated.
-   1. Valve Tags:
-      1. Valve Tags:
-         1. Stamped or engraved with 1/4-inch letters for piping system abbreviation and 1/2-inch numbers.
-   1. Tag Materials:
-      1. Brass, 0.032-inch minimum thickness, and having pre-drilled or stamped holes for attachment hardware.
-   1. Valve Schedules:
-      1. For each piping system, on 8-/2-by-11-inch bond paper. Tabulate valve number, piping system, system abbreviation (as shown on valve tag), location of valve (room or space), normal-operating position (open or closed), and variations for identification. Mark valves for emergency shutoff and similar special uses.
-   1. Valve-tag schedule shall be included in operation and maintenance data.
-1. ACCESSORIES
-	1. Hangers and Supports:
-      1. Furnish hangers and supports in accordance with Divisions 22 and 23 sections of the Specifications. 
-   1. Sleeves and Cover Plates (Escutcheons):
-   1. Sleeves:
-      1. Galvanized Steel Sheet:
-         1. 0.0239-inch minimum thickness; round tube closed with welded longitudinal joints.
-   1. Steel Pipe:
-      1. ASTM A53, Type E, Grade B, Schedule 40, galvanized, plain ends.
-   1. Cast Iron:
-      1. Cast or fabricated “wall pipe” equivalent to ductile iron pressure pipe, with plain ends and integral water stop, unless otherwise indicated.
-   1. Manufactured wall and ceiling escutcheons and floor plates, with an ID to closely fit around pipe, tube, and insulation of insulated piping and an OD that completely cover opening.
-   1. One-Piece, Deep-Pattern Type:
-      1. Deep-drawn, box shaped brass with polished chrome plated finish.
-   1. Spit-Casting, Cast Brass Type:
-      1. With concealed hinge and set screw. Finish:
-      1. Polished chrome plated.
-   1. One-Piece, Floor-Plate Type:
-      1. Cast-ion floor plate.
-   1. Split-Casting, Floor-Plate Type:
-      1. Cast brass with concealed hinge and set screw.
-   1. Split-Casting, Cast Brass Type:
-      1. With concealed hinge and set screw. Finish:
-      1. Polished chrome plated
-   1. Split-Casting, Floor-Plate Type:
-      1. Cast brass with concealed hinge and set screw.
-   1. Antifreeze System:
-   1. Provide an antifreeze system serving sprinklers in loading docks and in other unheated areas as specified on the drawings. 
-   1. Design the antifreeze system in accordance with NFPA 13. 
-   1. Solution mixture:
-      1. ethylene glycol with a solution mixture of 60 percent water suitable for -10°F, or as required. 
-   1. Provide a chain and lock for the antifreeze system gate valve and the key to the Owner. 
-   1. Pressure Gages:
-   1. Provide pressure gages on the suction and discharge sides of the fire pump. 
-   1. Provide pressure gages on both sides of the wet pipe sprinkler system alarm valve and at the top of each standpipe riser. 
-   1. Provide UL-listed spring pressure gages with a 3-1/2-inch dial and be drainable. 
-   1. Provide any additional gauges required by NFPA 13, 14 and 20, not specifically listed here. 
-   1. Inspectors Test Connection and Drains:
-   1. Provide an inspectors test connection and drain system (riser and low point drain) in accordance with NFPA 13 for each zone. 
-   1. Provide a sectional drain valve and common drain piping to the nearest floor drain for drainage. 
-   1. Provide a test valve, sight glass, sprinkler orifice equivalent and piping trim to the common drain piping for system testing. 
+Requirements for Manufactured Pipe Labels: 1. Preprinted, color-coded, with lettering indicating service, and showing flow direction.
+
+1.  Pre-tensioned Pipe Labels:
+    1. Pre-coiled, semi-rigid plastic formed to cover full circumference of pipe and t attach to pipe without fasteners or adhesive.
+1.  Self-Adhesive Pipe Labels:
+    1. Printed plastic with contact-type, permanent-adhesive backing.
+1.  Pipe Label Contents:
+    1. Include identification of piping service using same designations or abbreviations as used on Drawings, pipe size, and an arrow indicating flow direction.
+1.  Flow-Direction Arrows:
+    1. Integral with piping system service lettering to accommodate both directions, or as separate unit on each pipe label to indicate flow direction.
+1.  Lettering Size:
+    1. At least 1-1/2 inches high.
+1.  Stencils:
+    1. Stencils:
+       1. Prepare with letter sizes according to ASME A 13.1 for piping; minimum letter height of 2 inches for equipment labels, and similar operational instructions.
+1.  Stencil Material:
+    1. Fiberboard or metal.
+1.  Stencil Paint:
+    1. Exterior, gloss enamel black unless otherwise indicated. Paint may be in pressurized spray-can form.
+1.  Identification Paint:
+    1. Exterior enamel in colors according to ASME A13.1 unless otherwise indicated.
+1.  Valve Tags:
+    1. Valve Tags:
+       1. Stamped or engraved with 1/4-inch letters for piping system abbreviation and 1/2-inch numbers.
+1.  Tag Materials:
+    1. Brass, 0.032-inch minimum thickness, and having pre-drilled or stamped holes for attachment hardware.
+1.  Valve Schedules:
+    1. For each piping system, on 8-/2-by-11-inch bond paper. Tabulate valve number, piping system, system abbreviation (as shown on valve tag), location of valve (room or space), normal-operating position (open or closed), and variations for identification. Mark valves for emergency shutoff and similar special uses.
+1.  Valve-tag schedule shall be included in operation and maintenance data.
+1.  ACCESSORIES
+    1. Hangers and Supports:
+       1. Furnish hangers and supports in accordance with Divisions 22 and 23 sections of the Specifications.
+    1. Sleeves and Cover Plates (Escutcheons):
+    1. Sleeves:
+       1. Galvanized Steel Sheet:
+          1. 0.0239-inch minimum thickness; round tube closed with welded longitudinal joints.
+    1. Steel Pipe:
+       1. ASTM A53, Type E, Grade B, Schedule 40, galvanized, plain ends.
+    1. Cast Iron:
+       1. Cast or fabricated “wall pipe” equivalent to ductile iron pressure pipe, with plain ends and integral water stop, unless otherwise indicated.
+    1. Manufactured wall and ceiling escutcheons and floor plates, with an ID to closely fit around pipe, tube, and insulation of insulated piping and an OD that completely cover opening.
+    1. One-Piece, Deep-Pattern Type:
+       1. Deep-drawn, box shaped brass with polished chrome plated finish.
+    1. Spit-Casting, Cast Brass Type:
+       1. With concealed hinge and set screw. Finish:
+       1. Polished chrome plated.
+    1. One-Piece, Floor-Plate Type:
+       1. Cast-ion floor plate.
+    1. Split-Casting, Floor-Plate Type:
+       1. Cast brass with concealed hinge and set screw.
+    1. Split-Casting, Cast Brass Type:
+       1. With concealed hinge and set screw. Finish:
+       1. Polished chrome plated
+    1. Split-Casting, Floor-Plate Type:
+       1. Cast brass with concealed hinge and set screw.
+    1. Antifreeze System:
+    1. Provide an antifreeze system serving sprinklers in loading docks and in other unheated areas as specified on the drawings.
+    1. Design the antifreeze system in accordance with NFPA 13.
+    1. Solution mixture:
+       1. ethylene glycol with a solution mixture of 60 percent water suitable for -10°F, or as required.
+    1. Provide a chain and lock for the antifreeze system gate valve and the key to the Owner.
+    1. Pressure Gages:
+    1. Provide pressure gages on the suction and discharge sides of the fire pump.
+    1. Provide pressure gages on both sides of the wet pipe sprinkler system alarm valve and at the top of each standpipe riser.
+    1. Provide UL-listed spring pressure gages with a 3-1/2-inch dial and be drainable.
+    1. Provide any additional gauges required by NFPA 13, 14 and 20, not specifically listed here.
+    1. Inspectors Test Connection and Drains:
+    1. Provide an inspectors test connection and drain system (riser and low point drain) in accordance with NFPA 13 for each zone.
+    1. Provide a sectional drain valve and common drain piping to the nearest floor drain for drainage.
+    1. Provide a test valve, sight glass, sprinkler orifice equivalent and piping trim to the common drain piping for system testing.
 
 ## Execution
 
@@ -533,14 +537,14 @@ tags: ['Facility', 'Services', 'Fire', 'Suppression', 'Common', 'Work', 'Results
    1. Handling of Cleaners, Primers, and Solvent Cements for CPVC Pipe:
       1. Comply with procedures in ASTM F 402 for safe handling when joining CPVC piping with solvent cements.
    1. Welding:
-	1. General:
-      1. Shop welding of steel piping is permitted for automatic sprinkler systems in lieu of screwed or flanged fittings. Join steel pipe for installation by means of screwed fittings, flanged fittings or by mechanical grooved couplings. Field welding or torch cutting is not permitted. 
+   1. General:
+      1. Shop welding of steel piping is permitted for automatic sprinkler systems in lieu of screwed or flanged fittings. Join steel pipe for installation by means of screwed fittings, flanged fittings or by mechanical grooved couplings. Field welding or torch cutting is not permitted.
    1. Welded Fittings:
-      1. Provide welded fittings in compliance with ASME B16.9 for factory made wrought steel buttweld fittings, and ASTM A234 for piping fittings of wrought carbon steel and alloy steel for moderate and elevated temperatures. 
-   1. Factory fabricated reinforcing saddles with threaded outlets shall be permitted provided the outlet size does not exceed 1/2 of the pipe diameter and the fittings are shop welded only. 
+      1. Provide welded fittings in compliance with ASME B16.9 for factory made wrought steel buttweld fittings, and ASTM A234 for piping fittings of wrought carbon steel and alloy steel for moderate and elevated temperatures.
+   1. Factory fabricated reinforcing saddles with threaded outlets shall be permitted provided the outlet size does not exceed 1/2 of the pipe diameter and the fittings are shop welded only.
 1. WELDER QUALIFICATIONS AND PROCEDURES:
-      1. SPECIFICATIONS FOR THE FABRICATION AND ERECTION OF PIPING SYSTEMS
-	1. Piping:
+   1. SPECIFICATIONS FOR THE FABRICATION AND ERECTION OF PIPING SYSTEMS
+   1. Piping:
       1. ANSI B31.1.
    1. Boiler external piping:
       1. Section I of the ASME Boiler and Pressure Vessel Code.
@@ -556,7 +560,7 @@ tags: ['Facility', 'Services', 'Fire', 'Suppression', 'Common', 'Work', 'Results
    1. Locations and Arrangements:
       1. Drawing plans, schematics, and diagrams indicate general location and arrangement of piping. Install piping as indicated, as far as practical.
    1. Deviations from approved working plans for piping require written approval from authorities having jurisdiction. File written approval with Architect before deviating from approved working plans.
-   1. Do not route any fire suppression piping through electrical rooms except for the piping serving sprinkler heads in those rooms. Install piping and sprinkler heads in electrical rooms in accordance with NFPA 13 and NFPA 70. 
+   1. Do not route any fire suppression piping through electrical rooms except for the piping serving sprinkler heads in those rooms. Install piping and sprinkler heads in electrical rooms in accordance with NFPA 13 and NFPA 70.
    1. Install underground service-entrance piping according to NFPA 24 and with restrained joints.
    1. Use approved fittings to make changes in direction, branch takeoffs from mains, and reductions in pipe sizes.
    1. Install unions adjacent to each valve in pipes NPS 2 and smaller. Unions are not required on flanged devices or in piping installations using grooved joints.
@@ -583,31 +587,31 @@ tags: ['Facility', 'Services', 'Fire', 'Suppression', 'Common', 'Work', 'Results
    1. Alarm Check Valves:
       1. Install valves in vertical position for proper direction of flow, including bypass check valve and retard chamber drain-line connection.
 1. FIELD QUALITY CONTROL
-	1. Testing:
-	1. General:
-   1. Test piping in accordance with NFPA 13 and 14 for aboveground piping and NFPA 24 for underground piping. 
+   1. Testing:
+   1. General:
+   1. Test piping in accordance with NFPA 13 and 14 for aboveground piping and NFPA 24 for underground piping.
    1. Submit the request for formal inspection to the Owner at least five working days prior to the date of the inspection. Inspect the system, including actual operation of all mechanical and electrical equipment, in the presence of a competent representative of the Contractor and other required authorities.
-   1. Be responsible for supplying all appliances and equipment required for satisfactorily testing the system. 
-   1. Perform tests before piping is concealed. 
+   1. Be responsible for supplying all appliances and equipment required for satisfactorily testing the system.
+   1. Perform tests before piping is concealed.
    1. Test Conditions:
-   1. When connecting to piping previously installed and subjected to testing under this Contract, extend the test pressure and joint count to the nearest workable valve on the line. 
-   1. When connecting to piping not installed or tested under this Contract, the Contractor is responsible for the integrity of piping to a distance of three feet beyond the connection point ten feet for underground pipe). Should an existing fitting be located between the point of connection and limit of ten feet, the Contractor's responsibility shall be increased an additional ten feet in all directions from the center of the fitting. 
-   1. Should the existing piping fail beyond the limits stated above, the Owner shall be responsible for repairs. 
+   1. When connecting to piping previously installed and subjected to testing under this Contract, extend the test pressure and joint count to the nearest workable valve on the line.
+   1. When connecting to piping not installed or tested under this Contract, the Contractor is responsible for the integrity of piping to a distance of three feet beyond the connection point ten feet for underground pipe). Should an existing fitting be located between the point of connection and limit of ten feet, the Contractor's responsibility shall be increased an additional ten feet in all directions from the center of the fitting.
+   1. Should the existing piping fail beyond the limits stated above, the Owner shall be responsible for repairs.
    1. Flow Tests:
-   1. Test piping hydrostatically at not less than 200 psi for two hours or at 50 psi in excess of the maximum static pressure when the maximum static pressure is in excess of 150 psi. 
-   1. Aboveground pipe shall show no visible signs of leakage when subjected to hydrostatic test pressures. 
+   1. Test piping hydrostatically at not less than 200 psi for two hours or at 50 psi in excess of the maximum static pressure when the maximum static pressure is in excess of 150 psi.
+   1. Aboveground pipe shall show no visible signs of leakage when subjected to hydrostatic test pressures.
    1. Measure the amount of leakage for underground piping at the specified test pressure by pumping from a calibrated container. Maximum amount of leakage at the joints:
-      1. two quarts per hour per 100 gaskets or joints regardless of pipe diameter. 
-   1. The amount of allowable leakage specified may be increased by one fluid ounce per inch valve diameter per hour for each metal seated valve isolating the test section. 
-   1. Backfill trenches for underground pipe between joints before testing to prevent movement of pipe. 
+      1. two quarts per hour per 100 gaskets or joints regardless of pipe diameter.
+   1. The amount of allowable leakage specified may be increased by one fluid ounce per inch valve diameter per hour for each metal seated valve isolating the test section.
+   1. Backfill trenches for underground pipe between joints before testing to prevent movement of pipe.
    1. Foam System Testing:
       1. In testing of the foam system, perform an immediate on site analyses of foam quantity by use of a portable refractometer as well as obtaining foam samples for testing by an independent laboratory. Submit test results to the Architect and the Owner.
    1. Test Reports:
-      1. Perform field inspections and tests to determine conformance with the specified requirements in the presence of the Architect and Owner. 
-   1. When tests have been completed and all necessary corrections made, submit a signed and dated performance certificate, record drawings and full descriptive data for each tested system in this section including operation and maintenance manuals. 
+      1. Perform field inspections and tests to determine conformance with the specified requirements in the presence of the Architect and Owner.
+   1. When tests have been completed and all necessary corrections made, submit a signed and dated performance certificate, record drawings and full descriptive data for each tested system in this section including operation and maintenance manuals.
    1. For water distribution systems (aboveground and underground), provide the Owner with three copies of each of the following:
    1. Hydrostatic test certificate
-   1. Flow/pressure test certificate 
+   1. Flow/pressure test certificate
    1. Flushing certificate
 1. CLEANING
    1. Clean dirt and debris from sprinklers.
@@ -631,4 +635,3 @@ tags: ['Facility', 'Services', 'Fire', 'Suppression', 'Common', 'Work', 'Results
    1. Demonstrate equipment, specialties, and accessories. Review operating and maintenance information.
    1. Schedule demonstration with Owner with at least seven days' advance notice.
 1. (THIS PAGE INTENTIONALLY BLANK)
-

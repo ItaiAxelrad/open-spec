@@ -4,7 +4,17 @@ section: '323113'
 divNumb: 32
 divName: Exterior Improvements
 subgroup: Site and Infrastructure
-tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Chain', 'Link', 'Fences', 'Gates']
+tags:
+  [
+    'Site',
+    'Infrastructure',
+    'Exterior',
+    'Improvements',
+    'Chain',
+    'Link',
+    'Fences',
+    'Gates',
+  ]
 ---
 
 ## General
@@ -48,51 +58,50 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Chain', 'Link', 'F
    1. Durable, hard particles conforming to the following gradation:
       1. Sieve Size -- U. S. Std. Square Mesh
    1. Percent by Weight Passing Sieve
-5. mm (1/2 inch)
+1. mm (1/2 inch)
    1. 100
-5. mm (3/8 inch)
+1. mm (3/8 inch)
    1. 94-100
-75. mm (No. 4)
-   1. 15-45
-18. mm (No. 16)
-   1. 0-4
-   1. Fabrication
-   1. Height
-   1. Height of fence fabric between posts:
-      1.83 meters (6 feet) above finish grade, unless otherwise indicated.
-   1. Posts
-   1. Terminal and corner posts:
-      1. 63-mm (2-1/2-inch) steel pipe. Consider any post occurring at the change in direction of the fence to be a corner post.
-   1. Line posts:
-      1. 50-mm (2-inch) steel pipe or approved C-section. Maximum line post spacing:
-      1. 3 meters (10 feet).
-   1. Gate posts for swinging gates:
-      1. steel pipe of nominal size as follows for nominal width of gate leaf indicated:
-      1. 63-mm (2-1/2-inch) for width up to and including 1.8 meters (6 feet).
-   1. 88-mm (3-1/2-inch) for width over 1.8 meters (6 feet), up to and including 4.0 meters (13 feet).
-   1. 150-mm (6-inch) for width over 4.0 meters (13 feet) , up to and including 5.5 meters (18 feet).
-   1. 200-mm (8-inch) for width over 5.5 meters (18 feet).
-   1. Gate posts for sliding gates:
-      1. 88-mm (3-1/2-inch) steel pipe.
-   1. Length of posts:
-      1. as required by fence height plus dimensions indicated or approved on shop drawings.
-   1. Include the necessary galvanized fittings for rails and bracing connections, post tops, and for securing chain link fabric.
-   1. Top Rails
-   1. 31-mm (1-1/4-inch) steel pipe, furnished in random lengths of approximately 6 meters (20 feet) and jointed with expansion couplings of special design for fence work. Fabricate top rails to pass through line post tops and to be securely fastened to terminal posts by suitable pressed steel connections.
-   1. Fittings
-   1. Clamps, bolts, nuts and other fittings:
-      1. galvanized steel.
-   1. Gates
-   1. Manually operated, unless otherwise indicated, complete with hardware and of nominal width indicated.
-   1. Type:
-      1. single-leaf swinging or single-leaf sliding - cantilever type.
-   1. Gate perimeter frames:
-      1. 48.3-mm (1.90-inch) o.d. steel pipe with permanently rigid connections. Provide additional horizontal and vertical members to insure proper gate operation and for attachment of fabric, hardware and accessories. Install chain link fabric with stretcher bars at vertical edges and wire ties at top and bottom edges. Attach stretcher bars with pressed steel bands at 380-mm (15-inch) maximum spacing. Attach hardware so as to provide security against removal and breakage. Provide diagonal cross bracing consisting of 10-mm-diameter (3/8-inch-diameter) adjustable length rods as required to provide frame rigidity without sag or twist.
-   1. Gate hardware, including hinges or track, track hanger, ball bearing sheaves, latches and keepers:
-      1. galvanized steel. Provide latches which can be padlocked.
+1. mm (No. 4)
+1. 15-45
+1. mm (No. 16)
+1. 0-4
+1. Fabrication
+1. Height
+1. Height of fence fabric between posts:
+   1.83 meters (6 feet) above finish grade, unless otherwise indicated.
+1. Posts
+1. Terminal and corner posts:
+   1. 63-mm (2-1/2-inch) steel pipe. Consider any post occurring at the change in direction of the fence to be a corner post.
+1. Line posts:
+   1. 50-mm (2-inch) steel pipe or approved C-section. Maximum line post spacing:
+   1. 3 meters (10 feet).
+1. Gate posts for swinging gates:
+   1. steel pipe of nominal size as follows for nominal width of gate leaf indicated:
+   1. 63-mm (2-1/2-inch) for width up to and including 1.8 meters (6 feet).
+1. 88-mm (3-1/2-inch) for width over 1.8 meters (6 feet), up to and including 4.0 meters (13 feet).
+1. 150-mm (6-inch) for width over 4.0 meters (13 feet) , up to and including 5.5 meters (18 feet).
+1. 200-mm (8-inch) for width over 5.5 meters (18 feet).
+1. Gate posts for sliding gates:
+   1. 88-mm (3-1/2-inch) steel pipe.
+1. Length of posts:
+   1. as required by fence height plus dimensions indicated or approved on shop drawings.
+1. Include the necessary galvanized fittings for rails and bracing connections, post tops, and for securing chain link fabric.
+1. Top Rails
+1. 31-mm (1-1/4-inch) steel pipe, furnished in random lengths of approximately 6 meters (20 feet) and jointed with expansion couplings of special design for fence work. Fabricate top rails to pass through line post tops and to be securely fastened to terminal posts by suitable pressed steel connections.
+1. Fittings
+1. Clamps, bolts, nuts and other fittings:
+   1. galvanized steel.
+1. Gates
+1. Manually operated, unless otherwise indicated, complete with hardware and of nominal width indicated.
+1. Type:
+   1. single-leaf swinging or single-leaf sliding - cantilever type.
+1. Gate perimeter frames:
+   1. 48.3-mm (1.90-inch) o.d. steel pipe with permanently rigid connections. Provide additional horizontal and vertical members to insure proper gate operation and for attachment of fabric, hardware and accessories. Install chain link fabric with stretcher bars at vertical edges and wire ties at top and bottom edges. Attach stretcher bars with pressed steel bands at 380-mm (15-inch) maximum spacing. Attach hardware so as to provide security against removal and breakage. Provide diagonal cross bracing consisting of 10-mm-diameter (3/8-inch-diameter) adjustable length rods as required to provide frame rigidity without sag or twist.
+1. Gate hardware, including hinges or track, track hanger, ball bearing sheaves, latches and keepers:
+   1. galvanized steel. Provide latches which can be padlocked.
 
 ## Execution
-
 
 1. General
    1. Comply with ASTM F567, unless otherwise specified.

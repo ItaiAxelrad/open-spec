@@ -4,7 +4,16 @@ section: '281000'
 divNumb: 28
 divName: Electronics Safety and Security
 subgroup: Facility Services
-tags: ['Facility', 'Services', 'Electronics', 'Safety', 'Security', 'Access', 'Control']
+tags:
+  [
+    'Facility',
+    'Services',
+    'Electronics',
+    'Safety',
+    'Security',
+    'Access',
+    'Control',
+  ]
 ---
 
 ## General
@@ -18,13 +27,13 @@ tags: ['Facility', 'Services', 'Electronics', 'Safety', 'Security', 'Access', 'C
    1. Related Work:
       1. Raceways used for Access Control and CCTV system conductors are specified in related Division 26 sections of the Specifications.
 1. REFERENCES
-   1. Electronic Industries Association (EIA) 
-   1. RS-170 - Synchronization 
-   1. RS-330 - Electrical Performance Standards for Closed-Circuit Television Camera. 
-   1. RS-375 - Electrical Performance Standards for Direct View Monochrome Closed-Circuit Television Monitors. 
-   1. RS-403 - Precision Coaxial Connectors for CATV Application (75 ohms). 
-   1. RS-412 - Closed-Circuit Television Monitors. 
-   1. Underwriters Laboratories Inc. (UL) 
+   1. Electronic Industries Association (EIA)
+   1. RS-170 - Synchronization
+   1. RS-330 - Electrical Performance Standards for Closed-Circuit Television Camera.
+   1. RS-375 - Electrical Performance Standards for Direct View Monochrome Closed-Circuit Television Monitors.
+   1. RS-403 - Precision Coaxial Connectors for CATV Application (75 ohms).
+   1. RS-412 - Closed-Circuit Television Monitors.
+   1. Underwriters Laboratories Inc. (UL)
    1. 983 - Surveillance Camera Units.
    1. 1410 - Television Receivers and High-Voltage Video Products.
    1. Codes/Standards
@@ -82,19 +91,19 @@ tags: ['Facility', 'Services', 'Electronics', 'Safety', 'Security', 'Access', 'C
    1. All components shall be fully compatible with the existing Software House C-Cure800 System (CCM80-20S) without alteration and be Software House factory approved for compatibility.
    1. Software House APC/ 8X controller unit:
       1. Each APC/ 8X shall have at a minimum the capacity to:
-            1. Control up to 8 readers and or keypads.
+         1. Control up to 8 readers and or keypads.
    1. Monitor up to 8 supervised alarm-sensing devices.
    1. Carry up to 8 on-board relays:
       1. 30 VDC /AC, 5.0 amps resistive, 2.5 amps inductive.
    1. Software House APC/L controller unit:
       1. Each APC/L controller shall have at a minimum the capacity to:
-            1. Control two card readers and or keypads.
+         1. Control two card readers and or keypads.
    1. Control two relays.
    1. Rated 125 VAC, 0.4 amps resistive, 0.2 amps inductive
    1. Rated 30 VDC, 2.0 amps resistive, 1.0 amps inductive
    1. Software House RM-4K controller unit:
       1. Each RM-4K controller shall have at a minimum the capacity to:
-            1. Control one reader and or keypad.
+         1. Control one reader and or keypad.
    1. Control two supervised inputs.
    1. Control two + 12VDC driver relays.
    1. Software House APC/L and the APC/8X unit:
@@ -112,7 +121,7 @@ tags: ['Facility', 'Services', 'Electronics', 'Safety', 'Security', 'Access', 'C
    1. 1650 pound holding force, +12VDC operation, at 0.35 amps
    1. Card Reader:
       1. HID model ProxPro w/keypad 5355 AGS
-   1. Color – white  
+   1. Color – white
    1. Power Supplies:
       1. Maglock
    1. AlarmSaf PS5-BFS-12
@@ -183,50 +192,38 @@ tags: ['Facility', 'Services', 'Electronics', 'Safety', 'Security', 'Access', 'C
    1. The finishes and colors of all equipment. Submit all finish and graphics for all equipment in public areas to the Contracting Officer for approval prior to installation.
    1. At a minimum, coordinate the following with the Contracting Officer:
       1. The location and orientation of each piece of rack mounted equipment.
-   2. General
-   3. Verify acceptance of each type of specified request-to-exit hardware for each application with local life safety code officials.
-   4. Verify fail-safe and fail-secure lock requirements with the Contracting Officer.
-   5. Contractor or equipment manufacturer logos or names shall not be visible on equipment in public areas.
-   6. Provide tamper proof fasteners for all equipment in public areas. Fastener finish shall match equipment finish.
-7. SYSTEM ACCEPTANCE (Note:
-      1. All references to head-end equipment testing and existing equipment testing shall be conducted by Owner. Contractor is responsible for the correct functioning of all new equipment provided under this contract and the testing associated with those products and installation.)
-   8. Final acceptance testing of the Work will be conducted by the Contracting Officer.
-   9. Prior to any final acceptance testing, the Contractor shall submit two sets of preliminary (draft) Record Drawings to the Contracting Officer. The preliminary Record Drawings are to be used by the Contracting Officer to conduct the system final test. 
-   10. Submit a paragraph by paragraph completion matrix indicating completion or delinquency for each item included in the Specification and all subsequent addenda and bulletins as part of' the Work, Indicate completion of the requirement by the word "Completed" following each paragraph number. Indicate delinquency for the requirement by the words "To Be Completed" following the applicable paragraph number. Should work on any item be under way, but not yet fully complete, indicate the extent (or lack thereof) of completion to date and the proposed date of completion.
-   11. Conduct a complete test of the entire Security System and provide the Contracting Officer with a written report on the results of that test. During the course of this test, place the integrated Security System in service, and calibrate and test all equipment. During the SMS portion of the test, a representative from Software House shall be on site for not less than one full day to observe system operation and assist in optimizing the SMS. 
-   12. Following completion of the initial testing and correction of any noted deficiencies, conduct a five day burn-in test. The intent of the burn-in test shall be to prove the Security System by placing it in near real operating conditions. During this period the Security System shall be fully functional and programmed such that all points, interfaces, controls, reports, messages, prompts, etc. can be exercised and validated. Record and correct any system anomaly I deficiency, or failure noted during this period. Scheduling of the final acceptance test shall be based on a review of the results of this burn-in test.
-   13. Deliver a report describing the results of functional tests, burn-in tests, diagnostics, calibrations, corrections, and repairs including written certification to the Contracting Officer that the installed complete Security System has been calibrated, tested, and is fully functional as specified herein.
-   14. Prior to the final acceptance test, coordinate with the Contracting Officer for security related construction clean-up and patch work requirements. Security equipment closets and similar areas should be free of accumulation of waste materials or rubbish caused by operations under the Contract. At completion of the Work, remove all waste materials, rubbish, the Contractor's and its subcontractors' tools, construction equipment, machinery and all surplus materials.
-   15. Upon written notification from the Contractor that the Security System is completely installed, integrated and operational, and the burn-in testing completed, the Contracting Officer will conduct a final acceptance test of the entire system.
-   16. During the course of the final acceptance test by the Contracting Officer, the Contractor shall be responsible for demonstrating that, without exception, the completed and integrated system complies with the contract requirements. All physical and functional requirements of the project shall be demonstrated and shown. This demonstration will begin by comparing “as built" conditions of the Security System to requirements outlined in the Specification, item by item. Following the Specification compliance review, all Security System head-end equipment will be evaluated.
-   17. During the course of the final acceptance test, a representative from Software House shall be on site not less than one full day to assist in testing and be available to answer questions that the Contracting Officer may have during the inspection.
-   18. In order to sufficiently demonstrate the Security System's functionality, the console operator on duty and his/her superior may be requested to perform certain daily operations inherent to the Security System.
-   19. These operations may include, but not be limited to the following:
-      1. Manually locking and unlocking of doors within the SMS
-   20. Verifying the status of current alarm I control points within the SMS
-   21. Responding to alarms
-   22. Generating standard and custom defined SMS reports.
-   23. Adding/deleting personnel from the card holder database
-   24. CCTV Camera call-up on various monitors
-   25. Manipulation of PTZ cameras
-   26. Changing settings on various pieces of equipment (i.e. DVR, Video Matrix Switcher, etc.)
-   27. Adding a CCTV Camera to the matrix program
-   28. Changing the elapsed time mode on a DVR.
-   29. As all of these operations depend heavily on the training outlined within the Specification, the Contractor shall have completed all of the required training prior to initiation of the final acceptance test.
-   30. The functionality of the various interfaces between systems will be tested.
-   31. Following the Security System head-end equipment and console review, the installation of all field devices will be inspected. This field inspection will weigh heavily on the general neatness and quality of installations, complete functionality of each individual device, mounting, backbox and conduit requirements compliance.
-   32. All equipment shall be on and fully operational during any and all testing procedures. Provide all personnel, equipment, and supplies necessary to perform all site testing. Provide a minimum of two employees familiar with the system for the final acceptance test. One employee shall be responsible for monitoring and verifying alarms while the other will be required to demonstrate the function of each device. Supply at least two two-way radios for use during the test. A manufacturer's representative may be present on site to answer any questions that may be beyond the technical capability of the Contractor's employees if the Contractor so elects or by specific request of the Contracting Officer, at no charge to the Owner or Contracting Officer.
-1. FIELD QUALITY CONTROL
-   34. Field inspection and testing will be performed under provisions of related Division 1 sections of the Specifications. Provide services of technician to supervise installation, adjustments, final connections, system testing, and training Owner's personnel.
-   35. Pretesting:
-      2. Align and adjust system and pretest components, wiring, and functions to verify that they comply with specified requirements. Conduct tests at varying lighting levels, including day and night scenes as applicable.
-   36. Test Schedule:
-      3. Schedule tests after pretesting has been successfully completed and system has been in normal functional operation for at least 14 days. Provide a minimum of 10 days' notice of test schedule.
-   37. Remove and replace malfunctioning items and retest as specified above.
-   38. Record test results for each piece of equipment.
-   39. Retest:
-      4. Correct deficiencies identified by tests and observations and retest until specified requirements are met.
-1. CLEANING 
-   41. General
-   42. Clean installed items using methods and materials recommended in writing by manufacturer.
-   43. Clean lenses and monitor screens of any fingerprints, smudges, and other dirt and markings.
+   1. General
+   1. Verify acceptance of each type of specified request-to-exit hardware for each application with local life safety code officials.
+   1. Verify fail-safe and fail-secure lock requirements with the Contracting Officer.
+   1. Contractor or equipment manufacturer logos or names shall not be visible on equipment in public areas.
+   1. Provide tamper proof fasteners for all equipment in public areas. Fastener finish shall match equipment finish.
+2. SYSTEM ACCEPTANCE (Note:
+   1. All references to head-end equipment testing and existing equipment testing shall be conducted by Owner. Contractor is responsible for the correct functioning of all new equipment provided under this contract and the testing associated with those products and installation.)
+   2. Final acceptance testing of the Work will be conducted by the Contracting Officer.
+   3. Prior to any final acceptance testing, the Contractor shall submit two sets of preliminary (draft) Record Drawings to the Contracting Officer. The preliminary Record Drawings are to be used by the Contracting Officer to conduct the system final test.
+   4. Submit a paragraph by paragraph completion matrix indicating completion or delinquency for each item included in the Specification and all subsequent addenda and bulletins as part of' the Work, Indicate completion of the requirement by the word "Completed" following each paragraph number. Indicate delinquency for the requirement by the words "To Be Completed" following the applicable paragraph number. Should work on any item be under way, but not yet fully complete, indicate the extent (or lack thereof) of completion to date and the proposed date of completion.
+   5. Conduct a complete test of the entire Security System and provide the Contracting Officer with a written report on the results of that test. During the course of this test, place the integrated Security System in service, and calibrate and test all equipment. During the SMS portion of the test, a representative from Software House shall be on site for not less than one full day to observe system operation and assist in optimizing the SMS.
+   6. Following completion of the initial testing and correction of any noted deficiencies, conduct a five day burn-in test. The intent of the burn-in test shall be to prove the Security System by placing it in near real operating conditions. During this period the Security System shall be fully functional and programmed such that all points, interfaces, controls, reports, messages, prompts, etc. can be exercised and validated. Record and correct any system anomaly I deficiency, or failure noted during this period. Scheduling of the final acceptance test shall be based on a review of the results of this burn-in test.
+   7. Deliver a report describing the results of functional tests, burn-in tests, diagnostics, calibrations, corrections, and repairs including written certification to the Contracting Officer that the installed complete Security System has been calibrated, tested, and is fully functional as specified herein.
+   8. Prior to the final acceptance test, coordinate with the Contracting Officer for security related construction clean-up and patch work requirements. Security equipment closets and similar areas should be free of accumulation of waste materials or rubbish caused by operations under the Contract. At completion of the Work, remove all waste materials, rubbish, the Contractor's and its subcontractors' tools, construction equipment, machinery and all surplus materials.
+   9. Upon written notification from the Contractor that the Security System is completely installed, integrated and operational, and the burn-in testing completed, the Contracting Officer will conduct a final acceptance test of the entire system.
+   10. During the course of the final acceptance test by the Contracting Officer, the Contractor shall be responsible for demonstrating that, without exception, the completed and integrated system complies with the contract requirements. All physical and functional requirements of the project shall be demonstrated and shown. This demonstration will begin by comparing “as built" conditions of the Security System to requirements outlined in the Specification, item by item. Following the Specification compliance review, all Security System head-end equipment will be evaluated.
+   11. During the course of the final acceptance test, a representative from Software House shall be on site not less than one full day to assist in testing and be available to answer questions that the Contracting Officer may have during the inspection.
+   12. In order to sufficiently demonstrate the Security System's functionality, the console operator on duty and his/her superior may be requested to perform certain daily operations inherent to the Security System.
+   13. These operations may include, but not be limited to the following:
+   14. Manually locking and unlocking of doors within the SMS
+   15. Verifying the status of current alarm I control points within the SMS
+   16. Responding to alarms
+   17. Generating standard and custom defined SMS reports.
+   18. Adding/deleting personnel from the card holder database
+   19. CCTV Camera call-up on various monitors
+   20. Manipulation of PTZ cameras
+   21. Changing settings on various pieces of equipment (i.e. DVR, Video Matrix Switcher, etc.)
+   22. Adding a CCTV Camera to the matrix program
+   23. Changing the elapsed time mode on a DVR.
+   24. As all of these operations depend heavily on the training outlined within the Specification, the Contractor shall have completed all of the required training prior to initiation of the final acceptance test.
+   25. The functionality of the various interfaces between systems will be tested.
+   26. Following the Security System head-end equipment and console review, the installation of all field devices will be inspected. This field inspection will weigh heavily on the general neatness and quality of installations, complete functionality of each individual device, mounting, backbox and conduit requirements compliance.
+   27. All equipment shall be on and fully operational during any and all testing procedures. Provide all personnel, equipment, and supplies necessary to perform all site testing. Provide a minimum of two employees familiar with the system for the final acceptance test. One employee shall be responsible for monitoring and verifying alarms while the other will be required to demonstrate the function of each device. Supply at least two two-way radios for use during the test. A manufacturer's representative may be present on site to answer any questions that may be beyond the technical capability of the Contractor's employees if the Contractor so elects or by specific request of the Contracting Officer, at no charge to the Owner or Contracting Officer.
+3. FIELD QUALITY CONTROL 34. Field inspection and testing will be performed under provisions of related Division 1 sections of the Specifications. Provide services of technician to supervise installation, adjustments, final connections, system testing, and training Owner's personnel. 35. Pretesting: 2. Align and adjust system and pretest components, wiring, and functions to verify that they comply with specified requirements. Conduct tests at varying lighting levels, including day and night scenes as applicable. 36. Test Schedule: 3. Schedule tests after pretesting has been successfully completed and system has been in normal functional operation for at least 14 days. Provide a minimum of 10 days' notice of test schedule. 37. Remove and replace malfunctioning items and retest as specified above. 38. Record test results for each piece of equipment. 39. Retest: 4. Correct deficiencies identified by tests and observations and retest until specified requirements are met.
+4. CLEANING 41. General 42. Clean installed items using methods and materials recommended in writing by manufacturer. 43. Clean lenses and monitor screens of any fingerprints, smudges, and other dirt and markings.

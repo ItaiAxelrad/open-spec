@@ -4,9 +4,18 @@ section: '074243'
 divNumb: 7
 divName: Thermal and Moisture Protection
 subgroup: Facility Construction
-tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Composite', 'Wall', 'Panels']
+tags:
+  [
+    'Facility',
+    'Construction',
+    'Thermal',
+    'Moisture',
+    'Protection',
+    'Composite',
+    'Wall',
+    'Panels',
+  ]
 ---
-
 
 ## General
 
@@ -50,43 +59,43 @@ tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Composi
 
 ## Products
 
-   1. MANUFACTURER
-   1. Copper Sales, Inc., or equal product by other manufacturers meeting the requirements of this section and Section 018113 for recycled content are acceptable. At contractor option provide Una-Clad Series 3000 UNA-FAB panels, ¼” thick by Copper Sales, Inc.
-   1. PANEL TYPE
-   1. UNA-CORE Honeycomb Panel System Series 10, sandwich panel with aluminum skins laminated with a structural adhesive to an aluminum honeycomb core.
-   1. Thickness:
-      1. One inch.
-   1. PANEL MATERIALS AND FABRICATION
-   1. Aluminum Skins:
-      1. ASTM B209, Aluminum Association specification sheet 3003-H14/3105-H14 for painted finish.
-   1. Thickness:
-      1. 0.040" for coil coated or coil anodized finish.
-   1. Core:
-      1. 3003 aluminum alloy structure fabricated to form a hexagonal-shaped cell when expanded.
-   1. Core Thickness:
-      1. 1/2 inch.
-   1. Wall Thickness:
-      1. 3 mm.
-   1. Cell Size:
-      1. 3/4 inch.
-   1. Cell walls shall be perforated and kerfed.
-   1. Adhesive:
-      1. Manufacturer's recommended 2-part, 100 percent solids, epoxy adhesive designed specifically for wall panel laminations.
-   1. Adhesive shall produce a semi-elastic bond resistant to heat, cold, and moisture.
-   1. Contact adhesives are NOT acceptable.
-   1. Tolerances
-   1. Panel bow shall be a maximum 0.5 percent of panel dimension in width and length.
-   1. Panel dimension shall allow for fields adjustments, as recommended by manufacturer, where final dimensions cannot be established by field measurement before completion of panel manufacturing.
-   1. Panel lines, breaks, and angles shall be sharp and true, and surfaces shall be free from warp or buckle.
-   1. ACCESSORIES
-   1. Fasteners shall be concealed, non-corrosive type, as recommended by the panel manufacturer.
-   1. FINISHES
-   1. Coil-Coated or Spray-Applied Fluorocarbon Resin – Kynar 500.
-   1. Color:
-      1. Selected by Architect/Engineer from manufacturer’s standard colors.
-   1. Number of Coats:
-      1. 4-coat.
-   1. Provide factory applied strippable plastic film for protection during fabrication and installation.
+1.  MANUFACTURER
+1.  Copper Sales, Inc., or equal product by other manufacturers meeting the requirements of this section and Section 018113 for recycled content are acceptable. At contractor option provide Una-Clad Series 3000 UNA-FAB panels, ¼” thick by Copper Sales, Inc.
+1.  PANEL TYPE
+1.  UNA-CORE Honeycomb Panel System Series 10, sandwich panel with aluminum skins laminated with a structural adhesive to an aluminum honeycomb core.
+1.  Thickness:
+    1. One inch.
+1.  PANEL MATERIALS AND FABRICATION
+1.  Aluminum Skins:
+    1. ASTM B209, Aluminum Association specification sheet 3003-H14/3105-H14 for painted finish.
+1.  Thickness:
+    1. 0.040" for coil coated or coil anodized finish.
+1.  Core:
+    1. 3003 aluminum alloy structure fabricated to form a hexagonal-shaped cell when expanded.
+1.  Core Thickness:
+    1. 1/2 inch.
+1.  Wall Thickness:
+    1. 3 mm.
+1.  Cell Size:
+    1. 3/4 inch.
+1.  Cell walls shall be perforated and kerfed.
+1.  Adhesive:
+    1. Manufacturer's recommended 2-part, 100 percent solids, epoxy adhesive designed specifically for wall panel laminations.
+1.  Adhesive shall produce a semi-elastic bond resistant to heat, cold, and moisture.
+1.  Contact adhesives are NOT acceptable.
+1.  Tolerances
+1.  Panel bow shall be a maximum 0.5 percent of panel dimension in width and length.
+1.  Panel dimension shall allow for fields adjustments, as recommended by manufacturer, where final dimensions cannot be established by field measurement before completion of panel manufacturing.
+1.  Panel lines, breaks, and angles shall be sharp and true, and surfaces shall be free from warp or buckle.
+1.  ACCESSORIES
+1.  Fasteners shall be concealed, non-corrosive type, as recommended by the panel manufacturer.
+1.  FINISHES
+1.  Coil-Coated or Spray-Applied Fluorocarbon Resin – Kynar 500.
+1.  Color:
+    1. Selected by Architect/Engineer from manufacturer’s standard colors.
+1.  Number of Coats:
+    1. 4-coat.
+1.  Provide factory applied strippable plastic film for protection during fabrication and installation.
 
 ## Execution
 
@@ -105,4 +114,3 @@ tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Composi
    1. Remove panels damaged beyond repair and replace with new panels to match adjacent undamaged panels.
    1. Clean exposed panel surfaces promptly after installation in accordance with recommendations of panel and coating manufacturers.
    1. Remove protective film immediately after installation.
-

@@ -37,7 +37,7 @@ tags: ['Facility', 'Services', 'Electrical', 'Testing']
    1. National Electrical Tester Association.
 1. SYSTEM DESCRIPTION
    1. Specific Scope of Work
-   1. The following items of equipment shall be tested. 
+   1. The following items of equipment shall be tested.
    1. Main Service Entrance Switchboards.
    1. Motor Control Centers.
    1. Protective Relays.
@@ -62,7 +62,7 @@ tags: ['Facility', 'Services', 'Electrical', 'Testing']
    1. Conclusions and recommendations.
    1. Appendix, including appropriate test forms.
    1. List of test equipment used and calibration date.
-   1. Furnish three (3) copies of the completed report to the Engineer in conformance with Division 1 sections of the Specifications. 
+   1. Furnish three (3) copies of the completed report to the Engineer in conformance with Division 1 sections of the Specifications.
 1. QUALITY ASSURANCE
    1. Regulatory Requirements
    1. All inspections and tests shall be in accordance with the following applicable codes and standards except as provided otherwise herein.
@@ -85,7 +85,7 @@ tags: ['Facility', 'Services', 'Electrical', 'Testing']
    1. Division of Responsibility
    1. The Contractor shall perform routine insulation resistance, continuity and rotation tests for all distribution and utilization equipment prior and in addition to tests performed by the testing laboratory specified herein.
    1. The Contractor shall supply a suitable and stable source of test power to the test laboratory at each test site. The testing laboratory shall specify requirements.
-   1. The Contractor shall notify the testing laboratory and schedule with the Engineer when equipment becomes available for acceptance tests. 
+   1. The Contractor shall notify the testing laboratory and schedule with the Engineer when equipment becomes available for acceptance tests.
    1. The Contractor shall notify the Engineer prior to commencement of any testing.
    1. The testing laboratory shall be responsible for implementing all final settings and adjustments on protective devices and tap changers in accordance with Engineers specified values.
    1. Any system material or workmanship which is found defective on the basis of acceptance tests shall be reported directly to the ENGINEER.
@@ -260,7 +260,7 @@ tags: ['Facility', 'Services', 'Electrical', 'Testing']
    1. Contact resistance shall be determined in micro-ohms. Any values exceeding two hundred (200) micro-ohms or any values, which deviate from adjacent poles or similar breakers by more than fifty percent (50%), should be investigated.
    1. Insulation resistance shall not be less than fifty (50) megohms.
    1. Minimum pickup current, trip times and instantaneous pickup values shall be adjusted to ENGINEER settings. Test values should fall within manufacturer's published time-current characteristic tolerance band.
-   1. Low Voltage Molded Case Circuit Breakers 
+   1. Low Voltage Molded Case Circuit Breakers
    1. Visual and mechanical inspection.
    1. Circuit breaker shall be checked for proper mounting, conductor size and feeder designation.
    1. Operate circuit breaker to insure smooth operation.
@@ -313,7 +313,7 @@ tags: ['Facility', 'Services', 'Electrical', 'Testing']
    1. Calibrate all meters at midscale. Calibration instruments shall have precision no more than fifty percent (50%) of the instrument being tested.
    1. Calibrate watt-hour meters to one-half percent (1/2%).
    1. Verify all instrument multipliers.
-   1. Dry Type Transformers 
+   1. Dry Type Transformers
    1. Visual and mechanical inspection.
    1. Inspect for physical damage.
    1. Compare equipment nameplate information with latest single line diagram and report discrepancies.
@@ -336,7 +336,7 @@ tags: ['Facility', 'Services', 'Electrical', 'Testing']
    1. Power factor test values in excess of three percent (3%) should be investigated.
    1. Winding resistance test results should compare within one percent (1%) of adjacent windings.
    1. Turns ratio test results should not deviate more than one-half of one percent (0.5%) from calculated ratio.
-   1. Medium Voltage Cables 
+   1. Medium Voltage Cables
    1. Visual and mechanical inspections.
    1. Inspect exposed section for physical damage.
    1. Verify cable is supplied and connected in accordance with single line diagram.
@@ -457,4 +457,3 @@ tags: ['Facility', 'Services', 'Electrical', 'Testing']
    1. Simulation of process parameters shall be considered only upon receipt of a written request by the Contractor.
    1. Motor current tabulation report shall reflect the values occurring during commissioning.
    1. The indications of all switchboard ammeters and kilowatt meters shall be recorded every half-hour during commissioning.
-

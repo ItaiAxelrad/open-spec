@@ -4,9 +4,17 @@ section: '262816'
 divNumb: 26
 divName: Electrical
 subgroup: Facility Services
-tags: ['Facility', 'Services', 'Electrical', 'Enclosed', 'Switches', 'Circuit', 'Breakers']
+tags:
+  [
+    'Facility',
+    'Services',
+    'Electrical',
+    'Enclosed',
+    'Switches',
+    'Circuit',
+    'Breakers',
+  ]
 ---
-
 
 ## General
 
@@ -52,7 +60,7 @@ tags: ['Facility', 'Services', 'Electrical', 'Enclosed', 'Switches', 'Circuit', 
    1. Manufacturers:
       1. Cutler-Hammer
    1. GE Industrial Systems
-   1. Siemens Energy & Automation, Inc. 
+   1. Siemens Energy & Automation, Inc.
    1. Square D.
    1. Circuit Breakers:
       1. Inverse time automatic tripping circuit breaker per NEMA AB 1 and UL 489. Provide adjustable magnetic trip for frame sizes 250A and larger.
@@ -60,7 +68,7 @@ tags: ['Facility', 'Services', 'Electrical', 'Enclosed', 'Switches', 'Circuit', 
    1. Provide following circuit breaker accessories where indicated on plans.
    1. Shunt trip device with 120-volt control.
    1. Undervoltage trip device.
-   1. Ground fault circuit interrupter, GFCI, Class A, 5mA trip. 
+   1. Ground fault circuit interrupter, GFCI, Class A, 5mA trip.
    1. Ground fault equipment protection, GFEP, Class B, 30mA trip.
    1. Provide handle capable of being locked in the open position with padlock.
    1. Provide NEMA 1 enclosure unless otherwise indicated. Provide corrosion-resistant primer treatment and light gray baked acrylic enamel finish.
@@ -68,24 +76,24 @@ tags: ['Facility', 'Services', 'Electrical', 'Enclosed', 'Switches', 'Circuit', 
    1. Manufacturers:
       1. Cutler-Hammer.
    1. GE Industrial Systems.
-   1. Siemens Energy & Automation, Inc. 
+   1. Siemens Energy & Automation, Inc.
    1. Square D.
    1. Disconnect Switches:
       1. Quick-make, quick-break, horsepower rated NEMA type HD load interrupter enclosed knife switch, per NEMA KS 1 and UL 98, with externally operable handle interlocked to prevent opening front cover with switch in "on" position. Provide bypass means to allow authorized personnel to release the interlocking when the switch is "on"
-   1. Provide operating handle which physically indicates "on" and "off" positions and is capable of being padlocked in the "off" position. 
-   1. Provide NEMA 1 enclosure unless otherwise indicated. Provide corrosion-resistant primer treatment and light gray baked acrylic enamel finish. 
-   1. Provide fusible switch with fuseholders and fuses unless a non-fusible switch is indicated. Provide Class R rejection-type fuseholders complying with UL 512. 
-   1. Provide 240 or 600-volt switch as required for application indicated, three-pole unless indicated otherwise with amperes rating indicated. 
+   1. Provide operating handle which physically indicates "on" and "off" positions and is capable of being padlocked in the "off" position.
+   1. Provide NEMA 1 enclosure unless otherwise indicated. Provide corrosion-resistant primer treatment and light gray baked acrylic enamel finish.
+   1. Provide fusible switch with fuseholders and fuses unless a non-fusible switch is indicated. Provide Class R rejection-type fuseholders complying with UL 512.
+   1. Provide 240 or 600-volt switch as required for application indicated, three-pole unless indicated otherwise with amperes rating indicated.
 1. FUSES
    1. Manufacturers:
-      1. Bussmann Div., Cooper Industries Inc. 
+      1. Bussmann Div., Cooper Industries Inc.
    1. Ferraz Shawmut.
    1. Brush Inc.
    1. Littelfuse Inc.
    1. Fuses:
-      1. Provide fuses from the same manufacturer to insure retention of selective protective device coordination. 
+      1. Provide fuses from the same manufacturer to insure retention of selective protective device coordination.
    1. Fuses rated 600 amperes and less:
-      1. UL Class RK1 unless otherwise indicated or specified, current-limiting, time-delay, per UL 198E, with an interrupting rating of 100,000 amperes rms. 
+      1. UL Class RK1 unless otherwise indicated or specified, current-limiting, time-delay, per UL 198E, with an interrupting rating of 100,000 amperes rms.
    1. Provide UL Class RK5 fuses current-limiting, time-delay, per UL 198E, with an interrupting rating of 100,000 amperes rms, as follows:
       1. Motor starters size 3 and smaller.
    1. Panelboard main fuses where the amperage ratio between the main fuse to the largest feeder fuse is at least 2:1.
@@ -111,20 +119,19 @@ tags: ['Facility', 'Services', 'Electrical', 'Enclosed', 'Switches', 'Circuit', 
       1. NEMA 250, Type 7.
 1. IDENTIFICATION
    1. Provide engraved plastic-laminate sign, per related Division 26 sections of the Specifications, indicating the following lines of information:
-      1. Designation, if indicated (e.g., "CB-1"). 
-   1. Electrical characteristics (e.g., "480V, 3Ph, 3W, 60A"). 
-   1. Load served (e.g., "Serves EF-1"). 
+      1. Designation, if indicated (e.g., "CB-1").
+   1. Electrical characteristics (e.g., "480V, 3Ph, 3W, 60A").
+   1. Load served (e.g., "Serves EF-1").
    1. Source feed (e.g., "Feed from DP-A").
    1. Label series rated equipment and identify replacement fuse catalog numbers.
    1. Fuses:
-      1. Install fuses in fusible devices. 
+      1. Install fuses in fusible devices.
    1. Circuit Breakers and Disconnect Switches:
-      1. Install circuit breakers and disconnect switches at locations indicated. 
-   1. Support enclosures independent of connecting conduit or raceway system. 
-   1. Adjust trip settings of enclosed circuit breaker. 
-   1. Install enclosures plumb and square to building lines. 
-   1. Install equipment on exterior foundation walls at least 1 inch from wall to permit vertical flow of air behind breaker and switch enclosures. 
+      1. Install circuit breakers and disconnect switches at locations indicated.
+   1. Support enclosures independent of connecting conduit or raceway system.
+   1. Adjust trip settings of enclosed circuit breaker.
+   1. Install enclosures plumb and square to building lines.
+   1. Install equipment on exterior foundation walls at least 1 inch from wall to permit vertical flow of air behind breaker and switch enclosures.
 1. FIELD QUALITY CONTROL
    1. Field Tests:
       1. Verify proper mechanical operation of enclosed circuit breakers and disconnect switches.
-

@@ -4,9 +4,17 @@ section: '074200'
 divNumb: 7
 divName: Thermal and Moisture Protection
 subgroup: Facility Construction
-tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Wall', 'Panels']
+tags:
+  [
+    'Facility',
+    'Construction',
+    'Thermal',
+    'Moisture',
+    'Protection',
+    'Wall',
+    'Panels',
+  ]
 ---
-
 
 ## General
 
@@ -50,33 +58,33 @@ tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Wall', 
 
 ## Products
 
-   1. MANUFACTURER
-   1. Copper Sales, Inc. or equal product by other manufacturers meeting the requirements of this section and Section 01010 for recycled content are acceptable.
-   1. PANEL TYPE
-   1. UNA-CLAD UC-500 Flush Seam Panels, roll formed steel wall and soffit panels.
-   1. PANEL MATERIALS AND FABRICATION
-   1. Steel Panels:
-      1. ASTM A653, 24-gauge, G90 (lock-forming quality), extra smooth, tension-leveled, galvanized steel, minimum spangle.
-   1. Thickness:
-      1. 24 gauge.
-   1. Form panels in longest practical lengths, true to shape, accurate in size, square, and free from distribution or manufacturing defects.
-   1. Panel Depth:
-      1. 25 mm (1 inch).
-   1. Panel Width:
-      1. See drawings for panel widths..
-   1. Fabricate panels with an interlocking leg (male/female interlocking joint design).
-   1. ACCESSORIES
-   1. Fasteners:
-      1. Concealed, non-corrosive, 5/8 inch self-tapping sheetmetal screws for securing to metal substrate.
-   1. Underlayment:
-      1. ASTM D1970, Self Adhering Polymer Modified Bituminous Sheet; Grace Construction Products or equal.
-   1. FINISHES
-   1. Polyvinylidene flouride (Kynar 500) over galvalume.
-   1. Color:
-      1. Selected by Architect from manufacturer’s standard colors.
-   1. Number of Coats:
-      1. 4-coat.
-   1. Provide factory applied strippable plastic film for protection during fabrication and installation.
+1.  MANUFACTURER
+1.  Copper Sales, Inc. or equal product by other manufacturers meeting the requirements of this section and Section 01010 for recycled content are acceptable.
+1.  PANEL TYPE
+1.  UNA-CLAD UC-500 Flush Seam Panels, roll formed steel wall and soffit panels.
+1.  PANEL MATERIALS AND FABRICATION
+1.  Steel Panels:
+    1. ASTM A653, 24-gauge, G90 (lock-forming quality), extra smooth, tension-leveled, galvanized steel, minimum spangle.
+1.  Thickness:
+    1. 24 gauge.
+1.  Form panels in longest practical lengths, true to shape, accurate in size, square, and free from distribution or manufacturing defects.
+1.  Panel Depth:
+    1. 25 mm (1 inch).
+1.  Panel Width:
+    1. See drawings for panel widths..
+1.  Fabricate panels with an interlocking leg (male/female interlocking joint design).
+1.  ACCESSORIES
+1.  Fasteners:
+    1. Concealed, non-corrosive, 5/8 inch self-tapping sheetmetal screws for securing to metal substrate.
+1.  Underlayment:
+    1. ASTM D1970, Self Adhering Polymer Modified Bituminous Sheet; Grace Construction Products or equal.
+1.  FINISHES
+1.  Polyvinylidene flouride (Kynar 500) over galvalume.
+1.  Color:
+    1. Selected by Architect from manufacturer’s standard colors.
+1.  Number of Coats:
+    1. 4-coat.
+1.  Provide factory applied strippable plastic film for protection during fabrication and installation.
 
 ## Execution
 
@@ -95,4 +103,3 @@ tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Wall', 
    1. Remove panels damaged beyond repair and replace with new panels to match adjacent undamaged panels.
    1. Clean exposed panel surfaces promptly after installation in accordance with recommendations of panel and coating manufacturers.
    1. Remove protective film immediately after installation.
-

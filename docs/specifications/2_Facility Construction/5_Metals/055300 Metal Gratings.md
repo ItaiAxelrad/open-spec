@@ -6,6 +6,7 @@ divName: Metals
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Metals', 'Metal', 'Gratings']
 ---
+
 ## General
 
 1. RELATED DOCUMENTS
@@ -13,22 +14,22 @@ tags: ['Facility', 'Construction', 'Metals', 'Metal', 'Gratings']
 2. SUMMARY
    1. This Section includes the following:
       1. Metal bar gratings.
-2. Metal frames and supports for gratings.
-3. Contractor shall furnish and install gratings for the Verticel Equipment (Section 446200)
+3. Metal frames and supports for gratings.
+4. Contractor shall furnish and install gratings for the Verticel Equipment (Section 446200)
    1. walkways and platforms. Coordinate requirements with equipment manufacturer.
-3. SUBMITTALS
+5. SUBMITTALS
    1. Make submittals according to Specification Section 013300 and as herein specified.
    1. Product Data:
       1. For the following:
       1. Extruded-aluminum plank gratings.
-2. Clips and anchorage devices for gratings.
-3. Paint products.
+6. Clips and anchorage devices for gratings.
+7. Paint products.
    1. Shop Drawings:
       1. Detail fabrication and installation of gratings.
-4. QUALITY ASSURANCE
+8. QUALITY ASSURANCE
    1. Metal Bar Grating Standards:
       1. Comply with NAAMM MBG 531, "Metal Bar Grating Manual."
-5. PROJECT CONDITIONS
+9. PROJECT CONDITIONS
    1. Field Measurements:
       1. Verify actual locations of walls and other construction contiguous with gratings by field measurements before fabrication
 
@@ -53,8 +54,8 @@ tags: ['Facility', 'Construction', 'Metals', 'Metal', 'Gratings']
          1. ASTM B 221, Alloy 6061-T6 or 6063-T6; Alloy 6061-T1,
    2. for grating crossbars.
 3. FASTENERS
-	1. General:
-      1. Provide Type 304 stainless-steel fasteners.
+   1. General:
+   1. Provide Type 304 stainless-steel fasteners.
 4. MISCELLANEOUS MATERIALS
    1. Bituminous Paint:
       1. Cold-applied asphalt emulsion complying with ASTM D 1187.
@@ -67,25 +68,25 @@ tags: ['Facility', 'Construction', 'Metals', 'Metal', 'Gratings']
    1. Pressure-Locked, Extruded I-Bar Aluminum Grating:
       1. Bearing Bar Spacing:
          1. 15/16 inches o.c.
-2. Bearing Bar Depth:
-      1. 1-1/2 inches.
-3. Bearing Bar Thickness:
-      1. I-Bar section with 3/16 inch flanges.
-4. Crossbar Spacing:
-      1. 4 inches o.c.
-5. Traffic Surface:
-      1. Striated.
-   1. Fabricate cutouts in grating sections for penetrations indicated. Edge-band openings in grating that interrupt four or more bearing bars with bars of same size and material as bearing bars.
-   1. Do not notch bearing bars at supports to maintain elevation.
-7. GRATING FRAMES AND SUPPORTS
-   1. Frames and Supports for Metal Gratings:
-      1. Fabricate from metal shapes, plates, and bars of welded construction to sizes, shapes, and profiles indicated and as necessary to receive gratings.
-   1. Miter and weld connections for perimeter angle frames. Cut, drill, and tap units to receive
-   1. hardware and similar items.
-1. Fabricate from same basic metal as gratings.
-2. Equip units indicated to be cast into concrete with integrally welded anchors. Unless
-   1. otherwise indicated, space anchors 24 inches o.c. and provide minimum anchor units in
-   1. the form of aluminum straps 1 inch wide by 1/4 inch thick by 5 inches long.
+7. Bearing Bar Depth:
+   1. 1-1/2 inches.
+8. Bearing Bar Thickness:
+   1. I-Bar section with 3/16 inch flanges.
+9. Crossbar Spacing:
+   1. 4 inches o.c.
+10. Traffic Surface:
+    1. Striated.
+    1. Fabricate cutouts in grating sections for penetrations indicated. Edge-band openings in grating that interrupt four or more bearing bars with bars of same size and material as bearing bars.
+    1. Do not notch bearing bars at supports to maintain elevation.
+11. GRATING FRAMES AND SUPPORTS
+    1. Frames and Supports for Metal Gratings:
+       1. Fabricate from metal shapes, plates, and bars of welded construction to sizes, shapes, and profiles indicated and as necessary to receive gratings.
+    1. Miter and weld connections for perimeter angle frames. Cut, drill, and tap units to receive
+    1. hardware and similar items.
+12. Fabricate from same basic metal as gratings.
+13. Equip units indicated to be cast into concrete with integrally welded anchors. Unless
+    1. otherwise indicated, space anchors 24 inches o.c. and provide minimum anchor units in
+    1. the form of aluminum straps 1 inch wide by 1/4 inch thick by 5 inches long.
 
 ## Execution
 

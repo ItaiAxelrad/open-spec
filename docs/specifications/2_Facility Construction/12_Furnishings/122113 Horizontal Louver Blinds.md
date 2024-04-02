@@ -4,9 +4,9 @@ section: '122113'
 divNumb: 12
 divName: Furnishings
 subgroup: Facility Construction
-tags: ['Facility', 'Construction', 'Furnishings', 'Horizontal', 'Louver', 'Blinds']
+tags:
+  ['Facility', 'Construction', 'Furnishings', 'Horizontal', 'Louver', 'Blinds']
 ---
-
 
 ## General
 
@@ -22,15 +22,15 @@ tags: ['Facility', 'Construction', 'Furnishings', 'Horizontal', 'Louver', 'Blind
 
 ## Products
 
-   1. MANUFACTURERS
-   1. Provide units produced by Levelor, Graber, Bali or approved equal prior to bidding.
-   1. MATERIALS
-   1. Blinds to be 1" wide, aluminum slats.
-   1. Tilting mechanism:
-      1. non corrosive, self lubricating.
-   1. Units to include a tilting control to allow minimum air circulation to protect glass from overheating.
-   1. Finish:
-      1. factory finish, white for maximum reflectance on the exterior. Black on the interior.
+1.  MANUFACTURERS
+1.  Provide units produced by Levelor, Graber, Bali or approved equal prior to bidding.
+1.  MATERIALS
+1.  Blinds to be 1" wide, aluminum slats.
+1.  Tilting mechanism:
+    1. non corrosive, self lubricating.
+1.  Units to include a tilting control to allow minimum air circulation to protect glass from overheating.
+1.  Finish:
+    1. factory finish, white for maximum reflectance on the exterior. Black on the interior.
 
 ## Execution
 
@@ -43,5 +43,3 @@ tags: ['Facility', 'Construction', 'Furnishings', 'Horizontal', 'Louver', 'Blind
    1. CLEANING
    1. After completing the installation, clean blind surfaces according to the manufacturer's instructions.
    1. Remove surplus materials, packaging, rubbish and debris resulting from the installation. Leave areas where installation occurred neat, clean, and ready for use.
-
-

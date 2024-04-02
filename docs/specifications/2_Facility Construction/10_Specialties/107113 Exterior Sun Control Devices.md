@@ -4,7 +4,16 @@ section: '107113'
 divNumb: 10
 divName: Specialties
 subgroup: Facility Construction
-tags: ['Facility', 'Construction', 'Specialties', 'Exterior', 'Sun', 'Control', 'Devices']
+tags:
+  [
+    'Facility',
+    'Construction',
+    'Specialties',
+    'Exterior',
+    'Sun',
+    'Control',
+    'Devices',
+  ]
 ---
 
 ## General
@@ -22,7 +31,7 @@ tags: ['Facility', 'Construction', 'Specialties', 'Exterior', 'Sun', 'Control', 
    1. Wall system:
       1. Division 7
 1. REFERENCES
-	1. General:
+   1. General:
       1. Standards listed by reference, including revisions by issuing authority, form a part of this specification section to extent indicated. Standards listed are identified buy issuing authority, authority abbreviation, designation number, title, or other designation established by issuing authority. Issuing authority abbreviation and standard designation refers to standards subsequently referenced herein.
    1. American Society for Testing and Materials (ASTM):
       1. ASTM B209 - Specification for Aluminum and Aluminum-Alloy Sheet and Plate.
@@ -35,7 +44,7 @@ tags: ['Facility', 'Construction', 'Specialties', 'Exterior', 'Sun', 'Control', 
    1. Performance Requirements:
       1. Provide sunscreens, which have been manufactured, fabricated and installed to withstand loads as noted in structural documents and to maintain performance criteria stated by manufacturer without defects, damage, or failure.
 1. SUBMITTALS
-	1. General:
+   1. General:
       1. Submit listed submittals in accordance with Conditions of the Contract and Division 1 Submittal Procedures section.
    1. Product Data:
       1. Submit product data sheet for specified products.
@@ -50,7 +59,7 @@ tags: ['Facility', 'Construction', 'Specialties', 'Exterior', 'Sun', 'Control', 
       1. Certificates:
          1. Product certificates signed by manufacturer certifying materials comply with specified performance characteristics and criteria, and physical requirements.
 1. DELIVERY, STORAGE & HANDLING
-	1. General:
+   1. General:
       1. Comply with Division 1 Product Requirements Sections.
    1. Ordering:
       1. Comply with manufacturer’s ordering instructions and lead-time requirements to avoid construction delays.

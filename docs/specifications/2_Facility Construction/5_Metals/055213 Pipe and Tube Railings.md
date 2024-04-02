@@ -14,9 +14,9 @@ tags: ['Facility', 'Construction', 'Metals', 'Pipe', 'Tube', 'Railings']
 2. SUMMARY
    1. Section Includes:
       1. Aluminum pipe and tube railings.
-2. Contractor shall furnish and install handrails for the Verticell Equipment (Section
-   1. 446200) walkways and platforms. Coordinate with equipment manufacturer.
-3. PERFORMANCE REQUIREMENTS
+3. Contractor shall furnish and install handrails for the Verticell Equipment (Section
+   1. 446200. walkways and platforms. Coordinate with equipment manufacturer.
+4. PERFORMANCE REQUIREMENTS
    1. Delegated Design:
       1. Design railings, including comprehensive engineering analysis by a qualified professional engineer, using performance requirements and design criteria indicated.
    1. Structural Performance:
@@ -25,17 +25,17 @@ tags: ['Facility', 'Construction', 'Metals', 'Pipe', 'Tube', 'Railings']
       1. Uniform load of 50 lbf/ ft. applied in any direction.
       1. Concentrated load of 200 lbf applied in any direction.
       1. Uniform and concentrated loads need not be assumed to act concurrently.
-2. Infill of Guards:
-      1. Concentrated load of 50 lbf applied horizontally on an area of 1 sq. ft.
-      1. Infill load and other loads need not be assumed to act concurrently.
+5. Infill of Guards:
+   1. Concentrated load of 50 lbf applied horizontally on an area of 1 sq. ft.
+   1. Infill load and other loads need not be assumed to act concurrently.
    1. Control of Corrosion:
       1. Prevent galvanic action and other forms of corrosion by insulating metals and other materials from direct contact with incompatible materials.
-4. SUBMITTALS
+6. SUBMITTALS
    1. Product Data:
       1. For the following:
       1. Manufacturer's product lines of mechanically connected railings.
-2. Railing brackets.
-3. Grout, anchoring cement, and paint products.
+7. Railing brackets.
+8. Grout, anchoring cement, and paint products.
    1. Shop Drawings:
       1. Include plans, elevations, sections, details, and attachments to other work.
    1. Delegated-Design Submittal:
@@ -94,9 +94,9 @@ tags: ['Facility', 'Construction', 'Metals', 'Pipe', 'Tube', 'Railings']
    9. concrete, as determined by testing per ASTM E 488 conducted by a qualified independent
    10. testing agency.
    11. Nonshrink, Nonmetallic Grout:
-      1. Factory-packaged, nonstaining, noncorrosive, nongaseous grout complying with ASTM C 1107. Provide grout specifically recommended by manufacturer for
-   1. interior and exterior applications.
-5. FABRICATION
+   12. Factory-packaged, nonstaining, noncorrosive, nongaseous grout complying with ASTM C 1107. Provide grout specifically recommended by manufacturer for
+   13. interior and exterior applications.
+6. FABRICATION
    1. Fabricate connections that will be exposed to weather in a manner to exclude water. Provide weep holes where water may accumulate
    1. Cut, drill, and punch metals cleanly and accurately. Remove burrs and ease edges to a radius of approximately 1/32 inch unless otherwise indicated. Remove sharp or rough areas on exposed
    1. surfaces.
@@ -109,7 +109,7 @@ tags: ['Facility', 'Construction', 'Metals', 'Pipe', 'Tube', 'Railings']
    1. Provide wall returns at ends of wall-mounted handrails unless otherwise indicated.
    1. Brackets, Flanges, Fittings, and Anchors:
       1. Provide wall brackets, flanges, miscellaneous fittings, and anchors to interconnect railing members to other work unless otherwise indicated.
-6. ALUMINUM FINISHES
+7. ALUMINUM FINISHES
    1. Clear Anodic Finish:
       1. AAMA 611, AA-M12C22A41, Class I, 0.018 mm or thicker.
 
@@ -120,8 +120,8 @@ tags: ['Facility', 'Construction', 'Metals', 'Pipe', 'Tube', 'Railings']
 1. Do not weld, cut, or abrade surfaces of railing components that have been coated or
    1. finished after fabrication and that are intended for field connection by mechanical or
    1. other means without further cutting or fitting.
-2. Set posts plumb within a tolerance of 1/16 inch in 3 feet.
-3. Align rails so variations from level for horizontal members and variations from parallel
+1. Set posts plumb within a tolerance of 1/16 inch in 3 feet.
+1. Align rails so variations from level for horizontal members and variations from parallel
    1. with rake of steps and ramps for sloping members do not exceed 1/4 inch in 12 feet.
    1. Corrosion Protection:
       1. Coat concealed surfaces of aluminum that will be in contact with grout, concrete, masonry, wood, or dissimilar metals, with a heavy coat of bituminous paint.

@@ -4,7 +4,17 @@ section: '233300'
 divNumb: 23
 divName: Heating Ventilating and Air Conditioning
 subgroup: Facility Services
-tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 'Duct', 'Accessories']
+tags:
+  [
+    'Facility',
+    'Services',
+    'Heating',
+    'Ventilating',
+    'Air',
+    'Conditioning',
+    'Duct',
+    'Accessories',
+  ]
 ---
 
 ## General
@@ -25,15 +35,15 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
 1. Retain Sections in subparagraphs below that contain requirements Contractor might expect to find in this Section but are specified in other Sections.
 1. SUBMITTALS
    1. First two paragraphs below are defined in Division 01 Section "Submittal Procedures" as "Action Submittals."
-	1. General:
+   1. General:
       1. Submit the following:
       1. Product data including details for materials, dimensions of individual components, profiles, and finishes for the following items:
-            1. Backdraft dampers.
+         1. Backdraft dampers.
    1. Manual volume control dampers.
    1. Duct-mounted access panels and doors.
    1. Flexible ducts.
-   1. Shop drawings from manufacturer detailing assemblies. 
-   1. Include dimensions, weights, loadings, required clearances, method of field assembly, components, and location and size of each field connection. 
+   1. Shop drawings from manufacturer detailing assemblies.
+   1. Include dimensions, weights, loadings, required clearances, method of field assembly, components, and location and size of each field connection.
    1. Detail the following:
       1. Special fittings and volume control damper installation (both manual and automatic) details.
    1. Fire and smoke damper installations, including sleeves and duct-mounted access door and panel installations.
@@ -47,7 +57,7 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
 ## Products
 
 1. MATERIALS
-	1. Backdraft Dampers:
+   1. Backdraft Dampers:
       1. Description:
          1. Suitable for horizontal or vertical installation.
    1. Frame:
@@ -67,19 +77,19 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Wing-Nut Operator:
       1. Galvanized steel, with 1/4-inch galvanized-steel rod.
    1. Manual Volume Control Dampers:
-	1. General:
-      1. Provide factory-fabricated volume-control dampers, complete with required hardware and accessories. 
-   1. Stiffen damper blades to provide stability under operating conditions. 
-   1. Provide locking device to hold single-blade dampers in a fixed position without vibration. 
-   1. Close duct penetrations for damper components to seal duct consistent with pressure class. 
-   1. Provide end bearings or other seals for ducts with pressure classifications of 3 inches or higher. 
-   1. Extend axles full length of damper blades. 
+   1. General:
+      1. Provide factory-fabricated volume-control dampers, complete with required hardware and accessories.
+   1. Stiffen damper blades to provide stability under operating conditions.
+   1. Provide locking device to hold single-blade dampers in a fixed position without vibration.
+   1. Close duct penetrations for damper components to seal duct consistent with pressure class.
+   1. Provide end bearings or other seals for ducts with pressure classifications of 3 inches or higher.
+   1. Extend axles full length of damper blades.
    1. Provide bearings at both ends of operating shaft.
    1. Standard Volume Control Dampers:
       1. Multiple- or single-blade, parallel-or opposed-blade design as indicated, standard leakage rating, with linkage outside of air stream, and suitable for horizontal or vertical applications.
    1. Steel Frames:
-   1. Hat-shaped, galvanized-steel channels, minimum of 16 gauge and with mitered and welded corners. 
-   1. Provide frames with flanges where indicated for attaching to walls. 
+   1. Hat-shaped, galvanized-steel channels, minimum of 16 gauge and with mitered and welded corners.
+   1. Provide frames with flanges where indicated for attaching to walls.
    1. Provide flangeless frames where indicated for installation in ducts.
    1. Roll-Formed Steel Blades:
       1. 16-gauge galvanized steel.
@@ -92,8 +102,8 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Low-Leakage Volume Control Dampers:
       1. Multiple- or single-blade, parallel- or opposed-blade design as indicated, low-leakage rating, and suitable for horizontal or vertical applications.
    1. Steel Frames:
-   1. Hat-shaped, galvanized-steel channels, minimum of 16 gauge and with mitered and welded corners. 
-   1. Provide frames with flanges where indicated for attaching to walls. 
+   1. Hat-shaped, galvanized-steel channels, minimum of 16 gauge and with mitered and welded corners.
+   1. Provide frames with flanges where indicated for attaching to walls.
    1. Provide flangeless frames where indicated for installation in ducts.
    1. Roll-Formed Steel Blades:
       1. 16-gauge galvanized steel.
@@ -108,8 +118,8 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. High-Performance Volume Control Dampers:
       1. Multiple- or single-blade, parallel- or opposed-blade design as indicated, low-leakage rating, with linkage outside of air stream, and suitable for horizontal or vertical applications.
    1. Steel Frames:
-   1. Hat-shaped, galvanized-steel channels, minimum of 16 gauge and with mitered and welded corners. 
-   1. Provide frames with flanges where indicated for attaching to walls. 
+   1. Hat-shaped, galvanized-steel channels, minimum of 16 gauge and with mitered and welded corners.
+   1. Provide frames with flanges where indicated for attaching to walls.
    1. Provide flangeless frames where indicated for installation in ducts.
    1. Steel Blades:
       1. 18-gauge, airfoil-shaped, galvanized steel.
@@ -120,10 +130,10 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Tie Bars and Brackets:
       1. Galvanized steel.
    1. Jackshaft:
-   1. 1-inch-diameter, galvanized-steel pipe rotating within a pipe bearing assembly mounted on supports at each mullion and at each end of multiple damper assemblies. 
+   1. 1-inch-diameter, galvanized-steel pipe rotating within a pipe bearing assembly mounted on supports at each mullion and at each end of multiple damper assemblies.
    1. Provide appropriate length and number of mounting to connect linkage of each damper of a multiple damper assembly.
    1. Damper Control Hardware:
-   1. Zinc-plated, die-cast core with a heavy-gauge dial and handle made of 3/32-inch-thick zinc-plated steel, and a 3/4-inch hexagon locking nut. 
+   1. Zinc-plated, die-cast core with a heavy-gauge dial and handle made of 3/32-inch-thick zinc-plated steel, and a 3/4-inch hexagon locking nut.
    1. Provide center hole to suit damper operating rod size. Provide elevated platform for insulated duct mounting.
    1. Turning Vanes:
       1. Manufactured Turning Vanes:
@@ -131,22 +141,22 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Acoustic Turning Vanes:
       1. Fabricate of airfoil-shaped aluminum extrusions with perforated faces and fiberglass fill.
    1. Duct-mounted Access Doors and Panels:
-	1. General:
-      1. Refer to the Access Door Materials Schedule at the end of this section for frame and door thickness, number of hinges and locks, and location of locks. 
+   1. General:
+      1. Refer to the Access Door Materials Schedule at the end of this section for frame and door thickness, number of hinges and locks, and location of locks.
    1. Provide construction and air tightness suitable for duct pressure class.
    1. Frame:
-   1. Galvanized sheet steel. 
+   1. Galvanized sheet steel.
    1. Provide with bend-over tabs and foam gaskets.
    1. Door:
-   1. Double-wall, galvanized sheet metal construction with insulation fill and thickness, number of hinges and locks as indicated for duct pressure class. 
-   1. Provide vision panel where indicated. 
+   1. Double-wall, galvanized sheet metal construction with insulation fill and thickness, number of hinges and locks as indicated for duct pressure class.
+   1. Provide vision panel where indicated.
    1. Provide 1" x 1" butt hinge or piano hinge and cam latches.
    1. Seal around frame attachment to duct and door to frame with neoprene or foam rubber seals.
    1. Insulation:
       1. 1-inch-thick fiberglass or polystyrene foam board.
    1. Flexible Connectors:
-	1. General:
-         1. Flame-retarded or noncombustible fabrics, coatings, and adhesives complying with UL Standard 181, Class 1.
+   1. General:
+      1. Flame-retarded or noncombustible fabrics, coatings, and adhesives complying with UL Standard 181, Class 1.
    1. Conventional, Indoor System Flexible Connectors Fabric:
       1. Glass fabric double coated with polychloroprene.
    1. Minimum Weight:
@@ -154,8 +164,8 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Tensile Strength:
       1. 480 pounds per inch in the warp and 360 pounds per inch in the filling.
    1. Flexible Ducts:
-	1. General:
-         1. Comply with UL 181, Class 1.
+   1. General:
+      1. Comply with UL 181, Class 1.
    1. Flexible Ducts - Insulated:
    1. Factory-fabricated, insulated, round duct, with an outer jacket enclosing 1-1/2-inch-thick, glass fiber insulation around a continuous inner liner.
    1. Reinforcement:
@@ -166,10 +176,10 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
       1. Polyethylene film.
 1. ACCESSORIES
    1. Instrument Test Holes:
-   1. Cast iron or cast aluminum to suit duct material, including screw cap and gasket and a flat mounting gasket. 
+   1. Cast iron or cast aluminum to suit duct material, including screw cap and gasket and a flat mounting gasket.
    1. Size to allow insertion of pitot tube and other testing instruments and provide in length to suit duct insulation thickness.
    1. Flexible Duct Clamps:
-   1. Stainless steel band with cadmium-plated hex screw to tighten band with a worm-gear action. 
+   1. Stainless steel band with cadmium-plated hex screw to tighten band with a worm-gear action.
    1. Provide in sizes from 3 to 18 inches to suit duct size.
    1. Adhesives:
       1. High strength, quick setting, neoprene based, waterproof and resistant to gasoline and grease.
@@ -177,7 +187,7 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
 ## Execution
 
 1. EXAMINATION
-   1. Examine areas and conditions for compliance with requirements for installation tolerances and other conditions affecting performance of duct accessories. 
+   1. Examine areas and conditions for compliance with requirements for installation tolerances and other conditions affecting performance of duct accessories.
    1. Do not proceed with installation until unsatisfactory conditions are corrected.
 1. ERECTION INSTALLATION APPLICATION
    1. Install duct accessories according to manufacturer's installation instructions and applicable portions of details of construction as shown in SMACNA standards.
@@ -189,10 +199,10 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Adjust duct accessories for proper settings.
    1. Final positioning of manual dampers is specified in Division 23 sections of the Specifications.
 1. SCHEDULES
-   1. Access Door Materials Schedule: *(S:
+   1. Access Door Materials Schedule: \*(S:
       1. Side, T:
       1. Top, B:
-      1. Bottom)*
+      1. Bottom)\*
    1. DUCT
    1. PRESSURE
    1. CLASS
@@ -209,8 +219,8 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. FRAME
    1. DOOR
    1. BACK
-   1. 2 INCHES   
-& LESS
+   1. 2 INCHES  
+      & LESS
    1. 12 X 12
    1. 16 X 20
    1. 24 X 24

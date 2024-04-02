@@ -4,9 +4,16 @@ section: '328400'
 divNumb: 32
 divName: Exterior Improvements
 subgroup: Site and Infrastructure
-tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Planting', 'Irrigation']
+tags:
+  [
+    'Site',
+    'Infrastructure',
+    'Exterior',
+    'Improvements',
+    'Planting',
+    'Irrigation',
+  ]
 ---
-
 
 ## General
 
@@ -67,132 +74,133 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Planting', 'Irriga
 
 ## Products
 
-   1. MATERIALS
-   1. Equipment must have performance characteristics to operate per the site conditions.
-   1. Pipe And Pipe Fittings
-   1. Supply Lines
-   1. Piping commencing at the water source/tap, through the point of connection components to a below-grade transition to PVC main line.
-   1. Type "K" rigid, seamless copper water tube, ASTM B88, for 3" lines or smaller.
-   1. All joints
-   1. Silver soldered
-   1. All fittings through the backflow preventer to be copper.
-   1. Provide brass union at the backflow preventer.
-   1. Comply with applicable codes or supply/service line installation standards.
-   1. Main and Lateral Lines
-   1. Main Line
-   1. Piping commencing at the point of connection to the various automatic control valves.
-   1. Class 200 PVC pipe, SDR 21, conforming to ASTM D-2241, NSF approved, Type 1, pressure rated at 200 p.s.i. at 73.4 degrees F.
-   1. Lateral Line
-   1. Piping commencing at the various automatic control valves to the sprinkler heads.
-   1. Class 200 PVC pipe, SDR 21, conforming to ASTM D-2241, NSF approved, Type 1, pressure rated at 200 p.s.i. at 73.4 degrees F.
-   1. Pipe
-   1. Pipe 4" and smaller in diameter shall be bell end for solvent welding.
-   1. Fittings:
-      1. Conform to minimum requirements of pipe used.
-   1. Socket and insert fittings
-   1. Schedule 40 injection molded white PVC, conforming to ASTM D-2466 and D-1784.
-   1. No PVC compression couplings or PVC slip-fix repair couplings will be allowed on the irrigation mainline.
-   1. Solvent
-   1. Primer/Cleaner and heavy bond cement conforming to ASTM D-2564.
-   1. Flexible Plastic Pipe
-   1. To be used for lateral lines on drip zones (not allowed for lines greater than 2" diameter.):
-      1. 100# polyethylene pipe, conforming to ASTM D-2239, NSF approved.
-   1. Fittings
-   1. Schedule 40 PVC Injection molded insert fittings conforming to ASTM D-2466 and D-1784, designed for use with flexible pipe.
-   1. Fitting Clamps:
-      1. Stainless steel worm gear or pinch clamps.
-   1. Sleeving
-   1. Class 160 PVC or SDR 35 PVC sewer and drain pipe (provided under all paved surfaces).
-   1. Triple Swing Joints:
-      1. Not required.
-   1. Thrust Block
-   1. Minimum of one (1) cubic foot of cast-in-place concrete in compliance with Section 03300.
-   1. See details at the end of this Section.
-   1. Valves (as required, see Drawing for size, type, quantity and locations)
-   1. Gate/Isolation Valves
-   1. Iron body, rubber resilient seated, mechanical joint AWWA gate valves with clear waterway equal to full diameter of pipe, AVK or equal.
-   1. Able to withstand continuous working pressure of 150 p.s.i.
-   1. Automatic Control Valves
-   1. Remote, electrically operated, globe or angle valve, normally closed, integrally molded single-seat, diaphragm-operated, 24V electric solenoid actuated; with manually operated bleed plug, flow adjustment stem, and a pressure reducing regulator on all valves as required.
-   1. Manual Drain Valves (if required)
-   1. Bronze body, angle type, 200 lb. class, union and connections, FS WW-V-51 3/4", with cross-type operating handle designed to receive a valve-operating key.
-   1. Quick Coupling Assemblies (if required)
-   1. Keys
-   1. Brass construction, Heavy duty, ACME threaded type.
-   1. Backflow Preventer
-   1. High hazard, reduced pressure type, USC approved, all bronze valve body, caps, relief valve body and cover, fully ported:
-      1. Ball type valves on 2" unit or smaller
-   1. Resilient wedged gate valves on larger than 2".
-   1. 3/4" or 1" Febco Model, verify exact P.O.C. size with the Owner.
-   1. Valve Boxes
-   1. Control Valves
-   1. 12" Standard Ametek with lid.
-   1. Quick Coupling Valves
-   1. 10" round Ametek with lid.
-   1. Isolation Valves
-   1. 10" round Ametek with lid.
-   1. Manual Drain Valves
-   1. 10 round Ametek with lid.
-   1. Covers
-   1. Green locking cover with flush fit marked IRRIGATION CONTROL VALVE.
-   1. Drainage Sump
-   1. Shall contain a minimum of three (3) cubic feet of 3/4" crushed gravel wrapped in geotextile at all manual drain valve locations.
-   1. Pressure Reducing Valve:
-      1. Low Volume Irrigation Components
-1. General
-   1. Drip irrigation system will consist of a main line pipe network, filter, valve, pressure regulator, drip pipe/hose, and emission devices/emitters.
-   1. Filter shall precede the valve and the regulator, thus minimizing the potential of contamination affecting either of the two units and also having the pressure loss of the filter from influencing the regulated pressure.
-   1. Pipe/hose
-   1. Thick walled, highly flexible tubing.
-   1. Shall:
-      1. Resist kinking and damage caused by routine landscape maintenance activities
-   1. Be constructed from UV-resistant polyethylene materials
-   1. Meet ASAE Standard S435 for uniformity and consistency.
-   1. Fittings
-   1. Shall be heavy duty, compression fittings, sized to accommodate the pipe/hose and configurations (tee, ell, coupling) as necessary to accomplish drip irrigation design.
-   1. Emitters
-   1. Shall be of a pressure compensating type, with UV inhibiter to minimize detrimental effects due to UV radiation.
-   1. Each emitter shall be of the punch in type and self-flushing.
-   1. Rated flow shall be one-half, one or two gallons per hour.
-   1. Valve Assembly
-   1. Each drip valve assembly installation shall include an inline Wye filter and inline pressure regulator.
-   1. Wye filter shall have a 200-mesh screen and an easy to remove cap for flushing.
-   1. Pressure Regulator shall have an outlet pressure of 30 psi.
-   1. Accessories
-   1. Provide additional accessories, as required for a complete, functional drip system, to include but not limited to hose stakes, goof plugs, end caps, couplings, tubing, air relief valves, valve boxes, etc.
-   1. Automatic Control System (see Drawing for type and locations.)
-   1. Automatic Controller
-   1. Controller
-   1. Capable of opening normally closed electric solenoid type valve.
-   1. Automatic Timing
-   1. Capable of incremental units up to at least sixty (60) minutes per station with not less than 3% loss of accuracy.
-   1. Provide manual operations with station advance feature.
-   1. Provide repeat and/or syringe cycle capabilities and ability to eliminate or isolate one station without disturbing remaining clock features.
-   1. Coordinate power requirements and connections prior to installation.
-   1. Controller Casing
-   1. Weather-tight and vandal-resistant separate housing compatible with controller.
-   1. Independent station controller or dual programming.
-   1. Coordinate location with the Owner.
-   1. Electric Control Wiring
-   1. Irrigation Control Wiring
+1.  MATERIALS
+1.  Equipment must have performance characteristics to operate per the site conditions.
+1.  Pipe And Pipe Fittings
+1.  Supply Lines
+1.  Piping commencing at the water source/tap, through the point of connection components to a below-grade transition to PVC main line.
+1.  Type "K" rigid, seamless copper water tube, ASTM B88, for 3" lines or smaller.
+1.  All joints
+1.  Silver soldered
+1.  All fittings through the backflow preventer to be copper.
+1.  Provide brass union at the backflow preventer.
+1.  Comply with applicable codes or supply/service line installation standards.
+1.  Main and Lateral Lines
+1.  Main Line
+1.  Piping commencing at the point of connection to the various automatic control valves.
+1.  Class 200 PVC pipe, SDR 21, conforming to ASTM D-2241, NSF approved, Type 1, pressure rated at 200 p.s.i. at 73.4 degrees F.
+1.  Lateral Line
+1.  Piping commencing at the various automatic control valves to the sprinkler heads.
+1.  Class 200 PVC pipe, SDR 21, conforming to ASTM D-2241, NSF approved, Type 1, pressure rated at 200 p.s.i. at 73.4 degrees F.
+1.  Pipe
+1.  Pipe 4" and smaller in diameter shall be bell end for solvent welding.
+1.  Fittings:
+    1. Conform to minimum requirements of pipe used.
+1.  Socket and insert fittings
+1.  Schedule 40 injection molded white PVC, conforming to ASTM D-2466 and D-1784.
+1.  No PVC compression couplings or PVC slip-fix repair couplings will be allowed on the irrigation mainline.
+1.  Solvent
+1.  Primer/Cleaner and heavy bond cement conforming to ASTM D-2564.
+1.  Flexible Plastic Pipe
+1.  To be used for lateral lines on drip zones (not allowed for lines greater than 2" diameter.):
+    1. 100# polyethylene pipe, conforming to ASTM D-2239, NSF approved.
+1.  Fittings
+1.  Schedule 40 PVC Injection molded insert fittings conforming to ASTM D-2466 and D-1784, designed for use with flexible pipe.
+1.  Fitting Clamps:
+    1. Stainless steel worm gear or pinch clamps.
+1.  Sleeving
+1.  Class 160 PVC or SDR 35 PVC sewer and drain pipe (provided under all paved surfaces).
+1.  Triple Swing Joints:
+    1. Not required.
+1.  Thrust Block
+1.  Minimum of one (1) cubic foot of cast-in-place concrete in compliance with Section 03300.
+1.  See details at the end of this Section.
+1.  Valves (as required, see Drawing for size, type, quantity and locations)
+1.  Gate/Isolation Valves
+1.  Iron body, rubber resilient seated, mechanical joint AWWA gate valves with clear waterway equal to full diameter of pipe, AVK or equal.
+1.  Able to withstand continuous working pressure of 150 p.s.i.
+1.  Automatic Control Valves
+1.  Remote, electrically operated, globe or angle valve, normally closed, integrally molded single-seat, diaphragm-operated, 24V electric solenoid actuated; with manually operated bleed plug, flow adjustment stem, and a pressure reducing regulator on all valves as required.
+1.  Manual Drain Valves (if required)
+1.  Bronze body, angle type, 200 lb. class, union and connections, FS WW-V-51 3/4", with cross-type operating handle designed to receive a valve-operating key.
+1.  Quick Coupling Assemblies (if required)
+1.  Keys
+1.  Brass construction, Heavy duty, ACME threaded type.
+1.  Backflow Preventer
+1.  High hazard, reduced pressure type, USC approved, all bronze valve body, caps, relief valve body and cover, fully ported:
+    1. Ball type valves on 2" unit or smaller
+1.  Resilient wedged gate valves on larger than 2".
+1.  3/4" or 1" Febco Model, verify exact P.O.C. size with the Owner.
+1.  Valve Boxes
+1.  Control Valves
+1.  12" Standard Ametek with lid.
+1.  Quick Coupling Valves
+1.  10" round Ametek with lid.
+1.  Isolation Valves
+1.  10" round Ametek with lid.
+1.  Manual Drain Valves
+1.  10 round Ametek with lid.
+1.  Covers
+1.  Green locking cover with flush fit marked IRRIGATION CONTROL VALVE.
+1.  Drainage Sump
+1.  Shall contain a minimum of three (3) cubic feet of 3/4" crushed gravel wrapped in geotextile at all manual drain valve locations.
+1.  Pressure Reducing Valve:
+    1. Low Volume Irrigation Components
+1.  General
+    1.  Drip irrigation system will consist of a main line pipe network, filter, valve, pressure regulator, drip pipe/hose, and emission devices/emitters.
+    1.  Filter shall precede the valve and the regulator, thus minimizing the potential of contamination affecting either of the two units and also having the pressure loss of the filter from influencing the regulated pressure.
+    1.  Pipe/hose
+    1.  Thick walled, highly flexible tubing.
+    1.  Shall:
+        1. Resist kinking and damage caused by routine landscape maintenance activities
+    1.  Be constructed from UV-resistant polyethylene materials
+    1.  Meet ASAE Standard S435 for uniformity and consistency.
+    1.  Fittings
+    1.  Shall be heavy duty, compression fittings, sized to accommodate the pipe/hose and configurations (tee, ell, coupling) as necessary to accomplish drip irrigation design.
+    1.  Emitters
+    1.  Shall be of a pressure compensating type, with UV inhibiter to minimize detrimental effects due to UV radiation.
+    1.  Each emitter shall be of the punch in type and self-flushing.
+    1.  Rated flow shall be one-half, one or two gallons per hour.
+    1.  Valve Assembly
+    1.  Each drip valve assembly installation shall include an inline Wye filter and inline pressure regulator.
+    1.  Wye filter shall have a 200-mesh screen and an easy to remove cap for flushing.
+    1.  Pressure Regulator shall have an outlet pressure of 30 psi.
+    1.  Accessories
+    1.  Provide additional accessories, as required for a complete, functional drip system, to include but not limited to hose stakes, goof plugs, end caps, couplings, tubing, air relief valves, valve boxes, etc.
+    1.  Automatic Control System (see Drawing for type and locations.)
+    1.  Automatic Controller
+    1.  Controller
+    1.  Capable of opening normally closed electric solenoid type valve.
+    1.  Automatic Timing
+    1.  Capable of incremental units up to at least sixty (60) minutes per station with not less than 3% loss of accuracy.
+    1.  Provide manual operations with station advance feature.
+    1.  Provide repeat and/or syringe cycle capabilities and ability to eliminate or isolate one station without disturbing remaining clock features.
+    1.  Coordinate power requirements and connections prior to installation.
+    1.  Controller Casing
+    1.  Weather-tight and vandal-resistant separate housing compatible with controller.
+    1.  Independent station controller or dual programming.
+    1.  Coordinate location with the Owner.
+    1.  Electric Control Wiring
+    1.  Irrigation Control Wiring
 
 #14 direct burial type UF cable, UL approved, or larger if required to operate system as required.
-   1. Comply with controller Manufacturer's recommendations for wiring size.
-   1. Each Controller
-   1. Consistent color system throughout:
-      1. Live:
-         1. Red.
-   1. Ground:
-      1. White
-   1. Extra:
-      1. Green or Black.
-   1. Splices and Connections
-   1. Watertight and leak proof (Snaptite wire connectors).
-   1. All wire connectors must be UL approved.
-   1. Electric control wire to be PVC coated.
-   1. Wire insulation must be color dyed full depth.
-   1. Electrical Work
-   1. Comply with all applicable electrical codes.
+
+1.  Comply with controller Manufacturer's recommendations for wiring size.
+1.  Each Controller
+1.  Consistent color system throughout:
+    1. Live:
+       1. Red.
+1.  Ground:
+    1. White
+1.  Extra:
+    1. Green or Black.
+1.  Splices and Connections
+1.  Watertight and leak proof (Snaptite wire connectors).
+1.  All wire connectors must be UL approved.
+1.  Electric control wire to be PVC coated.
+1.  Wire insulation must be color dyed full depth.
+1.  Electrical Work
+1.  Comply with all applicable electrical codes.
 
 ## Execution
 
@@ -359,5 +367,3 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Planting', 'Irriga
    1. Take precaution to protect utilities.
    1. Repair or replace damaged lines to satisfaction of Owner at Contractor's expense.
    1. Complete the Pre-Excavation Check List shown on the Irrigation Plan(s) with each item checked off prior to excavation.
-   
-

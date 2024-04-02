@@ -7,7 +7,6 @@ subgroup: General Requirements
 tags: ['General', 'Requirements', 'Operation', 'Maintenance', 'Data']
 ---
 
-
 ## General
 
 1. SUMMARY
@@ -40,7 +39,7 @@ tags: ['General', 'Requirements', 'Operation', 'Maintenance', 'Data']
    1. Manual for Materials and Finishes
    1. Content for the architectural products, applied materials and finishes shall include the following:
       1. Manufacturer's data:
-            1. Catalog number
+         1. Catalog number
    1. Size
    1. Composition
    1. Color designations
@@ -57,9 +56,9 @@ tags: ['General', 'Requirements', 'Operation', 'Maintenance', 'Data']
    1. Submit three compact disc copies of approved data in final form fifteen days after final inspection.
 
 ## Products
- (NOT USED)
+
+(NOT USED)
 
 ## Execution
- (NOT USED)
 
-
+(NOT USED)

@@ -4,7 +4,8 @@ section: '331000'
 divNumb: 33
 divName: Utilities
 subgroup: Site and Infrastructure
-tags: ['Site', 'Infrastructure', 'Utilities', 'Underground', 'Utility', 'Marking']
+tags:
+  ['Site', 'Infrastructure', 'Utilities', 'Underground', 'Utility', 'Marking']
 ---
 
 ## General
@@ -13,9 +14,9 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Underground', 'Utility', 'Marking
    1. Retain or delete this article in all Sections of Project Manual.
    1. Construction drawings.
 1. SUMMARY
-   1. This Section includes underground utility marking guidelines and requirements for installation of locate ball markers based on manufacturers’ data. 
+   1. This Section includes underground utility marking guidelines and requirements for installation of locate ball markers based on manufacturers’ data.
    1. Products listed herein are the 3M electronic marker system (EMS). No substitution will be allowed.
-   1. Owner owns 3M Dynatel Advanced Locator 2250. Marker balls shall be compatible with this unit. 
+   1. Owner owns 3M Dynatel Advanced Locator 2250. Marker balls shall be compatible with this unit.
 1. REFERENCES
    1. 3M Dynatel manufacturer information.
 1. SUBMITTALS
@@ -43,29 +44,29 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Underground', 'Utility', 'Marking
 
 1. MANUFACTURERS
    1. 3M Dynatel. No substitution allowed.
-   1. For utilities located within 5’ of surface - 3M ID Extended Range Ball Marker Series 1420-XR/ID, programmable, color identified by trade. 
+   1. For utilities located within 5’ of surface - 3M ID Extended Range Ball Marker Series 1420-XR/ID, programmable, color identified by trade.
    1. Gas – Yellow, 1425-XR/ID
    1. Power – Red, 1422-XR/ID
    1. Telephone/Communication – Orange, 1421-XR/ID
    1. Sanitary Sewer – Green, 1424-XR/ID
    1. Water – Blue, 1423-XR/ID
-   2. General – Fuscia, 1428-XR/ID
-   3. Intermediate marker balls shall be – 3M Non RFID Marker Series 1400-XR
-   4. Gas – Yellow, 1405-XR
-   5. Power – Red, 1402-XR
-   6. Telephone/Communication – Orange, 1401-XR
-   7. Sanitary Sewer – Green, 1404-XR
-   8. Water – Blue, 1403-XR
-   9. General – Fuscia, 1408-XR 
+   1. General – Fuscia, 1428-XR/ID
+   1. Intermediate marker balls shall be – 3M Non RFID Marker Series 1400-XR
+   1. Gas – Yellow, 1405-XR
+   1. Power – Red, 1402-XR
+   1. Telephone/Communication – Orange, 1401-XR
+   1. Sanitary Sewer – Green, 1404-XR
+   1. Water – Blue, 1403-XR
+   1. General – Fuscia, 1408-XR
 
 ## Execution
 
 1. ERECTION, INSTALLATION AND APPLICATION
+
    1. Tracer wire is required on Gas, Telephone/Communication (telecom), Water, and Sanitary Sewer.
    1. Marker tape 1’ below surface is required on all underground utilities.
    1. Marker balls shall be placed a minimum of 4” directly above utility pipe. If the utility pipe is deeper than 5’ contractor shall place the marker balls 5’ below the surface.
 
- 
    1. Where necessary, marker balls shall be secured to the utility by inserting a cable tie through the marker ball tie-down tabs and around the utility pipe.
    1. Once the marker has been placed, hand-fill at least 6”of soil over the marker. Continue normal backfill operations once hand-filling is complete.
    1. Intermediate marker balls shall be utilized on straight runs of pipe. These balls do not require any ID marker information. Intermediate marker balls will be placed every 50’ unless directed otherwise.
@@ -84,9 +85,9 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Underground', 'Utility', 'Marking
       1. W1, W2, etc.
    1. Sanitary Sewer:
       1. SS1, SS2, etc.
+
 1. FIELD QUALITY CONTROL
    1. Verify each installed marker ball for performance and correct identity.
    1. First two paragraphs below are defined in Division 01 Section "Submittal Procedures" as "Action Submittals."
    1. Remaining paragraphs are defined in Division 01 Section "Submittal Procedures" as "Informational Submittals."
    1. Retain first paragraph below if Drawings do not include detailed plans or if Project involves unusual coordination requirements.
-

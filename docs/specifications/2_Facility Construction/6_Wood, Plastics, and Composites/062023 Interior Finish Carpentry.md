@@ -4,7 +4,17 @@ section: '062023'
 divNumb: 6
 divName: Wood, Plastics, and Composites
 subgroup: Facility Construction
-tags: ['Facility', 'Construction', 'Wood', 'Plastics', 'Composites', 'Interior', 'Finish', 'Carpentry']
+tags:
+  [
+    'Facility',
+    'Construction',
+    'Wood',
+    'Plastics',
+    'Composites',
+    'Interior',
+    'Finish',
+    'Carpentry',
+  ]
 ---
 
 ## General
@@ -26,7 +36,7 @@ tags: ['Facility', 'Construction', 'Wood', 'Plastics', 'Composites', 'Interior',
    1. "Architectural Woodwork Quality Standards" by A.W.I. custom grade or economy grade, latest edition.
    2. American National Standards for Making Buildings and Facilities Accessible to and Usable to Physically Handicapped People, ANSI A117.1.
    3. Uniform Federal Accessibility Standards (UFAS).
-2. SUBMITTALS
+1. SUBMITTALS
    1. Shop Drawings:
       1. All millwork items.
    2. Countertops.
@@ -37,7 +47,7 @@ tags: ['Facility', 'Construction', 'Wood', 'Plastics', 'Composites', 'Interior',
       1. Wood veneers and solid wood.
    7. Plastic laminate.
    8. Cabinet hardware.
-3. QUALITY ASSURANCE
+1. QUALITY ASSURANCE
    1. Architectural woodwork shall comply with AWI "Quality Standards" as applicable.
    2. Lumber shall be marked on each piece, located on surfaces that will not be exposed after installation.
    3. Grade marks to be of the association under whose rules it is graded.

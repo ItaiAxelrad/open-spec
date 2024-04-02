@@ -4,15 +4,21 @@ section: '328005'
 divNumb: 32
 divName: Exterior Improvements
 subgroup: Site and Infrastructure
-tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Design', 'Build', 'Irrigation']
+tags:
+  [
+    'Site',
+    'Infrastructure',
+    'Exterior',
+    'Improvements',
+    'Design',
+    'Build',
+    'Irrigation',
+  ]
 ---
-
-
-   1. design-build irrigation systems
 
 ## General
 
-1. SUMMARY 
+1. SUMMARY
    1. This section describes the expectations of the owner, and provides provisions for the contract to design and install an proper irrigation system.
    1. Section Includes
    1. Trenching, stockpiling excavation materials, refilling and compacting trenches.
@@ -34,15 +40,15 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Design', 'Build', 
    1. Mainline system - Mainline shall be designed such that velocities within the piping do not exceed the manufacturer’s recommendations for any given pipe size or material.
    1. Upland or Dryland Seed Areas
    1. These areas shall be irrigated with an automatic underground irrigation system. The purpose of the system is to facilitate germination and assist in establishment of the seeding. 100% overlapping coverage is not necessary when designing the irrigation system. This system is shall be designed for occasional use, after establishment.
-   1. Shrub bed areas (plant material one gallon in size and larger) shall be drip irrigated. 
-   1. Perennials, annual, and ground covers shall be irrigated by spray irrigation. 
+   1. Shrub bed areas (plant material one gallon in size and larger) shall be drip irrigated.
+   1. Perennials, annual, and ground covers shall be irrigated by spray irrigation.
    1. Turf areas shall be irrigated by pop-up type spray irrigation.
    1. Material List Submittal
    1. Prior to commencing construction of the irrigation system, email material cut-sheets of all equipment to be installed. Submittal shall include a cover sheet that itemizes all items within the submittal.
    1. Substitution of any product, material, or equipment without prior written approval of the Owner’s Representative during installation will not be permitted.
    1. Record Drawings (As-Builts)
-   1. During installation of the irrigation system, the Contractor shall have on site a copy of the landscape plans and irrigation plans. At the end of every day the plans shall be marked up to represent the work performed that day and any deviations from plans. 
-   1. Indicate zone, wiring, and piping changes on these documents as well as the physical location (using a reference system) of each of the elements. 
+   1. During installation of the irrigation system, the Contractor shall have on site a copy of the landscape plans and irrigation plans. At the end of every day the plans shall be marked up to represent the work performed that day and any deviations from plans.
+   1. Indicate zone, wiring, and piping changes on these documents as well as the physical location (using a reference system) of each of the elements.
    1. Dimension, from two permanent points of reference (building corners, sidewalk, road inter-sections or permanent structures), location of following items.
    1. Connection to existing water lines.
    1. Routing of main irrigation supply line. Provide dimensions for each 100 L.F. along each routing, and for each change in direction.
@@ -74,7 +80,7 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Design', 'Build', 
    1. Submit Shop Drawings for review by the Owner’s Representative, including a complete materials list indicating manufacturer, model number, and description of all materials and equipment to be used. Show appropriate dimensions and adequate detail to accurately portray intent of construction.
 1. QUALITY ASSURANCE
    1. Installer Qualifications
-   1. Installer shall have had considerable experience and demonstrate ability in the installation of irrigation system(s) of specific type(s) in a neat orderly, and responsible manner in accordance with recognized standards of workmanship. 
+   1. Installer shall have had considerable experience and demonstrate ability in the installation of irrigation system(s) of specific type(s) in a neat orderly, and responsible manner in accordance with recognized standards of workmanship.
    1. Special Requirements
    1. Work involving substantial plumbing for installation of copper piping, backflow preventer(s), and related Work shall be executed by licensed and bonded plumber(s). Secure a permit at least 48 hours prior to start of installation.
    1. Tolerances - Specified depths of mains and laterals and pitch of pipes are minimums. Settlement of trenches is cause for removal of finish grade treatment, refilling, compaction, and repair of finish grade treatment.
@@ -97,7 +103,7 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Design', 'Build', 
    1. Replacement of Paving and Curbs
    1. Where trenches and lines cross existing roadways, paths, curbing, etc., damage to these shall be kept to a minimum and shall be restored to original condition.
 1. WARRANTY
-   1. Manufacturer shall warrant materials against defects for a period of one year from date of Initial Acceptance. 
+   1. Manufacturer shall warrant materials against defects for a period of one year from date of Initial Acceptance.
    1. Installer(s) shall guarantee workmanship for similar period.
    1. Settling of backfilled trenches which may occur during guarantee period shall be repaired at no expense to Owner, including complete restoration of damaged property.
    1. Expenses due to vandalism before substantial completion shall be borne by Contractor.
@@ -106,7 +112,7 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Design', 'Build', 
    1. The Owner reserves the right to make temporary repairs during the warranty period to keep the irrigation systems in operating condition without voiding the warranty or responsibility.
    1. Manufacturers’ warranties shall not relieve the contractor of liability. Such warranties are intended only to supplement the Contractor’s warranty.
    1. MAINTENANCE
-   1. Furnish the following maintenance items to Owner at the time of Final Acceptance and end of Warranty Period. 
+   1. Furnish the following maintenance items to Owner at the time of Final Acceptance and end of Warranty Period.
    1. Two Sets of special tools required for removing, disassembling, and adjusting each type of sprinkler head and valve supplied on this Project.
    1. One 6 foot valve keys for operation of gate valves or stop and waste valves (if applicable).
    1. Two keys for each automatic controller.
@@ -119,11 +125,11 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Design', 'Build', 
 
 1. MATERIALS:
 1. General Information
-   1. Substitution of any product, material, or equipment without prior written approval of the Owner’s Representative will not be permitted. 
+   1. Substitution of any product, material, or equipment without prior written approval of the Owner’s Representative will not be permitted.
    1. Contractor shall be responsible for performance of substitutes to be equal to the original design in every respect.
    1. If substitutions are unsatisfactory in the opinion of the Owner’s Representative, remove substituted work and replace with the originally specified equipment.
 1. General Piping:
-      1. Pressure Supply Line (from point of connection through backflow prevention unit) - Type "L" Hard Copper.
+   1. Pressure Supply Line (from point of connection through backflow prevention unit) - Type "L" Hard Copper.
    1. Pressure Supply Lines (downstream of backflow prevention units) - Class 200 PVC BE (1" - 2 ½") and Class 160 PVC RT (3" and larger).
    1. Non-pressure lines - Class 200 PVC BE
    1. Non-pressure lines - 80# NSF Polyethylene.
@@ -171,7 +177,7 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Design', 'Build', 
    1. Emitters:
       1. Single port or multi-port, pressure compensating type, with a flow variation of less than 10 percent. Furnish each outlet with a separate silicone elastomer control element.
    1. Quick Coupling Valves
-   1. Brass two-piece body designed for working pressure of 150 PSI; operable with quick coupler. Equip quick coupler with locking rubber cover. Rain Bird 44LRC. 
+   1. Brass two-piece body designed for working pressure of 150 PSI; operable with quick coupler. Equip quick coupler with locking rubber cover. Rain Bird 44LRC.
    1. Valve Boxes
    1. Gate Valves, Drip Line Blow-out Stubs, and Wire Stub Box – 12” Rectangular or 10” Round with purple lids.
    1. Electrical Control Wiring
@@ -225,158 +231,156 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Design', 'Build', 
 
 ## Execution
 
-   1. INSPECTION
-   1. Examine areas and conditions under which Work of this Section is to be performed. Do not proceed with Work until unsatisfactory conditions have been corrected.
-   1. Grading operations, with the exception of final grading, shall be completed, and approved by Owner, before staking or installation of any irrigation system begins.
-   1. Notify owner’s representative three calendar days prior to the following reviews.
-   1. Pressure test main line installation
-   1. System layout
-   1. Coverage tests prior to planting
-   1. Final review.
-1. PREPARATION
-   1. Staking shall Occur as Follows
-   1. Mark, with powdered lime, paint, or flagging, routing of pressure supply line and flag heads. Contact Owners Representative three days in advance and request review of staking. Owners Representative will advise installer as to the amount of staking to be prepared. Owners Representative will review staking and direct changes if required. Review does not relieve installer from coverage problems due to improper placement of heads after staking.
-   1. If Project has significant topography, freeform planting beds, or other amenities which could require alteration of irrigation equipment layout as deemed necessary by Owners Representative, do not install irrigation equipment in these areas until Owners Representative has reviewed equipment staking.
-   1. Install sleeves under paving and walks for piping or control wiring that crosses walks or paving wider than 5 feet. Install to correct locations and elevations. Furnish at least 2 pipe sizes larger than the pipe to be accommodated. If sleeves are missing, install them by boring, or jacking. Resort to cutting only where acceptable to Owner’s representative. Compact backfill around sleeves to 95% Modified Proctor Density within 2% of optimum moisture content in accordance with STM D1557.
-   1. Trenching
-   1. Trench excavation shall follow, as much as possible, layout shown on drawing. Dig trenches straight and support pipe continuously on bottom of trench. Trench bottom shall be clean and smooth with all rock and organic debris removed.
-   1. Clearances
-   1. Piping 3 Inches and Larger - Make trenches of sufficient width (14 inches minimum) to properly assemble and position pipe in trench. Minimum clearance of piping 3 inches or larger shall be 5 inches horizontally on both sides of the trench.
-   1. Piping Smaller than 3 Inches - Trenches shall have a minimum width of 7 inches.
-   1. Line Clearance - Provide not less than 6 inches of clearance between each line, and not less than 12 inches of clearance between lines of other trades.
-   1. Pipe and Wire Depth
-   1. Pressure Supply Piping - 18 inches from top of pipe.
-   1. PVC Sleeving - 18 inches from top of pipe.
-   1. Non-pressure Piping (rotor) - 18 inches from top of pipe.
-   1. Non-pressure Piping (pop-up) - 12 inches from top of pipe.
-   1. Control Wiring - Side of pressure main.
-   1. Drip Tubing - 4 inches from top of pipe.
-   1. Emitter Tubing (Micro-tubing) - 2 inches from top of pipe.
-   1. Boring will be permitted only where pipe must pass under obstruction(s) which cannot be removed. In backfilling bore, final density of backfill shall match that of surrounding soil. It is acceptable to use sleeves of suitable diameter installed first by jacking or boring, and pipe laid through sleeves. Observe same precautions as though pipe were installed in open trench.
-1. INSTALLATION
-   1. Locate other equipment as near as possible to locations designated. Deviations shall be reviewed by Owners Representative prior to installation. Make minor adjustments to trench locations as necessary to avoid conflicts with landscape. Plant locations shall take precedence over irrigation lines.
-   1. PVC piping
-   1. Snake pipe in trench as much as possible to allow for expansion and contraction. 
-   1. Do not install pipe when air temperature is below 40ºF. 
-   1. Place manual drain valves at low points and dead ends of pressure supply piping to insure complete drainage of system.
-   1. When pipe laying is not in progress, or at end of each day, close pipe ends with tight plug or cap.
-   1. Perform Work in accordance with good practices prevailing in piping trades.
-   1. Solvent weld PVC pipe
-   1. Lay pipe and make all plastic to plastic joints in accordance with manufacturer's recommendations.
-   1. Main line piping greater than 4”
-   1. Install with rubber gaskets, steel fittings, and concrete thrust blocks at each change of direction and terminal points. Provide thrust blocks in accordance with pipe manufacturer’s instructions.
-   1. Drip tubing and emitters
-1. General
-   1. Provide six 1 gallon per hour emission points for trees with a caliper greater than 2” in diameter, four 1 gallon per hour emission points for trees with a caliper less than 2” in diameter, two ½ gallon per hour points for each shrub, and one ½ gallon per hour emission point for smaller plants.
-   1. Do not install drip tubing until 5 gallon and larger plant materials are placed and finish grade is established.
-   1. Drip lines shall be buried with soil. Depth of bury indicates amount of coverage by backfill, as measured below the weed fabric.
-   1. Protection
-   1. Tape all open ends of drip tubing during installation to prevent entry of debris.
-   1. Cut all drip tubing with pliers-type Victor pipe cutter to prevent entry of debris. Do not use a saw.
-   1. Tubing:
-      1. Install drip tubing with 4” of soil cover in planting beds and 8” of cover under turf areas.
-   1. Capillary tubing:
-      1. Install capillary tubing 2” below the soil surface with a bug cap on every outlet. Install tubing outlet ½” above soil surface on a plastic stake.
-   1. Make all fitting connections as per manufacturers recommendations.
-   1. Use only manufacturer provided or recommended hole punch when making penetrations in drip tubing for insert fittings. Use of any other hole punch shall be cause for immediate removal and replacement of all installed drip tubing.
-   1. Install drip line blow-out stubs at all dead ends of drip tubing.
-   1. Control wiring
-   1. Low Voltage Wiring
-   1. Bury control wiring between controller and electric valves in pressure supply line trenches, strung as close as possible to main pipe lines with such wires to be consistently located below and to one side of pipe, or in separate trenches.
-   1. Bundle all 24 volt wires at 10 foot intervals and lay with pressure supply line pipe to one side of the trench.
-   1. Provide an expansion loop at every pressure pipe angle fitting, every electric control valve location (in valve box), and every 500 feet. Form expansion loop by wrapping wire at least 8 times around a 3/4 inch pipe and withdrawing pipe.
-   1. Make all splices and E.C.V. connections using Rain Bird Pentite connectors or similar dry splice method.
-   1. Install all control wire splices not occurring at control valve in a separate splice valve box.
-   1. Install one continuous control wire for each control valve.
-   1. Run two spare #14 AWG UFUL control wires and one common wire from controller pedestal to the end of each and every leg of mainline. Label spare wires at controller and wire stub box.
-   1. Make electrical connection at valve to allow for pigtail so solenoid can be removed from valve with sufficient slack to allow ends to be pulled 12” above ground for examination and cleaning.
-   1. Run wiring in EMT conduit between controller and beginning of underground wiring. Sleeve through foundation wall, asphalt, and concrete surfaces, and other materials as required.
-   1. High Voltage Wiring for Automatic Controller
-   1. Provide 120 volt power connection to automatic controller.
-   1. All electric work shall conform to local codes, ordinances, and authorities having jurisdiction. All high voltage electrical work shall be performed by licensed electrician.
-   1. Automatic Controller:
-      1. Install controller in accordance with manufacturer's instructions as detailed and where shown on Drawings.
-   1. Connect remote control valves to controller in numerical sequence as shown on Drawings.
-   1. Final location of controller shall be approved by Owners Representative prior to installation.
-   1. Each controller shall be a dedicated separate ground wire and grounding rod as detailed.
-   1. All above ground conduit shall be rigid galvanized with appropriate fittings. All below ground conduit shall be schedule 40 PVC.
-   1. Electric Control Valves
-   1. Install cross-handle 3 inches below finished grade. When grouped together, allow at least 12 inches between valve box sides. Install each remote control valve in a separate valve box. Install individual valve box flush with grade.
-   1. Quick Coupling Valves
-   1. Install quick couplers on double swing-joint assemblies of Schedule 80 PVC pipe; plumb and flush to grade. Angled nipple relative to pressure supply line shall be no more than 45 degrees and no less than 10 degrees. Install quick coupling valves as detailed. Quick couplers shall be located at intervals of 200’ along the main line, for connecting temporary irrigation lines.
-   1. Drip Valve Assemblies
-   1. Install drip valve assembly as detailed.
-   1. Drip Emitters
-   1. Stake all surface emitters as detailed and stake with acceptable tubing stakes.
-   1. Drain Valves
-   1. Install at all low points in the pressure line. Grade piping to drains a minimum of 3” per 100 feet. Drain valves should have a three cubic foot gravel sump at each location.
-   1. Valve Boxes:
-      1. Install one valve box for each type of valve installed as detailed. Valve box extensions are not acceptable except for master valves. Install gravel sump after compaction of all trenches. Place final portion of gravel inside valve box after valve box is backfilled and compacted.
-   1. Brand controller letter and station number on lid of each valve box. Letter and number size shall be no smaller than 1 inch and no greater in size than 1 ½ inches. Depth of branding shall be no more than 1/8 inch into valve box lid.
-   1. Install valve boxes parallel to each other and parallel or perpendicular to pavement or other edges.
-   1. Do not install valve boxes in low points of proposed or existing slopes or drainage swales.
-   1. Gate Valves:
-      1. Install where required, or requested by owner’s representative.
-   1. Brass pipe and threaded plastic and brass fittings.
-   1. Assemble using Teflon tape applied to the male threads only. Threads should contain three complete wraps of tape.
-   1. Sprinkler Heads:
-      1. Install sprinkler heads where required to cover seeded areas or sod. In no case shall the spacing exceed maximum recommended by manufacturer. Secure heads with pipe, stakes. Adjust part circle heads for proper coverage. Adjust heads as needed to provide adequate coverage to seeded areas. Plant placement shall not interfere with intended sprinkler head coverage, piping, or other equipment. Owners Representative may request nozzle changes or adjustments without additional cost to the Owner.
-   1. Backflow Preventer
-   1. Install in accordance with state and local codes, and USC guidelines
-   1. Backfilling
-   1. Do not begin backfilling operations until required system tests have been completed. Backfill shall not be done in freezing weather except with review by Owners Representative. Leave trenches slightly mounded to allow for settlement after backfilling is completed. Trenches shall be finish graded prior to walk-through of system by Owners Representative.
-   1. Materials - Excavated material is generally considered satisfactory for backfill purposes. Backfill material shall be free of rubbish, vegetable matter, frozen materials, and stones larger than 1 inch in maximum dimension. Do not mix subsoil with topsoil. Material not suitable for backfill shall be hauled away. Contractor shall be responsible for providing suitable backfill if excavated material is unacceptable or not sufficient to meet backfill, compaction, and final grade requirements.
-   1. Do not leave trenches open for a period of more than 48 hours. Open excavations shall be protected in accordance with OSHA regulations.
-   1. Compact backfill to 90% maximum density, determined in accordance with ASTM D155-7 utilizing the following methods.
+1.  INSPECTION
+1.  Examine areas and conditions under which Work of this Section is to be performed. Do not proceed with Work until unsatisfactory conditions have been corrected.
+1.  Grading operations, with the exception of final grading, shall be completed, and approved by Owner, before staking or installation of any irrigation system begins.
+1.  Notify owner’s representative three calendar days prior to the following reviews.
+1.  Pressure test main line installation
+1.  System layout
+1.  Coverage tests prior to planting
+1.  Final review.
+1.  PREPARATION
+    1.  Staking shall Occur as Follows
+    1.  Mark, with powdered lime, paint, or flagging, routing of pressure supply line and flag heads. Contact Owners Representative three days in advance and request review of staking. Owners Representative will advise installer as to the amount of staking to be prepared. Owners Representative will review staking and direct changes if required. Review does not relieve installer from coverage problems due to improper placement of heads after staking.
+    1.  If Project has significant topography, freeform planting beds, or other amenities which could require alteration of irrigation equipment layout as deemed necessary by Owners Representative, do not install irrigation equipment in these areas until Owners Representative has reviewed equipment staking.
+    1.  Install sleeves under paving and walks for piping or control wiring that crosses walks or paving wider than 5 feet. Install to correct locations and elevations. Furnish at least 2 pipe sizes larger than the pipe to be accommodated. If sleeves are missing, install them by boring, or jacking. Resort to cutting only where acceptable to Owner’s representative. Compact backfill around sleeves to 95% Modified Proctor Density within 2% of optimum moisture content in accordance with STM D1557.
+    1.  Trenching
+    1.  Trench excavation shall follow, as much as possible, layout shown on drawing. Dig trenches straight and support pipe continuously on bottom of trench. Trench bottom shall be clean and smooth with all rock and organic debris removed.
+    1.  Clearances
+    1.  Piping 3 Inches and Larger - Make trenches of sufficient width (14 inches minimum) to properly assemble and position pipe in trench. Minimum clearance of piping 3 inches or larger shall be 5 inches horizontally on both sides of the trench.
+    1.  Piping Smaller than 3 Inches - Trenches shall have a minimum width of 7 inches.
+    1.  Line Clearance - Provide not less than 6 inches of clearance between each line, and not less than 12 inches of clearance between lines of other trades.
+    1.  Pipe and Wire Depth
+    1.  Pressure Supply Piping - 18 inches from top of pipe.
+    1.  PVC Sleeving - 18 inches from top of pipe.
+    1.  Non-pressure Piping (rotor) - 18 inches from top of pipe.
+    1.  Non-pressure Piping (pop-up) - 12 inches from top of pipe.
+    1.  Control Wiring - Side of pressure main.
+    1.  Drip Tubing - 4 inches from top of pipe.
+    1.  Emitter Tubing (Micro-tubing) - 2 inches from top of pipe.
+    1.  Boring will be permitted only where pipe must pass under obstruction(s) which cannot be removed. In backfilling bore, final density of backfill shall match that of surrounding soil. It is acceptable to use sleeves of suitable diameter installed first by jacking or boring, and pipe laid through sleeves. Observe same precautions as though pipe were installed in open trench.
+1.  INSTALLATION
+    1.  Locate other equipment as near as possible to locations designated. Deviations shall be reviewed by Owners Representative prior to installation. Make minor adjustments to trench locations as necessary to avoid conflicts with landscape. Plant locations shall take precedence over irrigation lines.
+    1.  PVC piping
+    1.  Snake pipe in trench as much as possible to allow for expansion and contraction.
+    1.  Do not install pipe when air temperature is below 40ºF.
+    1.  Place manual drain valves at low points and dead ends of pressure supply piping to insure complete drainage of system.
+    1.  When pipe laying is not in progress, or at end of each day, close pipe ends with tight plug or cap.
+    1.  Perform Work in accordance with good practices prevailing in piping trades.
+    1.  Solvent weld PVC pipe
+    1.  Lay pipe and make all plastic to plastic joints in accordance with manufacturer's recommendations.
+    1.  Main line piping greater than 4”
+    1.  Install with rubber gaskets, steel fittings, and concrete thrust blocks at each change of direction and terminal points. Provide thrust blocks in accordance with pipe manufacturer’s instructions.
+    1.  Drip tubing and emitters
+1.  General
+    1.  Provide six 1 gallon per hour emission points for trees with a caliper greater than 2” in diameter, four 1 gallon per hour emission points for trees with a caliper less than 2” in diameter, two ½ gallon per hour points for each shrub, and one ½ gallon per hour emission point for smaller plants.
+    1.  Do not install drip tubing until 5 gallon and larger plant materials are placed and finish grade is established.
+    1.  Drip lines shall be buried with soil. Depth of bury indicates amount of coverage by backfill, as measured below the weed fabric.
+    1.  Protection
+    1.  Tape all open ends of drip tubing during installation to prevent entry of debris.
+    1.  Cut all drip tubing with pliers-type Victor pipe cutter to prevent entry of debris. Do not use a saw.
+    1.  Tubing:
+        1. Install drip tubing with 4” of soil cover in planting beds and 8” of cover under turf areas.
+    1.  Capillary tubing:
+        1. Install capillary tubing 2” below the soil surface with a bug cap on every outlet. Install tubing outlet ½” above soil surface on a plastic stake.
+    1.  Make all fitting connections as per manufacturers recommendations.
+    1.  Use only manufacturer provided or recommended hole punch when making penetrations in drip tubing for insert fittings. Use of any other hole punch shall be cause for immediate removal and replacement of all installed drip tubing.
+    1.  Install drip line blow-out stubs at all dead ends of drip tubing.
+    1.  Control wiring
+    1.  Low Voltage Wiring
+    1.  Bury control wiring between controller and electric valves in pressure supply line trenches, strung as close as possible to main pipe lines with such wires to be consistently located below and to one side of pipe, or in separate trenches.
+    1.  Bundle all 24 volt wires at 10 foot intervals and lay with pressure supply line pipe to one side of the trench.
+    1.  Provide an expansion loop at every pressure pipe angle fitting, every electric control valve location (in valve box), and every 500 feet. Form expansion loop by wrapping wire at least 8 times around a 3/4 inch pipe and withdrawing pipe.
+    1.  Make all splices and E.C.V. connections using Rain Bird Pentite connectors or similar dry splice method.
+    1.  Install all control wire splices not occurring at control valve in a separate splice valve box.
+    1.  Install one continuous control wire for each control valve.
+    1.  Run two spare #14 AWG UFUL control wires and one common wire from controller pedestal to the end of each and every leg of mainline. Label spare wires at controller and wire stub box.
+    1.  Make electrical connection at valve to allow for pigtail so solenoid can be removed from valve with sufficient slack to allow ends to be pulled 12” above ground for examination and cleaning.
+    1.  Run wiring in EMT conduit between controller and beginning of underground wiring. Sleeve through foundation wall, asphalt, and concrete surfaces, and other materials as required.
+    1.  High Voltage Wiring for Automatic Controller
+    1.  Provide 120 volt power connection to automatic controller.
+    1.  All electric work shall conform to local codes, ordinances, and authorities having jurisdiction. All high voltage electrical work shall be performed by licensed electrician.
+    1.  Automatic Controller:
+        1. Install controller in accordance with manufacturer's instructions as detailed and where shown on Drawings.
+    1.  Connect remote control valves to controller in numerical sequence as shown on Drawings.
+    1.  Final location of controller shall be approved by Owners Representative prior to installation.
+    1.  Each controller shall be a dedicated separate ground wire and grounding rod as detailed.
+    1.  All above ground conduit shall be rigid galvanized with appropriate fittings. All below ground conduit shall be schedule 40 PVC.
+    1.  Electric Control Valves
+    1.  Install cross-handle 3 inches below finished grade. When grouped together, allow at least 12 inches between valve box sides. Install each remote control valve in a separate valve box. Install individual valve box flush with grade.
+    1.  Quick Coupling Valves
+    1.  Install quick couplers on double swing-joint assemblies of Schedule 80 PVC pipe; plumb and flush to grade. Angled nipple relative to pressure supply line shall be no more than 45 degrees and no less than 10 degrees. Install quick coupling valves as detailed. Quick couplers shall be located at intervals of 200’ along the main line, for connecting temporary irrigation lines.
+    1.  Drip Valve Assemblies
+    1.  Install drip valve assembly as detailed.
+    1.  Drip Emitters
+    1.  Stake all surface emitters as detailed and stake with acceptable tubing stakes.
+    1.  Drain Valves
+    1.  Install at all low points in the pressure line. Grade piping to drains a minimum of 3” per 100 feet. Drain valves should have a three cubic foot gravel sump at each location.
+    1.  Valve Boxes:
+        1. Install one valve box for each type of valve installed as detailed. Valve box extensions are not acceptable except for master valves. Install gravel sump after compaction of all trenches. Place final portion of gravel inside valve box after valve box is backfilled and compacted.
+    1.  Brand controller letter and station number on lid of each valve box. Letter and number size shall be no smaller than 1 inch and no greater in size than 1 ½ inches. Depth of branding shall be no more than 1/8 inch into valve box lid.
+    1.  Install valve boxes parallel to each other and parallel or perpendicular to pavement or other edges.
+    1.  Do not install valve boxes in low points of proposed or existing slopes or drainage swales.
+    1.  Gate Valves:
+        1. Install where required, or requested by owner’s representative.
+    1.  Brass pipe and threaded plastic and brass fittings.
+    1.  Assemble using Teflon tape applied to the male threads only. Threads should contain three complete wraps of tape.
+    1.  Sprinkler Heads:
+        1. Install sprinkler heads where required to cover seeded areas or sod. In no case shall the spacing exceed maximum recommended by manufacturer. Secure heads with pipe, stakes. Adjust part circle heads for proper coverage. Adjust heads as needed to provide adequate coverage to seeded areas. Plant placement shall not interfere with intended sprinkler head coverage, piping, or other equipment. Owners Representative may request nozzle changes or adjustments without additional cost to the Owner.
+    1.  Backflow Preventer
+    1.  Install in accordance with state and local codes, and USC guidelines
+    1.  Backfilling
+    1.  Do not begin backfilling operations until required system tests have been completed. Backfill shall not be done in freezing weather except with review by Owners Representative. Leave trenches slightly mounded to allow for settlement after backfilling is completed. Trenches shall be finish graded prior to walk-through of system by Owners Representative.
+    1.  Materials - Excavated material is generally considered satisfactory for backfill purposes. Backfill material shall be free of rubbish, vegetable matter, frozen materials, and stones larger than 1 inch in maximum dimension. Do not mix subsoil with topsoil. Material not suitable for backfill shall be hauled away. Contractor shall be responsible for providing suitable backfill if excavated material is unacceptable or not sufficient to meet backfill, compaction, and final grade requirements.
+    1.  Do not leave trenches open for a period of more than 48 hours. Open excavations shall be protected in accordance with OSHA regulations.
+    1.  Compact backfill to 90% maximum density, determined in accordance with ASTM D155-7 utilizing the following methods.
 
-* Mechanical tamping.
-* Puddling or ponding. Puddling or ponding and/or jetting is prohibited within 20'-0" of building or foundation walls.
-   1. Piping Under Paving
-   1. Provide for a minimum cover of 18 inches between the top of the pipe and the bottom of the aggregate base for all pressure and non-pressure piping installed under asphaltic concrete or concrete paving.
-   1. Piping located under areas where asphalt or concrete paving will be installed shall be bedded with sand (a layer 6" below pipe and 6" above pipe).
-   1. Compact backfill material in 6" lifts at 90% maximum density determined in accordance with ASTM D155-7 using manual or mechanical tamping devices.
-   1. Set in place, cap, and pressure test all piping under paving, in presence of Owner prior to back-filling and paving operations.
-   1. Piping under existing walks or concrete pavement shall be done by jacking, boring, or hydraulic driving, but where cutting or breaking of walks and/or concrete is necessary, it shall be done and replaced at not cost to Owner. Obtain permission to cut or break walks and/or concrete from Owner.
-   1. Mark concrete surfaces where sleeves cross paving by etching an “A” mark in curb, with permission of owner’s representative.
-   1. Drain Sumps
-   1. Excavate to sizes indicated. Backfill with acceptable drainage material to 12” below grade. Cover drain material with filter fabric and backfill remainder with excavated material.
-   1. Water Supply and Point of Connection:
+- Mechanical tamping.
+- Puddling or ponding. Puddling or ponding and/or jetting is prohibited within 20'-0" of building or foundation walls.
+  1.  Piping Under Paving
+  1.  Provide for a minimum cover of 18 inches between the top of the pipe and the bottom of the aggregate base for all pressure and non-pressure piping installed under asphaltic concrete or concrete paving.
+  1.  Piping located under areas where asphalt or concrete paving will be installed shall be bedded with sand (a layer 6" below pipe and 6" above pipe).
+  1.  Compact backfill material in 6" lifts at 90% maximum density determined in accordance with ASTM D155-7 using manual or mechanical tamping devices.
+  1.  Set in place, cap, and pressure test all piping under paving, in presence of Owner prior to back-filling and paving operations.
+  1.  Piping under existing walks or concrete pavement shall be done by jacking, boring, or hydraulic driving, but where cutting or breaking of walks and/or concrete is necessary, it shall be done and replaced at not cost to Owner. Obtain permission to cut or break walks and/or concrete from Owner.
+  1.  Mark concrete surfaces where sleeves cross paving by etching an “A” mark in curb, with permission of owner’s representative.
+  1.  Drain Sumps
+  1.  Excavate to sizes indicated. Backfill with acceptable drainage material to 12” below grade. Cover drain material with filter fabric and backfill remainder with excavated material.
+  1.  Water Supply and Point of Connection:
       1. Water supply shall be extended from water supply lines.
-   1. FIELD QUALITY CONTROL
-   1. Flushing
-   1. After piping, risers, and valves are in place and connected, but prior to installation of sprinkler heads, quick coupler assemblies, and hose valves, thoroughly flush piping system under full head of water pressure from dead end fittings. Maintain flushing for 5 minutes through furthermost valves. Cap risers after flushing.
-   1. Testing
-   1. Conduct tests in presence of Owners Representative. Arrange for presence of Owner’s Representative 48 hours in advance of testing. Contractor shall supply force pump and all other test equipment.
-   1. After backfilling, and installation of all control valves, fill pressure supply line with water, and pressurize to 40 PSI over the designated static pressure or 120 PSI, whichever is greater, for a period of 2 hours.
-   1. Leakage, Pressure Loss - Test is acceptable if no more than 2 pounds of pressure loss is evident during the test period.
-   1. Leaks - Detect and repair leaks.
-   1. Retest system until test pressure can be maintained for duration of test.
-   1. Before final acceptance, pressure supply line shall remain under pressure for a period of 48 hours.
-   1. Do not backfill over pipe fittings or connections until inspected, tested and approved.
-   1. Coverage Test
-   1. Perform coverage tests after sprinkler system is completed, but prior to any planting, and perform testing in the presence of the Owner’s Representative.
-   1. Test system to assure that all lawn and planting areas are watered completely and uniformly.
-   1. Make all necessary adjustments, including a realignment of heads to provide required coverage as directed by the Owner’s Representative.
-   1. Correct areas which do not conform to designed operation requirements due to unauthorized changes or poor installation practices.
-   1. Walk-Through for Substantial Completion
-   1. Arrange for Owners Representative's presence three days in advance of walk-through.
-   1. Entire system shall be completely installed and operational prior to scheduling of walk-through.
-   1. Operate each zone in its entirety for Owners Representative at time of walk-through and additionally, open all valve boxes if directed.
-   1. Generate a list of items to be corrected prior to Final Completion.
-   1. Furnish all materials and perform all work required to correct all inadequacies of coverage due to deviations from Contract Documents.
-   1. During walk-through, expose all drip emitters under operations for observation by Owners Representative to demonstrate that they are performing and installed as designed, prior to placing of all mulch material. Schedule separate walk-through if necessary.
-   1. Walk-Through for Final Completion:
+  1.  FIELD QUALITY CONTROL
+  1.  Flushing
+  1.  After piping, risers, and valves are in place and connected, but prior to installation of sprinkler heads, quick coupler assemblies, and hose valves, thoroughly flush piping system under full head of water pressure from dead end fittings. Maintain flushing for 5 minutes through furthermost valves. Cap risers after flushing.
+  1.  Testing
+  1.  Conduct tests in presence of Owners Representative. Arrange for presence of Owner’s Representative 48 hours in advance of testing. Contractor shall supply force pump and all other test equipment.
+  1.  After backfilling, and installation of all control valves, fill pressure supply line with water, and pressurize to 40 PSI over the designated static pressure or 120 PSI, whichever is greater, for a period of 2 hours.
+  1.  Leakage, Pressure Loss - Test is acceptable if no more than 2 pounds of pressure loss is evident during the test period.
+  1.  Leaks - Detect and repair leaks.
+  1.  Retest system until test pressure can be maintained for duration of test.
+  1.  Before final acceptance, pressure supply line shall remain under pressure for a period of 48 hours.
+  1.  Do not backfill over pipe fittings or connections until inspected, tested and approved.
+  1.  Coverage Test
+  1.  Perform coverage tests after sprinkler system is completed, but prior to any planting, and perform testing in the presence of the Owner’s Representative.
+  1.  Test system to assure that all lawn and planting areas are watered completely and uniformly.
+  1.  Make all necessary adjustments, including a realignment of heads to provide required coverage as directed by the Owner’s Representative.
+  1.  Correct areas which do not conform to designed operation requirements due to unauthorized changes or poor installation practices.
+  1.  Walk-Through for Substantial Completion
+  1.  Arrange for Owners Representative's presence three days in advance of walk-through.
+  1.  Entire system shall be completely installed and operational prior to scheduling of walk-through.
+  1.  Operate each zone in its entirety for Owners Representative at time of walk-through and additionally, open all valve boxes if directed.
+  1.  Generate a list of items to be corrected prior to Final Completion.
+  1.  Furnish all materials and perform all work required to correct all inadequacies of coverage due to deviations from Contract Documents.
+  1.  During walk-through, expose all drip emitters under operations for observation by Owners Representative to demonstrate that they are performing and installed as designed, prior to placing of all mulch material. Schedule separate walk-through if necessary.
+  1.  Walk-Through for Final Completion:
       1. Arrange for Owners Representative's presence three days in advance of walk-through.
-   1. Show evidence to Owners Representative that Owner has received all accessories, charts, record drawings, and equipment as required before Final Completion walk-through is scheduled.
-   1. Operate each zone, in its entirety for Owners Representative at time of walk-through to insure correction of all incomplete items.
-   1. Items deemed not acceptable by Owners Representative shall be reworked to complete satisfaction of Owners Representative.
-   1. If after request to Owners Representative for walk-through for Final Completion of irrigation system, Owners Representative finds items during walk-through which have not been properly adjusted, reworked, or replaced as indicated on list of incomplete items from previous walk-through, Contractor shall be charged for all subsequent walk-throughs. Funds will be withheld from final payment and/or retainage to Contractor, in amount equal to additional time and expenses required by Owners Representative to conduct and document further walk-throughs as deemed necessary to insure compliance with Contract Documents.
-   1. ADJUSTING
-   1. Upon completion of installation, "fine-tune" entire system by regulating valves, adjusting patterns and break-up arms, and setting pressure reducing valves at pro-per and similar pressure to provide optimum and efficient coverage. Flush and adjust all sprinkler heads for optimum performance and to prevent over spray onto walks, roadways, and buildings as much as possible. Heads of same type shall be operating at same pressure +/- 7%.
-   1. If it is determined that irrigation adjustments will provide proper coverage, and improved water distribution as determined by Owners Representative, contractor shall make such adjustments prior to Final Acceptance, as directed, at no additional cost to Owner. Adjustments may also include changes in nozzle sizes, degrees of arc, and control valve throttling.
-   1. All sprinkler heads shall be set perpendicular to finish grade unless otherwise designated.
-   1. Areas which do not conform to designated operation requirements due to unauthorized changes or poor installation practices shall be immediately corrected at no additional cost to the Owner.
-   1. CLEANING
-   1. Maintain continuous cleaning operation throughout duration of work. Dispose of, off-site at not additional cost to Owner, all trash or debris generated by installation of irrigation system.
-   
-
+  1.  Show evidence to Owners Representative that Owner has received all accessories, charts, record drawings, and equipment as required before Final Completion walk-through is scheduled.
+  1.  Operate each zone, in its entirety for Owners Representative at time of walk-through to insure correction of all incomplete items.
+  1.  Items deemed not acceptable by Owners Representative shall be reworked to complete satisfaction of Owners Representative.
+  1.  If after request to Owners Representative for walk-through for Final Completion of irrigation system, Owners Representative finds items during walk-through which have not been properly adjusted, reworked, or replaced as indicated on list of incomplete items from previous walk-through, Contractor shall be charged for all subsequent walk-throughs. Funds will be withheld from final payment and/or retainage to Contractor, in amount equal to additional time and expenses required by Owners Representative to conduct and document further walk-throughs as deemed necessary to insure compliance with Contract Documents.
+  1.  ADJUSTING
+  1.  Upon completion of installation, "fine-tune" entire system by regulating valves, adjusting patterns and break-up arms, and setting pressure reducing valves at pro-per and similar pressure to provide optimum and efficient coverage. Flush and adjust all sprinkler heads for optimum performance and to prevent over spray onto walks, roadways, and buildings as much as possible. Heads of same type shall be operating at same pressure +/- 7%.
+  1.  If it is determined that irrigation adjustments will provide proper coverage, and improved water distribution as determined by Owners Representative, contractor shall make such adjustments prior to Final Acceptance, as directed, at no additional cost to Owner. Adjustments may also include changes in nozzle sizes, degrees of arc, and control valve throttling.
+  1.  All sprinkler heads shall be set perpendicular to finish grade unless otherwise designated.
+  1.  Areas which do not conform to designated operation requirements due to unauthorized changes or poor installation practices shall be immediately corrected at no additional cost to the Owner.
+  1.  CLEANING
+  1.  Maintain continuous cleaning operation throughout duration of work. Dispose of, off-site at not additional cost to Owner, all trash or debris generated by installation of irrigation system.

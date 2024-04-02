@@ -4,7 +4,16 @@ section: '083473'
 divNumb: 8
 divName: Openings
 subgroup: Facility Construction
-tags: ['Facility', 'Construction', 'Openings', 'Sound', 'Control', 'Door', 'Assemblies']
+tags:
+  [
+    'Facility',
+    'Construction',
+    'Openings',
+    'Sound',
+    'Control',
+    'Door',
+    'Assemblies',
+  ]
 ---
 
 ## General

@@ -7,7 +7,6 @@ subgroup: General Requirements
 tags: ['General', 'Requirements', 'Sustainable', 'Design']
 ---
 
-
 ## General
 
 1. ENVIRONMENTAL REQUIREMENTS FOR THE PROJECT
@@ -24,11 +23,11 @@ tags: ['General', 'Requirements', 'Sustainable', 'Design']
    1. Select materials that are replaceable, renewable, or can be replenished.
       1. Select materials that minimize damage to natural habitats.
 1. Use durable materials:
-      1. Select materials with the longest usable life.
+   1. Select materials with the longest usable life.
    1. Select materials that can be reused.
       1. Select materials with the least burdensome maintenance requirements.
 1. Create spaces that are healthy for occupants:
-      1. Select low-toxic products and materials.
+   1. Select low-toxic products and materials.
    1. Select materials without toxic maintenance requirements.
    1. Specify mechanical equipment that will provide fresh air and will not trap water or pollutants.
    1. Use energy efficiently:
@@ -51,7 +50,7 @@ tags: ['General', 'Requirements', 'Sustainable', 'Design']
       1. Pre-bid meeting
    1. Pre-construction meeting
    1. Regular job-site meetings
-3. CONTRACTOR OBLIGATIONS
+1. CONTRACTOR OBLIGATIONS
    1. Contractor to validate required recycled content and local/regional availability within 500 mile radius of project.
    1. Utilize attached recycle content worksheet to identify materials noted above. See 018113A, Appendix A Materials Anticipated to be Used for Recycle Content.
    1. Refer to attached LEED rating system matrix for project requirements. See 018113B, Appendix B LEED Matrix.

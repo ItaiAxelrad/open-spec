@@ -4,7 +4,17 @@ section: '233113'
 divNumb: 23
 divName: Heating Ventilating and Air Conditioning
 subgroup: Facility Services
-tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 'Metal', 'Ducts']
+tags:
+  [
+    'Facility',
+    'Services',
+    'Heating',
+    'Ventilating',
+    'Air',
+    'Conditioning',
+    'Metal',
+    'Ducts',
+  ]
 ---
 
 ## General
@@ -43,7 +53,7 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Airstream Surfaces:
       1. Surfaces in contact with the airstream shall comply with requirements in ASHRAE 62.1-2004.
 1. SUBMITTALS
-	1. General:
+   1. General:
       1. Submit the following in accordance with related sections of Division 23 Specifications.
    1. Product data including details of construction relative to materials, dimensions of individual components, profiles and finishes for the following items:
       1. Duct Liner.
@@ -93,7 +103,7 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
 ## Products
 
 1. MATERIALS
-	1. Sheet Metal Materials
+   1. Sheet Metal Materials
    1. Sheet Metal, General:
       1. Provide sheet metal in thicknesses indicated, packaged and marked as specified in ASTM A700.
    1. Galvanized Sheet Steel:
@@ -103,7 +113,7 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Tie Rods:
       1. Galvanized steel, 1/4-inch minimum diameter for 36-inch length or less; 3/8-inch minimum diameter for lengths longer than 36 inches.
    1. Duct Liner
-	1. General:
+   1. General:
       1. Comply with NFPA 90A and TIMA AHC-101.
    1. Materials:
       1. ASTM C1071, Type II, with coated surface exposed to airstream to prevent erosion of glass fibers.
@@ -144,7 +154,7 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Where galvanized steel ducts are installed, provide hot-dipped-galvanized steel shapes and plates.
 1. FABRICATION
    1. Rectangular Duct Fabrication
-	1. General:
+   1. General:
       1. Except as otherwise indicated, fabricate rectangular ducts with galvanized sheet steel, in accordance with SMACNA "HVAC Duct Construction Standards," Tables 1-3 through 1-19, including their associated details. Conform to the requirements in the referenced standard for metal thickness, reinforcing types and intervals, tie rod applications, and joint types and intervals.
    1. Fabricate rectangular ducts in lengths appropriate to reinforcement and rigidity class required for pressure classification.
    1. Provide materials that are free from visual imperfections such as pitting, seam marks, roller marks, stains and discolorations.
@@ -157,7 +167,7 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
       1. 2 inches water gauge, negative pressure.
    1. Cross breaking or Cross Beading:
       1. Cross break or bead duct sides that are 19 inches and larger and are 20-gauge or less, with more than 10 square feet of unbraced panel area, as indicated in SMACNA "HVAC Duct Construction Standard," Figure 1-4, unless they are lined or are externally insulated.
-   1. Rectangular Duct Fittings 
+   1. Rectangular Duct Fittings
    1. Fabricate elbows, transitions, offsets, branch connections, and other duct construction in accordance with SMACNA "HVAC Metal Duct Construction Standard," 1985 Edition, Figures 2-1 through 2-10.
    1. Shop Application of Liner in Rectangular Ducts
    1. Adhere a single layer of indicated thickness of duct liner with 90% coverage of adhesive at liner contact surface area. Multiple layers of insulation to achieve indicated thickness is prohibited.

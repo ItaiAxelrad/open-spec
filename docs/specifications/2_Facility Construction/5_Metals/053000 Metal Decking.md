@@ -7,7 +7,6 @@ subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Metals', 'Metal', 'Decking']
 ---
 
-
 ## General
 
 1. SUMMARY

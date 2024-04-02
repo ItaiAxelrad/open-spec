@@ -14,19 +14,19 @@ tags: ['Facility', 'Services', 'Electrical', 'Conductors', 'Cables']
 2. SUMMARY
    1. This Section includes the following:
       1. Building wires and cables rated 600 V and less.
-2. Connectors, splices, and terminations rated 600 V and less.
-3. Sleeves and sleeve seals for cables.
-3. DEFINITIONS
+3. Connectors, splices, and terminations rated 600 V and less.
+4. Sleeves and sleeve seals for cables.
+5. DEFINITIONS
    1. EPDM:
       1. Ethylene-propylene-diene terpolymer rubber. B. NBR:
       1. Acrylonitrile-butadiene rubber.
-4. SUBMITTALS
+6. SUBMITTALS
    1. Product Data:
       1. For each type of product indicated. B. Qualification Data:
       1. For testing agency.
    1. Field quality-control test reports.
-5. QUALITY ASSURANCE A. Comply with NFPA 70.
-6. COORDINATION
+7. QUALITY ASSURANCE A. Comply with NFPA 70.
+8. COORDINATION
    1. Set sleeves in cast-in-place concrete, masonry walls, and other structural components as they are constructed.
 
 ## Product
@@ -47,40 +47,40 @@ tags: ['Facility', 'Services', 'Electrical', 'Conductors', 'Cables']
       1. Comply with NEMA WC 70 for Types THHN-THWN and XHHW.
    1. Multiconductor Cable:
       1. Comply with NEMA WC 70 for metal-clad cable, Type MC with ground wire.
-2. CONNECTORS AND SPLICES
+6. CONNECTORS AND SPLICES
    1. Available Manufacturers:
       1. Subject to compliance with requirements, manufacturers offering products that may be incorporated into the Work include, but are not limited to, the following:
          1. Manufacturers:
             1. Subject to compliance with requirements, provide products by one of the following:
                1. AFC Cable Systems, Inc.
-2. Hubbell Power Systems, Inc.
-3. O-Z/Gedney; EGS Electrical Group LLC.
-4. 3M; Electrical Products Division.
-5. Tyco Electronics Corp.
-   1. Description:
-      1. Factory-fabricated connectors and splices of size, ampacity rating, material, type, and class for application and service indicated.
-3. SLEEVES FOR CABLES
-   1. Steel Pipe Sleeves:
-      1. ASTM A 53/A 53M, Type E, Grade B, Schedule 40, galvanized steel, plain ends.
-   1. Sleeves for Rectangular Openings:
-      1. Galvanized sheet steel with minimum 0.052- or 0.138-inch thickness as indicated and of length to suit application.
-   1. Coordinate sleeve selection and application with selection and application of firestopping specified in Division 07 Section "Penetration Firestopping."
-4. SLEEVE SEALS
-   1. Basis-of-Design Product:
-      1. Subject to compliance with requirements, provide the product indicated on Drawings or a comparable product by one of the following:
-      1. Advance Products & Systems, Inc.
-2. O-Z/Gedney; EGS Electrical Group LLC.
-3. Metraflex Co.
-4. Pipeline Seal and Insulator, Inc.
-   1. Description:
-      1. Modular sealing device, designed for field assembly, to fill annular space between sleeve and cable.
-1. Sealing Elements:
-      1. EPDM interlocking links shaped to fit surface of cable or conduit.
-   1. Include type and number required for material and size of raceway or cable.
-2. Pressure Plates:
-      1. Carbon steel. Include two for each sealing element.
-3. Connecting Bolts and Nuts:
-      1. Carbon steel with corrosion-resistant coating of length required to secure pressure plates to sealing elements. Include one for each sealing element.
+7. Hubbell Power Systems, Inc.
+8. O-Z/Gedney; EGS Electrical Group LLC.
+9. 3M; Electrical Products Division.
+10. Tyco Electronics Corp.
+    1. Description:
+       1. Factory-fabricated connectors and splices of size, ampacity rating, material, type, and class for application and service indicated.
+11. SLEEVES FOR CABLES
+    1. Steel Pipe Sleeves:
+       1. ASTM A 53/A 53M, Type E, Grade B, Schedule 40, galvanized steel, plain ends.
+    1. Sleeves for Rectangular Openings:
+       1. Galvanized sheet steel with minimum 0.052- or 0.138-inch thickness as indicated and of length to suit application.
+    1. Coordinate sleeve selection and application with selection and application of firestopping specified in Division 07 Section "Penetration Firestopping."
+12. SLEEVE SEALS
+    1. Basis-of-Design Product:
+       1. Subject to compliance with requirements, provide the product indicated on Drawings or a comparable product by one of the following:
+       1. Advance Products & Systems, Inc.
+13. O-Z/Gedney; EGS Electrical Group LLC.
+14. Metraflex Co.
+15. Pipeline Seal and Insulator, Inc.
+    1. Description:
+       1. Modular sealing device, designed for field assembly, to fill annular space between sleeve and cable.
+16. Sealing Elements:
+    1. EPDM interlocking links shaped to fit surface of cable or conduit.
+    1. Include type and number required for material and size of raceway or cable.
+17. Pressure Plates:
+    1. Carbon steel. Include two for each sealing element.
+18. Connecting Bolts and Nuts:
+    1. Carbon steel with corrosion-resistant coating of length required to secure pressure plates to sealing elements. Include one for each sealing element.
 
 ## Execution
 
@@ -119,20 +119,20 @@ tags: ['Facility', 'Services', 'Electrical', 'Conductors', 'Cables']
    1. Use pulling means, including fish tape, cable, rope, and basket-weave wire/cable grips, that will not damage cables or raceway.
    1. Install exposed cables parallel and perpendicular to surfaces of exposed structural members, and follow surface contours where possible.
    1. Support cables according to Division 26 Section "Hangers and Supports for Electrical Systems." F. Identify and color-code conductors and cables according to Division 26 Section "Identification
-for Electrical Systems."
+      for Electrical Systems."
 4. CONNECTIONS
    1. Tighten electrical connectors and terminals according to manufacturer's published torque- tightening values. If manufacturer's torque values are not indicated, use those specified in UL 486A and UL 486B.
    1. Make splices and taps that are compatible with conductor material and that possess equivalent or better mechanical strength and insulation ratings than unspliced conductors.
-1. Use oxide inhibitor in each splice and tap conductor for aluminum conductors. C. Wiring at Outlets:
-      1. Install conductor at each outlet, with at least 6 inches of slack.
-5. SLEEVE INSTALLATION FOR ELECTRICAL PENETRATIONS
+5. Use oxide inhibitor in each splice and tap conductor for aluminum conductors. C. Wiring at Outlets:
+   1. Install conductor at each outlet, with at least 6 inches of slack.
+6. SLEEVE INSTALLATION FOR ELECTRICAL PENETRATIONS
    1. Coordinate sleeve selection and application with selection and application of firestopping specified in Division 07 Section "Penetration Firestopping."
    1. Concrete Slabs and Walls:
       1. Install sleeves for penetrations unless core-drilled holes or formed openings are used. Install sleeves during erection of slabs and walls.
    1. Use pipe sleeves unless penetration arrangement requires rectangular sleeved opening.
    1. Rectangular Sleeve Minimum Metal Thickness:
       1. For sleeve rectangle perimeter less than 50 inches and no side greater than 16 inches, thickness shall be 0.052 inch.
-2. For sleeve rectangle perimeter equal to, or greater than, 50 inches and 1 or more sides equal to, or greater than, 16 inches, thickness shall be 0.138 inch.
+7. For sleeve rectangle perimeter equal to, or greater than, 50 inches and 1 or more sides equal to, or greater than, 16 inches, thickness shall be 0.138 inch.
    1. Fire-Rated Assemblies:
       1. Install sleeves for penetrations of fire-rated floor and wall assemblies unless openings compatible with firestop system used are fabricated during construction of floor or wall.
    1. Cut sleeves to length for mounting flush with both wall surfaces.
@@ -149,20 +149,19 @@ for Electrical Systems."
       1. Seal penetrations using sleeves and mechanical sleeve seals. Size sleeves to allow for 1-inch annular clear space between pipe and sleeve for installing mechanical sleeve seals.
    1. Underground Exterior-Wall Penetrations:
       1. Install cast-iron "wall pipes" for sleeves. Size sleeves to allow for 1-inch annular clear space between cable and sleeve for installing mechanical sleeve seals.
-6. SLEEVE-SEAL INSTALLATION
+8. SLEEVE-SEAL INSTALLATION
    1. Install to seal underground exterior-wall penetrations.
    1. Use type and number of sealing elements recommended by manufacturer for cable material and size. Position cable in center of sleeve. Assemble mechanical sleeve seals and install in annular space between cable and sleeve. Tighten bolts against pressure plates that cause sealing elements to expand and make watertight seal.
-7. FIRESTOPPING
+9. FIRESTOPPING
    1. Apply firestopping to electrical penetrations of fire-rated floor and wall assemblies to restore original fire-resistance rating of assembly according to Division 07 Section "Penetration Firestopping."
-8. FIELD QUALITY CONTROL
-   1. Testing:
-      1. Perform the following field quality-control testing:
-      1. After installing conductors and cables and before electrical circuitry has been energized, test for compliance with requirements.
-2. Perform each electrical test and visual and mechanical inspection stated in NETA ATS, Section 7.3.1. Certify compliance with test parameters.
-   1. Test Reports:
-      1. Prepare a written report to record the following:
-      1. Test procedures used.
-2. Test results that comply with requirements.
-3. Test results that do not comply with requirements and corrective action taken to achieve compliance with requirements.
-   26 05 19
-
+10. FIELD QUALITY CONTROL
+    1. Testing:
+       1. Perform the following field quality-control testing:
+       1. After installing conductors and cables and before electrical circuitry has been energized, test for compliance with requirements.
+11. Perform each electrical test and visual and mechanical inspection stated in NETA ATS, Section 7.3.1. Certify compliance with test parameters.
+    1. Test Reports:
+       1. Prepare a written report to record the following:
+       1. Test procedures used.
+12. Test results that comply with requirements.
+13. Test results that do not comply with requirements and corrective action taken to achieve compliance with requirements.
+    26 05 19

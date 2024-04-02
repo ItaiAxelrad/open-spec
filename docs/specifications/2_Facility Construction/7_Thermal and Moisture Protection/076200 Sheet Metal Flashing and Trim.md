@@ -4,7 +4,18 @@ section: '076200'
 divNumb: 7
 divName: Thermal and Moisture Protection
 subgroup: Facility Construction
-tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Sheet', 'Metal', 'Flashing', 'Trim']
+tags:
+  [
+    'Facility',
+    'Construction',
+    'Thermal',
+    'Moisture',
+    'Protection',
+    'Sheet',
+    'Metal',
+    'Flashing',
+    'Trim',
+  ]
 ---
 
 ## General
@@ -21,17 +32,16 @@ tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Sheet',
 
 ## Products
 
-   1. MATERIALS
-   1. Sheet Metal Flashing
-   1. Conform to profiles and sizes shown, and comply with "Architectural Sheet Metal Manual" by SMACNA, for all categories of work required.
-   1. Zinc-coated Steel Sheet
-   1. ASTM A 653, 24 gauge (except as indicated) sheet. Class 1.25, hot-dip galvanized mill phosphatized.
+1.  MATERIALS
+1.  Sheet Metal Flashing
+1.  Conform to profiles and sizes shown, and comply with "Architectural Sheet Metal Manual" by SMACNA, for all categories of work required.
+1.  Zinc-coated Steel Sheet
+1.  ASTM A 653, 24 gauge (except as indicated) sheet. Class 1.25, hot-dip galvanized mill phosphatized.
 
 ## Execution
 
-   1. ERECTION INSTALLATION APPLICATION
-   1. Provide soldered flat-lock seams.
-   1. Separate dissimilar metals and separate metals from contact with other corrosive materials, by a 15-mil coating of bituminous mastic (FS TT-C-494) or other permanent separation.
-   1. Anchor work permanently in place with non-corrosive fasteners.
-   1. Coordinate with curb framing, roofing, and other trades.
-
+1.  ERECTION INSTALLATION APPLICATION
+1.  Provide soldered flat-lock seams.
+1.  Separate dissimilar metals and separate metals from contact with other corrosive materials, by a 15-mil coating of bituminous mastic (FS TT-C-494) or other permanent separation.
+1.  Anchor work permanently in place with non-corrosive fasteners.
+1.  Coordinate with curb framing, roofing, and other trades.

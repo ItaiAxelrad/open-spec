@@ -7,9 +7,6 @@ subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Furnishings', 'Bicycle', 'Racks']
 ---
 
-
-1. BICYCLE RACKS
-
 ## General
 
 1. SUMMARY
@@ -28,17 +25,16 @@ tags: ['Facility', 'Construction', 'Furnishings', 'Bicycle', 'Racks']
 
 ## Products
 
-   1. manufacturer
-   1. S & G Erectors
-   1. Howell
-   1. MI “Hoop Bike Rack”
-   1. Materials
-   1. Vinyl-coated steel.
+1.  manufacturer
+1.  S & G Erectors
+1.  Howell
+1.  MI “Hoop Bike Rack”
+1.  Materials
+1.  Vinyl-coated steel.
 
 ## Execution
 
-   1. metal bike racks
-   1. Locate the bike racks as shown on the Drawings.
-   1. ADJUSTMENTS
-   1. It is understood and agreed that should minor changes and deviations from the locations established on the Drawings be required by the Architect, this shall be done by the Contractor at no additional cost thereto.
-
+1.  metal bike racks
+1.  Locate the bike racks as shown on the Drawings.
+1.  ADJUSTMENTS
+1.  It is understood and agreed that should minor changes and deviations from the locations established on the Drawings be required by the Architect, this shall be done by the Contractor at no additional cost thereto.

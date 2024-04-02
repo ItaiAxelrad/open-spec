@@ -7,7 +7,6 @@ subgroup: General Requirements
 tags: ['General', 'Requirements', 'Closeout', 'Procedures']
 ---
 
-
 ## General
 
 1. SUMMARY
@@ -62,8 +61,9 @@ tags: ['General', 'Requirements', 'Closeout', 'Procedures']
    1. Upon completion of the work, the Contractor shall deliver to the Owner, in duplicate, a written warranty based on the provision of this Article properly signed and notarized. Warranty shall be addressed to the Owner.
 
 ## Products
- (NOT USED)
+
+(NOT USED)
 
 ## Execution
- (NOT USED)
 
+(NOT USED)

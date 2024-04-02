@@ -7,8 +7,6 @@ subgroup: Facility Services
 tags: ['Facility', 'Services', 'Electrical', 'INTERIOR', 'LIGHTING']
 ---
 
-1. INTERIOR LIGHTING
-
 ## General
 
 1. RELATED DOCUMENTS

@@ -16,8 +16,8 @@ tags: ['Facility', 'Construction', 'Finishes', 'Resilient', 'Sheet', 'Flooring']
    1. Integral cove base:
       1. Installed at intersection of floor and vertical surfaces.
 1. QUALITY CONTROL-Qualifications:
-      1. Owner shall approve products or service of proposed manufacturer, suppliers, and installers, and the Contractor shall submit certification that:
-            1. Heat welded seaming is manufacturer's prescribed method of installation.
+   1. Owner shall approve products or service of proposed manufacturer, suppliers, and installers, and the Contractor shall submit certification that:
+      1. Heat welded seaming is manufacturer's prescribed method of installation.
    1. Installer is approved by manufacturer of materials and has technical qualifications, experience, trained personnel, and facilities to install specified items.
    1. Manufacturer's product submitted has been in satisfactory operation, on three installations similar and equivalent in size to this project for three years. Submit list of installations.
    1. The sheet vinyl floor coverings shall meet fire performance characteristics as determined by testing products, per ASTM test method, indicated below by Underwriters Laboratories, Inc. (UL) or another recognized testing and inspecting agency acceptable to authorities having jurisdiction.
@@ -29,7 +29,7 @@ tags: ['Facility', 'Construction', 'Finishes', 'Resilient', 'Sheet', 'Flooring']
 1. SUBMITTALS
    1. In accordance with Section 013300, Submittals and Shop Drawings, submit following:
       1. Manufacturer's Literature and Data:
-            1. Description of resilient material and accessories to be provided.
+         1. Description of resilient material and accessories to be provided.
    1. Resilient material manufacturer's recommendations for adhesives, weld rods, sealants, and underlayment.
    1. Application and installation instructions.
    1. Samples:
@@ -60,7 +60,7 @@ tags: ['Facility', 'Construction', 'Finishes', 'Resilient', 'Sheet', 'Flooring']
    1. Interior finish work such as drywall finishing, ceiling work, and painting work shall be complete and dry before installation.
    1. Mechanical, electrical, and other work above ceiling line shall be completed. Heating, ventilating, and air conditioning systems shall be installed and operating in order to maintain temperature and humidity requirements.
 1. GUARANTY:
-      1. Submit written guaranty, in accordance with General Condition requirements except that guarantee period shall be extended to include two (2) years.
+   1. Submit written guaranty, in accordance with General Condition requirements except that guarantee period shall be extended to include two (2) years.
 
 ## Products
 

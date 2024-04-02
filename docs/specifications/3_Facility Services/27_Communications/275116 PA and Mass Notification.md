@@ -45,7 +45,7 @@ tags: ['Facility', 'Services', 'Communications', 'PA', 'Mass', 'Notification']
    1. Coordination Drawings:
       1. Reflected ceiling plans, drawn to scale, on which ceiling-mounted items including lighting fixtures, diffusers, grilles, speakers, sprinklers, access panels, and special moldings are shown and coordinated with each other, using input from installers of the items involved.
    1. Submit complete “as-built drawings” of the system as finally installed.
-   1. Field quality-control reports. 
+   1. Field quality-control reports.
    1. Submit complete Operations and Maintenance Manuals describing in detail all system components including part numbers for the operations and maintenance of the paging system components.
    1. Submit a recommended spare parts list with equipment catalog numbers and product information.
    1. Submit final programming information, Zone Maps, Zone Configuration Tables and any other items relating the setup and programming.
@@ -70,7 +70,7 @@ tags: ['Facility', 'Services', 'Communications', 'PA', 'Mass', 'Notification']
    1. Provide one (1) year warranty on all components
    1. Provide one (1) year warranty on cable installation and cable connection to speakers.
    1. Warranty shall include all repair labor and parts and travel time.
-   2. Retain definition(s) remaining after this Section has been edited.
+   1. Retain definition(s) remaining after this Section has been edited.
 
 ## Products
 
@@ -88,7 +88,7 @@ tags: ['Facility', 'Services', 'Communications', 'PA', 'Mass', 'Notification']
    1. Basic system consists of head end controller and a power supply.
    1. Head End Controller
    1. Controls the system ID and holds all programmed parameters.
-   1. Controller for power supply for applications with distributed amplified speakers 
+   1. Controller for power supply for applications with distributed amplified speakers
    1. Capable of connection to different manufacturer’s amplifiers in order to initiate paging.
    1. Incorporates a universal interface for connection to any telephone system.
    1. Interface with telephone system page port, C.O. port or station port.
@@ -96,7 +96,7 @@ tags: ['Facility', 'Services', 'Communications', 'PA', 'Mass', 'Notification']
    1. All other wiring connections are made to built-in terminal blocks.
    1. PC programming software:
       1. Provide software for programming of head end controller
-   1. Additional Zone Modules 
+   1. Additional Zone Modules
    1. Additional zone modules can be added to the head end controller system to increase zone capacity.
    1. The system should have a minimum capacity of 56 zones.
    1. Paging system power is 120 volts AC.
@@ -139,7 +139,7 @@ tags: ['Facility', 'Services', 'Communications', 'PA', 'Mass', 'Notification']
       1. Shall be provided with:
       1. Steel perforated metal speaker grill, white non-glare finish.
    1. Steel backbox for mounting on the back of ceiling mounted speakers.
-   1. Support bars 
+   1. Support bars
    1. Plenum ceiling require T-bar support.
    1. Wall Speaker (Baffle)
    1. Provide wall mounting of 8” speaker with transformer assembly
@@ -164,12 +164,12 @@ tags: ['Facility', 'Services', 'Communications', 'PA', 'Mass', 'Notification']
    1. Speaker cables shall be stranded 18 AWG, 2 conductor twisted unshielded, color coded.
    1. Cable used in plenum ceiling shall be plenum rated.
    1. Non-plenum rated cable, West Penn 224 or equal.
-    1. Plenum rated cable, West Penn 25224B or equal.
+   1. Plenum rated cable, West Penn 25224B or equal.
 1. See Editing Instruction No. 1 in the Evaluations for cautions about naming manufacturers. Retain paragraph and list of manufacturers below. See Division 01 Section "Product Requirements."
 
 ## Execution
 
-1. INSTALLATION 
+1. INSTALLATION
    1. Conduit Installation
    1. Wiring to be installed in conduit in the following areas and as otherwise noted:
       1. In areas where protection is required for the cable, in open areas, and where bridle ring installation is not possible.
@@ -177,7 +177,7 @@ tags: ['Facility', 'Services', 'Communications', 'PA', 'Mass', 'Notification']
    1. Where conduit is noted on the drawings.
    1. Conduit stub-ups terminating above removable grid ceiling areas shall have PVC bushing installed on end of conduit.
    1. Install pull and junction boxes as required.
-   1. Conduit installation consists of ¾” conduit and 4” square device boxes. 
+   1. Conduit installation consists of ¾” conduit and 4” square device boxes.
    1. When transitioning from grid ceiling area into open area requiring conduit use a conduit through the wall and fire seal around the conduit in the wall.
    1. Comply with requirements for raceways and boxes specified in related Division 26 Sections.
    1. Wiring Installation:
@@ -212,9 +212,9 @@ tags: ['Facility', 'Services', 'Communications', 'PA', 'Mass', 'Notification']
    1. Weatherproof Equipment:
       1. For units that are mounted outdoors, in damp locations, or where exposed to weather, install consistent with requirements of weatherproof rating.
    1. Terminal Boxes:
-      1. Cables splices shall be made on terminal blocks. 
+      1. Cables splices shall be made on terminal blocks.
    1. Amplifier
-   1. Mount on telephone backboards. 
+   1. Mount on telephone backboards.
    1. Connect plug to 120 VAC receptacle.
    1. Connect all required telephone inputs and outputs.
    1. Connect all speaker zone wires to the appropriate amplifier connection.
@@ -245,7 +245,7 @@ tags: ['Facility', 'Services', 'Communications', 'PA', 'Mass', 'Notification']
 1. LABELING
    1. All cables shall be labeled indicating area served at each amplifier location.
    1. All terminal blocks shall be labeled with cable number
-1. FIELD QUALITY CONTROL 
+1. FIELD QUALITY CONTROL
    1. Testing Agency:
       1. Engage a qualified testing agency to perform tests and inspections.
    1. Manufacturer's Field Service:
@@ -302,7 +302,7 @@ tags: ['Facility', 'Services', 'Communications', 'PA', 'Mass', 'Notification']
    1. As each building is completed a general PA system test shall be performed to verify amplifier operation and speaker coverage and volume levels.
    1. The entire Public Address system will be tested after all to the building public address systems have been installed and tested.
    1. Programming for the Public Address system head end controller and associated components (amplifiers, power supplies, etc.) shall be performed by the Contractor.
-   1. Inspection and testing shall be held in the presence of Owner Technical representatives and to their satisfaction. 
+   1. Inspection and testing shall be held in the presence of Owner Technical representatives and to their satisfaction.
    1. The Contractor shall supply personnel and all required auxiliary equipment for the public address system test.
    1. The Public Address system technical representative shall supply personnel to train Owner’s personnel in operation and maintenance of the system installed.
 1. Retain one of first two paragraphs below and coordinate with Drawings. Delete both if wiring methods for system are indicated on Drawings. Coordinate selection with "Raceways" Article.

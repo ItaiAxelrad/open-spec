@@ -7,8 +7,6 @@ subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Earthwork', 'Common', 'Work', 'Results']
 ---
 
-1.  EARTHWORK
-
 ## General
 
 1.  DESCRIPTION

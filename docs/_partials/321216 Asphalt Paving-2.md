@@ -4,9 +4,9 @@ section: '3212162'
 divNumb: 32
 divName: Exterior Improvements
 subgroup: Site and Infrastructure
-tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Asphalt', 'Paving']
+tags:
+  ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Asphalt', 'Paving']
 ---
-
 
 ## General
 
@@ -65,53 +65,35 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Asphalt', 'Paving'
 
 ## Products
 
-   1. MATERIALS
-   1. Lane Marking Paint:
-      1. Opaque White:
-         1. Matching Federal Standard 585 for white paint and having the daylight directional reflectance specified in FS TT-P-115f, Type I.
-   1. Yellow:
-      1. Match color chip No. 13538 of Federal Standard 595A with yellow color within the green and red tolerance limits when compared with the latest Highway Yellow Color Tolerance Chart, PR Color No. 1, U.S. Department of Transportation, Federal Highway Administration.
-   1. In-Laid Thermo-Plastic Markings:
-      1. Provide "Cata-Therm" by Cataphote, Inc., 1-800-221-2574, white reflective color, or approved substitute alkyd-based thermo-plastic material complying with AASHTO M249.
-   1. Provide drop-in glass beads which are skid-resistant and which comply with the local standards.
+1.  MATERIALS
+1.  Lane Marking Paint:
+    1. Opaque White:
+       1. Matching Federal Standard 585 for white paint and having the daylight directional reflectance specified in FS TT-P-115f, Type I.
+1.  Yellow:
+    1. Match color chip No. 13538 of Federal Standard 595A with yellow color within the green and red tolerance limits when compared with the latest Highway Yellow Color Tolerance Chart, PR Color No. 1, U.S. Department of Transportation, Federal Highway Administration.
+1.  In-Laid Thermo-Plastic Markings:
+    1. Provide "Cata-Therm" by Cataphote, Inc., 1-800-221-2574, white reflective color, or approved substitute alkyd-based thermo-plastic material complying with AASHTO M249.
+1.  Provide drop-in glass beads which are skid-resistant and which comply with the local standards.
 
 ## Execution
 
-   1. ERECTION INSTALLATION APPLICATION
-   1. In-Laid Thermo-Plastic Markings:
-      1. Provide for all crosswalks and stop bars.
-   1. Saw or grind grooves in pavement for application of thermo-plastic material.
-   1. Prime substrate as required by manufacturer.
-   1. Install in accordance with manufacturer's instructions. Apply in 250 or 400 mil thickness. Apply such that cooled material is flush with or slightly above groove lip.
-   1. Crosswalks:
-      1. Provide 24" bars applied in "Continental" style (center of lane and center of line). Provide 8' minimum wide crosswalks.
-   1. Stop Bars:
-      1. Provide 24" wide bars.
-   1. Glass Beads:
-      1. Drop into thermo-plastic material immediately after application.
-   1. Apply with mechanical equipment to produce a wet film thickness not less than 0.015" and 4" line widths unless otherwise required.
-   1. Handicap Parking:
-      1. International symbol for handicap parking.
-   1. CLEANING
-   1. After completing asphalt-paving operations, clean surfaces, pick up excess paving materials and clean work area.
-   
-   1. SEE NEXT PAGE FOR FORM
-   1. MCPEC Form 9 - Required for this Section.
+1.  ERECTION INSTALLATION APPLICATION
+1.  In-Laid Thermo-Plastic Markings:
+    1. Provide for all crosswalks and stop bars.
+1.  Saw or grind grooves in pavement for application of thermo-plastic material.
+1.  Prime substrate as required by manufacturer.
+1.  Install in accordance with manufacturer's instructions. Apply in 250 or 400 mil thickness. Apply such that cooled material is flush with or slightly above groove lip.
+1.  Crosswalks:
+    1. Provide 24" bars applied in "Continental" style (center of lane and center of line). Provide 8' minimum wide crosswalks.
+1.  Stop Bars:
+    1. Provide 24" wide bars.
+1.  Glass Beads:
+    1. Drop into thermo-plastic material immediately after application.
+1.  Apply with mechanical equipment to produce a wet film thickness not less than 0.015" and 4" line widths unless otherwise required.
+1.  Handicap Parking:
+    1. International symbol for handicap parking.
+1.  CLEANING
+1.  After completing asphalt-paving operations, clean surfaces, pick up excess paving materials and clean work area.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+1.  SEE NEXT PAGE FOR FORM
+1.  MCPEC Form 9 - Required for this Section.

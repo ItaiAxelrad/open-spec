@@ -4,8 +4,18 @@ section: '220516'
 divNumb: 22
 divName: Plumbing
 subgroup: Facility Services
-tags: ['Facility', 'Services', 'Plumbing', 'Expansion', 'Fittings', 'Loops', 'Piping']
+tags:
+  [
+    'Facility',
+    'Services',
+    'Plumbing',
+    'Expansion',
+    'Fittings',
+    'Loops',
+    'Piping',
+  ]
 ---
+
 ## General
 
 1. RELATED DOCUMENTS
@@ -25,7 +35,7 @@ tags: ['Facility', 'Services', 'Plumbing', 'Expansion', 'Fittings', 'Loops', 'Pi
    1. American Society for Testing and Materials (ASTM)
    1. A53 - Pipe, steel, black and hot-dipped, zinc coated welded and seamless.
 1. SUBMITTALS
-	1. General:
+   1. General:
       1. Submit the following in accordance with Division 22, “Common Work Results for Plumbing”.
    1. Product data for each type of pipe expansion joint specified. Submit expansion compensation schedule showing manufacturer's figure number, size, location, and features for each required expansion joint.
    1. Maintenance data for expansion joints for inclusion in Operating and Maintenance Manuals specified in Division 1.
@@ -77,4 +87,3 @@ tags: ['Facility', 'Services', 'Plumbing', 'Expansion', 'Fittings', 'Loops', 'Pi
    1. Expansion Loops
    1. Fabricate expansion loops to dimensions indicated, and subject loop to cold spring tension or compression necessary to absorb 50% of the total compression or tension during anticipated change in temperature.
 1. (THIS PAGE INTENTIONALLY BLANK)
-

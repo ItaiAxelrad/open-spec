@@ -34,13 +34,14 @@ tags: ['Facility', 'Construction', 'Metals', 'Steel', 'Roof', 'Decking']
 5. QUALITY ASSURANCE
    1. Codes and Standards:
       1. Comply with provisions of the following codes and standards, except as otherwise indicated or specified.
-1. AISI Specification for the Design of Cold-Formed Steel Structural Members
-2. AWS Structural Welding Code - Sheet Steel, AWS D1.3
-3. SDI Specifications and Commentary for Steel Roof Deck (Steel Deck
+6. AISI Specification for the Design of Cold-Formed Steel Structural Members
+7. AWS Structural Welding Code - Sheet Steel, AWS D1.3
+8. SDI Specifications and Commentary for Steel Roof Deck (Steel Deck
    1. Institute Design Manual, Publication No. 29, 1995, Pages 30 to 37).
    1. Welding Qualification:
       1. Qualify welding processes and procedures and welders and welding operators in accordance with AWS "Standard Qualification Procedure".
    1. Welded decking in place is subject to inspection and testing in accordance with AWS D1.1. Remove work found to be defective and replace with new acceptable work.
+
 ## Product
 
 1. MATERIALS
@@ -70,7 +71,7 @@ tags: ['Facility', 'Construction', 'Metals', 'Steel', 'Roof', 'Decking']
    1. Epoxy Adhesive:
       1. Two-part epoxy-resin adhesive, "Scotch Weld" structural adhesive 3501 B/A manufactured by 3M Company, or approved equal.
 2. FABRICATION
-	1. General:
+   1. General:
       1. Fabricate deck units in lengths to span three or more supports, with telescoped or nested 2" end laps and nested side laps, and end laps staggered by at least one deck span length,
    1. unless otherwise indicated. Provide deck configurations complying with SDI "Specification"
    1. and as specified herein; and of gages and section modulus per foot width shown.
@@ -84,11 +85,11 @@ tags: ['Facility', 'Construction', 'Metals', 'Steel', 'Roof', 'Decking']
 ## Execution
 
 1. INSTALLATION
-	1. General:
+   1. General:
       1. Install deck units and accessories in accordance with manufacturer's recommendations and final shop drawings, and as specified herein.
    1. Replace all sheets that have been crimped, dented or bent during shipping or erection or
-   2. because of like damage from other construction operations.
-   3. Place deck units on supporting steel framework and adjust to final position with ends accurately aligned and bearing on supporting members not less than 3" before being permanently fastened.
+   1. because of like damage from other construction operations.
+   1. Place deck units on supporting steel framework and adjust to final position with ends accurately aligned and bearing on supporting members not less than 3" before being permanently fastened.
    1. Do not stretch or contract side lap interlocks.
    1. Place deck units in straight alignment for entire length of run of cells and with close alignment between cells at ends of abutting units. Check alignment every 30 feet to prevent fanning due to
    1. tolerance in sheet width and in placement.
@@ -120,19 +121,19 @@ tags: ['Facility', 'Construction', 'Metals', 'Steel', 'Roof', 'Decking']
       1. Cut and neatly fit deck units and accessories around other work projecting through or adjacent to the decking.
    1. Repair or replace deck where non-usable holes have been made in the deck through accident or carelessness during erection, or for any other reason, which are larger than 1/4" in diameter as
    1. follows:
-         1. 1/4" to 1/2" Diameter:
+      1. 1/4" to 1/2" Diameter:
       1. Seal with joint tape.
-2. 1/2" to 1" Diameter:
-      1. Seal with 26-gage minimum sheet metal fastened with epoxy
+5. 1/2" to 1" Diameter:
+   1. Seal with 26-gage minimum sheet metal fastened with epoxy
    1. adhesive.
-3. 1" to 2" Diameter:
-      1. Seal with 26-gage minimum sheet metal fastened with self-drilling
+6. 1" to 2" Diameter:
+   1. Seal with 26-gage minimum sheet metal fastened with self-drilling
    1. screws or blind rivets.
-4. 2" Diameter or Larger:
-      1. Replace deck unit.
+7. 2" Diameter or Larger:
+   1. Replace deck unit.
    1. Reinforcement at Openings:
       1. Provide additional metal reinforcement and closure pieces as required for strength, continuity of decking and support of other work.
-1. Holes less than 6" across require no reinforcement. Reinforce holes 6" to 12" across with
+8. Holes less than 6" across require no reinforcement. Reinforce holes 6" to 12" across with
    1. 20-gage galvanized steel sheet at least 12" wider and longer than the opening and
    1. fastened to the steel deck at a maximum of 12" on center. Reinforce openings larger than
    1. 12" across with steel angles as shown on the Drawings. Provide fasteners at each corner
@@ -142,5 +143,5 @@ tags: ['Facility', 'Construction', 'Metals', 'Steel', 'Roof', 'Decking']
    1. larger screws, at 4'-0" o.c.
    1. Touch-Up Painting:
       1. After decking installation, wire brush, clean and paint scarred areas, welds and rust spots on top and bottom surfaces of decking units and supporting steel members.
-1. Touch-up galvanized surfaces with galvanizing repair paint applied in accordance with
+9. Touch-up galvanized surfaces with galvanizing repair paint applied in accordance with
    1. manufacturer's instructions.

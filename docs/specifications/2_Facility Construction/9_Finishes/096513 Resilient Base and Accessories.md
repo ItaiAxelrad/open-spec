@@ -4,7 +4,8 @@ section: '096513'
 divNumb: 9
 divName: Finishes
 subgroup: Facility Construction
-tags: ['Facility', 'Construction', 'Finishes', 'Resilient', 'Base', 'Accessories']
+tags:
+  ['Facility', 'Construction', 'Finishes', 'Resilient', 'Base', 'Accessories']
 ---
 
 ## General
@@ -54,34 +55,34 @@ tags: ['Facility', 'Construction', 'Finishes', 'Resilient', 'Base', 'Accessories
    1. Divider Strips:
       1. White alloy zinc, 1/8 inch thick, heavy top type, depth as required, with suitable anchorage devices.
    1. resilient stair covering materials
-   2. Rubber as manufactured by Johnsonite; R.C.A. Rubber Co.; R.C. Musson Rubber Co.; Marley Flexco; or as approved.
-   3. Adhesive for resilient stair covering:
+   1. Rubber as manufactured by Johnsonite; R.C.A. Rubber Co.; R.C. Musson Rubber Co.; Marley Flexco; or as approved.
+   1. Adhesive for resilient stair covering:
       1. waterproof adhesive recommended by manufacturer.
-   4. Caulking compound:
+   1. Caulking compound:
       1. epoxy type recommended by manufacturer.
-   5. Smooth Surface Treads
-   6. Fed. Spec. RR-T-650, Composition A.
-   7. Molded rubber, long nose style, 12-1/2 inches deep, 5/16 inch thick at front tapering to 3/16 inch at back, smooth surface with two 3/4-inch-wide abrasive strips recessed into tread, and in marbleized color indicated on the Finish Schedule.
-   8. Molded Pattern Treads
-   9. Fed. Spec. RR-T-650, Composition A.
-   10. Same material as specified for molded pattern rubber tile, 13 inches deep.
-   11. One-Piece Molded Pattern Treads and Risers
-   12. Fed. Spec. RR-T-650, Composition A.
-   13. Same material as specified for molded pattern rubber tile, size required to fit indicated tread and riser dimensions.
-   14. Sheet Rubber
-   15. Resilient covering for stair landings and other floor surfaces so indicated in stairwells:
-      1. sheet rubber 3/16 inch thick, and in same color and pattern as selected for rubber treads.
-   16. Risers
-   17. Molded rubber, topset cove style, full height and width of riser, minimum 1/8 inch thick and in same color and pattern as rubber tread.
-   18. Stringer Material
-   19. For concrete stairs with resilient covering:
-      2. 0.080-inch-thick rubber matching treads and of shape to fit the tread and riser dimensions.
-   20. rESILIENT CORNER GUARDS
-   21. One-piece molded rubber, not less than 1/4 inch thick by minimum 2-3/4 inches coverage at right angles, 54 inches long, with smooth surface, as manufactured by Marley Flexco; R.C.A. Rubber Co.; R.C. Musson Rubber Co. or as approved.
-   22. Color:
-      3. as selected by the Architect from manufacturer's standard range.
-   23. Adhesive for corner guards:
-      4. waterproof adhesive recommended by manufacturer of corner guards.
+   1. Smooth Surface Treads
+   1. Fed. Spec. RR-T-650, Composition A.
+   1. Molded rubber, long nose style, 12-1/2 inches deep, 5/16 inch thick at front tapering to 3/16 inch at back, smooth surface with two 3/4-inch-wide abrasive strips recessed into tread, and in marbleized color indicated on the Finish Schedule.
+   1. Molded Pattern Treads
+   1. Fed. Spec. RR-T-650, Composition A.
+   1. Same material as specified for molded pattern rubber tile, 13 inches deep.
+   1. One-Piece Molded Pattern Treads and Risers
+   1. Fed. Spec. RR-T-650, Composition A.
+   1. Same material as specified for molded pattern rubber tile, size required to fit indicated tread and riser dimensions.
+   1. Sheet Rubber
+   1. Resilient covering for stair landings and other floor surfaces so indicated in stairwells:
+   1. sheet rubber 3/16 inch thick, and in same color and pattern as selected for rubber treads.
+   1. Risers
+   1. Molded rubber, topset cove style, full height and width of riser, minimum 1/8 inch thick and in same color and pattern as rubber tread.
+   1. Stringer Material
+   1. For concrete stairs with resilient covering:
+   1. 0.080-inch-thick rubber matching treads and of shape to fit the tread and riser dimensions.
+   1. rESILIENT CORNER GUARDS
+   1. One-piece molded rubber, not less than 1/4 inch thick by minimum 2-3/4 inches coverage at right angles, 54 inches long, with smooth surface, as manufactured by Marley Flexco; R.C.A. Rubber Co.; R.C. Musson Rubber Co. or as approved.
+   1. Color:
+   1. as selected by the Architect from manufacturer's standard range.
+   1. Adhesive for corner guards:
+   1. waterproof adhesive recommended by manufacturer of corner guards.
 
 ## Execution
 

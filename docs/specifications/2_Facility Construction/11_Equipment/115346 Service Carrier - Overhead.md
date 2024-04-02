@@ -4,9 +4,9 @@ section: '115346'
 divNumb: 11
 divName: Equipment
 subgroup: Facility Construction
-tags: ['Facility', 'Construction', 'Equipment', 'Service', 'Carrier', 'Overhead']
+tags:
+  ['Facility', 'Construction', 'Equipment', 'Service', 'Carrier', 'Overhead']
 ---
-
 
 ## General
 
@@ -69,7 +69,7 @@ tags: ['Facility', 'Construction', 'Equipment', 'Service', 'Carrier', 'Overhead'
       1. Chemical resistant powder paint finish in manufacturer's standard color to be selected.
    5. Carrier body:
       1. Nominal table frame dimensions:
-            1. Width:
+         1. Width:
       2. 72”
    6. Depth:
       1. 18”
@@ -83,32 +83,32 @@ tags: ['Facility', 'Construction', 'Equipment', 'Service', 'Carrier', 'Overhead'
    12. Lamp assemblies shall include two 40W florescent bulbs, prismatic lens and replaceable ballasts.
    13. Lamp assemblies can be rebulbed by a bottom removal of the lens cover. Accessibility from the body interior is not acceptable.
    14. Load bearing capabilities:
-      2. Total overhead service carrier plus 400 pounds per unit.
-   15. Shelf unit plus 100 to 180 pounds respective of size.
-   16. CEILING POST ASSEMBLIES
-       1.  General requirements for ceiling post assemblies, ceiling extension assemblies structures:
-      3. Vertical structural support:
-         1. 16-gauge cold rolled vertical shall integrate a slotted standard to cantilevered components.
-   17. Nominal height options:
-      4. 36”
-   18. Ceiling extension assembly shall insert into the ceiling posts to add 24” to distance from carrier body to the ceiling area.
-   19. Ceiling extensions shall be attached to the ceiling posts by four mechanical attached devices that can be installed with simple hand tools.
-   20. Ceiling gusset assemblies include a set of two gussets to provide a means to attach to the ceiling deck or structural support. Ceiling gusset shall include attachment hardware to extension assembly. 11-gauge rolled steel.
-   21. Filler panel assemblies shall provide an umbilical chase between the ceiling plenum and horizontal chase.
-   22. A set of two filler panels shall enclose the space between the ceiling posts.
-23. FINISHES
-   24. Metal finish:
-      5. Preparation:
-         1. Properly clean metal to receive finish.
-   25. Application:
-      6. Electrostatically apply urethane powder coat of selected color and bake in controlled high temperature oven to assure a smooth, hard satin finish. Surfaces shall have a chemical resistant, high grade laboratory furniture quality finish of the following thickness:
-      7. Liquid, dipped, solvent based finishes are not and will not be acceptable.
-   26. Exterior and interior exposed surfaces:
-      1.5 mil average and 1.2 mil min.
-   27. Backs of cabinets and other surfaces not exposed to view:
-      1.2 mil average.
-   28. Cabinet Surface Finish Tests:
-      1. All casework construction and performance characteristics shall be in full compliance with SEFA 8 standards.
+   15. Total overhead service carrier plus 400 pounds per unit.
+   16. Shelf unit plus 100 to 180 pounds respective of size.
+   17. CEILING POST ASSEMBLIES
+       1. General requirements for ceiling post assemblies, ceiling extension assemblies structures:
+   18. Vertical structural support:
+       1. 16-gauge cold rolled vertical shall integrate a slotted standard to cantilevered components.
+   19. Nominal height options:
+   20. 36”
+   21. Ceiling extension assembly shall insert into the ceiling posts to add 24” to distance from carrier body to the ceiling area.
+   22. Ceiling extensions shall be attached to the ceiling posts by four mechanical attached devices that can be installed with simple hand tools.
+   23. Ceiling gusset assemblies include a set of two gussets to provide a means to attach to the ceiling deck or structural support. Ceiling gusset shall include attachment hardware to extension assembly. 11-gauge rolled steel.
+   24. Filler panel assemblies shall provide an umbilical chase between the ceiling plenum and horizontal chase.
+   25. A set of two filler panels shall enclose the space between the ceiling posts.
+1. FINISHES
+1. Metal finish:
+1. Preparation:
+   1. Properly clean metal to receive finish.
+1. Application:
+1. Electrostatically apply urethane powder coat of selected color and bake in controlled high temperature oven to assure a smooth, hard satin finish. Surfaces shall have a chemical resistant, high grade laboratory furniture quality finish of the following thickness:
+1. Liquid, dipped, solvent based finishes are not and will not be acceptable.
+1. Exterior and interior exposed surfaces:
+   1.5 mil average and 1.2 mil min.
+1. Backs of cabinets and other surfaces not exposed to view:
+   1.2 mil average.
+1. Cabinet Surface Finish Tests:
+1. All casework construction and performance characteristics shall be in full compliance with SEFA 8 standards.
 
 ## Execution
 

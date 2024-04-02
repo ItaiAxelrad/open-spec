@@ -4,7 +4,17 @@ section: '284600'
 divNumb: 28
 divName: Electronics Safety and Security
 subgroup: Facility Services
-tags: ['Facility', 'Services', 'Electronics', 'Safety', 'Security', 'Fire', 'Detection', 'Alarm']
+tags:
+  [
+    'Facility',
+    'Services',
+    'Electronics',
+    'Safety',
+    'Security',
+    'Fire',
+    'Detection',
+    'Alarm',
+  ]
 ---
 
 ## General
@@ -134,9 +144,9 @@ tags: ['Facility', 'Services', 'Electronics', 'Safety', 'Security', 'Fire', 'Det
    1. The system shall be provided with sufficient standby capacity to operate the entire system upon loss of normal 120 VAC power in a normal supervisory mode for a period of twenty-four (24) hours with 5minutes of alarm operation at the end of this period. The system shall automatically transfer to the standby power source upon power failure. All battery charging and recharging operations shall be automatic.
    1. All external circuits requiring system operating power shall be 24VDC and shall be individually fused at the control panel.
    1. This fire alarm system shall be compatible in everyway with the system already existing at Owner.
-   1. Doors in firewalls are specified under other sections of the specifications to have magnetic holding devices. The Contractor shall integrate these devices so as to de-activate the magnets and allow the doors to swing closed in the event of a fire alarm. 
+   1. Doors in firewalls are specified under other sections of the specifications to have magnetic holding devices. The Contractor shall integrate these devices so as to de-activate the magnets and allow the doors to swing closed in the event of a fire alarm.
    1. FIRE ALARM CONTROL PANEL - MODEL 4120-8001
-   1. Control Panel 
+   1. Control Panel
    1. Construction shall be modular with solid state, microprocessor based electronics. It shall display only those primary controls and displays essential to operation during a fire alarm condition. Keyboards or keypads shall not be required to operate the system during fire alarm conditions.
    1. A local audible device shall sound during Alarm, Trouble or Supervisory conditions. This audible device shall sound differently during each condition to distinguish one condition from another without having to view the panel. This audible device shall also sound during each keypress to provide an audible feedback to ensure that the key has been pressed properly.
    1. Primary Keys, LED's and LCD Display
@@ -148,15 +158,15 @@ tags: ['Facility', 'Services', 'Electronics', 'Safety', 'Security', 'Fire', 'Det
    1. Network must be a true peer-to-peer network. Capability to view network information from any node. System must have style 7-network signaling.
    1. SYSTEM PANEL OPERATION AND CAPABILITIES
    1. The system alarm operation subsequent to the alarm activation of any manual station, automatic detection device, or sprinkler flow switch shall be as follows:
-      1. A digitized emergency signal shall be transmitted to all horns zones activated for that alarm. 
+      1. A digitized emergency signal shall be transmitted to all horns zones activated for that alarm.
    1. All visible alarm indicating appliances shall flash continuously until the system is reset. The strobes shall flash at the rate of once per second and all strobes at the same instant. This shall be accomplished in a UL listed manner.
-   1. All audible indicating appliances shall operate in a general alarm mode. 
+   1. All audible indicating appliances shall operate in a general alarm mode.
    1. Any subsequent zone alarm shall reactivate the alarm indicating appliances.
-   1. The fire alarm control panel shall control and communicate with nodes through a serial data interface. This shall allow for distributed processing of alarm input and output functions. 
+   1. The fire alarm control panel shall control and communicate with nodes through a serial data interface. This shall allow for distributed processing of alarm input and output functions.
    1. The alarm shall be displayed on an 80-character LCD display. The top line of 40 characters shall be the point label and the second line shall be the device type identifier. The system alarm LED shall flash on the control panel until the alarm has been acknowledged. Once acknowledged, this same LED shall latch on. A subsequent alarm received from another zone shall flash the system alarm LED on the control panel. The LCD display shall show the new alarm information.
    1. The system will monitor the smoke detection operation of the system sensors to provide "two stage" operation. When an individual smoke sensor senses smoke at a 0.2%/0.5% or 1% obscuration level (desired level will be indicated for each device by the Owner) a supervisory notice shall be generated. This condition shall cause a message to be shown on the control panel indicating the need for investigation of this condition. This operation is designed to provide staff with the opportunity to investigate situations where very low amounts of smoke are generated, e.g., a smoldering fire condition that typically takes a long time to develop. When the sensor level reaches its programmed alarm level, 2.5% obscuration typical, the normal system alarm sequence will take place.
    1. The system shall support the same multi-stage operation when used with heat sensors, e.g., a software selectable level for supervisory notification and a higher, alarm-causing temperature level.
-   1. The control panel shall have a dedicated supervisory service LED and a dedicated supervisory service acknowledge switch for the annunciation and acknowledgement of sprinkler supervisory functions (OS&Y, PIV, etc.). 
+   1. The control panel shall have a dedicated supervisory service LED and a dedicated supervisory service acknowledge switch for the annunciation and acknowledgement of sprinkler supervisory functions (OS&Y, PIV, etc.).
    1. History Logging
    1. The system shall be capable of logging and storing 600 events in an alarm log and 600 events in a trouble log. These events shall be stored in a battery protected random access memory. Each recorded event shall include the time and date of that event's occurrence.
    1. Audible Walk-test
@@ -164,7 +174,7 @@ tags: ['Facility', 'Services', 'Electronics', 'Safety', 'Security', 'Fire', 'Det
    1. Silent Walk-test with History Logging
    1. While in this testing mode the alarm activation of an initiating device circuit shall be silently logged as an alarm condition in the historical data file. The panel shall automatically reset itself after logging of the alarm.
    1. Visual Walk-test with History Logging
-   1. While in a testing mode the activation of any initiating device will cause the system visual devices to flash in response to that activation. Visuals shall flash twice each time a device is activated. A separate visual indication shall be provided for activation of trouble conditions or supervisory conditions. 
+   1. While in a testing mode the activation of any initiating device will cause the system visual devices to flash in response to that activation. Visuals shall flash twice each time a device is activated. A separate visual indication shall be provided for activation of trouble conditions or supervisory conditions.
    1. Provide the alarm, severe weather, and all clear messages in English. Provide these messages in either a male or a female voice, or both, as the Contracting Officer directs.
    1. MULTIPLE ADDRESSABLE PERIPHERAL NETWORK (IDNET)
    1. Communication with addressable devices. The system must provide communication with initiating and control devices individually. All of these devices will be individually annunciated at the control panel.
@@ -184,14 +194,14 @@ tags: ['Facility', 'Services', 'Electronics', 'Safety', 'Security', 'Fire', 'Det
    1. G.3 - Photoelectric Detector Head
    1. The Photoelectric type detector shall be a plug-in unit, which mounts to a twist-lock base, and shall be UL approved. Provide model 4098-9714.
    1. The detectors shall be of the solid-state photoelectric type and shall contain no radioactive material. They will use a pulsed infrared LED light source and be sealed against rear airflow entry.
-   1. The detector shall fit into a base that is common with both the heat detector and photo type detector and shall be compatible with other addressable detectors, addressable manual stations, and addressable Zone Adapter Modules on the same circuit. The detector shall also fit into a non-addressable base that is 
+   1. The detector shall fit into a base that is common with both the heat detector and photo type detector and shall be compatible with other addressable detectors, addressable manual stations, and addressable Zone Adapter Modules on the same circuit. The detector shall also fit into a non-addressable base that is
    1. There shall be no limit to the number of detectors or Zone Adapter Modules, which may be activated, or "in alarm" simultaneously.
    1. G.4 - Addressable Analog Thermal Detector Head
    1. Thermal detector heads must be analog devices. They will be a programmable for fixed and/or rate of rise operation in accordance with the Contracting Officer's instructions. Provide model 4098-9733.
    1. G.5 - Addressable Pull Stations
    1. Provide model 4099-9001 addressable, double action pull stations. Pull stations will be key reset, common keyed. Pull stations will be provided with pull station cover model 2099-9153 and weatherproof model 2099-9817 for outside use.
    1. G.6 - Addressable Photoelectric Duct Detector
-   1. The detector shall be a non-polarized 24VDC type which is compatible with the Fire Alarm Panel and, obtains its operating power from the supervisory current in the fire alarm detection loop. Provide model 4098-9756 with appropriate length sampling tubes. 
+   1. The detector shall be a non-polarized 24VDC type which is compatible with the Fire Alarm Panel and, obtains its operating power from the supervisory current in the fire alarm detection loop. Provide model 4098-9756 with appropriate length sampling tubes.
    1. G.7 - Zone Adaptor Module
    1. Zone Adapter Modules shall be sued for monitoring of waterflow, valve tamper, Halon Control Panels, non-addressable detectors, and for control of evacuation indicating appliances and AHU systems). Provide models 4090-9001 IAM Relay, 2190-9172 IAM (individual addressable module), and 2190-9161 signal as appropriate for the indicated use.
    1. G.8 - Addressable Device Supervision
@@ -207,8 +217,8 @@ tags: ['Facility', 'Services', 'Electronics', 'Safety', 'Security', 'Fire', 'Det
    1. WALKTEST GROUP REQUIREMENTS
    1. In order to facilitate testing of various areas and subsystems within the building Walk test groups shall be provided. Walk test groups are software partitions within the fire alarm control software that allow testing of portions of the fire alarm system without a loss of protection in those areas not being tested.
    1. run in conduit.
-   1. PROJECT SPECIFIC REQUIREMENTS 
-   1. The following are system requirements that apply to this project. 
+   1. PROJECT SPECIFIC REQUIREMENTS
+   1. The following are system requirements that apply to this project.
    1. The fire alarm control panel located in the new S&TF building shall function as a node on the network. Alarm and trouble conditions shall be communicated to the serf building with all analog information at this location as well. System shall be capable of supporting multiple active commands.
    1. System will view network information from any node. System must be able to do vectoring by point. Nodes must be able to stand-alone per NFPA 72. System must be able to have 10,000 feet between nodes without repeaters.
    1. All points monitored and controlled by the fire alarm control panel shall be capable of being programmed as “Public”. Such points shall include:
@@ -275,7 +285,7 @@ tags: ['Facility', 'Services', 'Electronics', 'Safety', 'Security', 'Fire', 'Det
    1. Install instructions frame in a location visible from the FACP.
    1. Paint power-supply disconnect switch red and label "FIRE ALARM."
    1. GROUNDING
-   1. Ground the FACP and associated circuits; comply with IEEE 1100. 
+   1. Ground the FACP and associated circuits; comply with IEEE 1100.
    1. TESTING
    1. The completed fire alarm system shall be fully tested in accordance with NFPA-72 by the contractor in the presence of the Owner's representative and the Local Fire Marshal. Upon completion of a successful test, the contractor shall so certify in writing to the Contracting Officer and general contractor.
    1. Perform the following field tests and inspections and prepare test reports:
@@ -300,4 +310,3 @@ tags: ['Facility', 'Services', 'Electronics', 'Safety', 'Security', 'Fire', 'Det
    1. TRAINING
    1. Training will be provided by SimplexGrinnell for a total of eight (8) hours over two (2) days.
 1. (THIS PAGE INTENTIONALLY BLANK)
-

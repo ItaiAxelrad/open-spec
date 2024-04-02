@@ -4,9 +4,16 @@ section: '115329'
 divNumb: 11
 divName: Equipment
 subgroup: Facility Construction
-tags: ['Facility', 'Construction', 'Equipment', 'Laboratory', 'Controlled-Environment', 'Cabinets']
+tags:
+  [
+    'Facility',
+    'Construction',
+    'Equipment',
+    'Laboratory',
+    'Controlled-Environment',
+    'Cabinets',
+  ]
 ---
-
 
 ## General
 
@@ -19,15 +26,15 @@ tags: ['Facility', 'Construction', 'Equipment', 'Laboratory', 'Controlled-Enviro
    1. Division 23 – Mechanical for exhaust system connection requirements
 1. REFERENCES
    1. International Fire Code (IFC)
-   5 – Gas Cabinets
+      5 – Gas Cabinets
    1. Submittals
-   2. Submit manufacturer’s literature indicating details of gas cabinet construction.
-   3. Submit Shop Drawings showing details of fabrication.
-   4. Provide a schedule showing sizes and locations of gas cabinets to be provided.
+   1. Submit manufacturer’s literature indicating details of gas cabinet construction.
+   1. Submit Shop Drawings showing details of fabrication.
+   1. Provide a schedule showing sizes and locations of gas cabinets to be provided.
 1. PROJECT CONDITIONS
    1. Delivery
    2. Do not deliver gas cabinets to the project site until the building is fully enclosed, floor materials have been installed, and painting is complete.
-   
+
 ## Products
 
 1. Manufacturers
@@ -70,5 +77,3 @@ tags: ['Facility', 'Construction', 'Equipment', 'Laboratory', 'Controlled-Enviro
    1. Install compressed air system line and valve in accordance with the drawings and Section 15210.
    1. CLEANING
    1. Upon completion, clean the Work in accordance with manufacturer's instructions.
-
-

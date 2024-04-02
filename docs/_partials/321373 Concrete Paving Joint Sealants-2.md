@@ -4,7 +4,17 @@ section: '3213732'
 divNumb: 32
 divName: Exterior Improvements
 subgroup: Site and Infrastructure
-tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Concrete', 'Paving', 'Joint', 'Sealants']
+tags:
+  [
+    'Site',
+    'Infrastructure',
+    'Exterior',
+    'Improvements',
+    'Concrete',
+    'Paving',
+    'Joint',
+    'Sealants',
+  ]
 ---
 
 ## General
@@ -85,64 +95,64 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Concrete', 'Paving
 
 ## Products
 
-   1. MATERIALS
-   1. Compatibility:
-      1. Provide joint sealants, backing materials, and other related materials that are compatible with one another and with joint substrates under conditions of service and application, as demonstrated by joint-sealant manufacturer based on testing and field experience.
-   1. Retain paragraph below if joint sealants specified are offered in a choice of colors and colors are not specified in Paving-Joint-Sealant Schedule in Part 3 or on Drawings. Typically, color choice is not available for pavement joint sealants.
-   1. Colors of Exposed Joint Sealants:
-      1. As selected by Architect from manufacturer's full range.
-   1. COLD-APPLIED JOINT SEALANTS
-   1. Single-Component, Nonsag, Silicone Joint Sealant for Concrete:
-      1. ASTM D 5893, Type NS.
-   1. See Editing Instruction No. 1 in the Evaluations for cautions about naming manufacturers and products. See Division 01 Section "Product Requirements."
-   1. Products:
-      1. Subject to compliance with requirements,available products that may be incorporated into the Work include, but are not limited to, the following:
-      1. Crafco Inc., an ERGON company; RoadSaver Silicone.
-   1. Dow Corning Corporation; 888.
-   1. Pecora Corporation; 301 NS.
-   1. Single-Component, Self-Leveling, Silicone Joint Sealant for Concrete:
-      1. ASTM D 5893, Type SL.
-   1. See Editing Instruction No. 1 in the Evaluations for cautions about naming manufacturers and products. See Division 01 Section "Product Requirements."
-   1. Products:
-      1. Subject to compliance with requirements available products that may be incorporated into the Work include, but are not limited to, the following:
-      1. Crafco Inc., an ERGON company; RoadSaver Silicone SL.
-   1. Dow Corning Corporation; 890-SL.
-   1. Pecora Corporation; 300 SL.
-   1. Multicomponent, Pourable, Traffic-Grade, Urethane Joint Sealant for Concrete:
-      1. ASTM C 920, Type M, Grade P, Class 25, for Use T.
-   1. See Editing Instruction No. 1 in the Evaluations for cautions about naming manufacturers and products. See Division 01 Section "Product Requirements."
-   1. Products:
-      1. Subject to compliance with requirements, available products that may be incorporated into the Work include, but are not limited to, the following:
-      1. Pecora Corporation; Urexpan NR-200.
-   1. HOT-APPLIED JOINT SEALANTS
-   1. Hot-Applied, Single-Component Joint Sealant for Concrete:
-      1. ASTM D 3406.
-   1. See Editing Instruction No. 1 in the Evaluations for cautions about naming manufacturers and products. See Division 01 Section "Product Requirements."
-   1. Products:
-      1. Subject to compliance with requirements, available products that may be incorporated into the Work include, but are not limited to, the following:
-      1. Crafco Inc., an ERGON company; Superseal 444/777.
-   1. Hot-Applied, Single-Component Joint Sealant for Concrete and Asphalt:
-      1. ASTM D 6690, Types I and II.
-   1. See Editing Instruction No. 1 in the Evaluations for cautions about naming manufacturers and products. See Division 01 Section "Product Requirements."
-   1. Products:
-      1. Subject to compliance with requirements, available products that may be incorporated into the Work include, but are not limited to, the following:
-      1. Meadows, W. R., Inc.;.
-   1. Right Pointe; D-3405 Hot Applied Sealant.
-   1. JOINT-SEALANT BACKER MATERIALS
-	1. General:
-      1. Provide joint-sealant backer materials that are nonstaining; are compatible with joint substrates, sealants, primers, and other joint fillers; and are approved for applications indicated by joint-sealant manufacturer based on field experience and laboratory testing.
-   1. Retain one of first two paragraphs below for use in joints such as contraction joints cut partially through paving material.
-   1. Round Backer Rods for Cold- and Hot-Applied Joint Sealants:
-      1. ASTM D 5249, Type 1, of diameter and density required to control sealant depth and prevent bottom-side adhesion of sealant.
-   1. Round Backer Rods for Cold-Applied Joint Sealants:
-      1. ASTM D 5249, Type 3, of diameter and density required to control joint-sealant depth and prevent bottom-side adhesion of sealant.
-   1. Retain first paragraph below for use in joints such as expansion joints extending through the full depth of the pavement.
-   1. Backer Strips for Cold- and Hot-Applied Joint Sealants:
-      1. ASTM D 5249; Type 2; of thickness and width required to control joint-sealant depth, prevent bottom-side adhesion of sealant, and fill remainder of joint opening under sealant.
-   1. PRIMERS
-      1. Generally retain this article unless it is known that priming of substrates is not required with joint sealants specified. Purpose of primers is to improve adhesion of joint sealant to substrate.
-   1. Primers:
-      1. Product recommended by joint-sealant manufacturer where required for adhesion of sealant to joint substrates indicated, as determined from preconstruction joint-sealant-substrate tests and field tests.
+1.  MATERIALS
+1.  Compatibility:
+    1. Provide joint sealants, backing materials, and other related materials that are compatible with one another and with joint substrates under conditions of service and application, as demonstrated by joint-sealant manufacturer based on testing and field experience.
+1.  Retain paragraph below if joint sealants specified are offered in a choice of colors and colors are not specified in Paving-Joint-Sealant Schedule in Part 3 or on Drawings. Typically, color choice is not available for pavement joint sealants.
+1.  Colors of Exposed Joint Sealants:
+    1. As selected by Architect from manufacturer's full range.
+1.  COLD-APPLIED JOINT SEALANTS
+1.  Single-Component, Nonsag, Silicone Joint Sealant for Concrete:
+    1. ASTM D 5893, Type NS.
+1.  See Editing Instruction No. 1 in the Evaluations for cautions about naming manufacturers and products. See Division 01 Section "Product Requirements."
+1.  Products:
+    1. Subject to compliance with requirements,available products that may be incorporated into the Work include, but are not limited to, the following:
+    1. Crafco Inc., an ERGON company; RoadSaver Silicone.
+1.  Dow Corning Corporation; 888.
+1.  Pecora Corporation; 301 NS.
+1.  Single-Component, Self-Leveling, Silicone Joint Sealant for Concrete:
+    1. ASTM D 5893, Type SL.
+1.  See Editing Instruction No. 1 in the Evaluations for cautions about naming manufacturers and products. See Division 01 Section "Product Requirements."
+1.  Products:
+    1. Subject to compliance with requirements available products that may be incorporated into the Work include, but are not limited to, the following:
+    1. Crafco Inc., an ERGON company; RoadSaver Silicone SL.
+1.  Dow Corning Corporation; 890-SL.
+1.  Pecora Corporation; 300 SL.
+1.  Multicomponent, Pourable, Traffic-Grade, Urethane Joint Sealant for Concrete:
+    1. ASTM C 920, Type M, Grade P, Class 25, for Use T.
+1.  See Editing Instruction No. 1 in the Evaluations for cautions about naming manufacturers and products. See Division 01 Section "Product Requirements."
+1.  Products:
+    1. Subject to compliance with requirements, available products that may be incorporated into the Work include, but are not limited to, the following:
+    1. Pecora Corporation; Urexpan NR-200.
+1.  HOT-APPLIED JOINT SEALANTS
+1.  Hot-Applied, Single-Component Joint Sealant for Concrete:
+    1. ASTM D 3406.
+1.  See Editing Instruction No. 1 in the Evaluations for cautions about naming manufacturers and products. See Division 01 Section "Product Requirements."
+1.  Products:
+    1. Subject to compliance with requirements, available products that may be incorporated into the Work include, but are not limited to, the following:
+    1. Crafco Inc., an ERGON company; Superseal 444/777.
+1.  Hot-Applied, Single-Component Joint Sealant for Concrete and Asphalt:
+    1. ASTM D 6690, Types I and II.
+1.  See Editing Instruction No. 1 in the Evaluations for cautions about naming manufacturers and products. See Division 01 Section "Product Requirements."
+1.  Products:
+    1. Subject to compliance with requirements, available products that may be incorporated into the Work include, but are not limited to, the following:
+    1. Meadows, W. R., Inc.;.
+1.  Right Pointe; D-3405 Hot Applied Sealant.
+1.  JOINT-SEALANT BACKER MATERIALS
+1.  General:
+1.  Provide joint-sealant backer materials that are nonstaining; are compatible with joint substrates, sealants, primers, and other joint fillers; and are approved for applications indicated by joint-sealant manufacturer based on field experience and laboratory testing.
+1.  Retain one of first two paragraphs below for use in joints such as contraction joints cut partially through paving material.
+1.  Round Backer Rods for Cold- and Hot-Applied Joint Sealants:
+    1. ASTM D 5249, Type 1, of diameter and density required to control sealant depth and prevent bottom-side adhesion of sealant.
+1.  Round Backer Rods for Cold-Applied Joint Sealants:
+    1. ASTM D 5249, Type 3, of diameter and density required to control joint-sealant depth and prevent bottom-side adhesion of sealant.
+1.  Retain first paragraph below for use in joints such as expansion joints extending through the full depth of the pavement.
+1.  Backer Strips for Cold- and Hot-Applied Joint Sealants:
+    1. ASTM D 5249; Type 2; of thickness and width required to control joint-sealant depth, prevent bottom-side adhesion of sealant, and fill remainder of joint opening under sealant.
+1.  PRIMERS
+    1. Generally retain this article unless it is known that priming of substrates is not required with joint sealants specified. Purpose of primers is to improve adhesion of joint sealant to substrate.
+1.  Primers:
+    1. Product recommended by joint-sealant manufacturer where required for adhesion of sealant to joint substrates indicated, as determined from preconstruction joint-sealant-substrate tests and field tests.
 
 ## Execution
 
@@ -155,9 +165,7 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Concrete', 'Paving
    1. As previously noted in "Primers" Article, purpose of primers is to improve adhesion of joint sealant to substrate.
    1. Joint Priming:
       1. Prime joint substrates where indicated or where recommended in writing by joint-sealant manufacturer, based on preconstruction joint-sealant-substrate tests or prior experience. Apply primer to comply with joint-sealant manufacturer's written instructions. Confine primers to areas of joint-sealant bond; do not allow spillage or migration onto adjoining surfaces.
-1. INSTALLATION OF JOINT SEALANTS
-	1. General:
-      1. Comply with joint-sealant manufacturer's written installation instructions for products and applications indicated unless more stringent requirements apply.
+1. INSTALLATION OF JOINT SEALANTS 1. General: 1. Comply with joint-sealant manufacturer's written installation instructions for products and applications indicated unless more stringent requirements apply.
    1. Joint-Sealant Installation Standard:
       1. Comply with recommendations in ASTM C 1193 for use of joint sealants as applicable to materials, applications, and conditions indicated.
    1. Install joint-sealant backings of kind indicated to support joint sealants during application and at position required to produce cross-sectional shapes and depths of installed sealants relative to joint widths that allow optimum sealant movement capability.
@@ -180,14 +188,13 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Concrete', 'Paving
    1. Tolerances:
       1. Ensure that grooved joints are within 3-inches either way from centers of dowels.
    1. Sawed Joints:
-      1. Form contraction joints with power saws equipped with shatterproof abrasive or diamond-rimmed blades. Cut 1/8-inch wide joints into concrete when cutting action will not tear, abrade, or otherwise damage surface and before developing random contraction cracks. 
+      1. Form contraction joints with power saws equipped with shatterproof abrasive or diamond-rimmed blades. Cut 1/8-inch wide joints into concrete when cutting action will not tear, abrade, or otherwise damage surface and before developing random contraction cracks.
    1. Tolerances:
       1. Ensure that grooved joints are within 3-inches either way from centers of dowels.
    1. Doweled Contraction Joints:
-      1. Install dowel bars and support assemblies at joints where indicated. Lubricate or coat with asphalt one-half of dowel length to prevent concrete bonding to one-side of joint. 
+      1. Install dowel bars and support assemblies at joints where indicated. Lubricate or coat with asphalt one-half of dowel length to prevent concrete bonding to one-side of joint.
    1. CLEANING
    1. Clean off excess joint sealant or sealant smears adjacent to joints as the Work progresses, by methods and with cleaning materials approved in writing by manufacturers of joint sealants and of products in which joints occur.
    1. PROTECTION
    1. Protect joint sealants, during and after curing period, from contact with contaminating substances and from damage resulting from construction operations or other causes so sealants are without deterioration or damage at time of Substantial Completion. If, despite such protection, damage or deterioration occurs, cut out and remove damaged or deteriorated joint sealants immediately and replace with joint sealant so installations in repaired areas are indistinguishable from the original work.
-32 13 73
-
+      32 13 73

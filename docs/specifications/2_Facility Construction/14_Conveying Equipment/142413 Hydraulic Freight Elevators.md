@@ -4,7 +4,16 @@ section: '142413'
 divNumb: 14
 divName: Conveying Equipment
 subgroup: Facility Construction
-tags: ['Facility', 'Construction', 'Conveying', 'Equipment', 'Hydraulic', 'Freight', 'Elevators']
+tags:
+  [
+    'Facility',
+    'Construction',
+    'Conveying',
+    'Equipment',
+    'Hydraulic',
+    'Freight',
+    'Elevators',
+  ]
 ---
 
 ## General
@@ -97,130 +106,129 @@ tags: ['Facility', 'Construction', 'Conveying', 'Equipment', 'Hydraulic', 'Freig
 
 ## Products
 
-   1. MANUFACTURERS
-   1. Manufacturer:
-      1. Specification is based on Thyssen Krupp Elevator, Memphis, TN, “Oildraulic” pre-engineered freight elevator. Equal products as manufactured by one of the following are acceptable:
-      1. Kone, Inc. (Montgomery Kone), Moline, IL.
-   1. Otis Elevator Co. (United Technologies), Farmington, CN.
-   1. Schindler Elevator Corporation, Morristown, NJ.
-   1. MATERIALS, GENERAL
-   1. Colors, patterns, and finishes:
-      1. As selected by the Architect from manufacturer's full range of standard colors, patterns, and finishes.
-   1. Steel:
-      1. Shapes and bars:
-         1. ASTM A 36.
-   1. Sheet:
-      1. ASTM A 366, cold-rolled steel sheet, commercial quality, Class 1, matte finish, stretcher leveled.
-   1. Finish:
-      1. Factory-applied baked enamel.
-   1. Stainless steel:
-      1. Shapes and bars:
-         1. ASTM A 276, Type 300 (18-8).
-   1. Tubing:
-      1. ASTM A 269, Type 300 (18-8).
-   1. Aluminum:
-      1. Sheet and plate:
-         1. ASTM B 209, alloy 6063-T52.
-   1. Extrusions:
-      1. ASTM B 221, alloy 6063-T52.
-   1. Nickel silver:
-      1. ASTM B 151 extrusions, alloy UNS No. C74500, polished finish.
-   1. DESCRIPTION OF EQUIPMENT
+1.  MANUFACTURERS
+1.  Manufacturer:
+    1. Specification is based on Thyssen Krupp Elevator, Memphis, TN, “Oildraulic” pre-engineered freight elevator. Equal products as manufactured by one of the following are acceptable:
+    1. Kone, Inc. (Montgomery Kone), Moline, IL.
+1.  Otis Elevator Co. (United Technologies), Farmington, CN.
+1.  Schindler Elevator Corporation, Morristown, NJ.
+1.  MATERIALS, GENERAL
+1.  Colors, patterns, and finishes:
+    1. As selected by the Architect from manufacturer's full range of standard colors, patterns, and finishes.
+1.  Steel:
+    1. Shapes and bars:
+       1. ASTM A 36.
+1.  Sheet:
+    1. ASTM A 366, cold-rolled steel sheet, commercial quality, Class 1, matte finish, stretcher leveled.
+1.  Finish:
+    1. Factory-applied baked enamel.
+1.  Stainless steel:
+    1. Shapes and bars:
+       1. ASTM A 276, Type 300 (18-8).
+1.  Tubing:
+    1. ASTM A 269, Type 300 (18-8).
+1.  Aluminum:
+    1. Sheet and plate:
+       1. ASTM B 209, alloy 6063-T52.
+1.  Extrusions:
+    1. ASTM B 221, alloy 6063-T52.
+1.  Nickel silver:
+    1. ASTM B 151 extrusions, alloy UNS No. C74500, polished finish.
+1.  DESCRIPTION OF EQUIPMENT
 
 General
- Description:
-      1. Control:
-         1. Oildraulic
-   1. Capacity:
-      1. 8000 Pounds C-1 loading
-   1. Speed:
-      1. 100 FPM with fully loaded or empty car
-   1. Operation:
-      1. Single Automatic Pushbutton Operation
-   1. Platform Size:
-      1. 8’-4” wide X 12’-0” deep
-   1. Cab Height:
-      1. 8’-0” Nominal
-   1. Travel:
-      1. 36’-0”
-   1. Openings:
-      1. 3 Front
-   1. Power Supply:
-      1. 460 volts, 3-phase, 60 cycles
-   1. Machine Location:
-      1. Adjacent to the hoistway at the lowest landing
-   1. Stops:
-      1. Three (3)
-   1. Openings:
-      1. Vertical bi-parting landing door
-   1. Hoistway Doors:
-      1. 8’-0” wide x 8’-0” high
-   1. Finish:
-      1. Prime finish
-   1. Door Operation:
-      1. Power operated
-   1. Special Features:
-      1. Solid state motor starting
-   1. Fire service operation
-   1. PVC jack protection
-   1. FREIGHT PLATFORM ENCLOSURE:
-      1. The car shall be enclosed with #14 gauge steel panels on unopened sides to a height of 8’-0” and be painted with manufacturer's standard color and type of enamel. A #14 gauge solid metal top shall be provided over the car, with approved safety hinged section. A suitable light fixture shall be furnished in the car controlled by a switch in the car operating panel.
-   1. PLATFORM AND SLING:
-      1. The platform shall have a fabricated frame of structural steel shapes, gusseted and rigidly welded. The finish top floor shall be non-skid steel. The platform shall be designed for Class C-1 loading. The sling shall consist of engineered heavy steel channel stiles properly affixed to a steel crosshead and bolster, with adequate bracing members, to remove all strain from the car enclosure.
-   1. BUFFERS:
-      1. Engineered buffers shall be furnished and installed in the elevator pit. They shall be mounted on continuous channels fastened to the elevator guide rail or securely anchored to the pit floor and substantial extensions will be provided, if required.
-   1. GUIDES AND GUIDE SHOES:
-      1. Guides for car shall consist of planed steel tees, erected plumb, and securely fastened to the hoistway framing by heavy steel brackets. The car stile will be fitted at top and bottom with machined guide shoes of the adjustable swivel type.
-   1. SINGLE AUTOMATIC PUSH BUTTON OPERATION:
-      1. The elevator shall be controlled automatically by means of push buttons in the car marked to correspond with the respective landings served, and by single "Call" buttons at each hoistway opening. The momentary pressure of any button shall operate the car, if all car and hoistway doors are closed. The car shall travel to its destination in the direction chosen without interference. After the car has been placed in motion, all other push buttons shall become inoperative until the car has reached the designated landing. A time delay, non-interference feature shall be incorporated in the control circuit to allow ample time for opening car and hoistway doors before the car can be dispatched to another landing. An emergency stop switch shall be provided in the car push-button station which, when in the off position, will render the elevator inoperative, and which will enable attendant or passenger to stop the car at any point during its travel. Each landing station shall contain "In-Use" signal lights to indicate that the car is in motion and that it cannot be called until it has completed the registered call at which time the "In-Use" signal light will be extinguished, and the car will be available to answer the next call registered.
-   1. SOLID STATE MOTOR STARTER:
-      1. Provide a solid state motor starter to limit current inrush during starting and to provide gradual acceleration of the motor. Motor starting shall not be initiated by mechanical contacts. The starter shall include a current limit adjustment range of 200% to 450% of the overload adjustment range. Provide an internal fault detection system. If the internal fault detection system detects a failure power shall be removed from the motor.
-   1. FAILURE PROTECTION:
-      1. The electrical control circuit shall be designed so that if a malfunction should occur, due to motor starter failure, oil becoming low in the system, or the car failing to reach a landing in the up direction within a predetermined time, the elevator car will automatically descend to the lowest terminal loading. If power operated doors are used, the doors will automatically open when the car reaches that landing to allow passengers to depart. The doors will then automatically close and all control buttons, except the "door open" button in the car station, shall be made inoperative.
-   1. AUTOMATIC SELF-LEVELING:
-      1. The elevator shall be provided with a self-leveling feature that will automatically bring the car to the floor landings. This self-leveling shall, within its zone, be entirely automatic and independent of the operating device and shall correct for overtravel or undertravel. The car shall also be maintained approximately level with the landing irrespective of the load.
-   1. AUTOMATIC TERMINAL LIMITS:
-      1. Electric limit switches shall be placed in the hatchway near the terminal landings and be designed to cut off the electric current and stop the car should it run beyond either terminal landing.
-   1. POWER UNIT:
-      1. (Oil Pumping and Control Mechanism) shall be compactly and neatly designed with all of the components listed below combined in a self-contained unit:
-      1. oil reservoir with tank cover and controller compartment with cover, a submerged oil-hydraulic pump, an electric motor, an oil control unit with the following components built into a single housing:
-      1. a high pressure relief valve, a check valve, an automatic unloading up start valve, a lowering and leveling valve, and a magnetic controller.
-   1. The pump shall be especially designed and manufactured for oil-hydraulic elevator service. It shall be of the positive displacement type, inherently designed for steady discharge with minimum pulsations to give smooth and quiet operation. Output of pump shall not vary more than 10% between no load and full load on the elevator car.
-   1. Drive shall be by direct coupling.
-   1. Motor shall be especially designed for oil-hydraulic elevator service, of standard manufacture, and of duty rating to comply with herein specified speed and loads.
-   1. Oil Control Unit shall consist of the following components, all built into a single housing. Welded manifolds with separate valves to accomplish each function will not be acceptable under this specification. All adjustments shall be accessible and shall be made without removing the assembly from the oil line:
-      1. Relief Valve shall be externally adjustable, and shall be capable of bypassing the total oil flow without increasing back pressure more than 50% above working pressure.
-   1. Up Start and Stop Valve shall be externally adjustable, and designed to bypass oil flow during start and stop of motor pump assembly. Valve shall close slowly, gradually diverting oil to or from the Jack Unit, insuring smooth up starts and up stops.
-   1. Check Valve shall be designed to close quietly and without permitting any perceptible reverse flow.
-   1. Lowering Valve and Leveling Valve shall be externally adjustable for drop-away speed, lowering speed, leveling speed and stopping speed to insure smooth "Down" starts and stops. The leveling valve shall be designed to level the car to the floor in the direction the car is traveling when slowdown is initiated.
-   1. SOUND ISOLATING COUPLINGS:
-      1. A minimum of two (2) sound isolating couplings shall be installed in the oil line in the machine room between pump and jack.
-   1. OIL-HYDRAULIC SILENCER (Muffler Device) shall be installed at the power unit location. It shall contain pulsation absorbing materials inserted in a blowout proof housing arranged fro inspecting interior parts without removing unit from oil line. Rubber hose without blowout proof features will not be acceptable.
-   1. VIBRATION PADS shall be mounted under the power unit assembly to isolate the unit from the building structure.
-   1. JACK UNIT:
-      1. The jack unit shall be of sufficient size to lift the gross load the height specified and shall be factory tested to insure adequate strength and freedom from leakage. No brittle materials, such as gray cast iron, shall be used in the jack construction.
-   1. The jack unit shall consist of following parts:
-      1. a plunger of heavy seamless steel tubing accurately turned and polished; a stop ring shall be electrically welded to the plunger to positively prevent plunger leaving the cylinder; and internal guide bearing; packing of seal of suitable design and quality; a drip ring around cylinder top; a cylinder made of steel pipe and provided with a pipe connection and air bleeder. Brackets shall be welded to the jack cylinder for supporting the elevator on pit channels. An auxiliary safety bulkhead shall be provided in the lower end of the cylinder.
-   1. HOLE FOR JACK UNIT:
-      1. By Elevator Contractor.
-   1. JACK CYLINDER PROTECTION:
-      1. The jack cylinder and any underground piping shall be installed in a bottom sealed PVC casing designed to help protect it from electrolytic and chemical corrosion.
-   1. WIRING, PIPING AND OIL:
-      1. All necessary wiring shall be furnished and installed in the hoistway in accordANCE with the National Electrical Code. All necessary pipe and fittingS to connect the power unit to the jack unit and oil of the proper grade shall be furnished.
-   1. CAR OPERATING PANEL:
-      1. A Flush mounted operating panel shall be mounted in each car and shall contain the devices required for the specified operation. The panel shall include pushbuttons marked to correspond to the landings served, an "emergency stop" switch and a car light switch. The operation of the "emergency stop" switch in the car shall, in addition to stopping the car, cause the alarm bell to ring.
-   1. LANDING BUTTONS:
-      1. Each landing station hall contain "In-Use" signal lights to indicate that the car is in motion and that it cannot be called until it has completed the registered call at which time the "In Use" signal light will be extinguished, and the car will be available to answer the next call registered.
-   1. DOOR OPEN BELL:
-      1. A bell shall be installed on the car. It shall be connected to the direction buttons in the car and landing pushbutton stations, so arranged as to ring when any button is pressed if any gate or door is open.
-   1. ALARM BELL:
-      1. An emergency alarm bell shall be located in conformance with ANSI A17.1 Code requirements, and connected to a plainly marked pushbutton in the car operating panel.
-   1. CAR TOP INSPECTION STATION:
-      1. A car top inspection station with an "emergency stop" switch and with constant pressure "up-down" direction buttons shall make the normal operating devices inoperative and give the inspector complete control of the elevator.
-   1. POWER OPERATED DOORS:
-      1. Each hoistway door and car gate shall be equipped with an individual electric operator. the operators shall open and close the car gate and hoistway doors at a panel speed of not less than one foot per second without slamming. Limit switches shall be provided to stop the motors as the doors approach their limit of travel in opening. Provisions shall be made for manual operation of the doors from the car in the event of power failure. The door operators shall be arranged to open the door automatically after the car enters the automatic leveling zone at the designated landing. "Open" and "close" operating buttons and any additional devices required shall be provided in the car and at each hoistway entrance. Constant pressure on the "close button" shall close the door. Momentary pressure on the "open button" shall reopen the door, provided the car is at a landing. The electric operators will be of the highest quality, quiet and smooth in operation with all parts designed and constructed to meet the severe requirements of elevator service. Gates shall be provided with reversing edge and passenger sequence operation.
-   1. INTERLOCKS:
-      1. Each hoistway entrance shall be equipped with an approved type interlock tested as required by Code. The interlock shall be designed to prevent operation of the car away from the landing until the doors are locked in the closed position as defined by Code and shall prevent opening the doors at any landing from the corridor side unless the car is at rest at the landing or is in the leveling zone and stopping at that landing. Interlocks shall be Underwriters' Laboratories "B" label for approval.
+Description: 1. Control: 1. Oildraulic
+
+1.  Capacity:
+    1. 8000 Pounds C-1 loading
+1.  Speed:
+    1. 100 FPM with fully loaded or empty car
+1.  Operation:
+    1. Single Automatic Pushbutton Operation
+1.  Platform Size:
+    1. 8’-4” wide X 12’-0” deep
+1.  Cab Height:
+    1. 8’-0” Nominal
+1.  Travel:
+    1. 36’-0”
+1.  Openings:
+    1. 3 Front
+1.  Power Supply:
+    1. 460 volts, 3-phase, 60 cycles
+1.  Machine Location:
+    1. Adjacent to the hoistway at the lowest landing
+1.  Stops:
+    1. Three (3)
+1.  Openings:
+    1. Vertical bi-parting landing door
+1.  Hoistway Doors:
+    1. 8’-0” wide x 8’-0” high
+1.  Finish:
+    1. Prime finish
+1.  Door Operation:
+    1. Power operated
+1.  Special Features:
+    1. Solid state motor starting
+1.  Fire service operation
+1.  PVC jack protection
+1.  FREIGHT PLATFORM ENCLOSURE:
+    1. The car shall be enclosed with #14 gauge steel panels on unopened sides to a height of 8’-0” and be painted with manufacturer's standard color and type of enamel. A #14 gauge solid metal top shall be provided over the car, with approved safety hinged section. A suitable light fixture shall be furnished in the car controlled by a switch in the car operating panel.
+1.  PLATFORM AND SLING:
+    1. The platform shall have a fabricated frame of structural steel shapes, gusseted and rigidly welded. The finish top floor shall be non-skid steel. The platform shall be designed for Class C-1 loading. The sling shall consist of engineered heavy steel channel stiles properly affixed to a steel crosshead and bolster, with adequate bracing members, to remove all strain from the car enclosure.
+1.  BUFFERS:
+    1. Engineered buffers shall be furnished and installed in the elevator pit. They shall be mounted on continuous channels fastened to the elevator guide rail or securely anchored to the pit floor and substantial extensions will be provided, if required.
+1.  GUIDES AND GUIDE SHOES:
+    1. Guides for car shall consist of planed steel tees, erected plumb, and securely fastened to the hoistway framing by heavy steel brackets. The car stile will be fitted at top and bottom with machined guide shoes of the adjustable swivel type.
+1.  SINGLE AUTOMATIC PUSH BUTTON OPERATION:
+    1. The elevator shall be controlled automatically by means of push buttons in the car marked to correspond with the respective landings served, and by single "Call" buttons at each hoistway opening. The momentary pressure of any button shall operate the car, if all car and hoistway doors are closed. The car shall travel to its destination in the direction chosen without interference. After the car has been placed in motion, all other push buttons shall become inoperative until the car has reached the designated landing. A time delay, non-interference feature shall be incorporated in the control circuit to allow ample time for opening car and hoistway doors before the car can be dispatched to another landing. An emergency stop switch shall be provided in the car push-button station which, when in the off position, will render the elevator inoperative, and which will enable attendant or passenger to stop the car at any point during its travel. Each landing station shall contain "In-Use" signal lights to indicate that the car is in motion and that it cannot be called until it has completed the registered call at which time the "In-Use" signal light will be extinguished, and the car will be available to answer the next call registered.
+1.  SOLID STATE MOTOR STARTER:
+    1. Provide a solid state motor starter to limit current inrush during starting and to provide gradual acceleration of the motor. Motor starting shall not be initiated by mechanical contacts. The starter shall include a current limit adjustment range of 200% to 450% of the overload adjustment range. Provide an internal fault detection system. If the internal fault detection system detects a failure power shall be removed from the motor.
+1.  FAILURE PROTECTION:
+    1. The electrical control circuit shall be designed so that if a malfunction should occur, due to motor starter failure, oil becoming low in the system, or the car failing to reach a landing in the up direction within a predetermined time, the elevator car will automatically descend to the lowest terminal loading. If power operated doors are used, the doors will automatically open when the car reaches that landing to allow passengers to depart. The doors will then automatically close and all control buttons, except the "door open" button in the car station, shall be made inoperative.
+1.  AUTOMATIC SELF-LEVELING:
+    1. The elevator shall be provided with a self-leveling feature that will automatically bring the car to the floor landings. This self-leveling shall, within its zone, be entirely automatic and independent of the operating device and shall correct for overtravel or undertravel. The car shall also be maintained approximately level with the landing irrespective of the load.
+1.  AUTOMATIC TERMINAL LIMITS:
+    1. Electric limit switches shall be placed in the hatchway near the terminal landings and be designed to cut off the electric current and stop the car should it run beyond either terminal landing.
+1.  POWER UNIT:
+    1. (Oil Pumping and Control Mechanism) shall be compactly and neatly designed with all of the components listed below combined in a self-contained unit:
+    1. oil reservoir with tank cover and controller compartment with cover, a submerged oil-hydraulic pump, an electric motor, an oil control unit with the following components built into a single housing:
+    1. a high pressure relief valve, a check valve, an automatic unloading up start valve, a lowering and leveling valve, and a magnetic controller.
+1.  The pump shall be especially designed and manufactured for oil-hydraulic elevator service. It shall be of the positive displacement type, inherently designed for steady discharge with minimum pulsations to give smooth and quiet operation. Output of pump shall not vary more than 10% between no load and full load on the elevator car.
+1.  Drive shall be by direct coupling.
+1.  Motor shall be especially designed for oil-hydraulic elevator service, of standard manufacture, and of duty rating to comply with herein specified speed and loads.
+1.  Oil Control Unit shall consist of the following components, all built into a single housing. Welded manifolds with separate valves to accomplish each function will not be acceptable under this specification. All adjustments shall be accessible and shall be made without removing the assembly from the oil line:
+    1. Relief Valve shall be externally adjustable, and shall be capable of bypassing the total oil flow without increasing back pressure more than 50% above working pressure.
+1.  Up Start and Stop Valve shall be externally adjustable, and designed to bypass oil flow during start and stop of motor pump assembly. Valve shall close slowly, gradually diverting oil to or from the Jack Unit, insuring smooth up starts and up stops.
+1.  Check Valve shall be designed to close quietly and without permitting any perceptible reverse flow.
+1.  Lowering Valve and Leveling Valve shall be externally adjustable for drop-away speed, lowering speed, leveling speed and stopping speed to insure smooth "Down" starts and stops. The leveling valve shall be designed to level the car to the floor in the direction the car is traveling when slowdown is initiated.
+1.  SOUND ISOLATING COUPLINGS:
+    1. A minimum of two (2) sound isolating couplings shall be installed in the oil line in the machine room between pump and jack.
+1.  OIL-HYDRAULIC SILENCER (Muffler Device) shall be installed at the power unit location. It shall contain pulsation absorbing materials inserted in a blowout proof housing arranged fro inspecting interior parts without removing unit from oil line. Rubber hose without blowout proof features will not be acceptable.
+1.  VIBRATION PADS shall be mounted under the power unit assembly to isolate the unit from the building structure.
+1.  JACK UNIT:
+    1. The jack unit shall be of sufficient size to lift the gross load the height specified and shall be factory tested to insure adequate strength and freedom from leakage. No brittle materials, such as gray cast iron, shall be used in the jack construction.
+1.  The jack unit shall consist of following parts:
+    1. a plunger of heavy seamless steel tubing accurately turned and polished; a stop ring shall be electrically welded to the plunger to positively prevent plunger leaving the cylinder; and internal guide bearing; packing of seal of suitable design and quality; a drip ring around cylinder top; a cylinder made of steel pipe and provided with a pipe connection and air bleeder. Brackets shall be welded to the jack cylinder for supporting the elevator on pit channels. An auxiliary safety bulkhead shall be provided in the lower end of the cylinder.
+1.  HOLE FOR JACK UNIT:
+    1. By Elevator Contractor.
+1.  JACK CYLINDER PROTECTION:
+    1. The jack cylinder and any underground piping shall be installed in a bottom sealed PVC casing designed to help protect it from electrolytic and chemical corrosion.
+1.  WIRING, PIPING AND OIL:
+    1. All necessary wiring shall be furnished and installed in the hoistway in accordANCE with the National Electrical Code. All necessary pipe and fittingS to connect the power unit to the jack unit and oil of the proper grade shall be furnished.
+1.  CAR OPERATING PANEL:
+    1. A Flush mounted operating panel shall be mounted in each car and shall contain the devices required for the specified operation. The panel shall include pushbuttons marked to correspond to the landings served, an "emergency stop" switch and a car light switch. The operation of the "emergency stop" switch in the car shall, in addition to stopping the car, cause the alarm bell to ring.
+1.  LANDING BUTTONS:
+    1. Each landing station hall contain "In-Use" signal lights to indicate that the car is in motion and that it cannot be called until it has completed the registered call at which time the "In Use" signal light will be extinguished, and the car will be available to answer the next call registered.
+1.  DOOR OPEN BELL:
+    1. A bell shall be installed on the car. It shall be connected to the direction buttons in the car and landing pushbutton stations, so arranged as to ring when any button is pressed if any gate or door is open.
+1.  ALARM BELL:
+    1. An emergency alarm bell shall be located in conformance with ANSI A17.1 Code requirements, and connected to a plainly marked pushbutton in the car operating panel.
+1.  CAR TOP INSPECTION STATION:
+    1. A car top inspection station with an "emergency stop" switch and with constant pressure "up-down" direction buttons shall make the normal operating devices inoperative and give the inspector complete control of the elevator.
+1.  POWER OPERATED DOORS:
+    1. Each hoistway door and car gate shall be equipped with an individual electric operator. the operators shall open and close the car gate and hoistway doors at a panel speed of not less than one foot per second without slamming. Limit switches shall be provided to stop the motors as the doors approach their limit of travel in opening. Provisions shall be made for manual operation of the doors from the car in the event of power failure. The door operators shall be arranged to open the door automatically after the car enters the automatic leveling zone at the designated landing. "Open" and "close" operating buttons and any additional devices required shall be provided in the car and at each hoistway entrance. Constant pressure on the "close button" shall close the door. Momentary pressure on the "open button" shall reopen the door, provided the car is at a landing. The electric operators will be of the highest quality, quiet and smooth in operation with all parts designed and constructed to meet the severe requirements of elevator service. Gates shall be provided with reversing edge and passenger sequence operation.
+1.  INTERLOCKS:
+    1. Each hoistway entrance shall be equipped with an approved type interlock tested as required by Code. The interlock shall be designed to prevent operation of the car away from the landing until the doors are locked in the closed position as defined by Code and shall prevent opening the doors at any landing from the corridor side unless the car is at rest at the landing or is in the leveling zone and stopping at that landing. Interlocks shall be Underwriters' Laboratories "B" label for approval.
 
 ## Execution
 
@@ -263,4 +271,3 @@ General
    1. DEMONSTRATION
    1. Instruct Owner's personnel in proper use, operations, and daily maintenance of freight elevator. Review emergency provisions, including emergency access and procedures to be followed at time of failure in operation and other building emergencies. Train Owner's personnel in normal procedures to be followed in checking for sources of operational failures or malfunctions.
    1. Make a final check of freight elevator operation, with Owner's personnel present, immediately before date of Substantial Completion. Determine that control systems and operating devices are functioning properly.
-

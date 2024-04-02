@@ -51,12 +51,9 @@ tags: ['General', 'Requirements', 'Summary']
 
 ## Products
 
-1. MANUFACTURERS
-   2. Approved manufacturers will be identified in each section where required.
-   3. Contractor may substitute other equal products upon Owner’s approval unless the project specifically states that no substitutions are allowed.
-2. MATERIALS
-   5. Any salvable items as indicated on the drawings shall be removed and stored as directed by the Owner
+1. MANUFACTURERS 2. Approved manufacturers will be identified in each section where required. 3. Contractor may substitute other equal products upon Owner’s approval unless the project specifically states that no substitutions are allowed.
+2. MATERIALS 5. Any salvable items as indicated on the drawings shall be removed and stored as directed by the Owner
 
 ## Execution
 
- (NOT USED)
+(NOT USED)

@@ -123,13 +123,13 @@ tags: ['Facility', 'Construction', 'Finishes', 'Tile', 'Carpeting']
    1. Subfloors are free of cracks, ridges, depressions, scale, and foreign deposits.
    1. Proceed with installation only after unsatisfactory conditions have been corrected.
 1. PREPARATION
-	1. General:
+   1. General:
       1. Comply with CRI 104, Section 6.2, "Site Conditions; Floor Preparation," and with carpet tile manufacturer's written installation instructions for preparing substrates indicated to receive carpet tile installation.
    1. Use trowelable leveling and patching compounds, according to manufacturer's written instructions, to fill cracks, holes, depressions, and protrusions in substrates. Fill or level cracks, holes and depressions 1/8 inch wide or wider and protrusions more than 1/32 inch, unless more stringent requirements are required by manufacturer's written instructions.
    1. Remove coatings, including curing compounds, and other substances that are incompatible with adhesives and that contain soap, wax, oil, or silicone, without using solvents. Use mechanical methods recommended in writing by carpet tile manufacturer.
    1. Broom and vacuum clean substrates to be covered immediately before installing carpet tile.
 1. INSTALLATION
-	1. General:
+   1. General:
       1. Comply with CRI 104, Section 14, "Carpet Modules," and with carpet tile manufacturer's written installation instructions.
    1. Maintain dye lot integrity. Do not mix dye lots in same area.
    1. Cut and fit carpet tile to butt tightly to vertical surfaces, permanent fixtures, and built-in furniture including cabinets, pipes, outlets, edgings, thresholds. Bind or seal cut edges as recommended by carpet tile manufacturer.

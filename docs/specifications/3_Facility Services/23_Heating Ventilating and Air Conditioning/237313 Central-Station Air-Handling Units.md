@@ -4,7 +4,18 @@ section: '237313'
 divNumb: 23
 divName: Heating Ventilating and Air Conditioning
 subgroup: Facility Services
-tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 'Central-Station', 'Air-Handling', 'Units']
+tags:
+  [
+    'Facility',
+    'Services',
+    'Heating',
+    'Ventilating',
+    'Air',
+    'Conditioning',
+    'Central-Station',
+    'Air-Handling',
+    'Units',
+  ]
 ---
 
 ## General
@@ -34,7 +45,7 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. 90A - Installation of Air-conditioning and Ventilating Systems
    1. Underwriters Laboratories (UL)
 1. SUBMITTALS
-	1. General:
+   1. General:
       1. Submit the following in accordance with Division 23 sections of the Specifications.
    1. Product data for each central-station air-handling unit indicated, including the following:
       1. Certified fan performance curves with system operating conditions indicated.
@@ -78,86 +89,86 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. The Trane Co.
    1. York International Corp.
 1. MATERIALS
-	1. Furnish one additional complete set of filters for each central-station air-handling unit.
+   1. Furnish one additional complete set of filters for each central-station air-handling unit.
    1. Furnish one additional complete set of belts for each central-station air-handling unit.
    1. Furnish one additional gasket for each sectional joint of each central-station air-handling unit.
 1. MANUFACTURED UNITS
 
 ## General
 
- Description:
-      1. Factory assembled, consisting of fans, motor and drive assembly, coils, damper, plenums, filters, drip pans, and mixing dampers.
-   1. Types:
-      1. Central-station air-handling units included in this project are of the following types.
-   1. Draw-through.
-   1. Cabinet:
-      1. Materials:
-         1. Formed and reinforced galvanized steel panels, fabricated to allow removal for access to internal parts and components, with joint between sections sealed.
-   1. Medium- and high-pressure units shall be constructed with additional bracing and supports. Units rated at 5.5 inches w.g. and higher shall be connected to accessories sections with double-thickness neoprene-coated flexible connection.
-   1. Insulation:
-      1. Comply with NFPA 90A.
-   1. Type:
-      1. Coated, glass-fiber insulation, 1-inch thick and having a minimum density of 1-1/2 pcf.
-   1. Location and Application:
-      1. Factory applied with adhesive and mechanical fasteners to the internal surface of section panels downstream from and including the cooling coil section.
-   1. Access panels and Doors:
-      1. Same materials and finishes as cabinet and complete with hinges, latches, handles, and gaskets.
-   1. Fan section shall have inspection and access panels and doors sized and located to allow periodic maintenance and inspections.
-   1. Single-Wall Drain Pans:
-      1. Formed sections of galvanized sheet steel. Fabricate pans in sizes and shapes to collect condensate from cooling coils (including coil piping connections and return bends) and humidifiers when units are operating at the maximum cataloged face velocity across the cooling coil.
-   1. Fans Section:
-      1. Testing Requirements:
-         1. The following factory tests are required:
-	1. General:
-      1. Sound power level ratings shall comply with AMCA 301 and shall be the result of tests made in accordance with AMCA 300. Fans shall be licensed to bear the AMCA Certified Sound Ratings Seal.
-   1. Unit's fan performance ratings for flow rate, pressure, power, air density, speed of rotation, and efficiency shall be factory tested and ratings established in accordance with AMCA 210/ASHRAE 51.
-   1. Fan Section Construction:
-      1. Fan section shall be equipped with a formed steel channel base for integral mounting of fan, motor, and casing panels. The fan scroll, wheel, shaft, bearings, and motor shall be mounted on a structural steel frame with frame mounted on base with internal spring vibration isolators.
-   1. Fans and Shafts:
-      1. Statically and dynamically balanced and designed for continuous operation at the maximum rated fan speed motor horsepower. Fan wheel shall be single-width, single-inlet plug type with backward-curved airfoil section blades. Airfoil wheels shall be steel painted with zinc chromate primer and an enamel finish coat. Fan shaft shall be solid steel, turned, ground, and polished. Fan wheels shall be keyed to the shaft.
-   1. Shaft Bearings:
-      1. Grease-lubricated ball bearings selected for 200,000 hours average life, with grease fittings extended to an accessible location outside the fan section.
-   1. Fan Drivers:
-      1. Designed for a 1.4 service factor and factory mounted with final alignment and belt adjustment made after installation.
-   1. Belt Drive:
-      1. Motors and fan wheel pulleys shall be adjustable pitch for use with motors up to and including 15 hp and fixed pitch for use with motors larger than 15 hp.
-   1. Motors mounted on the outside of the fan cabinet shall have steel belt guards.
-   1. Variable Inlet Vanes:
-      1. Provide manufacturers standard inlet vanes or disk on the supply fan.
-   1. At the Contractor's option, variable frequency drive may be substituted for inlet vanes or disk.
-   1. Motors:
-      1. Provide motors in accordance with Division 23 sections of the Specifications.
-   1. Starters, Electrical Devices, and Wiring:
-      1. Electrical devices and connections are specified in Division 23 of the Specification.
-   1. Coils:
-      1. Testing Requirements:
-         1. The following factory tests are required:
-               1. Coil Performance Tests:
-      1. Cooling and heating coils, except sprayed surface coils, shall be factory tested for rating in accordance with ARI 410.
-   1. Coil Sections:
-      1. Common or individual insulated, galvanized steel casings for heating and cooling coils. Coil section shall be designed and constructed to facilitate removal of coil for maintenance and replacement and to assure full airflow through coils.
-   1. Medium- and high-pressure units shall have double gaskets between sections and coil connection penetrations through casing sealed to minimize leakage.
-   1. Coils, General:
-      1. Drainable, rigidly supported across the full face of the coil, and pitched to allow drainage.
-   1. Fins:
-      1. Aluminum or copper, constructed from flat plate with belled collars for tubes. Fins shall be bonded to tubes by mechanically expanding copper tubes.
-   1. Tubes:
-      1. Seamless copper not less than 5/8-inch O.D. for water coils, not less than 1-inch O.D. for steam, and minimum 0.025-inch wall thickness.
-   1. Coil Casing:
-      1. Galvanized steel, not less than 16-gauge.
-   1. Headers for Water Coils:
-      1. Steel, cast iron, or copper with connections for drain valve and air vent and threaded piping connections on same end unless indicated otherwise.
-   1. Face Velocities:
-      1. Maximum of 550 fpm for cooling coils and maximum of 750 fpm for water heating coils.
-   1. Water Coil Turbulators:
-      1. Bronze, spring-type.
-   1. Filters Section:
-	1. General:
-         1. Filters shall comply with NFPA 90A.
-   1. Filter Section:
-      1. Cabinet material and finish shall match the air-handling unit cabinet, with filter media holding frames arranged for flat or angular orientation. Section shall have access doors on both sides of the unit.
-   1. Disposable Filters:
-      1. Provide disposable type air filters 2 inches thick, consisting of viscous coated fibers with filtering media encased in fiberboard cell sides having perforated metal grids on each face to provide media support. Airflow resistance with clean media shall not exceed 0.30 inches w.g. at face velocity of 500 fpm, and filter arrestance efficiency of 70 to 82% based on ASHRAE 52.
+Description: 1. Factory assembled, consisting of fans, motor and drive assembly, coils, damper, plenums, filters, drip pans, and mixing dampers.
+
+1.  Types:
+    1. Central-station air-handling units included in this project are of the following types.
+1.  Draw-through.
+1.  Cabinet:
+    1. Materials:
+       1. Formed and reinforced galvanized steel panels, fabricated to allow removal for access to internal parts and components, with joint between sections sealed.
+1.  Medium- and high-pressure units shall be constructed with additional bracing and supports. Units rated at 5.5 inches w.g. and higher shall be connected to accessories sections with double-thickness neoprene-coated flexible connection.
+1.  Insulation:
+    1. Comply with NFPA 90A.
+1.  Type:
+    1. Coated, glass-fiber insulation, 1-inch thick and having a minimum density of 1-1/2 pcf.
+1.  Location and Application:
+    1. Factory applied with adhesive and mechanical fasteners to the internal surface of section panels downstream from and including the cooling coil section.
+1.  Access panels and Doors:
+    1. Same materials and finishes as cabinet and complete with hinges, latches, handles, and gaskets.
+1.  Fan section shall have inspection and access panels and doors sized and located to allow periodic maintenance and inspections.
+1.  Single-Wall Drain Pans:
+    1. Formed sections of galvanized sheet steel. Fabricate pans in sizes and shapes to collect condensate from cooling coils (including coil piping connections and return bends) and humidifiers when units are operating at the maximum cataloged face velocity across the cooling coil.
+1.  Fans Section:
+    1. Testing Requirements:
+       1. The following factory tests are required:
+1.  General:
+1.  Sound power level ratings shall comply with AMCA 301 and shall be the result of tests made in accordance with AMCA 300. Fans shall be licensed to bear the AMCA Certified Sound Ratings Seal.
+1.  Unit's fan performance ratings for flow rate, pressure, power, air density, speed of rotation, and efficiency shall be factory tested and ratings established in accordance with AMCA 210/ASHRAE 51.
+1.  Fan Section Construction:
+    1. Fan section shall be equipped with a formed steel channel base for integral mounting of fan, motor, and casing panels. The fan scroll, wheel, shaft, bearings, and motor shall be mounted on a structural steel frame with frame mounted on base with internal spring vibration isolators.
+1.  Fans and Shafts:
+    1. Statically and dynamically balanced and designed for continuous operation at the maximum rated fan speed motor horsepower. Fan wheel shall be single-width, single-inlet plug type with backward-curved airfoil section blades. Airfoil wheels shall be steel painted with zinc chromate primer and an enamel finish coat. Fan shaft shall be solid steel, turned, ground, and polished. Fan wheels shall be keyed to the shaft.
+1.  Shaft Bearings:
+    1. Grease-lubricated ball bearings selected for 200,000 hours average life, with grease fittings extended to an accessible location outside the fan section.
+1.  Fan Drivers:
+    1. Designed for a 1.4 service factor and factory mounted with final alignment and belt adjustment made after installation.
+1.  Belt Drive:
+    1. Motors and fan wheel pulleys shall be adjustable pitch for use with motors up to and including 15 hp and fixed pitch for use with motors larger than 15 hp.
+1.  Motors mounted on the outside of the fan cabinet shall have steel belt guards.
+1.  Variable Inlet Vanes:
+    1. Provide manufacturers standard inlet vanes or disk on the supply fan.
+1.  At the Contractor's option, variable frequency drive may be substituted for inlet vanes or disk.
+1.  Motors:
+    1. Provide motors in accordance with Division 23 sections of the Specifications.
+1.  Starters, Electrical Devices, and Wiring:
+    1. Electrical devices and connections are specified in Division 23 of the Specification.
+1.  Coils:
+    1. Testing Requirements:
+       1. The following factory tests are required:
+          1. Coil Performance Tests:
+    1. Cooling and heating coils, except sprayed surface coils, shall be factory tested for rating in accordance with ARI 410.
+1.  Coil Sections:
+    1. Common or individual insulated, galvanized steel casings for heating and cooling coils. Coil section shall be designed and constructed to facilitate removal of coil for maintenance and replacement and to assure full airflow through coils.
+1.  Medium- and high-pressure units shall have double gaskets between sections and coil connection penetrations through casing sealed to minimize leakage.
+1.  Coils, General:
+    1. Drainable, rigidly supported across the full face of the coil, and pitched to allow drainage.
+1.  Fins:
+    1. Aluminum or copper, constructed from flat plate with belled collars for tubes. Fins shall be bonded to tubes by mechanically expanding copper tubes.
+1.  Tubes:
+    1. Seamless copper not less than 5/8-inch O.D. for water coils, not less than 1-inch O.D. for steam, and minimum 0.025-inch wall thickness.
+1.  Coil Casing:
+    1. Galvanized steel, not less than 16-gauge.
+1.  Headers for Water Coils:
+    1. Steel, cast iron, or copper with connections for drain valve and air vent and threaded piping connections on same end unless indicated otherwise.
+1.  Face Velocities:
+    1. Maximum of 550 fpm for cooling coils and maximum of 750 fpm for water heating coils.
+1.  Water Coil Turbulators:
+    1. Bronze, spring-type.
+1.  Filters Section:
+1.  General:
+    1.  Filters shall comply with NFPA 90A.
+1.  Filter Section:
+    1. Cabinet material and finish shall match the air-handling unit cabinet, with filter media holding frames arranged for flat or angular orientation. Section shall have access doors on both sides of the unit.
+1.  Disposable Filters:
+    1. Provide disposable type air filters 2 inches thick, consisting of viscous coated fibers with filtering media encased in fiberboard cell sides having perforated metal grids on each face to provide media support. Airflow resistance with clean media shall not exceed 0.30 inches w.g. at face velocity of 500 fpm, and filter arrestance efficiency of 70 to 82% based on ASHRAE 52.
 
 ## Execution
 
@@ -172,7 +183,7 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Arrange installation of units to provide access space around air-handling units for service and maintenance.
    1. Connections:
       1. Piping Installation requirements are specified in other Division 23 sections of the Specifications. The Drawings indicate the general arrangement of piping, valves, fittings, and specialties. The following are specific connection requirements:
-            1. Arrange piping installations adjacent to units to allow unit servicing and maintenance.
+         1. Arrange piping installations adjacent to units to allow unit servicing and maintenance.
    1. Connection piping to air-handling units with flexible connectors.
    1. Connect condensate drain pans using 1-1/4-inch, Type M copper tubing. Extend to the nearest equipment or floor drain. Construct deep trap at connection to drain pan and install cleanouts at changes in direction.
    1. Duct installations and connections are specified in other Division 23 sections of the Specifications. Make final duct connections with flexible connections.
@@ -219,4 +230,3 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Schedule training with at least seven days advance notice.
 1. (THIS PAGE INTENTIONALLY BLANK)
    1. See Editing Instruction No. 1 in the Evaluations for cautions about naming manufacturers. Retain one of two paragraphs and list of manufacturers below. See Division 01 Section "Product Requirements."
-

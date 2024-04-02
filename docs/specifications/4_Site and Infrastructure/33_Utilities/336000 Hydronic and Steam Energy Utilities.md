@@ -8,14 +8,15 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Hydronic', 'Steam', 'Energy']
 ---
 
 ## General
+
 1. SCOPE
    1. This section contains specifications for all hydronic heating & steam utility distribution systems for this project. Included are the following topics:
-    1. Related Work
-    2. Reference
-    3. Shop Drawings
-    4. Quality Assurance
-   2. Product
-    5. None
+   1. Related Work
+   1. Reference
+   1. Shop Drawings
+   1. Quality Assurance
+   1. Product
+   1. None
 
 ## Execution
 
@@ -24,6 +25,7 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Hydronic', 'Steam', 'Energy']
     1. Direct Buried Underground Steam/Condensate Conduit
 
 1. RELATED WORK
+
    1. Section 01 91 01 or 01 91 02 – Commissioning Process
    1. Division 23 – Heating, Ventilating and Air Conditioning
    1. Division 31 – Earthwork
@@ -40,7 +42,7 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Hydronic', 'Steam', 'Energy']
 
 ## Products
 
-   1. NONE.
+1.  NONE.
 
 ## Execution
 
@@ -59,10 +61,7 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Hydronic', 'Steam', 'Energy']
    1. Dig trench, shore as needed and provide dewatering control per Division 31.
    1. Fill bottom of excavation with washed pea gravel, sand or controlled backfill per manufacturer’s specifications. Set conduits on sandbags during fabrication so that the conduits do not sag or droop.
    1. Handle all conduits according to manufacturer’s instructions with proper supports and proper rigging materials. Do not use chains or steel cables to handle conduits as damage could occur to jacketing material.
-   1. Hand tamp beneath conduits after joint work is complete. 
+   1. Hand tamp beneath conduits after joint work is complete.
    1. Backfilling shall not begin until the heat shrink sleeve(s) has cooled. All insulation and jacketing materials for the field joint shall be furnished by system manufacturer.
    1. Contractor shall take care to maintain the dry status of the preinsulated pipe at all times. If the preinsulated pipe becomes wet the contractor shall dry the preinsulated pipe until the certified factory representative is satisfied the system is again dry and will carry the full manufacturer’s warranty. The contractor shall dry the wet system per the manufactures recommended procedures at no additional cost to the project.
-1. *
-   
-
-
+1. -

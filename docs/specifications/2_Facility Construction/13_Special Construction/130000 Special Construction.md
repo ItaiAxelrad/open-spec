@@ -7,6 +7,4 @@ subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Special']
 ---
 
-   1. Division 13
-   1. Special Construction
-
+Division 13 - Special Construction

@@ -4,7 +4,16 @@ section: '321123'
 divNumb: 32
 divName: Exterior Improvements
 subgroup: Site and Infrastructure
-tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Aggregate', 'Base', 'Courses']
+tags:
+  [
+    'Site',
+    'Infrastructure',
+    'Exterior',
+    'Improvements',
+    'Aggregate',
+    'Base',
+    'Courses',
+  ]
 ---
 
 ## General
@@ -150,5 +159,3 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Aggregate', 'Base'
    1. Maintain complete base course and protect from damage until application of paving. Provide and maintain immediate repair of any defective or damaged portions of the base course. Make repairs or replacement with lean concrete.
    1. Do not allow traffic other than essential construction equipment related to paving on the completed base course before application of paving. After completion of base course, allow at least 5 days to elapse before construction of paving.
    1. Remove and replace completed base course which has been placed over unstable base course or has been damaged by traffic or climatic conditions.
-   
-

@@ -22,7 +22,7 @@ tags: ['Facility', 'Construction', 'Metals', 'Steel', 'Joist', 'Framing']
    1. Comply with pertinent provisions of Section 013300.
    1. Product data:
       1. Within 35 calendar days after the Contractor has received the Owner's Notice to Proceed, submit:
-            1. Materials list of items proposed to be provided under this Section.
+         1. Materials list of items proposed to be provided under this Section.
    1. Manufacturer's specifications and other data needed to prove compliance with the specified requirements.
    1. Shop Drawings showing sizes, spacing, and location of joists, connections, bridging, reinforcing, anchoring, cambers, loads, and other pertinent data, and showing welded connections and the length thereof, using AWS standard welding symbols.
    1. Manufacturer's recommended installation procedures which, when approved by the Architect, will become the basis for accepting or rejecting actual installation procedures used on the Work.
@@ -31,9 +31,9 @@ tags: ['Facility', 'Construction', 'Metals', 'Steel', 'Joist', 'Framing']
    1. In addition, comply with:
       1. Pertinent requirements of governmental agencies having jurisdiction.
       2. "Standard Load Tables"
-   2. Pertinent standard specifications of the Steel Joist Institute.
-   3. Coordinate requirements of this Section with design standards and requirements indicated on the Structural drawings. If conflicts arise, requirements of Structural drawings shall take precedence.
-2. DELIVERY, STORAGE AND PROTECTION
+   1. Pertinent standard specifications of the Steel Joist Institute.
+   1. Coordinate requirements of this Section with design standards and requirements indicated on the Structural drawings. If conflicts arise, requirements of Structural drawings shall take precedence.
+1. DELIVERY, STORAGE AND PROTECTION
    1. Product Handling:
       1. Comply with pertinent provisions of Section 016000.
 

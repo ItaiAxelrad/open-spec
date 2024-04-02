@@ -4,9 +4,19 @@ section: '236416'
 divNumb: 23
 divName: Heating Ventilating and Air Conditioning
 subgroup: Facility Services
-tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 'Centrifugal', 'Water', 'Chillers']
+tags:
+  [
+    'Facility',
+    'Services',
+    'Heating',
+    'Ventilating',
+    'Air',
+    'Conditioning',
+    'Centrifugal',
+    'Water',
+    'Chillers',
+  ]
 ---
-
 
 ## General
 
@@ -42,7 +52,7 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. National Fire Protection Association (NFPA)
    1. 70 - National Electrical Code.
    1. Underwriters Laboratories Inc. (UL)
-   1. 486A - Wire Connectors and Soldering Lugs for Use With Copper Conductors. 
+   1. 486A - Wire Connectors and Soldering Lugs for Use With Copper Conductors.
    1. 486B - Wire Connectors for Use with Aluminum Conductors.
 1. SUBMITTALS
    1. See Division 23 of the Specifications.
@@ -105,8 +115,8 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
 1. EQUIPMENT
    1. Water-cooled centrifugal water chillers:
       1. Retain subparagraph below for proprietary product using oil-free compressor technology. See Evaluations.
-	1. General:
-      1. Provide hermetic or open centrifugal water chillers where shown, installed in accordance with this specification and producing the specified tonnage with performance equal to or better than the listed data, as manufactured by Trane, McQuay or York Int. Corp. 
+   1. General:
+      1. Provide hermetic or open centrifugal water chillers where shown, installed in accordance with this specification and producing the specified tonnage with performance equal to or better than the listed data, as manufactured by Trane, McQuay or York Int. Corp.
    1. Provide each unit as a complete factory package including a centrifugal compressor, open or hermetic motor, compressor motor starter, evaporator, condenser and purge or pump-out unit, factory assembled, piped, wired and tested. If the manufacturer does not provide a unit as a complete factory package, furnish the necessary labor and material to complete the assembly with the supervision of the manufacturer's representative. Require the chiller manufacturer to have a repair parts stock factory and a factory maintained service organization available to provide local service for the units.
    1. Design chillers so that they are compatible with and are capable of providing the specified capacity when operating on refrigerant 134A.
    1. Provide chillers that are capable of continuous operation with 55 degrees F full flow entering condenser water temperature.
@@ -118,27 +128,27 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Provide grooved end connections designed for 150 psig maximum working pressure. Provide the evaporator with standard water boxes. Provide taps for vents and drains.
    1. Provide tubes with a nominal 0.025 inch wall thickness, internally and externally enhanced. Interrupt enhancement and increase wall thickness to 0.050 inch or otherwise reinforce the tubes at the end sheets and intermediate tube supports. Roller-expand each tube into pre-drilled carbon steel tube sheets.
    1. Maximum water velocity in tubes:
-      1. 8 fps. 
+      1. 8 fps.
    1. Evaporator water side fouling factor:
       1. 0.0001
    1. Condenser water side fouling factor:
       1. 0.00025.
    1. For units with single stage compressors, provide a variable or fixed refrigerant orifice to automatically maintain proper refrigerant level in the condenser and evaporator and control refrigerant flow by monitoring refrigerant level in the condenser.
-   1. For units with multi-stage compressors, provide an inner stage flash vessel "economizer" in the refrigerant cycle. For units with single stage compressors, provide condensers circuited for a minimum of 10 degrees F of liquid subcooling. 
+   1. For units with multi-stage compressors, provide an inner stage flash vessel "economizer" in the refrigerant cycle. For units with single stage compressors, provide condensers circuited for a minimum of 10 degrees F of liquid subcooling.
    1. Compressor/Motor/Drive Assembly
-   1. Provide a single compressor of centrifugal design, with direct or gear drive and the impeller statically and dynamically balanced and over speed tested. 
+   1. Provide a single compressor of centrifugal design, with direct or gear drive and the impeller statically and dynamically balanced and over speed tested.
    1. Design capacity control to allow modulation from 100 percent to 15 percent of design capacity without surge or hot gas bypass. Provide ARI 550/590 certified ratings showing minimum unloading capacity for the selected chiller.
-   1. For chillers using gear driven compressors, provide tempered gears and maximum 12,000 rpm compressor speeds. 
-   1. For hermetic motors, provide motor temperature sensor(s) installed in motor winding with status indicated at control panel. 
+   1. For chillers using gear driven compressors, provide tempered gears and maximum 12,000 rpm compressor speeds.
+   1. For hermetic motors, provide motor temperature sensor(s) installed in motor winding with status indicated at control panel.
    1. Motor design:
-      1. hermetic or high efficiency ODP, continuous duty, for use with the type of starter specified. Maximum motor full load amperes at design conditions not to exceed motor nameplate full load amps. Factory mount and align the motor with the compressor. 
+      1. hermetic or high efficiency ODP, continuous duty, for use with the type of starter specified. Maximum motor full load amperes at design conditions not to exceed motor nameplate full load amps. Factory mount and align the motor with the compressor.
    1. Run-test the compressor assembly at the factory. Maximum vibration at the bearings:
       1.0 mil.
-   1. For hermetic motors, provide bearing temperature sensors at all motor bearings with status indicated at control panel. 
+   1. For hermetic motors, provide bearing temperature sensors at all motor bearings with status indicated at control panel.
    1. For medium and high pressure refrigerants, provide thrust bearing proximity and oil temperature probes with status indicated at the control panel.
    1. Lubrication system:
-      1. positive displacement type with a shaft driven or motor driven oil pump supplying oil under pressure to the shaft seal and compressor journal and thrust bearings. Oil cooling may be provided by refrigerant or out-leaving chilled water. If the oil cooler is water cooled, furnish and install the necessary auxiliary water piping, valves and controls for the oil cooler. 
-   1. Purge System 
+      1. positive displacement type with a shaft driven or motor driven oil pump supplying oil under pressure to the shaft seal and compressor journal and thrust bearings. Oil cooling may be provided by refrigerant or out-leaving chilled water. If the oil cooler is water cooled, furnish and install the necessary auxiliary water piping, valves and controls for the oil cooler.
+   1. Purge System
    1. Require the manufacturers of low-pressure machines to provide a separate purge system that removes air and non-condensibles, requiring no external water cooling source.
    1. Design the purge system so that any excess purge requirement will enable an alarm indication light at the chiller unit control panel, by means of a contact closure at the purge for remote alarm annunciation, and a diagnostic (with date and time of occurrence) to be stored in the chiller unit control panel's diagnostic summary.
    1. Include in the unit indication:
@@ -156,8 +166,8 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Pump-Out System:
       1. For medium pressure machines, provide a single pump-out system to serve all the machines, complete with transfer pump, condensing unit, and tank, constructed in accordance with ASME Boiler and Pressure Vessel Code and bearing the ASME stamp. Pump-out systems:
       1. supplied and warranted by the centrifugal machine manufacturer, complying with the following:
-   1. Pump-out tank with ASME stamp capable of holding refrigerant charge when 90 percent full at 90 degrees F. 
-   1. Separate charging connections for both liquid and gaseous refrigerant. 
+   1. Pump-out tank with ASME stamp capable of holding refrigerant charge when 90 percent full at 90 degrees F.
+   1. Separate charging connections for both liquid and gaseous refrigerant.
    1. Provide all piping, piping between pump-out and chiller, including electrical equipment, and wiring required.
    1. Unit Control Panel:
       1. Control each chiller by means of a stand-alone Direct Digital Control (DDC) System. Provide a dedicated chiller control panel with each chiller. Design the panel to be microprocessor-based, with factory packaging and testing of all required control components.
@@ -212,7 +222,7 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Display the equipment room refrigerant level concentration in parts-per-million (ppm).
    1. Independently invoking password protection of the entire display and keypad, operator settings (e.g. chilled water set point), machine configuration settings, and service start-up settings.
    1. Condenser three-way valve control for head pressure.
-   1. Condenser and chilled water flow switches. 
+   1. Condenser and chilled water flow switches.
    1. BCS Interface:
       1. Provide for existing Delta Controls system and a BACnet network control interface to perform the functions of automatic start/stop control and status including alarm status, chilled water temperature, condenser water temperature, chiller kW percent load.
    1. Variable Speed Drives:
@@ -269,7 +279,7 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
       1. Install electrical components, devices, and accessories furnished loose by manufacturer, including remote flow switches and remote chiller control panel.
    1. Connections:
       1. Piping installation requirements are specified in other Division 23 of the Specifications. Drawings indicate general arrangement of piping, fittings, and specialties. The following are specific connection requirements:
-            1. Install piping adjacent to machine to allow service and maintenance.
+         1. Install piping adjacent to machine to allow service and maintenance.
    1. Connect chilled- and condenser-water piping according to Division 23 of the Specifications. Connect to supply and return piping with shutoff valve, union, flexible connector, and flange or mechanical joint.
    1. Extend safety-relief valves or rupture-disc discharge piping from chiller and purge condenser receiver to exterior of building.
    1. Install and wire chilled and condenser water flow switches.
@@ -283,12 +293,12 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. After completing the installation, inspect unit components. Remove paint splatters and other spots, dirt, and debris. Repair damaged finish to match original finish.
 1. DEMONSTRATION
    1. Require the manufacturer to provide four copies of an operator's manual describing all operating and routine maintenance service procedures to be used with the centrifugal chillers and control system supplied. Instruct the Owner's designated representatives in these procedures during the startup and test period. Minimum duration of the instruction period:
-      1. 16 hours, during normal working hours. 
+      1. 16 hours, during normal working hours.
 1. START-UP SERVICE
    1. Engage the services of a factory-authorized service representative to perform the following start-up service:
       1. Start the units and provide leak testing, evacuation, dehydration, and charging of the units.
    1. Furnish complete as-built job-site wiring diagrams indicating pump interlocks, tower interlocks, etc. Standard factory wiring diagrams are not acceptable.
-    1. Fill out startup checklists and attach a copy with the Contractor Startup Report.
+   1. Fill out startup checklists and attach a copy with the Contractor Startup Report.
    1. Complete installation and startup checklists according to the manufacturer’s written instruction and check for the following items:
       1. No physical damage to the unit.
    1. Unit is installed level.
@@ -309,4 +319,3 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Check static deflection of vibration isolators, including deflection during chiller startup and shutdown.
 1. First four options in first paragraph below limit competition; fifth option does not. Trane is the only listed manufacturer to offer a direct-drive, hermetic centrifugal chiller. YORK is the only listed manufacturer to offer an open-drive centrifugal chiller. Only Carrier and McQuay offer a gear-drive, hermetic centrifugal chiller.
 1. (THIS PAGE INTENTIONALLY BLANK)
-

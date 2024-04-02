@@ -32,4 +32,4 @@ tags: ['Facility', 'Construction', 'Concrete', 'Waterstops']
    2. The installation of waterstops and the method used to hold the waterstop in proper position during and after placement of concrete shall be acceptable to the Engineer before concrete placement is begun.
 3. SPECIAL PROVISIONS
 4. MEASUREMENT AND PAYMENT
-    1. When not listed in the Proposal, all "WATERSTOPS" costs will be considered incidental work for which no separate payment will be made.
+   1. When not listed in the Proposal, all "WATERSTOPS" costs will be considered incidental work for which no separate payment will be made.

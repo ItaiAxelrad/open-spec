@@ -13,12 +13,12 @@ tags: ['General', 'Requirements', 'Field', 'Offices', 'Sheds']
 2. RELATED REQUIREMENTS
    1. Section 01 50 00 - Temporary Facilities and Controls:
       1. Temporary telecommunications services for administrative purposes.
-2. Temporary sanitary facilities required by law.
+3. Temporary sanitary facilities required by law.
    1. Section 01 50 00:
       1. Parking and access to field offices.
-3. USE OF EXISTING FACILITIES
+4. USE OF EXISTING FACILITIES
    1. Existing facilities shall not be used for field offices.
-4. USE OF PERMANENT FACILITIES
+5. USE OF PERMANENT FACILITIES
    1. Permanent facilities shall not be used for field offices.
 
 ## Products

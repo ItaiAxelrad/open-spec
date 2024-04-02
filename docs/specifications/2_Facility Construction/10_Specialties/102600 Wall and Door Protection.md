@@ -6,6 +6,7 @@ divName: Specialties
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Specialties', 'Wall', 'Door', 'Protection']
 ---
+
 ## General
 
 1. SUMMARY
@@ -31,4 +32,3 @@ tags: ['Facility', 'Construction', 'Specialties', 'Wall', 'Door', 'Protection']
 
 1. ERECTION INSTALLATION APPLICATION
    1. Install the work of this Section per manufacturer's recommendations.
-

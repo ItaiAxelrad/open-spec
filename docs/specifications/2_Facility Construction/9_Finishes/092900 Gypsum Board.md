@@ -15,14 +15,8 @@ tags: ['Facility', 'Construction', 'Finishes', 'Gypsum', 'Board']
 2. STANDARDS
    1. ANSI A97.1 except comply with requirements indicated and gypsum board manufacturer's specific instructions.
    1. Analyze and provide for loads imposed on work specified in this Section by other work, such as insulation, light fixtures and similar work.
-2. RELATED WORK
-   3. Section 054000 – Cold Formed Metal Framing
-   4. Section 072400 - Exterior Insulation and Finish System
-   5. Section 078413 - Firestopping
-   6. Section 081113 – Hollow Metal Doors and Frames
-   7. Section 093000 - Tiling
-   8. Section 099100 – Painting
-3. SUBMITTALS
+3. RELATED WORK 3. Section 054000 – Cold Formed Metal Framing 4. Section 072400 - Exterior Insulation and Finish System 5. Section 078413 - Firestopping 6. Section 081113 – Hollow Metal Doors and Frames 7. Section 093000 - Tiling 8. Section 099100 – Painting
+4. SUBMITTALS
    1. Comply with all pertinent provisions of Section 013300.
    2. Submit samples of reveal accessories.
 
@@ -30,19 +24,19 @@ tags: ['Facility', 'Construction', 'Finishes', 'Gypsum', 'Board']
 
 1. DRYWALL MATERIALS AND ACCESSORIES
 1. STEEL GYPSUM BOARD FRAMING:
-      1. Screw-type ASTM C645, 25 gauge zinc coated unless heavier gauge shown, or recommended by manufacturer; complete system of members, furring strips, runners, accessories and anchors for partitions and suspended drywall ceilings.
+   1. Screw-type ASTM C645, 25 gauge zinc coated unless heavier gauge shown, or recommended by manufacturer; complete system of members, furring strips, runners, accessories and anchors for partitions and suspended drywall ceilings.
    1. Provide steel members at exterior suspended ceilings designed to resist uplift.
 1. GYPSUM BOARD:
-      1. 5/8" thick, ASTM C36, except ASTM C442 permitted for base layers and where exposed faces indicated no to be finished; provide board with long edges tapered for joint treatment, where joint finishing is required.
+   1. 5/8" thick, ASTM C36, except ASTM C442 permitted for base layers and where exposed faces indicated no to be finished; provide board with long edges tapered for joint treatment, where joint finishing is required.
    1. Provide UL labeled "Type X" board where a fire resistance rating is indicated; one or two layers as shown or required.
    1. Provide water resistant (W/R) boards in all toilet rooms as shown on drawings.
    1. Provide Portland Cement Backer Board in shower enclosure.
    1. GYPSUM BOARD SEALANT:
       1. Non-drying mastic recommended by gypsum board manufacturer, except provide paintable elastic sealant where exposed to view.
 1. GYPSUM BOARD CONTROL JOINT:
-      1. One piece of vinyl expanding strip, with flanges for face attachment to gypsum board. Provide where recommended by manufacturer.
+   1. One piece of vinyl expanding strip, with flanges for face attachment to gypsum board. Provide where recommended by manufacturer.
 1. GYPSUM BOARD TRIM ACCESSORIES:
-      1. ASTM C475, types recommended by drywall manufacturer.
+   1. ASTM C475, types recommended by drywall manufacturer.
    1. Provide external corner beads with flanges for joint treatment.
    1. Provide casing beads with flanges for joint treatment.
    1. Provide any other trim as required and detailed; including extruded aluminum wall trim reveals.

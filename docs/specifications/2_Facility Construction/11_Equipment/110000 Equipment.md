@@ -7,6 +7,4 @@ subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Equipment']
 ---
 
-   1. Division 11
-   1. Equipment
-
+Division 11 - Equipment

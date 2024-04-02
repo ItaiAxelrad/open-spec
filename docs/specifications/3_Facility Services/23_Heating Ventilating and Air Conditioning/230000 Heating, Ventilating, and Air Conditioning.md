@@ -7,6 +7,4 @@ subgroup: Facility Services
 tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning']
 ---
 
-   1. Division 23
-   1. Heating, Ventilation, and Air Conditioning
-
+Division 23 - Heating, Ventilation, and Air Conditioning

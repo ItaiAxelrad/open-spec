@@ -4,7 +4,8 @@ section: '115349'
 divNumb: 11
 divName: Equipment
 subgroup: Facility Construction
-tags: ['Facility', 'Construction', 'Equipment', 'Service', 'Carrier', 'Vertical']
+tags:
+  ['Facility', 'Construction', 'Equipment', 'Service', 'Carrier', 'Vertical']
 ---
 
 ## General
@@ -77,24 +78,15 @@ tags: ['Facility', 'Construction', 'Equipment', 'Service', 'Carrier', 'Vertical'
       1. Chemical resistant powder paint finish in manufacturer's standard color to be selected.
    9. Carrier Bodies
    10. Nominal dimensions:
-      1. Width:
-         1. 16" X 16”
-   11. Height:
-      2. 36”
-   12. Upper support channels shall offer a means to attach to the building structure with commercial available “C” channel support attachments.
-1. FINISHES
-   14. Metal finish:
-      3. Preparation:
-         1. Properly clean metal to receive finish.
-   15. Application:
-      4. Electrostatically apply urethane powder coat of selected color and bake in controlled high temperature oven to assure a smooth, hard satin finish. Surfaces shall have a chemical resistant, high grade laboratory furniture quality finish of the following thickness:
-      5. Liquid, dipped, solvent based finishes are not and will not be acceptable.
-   16. Exterior and interior exposed surfaces:
-      1.5 mil average and 1.2 mil min.
-   17. Backs of cabinets and other surfaces not exposed to view:
-      1.2 mil average.
-   18. Cabinet Surface Finish Tests:
-      1. All casework construction and performance characteristics shall be in full compliance with SEFA 8 standards.
+   11. Width:
+       1. 16" X 16”
+   12. Height:
+   13. 36”
+   14. Upper support channels shall offer a means to attach to the building structure with commercial available “C” channel support attachments.
+1. FINISHES 14. Metal finish: 3. Preparation: 1. Properly clean metal to receive finish. 15. Application: 4. Electrostatically apply urethane powder coat of selected color and bake in controlled high temperature oven to assure a smooth, hard satin finish. Surfaces shall have a chemical resistant, high grade laboratory furniture quality finish of the following thickness: 5. Liquid, dipped, solvent based finishes are not and will not be acceptable. 16. Exterior and interior exposed surfaces:
+   1.5 mil average and 1.2 mil min. 17. Backs of cabinets and other surfaces not exposed to view:
+   1.2 mil average. 18. Cabinet Surface Finish Tests:
+   1. All casework construction and performance characteristics shall be in full compliance with SEFA 8 standards.
 
 ## Execution
 

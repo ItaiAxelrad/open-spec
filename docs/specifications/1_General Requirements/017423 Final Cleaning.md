@@ -29,18 +29,18 @@ tags: ['General', 'Requirements', 'Final', 'Cleaning']
 
 1. FINAL CLEANING GENERAL
    1. Perform final cleaning just prior to completion observation.
-    1. Use experienced workers or professional cleaners.
-    2. Clean each surface or unit to the condition expected in normal, commercial building and maintenance program.
-    3. Remove e labels, which are not required as permanent labels.
-    4. Remove e grease, dust, dirt, stains, films, fingerprints, and other noticeable distracting substances, from interior and exterior surfaces.
-    5. Clean transparent materials, including mirrors and glass in doors and windows. Remove glazing compound and other substances that are noticeable vision-obscuring material. Replace chipped, scratched or broken glass and other damaged transparent materials.
-    6. Except as otherwise indicated avoid disturbance of natural weathering of exterior surfaces.
-    7. Restore reflective surfaces to original reflective condition
-    8. Clean surfaces of mechanical and electrical equipment.
-    9. Remove debris and surface dust from limited-access spaces including roofs, plenums, shafts and similar spaces.
-    10. Clean concrete floors in non-occupied spaces broom clean.
-    11. Repair, patch and touch-up marred surfaces to match adjacent finishes.
-    12. Clean light fixtures and lamps so as to function with full efficiency, by electrical installer.
-    13. Replace air supply unit filters if units were operated during construction or if not protected during construction, by mechanical installer.
-    14. Clean ducts, blowers, and coils if air supply units were operated without filters during construction, by mechanical installer.
-    15. Maintain cleaning until the building or portion thereof, is occupied or accepted by owner.
+   1. Use experienced workers or professional cleaners.
+   1. Clean each surface or unit to the condition expected in normal, commercial building and maintenance program.
+   1. Remove e labels, which are not required as permanent labels.
+   1. Remove e grease, dust, dirt, stains, films, fingerprints, and other noticeable distracting substances, from interior and exterior surfaces.
+   1. Clean transparent materials, including mirrors and glass in doors and windows. Remove glazing compound and other substances that are noticeable vision-obscuring material. Replace chipped, scratched or broken glass and other damaged transparent materials.
+   1. Except as otherwise indicated avoid disturbance of natural weathering of exterior surfaces.
+   1. Restore reflective surfaces to original reflective condition
+   1. Clean surfaces of mechanical and electrical equipment.
+   1. Remove debris and surface dust from limited-access spaces including roofs, plenums, shafts and similar spaces.
+   1. Clean concrete floors in non-occupied spaces broom clean.
+   1. Repair, patch and touch-up marred surfaces to match adjacent finishes.
+   1. Clean light fixtures and lamps so as to function with full efficiency, by electrical installer.
+   1. Replace air supply unit filters if units were operated during construction or if not protected during construction, by mechanical installer.
+   1. Clean ducts, blowers, and coils if air supply units were operated without filters during construction, by mechanical installer.
+   1. Maintain cleaning until the building or portion thereof, is occupied or accepted by owner.

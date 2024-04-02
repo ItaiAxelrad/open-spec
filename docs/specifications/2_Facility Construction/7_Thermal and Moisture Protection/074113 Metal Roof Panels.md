@@ -4,9 +4,18 @@ section: '074113'
 divNumb: 7
 divName: Thermal and Moisture Protection
 subgroup: Facility Construction
-tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Metal', 'Roof', 'Panels']
+tags:
+  [
+    'Facility',
+    'Construction',
+    'Thermal',
+    'Moisture',
+    'Protection',
+    'Metal',
+    'Roof',
+    'Panels',
+  ]
 ---
-
 
 ## General
 
@@ -77,85 +86,84 @@ tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Metal',
 
 ## Products
 
-   1. manufacturer
-   1. Copper Sales, Inc. or as approved.
-   1. roofing type
-   1. Una-Clad VC-3 Double-Lock Standing Seam Roofing roll formed steel roofing panels.
-   1. Materials
-   1. Galvanized Steel
-   1. Sheet:
-      1. ASTM A653/A653M, structural quality, coating designation G90, regular spangle. Thicknesses specified are U.S.S. gage of uncoated sheet.
-   1. Accessory Materials for Architectural Panels
-   1. Roof deck:
-      1. 76-mm (3-inch) thick steel roof deck as specified.
-   1. Rigid Insulation 5” rigid polyisocyanurate insulation board.
-   1. Waterproofing membrane:
-      1. Ice and water shield complying with ASTM D146 and D412.
-   1. Fasteners for sheathing:
-      1. Factory Mutual approved, corrosion resistant fasteners of appropriate length to penetrate the metal deck a minimum of 10 mm (3/8 inch).
-   1. Fasteners for roof panels:
-      1. 11 gage ring shank galvanized nails with 11-mm (7/16-inch) head, or 13-mm (1/2-inch), No. 8 pan head speed screws.
-   1. Accessory Materials for Structural Panels
-   1. Concealed 2 piece clips:
-      1. 16 gage galvanized steel, designed to allow unimpeded panel movement.
-   1. Fasteners
-   1. Screws:
-      1. No. 14 self-tapping stainless steel with 16-mm (5/8-inch) combination steel and neoprene washers.
-   1. Blind rivets:
-      1. solid-threaded sealed-stem type with a weathertight neoprene washer under the head.
-   1. Exposed fasteners:
-      1. color finished to match panel.
-   1. Closures
-   1. Precut profile closures:
-      1. closed-cell polyethylene foam.
-   1. Ridge and hip foam closures protected and supported by formed metal closure of same material and finish as panels.
-   1. Sealant:
-      1. non-drying, non-skinning, non-oxidizing compound complying with AAMA 809.2.
-   1. Ice and water shield (ultra as manufactured by Grace or equal) under metal roof panels.
-   1. fabrication
-   1. Architectural/Structural Roof Panels
-   1. Fabricate roof panels of 24 gage galvanized steel sheet with mechanically seamed sidelap standing seams at 12-inch nominal spacing.
-   1. Provide seamed standing seams, nominal 1-1/2” high, containing an extruded vinyl weather seal insert.
-   1. organic Finish
-   1. Formulation
-   1. Finish for exposed metal surfaces:
-      1. shop applied primer and finish system based on Elf Atochem North America, Inc. "Kynar 500" or Ausimont USA, Inc. "Hylar 5000", containing minimum of 70 percent PVF2 resin, as formulated by a licensee of the resin manufacturer.
-   1. Color of finish coat:
-      1. to be selected from standard colors.
-   1. Performance Requirements
-   1. Performance requirements for a minimum period of 20 years on coil-coated application:
-      1. Will not chalk in excess of number 8 rating as evaluated in accordance with ASTM D4214.
-   1. Will not change color more than 5 NBS units as tested in accordance with ASTM D2244 after removal of external deposits and chalk.
-   1. Will not crack, check or peel (lose adhesion).
-   1. Test results for organic finish:
-      1. Weatherometer test, ASTM D822, 2500 hours exposure:
-            1. No. 8 maximum degree of chalking as evaluated in accordance with ASTM D4214.
-   1. Maximum color difference of 3.0 NBS units as tested in accordance with ASTM D2244.
-   1. Salt spray test, ASTM B117, 1000 hours exposure, 5 percent concentration:
-      1. Maximum blistering photographic standard No. 6, few, as evaluated in accordance with ASTM D714.
-   1. No more than 1.6 mm (1/16 inch) creep corrosion and tape off from scribed area to bare metal.
-   1. Abrasion resistance, ASTM D968 falling sand test:
-      1. Minimum coefficient of abrasion, 55.
-   1. Application
-   1. Apply organic finish in accordance with formulator's instructions to a dry film thickness of not less than 0.004 mm (0.75 mil) nor more than 0.006 mm (0.85 mil) for primer and not less than 0.020 mm (0.8 mil) nor more than 0.033 mm (1.3 mils) for finish.
+1.  manufacturer
+1.  Copper Sales, Inc. or as approved.
+1.  roofing type
+1.  Una-Clad VC-3 Double-Lock Standing Seam Roofing roll formed steel roofing panels.
+1.  Materials
+1.  Galvanized Steel
+1.  Sheet:
+    1. ASTM A653/A653M, structural quality, coating designation G90, regular spangle. Thicknesses specified are U.S.S. gage of uncoated sheet.
+1.  Accessory Materials for Architectural Panels
+1.  Roof deck:
+    1. 76-mm (3-inch) thick steel roof deck as specified.
+1.  Rigid Insulation 5” rigid polyisocyanurate insulation board.
+1.  Waterproofing membrane:
+    1. Ice and water shield complying with ASTM D146 and D412.
+1.  Fasteners for sheathing:
+    1. Factory Mutual approved, corrosion resistant fasteners of appropriate length to penetrate the metal deck a minimum of 10 mm (3/8 inch).
+1.  Fasteners for roof panels:
+    1. 11 gage ring shank galvanized nails with 11-mm (7/16-inch) head, or 13-mm (1/2-inch), No. 8 pan head speed screws.
+1.  Accessory Materials for Structural Panels
+1.  Concealed 2 piece clips:
+    1. 16 gage galvanized steel, designed to allow unimpeded panel movement.
+1.  Fasteners
+1.  Screws:
+    1. No. 14 self-tapping stainless steel with 16-mm (5/8-inch) combination steel and neoprene washers.
+1.  Blind rivets:
+    1. solid-threaded sealed-stem type with a weathertight neoprene washer under the head.
+1.  Exposed fasteners:
+    1. color finished to match panel.
+1.  Closures
+1.  Precut profile closures:
+    1. closed-cell polyethylene foam.
+1.  Ridge and hip foam closures protected and supported by formed metal closure of same material and finish as panels.
+1.  Sealant:
+    1. non-drying, non-skinning, non-oxidizing compound complying with AAMA 809.2.
+1.  Ice and water shield (ultra as manufactured by Grace or equal) under metal roof panels.
+1.  fabrication
+1.  Architectural/Structural Roof Panels
+1.  Fabricate roof panels of 24 gage galvanized steel sheet with mechanically seamed sidelap standing seams at 12-inch nominal spacing.
+1.  Provide seamed standing seams, nominal 1-1/2” high, containing an extruded vinyl weather seal insert.
+1.  organic Finish
+1.  Formulation
+1.  Finish for exposed metal surfaces:
+    1. shop applied primer and finish system based on Elf Atochem North America, Inc. "Kynar 500" or Ausimont USA, Inc. "Hylar 5000", containing minimum of 70 percent PVF2 resin, as formulated by a licensee of the resin manufacturer.
+1.  Color of finish coat:
+    1. to be selected from standard colors.
+1.  Performance Requirements
+1.  Performance requirements for a minimum period of 20 years on coil-coated application:
+    1. Will not chalk in excess of number 8 rating as evaluated in accordance with ASTM D4214.
+1.  Will not change color more than 5 NBS units as tested in accordance with ASTM D2244 after removal of external deposits and chalk.
+1.  Will not crack, check or peel (lose adhesion).
+1.  Test results for organic finish:
+    1. Weatherometer test, ASTM D822, 2500 hours exposure:
+       1. No. 8 maximum degree of chalking as evaluated in accordance with ASTM D4214.
+1.  Maximum color difference of 3.0 NBS units as tested in accordance with ASTM D2244.
+1.  Salt spray test, ASTM B117, 1000 hours exposure, 5 percent concentration:
+    1. Maximum blistering photographic standard No. 6, few, as evaluated in accordance with ASTM D714.
+1.  No more than 1.6 mm (1/16 inch) creep corrosion and tape off from scribed area to bare metal.
+1.  Abrasion resistance, ASTM D968 falling sand test:
+    1. Minimum coefficient of abrasion, 55.
+1.  Application
+1.  Apply organic finish in accordance with formulator's instructions to a dry film thickness of not less than 0.004 mm (0.75 mil) nor more than 0.006 mm (0.85 mil) for primer and not less than 0.020 mm (0.8 mil) nor more than 0.033 mm (1.3 mils) for finish.
 
 ## Execution
 
-   1. preparation
-   1. Protection
-   1. Protect this Work and adjacent construction against damage during progress of Work until completion. Take precautions to prevent damage to Work from traffic or placement of heavy materials thereon.
-   1. Installation
+1.  preparation
+1.  Protection
+1.  Protect this Work and adjacent construction against damage during progress of Work until completion. Take precautions to prevent damage to Work from traffic or placement of heavy materials thereon.
+1.  Installation
 
 ## General
 
-   1. Install the Work in accordance with approved Shop Drawings and sample construction. Form work to details and dimensions indicated, straight and true to line with flat surfaces free of warping and bulging.
-   1. As far as practicable, design all Work to be secured with concealed fastenings.
-   1. Architectural/Structural Roof Panels
-   1. Install ice and water shield at eave condition per manufacturer instructions.
-   1. Install panels in one continuous length from ridge to eave. Anchor panels to structural supports with continuous concealed clips.
-   1. Hand-crimp battens at each clip or mechanically seam before allowing workers to stand on the panels.
-   1. Seal top and bottom of metal closures.
-   1. Seam panels and battens together with seaming machine supplied by manufacturer.
-   1. Penetrations
-   1. Provide premolded EPDM boot with metal collar for round penetrations.
-
+1.  Install the Work in accordance with approved Shop Drawings and sample construction. Form work to details and dimensions indicated, straight and true to line with flat surfaces free of warping and bulging.
+1.  As far as practicable, design all Work to be secured with concealed fastenings.
+1.  Architectural/Structural Roof Panels
+1.  Install ice and water shield at eave condition per manufacturer instructions.
+1.  Install panels in one continuous length from ridge to eave. Anchor panels to structural supports with continuous concealed clips.
+1.  Hand-crimp battens at each clip or mechanically seam before allowing workers to stand on the panels.
+1.  Seal top and bottom of metal closures.
+1.  Seam panels and battens together with seaming machine supplied by manufacturer.
+1.  Penetrations
+1.  Provide premolded EPDM boot with metal collar for round penetrations.

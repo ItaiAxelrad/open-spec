@@ -4,9 +4,17 @@ section: '142423'
 divNumb: 14
 divName: Conveying Equipment
 subgroup: Facility Construction
-tags: ['Facility', 'Construction', 'Conveying', 'Equipment', 'Hydraulic', 'Passenger', 'Elevators']
+tags:
+  [
+    'Facility',
+    'Construction',
+    'Conveying',
+    'Equipment',
+    'Hydraulic',
+    'Passenger',
+    'Elevators',
+  ]
 ---
-
 
 ## General
 
@@ -80,8 +88,8 @@ tags: ['Facility', 'Construction', 'Conveying', 'Equipment', 'Hydraulic', 'Passe
    1. Deliver elevator materials, components and equipment in manufacturer's protective packaging.
    1. Store materials in a dry protected area provided by others. Protect and handle materials in accordance with manufacturer's recommendations to prevent damage, soiling, or deterioration.
 1. PROJECT CONDITIONS
-    1. Prohibited Use:
-       1. Elevators shall not be used for any purpose during the construction period before Substantial Completion.
+   1. Prohibited Use:
+      1. Elevators shall not be used for any purpose during the construction period before Substantial Completion.
    1. Painting:
       1. Except as otherwise specified, paint all metal work provided by the elevator manufacturer and installer.
    1. Provide all ferrous metals installed in the hoistway shop primed with a rust inhibitive primer.
@@ -100,251 +108,251 @@ tags: ['Facility', 'Construction', 'Conveying', 'Equipment', 'Hydraulic', 'Passe
 
 ## Products
 
-   1. MANUFACTURERS
-   1. Manufacturer:
-      1. Thyssen Krupp Elevator, Memphis, TN or equal.
-   1. MATERIALS, GENERAL
-   1. Colors, patterns, and finishes:
-      1. As selected by the Architect from manufacturer's full range of standard colors, patterns, and finishes.
-   1. Steel:
-      1. Shapes and bars:
-         1. ASTM A36.
-   1. Sheet:
-      1. ASTM A366, cold-rolled steel sheet, commercial quality, Class 1, matte finish, stretcher leveled.
-   1. Finish:
-      1. Factory-applied baked enamel.
-   1. Stainless steel:
-      1. Shapes and bars:
-         1. ASTM A276, Type 300 (18-8).
-   1. Tubing:
-      1. ASTM A269, Type 300 (18-8).
-   1. Bronze:
-      1. Drawn pipe:
-         1. ASTM B43, alloy UNS C23000, red brass.
-   1. Sheet:
-      1. ASTM B36, alloy UNS C28000, muntz metal.
-   1. Extrusions:
-      1. ASTM B455, alloy UNS C38500, architectural bronze.
-   1. Aluminum:
-      1. Sheet and plate:
-         1. ASTM B209, alloy 6063-T52.
-   1. Extrusions:
-      1. ASTM B221, alloy 6063-T52.
-   1. Nickel silver:
-      1. ASTM B151 extrusions, alloy UNS No. C74500, polished finish.
-   1. Plastic laminate:
-      1. Decorative high-pressure type, complying with NEMA LD3, Type GP-50 General Purpose Grade, nominal 0.050" thickness.
-   1. Glass:
-      1. Clear laminated safety glass, complying with ANSI Z97.1, nominal 9/16" thickness.
-   1. Carpet:
-      1. Manufacturer's standard Herculon IV color fast, stain and soil resistant, jute-backed carpet. Class B fire-resistance rating when tested in accordance with ASTM E 84. Available in four colors.
-   1. HOISTWAY EQUIPMENT
-   1. Platform:
-      1. Fabricated frame of formed or structural steel shapes, gusseted and rigidly welded with a wood subfloor. Underside of the platform shall be fireproofed.
-   1. Sling:
-      1. Steel stiles affixed to a steel crosshead and bolstered with bracing members to remove strain from the car enclosure.
-   1. Guide Rails:
-      1. Steel, omega shaped, fastened to the building with steel brackets.
-   1. Guide Shoes:
-      1. Slide guides shall be mounted on top and bottom of the car.
-   1. Guide Rail Lubricators:
-      1. Provide a leakproof reservoir on top of upper guide shoes. Wool felt wiper shall apply an even, uniform flow of lubricant which shall thoroughly cover face of guide rail.
-   1. Buffers:
-      1. Provide substantial buffers in the elevator pit. Mount buffers on continuous channels fastened to the elevator guide rail or securely anchored to the pit floor. Provide extensions if required by project conditions.
-   1. Telescoping Jack:
-      1. Jack units shall be of sufficient size to lift the gross load the height specified. Factory test jack to insure adequate strength and freedom from leakage. Brittle material, such as gray cast iron, is prohibited in the jack construction. Jack unit shall consist of the following components:
-      1. Heavy seamless steel tubing plungers accurately turned and polished.
-   1. Stop ring shall be electrically welded to the plunger to positively prevent plunger leaving the cylinder.
-   1. Internal guide bearing.
-   1. Packing or seal of suitable design and quality.
-   1. Drip ring around cylinder top.
-   1. Cylinder made of steel pipe and provided with a pipe connection and air bleeder.
-   1. Weld brackets to the jack cylinder for supporting the elevator on pit channels. An auxiliary safety bulkhead shall be provided in the lower end of the cylinder.
-   1. Jack synchronization:
-      1. The two plungers shall resynchronize periodically by microprocessor based controls to ensure smooth, accurate performance.
-   1. Automatic Terminal Limits:
-      1. Place electric limit switches in the hoistway near the terminal landings. Limit switches shall be designed to cut off the electric current and stop the car if it runs beyond either terminal landing.
-   1. Automatic Self-Leveling:
-      1. Provide each elevator car with a self-leveling feature to automatically bring the car to the floor landings and correct for overtravel or undertravel. Self-leveling shall, within its zone, be automatic and independent of the operating device. The car shall be maintained approximately level with the landing irrespective of its load.
-   1. Failure Protection:
-      1. Design electrical control circuit so if a malfunction occurs, due to motor starter failure, oil becoming low in the system, or the car failing to reach a landing in the up direction within a pre-determined time, the elevator car will automatically descend to the lowest terminal landing. If power operated doors are used, the doors will automatically open when the car reaches that landing to allow passengers to depart. The doors will then automatically close and all control buttons, except the "door open" button in the car station, shall be made inoperative.
-   1. Wiring, Piping, and Oil:
-      1. Provide all necessary hoistway wiring in accordance with the National Electrical Code. All necessary pipe and fittings shall connect the power unit to the jack unit. Provide proper grade oil.
-   1. Emergency Terminal Stopping Device:
-      1. Provide emergency terminal stopping devices for speeds over 100 FPM. The emergency terminal stopping device shall operate independently of the normal terminal stopping device if it fails to slow down the car at the terminal as intended. Stopping devices shall not be prevented from functioning by a single short circuit caused by a combination of grounds or by other conditions.
-   1. Normal and emergency terminal stopping devices shall not control the same controller switches unless two or more separate and independent switches are furnished, two or which shall be closed in either direction of travel to complete the circuit to the control valve solenoids in the down direction and to complete the circuit to the pump motor for the up direction of travel.
-   1. Pit Ladder:
-      1. Provide pit ladder for access and maintenance of elevator equipment, locate ladder per elevator manufacturer’s recommendations.
-   1. POWER UNIT
-   1. Power Unit (Oil Pumping and Control Mechanism):
-      1. A self-contained unit consisting of the following items:
-      1. Oil reservoir with tank cover and controller compartment with cover.
-   1. An oil hydraulic pump.
-   1. An electric motor.
-   1. Oil control unit with the following components built into single housing; high pressure relief valve, check valve, automatic unloading up start valve, lowering and leveling valve, and magnetic controller.
-   1. Pump:
-      1. Positive displacement type pump specifically manufactured for oil-hydraulic elevator service. Pump shall be designed for steady discharge with minimum pulsation to give smooth and quiet operation. Output of pump shall not vary more than 10 percent between no load and full load on the elevator car.
-   1. Drive:
-      1. Drive shall be by direct coupling with the pump and motor submerged in the oil reservoir or by multiple V-belts and sheaves of number and size to insure maximum factor of safety. Drive type shall be determined based primarily on the load on the car, travel, and speed.
-   1. Motor:
-      1. Standard manufacture motor specifically designed for oil-hydraulic elevator service. Duty rating shall comply with specified speeds and loads.
-   1. Oil Control Unit:
-      1. The following components shall be built into a single housing. Welded manifolds with separate valves to accomplish each function are not acceptable. Adjustments shall be accessible and be made without removing the assembly from the oil line.
-   1. Relief valve shall be externally adjustable and be capable of bypassing the total oil flow without increasing back pressure more than 10 percent above that required to barely open the valve.
-   1. Up start and stop valve shall be externally adjustable and designed to bypass oil flow during start and stop of motor pump assembly. Valve shall close slowly, gradually diverting oil to or from the jack unit, ensuring smooth up starts and up stops.
-   1. Check valve shall be designed to close quietly without permitting any perceptible reverse flow.
-   1. Lowering valve and leveling valve shall be externally adjustable for drop-away speed, lowering speed, leveling speed and stopping speed to ensure smooth "down" starts and stops. The leveling valve shall be designed to level the car to the floor in the direction the car is traveling when slowdown is initiated.
-   1. Power controller shall contain electrical contactors, electro-mechanical switches and thermal overload relays. Mount components in a NEMA 1 enclosure. Logic control system shall be microprocessor based and protected from environmental extremes and excessive vibrations.
-   1. Starting:
-      1. Provide solid state.
-   1. HOISTWAY ENTRANCES
-   1. Doors and Frames:
-      1. Provide complete hollow metal type hoistway entrances at each hoistway opening.
-   1. Manufacturer's standard entrance design consisting of 14 gauge frames with 2 inch profile, 16 gauge doors, hangers, hanger supports, hanger covers, fascia plates, sight guards, and necessary hardware.
-   1. Elevator wall interface with hoistway entrance assembly shall comply with elevator manufacturer's requirements.
-   1. Doors:
-      1. Flush construction
-   1. Stainless steel:
-      1. ASTM A 167, Type 300 stainless steel panels, No. 4 satin finish.
-   1. Frames:
-      1. Formed construction.
-   1. Stainless steel:
-      1. ASTM A167, Type 300 formed stainless steel sheet, No. 4 satin finish (or No. 8 polished finish).
-   1. Transom:
-      1. No transom.
-   1. Interlocks:
-      1. Equip each hoistway entrance with an approved type interlock tested as required by code. Interlock shall be designed to prevent operation of the car away from the landing until the doors are locked in the closed position as defined by code and shall prevent opening the doors at any landing from the corridor side unless the car is at rest at that landing or is in the leveling zone and stopping at that landing.
-   1. Door Hanger and Tracks:
-      1. Provide sheave type two point suspension hangers and tracks for each hoistway sliding door.
-   1. Sheaves:
-      1. Polyurethane tires with ball bearings properly sealed to retain grease.
-   1. Hangers:
-      1. Provide an adjustable slide to accommodate the up-thrust of the doors.
-   1. Tracks:
-      1. Drawn steel shapes, smooth surface and shaped to conform to the hanger sheaves.
-   1. Hoistway Sills:
-      1. Extruded, with grooved surface, 1/4 inch thickness
-   1. Aluminum:
-      1. ASTM B221 aluminum, mill finish.
-   1. CAR ENCLOSURE
-   1. Car Enclosure:
-      1. Walls:
-         1. Cab type DAP-V, reinforced 16 gauge cold-rolled steel with two coats factory applied baked enamel finish, with applied vertical wood core panels covered on both sides with high pressure plastic laminate.
-   1. Canopy:
-      1. Reinforced 14 gauge cold-rolled steel with hinged exit. Finish:
-      1. Two coats factory applied reflective baked enamel.
-   1. Ceiling:
-      1. Down light type, 16 gauge metal pans with halogen down lights suspended and dimmer switch 7'-4'' above the finished floor. Number of down lights shall be dependent on platform size with a minimum of six.
-   1. Metal finish:
-      1. Stainless steel, No. 4 satin finish.
-   1. Cab Columns, Front, and Transom:
-      1. Stainless steel:
-      1. ASTM A167, Type 300 stainless steel panels, No. 4 satin finish
-   1. Doors:
-      1. Horizontal sliding car doors reinforced with steel for panel rigidity. Hang doors on sheave type hangers with polyurethane tires that roll on a polished steel track and are guided at the bottom by non-metallic shoes sliding in a smooth threshold groove.
-   1. Door Finish:
-      1. Stainless steel:
-      1. ASTM A167, Type 300 stainless steel panels, No. 4 satin finish.
-   1. Cab Sills:
-      1. Extruded, with grooved surface, 1/4 inch thickness.
-   1. Aluminum:
-      1. ASTM B221 aluminum, mill finish.
-   1. Handrail:
-      1. Cylindrical, 1.5'' dia, stainless steel no. 4. Provide at rear and side walls.
-   1. Ventilation:
-      1. Two speed exhaust fan mounted on the car top.
-   1. Pad Buttons:
-      1. Provide pad buttons on cab front(s) and walls.
-   1. Provide one set of vinyl protection pads for the project.
-   1. Base:
-      1. no base
-   1. Finished Floor:
-      1. Manufacturer's standard carpet
-   1. Car Top Inspection:
-      1. Provide a car top inspection station with an "emergency stop" switch and constant pressure "up-down" direction buttons to make the normal operating devices inoperative and give the inspector complete control of the elevator. Mount the car top inspection station in the door operator assembly.
-   1. DOOR OPERATION
-   1. Door Operation:
-      1. Provide a direct current motor driven heavy duty operator designed to operate the car and hoistway doors simultaneously. Door movements shall be electrically cushioned at both limits of travel and the door operating mechanism shall be arranged for manual operation in event of power failure. Doors shall automatically open when the car arrives at the landing and automatically close after an adjustable time interval or when the car is dispatched to another landing. Direct drive geared operators, AC controlled units with oil checks, or other deviations are not acceptable.
-   1. No Un-Necessary Door Operation:
-      1. Car door shall open only if the car is stopping for a car or hall call, answering a car or hall call at the present position or selected as the next car up.
-   1. Door Open Time Saver:
-      1. If a car is stopping in response to a car call assignment only (no coincident hall call), the current door hold open time is changed to a shorter field programmable time when the electronic door protection device is activated.
-   1. Double Door Operation:
-      1. When a car stops at a landing with concurrent up and down hall calls, no car calls, and no other hall call assignments, the car door opens to answer the hall call in the direction of the car's current travel. If an onward car call is not registered before the door closes to within 6 inches of fully closed, the travel will reverse and the door will reopen to answer the other call.
-   1. Nudging Operation:
-      1. The doors shall remain open as long as the electronic detector senses the presence of a passenger or object in the door opening. If door movement is obstructed for a field programmable time, a buzzer will sound and the doors will close at reduced speed. If the infra-red door protection system detects a person or object while closing, the doors will stop and resume closing after the obstruction has been removed.
-   1. Limited Door Reversal:
-      1. If the doors are closing and an infra-red beam is interrupted, the doors will reverse and reopen partially. After the obstruction is cleared, the doors will begin to close.
-   1. Door Open Sentinel:
-      1. If the doors are opening, but do not fully open after a field adjustable time, the doors will recycle closed then open six times to try and correct the fault.
-   1. Door Close Sentinel:
-      1. If the doors are closing, but do not fully close after a field adjustable time, the doors will recycle open then close six times to try and correct the fault.
-   1. Door Close Assist:
-      1. When the doors have failed to fully close and are in the recycle mode, the door drive motor shall have increased torque applied to possibly overcome mechanical resistance or differential air pressure and allow the door to close.
-   1. Door Protection Devices:
-      1. Provide a door protection system using 40 microprocessor controlled infra-red light beams. The beams shall project across the car opening detecting the presence of a passenger or object. If door movement is obstructed, the doors shall immediately reopen. A mechanical reopening device is not acceptable.
-   1. CAR OPERATING STATION
-   1. Car Operating Station, General:
-      1. The main car control in each car shall contain the devices required for specific operation mounted in stainless steel no. 4 integral swing return panel requiring no applied faceplate. The panel shall consist of a series of modules, inclined 20 degrees from vertical for optimum viewing and accessibility.
-   1. The lowest module shall contain the "door open," "door close," "alarm" buttons and a keyed "emergency stop" switch.
-   1. Intermediate modules shall contain floor buttons which illuminate when a call is registered and remain illuminated until the call is answered. Raised floor indications and handicap symbols shall be located immediately adjacent to the floor buttons and be fully integrated in the module design. No applied symbols or floor indications or symbols on the buttons shall be permitted.
-   1. The next module shall contain required switches.
-   1. The top module shall contain fire service features in accordance with ASME A17.1, Rule 211.3, including operating instructions.
-   1. Position Indicator:
-      1. An electronic dot matrix position indicator inclined 20 degrees from vertical and mounted in a module matching the control panel for optimum viewing. As the car travels, its position in the hoistway shall be indicated by the illumination of the alpha/numeric character corresponding to the landing which the elevator is stopped or passing.
-   1. Emergency Light:
-      1. An emergency light and capacity plate shall be integrated into a module inclined 20 degrees from vertical. Emergency light shall illuminate automatically upon loss of the building's normal power supply.
-   1. Emergency Communications System:
-      1. Provide an emergency communications device mounted in the swing return. Emergency communications device shall comply with Americans with Disabilities Act (ADA) requirements.
-   1. Auxillary Operating Panel:
-      1. not applicable in this application.
-   1. Column Mounted Car Riding Lantern:
-      1. A car riding lantern shall be installed in the elevator cab and located in the entrance. The lantern, when illuminated, will indicate the intended direction of travel. The lantern will illuminate and a signal will sound when the car arrives at a floor where it will stop. The lantern shall remain illuminated until the door(s) begin to close.
-   1. Special Accessories:
-      1. Independent service switch.
-   1. Inspection switch.
-   1. Two speed fan/light switch.
-   1. Telephone jack.
-   1. Certificate frame.
-   1. CONTROL SYSTEMS
-   1. Controller:
-      1. The elevator control system shall be microprocessor based and software oriented and be linked together for purposes of communication by a serial communications link. Control of the elevator shall be automatic in operation by means of push buttons in the car numbered to correspond to floors served, for registering car stops, and by "up-down" push buttons at each intermediate landing and "call" push buttons at terminal landings.
-   1. Momentary pressing of one or more buttons shall dispatch the car to the designated landings in the order in which the landings are reached by the car, irrespective of the sequence in which the buttons are pressed. Each landing call shall be canceled when answered.
-   1. When the car is traveling in the up direction, it shall stop at all floors for which car buttons or "up" hall buttons have been pressed. The car shall not stop at floors where "down" buttons have been pressed, unless the stop for that floor has been registered by a car button or unless the down call is at the highest floor for which any buttons have been pressed. Pressing the "up" button when the car is traveling in the down direction shall not intercept the travel unless the stop for that floor has been registered by a car button or unless the up call is the lowest for which any button has been pressed.
-   1. When the car has responded to its highest or lowest stop, and stops are registered for the opposite direction, its direction of travel shall reverse automatically and it shall then answer the calls registered for that direction. If both up and down calls are registered at an intermediate floor, only the call corresponding to the direction of car travel shall be canceled upon the stopping of the car at the landing.
-   1. Microprocessor:
-      1. Locate the main microprocessor and car controller in the elevator machine room.
-   1. Microprocessor door operator shall reside in the door operator and control all functions of the elevator door(s).
-   1. Electronic selector shall reside on the car top and contain hall effect transducers that detect magnetic fields. Magnets, corresponding to floor positions and top/bottom of hoistway are mounted on a perforated metal tape that runs the length of the hoistway.
-   1. Group Operation:
-      1. Not applicable in this application.
-   1. Provide a key operated switch in the elevator for the purpose of removing the car from normal operation. When the switch is in the "independent service" position, the elevator will bypass all landing calls and answer only car calls. The operator will have complete control over the operation of the car.
-   1. Emergency Power 10D-OC:
-      1. In the event of a normal power supply failure, the elevator system shall be arranged to lower from an emergency power supply. The emergency power supply shall consist of a battery furnished by the elevator contractor. The elevator contractor shall provide circuitry so after normal power failure and establishment of emergency power, each elevator shall lower to a field adjustable return landing and park with the doors closed. If the designated return landing is above the current position, the elevator shall run down to the next lower landing and park with the doors closed.
-   1. HALL STATIONS
-   1. Hall Stations, General:
-      1. Buttons shall illuminate to indicate call has been registered at that floor for the indicated direction. Faceplates shall be stainless steel no. 4. Provide one set of risers.
-   1. Each terminal station shall contain one illuminating push button.
-   1. Each intermediate station shall consist of two illuminating pushbuttons, one for the up direction and one for the down position.
-   1. Phase 1 firefighters service key switch, with instructions, shall be incorporated into the hall station at the designated level.
-   1. Floor Identification Pads:
-      1. Provide door jamb pads at each floor. Jamb pads shall comply with Americans with Disabilities Act (ADA) requirements.
-   1. Hall Position Indicator:
-      1. A dot matrix position indicator shall be provided and inclined 20 degrees from vertical and mounted in a module for optimum viewing. As the car travels, its' position in the hoistway shall be indicated by the illumination of the alpha/numeric character corresponding to the landing which the elevator is stopped or passing. When hall lanterns are provided, the position indicator shall be combined with the hall lanterns in the same faceplate.
-   1. Hall Position Indicator:
-      1. column.
-   1. Faceplates shall match hall stations.
-   1. Hall Lanterns:
-      1. Not applicable in this application
-   1. MISCELLANEOUS ELEVATOR COMPONENTS
-   1. Oil Hydraulic Silencer:
-      1. Install an oil hydraulic silencer (muffler device) at the power unit location. Silencer shall contain pulsation absorbing material inserted in a blowout proof housing arranged for inspecting interior parts without removing unit from oil line. Rubber hose without blowout proof features will not be acceptable.
-   1. Vibration Pads:
-      1. Mount vibration pads under the power unit assembly to isolate the unit from the building structure.
-   1. Sound Insulating Panels:
-      1. When pump and motor are not submerged, provide panels manufactured of reinforced 14 gauge steel with 1-inch-thick 1-1/2 pound fiberglass core attached to interior and mounted on all four open sides of the power unit frame.
-   1. Sound Isolating Couplings:
-      1. When pump and motor are not submerged, install a minimum of two couplings in the oil line in the machine room between pump and jack.
+1.  MANUFACTURERS
+1.  Manufacturer:
+    1. Thyssen Krupp Elevator, Memphis, TN or equal.
+1.  MATERIALS, GENERAL
+1.  Colors, patterns, and finishes:
+    1. As selected by the Architect from manufacturer's full range of standard colors, patterns, and finishes.
+1.  Steel:
+    1. Shapes and bars:
+       1. ASTM A36.
+1.  Sheet:
+    1. ASTM A366, cold-rolled steel sheet, commercial quality, Class 1, matte finish, stretcher leveled.
+1.  Finish:
+    1. Factory-applied baked enamel.
+1.  Stainless steel:
+    1. Shapes and bars:
+       1. ASTM A276, Type 300 (18-8).
+1.  Tubing:
+    1. ASTM A269, Type 300 (18-8).
+1.  Bronze:
+    1. Drawn pipe:
+       1. ASTM B43, alloy UNS C23000, red brass.
+1.  Sheet:
+    1. ASTM B36, alloy UNS C28000, muntz metal.
+1.  Extrusions:
+    1. ASTM B455, alloy UNS C38500, architectural bronze.
+1.  Aluminum:
+    1. Sheet and plate:
+       1. ASTM B209, alloy 6063-T52.
+1.  Extrusions:
+    1. ASTM B221, alloy 6063-T52.
+1.  Nickel silver:
+    1. ASTM B151 extrusions, alloy UNS No. C74500, polished finish.
+1.  Plastic laminate:
+    1. Decorative high-pressure type, complying with NEMA LD3, Type GP-50 General Purpose Grade, nominal 0.050" thickness.
+1.  Glass:
+    1. Clear laminated safety glass, complying with ANSI Z97.1, nominal 9/16" thickness.
+1.  Carpet:
+    1. Manufacturer's standard Herculon IV color fast, stain and soil resistant, jute-backed carpet. Class B fire-resistance rating when tested in accordance with ASTM E 84. Available in four colors.
+1.  HOISTWAY EQUIPMENT
+1.  Platform:
+    1. Fabricated frame of formed or structural steel shapes, gusseted and rigidly welded with a wood subfloor. Underside of the platform shall be fireproofed.
+1.  Sling:
+    1. Steel stiles affixed to a steel crosshead and bolstered with bracing members to remove strain from the car enclosure.
+1.  Guide Rails:
+    1. Steel, omega shaped, fastened to the building with steel brackets.
+1.  Guide Shoes:
+    1. Slide guides shall be mounted on top and bottom of the car.
+1.  Guide Rail Lubricators:
+    1. Provide a leakproof reservoir on top of upper guide shoes. Wool felt wiper shall apply an even, uniform flow of lubricant which shall thoroughly cover face of guide rail.
+1.  Buffers:
+    1. Provide substantial buffers in the elevator pit. Mount buffers on continuous channels fastened to the elevator guide rail or securely anchored to the pit floor. Provide extensions if required by project conditions.
+1.  Telescoping Jack:
+    1. Jack units shall be of sufficient size to lift the gross load the height specified. Factory test jack to insure adequate strength and freedom from leakage. Brittle material, such as gray cast iron, is prohibited in the jack construction. Jack unit shall consist of the following components:
+    1. Heavy seamless steel tubing plungers accurately turned and polished.
+1.  Stop ring shall be electrically welded to the plunger to positively prevent plunger leaving the cylinder.
+1.  Internal guide bearing.
+1.  Packing or seal of suitable design and quality.
+1.  Drip ring around cylinder top.
+1.  Cylinder made of steel pipe and provided with a pipe connection and air bleeder.
+1.  Weld brackets to the jack cylinder for supporting the elevator on pit channels. An auxiliary safety bulkhead shall be provided in the lower end of the cylinder.
+1.  Jack synchronization:
+    1. The two plungers shall resynchronize periodically by microprocessor based controls to ensure smooth, accurate performance.
+1.  Automatic Terminal Limits:
+    1. Place electric limit switches in the hoistway near the terminal landings. Limit switches shall be designed to cut off the electric current and stop the car if it runs beyond either terminal landing.
+1.  Automatic Self-Leveling:
+    1. Provide each elevator car with a self-leveling feature to automatically bring the car to the floor landings and correct for overtravel or undertravel. Self-leveling shall, within its zone, be automatic and independent of the operating device. The car shall be maintained approximately level with the landing irrespective of its load.
+1.  Failure Protection:
+    1. Design electrical control circuit so if a malfunction occurs, due to motor starter failure, oil becoming low in the system, or the car failing to reach a landing in the up direction within a pre-determined time, the elevator car will automatically descend to the lowest terminal landing. If power operated doors are used, the doors will automatically open when the car reaches that landing to allow passengers to depart. The doors will then automatically close and all control buttons, except the "door open" button in the car station, shall be made inoperative.
+1.  Wiring, Piping, and Oil:
+    1. Provide all necessary hoistway wiring in accordance with the National Electrical Code. All necessary pipe and fittings shall connect the power unit to the jack unit. Provide proper grade oil.
+1.  Emergency Terminal Stopping Device:
+    1. Provide emergency terminal stopping devices for speeds over 100 FPM. The emergency terminal stopping device shall operate independently of the normal terminal stopping device if it fails to slow down the car at the terminal as intended. Stopping devices shall not be prevented from functioning by a single short circuit caused by a combination of grounds or by other conditions.
+1.  Normal and emergency terminal stopping devices shall not control the same controller switches unless two or more separate and independent switches are furnished, two or which shall be closed in either direction of travel to complete the circuit to the control valve solenoids in the down direction and to complete the circuit to the pump motor for the up direction of travel.
+1.  Pit Ladder:
+    1. Provide pit ladder for access and maintenance of elevator equipment, locate ladder per elevator manufacturer’s recommendations.
+1.  POWER UNIT
+1.  Power Unit (Oil Pumping and Control Mechanism):
+    1. A self-contained unit consisting of the following items:
+    1. Oil reservoir with tank cover and controller compartment with cover.
+1.  An oil hydraulic pump.
+1.  An electric motor.
+1.  Oil control unit with the following components built into single housing; high pressure relief valve, check valve, automatic unloading up start valve, lowering and leveling valve, and magnetic controller.
+1.  Pump:
+    1. Positive displacement type pump specifically manufactured for oil-hydraulic elevator service. Pump shall be designed for steady discharge with minimum pulsation to give smooth and quiet operation. Output of pump shall not vary more than 10 percent between no load and full load on the elevator car.
+1.  Drive:
+    1. Drive shall be by direct coupling with the pump and motor submerged in the oil reservoir or by multiple V-belts and sheaves of number and size to insure maximum factor of safety. Drive type shall be determined based primarily on the load on the car, travel, and speed.
+1.  Motor:
+    1. Standard manufacture motor specifically designed for oil-hydraulic elevator service. Duty rating shall comply with specified speeds and loads.
+1.  Oil Control Unit:
+    1. The following components shall be built into a single housing. Welded manifolds with separate valves to accomplish each function are not acceptable. Adjustments shall be accessible and be made without removing the assembly from the oil line.
+1.  Relief valve shall be externally adjustable and be capable of bypassing the total oil flow without increasing back pressure more than 10 percent above that required to barely open the valve.
+1.  Up start and stop valve shall be externally adjustable and designed to bypass oil flow during start and stop of motor pump assembly. Valve shall close slowly, gradually diverting oil to or from the jack unit, ensuring smooth up starts and up stops.
+1.  Check valve shall be designed to close quietly without permitting any perceptible reverse flow.
+1.  Lowering valve and leveling valve shall be externally adjustable for drop-away speed, lowering speed, leveling speed and stopping speed to ensure smooth "down" starts and stops. The leveling valve shall be designed to level the car to the floor in the direction the car is traveling when slowdown is initiated.
+1.  Power controller shall contain electrical contactors, electro-mechanical switches and thermal overload relays. Mount components in a NEMA 1 enclosure. Logic control system shall be microprocessor based and protected from environmental extremes and excessive vibrations.
+1.  Starting:
+    1. Provide solid state.
+1.  HOISTWAY ENTRANCES
+1.  Doors and Frames:
+    1. Provide complete hollow metal type hoistway entrances at each hoistway opening.
+1.  Manufacturer's standard entrance design consisting of 14 gauge frames with 2 inch profile, 16 gauge doors, hangers, hanger supports, hanger covers, fascia plates, sight guards, and necessary hardware.
+1.  Elevator wall interface with hoistway entrance assembly shall comply with elevator manufacturer's requirements.
+1.  Doors:
+    1. Flush construction
+1.  Stainless steel:
+    1. ASTM A 167, Type 300 stainless steel panels, No. 4 satin finish.
+1.  Frames:
+    1. Formed construction.
+1.  Stainless steel:
+    1. ASTM A167, Type 300 formed stainless steel sheet, No. 4 satin finish (or No. 8 polished finish).
+1.  Transom:
+    1. No transom.
+1.  Interlocks:
+    1. Equip each hoistway entrance with an approved type interlock tested as required by code. Interlock shall be designed to prevent operation of the car away from the landing until the doors are locked in the closed position as defined by code and shall prevent opening the doors at any landing from the corridor side unless the car is at rest at that landing or is in the leveling zone and stopping at that landing.
+1.  Door Hanger and Tracks:
+    1. Provide sheave type two point suspension hangers and tracks for each hoistway sliding door.
+1.  Sheaves:
+    1. Polyurethane tires with ball bearings properly sealed to retain grease.
+1.  Hangers:
+    1. Provide an adjustable slide to accommodate the up-thrust of the doors.
+1.  Tracks:
+    1. Drawn steel shapes, smooth surface and shaped to conform to the hanger sheaves.
+1.  Hoistway Sills:
+    1. Extruded, with grooved surface, 1/4 inch thickness
+1.  Aluminum:
+    1. ASTM B221 aluminum, mill finish.
+1.  CAR ENCLOSURE
+1.  Car Enclosure:
+    1. Walls:
+       1. Cab type DAP-V, reinforced 16 gauge cold-rolled steel with two coats factory applied baked enamel finish, with applied vertical wood core panels covered on both sides with high pressure plastic laminate.
+1.  Canopy:
+    1. Reinforced 14 gauge cold-rolled steel with hinged exit. Finish:
+    1. Two coats factory applied reflective baked enamel.
+1.  Ceiling:
+    1. Down light type, 16 gauge metal pans with halogen down lights suspended and dimmer switch 7'-4'' above the finished floor. Number of down lights shall be dependent on platform size with a minimum of six.
+1.  Metal finish:
+    1. Stainless steel, No. 4 satin finish.
+1.  Cab Columns, Front, and Transom:
+    1. Stainless steel:
+    1. ASTM A167, Type 300 stainless steel panels, No. 4 satin finish
+1.  Doors:
+    1. Horizontal sliding car doors reinforced with steel for panel rigidity. Hang doors on sheave type hangers with polyurethane tires that roll on a polished steel track and are guided at the bottom by non-metallic shoes sliding in a smooth threshold groove.
+1.  Door Finish:
+    1. Stainless steel:
+    1. ASTM A167, Type 300 stainless steel panels, No. 4 satin finish.
+1.  Cab Sills:
+    1. Extruded, with grooved surface, 1/4 inch thickness.
+1.  Aluminum:
+    1. ASTM B221 aluminum, mill finish.
+1.  Handrail:
+    1. Cylindrical, 1.5'' dia, stainless steel no. 4. Provide at rear and side walls.
+1.  Ventilation:
+    1. Two speed exhaust fan mounted on the car top.
+1.  Pad Buttons:
+    1. Provide pad buttons on cab front(s) and walls.
+1.  Provide one set of vinyl protection pads for the project.
+1.  Base:
+    1. no base
+1.  Finished Floor:
+    1. Manufacturer's standard carpet
+1.  Car Top Inspection:
+    1. Provide a car top inspection station with an "emergency stop" switch and constant pressure "up-down" direction buttons to make the normal operating devices inoperative and give the inspector complete control of the elevator. Mount the car top inspection station in the door operator assembly.
+1.  DOOR OPERATION
+1.  Door Operation:
+    1. Provide a direct current motor driven heavy duty operator designed to operate the car and hoistway doors simultaneously. Door movements shall be electrically cushioned at both limits of travel and the door operating mechanism shall be arranged for manual operation in event of power failure. Doors shall automatically open when the car arrives at the landing and automatically close after an adjustable time interval or when the car is dispatched to another landing. Direct drive geared operators, AC controlled units with oil checks, or other deviations are not acceptable.
+1.  No Un-Necessary Door Operation:
+    1. Car door shall open only if the car is stopping for a car or hall call, answering a car or hall call at the present position or selected as the next car up.
+1.  Door Open Time Saver:
+    1. If a car is stopping in response to a car call assignment only (no coincident hall call), the current door hold open time is changed to a shorter field programmable time when the electronic door protection device is activated.
+1.  Double Door Operation:
+    1. When a car stops at a landing with concurrent up and down hall calls, no car calls, and no other hall call assignments, the car door opens to answer the hall call in the direction of the car's current travel. If an onward car call is not registered before the door closes to within 6 inches of fully closed, the travel will reverse and the door will reopen to answer the other call.
+1.  Nudging Operation:
+    1. The doors shall remain open as long as the electronic detector senses the presence of a passenger or object in the door opening. If door movement is obstructed for a field programmable time, a buzzer will sound and the doors will close at reduced speed. If the infra-red door protection system detects a person or object while closing, the doors will stop and resume closing after the obstruction has been removed.
+1.  Limited Door Reversal:
+    1. If the doors are closing and an infra-red beam is interrupted, the doors will reverse and reopen partially. After the obstruction is cleared, the doors will begin to close.
+1.  Door Open Sentinel:
+    1. If the doors are opening, but do not fully open after a field adjustable time, the doors will recycle closed then open six times to try and correct the fault.
+1.  Door Close Sentinel:
+    1. If the doors are closing, but do not fully close after a field adjustable time, the doors will recycle open then close six times to try and correct the fault.
+1.  Door Close Assist:
+    1. When the doors have failed to fully close and are in the recycle mode, the door drive motor shall have increased torque applied to possibly overcome mechanical resistance or differential air pressure and allow the door to close.
+1.  Door Protection Devices:
+    1. Provide a door protection system using 40 microprocessor controlled infra-red light beams. The beams shall project across the car opening detecting the presence of a passenger or object. If door movement is obstructed, the doors shall immediately reopen. A mechanical reopening device is not acceptable.
+1.  CAR OPERATING STATION
+1.  Car Operating Station, General:
+    1. The main car control in each car shall contain the devices required for specific operation mounted in stainless steel no. 4 integral swing return panel requiring no applied faceplate. The panel shall consist of a series of modules, inclined 20 degrees from vertical for optimum viewing and accessibility.
+1.  The lowest module shall contain the "door open," "door close," "alarm" buttons and a keyed "emergency stop" switch.
+1.  Intermediate modules shall contain floor buttons which illuminate when a call is registered and remain illuminated until the call is answered. Raised floor indications and handicap symbols shall be located immediately adjacent to the floor buttons and be fully integrated in the module design. No applied symbols or floor indications or symbols on the buttons shall be permitted.
+1.  The next module shall contain required switches.
+1.  The top module shall contain fire service features in accordance with ASME A17.1, Rule 211.3, including operating instructions.
+1.  Position Indicator:
+    1. An electronic dot matrix position indicator inclined 20 degrees from vertical and mounted in a module matching the control panel for optimum viewing. As the car travels, its position in the hoistway shall be indicated by the illumination of the alpha/numeric character corresponding to the landing which the elevator is stopped or passing.
+1.  Emergency Light:
+    1. An emergency light and capacity plate shall be integrated into a module inclined 20 degrees from vertical. Emergency light shall illuminate automatically upon loss of the building's normal power supply.
+1.  Emergency Communications System:
+    1. Provide an emergency communications device mounted in the swing return. Emergency communications device shall comply with Americans with Disabilities Act (ADA) requirements.
+1.  Auxillary Operating Panel:
+    1. not applicable in this application.
+1.  Column Mounted Car Riding Lantern:
+    1. A car riding lantern shall be installed in the elevator cab and located in the entrance. The lantern, when illuminated, will indicate the intended direction of travel. The lantern will illuminate and a signal will sound when the car arrives at a floor where it will stop. The lantern shall remain illuminated until the door(s) begin to close.
+1.  Special Accessories:
+    1. Independent service switch.
+1.  Inspection switch.
+1.  Two speed fan/light switch.
+1.  Telephone jack.
+1.  Certificate frame.
+1.  CONTROL SYSTEMS
+1.  Controller:
+    1. The elevator control system shall be microprocessor based and software oriented and be linked together for purposes of communication by a serial communications link. Control of the elevator shall be automatic in operation by means of push buttons in the car numbered to correspond to floors served, for registering car stops, and by "up-down" push buttons at each intermediate landing and "call" push buttons at terminal landings.
+1.  Momentary pressing of one or more buttons shall dispatch the car to the designated landings in the order in which the landings are reached by the car, irrespective of the sequence in which the buttons are pressed. Each landing call shall be canceled when answered.
+1.  When the car is traveling in the up direction, it shall stop at all floors for which car buttons or "up" hall buttons have been pressed. The car shall not stop at floors where "down" buttons have been pressed, unless the stop for that floor has been registered by a car button or unless the down call is at the highest floor for which any buttons have been pressed. Pressing the "up" button when the car is traveling in the down direction shall not intercept the travel unless the stop for that floor has been registered by a car button or unless the up call is the lowest for which any button has been pressed.
+1.  When the car has responded to its highest or lowest stop, and stops are registered for the opposite direction, its direction of travel shall reverse automatically and it shall then answer the calls registered for that direction. If both up and down calls are registered at an intermediate floor, only the call corresponding to the direction of car travel shall be canceled upon the stopping of the car at the landing.
+1.  Microprocessor:
+    1. Locate the main microprocessor and car controller in the elevator machine room.
+1.  Microprocessor door operator shall reside in the door operator and control all functions of the elevator door(s).
+1.  Electronic selector shall reside on the car top and contain hall effect transducers that detect magnetic fields. Magnets, corresponding to floor positions and top/bottom of hoistway are mounted on a perforated metal tape that runs the length of the hoistway.
+1.  Group Operation:
+    1. Not applicable in this application.
+1.  Provide a key operated switch in the elevator for the purpose of removing the car from normal operation. When the switch is in the "independent service" position, the elevator will bypass all landing calls and answer only car calls. The operator will have complete control over the operation of the car.
+1.  Emergency Power 10D-OC:
+    1. In the event of a normal power supply failure, the elevator system shall be arranged to lower from an emergency power supply. The emergency power supply shall consist of a battery furnished by the elevator contractor. The elevator contractor shall provide circuitry so after normal power failure and establishment of emergency power, each elevator shall lower to a field adjustable return landing and park with the doors closed. If the designated return landing is above the current position, the elevator shall run down to the next lower landing and park with the doors closed.
+1.  HALL STATIONS
+1.  Hall Stations, General:
+    1. Buttons shall illuminate to indicate call has been registered at that floor for the indicated direction. Faceplates shall be stainless steel no. 4. Provide one set of risers.
+1.  Each terminal station shall contain one illuminating push button.
+1.  Each intermediate station shall consist of two illuminating pushbuttons, one for the up direction and one for the down position.
+1.  Phase 1 firefighters service key switch, with instructions, shall be incorporated into the hall station at the designated level.
+1.  Floor Identification Pads:
+    1. Provide door jamb pads at each floor. Jamb pads shall comply with Americans with Disabilities Act (ADA) requirements.
+1.  Hall Position Indicator:
+    1. A dot matrix position indicator shall be provided and inclined 20 degrees from vertical and mounted in a module for optimum viewing. As the car travels, its' position in the hoistway shall be indicated by the illumination of the alpha/numeric character corresponding to the landing which the elevator is stopped or passing. When hall lanterns are provided, the position indicator shall be combined with the hall lanterns in the same faceplate.
+1.  Hall Position Indicator:
+    1. column.
+1.  Faceplates shall match hall stations.
+1.  Hall Lanterns:
+    1. Not applicable in this application
+1.  MISCELLANEOUS ELEVATOR COMPONENTS
+1.  Oil Hydraulic Silencer:
+    1. Install an oil hydraulic silencer (muffler device) at the power unit location. Silencer shall contain pulsation absorbing material inserted in a blowout proof housing arranged for inspecting interior parts without removing unit from oil line. Rubber hose without blowout proof features will not be acceptable.
+1.  Vibration Pads:
+    1. Mount vibration pads under the power unit assembly to isolate the unit from the building structure.
+1.  Sound Insulating Panels:
+    1. When pump and motor are not submerged, provide panels manufactured of reinforced 14 gauge steel with 1-inch-thick 1-1/2 pound fiberglass core attached to interior and mounted on all four open sides of the power unit frame.
+1.  Sound Isolating Couplings:
+    1. When pump and motor are not submerged, install a minimum of two couplings in the oil line in the machine room between pump and jack.
 
 ## Execution
 
@@ -418,4 +426,3 @@ tags: ['Facility', 'Construction', 'Conveying', 'Equipment', 'Hydraulic', 'Passe
       1. 460 volts, 3 Phase, 60 Hz.
    1. Seismic requirements for zone 1
    1. Special Features:
-         

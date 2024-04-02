@@ -7,6 +7,4 @@ subgroup: Facility Services
 tags: ['Facility', 'Services', 'Electronics', 'Safety', 'Security']
 ---
 
-   1. Division 28
-   1. Electronics Safety and Security
-
+Division 28 - Electronics Safety and Security

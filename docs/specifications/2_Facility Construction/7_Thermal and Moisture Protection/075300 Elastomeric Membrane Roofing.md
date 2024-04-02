@@ -4,7 +4,17 @@ section: '075300'
 divNumb: 7
 divName: Thermal and Moisture Protection
 subgroup: Facility Construction
-tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Elastomeric', 'Membrane', 'Roofing']
+tags:
+  [
+    'Facility',
+    'Construction',
+    'Thermal',
+    'Moisture',
+    'Protection',
+    'Elastomeric',
+    'Membrane',
+    'Roofing',
+  ]
 ---
 
 ## General
@@ -40,28 +50,28 @@ tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Elastom
 
 ## Products
 
-   1. MANUFACTURERS
-   1. Carlisle Sure-Seal
-   1. MATERIALS
-   1. FM Class 1A/1-90, UL Class A
-   1. Carlisle Sure-Seal single ply membrane (EPDM) roof system, or approved equal.
-   1. Installation method:
-      1. Mechanically attached.
-   1. Membranes
-   1. Sure-Seal (Black), 0.045 inch thick EPDM.
-   1. Brite-Ply (white), 0.060 inch thick EPDM where located on Drawings.
-   1. Fasteners:
-      1. As required by manufacturer
-   1. Miscellaneous:
-      1. As recommended by manufacturer for a complete installation.
-   1. Roof walk
-   1. Carlisle Walkway Pads.
-   1. 30" wide.
-   1. Provide all components necessary for a complete waterproof installation, including, but not limited to:
-      1. Pipe flashing,
-   1. Roof drain flashing.
-   1. Equipment support flashing.
-   1. Parapet flashing.
+1.  MANUFACTURERS
+1.  Carlisle Sure-Seal
+1.  MATERIALS
+1.  FM Class 1A/1-90, UL Class A
+1.  Carlisle Sure-Seal single ply membrane (EPDM) roof system, or approved equal.
+1.  Installation method:
+    1. Mechanically attached.
+1.  Membranes
+1.  Sure-Seal (Black), 0.045 inch thick EPDM.
+1.  Brite-Ply (white), 0.060 inch thick EPDM where located on Drawings.
+1.  Fasteners:
+    1. As required by manufacturer
+1.  Miscellaneous:
+    1. As recommended by manufacturer for a complete installation.
+1.  Roof walk
+1.  Carlisle Walkway Pads.
+1.  30" wide.
+1.  Provide all components necessary for a complete waterproof installation, including, but not limited to:
+    1. Pipe flashing,
+1.  Roof drain flashing.
+1.  Equipment support flashing.
+1.  Parapet flashing.
 
 ## Execution
 
@@ -77,4 +87,3 @@ tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Elastom
    1. Roofing system shall be waterproof to a level minimum of 8" above overflow or highest point of roof edge.
    1. DEMONSTRATION
    1. After completion of installation, in Owner's presence, perform a flood test, by flooding roof to the level of overflow.
-

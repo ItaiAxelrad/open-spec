@@ -4,7 +4,18 @@ section: '235100'
 divNumb: 23
 divName: Heating Ventilating and Air Conditioning
 subgroup: Facility Services
-tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 'Breeching', 'Chimney', 'Stacks']
+tags:
+  [
+    'Facility',
+    'Services',
+    'Heating',
+    'Ventilating',
+    'Air',
+    'Conditioning',
+    'Breeching',
+    'Chimney',
+    'Stacks',
+  ]
 ---
 
 ## General
@@ -21,14 +32,14 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. American Society of Civil Engineers (ASCE)
    1. 7 - Minimum Design Loads for Buildings and Other Structures.
    1. American Society for Testing and Materials (ASTM)
-   1. A36 - Specification for Carbon Structural Steel. 
+   1. A36 - Specification for Carbon Structural Steel.
    1. American Welding Society (AWS)
-   1. D1.1 - Structural Welding Code - Steel. 
+   1. D1.1 - Structural Welding Code - Steel.
    1. D9.1 - Sheet Metal Welding Code.
    1. National Fire Protection Association (NFPA)
    1. 37 - Installation and Use of Stationary Combustion Engine and Gas Turbines.
    1. 54 - National Fuel Gas Code.
-   1. 70 - National Electrical Code. 
+   1. 70 - National Electrical Code.
    1. 211 - Chimneys, Fireplaces, Vents, and Solid Fuel-Burning Appliances.
    1. 441 – Gas Vents.
    1. Sheet Metal and Air Conditioning Contractors National Association (SMACNA)
@@ -153,4 +164,3 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Verify that fans are installed and connected according to the Contract Documents.
    1. Complete installation and startup checks according to manufacturer's written instructions, and confirm fan interlocks.
 1. (THIS PAGE INTENTIONALLY BLANK)
-

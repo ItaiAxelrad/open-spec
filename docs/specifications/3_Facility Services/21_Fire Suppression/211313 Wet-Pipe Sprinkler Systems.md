@@ -4,7 +4,16 @@ section: '211313'
 divNumb: 21
 divName: Fire Suppression
 subgroup: Facility Services
-tags: ['Facility', 'Services', 'Fire', 'Suppression', 'Wet-Pipe', 'Sprinkler', 'Systems']
+tags:
+  [
+    'Facility',
+    'Services',
+    'Fire',
+    'Suppression',
+    'Wet-Pipe',
+    'Sprinkler',
+    'Systems',
+  ]
 ---
 
 ## General
@@ -12,7 +21,7 @@ tags: ['Facility', 'Services', 'Fire', 'Suppression', 'Wet-Pipe', 'Sprinkler', '
 1. RELATED DOCUMENTS
    1. Drawings and general provisions of the Contract, including General and Supplementary Conditions and Division 1 Specification Sections, apply to this Section.
 1. SUMMARY
-   1. This Section includes the design and provision of the wet-pipe sprinkler fire suppression system. 
+   1. This Section includes the design and provision of the wet-pipe sprinkler fire suppression system.
 1. REFERENCES
    1. National Fire Protection Association (NFPA)
    1. 13 - Installation of Sprinkler Systems.
@@ -40,26 +49,26 @@ tags: ['Facility', 'Services', 'Fire', 'Suppression', 'Wet-Pipe', 'Sprinkler', '
 1. SYSTEMS DESCRIPTION
    1. Design Requirements:
       1. Design and provide a wet-pipe sprinkler fire suppression system that satisfies the applicable Building Code definition of a fully sprinklered building, in complete compliance with NFPA 13 and meeting the approval of the Authority Having Jurisdiction (AHJ).
-    1. Design Criteria:
-       1. Hydraulically design the sprinkler system to Ordinary Hazard Group 2 in accordance with NFPA 13.
-   1. Provide a sprinkler system which is incorporated with the standpipe system and defined as "combined" for water supply and hydraulic calculation purposes. 
+   1. Design Criteria:
+      1. Hydraulically design the sprinkler system to Ordinary Hazard Group 2 in accordance with NFPA 13.
+   1. Provide a sprinkler system which is incorporated with the standpipe system and defined as "combined" for water supply and hydraulic calculation purposes.
    1. Standpipe system components, in accordance with NFPA 14, shall be rated for working pressures not less than the maximum pressure to be developed at their corresponding locations within the system under any conditions including the pressure that occurs when the system is connected to the fire apparatus (pumper truck) of the AHJ.
    1. Provide fire protection zones as indicated on the Drawings.
-   1. Calculate the system demand to the water main tap. 
-   1. Submit an isometric diagram and a graph showing water supply vs system demand with the hydraulic calculations. 
+   1. Calculate the system demand to the water main tap.
+   1. Submit an isometric diagram and a graph showing water supply vs system demand with the hydraulic calculations.
    1. System water demand pressure:
-      1. a minimum of 10 psig below the water supply pressure. 
+      1. a minimum of 10 psig below the water supply pressure.
    1. Minimum pressure at the most remote standard sprinkler head:
       1. 7 psi.
    1. C-factors for calculating friction loss in pipe:
-      1. 120 for steel pipe. 
-   1. 140 for lined ductile iron pipe. 
-   1. 100 for unlined ductile iron pipe. 
+      1. 120 for steel pipe.
+   1. 140 for lined ductile iron pipe.
+   1. 100 for unlined ductile iron pipe.
    1. Do not exceed the following velocities in piping:
       1. Underground piping - 6 feet/second.
    1. Aboveground piping - 24 feet/second.
-   1. Secure and be responsible for the measurements of the system. 
-   1. Show nozzle identification and "K" factor, gpm, pipe sizes, pipe and equivalent fitting lengths, elevation, friction loss, pressure summary including velocity pressure, adjusted flow and velocities in fps on calculation sheets. 
+   1. Secure and be responsible for the measurements of the system.
+   1. Show nozzle identification and "K" factor, gpm, pipe sizes, pipe and equivalent fitting lengths, elevation, friction loss, pressure summary including velocity pressure, adjusted flow and velocities in fps on calculation sheets.
 1. SYSTEM PERFORMANCE REQUIREMENTS
    1. Design sprinklers and obtain approval from authorities having jurisdiction
    1. Design sprinkler piping according to the following and obtain approval from authorities having jurisdiction:
@@ -77,14 +86,14 @@ tags: ['Facility', 'Services', 'Fire', 'Suppression', 'Wet-Pipe', 'Sprinkler', '
    1. Storage Areas:
       1. 130 sq. ft.
    1. Mechanical Equipment Rooms:
-      1. 130 sq. ft. 
+      1. 130 sq. ft.
    1. Electrical Equipment Rooms:
-      1. 130 sq. ft. 
+      1. 130 sq. ft.
    1. Other Areas:
       1. 130 sq. ft.
    1. Components and Installation:
       1. Capable of producing piping systems with 175-psig minimum working-pressure rating, unless otherwise indicated.
-1. SUBMITTALS 
+1. SUBMITTALS
    1. See Division 1 sections of the Specifications for submittal requirements and for product options and substitutions.
    2. Submit manufacturer’s data sheets on all system components, including the following:
       1. Sprinkler heads
@@ -92,7 +101,7 @@ tags: ['Facility', 'Services', 'Fire', 'Suppression', 'Wet-Pipe', 'Sprinkler', '
    4. Valves
    5. Fire Department inlets
    6. Accessories
-2. QUALITY ASSURANCE
+1. QUALITY ASSURANCE
    1. Installer Qualifications:
       1. An experienced installer who has designed and installed fire-suppression piping similar to that indicated for this Project and obtained design approval and inspection approval from authorities having jurisdiction.
    2. Engineering Responsibility:
@@ -107,11 +116,11 @@ tags: ['Facility', 'Services', 'Fire', 'Suppression', 'Wet-Pipe', 'Sprinkler', '
       1. Listed and labeled as defined in NFPA 70, Article 100, by a testing agency acceptable to authorities having jurisdiction.
    7. NFPA Standards:
       1. Equipment, specialties, accessories, installation, and testing complying with NFPA 13, 13R, 14, and 230.
-3. WARRANTY
-	1. General:
-      1. Submit special warranties for the products so specified elsewhere in Division 21 sections of the Specifications. 
-   1. Submit statements of compliance for the products so specified elsewhere in Divisions 2 and 21 sections of the Specifications. 
-4. EXTRA MATERIALS
+1. WARRANTY
+   1. General:
+      1. Submit special warranties for the products so specified elsewhere in Division 21 sections of the Specifications.
+   1. Submit statements of compliance for the products so specified elsewhere in Divisions 2 and 21 sections of the Specifications.
+1. EXTRA MATERIALS
    1. Furnish extra materials described below that match products installed and that are packaged with protective covering for storage and identified with labels describing contents.
    2. Sprinkler Cabinets:
       1. Finished, wall-mounting steel cabinet and hinged cover, with space for a minimum of six spare sprinklers plus sprinkler wrench. Include the number of sprinklers required by NFPA 13 and wrench for sprinklers. Include separate cabinet with sprinklers and wrench for each type of sprinkler on Project.
@@ -123,7 +132,7 @@ tags: ['Facility', 'Services', 'Fire', 'Suppression', 'Wet-Pipe', 'Sprinkler', '
 1. SPRINKLERS
    1. Automatic Sprinklers:
       1. With heat-responsive element complying with the following.
-   1. UL 199, for applications except residential. 
+   1. UL 199, for applications except residential.
    1. UL 1626, for residential applications.
    1. UL 1767, for early suppression, fast-response applications.
    1. Sprinkler Types and Categories:
@@ -163,7 +172,7 @@ tags: ['Facility', 'Services', 'Fire', 'Suppression', 'Wet-Pipe', 'Sprinkler', '
 ## Execution
 
 1. General
-   1. Comply with requirements of Division 21 related sections. 
+   1. Comply with requirements of Division 21 related sections.
 1. SPACING AND LOCATION OF SPRINKLERS
    1. Space and locate sprinkler heads in accordance with NFPA 13 and as shown on the Drawings. Locate and install sprinkler heads in accordance with the manufacturer's recommendations to maintain UL listing.
    1. Provide uniform spacing of sprinklers on branch lines.

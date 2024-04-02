@@ -14,7 +14,7 @@ tags: ['Facility', 'Services', 'Electrical', 'Lighting', 'Control', 'Devices']
 2. SUMMARY
    1. This Section includes time switches, photoelectric relays, occupancy sensors, and multiple lighting relays and contactors.
 3. SUBMITTALS
-	1. General:
+   1. General:
       1. Submit each item in this Article according to the Conditions of the Contract and Division 1 specification sections. Any submitted device that differs in any manner from that specified must be marked "exception." Clearly indicate exact differences and include all manufacturers data as indicated.
    1. Product data including device operation, warranty period, wiring diagram(s), dimensions, materials, and finishes.
    1. Samples:
@@ -39,51 +39,51 @@ tags: ['Facility', 'Services', 'Electrical', 'Lighting', 'Control', 'Devices']
       1. Subject to compliance with requirements, manufacturers offering products that may be incorporated into the Work include, but are not limited to, the following:
       1. Manufacturers indicated are used to establish a minimum acceptable standard of quality. Similar products by comparable manufacturers will be considered.
 1. Contactors and Relays:
-      1. Cutler-Hammer Products; Eaton Corporation
-      1. Leviton Lighting Control Division
-      1. Hubbell Lighting, Inc.
-      1. Siemens Energy and Automation, Inc.
-      1. Square D Co.; Power Management Organization
-      1. or approved equal
-2. Time Switches:
-      1. Paragon Electric Co., Inc.
-      1. Tork, Inc.
-      1. or approved equal
-3. Photoelectric Relays:
-      1. Paragon Electric Co., Inc.
-      1. Tork, Inc.
-      1. or approved equal
-4. Occupancy Sensors:
-      1. Wall Switch
-      1. Leviton Lighting Control Division
-      1. Mytech Corporation
-      1. Novitas, Inc.
-      1. Unenco Electronics (A Hubbell Co.)
-      1. Watt Stopper, Inc. (The)
-      1. or approved equal
-5. Occupancy Sensors:
-      1. Ceiling-mount
-      1. Leviton Lighting Control Division
-      1. Mytech Corporation
-      1. Novitas, Inc.
-      1. Unenco Electronics (A Hubbell Co.)
-      1. Watt Stopper, Inc. (The)
-      1. or approved equal
+   1. Cutler-Hammer Products; Eaton Corporation
+   1. Leviton Lighting Control Division
+   1. Hubbell Lighting, Inc.
+   1. Siemens Energy and Automation, Inc.
+   1. Square D Co.; Power Management Organization
+   1. or approved equal
+1. Time Switches:
+   1. Paragon Electric Co., Inc.
+   1. Tork, Inc.
+   1. or approved equal
+1. Photoelectric Relays:
+   1. Paragon Electric Co., Inc.
+   1. Tork, Inc.
+   1. or approved equal
+1. Occupancy Sensors:
+   1. Wall Switch
+   1. Leviton Lighting Control Division
+   1. Mytech Corporation
+   1. Novitas, Inc.
+   1. Unenco Electronics (A Hubbell Co.)
+   1. Watt Stopper, Inc. (The)
+   1. or approved equal
+1. Occupancy Sensors:
+   1. Ceiling-mount
+   1. Leviton Lighting Control Division
+   1. Mytech Corporation
+   1. Novitas, Inc.
+   1. Unenco Electronics (A Hubbell Co.)
+   1. Watt Stopper, Inc. (The)
+   1. or approved equal
    1. Colors:
       1. Device and coverplate colors shall be selected by Architect unless otherwise noted.
-2. GENERAL LIGHTING CONTROL DEVICE REQUIREMENTS
+1. GENERAL LIGHTING CONTROL DEVICE REQUIREMENTS
    1. Line-voltage Surge Protection:
       1. Include in all 120- and 277-volt solid-state equipment. Comply with UL 1449 and with ANSI C62.41 for Category A locations.
-3. TIME SWITCHES
+1. TIME SWITCHES
    1. Description:
       1. Digital or electronic control type complying with UL 917.
 1. Astronomic dial
-2. Two-channel
-3. Seven-day programming, 365-day microprocessor to provide special or holiday programming
-4. Daylight savings
-5. Battery back-up
-6. Manual override
-4. PHOTOELECTRIC RELAYS
+1. Two-channel
+1. Seven-day programming, 365-day microprocessor to provide special or holiday programming
+1. Daylight savings
+1. Battery back-up
+1. Manual override
+1. PHOTOELECTRIC RELAYS
    1. Description:
       1. Solid state, with single-pole, single-throw dry contacts rated to operate connected relay or contactor coils or microprocessor input, and complying with UL 773A.
    1. Light-level Monitoring Range:
@@ -94,29 +94,30 @@ tags: ['Facility', 'Services', 'Electrical', 'Lighting', 'Control', 'Devices']
       1. Adjustable for turn-on/turn-off levels, semiflush, calibrated to detect adequacy of daylighting in perimeter locations, and arranged to turn artificial illumination on and off to suit varying intensities of available daylighting.
    1. Outdoor Sealed Units:
       1. Weathertight housing, resistant to high temperatures and equipped with sun-glare shield and ice preventer.
-5. OCCUPANCY SENSORS
+1. OCCUPANCY SENSORS
 
 [A.] Ceiling-mounting Units: Unit receives control power from a separately mounted auxiliary power and control unit, and operates power switching contacts in that unit.
 
 [A.] Ceiling-mounting Units: Unit receives 24V dc power from a remote source and, on sensing occupancy, closes contacts that provide signal input to a remote microprocessor-based lighting control system.
-   1. Switch-Box-Mounting Units:
-      1. Unit receives power directly from the switch leg of the 120- or 277-VAC circuit it controls and operates integral power switching contacts rated 800W at 120-VAC, and 1,200W at 277-VAC, minimum.
-   1. Operation:
-      1. Turns lights on when room or covered area is occupied and off when unoccupied, unless otherwise indicated.
-1. Time Delay for Turning Lights Off:
-      1. Adjustable over a range from 1 to 30 minutes, minimum.
-2. Manual Override Switch:
-      1. Turns lights off manually regardless of elapsed time delay.
-3. Ambient-Light-Level Control:
-      1. Adjustable for setting a level of ambient illumination above which sensor will not turn lights on when occupancy is sensed.
-4. Isolated Relay Contact:
-      1. Operates on detection of occupancy or vacancy, as indicated, to activate an independent function.
-5. Suitable for control of the load type (incandescent, low-voltage, or fluorescent), load capacity, and branch circuit voltage of the lighting fixtures controlled.
-   1. Auxiliary Power and Control Units:
-      1. As follows:
-      1. Relays rated for a minimum of 20-amp normal ballast load or 13-amp tungsten filament or high-inrush ballast load.
-2. Sensor Power Supply:
-      1. Rated to supply the number of connected sensors.
+
+1.  Switch-Box-Mounting Units:
+    1. Unit receives power directly from the switch leg of the 120- or 277-VAC circuit it controls and operates integral power switching contacts rated 800W at 120-VAC, and 1,200W at 277-VAC, minimum.
+1.  Operation:
+    1. Turns lights on when room or covered area is occupied and off when unoccupied, unless otherwise indicated.
+1.  Time Delay for Turning Lights Off:
+    1. Adjustable over a range from 1 to 30 minutes, minimum.
+1.  Manual Override Switch:
+    1. Turns lights off manually regardless of elapsed time delay.
+1.  Ambient-Light-Level Control:
+    1. Adjustable for setting a level of ambient illumination above which sensor will not turn lights on when occupancy is sensed.
+1.  Isolated Relay Contact:
+    1. Operates on detection of occupancy or vacancy, as indicated, to activate an independent function.
+1.  Suitable for control of the load type (incandescent, low-voltage, or fluorescent), load capacity, and branch circuit voltage of the lighting fixtures controlled.
+    1.  Auxiliary Power and Control Units:
+        1. As follows:
+        1. Relays rated for a minimum of 20-amp normal ballast load or 13-amp tungsten filament or high-inrush ballast load.
+1.  Sensor Power Supply:
+    1. Rated to supply the number of connected sensors.
 
 [E.] Passive-Infrared Type: Detects occupancy by a combination of heat and movement in zone of coverage. Each sensor detects occupancy in the sensor's zone of coverage by detecting occurrence of 6-inch (150-mm) minimum movement of any portion of a human body that presents a minimum target of 36 square inches (232 square cm) to the sensor.
 
@@ -124,14 +125,14 @@ tags: ['Facility', 'Services', 'Electrical', 'Lighting', 'Control', 'Devices']
 
 [E.] Ultrasonic Type: Emits a beam of ultrasonic energy and detects occupancy through use of Doppler's principle in discerning movement in zone of coverage by sensing a change in pattern of reflected ultrasonic energy.
 
-[E.] Dual-Technology Type: Uses a combination of passive-infrared and ultrasonic detection methods to distinguish between occupied and unoccupied conditions for area covered. Particular technology or combination of technologies that controls each function (on or off) is selectable in the field by operating controls on unit.
-6. MULTIPOLE CONTACTORS AND RELAYS
-   1. Description:
-      1. Electrically operated and mechanically held, and complying with UL 508 and NEMA ICS 2.
+[E.] Dual-Technology Type: Uses a combination of passive-infrared and ultrasonic detection methods to distinguish between occupied and unoccupied conditions for area covered. Particular technology or combination of technologies that controls each function (on or off) is selectable in the field by operating controls on unit. 6. MULTIPOLE CONTACTORS AND RELAYS
+
+1. Description:
+   1. Electrically operated and mechanically held, and complying with UL 508 and NEMA ICS 2.
 1. Current Rating for Switching:
-      1. UL listing or rating consistent with type of load served, including tungsten filament, inductive, and high-inrush ballast (ballasts with 15 percent or less total harmonic distortion of normal load current).
-2. Control Coil Voltage:
-      1. Match control power source.
+   1. UL listing or rating consistent with type of load served, including tungsten filament, inductive, and high-inrush ballast (ballasts with 15 percent or less total harmonic distortion of normal load current).
+1. Control Coil Voltage:
+   1. Match control power source.
 
 ## Execution
 
@@ -146,7 +147,7 @@ tags: ['Facility', 'Services', 'Electrical', 'Lighting', 'Control', 'Devices']
 2. CONTROL WIRING INSTALLATION
    1. Install wiring between sensing and control devices according to manufacturer's written instructions and as specified in related Division 26 sections.
    1. Wiring Method:
-      1. Install all wiring in raceway as specified in related Division 26 sections 
+      1. Install all wiring in raceway as specified in related Division 26 sections
    1. Bundle, train, and support wiring in enclosures
    1. Ground equipment
    1. Connections:
@@ -161,24 +162,23 @@ tags: ['Facility', 'Services', 'Electrical', 'Lighting', 'Control', 'Devices']
    1. Electrical Tests:
       1. Use particular caution when testing devices containing solid-state components. Perform the following according to manufacturer's written instructions:
       1. Continuity tests of circuits
-2. Operational Tests:
-      1. Set and operate devices to demonstrate their functions and capabilities in a methodical sequence that cues and reproduces actual operating functions. Include testing of devices under conditions that simulate actual operational conditions. Record control settings, operations, cues, and functional observations.
+5. Operational Tests:
+   1. Set and operate devices to demonstrate their functions and capabilities in a methodical sequence that cues and reproduces actual operating functions. Include testing of devices under conditions that simulate actual operational conditions. Record control settings, operations, cues, and functional observations.
    1. Correct deficiencies, make necessary adjustments, and retest. Verify that specified requirements are met.
    1. Test Labeling:
       1. After satisfactory completion of tests and inspections, apply a label to tested components indicating test results, date, and responsible agency and representative.
    1. Reports:
       1. Written reports of tests and observations. Record defective materials and workmanship and unsatisfactory test results. Record repairs and adjustments.
-5. CLEANING
+6. CLEANING
    1. Cleaning:
       1. Clean equipment and devices internally and externally using methods and materials recommended by manufacturers, and repair damaged finishes.
-6. DEMONSTRATION
+7. DEMONSTRATION
    1. Coordinate with training for low-voltage, programmable lighting control system specified in related Division 26 sections.
    1. Engage a factory authorized service representative to train the Owner's maintenance personnel as specified below:
       1. Train the Owner's maintenance personnel on troubleshooting, servicing, adjusting, and preventive maintenance. Provide a minimum of three hours' training.
-2. Training Aid:
-      1. Use the approved final version of maintenance manuals as a training aid.
-3. Schedule training with the Contracting Officer with at least two weeks advance notice.
-7. ON-SITE ASSISTANCE
-   1. Occupancy Adjustments:
-      1. Within one year of date of Substantial Completion, provide up to three Project site visits, when requested, to adjust light levels, make program changes, and adjust sensors and controls to suit actual conditions.
-
+8. Training Aid:
+   1. Use the approved final version of maintenance manuals as a training aid.
+9. Schedule training with the Contracting Officer with at least two weeks advance notice.
+10. ON-SITE ASSISTANCE
+    1. Occupancy Adjustments:
+       1. Within one year of date of Substantial Completion, provide up to three Project site visits, when requested, to adjust light levels, make program changes, and adjust sensors and controls to suit actual conditions.

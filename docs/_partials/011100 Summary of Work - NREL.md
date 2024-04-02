@@ -25,8 +25,8 @@ tags: ['General', 'Requirements', 'Summary', 'Work', 'Owner']
    6. Provide and maintain adequate protection of work from damage due to freezing, especially freezing earth and soil. Risk of proceeding with the work on or with freezing or frozen materials will be the sole responsibility of the Contractor.
    7. Provide protection from damage at all times from rainwater, ground water, backing up of drains or sewers, and other water. Provide pumps and equipment enclosures to provide this protection.
 4. PROJECT/SITE CONDITIONS
-    1. Contractor shall at all times conduct operations as to insure the least inconvenience to the employees of Owner and the general public.
-    2. Contractor shall provide Owner the maximum amount of notice possible for utility interruptions. A minimum of 72 hours notice is required for any utility interruption.
+   1. Contractor shall at all times conduct operations as to insure the least inconvenience to the employees of Owner and the general public.
+   2. Contractor shall provide Owner the maximum amount of notice possible for utility interruptions. A minimum of 72 hours notice is required for any utility interruption.
 
 ## Products
 

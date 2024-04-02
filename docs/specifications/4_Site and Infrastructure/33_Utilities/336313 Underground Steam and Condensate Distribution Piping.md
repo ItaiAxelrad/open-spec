@@ -4,24 +4,38 @@ section: '336313'
 divNumb: 33
 divName: Utilities
 subgroup: Site and Infrastructure
-tags: ['Site', 'Infrastructure', 'Utilities', 'Underground', 'Steam', 'Condensate', 'Distribution', 'Piping']
+tags:
+  [
+    'Site',
+    'Infrastructure',
+    'Utilities',
+    'Underground',
+    'Steam',
+    'Condensate',
+    'Distribution',
+    'Piping',
+  ]
 ---
 
 ## General
+
 1. SCOPE
    1. This section includes specifications for supports of all underground utility structures, equipment, and materials as well as piping system anchors. Included are the following topics:
-    1. Related Work
-    2. Regulatory Requirements
-    3. Submittals
-    4. Project Record Documents
-    5. Delivery, Storage and Handling
-    6. Coordination
+   1. Related Work
+   1. Regulatory Requirements
+   1. Submittals
+   1. Project Record Documents
+   1. Delivery, Storage and Handling
+   1. Coordination
+
 ## Product
+
     1. Waterproofing
     1. Bedding and Utility Cover
-   1. Steam Pit Frames and Covers
-   1. Ladders
-   1. Air Vent Screen
+
+1.  Steam Pit Frames and Covers
+1.  Ladders
+1.  Air Vent Screen
 
 ## Execution
 
@@ -49,9 +63,9 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Underground', 'Steam', 'Condensat
    1. Deliver, store, protect, and handle products to site under provisions of General Requirements.
    2. Accept products on site. Inspect for damage.
 6. COORDINATION
-   1. Obtain all available information on underground utilities before starting excavation. If underground utilities interfere with shown location of pits, tunnels, box conduits and vaults, bring this to the attention of the Engineer as soon as possible. 
+   1. Obtain all available information on underground utilities before starting excavation. If underground utilities interfere with shown location of pits, tunnels, box conduits and vaults, bring this to the attention of the Engineer as soon as possible.
    2. Pits, tunnels, box conduits, direct buried conduits and vaults shall be revised or relocated only with the approval of the Engineer.
-   
+
 ## Products
 
 1. WATERPROOFING
@@ -70,7 +84,7 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Underground', 'Steam', 'Condensat
 4. SUMP PUMP GRATE FRAMES
    1. Sump pump grate frames shall be hot dipped galvanized steel.
 5. STEAM PIT LADDERS
-   1. Construct ladders of 1-5/8 w x 1-1/8" depth aluminum bar side rails with 2 1/4” wide channel with nonslip surface, headed into rails, approximately but not over 10" o.c. 
+   1. Construct ladders of 1-5/8 w x 1-1/8" depth aluminum bar side rails with 2 1/4” wide channel with nonslip surface, headed into rails, approximately but not over 10" o.c.
    2. McNichols Traction Tread plank grating or approved equal. Channel shall be rated for 300 lbs minimum. Ream holes rails, plug weld solid and grind smooth. Anchor ladder at top, bottom and intermediate points not over 5'-0" o.c. with brackets secured to wall with SS expansion bolts. Bolts shall be Red Head stainless steel bolts and washers. Refer to drawing detail.
 6. LADDER “SAFETY POST”
    1. Manufacturer:
@@ -92,31 +106,29 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Underground', 'Steam', 'Condensat
    4. Work shall be made and erected square, plumb, straight and true, smooth, with accurately fitted joints and intersections. Work shall be reinforced and anchored in place.
    5. Contractor shall be responsible for location and levels of work of this Section, except such parts as may be delivered to others and set by them. In such cases, this Contractor shall assist others in properly locating those parts.
 10. bedding AND UTILITY cover
-   6. Coordinate material installation in accordance with the applicable requirements of Section 31 23 16.13– Trenching.
-   7. Provide bedding from excavation to bottom of steam pits, direct buried conduits, tunnels and/or box conduits a minimum of 6”.
-   8. Provide utility cover to 12” above top of steam pits, tunnels, direct buried conduits and/or box conduits.
-11. CONCRETE REPAIR
-   9. Clean existing concrete surfaces of steam pits, tunnels and box conduits. 
-12. General Primer Contractor shall smooth surfaces of existing concrete steam pits, tunnels and box conduits with repair mortar to accept new waterproofing.
-13. WATERPROOFING
-   10. Waterproofing and insulate steam pits and box conduits in accordance with the provisions of Section 07 10 16.
-14. LOCATOR TAPE
-   11. Provide metallic detectable locator tape, at minimum 6 inch width; meet APWA color code requirements for the type of material being conveyed in the pipeline (blue for water systems); with the legend "CAUTION:
-      1. Buried Direct Buried Steam Conduits"; suitable for underground use. Metallic and detectable tape:
-      2. minimum of 6 inches wide, designed for 12" bury; THOR Enterprises, Inc., MagnaTec; Marking Services, Inc., Underground Warning Tape # 52219; Carlton Industries, Inc. # 1667DT6; D & G Sign and Label Co., # 40412; Seton Name Plate Co., Detection Tape # 6 WAT; or approved equal.
-15. FABRICATION
-   12. Mechanical Contractor shall provide steel embedment plates for steel pipe and anchor bolts for pipe supports, anchors, and guides to General Contractor to install.
-   13. Work shall be made and erected square, plumb, straight and true, smooth, accurately fitted joints and intersections. Work shall be adequately reinforced and anchored in place. Shearing and punching shall leave clean, true lines and surfaces. Weld permanent connections. Insofar as possible, work shall be fitted and shop assembled, ready for erection. At all materials exposed to skin welds shall be ground smooth. Grind off sharp areas of exposed steel including sheared edges.
-   14. Do cutting, fitting, drilling, welding, tapping, etc., as may be required to complete this work and to join or accommodate work of other trades.
-   15. New steel pipe anchors, guides and supports shall be shop primed and intermediate coat applied in accordance with paint requirements of Section 09 90 90 Painting for Utilities.
-   16. Welding shall be in accordance with code of American Welding Society. Before welding, clean surfaces of loose scale, rust, paint or other foreign matter and properly align. After welding, brush welds with wire brushes. 
-   17. Welds shall show uniform section, smoothness of weld metal, weather edges without overlaps and freedom from porosity and clinkers. Where necessary to achieve smooth connections, joints shall be dressed smooth. All welding shall be done by certified welders.
-   18. Include fabrication and erection of all metal work complete, including all required shapes, clip angles, bolts, hangers and accessories to complete metals work. Grind off sharp areas of exposed metals including sheared edges.
-   19. Except as amended herein, materials and workmanship shall be in accordance with each applicable and appropriate standard practice issued by National Association of Architectural Metal Manufacturers.
-   20. Fabricate structural steel connections, parts and accessories in accordance with current edition of Specifications and Code of Standard Practice adopted by AISC.
-   21. Metals shall be made with structural properties to safely sustain and withstand stresses and strains to which normally subjected, true to detail, clean, straight, with sharply defined profiles, lines and angles and unless other wise noted, with smooth finished surfaces.
-   22. Contractor shall be responsible for location and levels of work of this Section, except such parts as may be delivered to others and set by them. In such cases, this Contractor shall assist others in properly locating those parts.
-   23. Coating of aluminum steam pit frames:
-      1. Coat aluminum frames that come into contact with concrete with bitumastic or epoxy coating. Where frame coating has been damaged or is missing recoat before pouring concrete.
-   
-
+11. Coordinate material installation in accordance with the applicable requirements of Section 31 23 16.13– Trenching.
+12. Provide bedding from excavation to bottom of steam pits, direct buried conduits, tunnels and/or box conduits a minimum of 6”.
+13. Provide utility cover to 12” above top of steam pits, tunnels, direct buried conduits and/or box conduits.
+14. CONCRETE REPAIR
+15. Clean existing concrete surfaces of steam pits, tunnels and box conduits.
+16. General Primer Contractor shall smooth surfaces of existing concrete steam pits, tunnels and box conduits with repair mortar to accept new waterproofing.
+17. WATERPROOFING
+18. Waterproofing and insulate steam pits and box conduits in accordance with the provisions of Section 07 10 16.
+19. LOCATOR TAPE
+20. Provide metallic detectable locator tape, at minimum 6 inch width; meet APWA color code requirements for the type of material being conveyed in the pipeline (blue for water systems); with the legend "CAUTION:
+21. Buried Direct Buried Steam Conduits"; suitable for underground use. Metallic and detectable tape:
+22. minimum of 6 inches wide, designed for 12" bury; THOR Enterprises, Inc., MagnaTec; Marking Services, Inc., Underground Warning Tape # 52219; Carlton Industries, Inc. # 1667DT6; D & G Sign and Label Co., # 40412; Seton Name Plate Co., Detection Tape # 6 WAT; or approved equal.
+23. FABRICATION
+24. Mechanical Contractor shall provide steel embedment plates for steel pipe and anchor bolts for pipe supports, anchors, and guides to General Contractor to install.
+25. Work shall be made and erected square, plumb, straight and true, smooth, accurately fitted joints and intersections. Work shall be adequately reinforced and anchored in place. Shearing and punching shall leave clean, true lines and surfaces. Weld permanent connections. Insofar as possible, work shall be fitted and shop assembled, ready for erection. At all materials exposed to skin welds shall be ground smooth. Grind off sharp areas of exposed steel including sheared edges.
+26. Do cutting, fitting, drilling, welding, tapping, etc., as may be required to complete this work and to join or accommodate work of other trades.
+27. New steel pipe anchors, guides and supports shall be shop primed and intermediate coat applied in accordance with paint requirements of Section 09 90 90 Painting for Utilities.
+28. Welding shall be in accordance with code of American Welding Society. Before welding, clean surfaces of loose scale, rust, paint or other foreign matter and properly align. After welding, brush welds with wire brushes.
+29. Welds shall show uniform section, smoothness of weld metal, weather edges without overlaps and freedom from porosity and clinkers. Where necessary to achieve smooth connections, joints shall be dressed smooth. All welding shall be done by certified welders.
+30. Include fabrication and erection of all metal work complete, including all required shapes, clip angles, bolts, hangers and accessories to complete metals work. Grind off sharp areas of exposed metals including sheared edges.
+31. Except as amended herein, materials and workmanship shall be in accordance with each applicable and appropriate standard practice issued by National Association of Architectural Metal Manufacturers.
+32. Fabricate structural steel connections, parts and accessories in accordance with current edition of Specifications and Code of Standard Practice adopted by AISC.
+33. Metals shall be made with structural properties to safely sustain and withstand stresses and strains to which normally subjected, true to detail, clean, straight, with sharply defined profiles, lines and angles and unless other wise noted, with smooth finished surfaces.
+34. Contractor shall be responsible for location and levels of work of this Section, except such parts as may be delivered to others and set by them. In such cases, this Contractor shall assist others in properly locating those parts.
+35. Coating of aluminum steam pit frames:
+36. Coat aluminum frames that come into contact with concrete with bitumastic or epoxy coating. Where frame coating has been damaged or is missing recoat before pouring concrete.

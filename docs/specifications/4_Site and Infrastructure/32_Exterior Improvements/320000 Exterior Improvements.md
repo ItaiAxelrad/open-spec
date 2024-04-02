@@ -7,6 +7,4 @@ subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements']
 ---
 
-   1. Division 32
-   1. Exterior Improvements
-
+Division 32 - Exterior Improvements

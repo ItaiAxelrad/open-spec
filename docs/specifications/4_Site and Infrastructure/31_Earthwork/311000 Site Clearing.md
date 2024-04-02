@@ -76,6 +76,3 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Clearing']
    1. Contractor may claim and salvage any timber which he may consider of value, but shall not delay in any manner either this Contract or other Work with salvaging operations.
    1. CLEAN UP
    1. Remove temporary erosion control measures at the completion of construction, unless ordered by the Architect to remain in place. Take care during removal to minimize siltation of nearby drainage courses
-   
-    
-

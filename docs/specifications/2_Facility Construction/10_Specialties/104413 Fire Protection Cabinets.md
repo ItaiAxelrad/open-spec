@@ -4,14 +4,16 @@ section: '104413'
 divNumb: 10
 divName: Specialties
 subgroup: Facility Construction
-tags: ['Facility', 'Construction', 'Specialties', 'Fire', 'Protection', 'Cabinets']
+tags:
+  ['Facility', 'Construction', 'Specialties', 'Fire', 'Protection', 'Cabinets']
 ---
+
 ## General
 
 1. RELATED DOCUMENTS
    1. Drawings, General and Special Provisions of the Contract, and Division 01 Specification Sections, apply to this Section.
 2. SUMMARY
-   1. Section includes fire protection cabinets for fire extinguishers and knox boxes. 
+   1. Section includes fire protection cabinets for fire extinguishers and knox boxes.
    1. Related Sections:
       1. Division 03 Section "Architectural Concrete".
 3. SUBMITTALS
@@ -63,35 +65,35 @@ tags: ['Facility', 'Construction', 'Specialties', 'Fire', 'Protection', 'Cabinet
       1. Fully glazed panel with frame. I. Door Glazing:
       2. Acrylic sheet.
    10. Acrylic Sheet Color:
-      3. Clear transparent acrylic sheet.
-   11. Door Hardware:
-      4. Manufacturer's standard door-operating hardware of proper type for cabinet type, trim style, and door material and style indicated.
-   12. Accessories:
-      5. Mounting Bracket:
-         1. Manufacturer's standard steel, designed to secure fire extinguisher to fire protection cabinet, of sizes required for types and capacities of fire extinguishers indicated, with plated or baked-enamel finish.
-   13. Identification:
-      6. Lettering complying with authorities having jurisdiction for letter style, size, spacing, and location. Locate as directed by Architect.
-      7. Identify fire extinguisher in fire protection cabinet with the words "FIRE EXTINGUISHER".
-      8. Location: Applied to cabinet glazing.
-   14. Application Process: Decals.
-   15. Lettering Color: Red.
-   16. Orientation: Vertical.
-   17. Finishes:
-       1.  Stainless Steel: No. 4.
-18. KNOX BOX
-   9.  Knox Box Manufacturer:
-      1. Knox Company.
-   10. Knox Box:
-      11. Heavy-duty, high-security box that stores keys, access cards, and other small items keyed to a single master key controlled by the local fire department.
-   19. Type:
-      12. Recess mounted with hinged door, verify local keying before ordering.
-   20. Accessories:
-      13. Recessed mounting kit (new concrete or masonry construction only) and tamper switch.
-   21. Color:
-      14. Aluminum.
-3. FABRICATION
-   1. Fire Protection Cabinets:
-      1. Provide manufacturer's standard box (tub), with trim, frame, door, and hardware to suit cabinet type, trim style, and door style indicated. Miter and weld joints and grind smooth.
+   11. Clear transparent acrylic sheet.
+   12. Door Hardware:
+   13. Manufacturer's standard door-operating hardware of proper type for cabinet type, trim style, and door material and style indicated.
+   14. Accessories:
+   15. Mounting Bracket:
+       1. Manufacturer's standard steel, designed to secure fire extinguisher to fire protection cabinet, of sizes required for types and capacities of fire extinguishers indicated, with plated or baked-enamel finish.
+   16. Identification:
+   17. Lettering complying with authorities having jurisdiction for letter style, size, spacing, and location. Locate as directed by Architect.
+   18. Identify fire extinguisher in fire protection cabinet with the words "FIRE EXTINGUISHER".
+   19. Location: Applied to cabinet glazing.
+   20. Application Process: Decals.
+   21. Lettering Color: Red.
+   22. Orientation: Vertical.
+   23. Finishes:
+       1. Stainless Steel: No. 4.
+3. KNOX BOX
+4. Knox Box Manufacturer:
+5. Knox Company.
+6. Knox Box:
+7. Heavy-duty, high-security box that stores keys, access cards, and other small items keyed to a single master key controlled by the local fire department.
+8. Type:
+9. Recess mounted with hinged door, verify local keying before ordering.
+10. Accessories:
+11. Recessed mounting kit (new concrete or masonry construction only) and tamper switch.
+12. Color:
+13. Aluminum.
+14. FABRICATION
+    1. Fire Protection Cabinets:
+       1. Provide manufacturer's standard box (tub), with trim, frame, door, and hardware to suit cabinet type, trim style, and door style indicated. Miter and weld joints and grind smooth.
 
 ## Execution
 
@@ -102,8 +104,8 @@ tags: ['Facility', 'Construction', 'Specialties', 'Fire', 'Protection', 'Cabinet
       1. Fasten cabinets to structure, square and plumb. D. Identification:
       1. Apply decals at locations indicated.
    1. Comply with manufacturer's written instructions for installing fire-protection specialties and knox box.
-   2. Mount knox box plumb with a 6 foot height from floor substrate to bottom of the box.
-   3. Mount box with the yellow mounting markers pointed up so the moisture drain hole is on the bottom.
-   4. Caulk sides and top between the wall and box for waterproofing
-   5. Adjust fire protection cabinet doors to operate easily without binding. Verify that integral locking devices operate properly.
-   6. Replace fire protection cabinets that have been damaged or have deteriorated beyond successful repair by finish touchup or similar minor repair procedures.
+   1. Mount knox box plumb with a 6 foot height from floor substrate to bottom of the box.
+   1. Mount box with the yellow mounting markers pointed up so the moisture drain hole is on the bottom.
+   1. Caulk sides and top between the wall and box for waterproofing
+   1. Adjust fire protection cabinet doors to operate easily without binding. Verify that integral locking devices operate properly.
+   1. Replace fire protection cabinets that have been damaged or have deteriorated beyond successful repair by finish touchup or similar minor repair procedures.

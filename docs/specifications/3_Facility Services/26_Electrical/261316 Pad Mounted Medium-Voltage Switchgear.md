@@ -4,7 +4,16 @@ section: '261316'
 divNumb: 26
 divName: Electrical
 subgroup: Facility Services
-tags: ['Facility', 'Services', 'Electrical', 'Pad', 'Mounted', 'Medium-Voltage', 'Switchgear']
+tags:
+  [
+    'Facility',
+    'Services',
+    'Electrical',
+    'Pad',
+    'Mounted',
+    'Medium-Voltage',
+    'Switchgear',
+  ]
 ---
 
 ## General
@@ -20,50 +29,50 @@ tags: ['Facility', 'Services', 'Electrical', 'Pad', 'Mounted', 'Medium-Voltage',
    1. Termination compartments shall be provided as follows:
       1. one for each three-phase switch, one for each three-phase set of fuses, and one for each three-phase set of bus terminals.
 1. REFERENCES
-   1. American National Standards Institute (ANSI) 
-   1. C37.06 - Preferred Ratings and Related Required Capabilities for AC High-Voltage Circuit Breakers Rated on a Symmetrical Current Basis. 
-   1. C37.12 - Specification Guide for AC High-Voltage Circuit Breakers Based on a Symmetrical Current Basis. 
+   1. American National Standards Institute (ANSI)
+   1. C37.06 - Preferred Ratings and Related Required Capabilities for AC High-Voltage Circuit Breakers Rated on a Symmetrical Current Basis.
+   1. C37.12 - Specification Guide for AC High-Voltage Circuit Breakers Based on a Symmetrical Current Basis.
    1. C57.12.28 - Switchgear and Transformers - Pad-Mounted Equipment - Enclosure Integrity.
    1. Institute of Electrical and Electronics Engineers (IEEE)
-   1. C37.04 - Rating Structure for AC High-Voltage Circuit Breakers Rated on a Symmetrical Current Basis. 
+   1. C37.04 - Rating Structure for AC High-Voltage Circuit Breakers Rated on a Symmetrical Current Basis.
    1. C37.20.2 - Metal-Clad and Station-Type Cubicle Switchgear.
    1. C37.90.1 - Surge Withstand Capability (SWC) Test for Protective Relays and Relay Systems.
-   1. C57.13 - Requirements for Instrument Transformers. 
-   1. C62.1 - Surge Arresters for Alternating Current Power Circuits. 
-   1. National Electrical Manufacturers Association (NEMA) 
-   1. LA 1 - Surge Arresters. 
-   1. SG 4 - Alternating-Current High-Voltage Circuit Breaker. 
-   1. SG 5 - Power Switchgear Assemblies. 
+   1. C57.13 - Requirements for Instrument Transformers.
+   1. C62.1 - Surge Arresters for Alternating Current Power Circuits.
+   1. National Electrical Manufacturers Association (NEMA)
+   1. LA 1 - Surge Arresters.
+   1. SG 4 - Alternating-Current High-Voltage Circuit Breaker.
+   1. SG 5 - Power Switchgear Assemblies.
    1. National Electrical Code (NEC)
 1. SYSTEM DESCRIPTION
    1. Performance Requirements
-   1. Provide switchgear suitable for 13.2 kV, three phase, 60 hertz, grounded service. 
-   1. Provide integrated short circuit rating of 250 MVA. 
+   1. Provide switchgear suitable for 13.2 kV, three phase, 60 hertz, grounded service.
+   1. Provide integrated short circuit rating of 250 MVA.
 1. SUBMITTALS
-   1. Product Data 
+   1. Product Data
    1. Submit manufacturer's technical product data on the switchgear components including the following:
-   1. Vacuum interrupter switches. 
-   1. Instruments, meters, relays. 
-   1. Switchgear assembly and enclosure. 
+   1. Vacuum interrupter switches.
+   1. Instruments, meters, relays.
+   1. Switchgear assembly and enclosure.
    1. Fuse data.
    1. Arrestor data.
    1. Metering provisions.
-   1. Shop Drawings 
+   1. Shop Drawings
    1. Submit dimensioned Shop Drawings including the following:
-   1. Overall switchgear plan with front, side, and rear elevations. 
-   1. Conduit entrance locations and requirements. 
+   1. Overall switchgear plan with front, side, and rear elevations.
+   1. Conduit entrance locations and requirements.
    1. Interior elevations and sections.
-   1. Identification methods. 
+   1. Identification methods.
    1. Room and equipment layout plan, using dimensions of proposed equipment; and indicating working clearances.
-   1. Submit wiring diagrams of auxiliary power, relay, and control wiring. 
+   1. Submit wiring diagrams of auxiliary power, relay, and control wiring.
    1. Submit one-line diagram, electrical ratings, component list of equipment and cable terminal size.
-   1. Quality Control Submittals 
-   1. Submit evidence of manufacturer qualifications. 
+   1. Quality Control Submittals
+   1. Submit evidence of manufacturer qualifications.
    1. Submit results of specified factory tests.
-   1. Submit results of specified field tests. 
+   1. Submit results of specified field tests.
 1. QUALITY ASSURANCE
-   1. Manufacturer Qualifications 
-   1. Firm regularly engaged in the manufacture and integration of medium voltage switchgear components, of types and ratings specified and indicated, whose products have been in satisfactory use in similar services for not less than five years. 
+   1. Manufacturer Qualifications
+   1. Firm regularly engaged in the manufacture and integration of medium voltage switchgear components, of types and ratings specified and indicated, whose products have been in satisfactory use in similar services for not less than five years.
    1. Firm certified as ISO 9000, 9001 or 9002 compliant.
    1. Provide equipment certified to meet seismic requirements of Uniform Building Code (UBC) for zone 1 application.
 1. DELIVERY, STORAGE AND HANDLING
@@ -87,12 +96,12 @@ tags: ['Facility', 'Services', 'Electrical', 'Pad', 'Mounted', 'Medium-Voltage',
    1. The pad-mounted gear enclosure shall be of unitized monocoque (not structural-frame-and-bolted-sheet) construction to maximize strength, minimize weight, and inhibit corrosion.
    1. The basic material shall be 11-gauge hot-rolled, pickled and oiled steel sheet.
    1. All structural joints and butt joints shall be welded, and the external seams shall be ground flush and smooth. The gas-metal-arc welding process shall be employed to eliminate alkaline residues and to minimize distortion and spatter.
-   1. To guard against unauthorized or inadvertent entry, enclosure construction shall not utilize any externally accessible hardware. 
-   1. To guard against unauthorized or inadvertent entry, enclosure construction shall not utilize any externally accessible hardware. 
+   1. To guard against unauthorized or inadvertent entry, enclosure construction shall not utilize any externally accessible hardware.
+   1. To guard against unauthorized or inadvertent entry, enclosure construction shall not utilize any externally accessible hardware.
    1. The door openings shall have 90-degree flanges, facing outward, that shall provide strength and rigidity as well as deep overlapping between doors and door openings to guard against water entry.
    1. Enclosure top side edges shall overlap with roof side edges to create a mechanical maze which shall allow ventilation to help keep the enclosure interior dry while discouraging tampering or insertion of foreign objects.
    1. A heavy coat of insulating "no-drip" compound shall be applied to the inside surface of the roof to minimize condensation of moisture thereon.
-   1. Insulating inter-phase and end barriers of NEMA GPO3-grade fiberglass-reinforced polyester shall be provided for each interrupter switch and each set of fuses where required to achieve BIL ratings. Additional insulating barriers of the same material shall separate the front compartments from the rear compartments and isolate the tie bus (where furnished). 
+   1. Insulating inter-phase and end barriers of NEMA GPO3-grade fiberglass-reinforced polyester shall be provided for each interrupter switch and each set of fuses where required to achieve BIL ratings. Additional insulating barriers of the same material shall separate the front compartments from the rear compartments and isolate the tie bus (where furnished).
    1. Full-length steel barriers shall separate side-by-side compartments.
    1. Interrupter switches shall be provided with dual-purpose front barriers. These barriers, in their normal hanging positions, shall guard against inadvertent contact with live parts. It shall also be possible to lift the barriers out and insert them into the open gap when the switch is open. These barriers shall meet the requirements of Section 381G of the National Electrical Safety Code (ANSI Standard C2).
    1. Interrupter switches shall be provided with window panels to allow viewing of the switch position without removing the dual-purpose front barriers. Window panels shall be removable to facilitate phasing and shall be secured to the enclosure with stainless-steel or zinc-nickel-plated hardware.
@@ -100,7 +109,7 @@ tags: ['Facility', 'Services', 'Electrical', 'Pad', 'Mounted', 'Medium-Voltage',
    1. The enclosure shall be provided with an instruction manual holder.
    1. Lifting tabs shall be removable. Sockets for the lifting-tab bolts shall be blind-tapped. A resilient material shall be placed between the lifting tabs and the enclosure to help prevent corrosion by protecting the finish against scratching by the tabs. To further preclude corrosion, this material shall be closed-cell to prevent moisture from being absorbed and held between the tabs and the enclosure in the event that lifting tabs are not removed.
 1. CONSTRUCTION-ASSEMBLY
-	1. Insulators:
+   1. Insulators:
       1. The interrupter-switch and fuse-mounting insulators shall be of a cycloaliphatic epoxy resin system with characteristics and restrictions as follows:
       1. Operating experience of at least 15 years under similar conditions.
    1. Adequate leakage distance established by test per IEC Publication 507, First Edition, 1975.
@@ -231,26 +240,26 @@ tags: ['Facility', 'Services', 'Electrical', 'Pad', 'Mounted', 'Medium-Voltage',
       1. voltage ratings; main bus continuous rating; short-circuit ratings (amperes RMS symmetrical and mVA three-phase symmetrical at rated nominal voltage); the type of fuse and its maximum ampere rating; and interrupter switch ratings including duty-cycle fault-closing and short-time (momentary, amperes RMS asymmetrical and one-second, amperes RMS symmetrical).
    1. A three-line connection diagram showing interrupter switches, fuses, and bus along with the manufacturer's model number shall be provided on the inside of each door (or set of double doors), and on the inside of each switch-operating-hub access cover.
 1. ACCESSORIES
-	1. Provide one metal oxide, distribution class surge arrester, minimum kV rating as recommended by manufacturer, per IEEE C62.1 and NEMA LA 1, for each phase termination. Solidly ground arresters to switchgear ground bus.
-   1. Provide numbered metering and control wiring where metering components are indicated on drawings. 
-   1. Provide single phase, 60 hertz control power transformer, of kVA as required for load, protected with current limiting primary fuses and secondary main breaker where metering components are indicated on drawings . 
+   1. Provide one metal oxide, distribution class surge arrester, minimum kV rating as recommended by manufacturer, per IEEE C62.1 and NEMA LA 1, for each phase termination. Solidly ground arresters to switchgear ground bus.
+   1. Provide numbered metering and control wiring where metering components are indicated on drawings.
+   1. Provide single phase, 60 hertz control power transformer, of kVA as required for load, protected with current limiting primary fuses and secondary main breaker where metering components are indicated on drawings .
 1. SOURCE QUALITY CONTROL
-	1. Factory Tests 
+   1. Factory Tests
    1. Perform the following breaker tests:
-   1. DC high potential to confirm insulation and vacuum integrity. 
-   1. Mechanical and electrical close and trip operation. 
-   1. Resistance through each pole. 
+   1. DC high potential to confirm insulation and vacuum integrity.
+   1. Mechanical and electrical close and trip operation.
+   1. Resistance through each pole.
    1. Perform the following relay and instrument tests:
-   1. Verify accuracy and operation. 
-   1. Verify transformer ratio and polarity. 
-   1. Verify relay operation. 
+   1. Verify accuracy and operation.
+   1. Verify transformer ratio and polarity.
+   1. Verify relay operation.
 
 ## Products
 
 1. SUMMARY
    1. Pad-mounted equipment shall be installed on concrete pads in accordance with the manufacturers published, standard installation drawings and procedures, except that they shall be modified to meet the requirements of this document. Units shall be carefully installed so as not to damage equipment or scratch painted or coated surfaces. After installation, surfaces shall be inspected and scratches touched up with a paint or coating provided by the manufacturer especially for this purpose. Three phase transformer installations shall be installed with A, B, C phase sequence. Primary taps shall be set at tap to produce nominal secondary voltage.
 1. SWITCHGEAR AND TRANSFORMER PADS
-   1. Exact pad dimensions and mounting details are equipment specific and are the responsibility of the Contractor. Tops of pads shall be level and shall project 4 inches above finished grade and sloped to drain. Conduits for primary and grounding conductors shall be set in place prior to placement of pads. To facilitate cable installation and termination, the pads shall be provided with a rectangular hole below the primary and secondary compartments as indicated, and sized in accordance with the manufacturer's recommended dimensions. 
+   1. Exact pad dimensions and mounting details are equipment specific and are the responsibility of the Contractor. Tops of pads shall be level and shall project 4 inches above finished grade and sloped to drain. Conduits for primary and grounding conductors shall be set in place prior to placement of pads. To facilitate cable installation and termination, the pads shall be provided with a rectangular hole below the primary and secondary compartments as indicated, and sized in accordance with the manufacturer's recommended dimensions.
    1. Bases under switches shall provide 20 inches vertically for cable terminations under the switches. The slab shall be of adequate size to project at least eight inches beyond the equipment. Where grounding electrode conductors are installed through concrete pads, PVC conduit sleeves shall be installed through the concrete to provide physical protection.
 1. SEALING
    1. When the installation is complete, the Contractor shall seal all conduit and other entries into the equipment enclosure with an approved sealing compound. Seals shall be of sufficient strength and durability to protect all energized live parts of the equipment from rodents, insects, or other foreign matter. Cut off and bush conduits three inches above the slab surface.
@@ -259,7 +268,7 @@ tags: ['Facility', 'Services', 'Electrical', 'Pad', 'Mounted', 'Medium-Voltage',
 1. IDENTIFICATION
    1. Provide engraved plastic-laminate signs, per related Division 26 sections of the Specifications, located on the front of each component, indicating equipment, voltages and source.
 1. FIELD QUALITY CONTROL
-	1. Field Tests 
+   1. Field Tests
    1. Prepare for acceptance tests as follows:
       1. Test insulation resistance for each switchgear bus, component, connecting supply, feeder, and control circuit.
    1. Test continuity of each circuit.
@@ -272,7 +281,7 @@ tags: ['Facility', 'Services', 'Electrical', 'Pad', 'Mounted', 'Medium-Voltage',
       1. Owner will engage a qualified independent testing and inspecting agency to perform field tests and inspections and prepare test reports.
    1. Perform the following field tests and inspections and prepare test reports:
       1. Perform each electrical test and visual and mechanical inspection stated in NETA ATS. Certify compliance with test parameters. Perform NETA tests and inspections for each of the following NETA categories:
-            1. Switchgear.
+         1. Switchgear.
    1. Circuit breakers.
    1. Protective relays.
    1. Instrument transformers.
@@ -290,4 +299,3 @@ tags: ['Facility', 'Services', 'Electrical', 'Pad', 'Mounted', 'Medium-Voltage',
       1. Use an infrared-scanning device designed to measure temperature or to detect significant deviations from normal values. Provide calibration record for device.
    1. Record of Infrared Scanning:
       1. Prepare a certified report that identifies switchgear checked and that describes infrared-scanning results. Include notation of deficiencies detected, remedial action taken and observations after remedial action.
-

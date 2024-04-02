@@ -4,14 +4,15 @@ section: '312000'
 divNumb: 31
 divName: Earthwork
 subgroup: Site and Infrastructure
-tags: ['Site', 'Infrastructure', 'Earthwork', 'Earth', 'Moving', 'Owner', 'proj']
+tags:
+  ['Site', 'Infrastructure', 'Earthwork', 'Earth', 'Moving', 'Owner', 'proj']
 ---
 
 ## General
 
 1. RELATED DOCUMENTS
    1. Retain or delete this article in all Sections of Project Manual.
-   1. Drawings and general provisions of the Contract, including General and Supplementary Conditions and Division 01 Specification Sections, apply to this Section. 
+   1. Drawings and general provisions of the Contract, including General and Supplementary Conditions and Division 01 Specification Sections, apply to this Section.
    1. All current Owner standards and specifications shall apply, including but not limited to:
       1. Owner CONSTRUCTION SPECIFICATIONS
 1. SUMMARY
@@ -30,7 +31,7 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Earth', 'Moving', 'Owner', 'proj'
    1. Retain first subparagraph below if elevator work includes cylinder excavation (normally part of elevator work). If retaining, delete "Excavation for Elevator Cylinder" Article.
    1. Divisions 22, 23, 26, 28, and 33 Sections for installing underground mechanical and electrical utilities and buried mechanical and electrical structures.
    1. Division 31 Section "Site Clearing" for site stripping, grubbing, strippingand stockpiling topsoil, and removal of above- and below-grade improvements and utilities.
-   1. Division 31 Section "Dewatering" for lowering and disposing of ground water during 
+   1. Division 31 Section "Dewatering" for lowering and disposing of ground water during
    1. Division 33 Section "Subdrainage" for drainage of foundations and slabs-on-grade.
    1. Retain paragraph below for classified excavation. Measurements are examples only; revise dimensions to suit Project conditions and office standards. Consider separate unit prices for open rock excavation and trench rock excavation.
    1. DEFINITIONS
@@ -144,72 +145,72 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Earth', 'Moving', 'Owner', 'proj'
 
 ## Products
 
-   1. SOIL MATERIALS
-	1. General:
-      1. Provide borrow soil materials when sufficient satisfactory soil materials are not available from excavations.
-   1. On-Site Material:
-      1. All on-site fill material, if allowed by Geotechnical Report, shall be soil or soil-rock mixture which is free from debris, organic matter and other deleterious substance. It shall contain no rocks or lumps over two (2) inches in greatest dimension.
-   1. Structural Fill
-   1. The fill material shall meet the requirements of CDOT Class I Structural Backfill, Section 703.08. Structural fill consists of imported minus 2-inch material, having at least 100 to 30 percent passing the No. 4 sieve, having at least 60 to 10 percent passing the No. 50 sieve and having at least 20 to 5 percent passing the No. 200 sieve a liquid limit less than 35, and plasticity index less than 6.
-   1. Structural fill shall be non-expansive as defined by the Geotechnical Engineer (less than 1 percent under a 200-psf surcharge) when remolded at the required compaction of its intended use.
-   1. Imported Fill Material
-   1. Meet the requirements of Paragraph 2.1 B. above and shall, in addition, be of granular nature with sufficient binder to form a firm and stable unyielding subgrade with a maximum particle size of two (2) inches, less than 40 percent passing the No. 200 sieve, a liquid limit less than 40 and a plasticity index less than 20.
-   1. Clay soils will not be acceptable.
-   1. All imported fill soil shall be non-expansive as defined by the Geotechnical Engineer.
-   1. Revise first two paragraphs below and identify soil materials according to geotechnical engineer's written recommendations. Revise soil groups and size of stone to suit Project. Most soils are classified according to ASTM D 2487. Heavy civil or highway projects may use AASHTO M 145.
-   1. Retain subparagraphs below if required to further qualify satisfactory soil groups.
-   1. Unsatisfactory Soils:
-   1. Imported soils not meeting criteria for imported fill. On-site soils having claystone bedrock concentrations.
-   1. Unsatisfactory soils also include satisfactory soils not maintained within -2 to +2 percent of optimum moisture content for onsite granular soils and 0 to +4 optimum moisture content for the onsite sandy clay materials at the time of compaction.
-   1. Unsatisfactory soils also include satisfactory soils not maintained within 1 to 3 percent of optimum moisture content at time of compaction.
-   1. Terms, descriptions, and gradations of granular soil materials in remaining paragraphs are examples only. Revise to comply with local practices and to suit Project. For example, granular materials may be referenced by state or local highway designations rather than by ASTM classifications.
-   1. Base Course:
-      1. Naturally or artificially graded mixture of natural or crushed gravel, crushed stone, and natural or crushed sand; meeting CDOT Class 6 aggregate base coarse criteria.
-   1. Bedding Course:
-      1. Naturally or artificially graded mixture of natural or crushed gravel, crushed stone, and natural or crushed sand; ASTM D 2940; except with 100 percent passing a 1-inch sieve and not more than 8 percent passing a No. 200 sieve.
-   1. Sand:
-      1. ASTM C 33; fine aggregate.
-   1. Subgrade Soils:
-      1. In conformance with AASHTO A-2-4 and A-2-6 as defined by the Geotechnical Engineer.
-   1. Impervious Fill:
-      1. Gravel, sand and clay mixture capable of compacting to a dense state and providing a surface with relatively low permeability. 
-   1. All fill material shall be subject to approval of the Geotechnical Engineer. All approvals given by Geotechnical Soils Engineer shall not relieve the Contractor of his responsibility to meet the requirements of these specifications and the recommendations of the Geotechnical Report.
-   1. For approval of imported fill material, notify the Geotechnical Engineer at least four (4) working days in advance of intention to import material, designate the proposed borrow areas, and permit the Geotechnical Engineer to sample as necessary from the borrow area for the purpose of performing tests.
-   1. Other Materials:
-      1. All other materials, not specifically described but required for proper completion of the work of this Section, shall be as selected by the Contractor subject to the approval of the Geotechnical Engineer.
-   1. ACCESSORIES
-   1. Retain warning tapes in this article if required. Use may be mandatory for underground hazardous utilities.
-   1. Warning Tape:
-      1. Acid- and alkali-resistant, polyethylene film warning tape manufactured for marking and identifying underground utilities, 6 inches wide and 4 mils thick, continuously inscribed with a description of the utility; colored as follows:
-      1. Revise colors below to comply with local practice or requirements of authorities having jurisdiction.
-   1. Red:
-      1. Electric.
-   1. Yellow:
-      1. Gas, oil, steam, and dangerous materials.
-   1. Orange:
-      1. Telephone and other communications.
-   1. Blue:
-      1. Potable Water systems.
-   1. Green:
-      1. Sewer systems.
-   1. Purple:
-      1. Recycled Water systems.
-   1. Retain paragraph above or paragraph below and revise description, if required, to suit Project. Retain both if required and indicate on Drawings where each tape is used.
-   1. Detectable Warning Tape:
-      1. Install 6 inch wide detectable aluminum foil plastic indicating for buried utility below and installed, 12 to 18 inched below surface grade. Tape must be of color noted below and manufactured by Thortec or equal:
-      1. Revise colors below to comply with local practice or requirements of authorities having jurisdiction.
-   1. Red:
-      1. Electric.
-   1. Yellow:
-      1. Gas, oil, steam, and dangerous materials.
-   1. Orange:
-      1. Telephone and other communications.
-   1. Blue:
-      1. Potable Water systems.
-   1. Green:
-      1. Sewer systems.
-   1. Purple:
-      1. Recycled Water systems.
+1. SOIL MATERIALS
+1. General:
+1. Provide borrow soil materials when sufficient satisfactory soil materials are not available from excavations.
+1. On-Site Material:
+   1. All on-site fill material, if allowed by Geotechnical Report, shall be soil or soil-rock mixture which is free from debris, organic matter and other deleterious substance. It shall contain no rocks or lumps over two (2) inches in greatest dimension.
+1. Structural Fill
+1. The fill material shall meet the requirements of CDOT Class I Structural Backfill, Section 703.08. Structural fill consists of imported minus 2-inch material, having at least 100 to 30 percent passing the No. 4 sieve, having at least 60 to 10 percent passing the No. 50 sieve and having at least 20 to 5 percent passing the No. 200 sieve a liquid limit less than 35, and plasticity index less than 6.
+1. Structural fill shall be non-expansive as defined by the Geotechnical Engineer (less than 1 percent under a 200-psf surcharge) when remolded at the required compaction of its intended use.
+1. Imported Fill Material
+1. Meet the requirements of Paragraph 2.1 B. above and shall, in addition, be of granular nature with sufficient binder to form a firm and stable unyielding subgrade with a maximum particle size of two (2) inches, less than 40 percent passing the No. 200 sieve, a liquid limit less than 40 and a plasticity index less than 20.
+1. Clay soils will not be acceptable.
+1. All imported fill soil shall be non-expansive as defined by the Geotechnical Engineer.
+1. Revise first two paragraphs below and identify soil materials according to geotechnical engineer's written recommendations. Revise soil groups and size of stone to suit Project. Most soils are classified according to ASTM D 2487. Heavy civil or highway projects may use AASHTO M 145.
+1. Retain subparagraphs below if required to further qualify satisfactory soil groups.
+1. Unsatisfactory Soils:
+1. Imported soils not meeting criteria for imported fill. On-site soils having claystone bedrock concentrations.
+1. Unsatisfactory soils also include satisfactory soils not maintained within -2 to +2 percent of optimum moisture content for onsite granular soils and 0 to +4 optimum moisture content for the onsite sandy clay materials at the time of compaction.
+1. Unsatisfactory soils also include satisfactory soils not maintained within 1 to 3 percent of optimum moisture content at time of compaction.
+1. Terms, descriptions, and gradations of granular soil materials in remaining paragraphs are examples only. Revise to comply with local practices and to suit Project. For example, granular materials may be referenced by state or local highway designations rather than by ASTM classifications.
+1. Base Course:
+   1. Naturally or artificially graded mixture of natural or crushed gravel, crushed stone, and natural or crushed sand; meeting CDOT Class 6 aggregate base coarse criteria.
+1. Bedding Course:
+   1. Naturally or artificially graded mixture of natural or crushed gravel, crushed stone, and natural or crushed sand; ASTM D 2940; except with 100 percent passing a 1-inch sieve and not more than 8 percent passing a No. 200 sieve.
+1. Sand:
+   1. ASTM C 33; fine aggregate.
+1. Subgrade Soils:
+   1. In conformance with AASHTO A-2-4 and A-2-6 as defined by the Geotechnical Engineer.
+1. Impervious Fill:
+   1. Gravel, sand and clay mixture capable of compacting to a dense state and providing a surface with relatively low permeability.
+1. All fill material shall be subject to approval of the Geotechnical Engineer. All approvals given by Geotechnical Soils Engineer shall not relieve the Contractor of his responsibility to meet the requirements of these specifications and the recommendations of the Geotechnical Report.
+1. For approval of imported fill material, notify the Geotechnical Engineer at least four (4) working days in advance of intention to import material, designate the proposed borrow areas, and permit the Geotechnical Engineer to sample as necessary from the borrow area for the purpose of performing tests.
+1. Other Materials:
+   1. All other materials, not specifically described but required for proper completion of the work of this Section, shall be as selected by the Contractor subject to the approval of the Geotechnical Engineer.
+1. ACCESSORIES
+1. Retain warning tapes in this article if required. Use may be mandatory for underground hazardous utilities.
+1. Warning Tape:
+   1. Acid- and alkali-resistant, polyethylene film warning tape manufactured for marking and identifying underground utilities, 6 inches wide and 4 mils thick, continuously inscribed with a description of the utility; colored as follows:
+   1. Revise colors below to comply with local practice or requirements of authorities having jurisdiction.
+1. Red:
+   1. Electric.
+1. Yellow:
+   1. Gas, oil, steam, and dangerous materials.
+1. Orange:
+   1. Telephone and other communications.
+1. Blue:
+   1. Potable Water systems.
+1. Green:
+   1. Sewer systems.
+1. Purple:
+   1. Recycled Water systems.
+1. Retain paragraph above or paragraph below and revise description, if required, to suit Project. Retain both if required and indicate on Drawings where each tape is used.
+1. Detectable Warning Tape:
+   1. Install 6 inch wide detectable aluminum foil plastic indicating for buried utility below and installed, 12 to 18 inched below surface grade. Tape must be of color noted below and manufactured by Thortec or equal:
+   1. Revise colors below to comply with local practice or requirements of authorities having jurisdiction.
+1. Red:
+   1. Electric.
+1. Yellow:
+   1. Gas, oil, steam, and dangerous materials.
+1. Orange:
+   1. Telephone and other communications.
+1. Blue:
+   1. Potable Water systems.
+1. Green:
+   1. Sewer systems.
+1. Purple:
+   1. Recycled Water systems.
 
 ## Execution
 
@@ -229,7 +230,7 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Earth', 'Moving', 'Owner', 'proj'
    1. EXCAVATION
    1. Subsection 203.04 (CDOT) shall include the following:
       1. The Contractor shall be responsible for the proper design, installation, use maintenance and removal of all materials and equipment necessary to properly brace trenches per the Occupational Safety and Health Administration, Publication 29 CFR Part 1926. Provide additional shoring or bracing measures in addition to the reference publication requirements as may be necessary to ensure the safety of the work area.
-   1. Excavate for structures, conduits and pipes to elevations and dimensions shown. Extend excavation a sufficient distance from structure foundations to permit placing and removal of formwork, installation of materials, services, and inspection. Hand trim foundation excavations to final grade just before concrete is placed. Remove loose, soft materials, and all organic matter. 
+   1. Excavate for structures, conduits and pipes to elevations and dimensions shown. Extend excavation a sufficient distance from structure foundations to permit placing and removal of formwork, installation of materials, services, and inspection. Hand trim foundation excavations to final grade just before concrete is placed. Remove loose, soft materials, and all organic matter.
    1. Excavate to lines and grades and within the tolerances specified. Remove rocks, boulders, and other obstructions, and dispose of legally, at no additional cost to the Owner.
    1. Excavate to grades indicated on the Drawings.
    1. On cut banks, neatly trim to the required finish surface as the cut progresses. As an alternative, the Contractor may leave the cuts full and then finish grade by mechanical or hand equipment to produce the finish surfaces as indicated on the Drawings.
@@ -247,34 +248,34 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Earth', 'Moving', 'Owner', 'proj'
    1. Trench excavation is unclassified. Complete all excavation regardless of the type of materials encountered. The Contractor shall make his own estimate of the kind and extent of the various materials which will be encountered in the excavation.
    1. Trench Width:
    1. Minimum width of unsheeted trenches in which pipe is to be laid shall be 18 inches greater than the nominal diameter of the pipe, or as approved by the Engineer. Minimum width of trenches for concrete encased ductbanks shall be sufficient to provide necessary clearance for the work and shall comply with all safety requirements. Sheeting requirements shall be independent of trench widths.
-2. The maximum width at the top of the trench will not be limited, except where excess width of excavation would cause damage to adjacent structures or property or where specifically shown on the Drawings.
-3. When approved by the Engineer, the Contractor may use pipe of greater strength or install superior pipe bedding in lieu of maintaining the trench widths shown.
+1. The maximum width at the top of the trench will not be limited, except where excess width of excavation would cause damage to adjacent structures or property or where specifically shown on the Drawings.
+1. When approved by the Engineer, the Contractor may use pipe of greater strength or install superior pipe bedding in lieu of maintaining the trench widths shown.
    1. Grade:
       1. Excavate the trench to the lines and grades shown or as established by the Engineer with proper allowance for pipe thickness and for pipe base or special bedding when required. If the trench is excavated below the required grade, correct any part of the trench excavated below the grade at no additional cost to the owner, with gravel of the type specified for granular pipe base or as approved by the Engineer. Place the gravel over the full width of trench in compacted layers not exceeding 6 inches deep to the established grade with allowance for pipe base or special bedding.
    1. Shoring, Sheeting and Bracing of Trenches:
       1. Sheet and brace the trench when necessary to prevent caving during excavation in unstable material, or to protect adjacent structures, property, workers, and the public. Increase trench widths accordingly by the thickness of the sheeting. Maintain sheeting in place until the pipe has been placed and backfilled at the pipe zone. Shoring and sheeting shall be removed, as the backfilling is done, in a manner that will not damage the pipe or permit voids in the backfill. All sheeting, shoring, and bracing of trenches shall conform to the safety requirements of Federal, State, or local public agency having jurisdiction and the Owner's Construction Safety Program. The most stringent of these requirements shall apply.
    1. Removal of Water:
-   1. Remove and dispose of all water entering the trench excavation during the time the trench is being prepared for the pipe laying, during the laying of the pipe, and until the backfill at the pipe zone has been completed. 
-2. Dispose of the water in a manner to prevent damage to adjacent property. Drainage of trench water through the pipeline under construction is prohibited.
+   1. Remove and dispose of all water entering the trench excavation during the time the trench is being prepared for the pipe laying, during the laying of the pipe, and until the backfill at the pipe zone has been completed.
+1. Dispose of the water in a manner to prevent damage to adjacent property. Drainage of trench water through the pipeline under construction is prohibited.
    1. Handling and Discharge of Trench Water:
    1. Non-Contaminated Water:
       1. The water shall be discharged according to the Federal, State, and local codes and regulations.
-2. Potentially Contaminated Water:
-      1. If there is any evidence of contamination in the water, based on olfactory and/or visual indications, all work in the area shall cease until potential risks are evaluated further, and the water shall be handled as a contaminated material until further sampling and analysis can be conducted. 
+1. Potentially Contaminated Water:
+   1. If there is any evidence of contamination in the water, based on olfactory and/or visual indications, all work in the area shall cease until potential risks are evaluated further, and the water shall be handled as a contaminated material until further sampling and analysis can be conducted.
    1. Pipe Base and Pipe Zone Backfill:
    1. Pipe Base:
-      1. Place granular base for the full width of the trench. The top of the granular base shall be at flow line grade. Bed the pipe in the granular base so that the flow line is at the required grade and elevation. Place and finish the gravel base to grade ahead of the pipe laying operation. All work must conform to Town of Parker and Parker Water and Sanitation District Standards and Specifications. 
-2. Pipe Zone Backfill:
-      1. Backfill the pipe zone to 6 inches above the top outside of the pipe for the full width of the trench with backfill material conforming to granular pipe base, as specified herein. Place in the trench in lifts not exceeding 6 inches in uncompacted thickness on both sides of the pipe. Compact each lift to a minimum of 95 percent of maximum density as determined by AASHTO T180. Controlled low-strength material may be used in place of pipe zone backfill when approved by the Engineer. If publicly owned, work must conform to jurisdictional authority’s requirements. 
+      1. Place granular base for the full width of the trench. The top of the granular base shall be at flow line grade. Bed the pipe in the granular base so that the flow line is at the required grade and elevation. Place and finish the gravel base to grade ahead of the pipe laying operation. All work must conform to Town of Parker and Parker Water and Sanitation District Standards and Specifications.
+1. Pipe Zone Backfill:
+   1. Backfill the pipe zone to 6 inches above the top outside of the pipe for the full width of the trench with backfill material conforming to granular pipe base, as specified herein. Place in the trench in lifts not exceeding 6 inches in uncompacted thickness on both sides of the pipe. Compact each lift to a minimum of 95 percent of maximum density as determined by AASHTO T180. Controlled low-strength material may be used in place of pipe zone backfill when approved by the Engineer. If publicly owned, work must conform to jurisdictional authority’s requirements.
    1. Trench Backfill Above Pipe Zone:
       1. If publicly owned, work must conform to jurisdictional authority’s requirements.
-2. When backfill is placed mechanically, push the backfill material onto the slope of the backfill previously placed and allow to slide down into the trench. Do not push backfill into the trench in such a way as to permit free fall of the material until at least 2 feet of properly placed and compacted cover is provided over the top of the pipe. Under no circumstances allow sharp, heavy pieces of material to drop directly onto the pipe or the tamped material around the pipe. 
-3. Aggregate base backfill, above the pipe zone, shall be of approved or specified material in lifts not exceeding 8 inch loose depth. Compact each lift with mechanical vibrating or impact tampers to a minimum of 95 percent of maximum density as deter+mined by AASHTO T180 and within 2 percent of optimum moisture content. 
-4. Native material backfill and other cohesive soil backfill shall meet the following requirements:
-5. Material shall be moisture conditioned and then placed so that, when compacted, it forms a homogeneous mass free from lenses, pockets, streaks and layers of material differing substantially in texture, moisture content, and gradation.
-6. Backfill shall be placed in uniform horizontal layers (parallel to the finished surface) not exceeding 8 inches loose thickness when compacted with large equipment or not exceeding 6 inches loose thickness in areas compacted with hand-operated equipment, unless otherwise shown or specified.
-7. Each layer of backfill shall be compacted to 95 percent of maximum density as determined by AASHTO T180 and within 2 percent of optimum moisture content.
-8. Native backfill materials, when approved by the Engineer, shall be allowed under areas of pavements, walkways, roadways, and structural project elements.
+1. When backfill is placed mechanically, push the backfill material onto the slope of the backfill previously placed and allow to slide down into the trench. Do not push backfill into the trench in such a way as to permit free fall of the material until at least 2 feet of properly placed and compacted cover is provided over the top of the pipe. Under no circumstances allow sharp, heavy pieces of material to drop directly onto the pipe or the tamped material around the pipe.
+1. Aggregate base backfill, above the pipe zone, shall be of approved or specified material in lifts not exceeding 8 inch loose depth. Compact each lift with mechanical vibrating or impact tampers to a minimum of 95 percent of maximum density as deter+mined by AASHTO T180 and within 2 percent of optimum moisture content.
+1. Native material backfill and other cohesive soil backfill shall meet the following requirements:
+1. Material shall be moisture conditioned and then placed so that, when compacted, it forms a homogeneous mass free from lenses, pockets, streaks and layers of material differing substantially in texture, moisture content, and gradation.
+1. Backfill shall be placed in uniform horizontal layers (parallel to the finished surface) not exceeding 8 inches loose thickness when compacted with large equipment or not exceeding 6 inches loose thickness in areas compacted with hand-operated equipment, unless otherwise shown or specified.
+1. Each layer of backfill shall be compacted to 95 percent of maximum density as determined by AASHTO T180 and within 2 percent of optimum moisture content.
+1. Native backfill materials, when approved by the Engineer, shall be allowed under areas of pavements, walkways, roadways, and structural project elements.
    1. Any subsequent settlement of the finished surfacing during the warranty period shall be considered to be a result of improper or insufficient compaction and shall be promptly repaired by the Contractor at no cost to the Owner.
    1. Revise this article to suit Project. Coordinate with utility Sections in other Divisions.
    1. Excavate trenches to indicated gradients, lines, depths, and elevations.
@@ -290,7 +291,7 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Earth', 'Moving', 'Owner', 'proj'
    1. Too wet to be properly compacted, and circumstances prevent suitable in-place drying prior to incorporation into the work; or
    1. Otherwise unsuitable for the planned use.
    1. Unsuitable materials encountered in the subgrade shall be removed as directed by the Engineer. The excavated area shall be backfilled and compacted with approved material.
-   1. Any removal of Unsuitable Material encountered in the subgrade and not authorized by the Engineer will be considered Unauthorized Excavation. 
+   1. Any removal of Unsuitable Material encountered in the subgrade and not authorized by the Engineer will be considered Unauthorized Excavation.
    1. Owner reserves right to order soil compaction tests made to verify that fill compaction is adequate and meets specified levels. The decision of the Geotechnical Engineer in disputed cases shall be final and the Contractor shall be responsible for remedial measures required, at no additional cost to the Owner.
    1. SUBGRADE INSPECTION
    1. Notify Geotechnical Engineer when excavations have reached required subgrade.
@@ -348,14 +349,14 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Earth', 'Moving', 'Owner', 'proj'
    1. Retain one option in paragraph below based on ASTM laboratory-test method required. Replace the term "unit weight" with "density" if preferred.
    1. Compact soil materials to not less than the following percentages of maximum dry unit weight according to ASTM D1667 for structural fill and ASTM D698 for all other soil materials:
       1. Under structure foundations, excavate the existing subgrade to a minimum depth of 6 feet below the proposed bottom of foundations at a projection of 1:1 away from the base of the foundation. Recompact each layer of structural fill to at least 95 percent ASTM D1667.
-   1. Under floor slabs top 18 inches of existing acceptable subgrade and each layer of backfill or fill soil material, recompact to at least 95 percent. 
+   1. Under floor slabs top 18 inches of existing acceptable subgrade and each layer of backfill or fill soil material, recompact to at least 95 percent.
    1. Retaining wall backfill, recompact to at least 95 percent.
    1. Under pavements and walkways, scarify and recompact top 8 inches below subgrade and compact each layer of backfill or fill soil material at 95 percent.
    1. Under turf or unpaved areas, scarify and recompact top 6 inches below subgrade and compact each layer of backfill or fill soil material to at least 90 percent.
    1. For utility trenches, compact each layer of initial and final backfill soil material to at least 95 percent.
    1. GRADING
-	1. General:
-      1. Uniformly grade areas to a smooth surface, free of irregular surface changes. Comply with compaction requirements and grade to cross sections, lines, and elevations indicated.
+   1. General:
+   1. Uniformly grade areas to a smooth surface, free of irregular surface changes. Comply with compaction requirements and grade to cross sections, lines, and elevations indicated.
    1. Provide a smooth transition between adjacent existing grades and new grades.
    1. Cut out soft spots, fill low spots, and trim high spots to comply with required surface tolerances.
    1. Site Rough Grading:
@@ -411,5 +412,4 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Earth', 'Moving', 'Owner', 'proj'
    1. Retain one of two paragraphs below.
    1. Remove surplus satisfactory soil and waste materials, including unsatisfactory soil, trash, and debris, and legally dispose of them off Owner's property.
    1. Transport surplus satisfactory soil to designated storage areas on Owner's property. Stockpile or spread soil as directed by Architect.
-31 20 00
-
+      31 20 00

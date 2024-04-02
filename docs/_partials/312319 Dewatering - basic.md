@@ -7,18 +7,13 @@ subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Earthwork', 'Dewatering', 'basic']
 ---
 
-
-1. DEWATERING
-1. NOTE TO SPECIFIER ** This is a generic ARCAT specification, provided in the style and format of all ARCAT manufacturer's specifications. The Notes to Specifier are intended to provide guidance in editing the text. Delete and add text as required for your individual project.
-
 ## General
 
-
-1. NOTE TO SPECIFIER ** Delete items below not required for project.
+1. NOTE TO SPECIFIER \*\* Delete items below not required for project.
    1. Dewatering system.
    1. Observation wells.
    1. RELATED SECTIONS
-1. NOTE TO SPECIFIER ** Delete any sections below not relevant to this project; add others as required.
+1. NOTE TO SPECIFIER \*\* Delete any sections below not relevant to this project; add others as required.
    1. Section 31 20 00 - Earth Moving.
 1. SUBMITTALS
    1. Submit under provisions of Section 01 30 00 - Administrative Requirements.
@@ -37,12 +32,12 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Dewatering', 'basic']
    1. Ensure that products of this section are supplied to affected trades in time to prevent interruption of construction progress.
    1. - products
    1. MANUFACTURERS (Not Used)
-1. NOTE TO SPECIFIER ** Insert acceptable manufacturers. To research manufacturers, search www.arcat.com for the title of this section.
+1. NOTE TO SPECIFIER \*\* Insert acceptable manufacturers. To research manufacturers, search www.arcat.com for the title of this section.
    1. MATERIALS
    1. Dewatering:
    1. Provide a system to lower and control groundwater in order to permit construction activities. Install sufficient dewatering equipment to drain water-bearing strata above and below bottom of foundations, drains, and other excavations.
    1. Operate dewatering system continuously until dewatering is no longer required. Dispose of water removed from excavations in a manner to avoid endangering public health, property, and portions of work under construction or completed. Provide flow control devices as required by governing authorities.
-1. NOTE TO SPECIFIER ** Delete if not required.
+1. NOTE TO SPECIFIER \*\* Delete if not required.
    1. Observation Wells:
       1. Provide, take measurements, and maintain observation wells indicated and additional observation wells as may be required by governing authorities.
    1. Remove observation wells when dewatering is completed.
@@ -59,5 +54,3 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Dewatering', 'basic']
    1. Establishment and monitoring of observation wells.
    1. Legal disposal of water removed from excavations.
    1. Removal of observation wells when no longer required.
-
-

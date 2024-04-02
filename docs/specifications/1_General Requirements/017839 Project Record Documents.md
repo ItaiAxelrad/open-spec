@@ -7,7 +7,6 @@ subgroup: General Requirements
 tags: ['General', 'Requirements', 'Project', 'Record', 'Documents']
 ---
 
-
 ## General
 
 1. SUMMARY

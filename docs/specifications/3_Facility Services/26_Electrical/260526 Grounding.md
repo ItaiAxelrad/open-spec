@@ -7,7 +7,6 @@ subgroup: Facility Services
 tags: ['Facility', 'Services', 'Electrical', 'Grounding']
 ---
 
-
 ## General
 
 1. RELATED DOCUMENTS
@@ -35,36 +34,36 @@ tags: ['Facility', 'Services', 'Electrical', 'Grounding']
 
 ## Products
 
-   1. manufacturers
-   1. Components as manufactured by:
-      1. Copperweld
-   1. Blackburn
-   1. Weaver
-   1. Burndy
-   1. Thomas and Betts
-   1. materials
-   1. Provide bonding jumpers and wire, grounding bushings, clamps and appurtenances required for complete grounding system to bond equipment and raceways to equipment grounding conductors.
-   1. Ground Rods
-   1. Unless shown otherwise on the Drawings, the ground rods shall be a minimum of 3/4 inch in diameter and 10 feet long and have a uniform covering of electrolytic copper metallically bonded to a rigid steel core. The copper to steel bond shall be corrosion resistant.
-   1. Shall conform to ANSI/UL 467.
-   1. Sectional type joined by threaded copper alloy couplings.
-   1. Ground Cable:
-      1. All ground cable shall be annealed, concentrically stranded, bare copper. Grounding cable size shall be as shown on the Drawings or as required by the NEC.
-   1. Ground Bus:
-      1. Each ground bar shall consist of 98% conductivity bare copper bus, dimensions as indicated on the drawings. Bus shall be pre-drilled for two hole lugs and be provided with insulated wall mounting stand-offs.
-   1. Provide complete grounding system including but not limited to:
-      1. Ground rods
-   1. Bonding conductors.
-   1. Compression ground grid connectors.
-   1. Connections to equipment.
-   1. Grounding system identification.
-   1. Bolted Connectors:
-      1. The bolted type grounding connector shall be made of high copper alloy and manufactured specifically for the particular grounding application. The connector shall be Burndy, O.Z. Gedney, or equal.
-   1. Mount bar on insulators so as to ensure that there is only one connection to building steel.
-   1. Equipment Grounding Circuit Conductor:
-      1. This conductor shall be the same type and insulation as the load circuit conductors. The minimum size shall be as outlined in Table 250-95 of the National Electrical Code, unless shown otherwise on the drawings.
-   1. Shall be present in all raceways. The conduit system is not an allowable equipment ground.
-   1. Use of salts, water or compounds to attain the specified ground resistance is not acceptable.
+1.  manufacturers
+1.  Components as manufactured by:
+    1. Copperweld
+1.  Blackburn
+1.  Weaver
+1.  Burndy
+1.  Thomas and Betts
+1.  materials
+1.  Provide bonding jumpers and wire, grounding bushings, clamps and appurtenances required for complete grounding system to bond equipment and raceways to equipment grounding conductors.
+1.  Ground Rods
+1.  Unless shown otherwise on the Drawings, the ground rods shall be a minimum of 3/4 inch in diameter and 10 feet long and have a uniform covering of electrolytic copper metallically bonded to a rigid steel core. The copper to steel bond shall be corrosion resistant.
+1.  Shall conform to ANSI/UL 467.
+1.  Sectional type joined by threaded copper alloy couplings.
+1.  Ground Cable:
+    1. All ground cable shall be annealed, concentrically stranded, bare copper. Grounding cable size shall be as shown on the Drawings or as required by the NEC.
+1.  Ground Bus:
+    1. Each ground bar shall consist of 98% conductivity bare copper bus, dimensions as indicated on the drawings. Bus shall be pre-drilled for two hole lugs and be provided with insulated wall mounting stand-offs.
+1.  Provide complete grounding system including but not limited to:
+    1. Ground rods
+1.  Bonding conductors.
+1.  Compression ground grid connectors.
+1.  Connections to equipment.
+1.  Grounding system identification.
+1.  Bolted Connectors:
+    1. The bolted type grounding connector shall be made of high copper alloy and manufactured specifically for the particular grounding application. The connector shall be Burndy, O.Z. Gedney, or equal.
+1.  Mount bar on insulators so as to ensure that there is only one connection to building steel.
+1.  Equipment Grounding Circuit Conductor:
+    1. This conductor shall be the same type and insulation as the load circuit conductors. The minimum size shall be as outlined in Table 250-95 of the National Electrical Code, unless shown otherwise on the drawings.
+1.  Shall be present in all raceways. The conduit system is not an allowable equipment ground.
+1.  Use of salts, water or compounds to attain the specified ground resistance is not acceptable.
 
 ## Execution
 
@@ -133,4 +132,3 @@ tags: ['Facility', 'Services', 'Electrical', 'Grounding']
    1. adjusting
    1. Under the direction of the Engineer the Contractor shall add additional parallel connected ground rods and/or deeper driven rods until the ground resistance measurement meets the resistance requirements of the Engineer. Additional work performed by the Contractor shall be under a separate contract using documented per unit values for the additional Work.
 1. (THIS PAGE INTENTIONALLY BLANK)
-

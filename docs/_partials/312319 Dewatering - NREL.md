@@ -7,9 +7,6 @@ subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Earthwork', 'Dewatering', 'Owner']
 ---
 
-
-1. DEWATERING
-
 ## General
 
 1. RELATED DOCUMENTS
@@ -57,7 +54,8 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Dewatering', 'Owner']
    1. During dewatering, regularly resurvey benchmarks, maintaining an accurate log of surveyed elevations for comparison with original elevations. Promptly notify Architect if changes in elevations occur or if cracks, sags, or other damage is evident in adjacent construction.
 
 ## Products
- (NOT USED)
+
+(NOT USED)
 
 ## Execution
 
@@ -84,5 +82,3 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Dewatering', 'Owner']
    1. Observe and record daily elevation of ground water and piezometric water levels in observation wells.
    1. Repair or replace, within 24 hours, observation wells that become inactive, damaged, or destroyed. Suspend construction activities in areas where observation wells are not functioning properly until reliable observations can be made. Add or remove water from observation-well risers to demonstrate that observation wells are functioning properly.
    1. Fill observation wells, remove piezometers, and fill holes when dewatering is completed.
-   
-

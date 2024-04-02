@@ -31,7 +31,7 @@ tags: ['Facility', 'Construction', 'Specialties', 'Lockers']
       1. Verify the following by field measurements before fabrication and indicate measurements on Shop Drawings.
    10. Coordinate sizes and locations of framing, blocking, furring, reinforcements, and other related units of Work specified in other Sections to ensure that metal lockers can be supported and installed as indicated.
    11. Special Warranty:
-      2. Manufacturer's standard form in which manufacturer agrees to repair or replace components of metal lockers that fail in materials or workmanship, excluding finish, within 10 years.
+   12. Manufacturer's standard form in which manufacturer agrees to repair or replace components of metal lockers that fail in materials or workmanship, excluding finish, within 10 years.
 
 ## Product
 
@@ -46,8 +46,8 @@ tags: ['Facility', 'Construction', 'Specialties', 'Lockers']
       1. Zinc- or nickel-plated steel, slotless-type exposed bolt heads, and self-locking nuts or lock washers for nuts on moving parts.
    1. Anchors:
       1. Select material, type, size, and finish required for secure anchorage to each substrate.
-   2. Provide nonferrous-metal or hot-dip galvanized anchors and inserts on inside face of exterior walls and elsewhere as required for corrosion resistance.
-   3. Provide toothed-steel or lead expansion sleeves for drilled-in-place anchors.
+   1. Provide nonferrous-metal or hot-dip galvanized anchors and inserts on inside face of exterior walls and elsewhere as required for corrosion resistance.
+   1. Provide toothed-steel or lead expansion sleeves for drilled-in-place anchors.
 2. MANUFACTURERS
    1. Solid Plastic Lockers:
       1. Subject to compliance with requirements, manufacturers offering products that may be incorporated into the work include, but are not limited to, the following:
@@ -78,49 +78,48 @@ tags: ['Facility', 'Construction', 'Specialties', 'Lockers']
    6. Finished End Panels:
       1. Fabricated from 0.024-inch nominal-thickness steel sheet.
 5. LOCKER BENCHES
-	1. General:
+   1. General:
       1. Provide locker benches fabricated by same manufacturer as metal lockers.
    1. Bench Tops:
       1. Manufacturer's standard 1-piece units, of the following material, minimum 9-1/2 inches wide by 1-1/4 inches thick, with rounded corners and edges:
       2. Hardwood with one coat of clear sealer on all surfaces, and one coat of clear lacquer on top and sides.
       3. Species:
          1. Natural Maple.
-   2. Fixed Pedestals:
+   1. Fixed Pedestals:
       1. Manufacturer's standard supports, with predrilled fastener holes for attaching bench top and anchoring to floor, complete with fasteners and anchors, and as follows:
       2. Tubular Steel:
          1. 1-1/4-inch- diameter steel tubing, with 0.1265-inch- thick steel flanges welded at top and base; with zinc-plated finish; anchored with exposed fasteners.
       3. Color:
          1. As selected by Architect from manufacturer's full range.
-6.  FABRICATION
-   3. Fabrication:
-      1. Fabricate each locker with an individual door and frame; individual top, bottom, back, and shelves; and common intermediate uprights separating compartments.
-    1.  Locker components shall be fabricated square and rigid with a finish free of scratches and chips. All sides, tops, bottoms, rears, doors, and shelves shall be coated on one side with protective plastic masking.
-    2.  Solid plastic locker components shall snap together for easy assembly and shall provide a solid and secure construction. Adjacent lockers shall share a common side panel.
-7.  FINISHES
-	2. General:
-      1. Comply with NAAMM's "Metal Finishes Manual for Architectural and Metal Products" for recommendations for applying and designating finishes.
-   1. Factory finish steel surfaces and accessories except stainless-steel and chrome-plated surfaces.
-   2. Surface Preparation:
-      1. Clean surfaces of dirt, oil, grease, mill scale, rust, and other contaminants that could impair paint bond. Use manufacturer's standard methods.
+6. FABRICATION
+7. Fabrication:
+   1. Fabricate each locker with an individual door and frame; individual top, bottom, back, and shelves; and common intermediate uprights separating compartments.
+8. Locker components shall be fabricated square and rigid with a finish free of scratches and chips. All sides, tops, bottoms, rears, doors, and shelves shall be coated on one side with protective plastic masking.
+9. Solid plastic locker components shall snap together for easy assembly and shall provide a solid and secure construction. Adjacent lockers shall share a common side panel.
+10. FINISHES 2. General:
+    1. Comply with NAAMM's "Metal Finishes Manual for Architectural and Metal Products" for recommendations for applying and designating finishes.
+11. Factory finish steel surfaces and accessories except stainless-steel and chrome-plated surfaces.
+12. Surface Preparation:
+    1. Clean surfaces of dirt, oil, grease, mill scale, rust, and other contaminants that could impair paint bond. Use manufacturer's standard methods.
 
 ## Execution
 
 1. INSTALLATION
-	1. General:
+   1. General:
       1. Install level, plumb, and true; shim as required, using concealed shims.
    1. Anchor locker runs at ends and at intervals recommended by manufacturer, but not more than 36 inches o.c. Install anchors through backup reinforcing plates, channels, or blocking as required to prevent metal distortion, using concealed fasteners.
-   2. Equipment and Accessories:
+   1. Equipment and Accessories:
       1. Fit exposed connections of trim, fillers, and closures accurately together to form tight, hairline joints, with concealed fasteners and splice plates.
-   3. Attach door locks on doors using security-type fasteners.
-   4. Identification Plates:
+   1. Attach door locks on doors using security-type fasteners.
+   1. Identification Plates:
       1. Attach plates to each locker door, near top, centered, with at least two aluminum rivets.
-   5. Attach filler panels with concealed fasteners. Locate fillers panels where indicated on
-   6. Drawings.
-   7. Attach sloping top units to metal lockers, with closures at exposed ends.
-   8. Attach boxed end panels with concealed fasteners to conceal exposed ends of nonrecessed metal lockers.
-   9. Attach finished end panels with fasteners only at perimeter to conceal exposed ends of nonrecessed metal lockers.
-   10. Fixed Locker Benches:
-      1. Provide not less than 2 pedestals for each bench and uniformly spaced not more than 72 inches apart. Securely fasten tops of pedestals to undersides of bench tops, and anchor bases to floor.
+   1. Attach filler panels with concealed fasteners. Locate fillers panels where indicated on
+   1. Drawings.
+   1. Attach sloping top units to metal lockers, with closures at exposed ends.
+   1. Attach boxed end panels with concealed fasteners to conceal exposed ends of nonrecessed metal lockers.
+   1. Attach finished end panels with fasteners only at perimeter to conceal exposed ends of nonrecessed metal lockers.
+   1. Fixed Locker Benches:
+   1. Provide not less than 2 pedestals for each bench and uniformly spaced not more than 72 inches apart. Securely fasten tops of pedestals to undersides of bench tops, and anchor bases to floor.
 2. ADJUSTING, CLEANING, AND PROTECTION
    1. Clean, lubricate, and adjust hardware. Adjust doors and latches to operate easily without binding. Verify that locking devices operate properly.
    2. Protect lockers from damage, abuse, dust, dirt, stain, or paint. Do not permit locker use during construction.

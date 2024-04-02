@@ -4,7 +4,19 @@ section: '230500'
 divNumb: 23
 divName: Heating Ventilating and Air Conditioning
 subgroup: Facility Services
-tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 'Common', 'Work', 'Results', 'HVAC']
+tags:
+  [
+    'Facility',
+    'Services',
+    'Heating',
+    'Ventilating',
+    'Air',
+    'Conditioning',
+    'Common',
+    'Work',
+    'Results',
+    'HVAC',
+  ]
 ---
 
 ## General
@@ -86,8 +98,8 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Escutcheons
       1. General, all Division 23 sections of the Specifications:
       2. Follow the procedures specified in Division 1. Prepare maintenance manuals in accordance with Division 1 sections of the Specifications.
-   2. Welder certificates signed by Contractor certifying that welders comply with requirements specified under the “Quality Assurance” article of this section.
-2. QUALITY ASSURANCE
+   1. Welder certificates signed by Contractor certifying that welders comply with requirements specified under the “Quality Assurance” article of this section.
+1. QUALITY ASSURANCE
    1. Qualify welding processes and operators for structural steel according to AWS D1.1.
    2. All welding on pressure piping shall conform with the requirements of the American National Standard Code for Pressure Piping, ANSI B31.3, "Chemical Plant and Petroleum Refinery Piping." All welds on piping having working pressures of 300 psig or greater shall be subjected to a full X-ray examination and will not be accepted until all welds meet the requirements of ANSI B31.1, "Power Piping." Faulty welds shall be removed at no additional cost to Owner. X-ray testing shall be performed by others at no additional cost to the Contractor.
    3. Certify that each welder has passed AWS qualification tests for the welding processes involved and that certification is current.
@@ -95,7 +107,7 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
       1. Prior to installation and acceptance, any power boiler, low-pressure heating boiler, or unfire pressure vessel operated at pressures of 15 pounds per square inch or greater, furnished under this contract will be stamped with ASME Boiler and Pressure Vessel Code Symbol and a National Board of Boiler and Pressure Vessel Inspector's number, thus certifying that the vessel has been fabricated and tested per the provisions of the ASME Boiler and Pressure Vessel Code. Manufacturers' data reports (unless exempted by the ASME Code) will be filed with the National Board in Columbus, Ohio. Two copies of these data reports shall be submitted to Owner. Testing, certification, and registration will be at the expense of the Contractor.
    5. Electrical Characteristics for Plumbing Equipment:
       1. Equipment of higher electrical characteristics may be furnished provided such proposed equipment is approved in writing and connecting electrical services, circuit breakers, and conduit sizes are appropriately modified. If minimum energy ratings or efficiencies are specified, equipment shall comply with requirements.
-3. DELIVERY, STORAGE, AND PROTECTION
+1. DELIVERY, STORAGE, AND PROTECTION
    1. Deliver pipes and tubes with factory-applied end caps. Maintain end caps through shipping, storage, and handling to prevent pipe-end damage and prevent entrance of dirt, debris, and moisture.
    2. Protect stored pipes and tubes from moisture and dirt. Elevate above grade. When stored inside, do not exceed structural capacity of the floor.
    3. Protect flanges, fittings, and piping specialties from moisture and dirt.
@@ -103,17 +115,17 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    5. Materials and equipment furnished by others.
    6. When equipment or materials are indicated to be furnished by others (F.B.O.) or by government furnished equipment (GFE) to the CONTRACTOR for installation and connection, the CONTRACTOR shall make a complete check of all materials and furnish a receipt to the Owner detailing the products received and the condition of the products delivered to him. After executing the receipt and acceptance by the CONTRACTOR, the CONTRACTOR shall assume full responsibility for the safe keeping, handling, and installation of the materials and equipment furnished by others or furnished by government, until completed installation and final approval by the Owner Technical Representative.
    7. If the CONTRACTOR fails to issue said receipt it shall be assumed that all equipment and materials were then delivered to the CONTRACTOR in the proper quantities and in perfect condition.
-4. PROJECT SITE CONDITIONS
+1. PROJECT SITE CONDITIONS
    1. Altitude Ratings:
       1. Unless otherwise noted, all specified equipment capacities, air quantities, etc., are for an altitude of 6,000 feet above sea level. Adjustments to manufacturers' ratings must be made accordingly.
-5. SEQUENCING AND SCHEDULING
+1. SEQUENCING AND SCHEDULING
    1. Coordinate mechanical piping and equipment installation with other building components.
    2. Arrange for chases, slots, and openings in building structure during progress of construction, to allow for mechanical installations.
    3. Coordinate the installation of required supporting devices and set sleeves in poured-in-place concrete and other structural components, as they are constructed.
    4. Sequence, coordinate, and integrate installations of mechanical materials and equipment for efficient flow of the work. Coordinate installation of large equipment requiring positioning prior to closing in the building.
    5. Interruption of Mechanical Utilities:
       1. The Contractor shall not interrupt any main interior or exterior mechanical utility without written request for an outage and a subsequent approval of Owner Construction Manager nor shall he interrupt any branch line to an outlet or item of equipment without approval from the Owner Construction Manager.
-   6. Written request for outages shall be submitted seven calendar days in advance of the outage date. This request will delineate the particular utility or service in question, the time the service will be interrupted and the approximate hours the utility shall be off. 
+   6. Written request for outages shall be submitted seven calendar days in advance of the outage date. This request will delineate the particular utility or service in question, the time the service will be interrupted and the approximate hours the utility shall be off.
    7. Unless otherwise noted on the drawings, or directed, any tie-ins or connections to existing utilities or equipment that necessitate interruptions of service shall be performed on a during non standard hours
    8. The work to be performed during the interruption, will be preceded by all possible preparation, and will be carefully coordinated to minimize the duration of the interruption and work will proceed continuously until the system is restored to normal.
    9. Unless otherwise directed, the manipulation of existing main valves to isolate piping, the shutdown of fans, pumps, and other equipment will be done by Owner maintenance personnel.
@@ -223,99 +235,99 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
 
 1. ERECTION INSTALLATION APPLICATION
    1. Piping Systems - Common Requirements:
-	1. General:
-         1. Install piping as described below, except where system sections specify otherwise. Individual piping system specification sections in Division 23 specify piping installation requirements unique to the piping system.
+   1. General:
+      1. Install piping as described below, except where system sections specify otherwise. Individual piping system specification sections in Division 23 specify piping installation requirements unique to the piping system.
    1. General Locations and Arrangements:
       1. Drawings (plans, schematics, and diagrams) indicate general location and arrangement of piping systems. Indicated locations and arrangements were used to size pipe and calculate friction loss, expansion, pump sizing, and other design considerations. Install piping as indicated, except where deviations to layout are approved on coordination drawings.
-   2. Install piping at indicated slope.
-   3. Install components having pressure rating equal to or greater than system operating pressure.
-   4. Install piping in concealed interior and exterior locations, except in equipment rooms and service areas.
-   5. Install piping free of sags and bends.
-   6. Install exposed interior and exterior piping at right angles or parallel to building walls. Diagonal runs are prohibited, except where indicated.
-   7. Install piping tight to slabs, beams, joists, columns, walls, and other building elements. Allow sufficient space above removable ceiling panels to allow for ceiling panel removal.
-   8. Install piping to allow application of insulation plus 1-inch clearance around insulation.
-   9. Locate groups of pipes parallel to each other, spaced to permit valve servicing.
-   10. Install fittings for changes in direction and branch connections.
-   11. Escutcheons:
-      1. Where uncovered exposed pipes pass through floors, finished walls, or finished ceilings, they shall be fitted with chromium-plated cast-brass plates on chromium-plated pipe, or with cast-iron or steel plates on ferrous pipe. Plates shall be large enough to completely close the holes around the pipes and shall be square, octangular, or round, with the least dimension not less than 1-1/2 inches or more than 2-1/2 inches larger than the diameter of the pipe. Plates shall be secured in an approved manner.
-   12. Install sleeves for pipes passing through concrete and masonry walls, concrete floor and roof slabs, and where indicated.
-   13. Above Grade, Exterior Wall, and Pipe Penetrations:
-      2. Seal penetrations using sleeves and mechanical sleeve seals. Size sleeve for 1-inch annular clear space between pipe and sleeve for installation of mechanical seals.
-   14. Install steel pipe for sleeves smaller than 6 inches.
-   15. Install cast-iron wall pipes for sleeves 6 inches and larger.
-   16. Assemble and install mechanical seals according to manufacturer's printed instructions.
-   17. Below Grade, Exterior Wall, and Pipe Penetrations:
-      3. Install cast-iron "wall pipes" for sleeves. Seal pipe penetrations using mechanical sleeve seals. Size sleeve for 1-inch annular clear space between pipe and sleeve for installation of mechanical seals.
-   18. Below Grade, Exterior Wall, and Pipe Penetrations:
-      4. Install ductile-iron wall penetration system sleeves according to manufacturer's printed installation instructions.
-   19. Verify final equipment locations for roughing in.
-   20. See equipment specifications in other sections of these specifications for roughing-in requirements.
-   21. Piping Joint Construction:
-      5. Join pipe and fittings as follows and as specifically required in individual piping system specification sections.
-   22. Ream ends of pipes and tubes and remove burrs. Bevel plain ends of steel pipe.
-   23. Remove scale, slag, dirt, and debris from inside and outside of pipe and fittings before assembly.
-   24. Soldered Joints:
-      6. Construct joints according to AWS "Soldering Manual."
-   25. Brazed Joints:
-      7. Construct joints according to AWS "Brazing Manual."
-   26. Threaded Joints:
-      8. Thread pipe with tapered pipe threads according to ASME B1.20.1.
-   27. Flanged Joints:
-      9. Align flange surfaces parallel. Select appropriate gasket material, size, type, and thickness for service application. Install gasket concentrically positioned. Assemble joints by sequencing bolt tightening to make initial contact of flanges and gaskets as flat and parallel as possible. Use suitable lubricants on bolt threads. Tighten bolts gradually and uniformly using torque wrench.
-   28. Piping Connections:
-      10. Except as otherwise indicated, make piping connections as specified below.
-   29. Install unions, in piping 2 inches and smaller, adjacent to each valve and at final connection to each piece of equipment having 2-inches or smaller threaded pipe connection.
-   30. Install flanges, in piping 2-1/2 inches and larger, adjacent to flanged valves and at final connection to each piece of equipment having flanged pipe connection.
-   31. Dry Piping Systems (Gas, Compressed Air, and Vacuum):
-      11. Install dielectric unions and flanges to connect piping materials of dissimilar metals.
-   32. Wet Piping Systems (Water and Steam):
-      12. Install dielectric coupling and nipple fittings to connect piping materials of dissimilar metals.
-   33. Equipment Installation - Common Requirements:
-      13. Install equipment to provide the maximum possible head room, where mounting heights are not indicated.
-   34. Install equipment according to approved submittal data. Portions of the Work are shown only in diagrammatic form. Refer conflicts to the Owner.
-   35. Install equipment level and plumb, parallel and perpendicular to other building systems and components in exposed interior spaces, except where otherwise indicated.
-   36. Install mechanical equipment to facilitate servicing, maintenance, and repair or replacement of equipment components. Connect equipment for ease of disconnecting, with minimum of interference with other installations. Extend grease fittings to an accessible location.
-   37. Install equipment giving right-of-way to piping systems installed at a required slope.
-   38. Shaft Alignment:
-      14. All motors and pumps (or drives) connected by a shaft coupling, whether factory or field assembled, shall be aligned during installation using a dial indicator applied to both ends of both shafts for a full 360 degrees prior to operation. Alignment of the shafts shall be less than the maximum allowable tolerances as recommended by the coupling or equipment manufacturer. Alignment of shafts shall be rechecked after several hours of operation and equipment has reached operating temperature.
-   39. Painting and Finishing:
-      15. Field painting requirements are specified in Division 9 sections of the Specifications.
-   40. Damage and Touch-Up:
-      16. Repair marred and damaged factory-painted finishes with materials and procedures to match original factory finish.
-   41. Identification Tags and Labels:
-      17. Materials:
-            1. Pipe Labels:
-               1. Pipe labels shall be self-adhesive labels, all temperature Perma-Code pipe markers No. B-500, manufactured by the W. H. Brady Company. The background color code for all markers shall conform to the American National Standard ANSI A-13.1 "Scheme for the Identification of Piping Systems." This standard establishes four basic backgrounds as follows:
-      18. Yellow for dangerous materials, bright blue for protective materials, red for fire protection equipment, and green for safe materials.
-   42. Tags:
-      19. Tags shall be aluminum, brass or laminated plastic 2" x 1" minimum with edges ground smooth or rolled. Each tag shall be punched to receive tie wires or chain. Letters and Numbers shall be evenly spaced and stamped or engraved into the surface.
-   43. Installation:
-      20. Identification of Piping:
-            1. Identify all piping according to the following procedures:
-         1. Bare pipes to be marked shall first be wiped clean of dirt, dust, grease, and moisture. Markers to be installed on painted piping shall be applied only after completion of final coat of paint. Insulated pipes shall first be painted to a smooth, hard surface in the area the label is to be applied. Labels shall be applied, using pressure, so that it lies smooth and flat. After application on insulated pipes, the label shall be stapled securely to the insulation. The labels shall be applied to the pipe so that the lettering is in the most legible position. For overhead piping apply markers on the lower half of the pipe where view is unobstructed, so that markers can be read at a glance from floor level. The wording on the labels shall correspond directly to the wording in the mechanical symbol lists, regardless of whether or not it is standard wording for the designated manufacturer.
-   44. Use an arrow marker with each pipe content marker. The arrow shall always point away from the pipe marker and in the direction of flow, with background color and height the same as content marker. If flow can be in both directions, use two arrow markers.
-   45. Apply pipe marker and arrow marker at each valve, at every point of pipe entry or exit through wall or ceiling, on each riser and branch of tee, and every 20 feet on long continuous lines or at every bay or aisle to show proper identification of pipe content and direction of flow.
-   46. Valves:
-      21. All main service valves, including fire protection, located inside the building shall be tagged and identified as to the type of service. All valves controlling branch mains or risers to various portions of the building shall be tagged and identified as to the areas served.
-   47. Controls:
-      22. All automatic controls, control panels, zone valves, pressure electric, electric pressure switches, relays and starters shall be clearly tagged and identified. Wording shall be identical to that on the control diagram in the contract drawings.
-   48. Pumps:
-      23. All pumps shall be identified as to service with aluminum or brass tags secured by tie wires.
-   49. Concrete Bases:
-      24. Construct concrete equipment bases of dimensions indicated, but not less than 4 inches larger in both directions than supported unit. Follow supported equipment manufacturer's setting templates for anchor bolt and tie locations. Use 3000 psi, 28-day compressive strength concrete and reinforcement as specified in Division 3 sections of the Specifications. Housekeeping pads under pumps, etc. shall be 3-1/2 inches thick with #4 reinforcing bars 12 inches on center each way unless otherwise noted.
-   50. Erection of Metal Supports and Anchorage:
-      25. Cut, fit, and place miscellaneous metal supports accurately in location, alignment, and elevation to support and anchor mechanical materials and equipment.
-   51. Field Welding:
-      26. Comply with AWS D1.1 "Structural Welding Code - Steel."
-   52. Cutting and Patching:
-      27. Cut, channel, chase, and drill floors, walls, partitions, ceilings, and other surfaces necessary for mechanical installations. Perform cutting by skilled mechanics of the trades involved.
-   53. Repair cut surfaces to match adjacent surfaces.
-   54. Grouting:
-      28. Install nonmetallic, nonshrink grout for mechanical equipment base bearing surfaces, pump and other equipment base plates and anchors. Mix grout according to manufacturer's printed instructions.
-   55. Clean surfaces that will come into contact with grout.
-   56. Provide forms for placement of grout, as required.
-   57. Avoid air entrapment when placing grout.
-   58. Place grout, completely filling equipment bases.
-   59. Place grout on concrete bases to provide a smooth bearing surface for equipment.
-   60. Place grout around anchors.
-   61. Cure placed grout according to manufacturer's printed instructions.
+   1. Install piping at indicated slope.
+   1. Install components having pressure rating equal to or greater than system operating pressure.
+   1. Install piping in concealed interior and exterior locations, except in equipment rooms and service areas.
+   1. Install piping free of sags and bends.
+   1. Install exposed interior and exterior piping at right angles or parallel to building walls. Diagonal runs are prohibited, except where indicated.
+   1. Install piping tight to slabs, beams, joists, columns, walls, and other building elements. Allow sufficient space above removable ceiling panels to allow for ceiling panel removal.
+   1. Install piping to allow application of insulation plus 1-inch clearance around insulation.
+   1. Locate groups of pipes parallel to each other, spaced to permit valve servicing.
+   1. Install fittings for changes in direction and branch connections.
+   1. Escutcheons:
+   1. Where uncovered exposed pipes pass through floors, finished walls, or finished ceilings, they shall be fitted with chromium-plated cast-brass plates on chromium-plated pipe, or with cast-iron or steel plates on ferrous pipe. Plates shall be large enough to completely close the holes around the pipes and shall be square, octangular, or round, with the least dimension not less than 1-1/2 inches or more than 2-1/2 inches larger than the diameter of the pipe. Plates shall be secured in an approved manner.
+   1. Install sleeves for pipes passing through concrete and masonry walls, concrete floor and roof slabs, and where indicated.
+   1. Above Grade, Exterior Wall, and Pipe Penetrations:
+   1. Seal penetrations using sleeves and mechanical sleeve seals. Size sleeve for 1-inch annular clear space between pipe and sleeve for installation of mechanical seals.
+   1. Install steel pipe for sleeves smaller than 6 inches.
+   1. Install cast-iron wall pipes for sleeves 6 inches and larger.
+   1. Assemble and install mechanical seals according to manufacturer's printed instructions.
+   1. Below Grade, Exterior Wall, and Pipe Penetrations:
+   1. Install cast-iron "wall pipes" for sleeves. Seal pipe penetrations using mechanical sleeve seals. Size sleeve for 1-inch annular clear space between pipe and sleeve for installation of mechanical seals.
+   1. Below Grade, Exterior Wall, and Pipe Penetrations:
+   1. Install ductile-iron wall penetration system sleeves according to manufacturer's printed installation instructions.
+   1. Verify final equipment locations for roughing in.
+   1. See equipment specifications in other sections of these specifications for roughing-in requirements.
+   1. Piping Joint Construction:
+   1. Join pipe and fittings as follows and as specifically required in individual piping system specification sections.
+   1. Ream ends of pipes and tubes and remove burrs. Bevel plain ends of steel pipe.
+   1. Remove scale, slag, dirt, and debris from inside and outside of pipe and fittings before assembly.
+   1. Soldered Joints:
+   1. Construct joints according to AWS "Soldering Manual."
+   1. Brazed Joints:
+   1. Construct joints according to AWS "Brazing Manual."
+   1. Threaded Joints:
+   1. Thread pipe with tapered pipe threads according to ASME B1.20.1.
+   1. Flanged Joints:
+   1. Align flange surfaces parallel. Select appropriate gasket material, size, type, and thickness for service application. Install gasket concentrically positioned. Assemble joints by sequencing bolt tightening to make initial contact of flanges and gaskets as flat and parallel as possible. Use suitable lubricants on bolt threads. Tighten bolts gradually and uniformly using torque wrench.
+   1. Piping Connections:
+   1. Except as otherwise indicated, make piping connections as specified below.
+   1. Install unions, in piping 2 inches and smaller, adjacent to each valve and at final connection to each piece of equipment having 2-inches or smaller threaded pipe connection.
+   1. Install flanges, in piping 2-1/2 inches and larger, adjacent to flanged valves and at final connection to each piece of equipment having flanged pipe connection.
+   1. Dry Piping Systems (Gas, Compressed Air, and Vacuum):
+   1. Install dielectric unions and flanges to connect piping materials of dissimilar metals.
+   1. Wet Piping Systems (Water and Steam):
+   1. Install dielectric coupling and nipple fittings to connect piping materials of dissimilar metals.
+   1. Equipment Installation - Common Requirements:
+   1. Install equipment to provide the maximum possible head room, where mounting heights are not indicated.
+   1. Install equipment according to approved submittal data. Portions of the Work are shown only in diagrammatic form. Refer conflicts to the Owner.
+   1. Install equipment level and plumb, parallel and perpendicular to other building systems and components in exposed interior spaces, except where otherwise indicated.
+   1. Install mechanical equipment to facilitate servicing, maintenance, and repair or replacement of equipment components. Connect equipment for ease of disconnecting, with minimum of interference with other installations. Extend grease fittings to an accessible location.
+   1. Install equipment giving right-of-way to piping systems installed at a required slope.
+   1. Shaft Alignment:
+   1. All motors and pumps (or drives) connected by a shaft coupling, whether factory or field assembled, shall be aligned during installation using a dial indicator applied to both ends of both shafts for a full 360 degrees prior to operation. Alignment of the shafts shall be less than the maximum allowable tolerances as recommended by the coupling or equipment manufacturer. Alignment of shafts shall be rechecked after several hours of operation and equipment has reached operating temperature.
+   1. Painting and Finishing:
+   1. Field painting requirements are specified in Division 9 sections of the Specifications.
+   1. Damage and Touch-Up:
+   1. Repair marred and damaged factory-painted finishes with materials and procedures to match original factory finish.
+   1. Identification Tags and Labels:
+   1. Materials:
+      1. Pipe Labels:
+         1. Pipe labels shall be self-adhesive labels, all temperature Perma-Code pipe markers No. B-500, manufactured by the W. H. Brady Company. The background color code for all markers shall conform to the American National Standard ANSI A-13.1 "Scheme for the Identification of Piping Systems." This standard establishes four basic backgrounds as follows:
+   1. Yellow for dangerous materials, bright blue for protective materials, red for fire protection equipment, and green for safe materials.
+   1. Tags:
+   1. Tags shall be aluminum, brass or laminated plastic 2" x 1" minimum with edges ground smooth or rolled. Each tag shall be punched to receive tie wires or chain. Letters and Numbers shall be evenly spaced and stamped or engraved into the surface.
+   1. Installation:
+   1. Identification of Piping:
+      1. Identify all piping according to the following procedures:
+   1. Bare pipes to be marked shall first be wiped clean of dirt, dust, grease, and moisture. Markers to be installed on painted piping shall be applied only after completion of final coat of paint. Insulated pipes shall first be painted to a smooth, hard surface in the area the label is to be applied. Labels shall be applied, using pressure, so that it lies smooth and flat. After application on insulated pipes, the label shall be stapled securely to the insulation. The labels shall be applied to the pipe so that the lettering is in the most legible position. For overhead piping apply markers on the lower half of the pipe where view is unobstructed, so that markers can be read at a glance from floor level. The wording on the labels shall correspond directly to the wording in the mechanical symbol lists, regardless of whether or not it is standard wording for the designated manufacturer.
+   1. Use an arrow marker with each pipe content marker. The arrow shall always point away from the pipe marker and in the direction of flow, with background color and height the same as content marker. If flow can be in both directions, use two arrow markers.
+   1. Apply pipe marker and arrow marker at each valve, at every point of pipe entry or exit through wall or ceiling, on each riser and branch of tee, and every 20 feet on long continuous lines or at every bay or aisle to show proper identification of pipe content and direction of flow.
+   1. Valves:
+   1. All main service valves, including fire protection, located inside the building shall be tagged and identified as to the type of service. All valves controlling branch mains or risers to various portions of the building shall be tagged and identified as to the areas served.
+   1. Controls:
+   1. All automatic controls, control panels, zone valves, pressure electric, electric pressure switches, relays and starters shall be clearly tagged and identified. Wording shall be identical to that on the control diagram in the contract drawings.
+   1. Pumps:
+   1. All pumps shall be identified as to service with aluminum or brass tags secured by tie wires.
+   1. Concrete Bases:
+   1. Construct concrete equipment bases of dimensions indicated, but not less than 4 inches larger in both directions than supported unit. Follow supported equipment manufacturer's setting templates for anchor bolt and tie locations. Use 3000 psi, 28-day compressive strength concrete and reinforcement as specified in Division 3 sections of the Specifications. Housekeeping pads under pumps, etc. shall be 3-1/2 inches thick with #4 reinforcing bars 12 inches on center each way unless otherwise noted.
+   1. Erection of Metal Supports and Anchorage:
+   1. Cut, fit, and place miscellaneous metal supports accurately in location, alignment, and elevation to support and anchor mechanical materials and equipment.
+   1. Field Welding:
+   1. Comply with AWS D1.1 "Structural Welding Code - Steel."
+   1. Cutting and Patching:
+   1. Cut, channel, chase, and drill floors, walls, partitions, ceilings, and other surfaces necessary for mechanical installations. Perform cutting by skilled mechanics of the trades involved.
+   1. Repair cut surfaces to match adjacent surfaces.
+   1. Grouting:
+   1. Install nonmetallic, nonshrink grout for mechanical equipment base bearing surfaces, pump and other equipment base plates and anchors. Mix grout according to manufacturer's printed instructions.
+   1. Clean surfaces that will come into contact with grout.
+   1. Provide forms for placement of grout, as required.
+   1. Avoid air entrapment when placing grout.
+   1. Place grout, completely filling equipment bases.
+   1. Place grout on concrete bases to provide a smooth bearing surface for equipment.
+   1. Place grout around anchors.
+   1. Cure placed grout according to manufacturer's printed instructions.

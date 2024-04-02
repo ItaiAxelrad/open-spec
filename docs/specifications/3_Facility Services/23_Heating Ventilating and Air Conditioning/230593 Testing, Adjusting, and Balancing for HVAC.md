@@ -4,7 +4,19 @@ section: '230593'
 divNumb: 23
 divName: Heating Ventilating and Air Conditioning
 subgroup: Facility Services
-tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 'Testing', 'Adjusting', 'Balancing', 'HVAC']
+tags:
+  [
+    'Facility',
+    'Services',
+    'Heating',
+    'Ventilating',
+    'Air',
+    'Conditioning',
+    'Testing',
+    'Adjusting',
+    'Balancing',
+    'HVAC',
+  ]
 ---
 
 ## General
@@ -64,15 +76,15 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
       1. HVAC Systems – Duct Design
    1. HVAC Systems – Testing, Adjusting, and Balancing
 1. System Description
-	1. Performance Requirements:
-   1. Adjusting and balancing shall be performed in accordance with the latest edition of the National Environmental Balancing Bureau (NEBB) Procedural Standards, and in accordance with the scope of Work specified in the Contract Documents. 
-   1. Adjusting and balancing shall not begin until systems are complete, temporary filters and strainers are removed and permanent filters installed, piping systems are cleaned, flushed and chemically treated, all as properly scheduled and approved in advance by the Architect. 
-   1. In addition to demonstrating that the systems are capable of achieving design load point flows, the adjusting and balancing agency shall demonstrate, and so include in the report forms, that the automatic control systems respond properly to load variations. 
-   1. Upon the completion of the Work, the adjusting and balancing agency shall submit four copies of the complete adjusting and balancing report. 
-   1. One agency shall be responsible for all phases of adjusting and balancing. 
-   1. The adjusting and balancing agency shall permanently mark the settings of all valves, dampers and other adjusting devices in a manner that will allow the settings to be restored. If a balancing device is provided with a memory stop, it shall be set and locked. 
+   1. Performance Requirements:
+   1. Adjusting and balancing shall be performed in accordance with the latest edition of the National Environmental Balancing Bureau (NEBB) Procedural Standards, and in accordance with the scope of Work specified in the Contract Documents.
+   1. Adjusting and balancing shall not begin until systems are complete, temporary filters and strainers are removed and permanent filters installed, piping systems are cleaned, flushed and chemically treated, all as properly scheduled and approved in advance by the Architect.
+   1. In addition to demonstrating that the systems are capable of achieving design load point flows, the adjusting and balancing agency shall demonstrate, and so include in the report forms, that the automatic control systems respond properly to load variations.
+   1. Upon the completion of the Work, the adjusting and balancing agency shall submit four copies of the complete adjusting and balancing report.
+   1. One agency shall be responsible for all phases of adjusting and balancing.
+   1. The adjusting and balancing agency shall permanently mark the settings of all valves, dampers and other adjusting devices in a manner that will allow the settings to be restored. If a balancing device is provided with a memory stop, it shall be set and locked.
 1. Submittals
-	1. See Division 23 sections of the Specifications.
+   1. See Division 23 sections of the Specifications.
    1. Quality-Assurance Submittals:
       1. Within 30 days from the Contractor's Notice to Proceed, submit 2 copies of evidence that the testing, adjusting, and balancing Agent and this Project's testing, adjusting, and balancing team members meet the qualifications specified in the "Quality Assurance" Article below.
    1. Contract Documents Examination Report:
@@ -86,7 +98,7 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Warranty:
       1. Submit 2 copies of special warranty specified in the "Warranty" Article below.
 1. Quality Assurance
-	1. Agent Qualifications:
+   1. Agent Qualifications:
       1. Engage a testing, adjusting, and balancing agent certified by NEBB.
    1. Testing, Adjusting, and Balancing Conference:
       1. Meet with the Owner's and the Architect's representatives on approval of the testing, adjusting, and balancing strategies and procedures plan to develop a mutual understanding of the details. Ensure the participation of testing, adjusting, and balancing team members, equipment manufacturers' authorized service representatives, HVAC controls Installer, and other support personnel. Provide 7 days' advance notice of scheduled meeting time and location.
@@ -112,62 +124,62 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Partial Owner Occupancy:
       1. The Owner may occupy completed areas of the building before Substantial Completion. Cooperate with the Owner during testing, adjusting, and balancing operations to minimize conflicts with the Owner's operations.
 1. Sequencing And Scheduling
-	1. The Contractor shall provide the adjusting and balancing agency with one set of the following documents:
+   1. The Contractor shall provide the adjusting and balancing agency with one set of the following documents:
    1. Within 30 days after approved selection of adjusting and balancing agency:
    1. Contract Drawings.
    1. Applicable Specifications.
    1. Addenda.
    1. As Issued:
-      1. Change Orders. 
+      1. Change Orders.
    1. Within 30 days after approval, applicable shop drawings, including the following items:
    1. Sheet metal fabrication and construction drawings.
    1. Equipment manufacturer's submittal data.
    1. Temperature control drawings.
-   1. Upon receipt of the above listed documents from the Contractor, the adjusting and balancing agency shall evaluate the air and hydronic systems proposed layouts and determine the adequacy of the type, number and location of balancing devices being provided. 
-   1. Any deficiency in the balancing device type, number and location shall be noted by the adjusting and balancing agency and the Contractor shall be so notified. 
-   1. Fabrication and installation of the air and hydronic systems shall not begin until the Contractor has received this report from the adjusting and balancing agency and has taken corrective action. 
+   1. Upon receipt of the above listed documents from the Contractor, the adjusting and balancing agency shall evaluate the air and hydronic systems proposed layouts and determine the adequacy of the type, number and location of balancing devices being provided.
+   1. Any deficiency in the balancing device type, number and location shall be noted by the adjusting and balancing agency and the Contractor shall be so notified.
+   1. Fabrication and installation of the air and hydronic systems shall not begin until the Contractor has received this report from the adjusting and balancing agency and has taken corrective action.
    1. The adjusting and balancing agency shall further be provided with the following:
-   1. Reasonable time to complete the adjusting and balancing prior to the required completion date. 
-   1. Completely operable systems. 
-   1. The right to adjust the systems. 
-   1. Access to system components. 
-   1. Master keys if the building is occupied. 
-   1. Secure storage space for tools and instruments. 
+   1. Reasonable time to complete the adjusting and balancing prior to the required completion date.
+   1. Completely operable systems.
+   1. The right to adjust the systems.
+   1. Access to system components.
+   1. Master keys if the building is occupied.
+   1. Secure storage space for tools and instruments.
    1. The Contractor shall ensure that the adjusting and balancing agency's personnel receive the full cooperation and assistance of the personnel of the pipe fitting, sheet metal and automatic control trades during the adjusting and balancing process.
    1. The Contractor shall be responsible for start-up and operation of systems during the adjusting and balancing process. Start-up shall include the following:
-   1. All equipment operable in safe and normal condition. 
-   1. Automatic control systems installed complete and operable. 
-   1. Proper thermal overload protection in place for electrical equipment. 
+   1. All equipment operable in safe and normal condition.
+   1. Automatic control systems installed complete and operable.
+   1. Proper thermal overload protection in place for electrical equipment.
    1. For air systems:
-   1. Final filters clean and in place. 
-   1. Duct systems clean of debris. 
-   1. Correct fan rotation. 
-   1. Fire and volume dampers in place and open. 
-   1. Coil fins combed and cleaned. 
-   1. Access doors closed and duct end caps in place. 
-   1. All outlets installed and connected. 
-   1. Duct system testing completed and leakage not exceeding the rate specified. 
+   1. Final filters clean and in place.
+   1. Duct systems clean of debris.
+   1. Correct fan rotation.
+   1. Fire and volume dampers in place and open.
+   1. Coil fins combed and cleaned.
+   1. Access doors closed and duct end caps in place.
+   1. All outlets installed and connected.
+   1. Duct system testing completed and leakage not exceeding the rate specified.
    1. For Hydronic Systems:
-   1. Flushed, filled, and vented. 
-   1. Correct pump rotation. 
-   1. Proper strainer baskets clean and in place. 
-   1. Temporary start-up strainer baskets removed. 
-   1. Service and balance valves open. 
+   1. Flushed, filled, and vented.
+   1. Correct pump rotation.
+   1. Proper strainer baskets clean and in place.
+   1. Temporary start-up strainer baskets removed.
+   1. Service and balance valves open.
    1. Piping systems testing completed and accepted.
 1. warranty
    1. See Division 23 sections of the Specifications.
-  1. General Warranty:
-      1. The national project performance guarantee specified in this Article shall not deprive the Owner of other rights the Owner may have under other provisions of the Contract Documents and shall be in addition to, and run concurrent with, other warranties made by the Contractor under requirements of the Contract Documents.
-   1. Special Guarantee:
-      1. Provide a guarantee on NEBB forms stating that NEBB will assist in completing the requirements of the Contract Documents if the testing, adjusting, and balancing Agent fails to comply with the Contract Documents. Guarantee includes the following provisions:
-      1. The certified Agent has tested and balanced systems according to the Contract Documents.
-   1. Systems are balanced to optimum performance capabilities within design and installation limits.
+1. General Warranty:
+   1. The national project performance guarantee specified in this Article shall not deprive the Owner of other rights the Owner may have under other provisions of the Contract Documents and shall be in addition to, and run concurrent with, other warranties made by the Contractor under requirements of the Contract Documents.
+1. Special Guarantee:
+   1. Provide a guarantee on NEBB forms stating that NEBB will assist in completing the requirements of the Contract Documents if the testing, adjusting, and balancing Agent fails to comply with the Contract Documents. Guarantee includes the following provisions:
+   1. The certified Agent has tested and balanced systems according to the Contract Documents.
+1. Systems are balanced to optimum performance capabilities within design and installation limits.
 
 ## Products
 
 1. Equipment
-	1. Instrumentation:
-      1. Provide air system adjusting and balancing instrumentation such as pitot tubes, flow hoods, incline gauge or U-tube manometers or magnehelic gages, alnor velometer, tachometer or rpm counter, insertion thermometers, clamp-on ammeter for motor voltage and ampere readings and others to be able to completely analyze and balance air handling systems. Instrumentation shall be accurately calibrated and checked before usage. 
+   1. Instrumentation:
+   1. Provide air system adjusting and balancing instrumentation such as pitot tubes, flow hoods, incline gauge or U-tube manometers or magnehelic gages, alnor velometer, tachometer or rpm counter, insertion thermometers, clamp-on ammeter for motor voltage and ampere readings and others to be able to completely analyze and balance air handling systems. Instrumentation shall be accurately calibrated and checked before usage.
 
 ## Execution
 
@@ -234,672 +246,673 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    15. Check condensate drains for proper connections and functioning.
    16. Check for proper sealing of air-handling unit components.
    17. Variable-Air-Volume Systems' Additional Procedures:
-      1. Compensating for Diversity:
-         1. When the total airflow of all terminal units is more than the fan design airflow volume, place a selected number of terminal units at a maximum set-point airflow condition until the total airflow of the terminal units equals the design airflow of the fan. Select the reduced airflow terminal units so they are distributed evenly among the branch ducts.
-   18. Pressure-Independent, Variable-Air-Volume Systems:
-      2. After the fan systems have been adjusted, adjust the variable-air-volume systems as follows:
-      3. Set outside-air dampers at minimum, and return- and exhaust-air dampers at a position that simulates full-cooling load.
-   19. Select the terminal unit that is most critical to the supply-fan airflow and static pressure. Measure static pressure. Adjust system static pressure so the entering static pressure for the critical terminal unit is not less than the sum of the terminal unit manufacturer's recommended minimum inlet static pressure plus the static pressure needed to overcome terminal-unit discharge duct losses.
-   20. Measure total system airflow. Adjust to within 10 percent of design airflow.
-   21. Set terminal units at maximum airflow and adjust controller or regulator to deliver the designed maximum airflow. Use the terminal unit manufacturer's written instructions to make this adjustment. When total airflow is correct, balance the air outlets downstream from terminal units as described for constant-volume air systems.
-   22. Set terminal units at minimum airflow and adjust controller or regulator to deliver the designed minimum airflow. Check air outlets for a proportional reduction in airflow as described for constant-volume air systems.
-   23. If air outlets are out of balance at minimum airflow, report the condition but leave the outlets balanced for maximum airflow.
-   24. Remeasure the return airflow to the fan while operating at maximum return airflow and minimum outside airflow. Adjust the fan and balance the return-air ducts and inlets as described for constant-volume air systems.
-   25. Measure static pressure at the most critical terminal unit and adjust the static-pressure controller at the main supply-air sensing station to ensure adequate static pressure is maintained at the most critical unit.
-   26. Record the final fan performance data.
-   27. Pressure-Dependent, Variable-Air-Volume Systems without Diversity:
-      4. After the fan systems have been adjusted, adjust the variable-air-volume systems as follows:
-      5. Balance systems similar to constant-volume air systems.
-   28. Set terminal units and supply fan at full-airflow condition.
-   29. Adjust inlet dampers of each terminal unit to design airflow and verify operation of the static-pressure controller. When total airflow is correct, balance the air outlets downstream from terminal units as described for constant-volume air systems.
-   30. Readjust fan airflow for final maximum readings.
-   31. Measure operating static pressure at the sensor that controls the supply fan, if one is installed, and verify operation of the static-pressure controller.
-   32. Set supply fan at minimum airflow if minimum airflow is indicated. Measure static pressure to verify that it is being maintained by the controller.
-   33. Set terminal units at minimum airflow and adjust controller or regulator to deliver the designed minimum airflow. Check air outlets for a proportional reduction in airflow as described for constant-volume air systems.
-   34. If air outlets are out of balance at minimum airflow, report the condition but leave the outlets balanced for maximum airflow.
-   35. Measure the return airflow to the fan while operating at maximum return airflow and minimum outside airflow. Adjust the fan and balance the return-air ducts and inlets as described for constant-volume air systems.
-   36. Pressure-Dependent, Variable-Air-Volume Systems with Diversity:
-      6. After the fan systems have been adjusted, adjust the variable-air-volume systems as follows:
-      7. Set system at maximum design airflow by setting the required number of terminal units at minimum airflow. Select the reduced airflow terminal units so they are distributed evenly among the branch ducts.
-   37. Adjust supply fan to maximum design airflow with the variable-airflow controller set at maximum airflow.
-   38. Set terminal units being tested at full-airflow condition.
-   39. Adjust terminal units starting at the supply-fan end of the system and continuing progressively to the end of the system. Adjust inlet dampers of each terminal unit to design airflow. When total airflow is correct, balance the air outlets downstream from terminal units as described for constant-volume air systems.
-   40. Adjust terminal units for minimum airflow.
-   41. Measure static pressure at the sensor.
-   42. Measure the return airflow to the fan while operating at maximum return airflow and minimum outside airflow. Adjust the fan and balance the return-air ducts and inlets as described for constant-volume air systems.
-   43. Fundamental Procedures for Hydronic Systems:
-      8. Prepare test reports with pertinent design data and number in sequence starting at pump to end of system. Check the sum of branch-circuit flows against approved pump flow rate. Correct variations that exceed plus or minus 5 percent.
-   44. Prepare schematic diagrams of systems' "as-built" piping layouts.
-   45. Prepare hydronic systems for testing and balancing according to the following, in addition to the general preparation procedures specified above:
-      9. Open all manual valves for maximum flow.
-   46. Check expansion tank liquid level.
-   47. Check makeup-water-station pressure gage for adequate pressure for highest vent.
-   48. Check flow-control valves for specified sequence of operation and set at design flow.
-   49. Set differential-pressure control valves at the specified differential pressure. Do not set at fully closed position when pump is positive-displacement type, unless several terminal valves are kept open.
-   50. Set system controls so automatic valves are wide open to heat exchangers.
-   51. Check pump-motor load. If motor is overloaded, throttle main flow-balancing device so motor nameplate rating is not exceeded.
-   52. Check air vents for a forceful liquid flow exiting from vents when manually operated.
-   53. Hydronic Systems' Balancing Procedures:
-      10. Determine water flow at pumps. Use the following procedures, except for positive-displacement pumps:
-            1. Verify impeller size by operating the pump with the discharge valve closed. Verify with the pump manufacturer that this will not damage pump. Read pressure differential across the pump. Convert pressure to head and correct for differences in gage heights. Note the point on the manufacturer's pump curve at zero flow and confirm that the pump has the intended impeller size.
-   54. Check system resistance. With all valves open, read pressure differential across the pump and mark the pump manufacturer's head-capacity curve. Adjust pump discharge valve until design water flow is achieved.
-   55. Verify pump-motor brake horsepower. Calculate the intended brake horsepower for the system based on the pump manufacturer's performance data. Compare calculated brake horsepower with nameplate data on the pump motor. Report conditions where actual amperage exceeds motor nameplate amperage.
-   56. Report flow rates that are not within plus or minus 5 percent of design.
-   57. Set calibrated balancing valves, if installed, at calculated presettings.
-   58. Measure flow at all stations and adjust, where necessary, to obtain first balance.
-   59. System components that have Cv rating or an accurately cataloged flow-pressure-drop relationship may be used as a flow-indicating device.
-   60. Measure flow at main balancing station and set main balancing device to achieve flow that is 5 percent greater than design flow.
-   61. Adjust balancing stations to within specified tolerances of design flow rate as follows:
-      11. Determine the balancing station with the highest percentage over design flow.
-   62. Adjust each station in turn, beginning with the station with the highest percentage over design flow and proceeding to the station with the lowest percentage over design flow.
-   63. Record settings and mark balancing devices.
-   64. Measure pump flow rate and make final measurements of pump amperage, voltage, rpm, pump heads, and systems' pressures and temperatures, including outdoor-air temperature.
-   65. Measure the differential-pressure control valve settings existing at the conclusions of balancing.
-   66. Variable-Flow Hydronic Systems' Additional Procedures:
-      12. Balance systems with automatic 2- and 3-way control valves by setting systems at maximum flow through heat-exchange terminals and proceed as specified above for hydronic systems.
-   67. Primary-Secondary-Flow Hydronic Systems' Additional Procedures:
-      13. Balance the primary system crossover flow first, then balance the secondary system.
-   68. Heat Exchangers:
-      14. Measure water flow through all circuits.
-   69. Adjust water flow to within specified tolerances.
-   70. Measure inlet and outlet water temperatures.
-   71. Measure inlet steam pressure. Check the setting and operation of automatic temperature-control valves, self-contained control valves, and pressure-reducing valves.
-   72. Record safety valve settings.
-   73. Verify operation of steam traps.
-   74. Motors:
-      15. Motors, 1/2 HP and Larger:
-         1. Test at final balanced conditions and record the following data:
-               1. Manufacturer, model, and serial numbers.
-   75. Motor horsepower rating.
-   76. Motor rpm.
-   77. Efficiency rating if high-efficiency motor.
-   78. Nameplate and measured voltage, each phase.
-   79. Nameplate and measured amperage, each phase.
-   80. Starter thermal-protection-element rating.
-   81. Motors Driven by Variable-Frequency Controllers:
-      16. Test for proper operation at speeds varying from minimum to maximum. Test the manual bypass for the controller to prove proper operation. Record observations, including controller manufacturer, model and serial numbers, and nameplate data.
-   82. Chillers:
-      17. Balance water flow through each evaporator and condenser to within specified tolerances of design flow with all pumps operating. With only one chiller operating in a multiple chiller installation, do not exceed the flow for the maximum tube velocity recommended by the chiller manufacturer. Measure and record the following data with each chiller operating at design conditions:
-      18. Evaporator water entering and leaving temperatures, pressure drop, and water flow.
-   83. Condenser water entering and leaving temperatures, pressure drop, and water flow.
-   84. Evaporator and condenser refrigerant temperatures and pressures, using instruments furnished by the chiller manufacturer.
-   85. Power factor if factory-installed instrumentation is furnished for measuring kW.
-   86. The kW input if factory-installed instrumentation is furnished for measuring kW.
-   87. Capacity:
-      19. Calculate in tons of cooling.
-   88. Air-Cooled Chillers:
-      20. Verify condenser-fan rotation and record fan data, including number of fans and entering- and leaving-air temperatures.
-   89. Cooling Towers:
-      21. Shut off makeup water for the duration of the test, and then make sure the makeup and blow-down systems are fully operational after tests and before leaving the equipment. Perform the following tests and record the results:
-      22. Measure condenser water flow to each cell of the cooling tower.
-   90. Measure entering- and leaving-water temperatures.
-   91. Measure wet- and dry-bulb temperatures of entering air.
-   92. Measure wet- and dry-bulb temperatures of leaving air.
-   93. Measure condenser water flow rate recirculating through the cooling tower.
-   94. Measure cooling tower pump discharge pressure.
-   95. Adjust water level and feed rate of makeup-water system.
-   96. Condensing Units:
-      23. Verify proper rotation of fans and measure entering- and leaving-air temperatures. Record compressor data.
-   97. Boilers:
-      24. Measure entering- and leaving-water temperatures and water flow.
-   98. Heat-Transfer Coils:
-      25. Water Coils:
-         1. Measure the following data for each coil:
-               1. Entering- and leaving-water temperatures.
-   99. Water flow rate.
-   100. Water pressure drop.
-   101. Dry-bulb temperatures of entering and leaving air.
-   102. Wet-bulb temperatures of entering and leaving air for cooling coils designed for less than 7500 cfm.
-   103. Airflow.
-   104. Air pressure drop.
-   105. Electric-Heating Coils:
-      26. Measure the following data for each coil:
-      27. Nameplate data.
-   106. Airflow.
-   107. Entering- and leaving-air temperatures at full load.
-   108. Voltage and amperage input of each phase at full load and at each incremental stage.
-   109. Calculated kW at full load.
-   110. Fuse or circuit-breaker rating for overload protection.
-   111. Temperature Testing:
-   112. During testing, adjusting, and balancing, report need for adjustment in temperature regulation within the automatic temperature-control system.
-   113. Measure indoor wet- and dry-bulb temperatures every other hour for a period of two successive 8-hour days, in each separately controlled zone, to prove correctness of final temperature settings. Measure when the building or zone is occupied.
-   114. Measure outside-air, wet- and dry-bulb temperatures.
-   115. Fume Hoods:
-      28. Determine total airflow into the room where the fume hood is located and balance systems to ensure adequate air supply to all hoods.
-   116. Set fume-hood door opening at position of normal use.
-   117. Energize the exhaust fan and adjust airflow to provide the indicated average fume-hood face velocity at hood opening.
-   118. Measure exhaust airflow volume by measuring airflow by Pitot-tube duct traverse.
-   119. Measure air velocity using Pitot-tube traverse method.
-   120. Record each face velocity measurement taken at 4- to 6-inch increments over the entire hood door opening.
-   121. Calculate the average face velocity by averaging all velocity measurements.
-   122. Calculate the airflow volume of exhaust-hood face velocity by multiplying the calculated average face velocity by the opening area. Compare this quantity with exhaust volume at exhaust fan and report duct leakage.
-   123. Measure airflow volume supplied by makeup fan. Verify that the makeup system supplies the proper amount of air to keep the space at the indicated pressure with the exhaust systems in all operating conditions.
-   124. Retest for average face velocity. Adjust hood baffles, fan drives, and other parts of the system to provide the indicated average face velocity and the indicated auxiliary air-supply percentages.
-   1. Retest and adjust the systems until fume-hood performance complies with Contract Documents.
-   2. Temperature-Control Verification:
-      1. Verify that controllers are calibrated.
-   3. Check transmitter and controller locations and note conditions that would adversely affect control functions.
-   4. Record controller settings and note variances between set points and actual measurements.
-   5. Verify operation of limiting controllers (i.e., high- and low-temperature controllers).
-   6. Verify free travel and proper operation of control devices such as damper and valve operators.
-   7. Verify sequence of operation of control devices. Note air pressures and device positions and correlate with airflow and water-flow measurements. Note the speed of response to input changes.
-   8. Confirm interaction of electrically operated switch transducers.
-   9. Confirm interaction of interlock and lockout systems.
-   10. Verify main control supply-air pressure and observe compressor and dryer operations.
-   11. Record voltages of power supply and controller output. Determine if the system operates on a grounded or nongrounded power supply.
-   12. Note operation of electric actuators using spring return for proper fail-safe operations.
-   13. Tolerances:
-      1. Set HVAC system airflow and water flow rates within the following tolerances:
-      2. Supply, Return, and Exhaust Fans:
-         1. 0 to plus 10 percent.
-   14. Air Outlets and Inlets:
-      3. Positive Zones Negative Zones
-   15. Supply Air 0 to +10% Supply Air 0 to –10%
-   16. Exh/Ret Air 0 to –10% Exh/Ret Air 0 to +10%
+   18. Compensating for Diversity:
+       1. When the total airflow of all terminal units is more than the fan design airflow volume, place a selected number of terminal units at a maximum set-point airflow condition until the total airflow of the terminal units equals the design airflow of the fan. Select the reduced airflow terminal units so they are distributed evenly among the branch ducts.
+   19. Pressure-Independent, Variable-Air-Volume Systems:
+   20. After the fan systems have been adjusted, adjust the variable-air-volume systems as follows:
+   21. Set outside-air dampers at minimum, and return- and exhaust-air dampers at a position that simulates full-cooling load.
+   22. Select the terminal unit that is most critical to the supply-fan airflow and static pressure. Measure static pressure. Adjust system static pressure so the entering static pressure for the critical terminal unit is not less than the sum of the terminal unit manufacturer's recommended minimum inlet static pressure plus the static pressure needed to overcome terminal-unit discharge duct losses.
+   23. Measure total system airflow. Adjust to within 10 percent of design airflow.
+   24. Set terminal units at maximum airflow and adjust controller or regulator to deliver the designed maximum airflow. Use the terminal unit manufacturer's written instructions to make this adjustment. When total airflow is correct, balance the air outlets downstream from terminal units as described for constant-volume air systems.
+   25. Set terminal units at minimum airflow and adjust controller or regulator to deliver the designed minimum airflow. Check air outlets for a proportional reduction in airflow as described for constant-volume air systems.
+   26. If air outlets are out of balance at minimum airflow, report the condition but leave the outlets balanced for maximum airflow.
+   27. Remeasure the return airflow to the fan while operating at maximum return airflow and minimum outside airflow. Adjust the fan and balance the return-air ducts and inlets as described for constant-volume air systems.
+   28. Measure static pressure at the most critical terminal unit and adjust the static-pressure controller at the main supply-air sensing station to ensure adequate static pressure is maintained at the most critical unit.
+   29. Record the final fan performance data.
+   30. Pressure-Dependent, Variable-Air-Volume Systems without Diversity:
+   31. After the fan systems have been adjusted, adjust the variable-air-volume systems as follows:
+   32. Balance systems similar to constant-volume air systems.
+   33. Set terminal units and supply fan at full-airflow condition.
+   34. Adjust inlet dampers of each terminal unit to design airflow and verify operation of the static-pressure controller. When total airflow is correct, balance the air outlets downstream from terminal units as described for constant-volume air systems.
+   35. Readjust fan airflow for final maximum readings.
+   36. Measure operating static pressure at the sensor that controls the supply fan, if one is installed, and verify operation of the static-pressure controller.
+   37. Set supply fan at minimum airflow if minimum airflow is indicated. Measure static pressure to verify that it is being maintained by the controller.
+   38. Set terminal units at minimum airflow and adjust controller or regulator to deliver the designed minimum airflow. Check air outlets for a proportional reduction in airflow as described for constant-volume air systems.
+   39. If air outlets are out of balance at minimum airflow, report the condition but leave the outlets balanced for maximum airflow.
+   40. Measure the return airflow to the fan while operating at maximum return airflow and minimum outside airflow. Adjust the fan and balance the return-air ducts and inlets as described for constant-volume air systems.
+   41. Pressure-Dependent, Variable-Air-Volume Systems with Diversity:
+   42. After the fan systems have been adjusted, adjust the variable-air-volume systems as follows:
+   43. Set system at maximum design airflow by setting the required number of terminal units at minimum airflow. Select the reduced airflow terminal units so they are distributed evenly among the branch ducts.
+   44. Adjust supply fan to maximum design airflow with the variable-airflow controller set at maximum airflow.
+   45. Set terminal units being tested at full-airflow condition.
+   46. Adjust terminal units starting at the supply-fan end of the system and continuing progressively to the end of the system. Adjust inlet dampers of each terminal unit to design airflow. When total airflow is correct, balance the air outlets downstream from terminal units as described for constant-volume air systems.
+   47. Adjust terminal units for minimum airflow.
+   48. Measure static pressure at the sensor.
+   49. Measure the return airflow to the fan while operating at maximum return airflow and minimum outside airflow. Adjust the fan and balance the return-air ducts and inlets as described for constant-volume air systems.
+   50. Fundamental Procedures for Hydronic Systems:
+   51. Prepare test reports with pertinent design data and number in sequence starting at pump to end of system. Check the sum of branch-circuit flows against approved pump flow rate. Correct variations that exceed plus or minus 5 percent.
+   52. Prepare schematic diagrams of systems' "as-built" piping layouts.
+   53. Prepare hydronic systems for testing and balancing according to the following, in addition to the general preparation procedures specified above:
+   54. Open all manual valves for maximum flow.
+   55. Check expansion tank liquid level.
+   56. Check makeup-water-station pressure gage for adequate pressure for highest vent.
+   57. Check flow-control valves for specified sequence of operation and set at design flow.
+   58. Set differential-pressure control valves at the specified differential pressure. Do not set at fully closed position when pump is positive-displacement type, unless several terminal valves are kept open.
+   59. Set system controls so automatic valves are wide open to heat exchangers.
+   60. Check pump-motor load. If motor is overloaded, throttle main flow-balancing device so motor nameplate rating is not exceeded.
+   61. Check air vents for a forceful liquid flow exiting from vents when manually operated.
+   62. Hydronic Systems' Balancing Procedures:
+   63. Determine water flow at pumps. Use the following procedures, except for positive-displacement pumps:
+       1. Verify impeller size by operating the pump with the discharge valve closed. Verify with the pump manufacturer that this will not damage pump. Read pressure differential across the pump. Convert pressure to head and correct for differences in gage heights. Note the point on the manufacturer's pump curve at zero flow and confirm that the pump has the intended impeller size.
+   64. Check system resistance. With all valves open, read pressure differential across the pump and mark the pump manufacturer's head-capacity curve. Adjust pump discharge valve until design water flow is achieved.
+   65. Verify pump-motor brake horsepower. Calculate the intended brake horsepower for the system based on the pump manufacturer's performance data. Compare calculated brake horsepower with nameplate data on the pump motor. Report conditions where actual amperage exceeds motor nameplate amperage.
+   66. Report flow rates that are not within plus or minus 5 percent of design.
+   67. Set calibrated balancing valves, if installed, at calculated presettings.
+   68. Measure flow at all stations and adjust, where necessary, to obtain first balance.
+   69. System components that have Cv rating or an accurately cataloged flow-pressure-drop relationship may be used as a flow-indicating device.
+   70. Measure flow at main balancing station and set main balancing device to achieve flow that is 5 percent greater than design flow.
+   71. Adjust balancing stations to within specified tolerances of design flow rate as follows:
+   72. Determine the balancing station with the highest percentage over design flow.
+   73. Adjust each station in turn, beginning with the station with the highest percentage over design flow and proceeding to the station with the lowest percentage over design flow.
+   74. Record settings and mark balancing devices.
+   75. Measure pump flow rate and make final measurements of pump amperage, voltage, rpm, pump heads, and systems' pressures and temperatures, including outdoor-air temperature.
+   76. Measure the differential-pressure control valve settings existing at the conclusions of balancing.
+   77. Variable-Flow Hydronic Systems' Additional Procedures:
+   78. Balance systems with automatic 2- and 3-way control valves by setting systems at maximum flow through heat-exchange terminals and proceed as specified above for hydronic systems.
+   79. Primary-Secondary-Flow Hydronic Systems' Additional Procedures:
+   80. Balance the primary system crossover flow first, then balance the secondary system.
+   81. Heat Exchangers:
+   82. Measure water flow through all circuits.
+   83. Adjust water flow to within specified tolerances.
+   84. Measure inlet and outlet water temperatures.
+   85. Measure inlet steam pressure. Check the setting and operation of automatic temperature-control valves, self-contained control valves, and pressure-reducing valves.
+   86. Record safety valve settings.
+   87. Verify operation of steam traps.
+   88. Motors:
+   89. Motors, 1/2 HP and Larger:
+   90. Test at final balanced conditions and record the following data:
+       1. Manufacturer, model, and serial numbers.
+   91. Motor horsepower rating.
+   92. Motor rpm.
+   93. Efficiency rating if high-efficiency motor.
+   94. Nameplate and measured voltage, each phase.
+   95. Nameplate and measured amperage, each phase.
+   96. Starter thermal-protection-element rating.
+   97. Motors Driven by Variable-Frequency Controllers:
+   98. Test for proper operation at speeds varying from minimum to maximum. Test the manual bypass for the controller to prove proper operation. Record observations, including controller manufacturer, model and serial numbers, and nameplate data.
+   99. Chillers:
+   100. Balance water flow through each evaporator and condenser to within specified tolerances of design flow with all pumps operating. With only one chiller operating in a multiple chiller installation, do not exceed the flow for the maximum tube velocity recommended by the chiller manufacturer. Measure and record the following data with each chiller operating at design conditions:
+   101. Evaporator water entering and leaving temperatures, pressure drop, and water flow.
+   102. Condenser water entering and leaving temperatures, pressure drop, and water flow.
+   103. Evaporator and condenser refrigerant temperatures and pressures, using instruments furnished by the chiller manufacturer.
+   104. Power factor if factory-installed instrumentation is furnished for measuring kW.
+   105. The kW input if factory-installed instrumentation is furnished for measuring kW.
+   106. Capacity:
+   107. Calculate in tons of cooling.
+   108. Air-Cooled Chillers:
+   109. Verify condenser-fan rotation and record fan data, including number of fans and entering- and leaving-air temperatures.
+   110. Cooling Towers:
+   111. Shut off makeup water for the duration of the test, and then make sure the makeup and blow-down systems are fully operational after tests and before leaving the equipment. Perform the following tests and record the results:
+   112. Measure condenser water flow to each cell of the cooling tower.
+   113. Measure entering- and leaving-water temperatures.
+   114. Measure wet- and dry-bulb temperatures of entering air.
+   115. Measure wet- and dry-bulb temperatures of leaving air.
+   116. Measure condenser water flow rate recirculating through the cooling tower.
+   117. Measure cooling tower pump discharge pressure.
+   118. Adjust water level and feed rate of makeup-water system.
+   119. Condensing Units:
+   120. Verify proper rotation of fans and measure entering- and leaving-air temperatures. Record compressor data.
+   121. Boilers:
+   122. Measure entering- and leaving-water temperatures and water flow.
+   123. Heat-Transfer Coils:
+   124. Water Coils:
+   125. Measure the following data for each coil:
+        1. Entering- and leaving-water temperatures.
+   126. Water flow rate.
+   127. Water pressure drop.
+   128. Dry-bulb temperatures of entering and leaving air.
+   129. Wet-bulb temperatures of entering and leaving air for cooling coils designed for less than 7500 cfm.
+   130. Airflow.
+   131. Air pressure drop.
+   132. Electric-Heating Coils:
+   133. Measure the following data for each coil:
+   134. Nameplate data.
+   135. Airflow.
+   136. Entering- and leaving-air temperatures at full load.
+   137. Voltage and amperage input of each phase at full load and at each incremental stage.
+   138. Calculated kW at full load.
+   139. Fuse or circuit-breaker rating for overload protection.
+   140. Temperature Testing:
+   141. During testing, adjusting, and balancing, report need for adjustment in temperature regulation within the automatic temperature-control system.
+   142. Measure indoor wet- and dry-bulb temperatures every other hour for a period of two successive 8-hour days, in each separately controlled zone, to prove correctness of final temperature settings. Measure when the building or zone is occupied.
+   143. Measure outside-air, wet- and dry-bulb temperatures.
+   144. Fume Hoods:
+   145. Determine total airflow into the room where the fume hood is located and balance systems to ensure adequate air supply to all hoods.
+   146. Set fume-hood door opening at position of normal use.
+   147. Energize the exhaust fan and adjust airflow to provide the indicated average fume-hood face velocity at hood opening.
+   148. Measure exhaust airflow volume by measuring airflow by Pitot-tube duct traverse.
+   149. Measure air velocity using Pitot-tube traverse method.
+   150. Record each face velocity measurement taken at 4- to 6-inch increments over the entire hood door opening.
+   151. Calculate the average face velocity by averaging all velocity measurements.
+   152. Calculate the airflow volume of exhaust-hood face velocity by multiplying the calculated average face velocity by the opening area. Compare this quantity with exhaust volume at exhaust fan and report duct leakage.
+   153. Measure airflow volume supplied by makeup fan. Verify that the makeup system supplies the proper amount of air to keep the space at the indicated pressure with the exhaust systems in all operating conditions.
+   154. Retest for average face velocity. Adjust hood baffles, fan drives, and other parts of the system to provide the indicated average face velocity and the indicated auxiliary air-supply percentages.
+   155. Retest and adjust the systems until fume-hood performance complies with Contract Documents.
+   156. Temperature-Control Verification:
+        1. Verify that controllers are calibrated.
+   157. Check transmitter and controller locations and note conditions that would adversely affect control functions.
+   158. Record controller settings and note variances between set points and actual measurements.
+   159. Verify operation of limiting controllers (i.e., high- and low-temperature controllers).
+   160. Verify free travel and proper operation of control devices such as damper and valve operators.
+   161. Verify sequence of operation of control devices. Note air pressures and device positions and correlate with airflow and water-flow measurements. Note the speed of response to input changes.
+   162. Confirm interaction of electrically operated switch transducers.
+   163. Confirm interaction of interlock and lockout systems.
+   164. Verify main control supply-air pressure and observe compressor and dryer operations.
+   165. Record voltages of power supply and controller output. Determine if the system operates on a grounded or nongrounded power supply.
+   166. Note operation of electric actuators using spring return for proper fail-safe operations.
+   167. Tolerances:
+   168. Set HVAC system airflow and water flow rates within the following tolerances:
+   169. Supply, Return, and Exhaust Fans:
+        1. 0 to plus 10 percent.
+   170. Air Outlets and Inlets:
+   171. Positive Zones Negative Zones
+   172. Supply Air 0 to +10% Supply Air 0 to –10%
+   173. Exh/Ret Air 0 to –10% Exh/Ret Air 0 to +10%
 
-*Note: When spaces are balanced to the above criteria, the differential between air in and air out must be maintained.*
-   1. Heating-Water Flow Rate:
-      1. 0 to minus 10 percent.
-   1. Cooling-Water Flow Rate:
-      1. 0 to minus 5 percent.
-   1. Reporting:
-      1. Initial Construction-Phase Report:
-         1. Based on examination of the Contract Documents as specified in "Examination" Article above, prepare a report on the adequacy of design for systems' balancing devices. Recommend changes and additions to systems' balancing devices to facilitate proper performance measuring and balancing. Recommend changes and additions to HVAC systems and general construction to allow access for performance measuring and balancing devices.
-   1. Status Reports:
-      1. As Work progresses, prepare reports to describe completed procedures, procedures in progress, and scheduled procedures. Include a list of deficiencies and problems found in systems being tested and balanced. Prepare a separate report for each system and each building floor for systems serving multiple floors.
-   1. Final Report:
-	1. General:
-         1. Typewritten, or computer printout in letter-quality font, on standard bond paper, in 3-ring binder, tabulated and divided into sections by tested and balanced systems.
-   1. Include a certification sheet in front of binder signed and sealed by the certified testing and balancing engineer.
-   1. Include a list of the instruments used for procedures, along with proof of calibration.
-   1. Final Report Contents:
-      1. In addition to the certified field report data, include the following:
-      1. Pump curves.
-   1. Fan curves.
-   1. Manufacturers' test data.
-   1. Field test reports prepared by system and equipment installers.
-   1. Other information relative to equipment performance, but do not include approved Shop Drawings and Product Data.
-    1. General Report Data:
-      1. In addition to the form titles and entries, include the following data in the final report, as applicable:
-      2. Title page.
-   3. Name and address of testing, adjusting, and balancing Agent.
-   4. Project name.
-   5. Project location.
-   6. Architect's name and address.
-   7. Engineer's name and address.
-   8. Contractor's name and address.
-   9. Report date.
-   10. Signature of testing, adjusting, and balancing Agent who certifies the report.
-   11. Summary of contents, including the following:
-      1. Design versus final performance.
-   12. Notable characteristics of systems.
-   13. Description of system operation sequence if it varies from the Contract Documents.
-   14. Nomenclature sheets for each item of equipment.
-   15. Data for terminal units, including manufacturer, type size, and fittings.
-   16. Notes to explain why certain final data in the body of reports vary from design values.
-   17. Test conditions for fans and pump performance forms, including the following:
-      2. Settings for outside-, return-, and exhaust-air dampers.
-   18. Conditions of filters.
-   19. Cooling coil, wet- and dry-bulb conditions.
-   20. Face and bypass damper settings at coils.
-   21. Fan drive settings, including settings and percentage of maximum pitch diameter.
-   22. Inlet vane settings for variable-air-volume systems.
-   23. Settings for supply-air, static-pressure controller.
-   24. Other system operating conditions that affect performance.
-   25. System Diagrams:
-      3. Include schematic layouts of air and hydronic distribution systems. Present with single-line diagrams and include the following:
-      4. Quantities of outside, supply, return, and exhaust airflows.
-   26. Water and steam flow rates.
-   27. Duct, outlet, and inlet sizes.
-   28. Pipe and valve sizes and locations.
-   29. Terminal units.
-   30. Balancing stations.
-   31. Air-Handling Unit Test Reports:
-      5. For air-handling units with coils, include the following:
-      6. Unit Data:
-         1. Include the following:
-               1. Unit identification.
-   32. Location.
-   33. Make and type.
-   34. Model number and unit size.
-   35. Manufacturer's serial number.
-   36. Unit arrangement and class.
-   37. Discharge arrangement.
-   38. Sheave make, size in inches, and bore.
-   39. Sheave dimensions, center-to-center and amount of adjustments in inches.
-   40. Number of belts, make, and size.
-   41. Number of filters, type, and size.
-   42. Motor Data:
-      7. Include the following:
-      8. Make and frame type and size.
-   43. Horsepower and rpm.
-   44. Volts, phase, and hertz.
-   45. Full-load amperage and service factor.
-   46. Sheave make, size in inches, and bore.
-   47. Sheave dimensions, center-to-center and amount of adjustments in inches.
-   48. Test Data:
-      9. Include design and actual values for the following:
-      10. Total airflow rate in cfm.
-   49. Total system static pressure in inches wg.
-   50. Fan rpm.
-   51. Discharge static pressure in inches wg.
-   52. Filter static-pressure differential in inches wg.
-   53. Preheat coil static-pressure differential in inches wg.
-   54. Cooling coil static-pressure differential in inches wg.
-   55. Heating coil static-pressure differential in inches wg.
-   56. Outside airflow in cfm.
-   57. Return airflow in cfm.
-   58. Outside-air damper position.
-   59. Return-air damper position.
-   60. Vortex damper position.
-   61. Apparatus-Coil Test Reports:
-      11. For apparatus coils, include the following:
-      12. Coil Data:
-         1. Include the following:
-               1. System identification.
-   62. Location.
-   63. Coil type.
-   64. Number of rows.
-   65. Fin spacing in fins per inch.
-   66. Make and model number.
-   67. Face area in sq. ft.
-   68. Tube size in DN.
-   69. Tube and fin materials.
-   70. Circuiting arrangement.
-   71. Test Data:
-      13. Include design and actual values for the following:
-      14. Airflow rate in cfm.
-   72. Average face velocity in fpm.
-   73. Air pressure drop in inches wg.
-   74. Outside-air, wet- and dry-bulb temperatures in deg F.
-   75. Return-air, wet- and dry-bulb temperatures in deg F.
-   76. Entering-air, wet- and dry-bulb temperatures in deg F.
-   77. Leaving-air, wet- and dry-bulb temperatures in deg F.
-   78. Water flow rate in gpm.
-   79. Water pressure differential in feet of head or psig.
-   80. Entering-water temperature in deg F.
-   81. Leaving-water temperature in deg F.
-   82. Refrigerant expansion valve and refrigerant types.
-   83. Refrigerant suction pressure in psig.
-   84. Refrigerant suction temperature in deg F.
-   85. Inlet steam pressure in psig.
-   86. Gas- and Oil-Fired Heat Apparatus Test Reports:
-      15. In addition to the manufacturer's factory startup equipment reports, include the following:
-      16. Unit Data:
-         1. Include the following:
-               1. System identification.
-   87. Location.
-   88. Make and type.
-   89. Model number and unit size.
-   90. Manufacturer's serial number.
-   91. Fuel type in input data.
-   92. Output capacity in Btuh.
-   93. Ignition type.
-   94. Burner-control types.
-   95. Motor horsepower and rpm.
-   96. Motor volts, phase, and hertz.
-   97. Motor full-load amperage and service factor.
-   98. Sheave make, size in inches, and bore.
-   99. Sheave dimensions, center-to-center and amount of adjustments in inches.
-   100. Test Data:
-      17. Include design and actual values for the following:
-      18. Total airflow rate in cfm.
-   101. Entering-air temperature in deg F.
-   102. Leaving-air temperature in deg F.
-   103. Air temperature differential in deg F.
-   104. Entering-air static pressure in inches wg.
-   105. Leaving-air static pressure in inches wg.
-   106. Air static-pressure differential in (inches wg.
-   107. Low-fire fuel input in Btuh.
-   108. High-fire fuel input in Btuh.
-   109. Manifold pressure in psig.
-   110. High-temperature-limit setting in deg F.
-   111. Operating set point in Btuh.
-   112. Motor voltage at each connection.
-   113. Motor amperage for each phase.
-   114. Heating value of fuel in Btuh.
-   115. Electric-Coil Test Reports:
-      19. For electric furnaces, duct coils, and electric coils installed in central-station air-handling units, include the following:
-      20. Unit Data:
-         1. Include the following:
-               1. System identification.
-   116. Location.
-   117. Coil identification.
-   118. Capacity in Btuh.
-   119. Number of stages.
-   120. Connected volts, phase, and hertz.
-   121. Rated amperage.
-   122. Airflow rate in cfm.
-   123. Face area in sq. ft.
-   124. Minimum face velocity in fpm.
-   125. Test Data:
-      21. Include design and actual values for the following:
-      22. Heat output in Btuh.
-   126. Airflow rate in cfm.
-   127. Air velocity in fpm.
-   128. Entering-air temperature in deg F.
-   129. Leaving-air temperature in deg F.
-   130. Voltage at each connection.
-   131. Amperage for each phase.
-   132. Fan Test Reports:
-      23. For supply, return, and exhaust fans, include the following:
-      24. Fan Data:
-         1. Include the following:
-               1. System identification.
-   133. Location.
-   134. Make and type.
-   135. Model number and size.
-   136. Manufacturer's serial number.
-   137. Arrangement and class.
-   138. Sheave make, size in inches, and bore.
-   139. Sheave dimensions, center-to-center and amount of adjustments in inches.
-   140. Motor Data:
-      25. Include the following:
-      26. Make and frame type and size.
-   141. Horsepower and rpm.
-   142. Volts, phase, and hertz.
-   143. Full-load amperage and service factor.
-   144. Sheave make, size in inches, and bore.
-   145. Sheave dimensions, center-to-center and amount of adjustments in inches.
-   146. Number of belts, make, and size.
-   147. Test Data:
-      27. Include design and actual values for the following:
-      28. Total airflow rate in cfm.
-   148. Total system static pressure in inches wg.
-   149. Fan rpm.
-   150. Discharge static pressure in inches wg.
-   151. Suction static pressure in inches wg.
-   152. Round, Flat-Oval, and Rectangular Duct Traverse Reports:
-      29. Include a diagram with a grid representing the duct cross-section and record the following:
-      30. Report Data:
-         1. Include the following:
-               1. System and air-handling unit number.
-   153. Location and zone.
-   154. Traverse air temperature in deg F.
-   155. Duct static pressure in Inches wg.
-   156. Duct size in inches.
-   157. Duct area in sq. m (sq. ft.).
-   158. Design airflow rate in Cfm.
-   159. Design velocity in m/s (fpm).
-   160. Actual airflow rate in Cfm.
-   161. Actual average velocity in m/s (fpm).
-   162. Barometric pressure in Pa (psig).
-   163. Air-Terminal-Device Reports:
-      31. For terminal units, include the following:
-      32. Unit Data:
-         1. Include the following:
-               1. System and air-handling unit identification.
-   164. Location and zone.
-   165. Test apparatus used.
-   166. Area served.
-   167. Air-terminal-device make.
-   168. Air-terminal-device number from system diagram.
-   169. Air-terminal-device type and model number.
-   170. Air-terminal-device size.
-   171. Air-terminal-device effective area in sq. m (sq. ft.).
-   172. Test Data:
-      33. Include design and actual values for the following:
-      34. Airflow rate in cfm.
-   173. Air velocity in m/s (fpm).
-   174. Preliminary airflow rate as needed in cfm.
-   175. Preliminary velocity as needed in m/s (fpm).
-   176. Final airflow rate in cfm.
-   177. Final velocity in m/s (fpm).
-   178. Space temperature in deg F.
-   179. System-Coil Reports:
-      35. For reheat coils and water coils of terminal units, include the following:
-      36. Unit Data:
-         1. Include the following:
-               1. System and air-handling unit identification.
-   180. Location and zone.
-   181. Room or riser served.
-   182. Coil make and size.
-   183. Flowmeter type.
-   184. Test Data:
-      37. Include design and actual values for the following:
-      38. Airflow rate in cfm.
-   185. Entering-water temperature in deg F.
-   186. Leaving-water temperature in deg F.
-   187. Water pressure drop in feet of head or psig.
-   188. Entering-air temperature in deg F.
-   189. Leaving-air temperature in deg F.
-   190. Packaged Chiller Reports:
-      39. For each chiller, include the following:
-      40. Unit Data:
-         1. Include the following:
-               1. Unit identification.
-   191. Make and model number.
-   192. Manufacturer's serial number.
-   193. Refrigerant type and capacity in gal. (L).
-   194. Starter type and size.
-   195. Starter thermal protection size.
-   196. Condenser Test Data:
-      41. Include design and actual values for the following:
-      42. Refrigerant pressure in Btuh.
-   197. Refrigerant temperature in deg F.
-   198. Entering-water temperature in deg F.
-   199. Leaving-water temperature in deg F.
-   200. Entering-water pressure in feet of head or psig.
-   201. Water pressure differential in feet of head or psig.
-   202. Evaporator Test Reports:
-      43. Include design and actual values for the following:
-      44. Refrigerant pressure in Btuh.
-   203. Refrigerant temperature in deg F.
-   204. Entering-water temperature in deg F.
-   205. Leaving-water temperature in deg F.
-   206. Entering-water pressure in feet of head or psig.
-   207. Water pressure differential in feet of head or psig.
-   208. Compressor Test Data:
-      45. Include design and actual values for the following:
-      46. Make and model number.
-   209. Manufacturer's serial number.
-   210. Suction pressure in Btuh.
-   211. Suction temperature in deg F.
-   212. Discharge pressure in Btuh.
-   213. Discharge temperature in deg F.
-   214. Oil pressure in Btuh.
-   215. Oil temperature in deg F.
-   216. Voltage at each connection.
-   217. Amperage for each phase.
-   218. The kW input.
-   219. Crankcase heater kW.
-   220. Chilled water control set point in deg F.
-   221. Condenser water control set point in deg F.
-   222. Refrigerant low-pressure-cutoff set point in Btuh.
-   223. Refrigerant high-pressure-cutoff set point in Btuh.
-   224. Refrigerant Test Data:
-      47. Include design and actual values for the following:
-      48. Oil level.
-   225. Refrigerant level.
-   226. Relief valve setting in Btuh.
-   227. Unloader set points in Btuh.
-   228. Percentage of cylinders unloaded.
-   229. Bearing temperatures in deg F.
-   230. Vane position.
-   231. Low-temperature-cutoff set point in deg F.
-   232. Compressor and Condenser Reports:
-      49. For refrigerant side of unitary systems, stand-alone refrigerant compressors, air-cooled condensing units, or water-cooled condensing units, include the following:
-      50. Unit Data:
-         1. Include the following:
-               1. Unit identification.
-   233. Location.
-   234. Unit make and model number.
-   235. Manufacturer's compressor serial numbers.
-   236. Compressor make.
-   237. Compressor model and serial numbers.
-   238. Refrigerant weight in kg (lb).
-   239. Low ambient temperature cutoff in deg F.
-   240. Test Data:
-      51. Include design and actual values for the following:
-      52. Inlet-duct static pressure in Inches wg.
-   241. Outlet-duct static pressure in Inches wg.
-   242. Entering-air, dry-bulb temperature in deg F.
-   243. Leaving-air, dry-bulb temperature in deg F.
-   244. Condenser entering-water temperature in deg F.
-   245. Condenser leaving-water temperature in deg F.
-   246. Condenser water temperature differential in deg F.
-   247. Condenser entering-water pressure in feet of head or psig.
-   248. Condenser leaving-water pressure in feet of head or psig.
-   249. Condenser water pressure differential in feet of head or psig.
-   250. Control settings.
-   251. Unloader set points.
-   252. Low-pressure-cutout set point in Btuh.
-   253. High-pressure-cutout set point in Btuh.
-   254. Suction pressure in Btuh.
-   255. Suction temperature in deg F.
-   256. Condenser refrigerant pressure in Btuh.
-   257. Condenser refrigerant temperature in deg F.
-   258. Oil pressure in Btuh.
-   259. Oil temperature in deg F.
-   260. Voltage at each connection.
-   261. Amperage for each phase.
-   262. The kW input.
-   263. Crankcase heater kW.
-   264. Number of fans.
-   265. Condenser fan rpm.
-   266. Condenser fan airflow rate in Cfm.
-   267. Condenser fan motor make, frame size, rpm, and horsepower.
-   268. Condenser fan motor voltage at each connection.
-   269. Condenser fan motor amperage for each phase.
-   270. Cooling Tower or Condenser Test Reports:
-      53. For cooling towers or condensers, include the following:
-      54. Unit Data:
-         1. Include the following:
-               1. Unit identification.
-   271. Make and type.
-   272. Model and serial numbers.
-   273. Nominal cooling capacity in kW (tons).
-   274. Refrigerant type and weight in kg (lb).
-   275. Water-treatment chemical feeder and chemical.
-   276. Number and type of fans.
-   277. Fan motor make, frame size, rpm, and horsepower.
-   278. Fan motor voltage at each connection.
-   279. Sheave make, size in inches, and bore.
-   280. Sheave dimensions, center-to-center and amount of adjustments in inches.
-   281. Number of belts, make, and size.
-   282. Pump Test Data:
-      55. Include design and actual values for the following:
-      56. Make and model number.
-   283. Manufacturer's serial number.
-   284. Motor make and frame size.
-   285. Motor horsepower and rpm.
-   286. Voltage at each connection.
-   287. Amperage for each phase.
-   288. Water flow rate in gpm.
-   289. Water Test Data:
-      57. Include design and actual values for the following:
-      58. Entering-water temperature in deg F.
-   290. Leaving-water temperature in deg F.
-   291. Water temperature differential in deg F.
-   292. Entering-water pressure in feet of head or psig.
-   293. Leaving-water pressure in feet of head or psig.
-   294. Water pressure differential in feet of head or psig.
-   295. Water flow rate in gpm.
-   296. Bleed water flow rate in gpm.
-   297. Air Data:
-      59. Include design and actual values for the following:
-      60. Duct airflow rate in Cfm.
-   298. Inlet-duct static pressure in Inches wg.
-   299. Outlet-duct static pressure in Inches wg.
-   300. Average entering-air, wet-bulb temperature in deg F.
-   301. Average leaving-air, wet-bulb temperature in deg F.
-   302. Ambient wet-bulb temperature in deg F.
-   303. Heat-Exchanger/Converter Test Reports:
-      61. For steam and hot-water heat exchangers, include the following:
-      62. Unit Data:
-         1. Include the following:
-               1. Unit identification.
-   304. Location.
-   305. Service.
-   306. Make and type.
-   307. Model and serial numbers.
-   308. Ratings.
-   309. Steam Test Data:
-      63. Include design and actual values for the following:
-      64. Inlet pressure in Btuh.
-   310. Condensate flow rate in gpm.
-   311. Primary Water Test Data:
-      65. Include design and actual values for the following:
-      66. Entering-water temperature in deg F.
-   312. Leaving-water temperature in deg F.
-   313. Entering-water pressure in feet of head or psig.
-   314. Water pressure differential in feet of head or psig.
-   315. Water flow rate in gpm.
-   316. Secondary Water Test Data:
-      67. Include design and actual values for the following:
-      68. Entering-water temperature in deg F.
-   317. Leaving-water temperature in deg F.
-   318. Entering-water pressure in feet of head or psig.
-   319. Water pressure differential in feet of head or psig.
-   320. Water flow rate in gpm.
-   321. Pump Test Reports:
-      69. For pumps, include the following data. Calculate impeller size by plotting the shutoff head on pump curves.
-   322. Unit Data:
-      70. Include the following:
-      71. Unit identification.
-   323. Location.
-   324. Service.
-   325. Make and size.
-   326. Model and serial numbers.
-   327. Water flow rate in gpm.
-   328. Water pressure differential in feet of head or psig.
-   329. Required net positive suction head in feet of head or psig.
-   330. Pump rpm.
-   331. Impeller diameter in inches.
-   332. Motor make and frame size.
-   333. Motor horsepower and rpm.
-   334. Voltage at each connection.
-   335. Amperage for each phase.
-   336. Full-load amperage and service factor.
-   337. Seal type.
-   338. Test Data:
-      72. Include design and actual values for the following:
-      73. Static head in feet of head or psig.
-   339. Pump shutoff pressure in feet of head or psig.
-   340. Actual impeller size in inches.
-   341. Full-open flow rate in gpm.
-   342. Full-open pressure in feet of head or psig.
-   343. Final discharge pressure in feet of head or psig.
-   344. Final suction pressure in feet of head or psig.
-   345. Final total pressure in feet of head or psig.
-   346. Final water flow rate in gpm.
-   347. Voltage at each connection.
-   348. Amperage for each phase.
-   349. Pump Impeller Trimming for Energy Conservation:
-      74. After systems with constant speed base mounted centrifugal pumps, 15 hp and larger, have been adjusted and balanced, using flow and amperage readings and the pump curves, determine whether a minimum of 3 horsepower could be saved by impeller trimming in accordance with ASHRAE Standard 90.1. If such is the case, submit results for approval prior to advising the installing contractor of the amount of trimming required.
-   350. Boiler Test Reports:
-      75. For boilers, include the following:
-      76. Unit Data:
-         1. Include the following:
-               1. Unit identification.
-   351. Location.
-   352. Service.
-   353. Make and type.
-   354. Model and serial numbers.
-   355. Fuel type and input in Btuh.
-   356. Number of passes.
-   357. Ignition type.
-   358. Burner-control types.
-   359. Voltage at each connection.
-   360. Amperage for each phase.
-   361. Test Data:
-      77. Include design and actual values for the following:
-      78. Operating pressure in Btuh.
-   362. Operating temperature in deg F.
-   363. Entering-water temperature in deg F.
-   364. Leaving-water temperature in deg F.
-   365. Number of safety valves and sizes in NPS.
-   366. Safety valve settings in Btuh.
-   367. High-limit setting in Btuh.
-   368. Operating-control setting.
-   369. High-fire set point.
-   370. Low-fire set point.
-   371. Voltage at each connection.
-   372. Amperage for each phase.
-   373. Draft fan voltage at each connection.
-   374. Draft fan amperage for each phase.
-   375. Manifold pressure in Btuh.
-   376. Additional Tests:
-      79. Within 90 days of completing testing, adjusting, and balancing, perform additional testing and balancing to verify that balanced conditions are being maintained throughout and to correct unusual conditions.
-   377. Seasonal Periods:
-      80. If initial testing, adjusting, and balancing procedures were not performed during near-peak summer and winter conditions, perform additional inspections, testing, and adjusting during near-peak summer and winter conditions.
+_Note: When spaces are balanced to the above criteria, the differential between air in and air out must be maintained._
+
+1.  Heating-Water Flow Rate:
+    1. 0 to minus 10 percent.
+1.  Cooling-Water Flow Rate:
+    1. 0 to minus 5 percent.
+1.  Reporting:
+    1. Initial Construction-Phase Report:
+       1. Based on examination of the Contract Documents as specified in "Examination" Article above, prepare a report on the adequacy of design for systems' balancing devices. Recommend changes and additions to systems' balancing devices to facilitate proper performance measuring and balancing. Recommend changes and additions to HVAC systems and general construction to allow access for performance measuring and balancing devices.
+1.  Status Reports:
+    1. As Work progresses, prepare reports to describe completed procedures, procedures in progress, and scheduled procedures. Include a list of deficiencies and problems found in systems being tested and balanced. Prepare a separate report for each system and each building floor for systems serving multiple floors.
+1.  Final Report:
+1.  General:
+    1.  Typewritten, or computer printout in letter-quality font, on standard bond paper, in 3-ring binder, tabulated and divided into sections by tested and balanced systems.
+1.  Include a certification sheet in front of binder signed and sealed by the certified testing and balancing engineer.
+1.  Include a list of the instruments used for procedures, along with proof of calibration.
+1.  Final Report Contents:
+    1. In addition to the certified field report data, include the following:
+    1. Pump curves.
+1.  Fan curves.
+1.  Manufacturers' test data.
+1.  Field test reports prepared by system and equipment installers.
+1.  Other information relative to equipment performance, but do not include approved Shop Drawings and Product Data.
+1.  General Report Data:
+1.  In addition to the form titles and entries, include the following data in the final report, as applicable:
+1.  Title page.
+1.  Name and address of testing, adjusting, and balancing Agent.
+1.  Project name.
+1.  Project location.
+1.  Architect's name and address.
+1.  Engineer's name and address.
+1.  Contractor's name and address.
+1.  Report date.
+1.  Signature of testing, adjusting, and balancing Agent who certifies the report.
+1.  Summary of contents, including the following:
+1.  Design versus final performance.
+1.  Notable characteristics of systems.
+1.  Description of system operation sequence if it varies from the Contract Documents.
+1.  Nomenclature sheets for each item of equipment.
+1.  Data for terminal units, including manufacturer, type size, and fittings.
+1.  Notes to explain why certain final data in the body of reports vary from design values.
+1.  Test conditions for fans and pump performance forms, including the following:
+1.  Settings for outside-, return-, and exhaust-air dampers.
+1.  Conditions of filters.
+1.  Cooling coil, wet- and dry-bulb conditions.
+1.  Face and bypass damper settings at coils.
+1.  Fan drive settings, including settings and percentage of maximum pitch diameter.
+1.  Inlet vane settings for variable-air-volume systems.
+1.  Settings for supply-air, static-pressure controller.
+1.  Other system operating conditions that affect performance.
+1.  System Diagrams:
+1.  Include schematic layouts of air and hydronic distribution systems. Present with single-line diagrams and include the following:
+1.  Quantities of outside, supply, return, and exhaust airflows.
+1.  Water and steam flow rates.
+1.  Duct, outlet, and inlet sizes.
+1.  Pipe and valve sizes and locations.
+1.  Terminal units.
+1.  Balancing stations.
+1.  Air-Handling Unit Test Reports:
+1.  For air-handling units with coils, include the following:
+1.  Unit Data:
+    1.  Include the following:
+        1.  Unit identification.
+1.  Location.
+1.  Make and type.
+1.  Model number and unit size.
+1.  Manufacturer's serial number.
+1.  Unit arrangement and class.
+1.  Discharge arrangement.
+1.  Sheave make, size in inches, and bore.
+1.  Sheave dimensions, center-to-center and amount of adjustments in inches.
+1.  Number of belts, make, and size.
+1.  Number of filters, type, and size.
+1.  Motor Data:
+1.  Include the following:
+1.  Make and frame type and size.
+1.  Horsepower and rpm.
+1.  Volts, phase, and hertz.
+1.  Full-load amperage and service factor.
+1.  Sheave make, size in inches, and bore.
+1.  Sheave dimensions, center-to-center and amount of adjustments in inches.
+1.  Test Data:
+1.  Include design and actual values for the following:
+1.  Total airflow rate in cfm.
+1.  Total system static pressure in inches wg.
+1.  Fan rpm.
+1.  Discharge static pressure in inches wg.
+1.  Filter static-pressure differential in inches wg.
+1.  Preheat coil static-pressure differential in inches wg.
+1.  Cooling coil static-pressure differential in inches wg.
+1.  Heating coil static-pressure differential in inches wg.
+1.  Outside airflow in cfm.
+1.  Return airflow in cfm.
+1.  Outside-air damper position.
+1.  Return-air damper position.
+1.  Vortex damper position.
+1.  Apparatus-Coil Test Reports:
+1.  For apparatus coils, include the following:
+1.  Coil Data:
+1.  Include the following:
+    1.  System identification.
+1.  Location.
+1.  Coil type.
+1.  Number of rows.
+1.  Fin spacing in fins per inch.
+1.  Make and model number.
+1.  Face area in sq. ft.
+1.  Tube size in DN.
+1.  Tube and fin materials.
+1.  Circuiting arrangement.
+1.  Test Data:
+1.  Include design and actual values for the following:
+1.  Airflow rate in cfm.
+1.  Average face velocity in fpm.
+1.  Air pressure drop in inches wg.
+1.  Outside-air, wet- and dry-bulb temperatures in deg F.
+1.  Return-air, wet- and dry-bulb temperatures in deg F.
+1.  Entering-air, wet- and dry-bulb temperatures in deg F.
+1.  Leaving-air, wet- and dry-bulb temperatures in deg F.
+1.  Water flow rate in gpm.
+1.  Water pressure differential in feet of head or psig.
+1.  Entering-water temperature in deg F.
+1.  Leaving-water temperature in deg F.
+1.  Refrigerant expansion valve and refrigerant types.
+1.  Refrigerant suction pressure in psig.
+1.  Refrigerant suction temperature in deg F.
+1.  Inlet steam pressure in psig.
+1.  Gas- and Oil-Fired Heat Apparatus Test Reports:
+1.  In addition to the manufacturer's factory startup equipment reports, include the following:
+1.  Unit Data:
+1.  Include the following:
+    1.  System identification.
+1.  Location.
+1.  Make and type.
+1.  Model number and unit size.
+1.  Manufacturer's serial number.
+1.  Fuel type in input data.
+1.  Output capacity in Btuh.
+1.  Ignition type.
+1.  Burner-control types.
+1.  Motor horsepower and rpm.
+1.  Motor volts, phase, and hertz.
+1.  Motor full-load amperage and service factor.
+1.  Sheave make, size in inches, and bore.
+1.  Sheave dimensions, center-to-center and amount of adjustments in inches.
+1.  Test Data:
+1.  Include design and actual values for the following:
+1.  Total airflow rate in cfm.
+1.  Entering-air temperature in deg F.
+1.  Leaving-air temperature in deg F.
+1.  Air temperature differential in deg F.
+1.  Entering-air static pressure in inches wg.
+1.  Leaving-air static pressure in inches wg.
+1.  Air static-pressure differential in (inches wg.
+1.  Low-fire fuel input in Btuh.
+1.  High-fire fuel input in Btuh.
+1.  Manifold pressure in psig.
+1.  High-temperature-limit setting in deg F.
+1.  Operating set point in Btuh.
+1.  Motor voltage at each connection.
+1.  Motor amperage for each phase.
+1.  Heating value of fuel in Btuh.
+1.  Electric-Coil Test Reports:
+1.  For electric furnaces, duct coils, and electric coils installed in central-station air-handling units, include the following:
+1.  Unit Data:
+1.  Include the following:
+    1.  System identification.
+1.  Location.
+1.  Coil identification.
+1.  Capacity in Btuh.
+1.  Number of stages.
+1.  Connected volts, phase, and hertz.
+1.  Rated amperage.
+1.  Airflow rate in cfm.
+1.  Face area in sq. ft.
+1.  Minimum face velocity in fpm.
+1.  Test Data:
+1.  Include design and actual values for the following:
+1.  Heat output in Btuh.
+1.  Airflow rate in cfm.
+1.  Air velocity in fpm.
+1.  Entering-air temperature in deg F.
+1.  Leaving-air temperature in deg F.
+1.  Voltage at each connection.
+1.  Amperage for each phase.
+1.  Fan Test Reports:
+1.  For supply, return, and exhaust fans, include the following:
+1.  Fan Data:
+1.  Include the following:
+    1.  System identification.
+1.  Location.
+1.  Make and type.
+1.  Model number and size.
+1.  Manufacturer's serial number.
+1.  Arrangement and class.
+1.  Sheave make, size in inches, and bore.
+1.  Sheave dimensions, center-to-center and amount of adjustments in inches.
+1.  Motor Data:
+1.  Include the following:
+1.  Make and frame type and size.
+1.  Horsepower and rpm.
+1.  Volts, phase, and hertz.
+1.  Full-load amperage and service factor.
+1.  Sheave make, size in inches, and bore.
+1.  Sheave dimensions, center-to-center and amount of adjustments in inches.
+1.  Number of belts, make, and size.
+1.  Test Data:
+1.  Include design and actual values for the following:
+1.  Total airflow rate in cfm.
+1.  Total system static pressure in inches wg.
+1.  Fan rpm.
+1.  Discharge static pressure in inches wg.
+1.  Suction static pressure in inches wg.
+1.  Round, Flat-Oval, and Rectangular Duct Traverse Reports:
+1.  Include a diagram with a grid representing the duct cross-section and record the following:
+1.  Report Data:
+1.  Include the following:
+    1.  System and air-handling unit number.
+1.  Location and zone.
+1.  Traverse air temperature in deg F.
+1.  Duct static pressure in Inches wg.
+1.  Duct size in inches.
+1.  Duct area in sq. m (sq. ft.).
+1.  Design airflow rate in Cfm.
+1.  Design velocity in m/s (fpm).
+1.  Actual airflow rate in Cfm.
+1.  Actual average velocity in m/s (fpm).
+1.  Barometric pressure in Pa (psig).
+1.  Air-Terminal-Device Reports:
+1.  For terminal units, include the following:
+1.  Unit Data:
+1.  Include the following:
+    1.  System and air-handling unit identification.
+1.  Location and zone.
+1.  Test apparatus used.
+1.  Area served.
+1.  Air-terminal-device make.
+1.  Air-terminal-device number from system diagram.
+1.  Air-terminal-device type and model number.
+1.  Air-terminal-device size.
+1.  Air-terminal-device effective area in sq. m (sq. ft.).
+1.  Test Data:
+1.  Include design and actual values for the following:
+1.  Airflow rate in cfm.
+1.  Air velocity in m/s (fpm).
+1.  Preliminary airflow rate as needed in cfm.
+1.  Preliminary velocity as needed in m/s (fpm).
+1.  Final airflow rate in cfm.
+1.  Final velocity in m/s (fpm).
+1.  Space temperature in deg F.
+1.  System-Coil Reports:
+1.  For reheat coils and water coils of terminal units, include the following:
+1.  Unit Data:
+1.  Include the following:
+    1.  System and air-handling unit identification.
+1.  Location and zone.
+1.  Room or riser served.
+1.  Coil make and size.
+1.  Flowmeter type.
+1.  Test Data:
+1.  Include design and actual values for the following:
+1.  Airflow rate in cfm.
+1.  Entering-water temperature in deg F.
+1.  Leaving-water temperature in deg F.
+1.  Water pressure drop in feet of head or psig.
+1.  Entering-air temperature in deg F.
+1.  Leaving-air temperature in deg F.
+1.  Packaged Chiller Reports:
+1.  For each chiller, include the following:
+1.  Unit Data:
+1.  Include the following:
+    1.  Unit identification.
+1.  Make and model number.
+1.  Manufacturer's serial number.
+1.  Refrigerant type and capacity in gal. (L).
+1.  Starter type and size.
+1.  Starter thermal protection size.
+1.  Condenser Test Data:
+1.  Include design and actual values for the following:
+1.  Refrigerant pressure in Btuh.
+1.  Refrigerant temperature in deg F.
+1.  Entering-water temperature in deg F.
+1.  Leaving-water temperature in deg F.
+1.  Entering-water pressure in feet of head or psig.
+1.  Water pressure differential in feet of head or psig.
+1.  Evaporator Test Reports:
+1.  Include design and actual values for the following:
+1.  Refrigerant pressure in Btuh.
+1.  Refrigerant temperature in deg F.
+1.  Entering-water temperature in deg F.
+1.  Leaving-water temperature in deg F.
+1.  Entering-water pressure in feet of head or psig.
+1.  Water pressure differential in feet of head or psig.
+1.  Compressor Test Data:
+1.  Include design and actual values for the following:
+1.  Make and model number.
+1.  Manufacturer's serial number.
+1.  Suction pressure in Btuh.
+1.  Suction temperature in deg F.
+1.  Discharge pressure in Btuh.
+1.  Discharge temperature in deg F.
+1.  Oil pressure in Btuh.
+1.  Oil temperature in deg F.
+1.  Voltage at each connection.
+1.  Amperage for each phase.
+1.  The kW input.
+1.  Crankcase heater kW.
+1.  Chilled water control set point in deg F.
+1.  Condenser water control set point in deg F.
+1.  Refrigerant low-pressure-cutoff set point in Btuh.
+1.  Refrigerant high-pressure-cutoff set point in Btuh.
+1.  Refrigerant Test Data:
+1.  Include design and actual values for the following:
+1.  Oil level.
+1.  Refrigerant level.
+1.  Relief valve setting in Btuh.
+1.  Unloader set points in Btuh.
+1.  Percentage of cylinders unloaded.
+1.  Bearing temperatures in deg F.
+1.  Vane position.
+1.  Low-temperature-cutoff set point in deg F.
+1.  Compressor and Condenser Reports:
+1.  For refrigerant side of unitary systems, stand-alone refrigerant compressors, air-cooled condensing units, or water-cooled condensing units, include the following:
+1.  Unit Data:
+1.  Include the following:
+    1.  Unit identification.
+1.  Location.
+1.  Unit make and model number.
+1.  Manufacturer's compressor serial numbers.
+1.  Compressor make.
+1.  Compressor model and serial numbers.
+1.  Refrigerant weight in kg (lb).
+1.  Low ambient temperature cutoff in deg F.
+1.  Test Data:
+1.  Include design and actual values for the following:
+1.  Inlet-duct static pressure in Inches wg.
+1.  Outlet-duct static pressure in Inches wg.
+1.  Entering-air, dry-bulb temperature in deg F.
+1.  Leaving-air, dry-bulb temperature in deg F.
+1.  Condenser entering-water temperature in deg F.
+1.  Condenser leaving-water temperature in deg F.
+1.  Condenser water temperature differential in deg F.
+1.  Condenser entering-water pressure in feet of head or psig.
+1.  Condenser leaving-water pressure in feet of head or psig.
+1.  Condenser water pressure differential in feet of head or psig.
+1.  Control settings.
+1.  Unloader set points.
+1.  Low-pressure-cutout set point in Btuh.
+1.  High-pressure-cutout set point in Btuh.
+1.  Suction pressure in Btuh.
+1.  Suction temperature in deg F.
+1.  Condenser refrigerant pressure in Btuh.
+1.  Condenser refrigerant temperature in deg F.
+1.  Oil pressure in Btuh.
+1.  Oil temperature in deg F.
+1.  Voltage at each connection.
+1.  Amperage for each phase.
+1.  The kW input.
+1.  Crankcase heater kW.
+1.  Number of fans.
+1.  Condenser fan rpm.
+1.  Condenser fan airflow rate in Cfm.
+1.  Condenser fan motor make, frame size, rpm, and horsepower.
+1.  Condenser fan motor voltage at each connection.
+1.  Condenser fan motor amperage for each phase.
+1.  Cooling Tower or Condenser Test Reports:
+1.  For cooling towers or condensers, include the following:
+1.  Unit Data:
+1.  Include the following:
+    1.  Unit identification.
+1.  Make and type.
+1.  Model and serial numbers.
+1.  Nominal cooling capacity in kW (tons).
+1.  Refrigerant type and weight in kg (lb).
+1.  Water-treatment chemical feeder and chemical.
+1.  Number and type of fans.
+1.  Fan motor make, frame size, rpm, and horsepower.
+1.  Fan motor voltage at each connection.
+1.  Sheave make, size in inches, and bore.
+1.  Sheave dimensions, center-to-center and amount of adjustments in inches.
+1.  Number of belts, make, and size.
+1.  Pump Test Data:
+1.  Include design and actual values for the following:
+1.  Make and model number.
+1.  Manufacturer's serial number.
+1.  Motor make and frame size.
+1.  Motor horsepower and rpm.
+1.  Voltage at each connection.
+1.  Amperage for each phase.
+1.  Water flow rate in gpm.
+1.  Water Test Data:
+1.  Include design and actual values for the following:
+1.  Entering-water temperature in deg F.
+1.  Leaving-water temperature in deg F.
+1.  Water temperature differential in deg F.
+1.  Entering-water pressure in feet of head or psig.
+1.  Leaving-water pressure in feet of head or psig.
+1.  Water pressure differential in feet of head or psig.
+1.  Water flow rate in gpm.
+1.  Bleed water flow rate in gpm.
+1.  Air Data:
+1.  Include design and actual values for the following:
+1.  Duct airflow rate in Cfm.
+1.  Inlet-duct static pressure in Inches wg.
+1.  Outlet-duct static pressure in Inches wg.
+1.  Average entering-air, wet-bulb temperature in deg F.
+1.  Average leaving-air, wet-bulb temperature in deg F.
+1.  Ambient wet-bulb temperature in deg F.
+1.  Heat-Exchanger/Converter Test Reports:
+1.  For steam and hot-water heat exchangers, include the following:
+1.  Unit Data:
+1.  Include the following:
+    1.  Unit identification.
+1.  Location.
+1.  Service.
+1.  Make and type.
+1.  Model and serial numbers.
+1.  Ratings.
+1.  Steam Test Data:
+1.  Include design and actual values for the following:
+1.  Inlet pressure in Btuh.
+1.  Condensate flow rate in gpm.
+1.  Primary Water Test Data:
+1.  Include design and actual values for the following:
+1.  Entering-water temperature in deg F.
+1.  Leaving-water temperature in deg F.
+1.  Entering-water pressure in feet of head or psig.
+1.  Water pressure differential in feet of head or psig.
+1.  Water flow rate in gpm.
+1.  Secondary Water Test Data:
+1.  Include design and actual values for the following:
+1.  Entering-water temperature in deg F.
+1.  Leaving-water temperature in deg F.
+1.  Entering-water pressure in feet of head or psig.
+1.  Water pressure differential in feet of head or psig.
+1.  Water flow rate in gpm.
+1.  Pump Test Reports:
+1.  For pumps, include the following data. Calculate impeller size by plotting the shutoff head on pump curves.
+1.  Unit Data:
+1.  Include the following:
+1.  Unit identification.
+1.  Location.
+1.  Service.
+1.  Make and size.
+1.  Model and serial numbers.
+1.  Water flow rate in gpm.
+1.  Water pressure differential in feet of head or psig.
+1.  Required net positive suction head in feet of head or psig.
+1.  Pump rpm.
+1.  Impeller diameter in inches.
+1.  Motor make and frame size.
+1.  Motor horsepower and rpm.
+1.  Voltage at each connection.
+1.  Amperage for each phase.
+1.  Full-load amperage and service factor.
+1.  Seal type.
+1.  Test Data:
+1.  Include design and actual values for the following:
+1.  Static head in feet of head or psig.
+1.  Pump shutoff pressure in feet of head or psig.
+1.  Actual impeller size in inches.
+1.  Full-open flow rate in gpm.
+1.  Full-open pressure in feet of head or psig.
+1.  Final discharge pressure in feet of head or psig.
+1.  Final suction pressure in feet of head or psig.
+1.  Final total pressure in feet of head or psig.
+1.  Final water flow rate in gpm.
+1.  Voltage at each connection.
+1.  Amperage for each phase.
+1.  Pump Impeller Trimming for Energy Conservation:
+1.  After systems with constant speed base mounted centrifugal pumps, 15 hp and larger, have been adjusted and balanced, using flow and amperage readings and the pump curves, determine whether a minimum of 3 horsepower could be saved by impeller trimming in accordance with ASHRAE Standard 90.1. If such is the case, submit results for approval prior to advising the installing contractor of the amount of trimming required.
+1.  Boiler Test Reports:
+1.  For boilers, include the following:
+1.  Unit Data:
+1.  Include the following:
+    1.  Unit identification.
+1.  Location.
+1.  Service.
+1.  Make and type.
+1.  Model and serial numbers.
+1.  Fuel type and input in Btuh.
+1.  Number of passes.
+1.  Ignition type.
+1.  Burner-control types.
+1.  Voltage at each connection.
+1.  Amperage for each phase.
+1.  Test Data:
+1.  Include design and actual values for the following:
+1.  Operating pressure in Btuh.
+1.  Operating temperature in deg F.
+1.  Entering-water temperature in deg F.
+1.  Leaving-water temperature in deg F.
+1.  Number of safety valves and sizes in NPS.
+1.  Safety valve settings in Btuh.
+1.  High-limit setting in Btuh.
+1.  Operating-control setting.
+1.  High-fire set point.
+1.  Low-fire set point.
+1.  Voltage at each connection.
+1.  Amperage for each phase.
+1.  Draft fan voltage at each connection.
+1.  Draft fan amperage for each phase.
+1.  Manifold pressure in Btuh.
+1.  Additional Tests:
+1.  Within 90 days of completing testing, adjusting, and balancing, perform additional testing and balancing to verify that balanced conditions are being maintained throughout and to correct unusual conditions.
+1.  Seasonal Periods:
+1.  If initial testing, adjusting, and balancing procedures were not performed during near-peak summer and winter conditions, perform additional inspections, testing, and adjusting during near-peak summer and winter conditions.

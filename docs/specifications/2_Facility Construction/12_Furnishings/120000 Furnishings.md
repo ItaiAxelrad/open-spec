@@ -7,6 +7,4 @@ subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Furnishings']
 ---
 
-   1. Division 12
-   1. Furnishings
-
+Division 12 - Furnishings

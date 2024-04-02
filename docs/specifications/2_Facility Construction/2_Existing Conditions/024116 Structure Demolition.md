@@ -4,8 +4,17 @@ section: '024116'
 divNumb: 2
 divName: Existing Conditions
 subgroup: Facility Construction
-tags: ['Facility', 'Construction', 'Existing', 'Conditions', 'Structure', 'Demolition']
+tags:
+  [
+    'Facility',
+    'Construction',
+    'Existing',
+    'Conditions',
+    'Structure',
+    'Demolition',
+  ]
 ---
+
 ## General
 
 1. RELATED DOCUMENTS
@@ -36,7 +45,7 @@ tags: ['Facility', 'Construction', 'Existing', 'Conditions', 'Structure', 'Demol
       1. Certified by EPA-approved certification program.
    2. Regulatory Requirements:
       1. Comply with hauling and disposal regulations of authorities having jurisdiction.
-   1. Standards:
+   3. Standards:
       1. Comply with ANSI A10.6 and NFPA 241.
 6. PROJECT CONDITIONS
    1. Buildings to be demolished will be vacated and their use discontinued before start of the Work.
@@ -68,21 +77,20 @@ tags: ['Facility', 'Construction', 'Existing', 'Conditions', 'Structure', 'Demol
    5. Temporary Shoring:
       1. Provide and maintain interior and exterior shoring, bracing, or structural support to preserve stability and prevent unexpected movement or collapse of construction being demolished.
       2. Strengthen or add new supports when required during progress of demolition.
-   6. Salvaged Items:
-      3. Comply with the following:
-         1. Clean salvaged items of dirt and demolition debris.
-         2. Pack or crate items after cleaning. Identify contents of containers.
-         3. Store items in a secure area until delivery to Owner.
-         4. Transport items to storage area designated by Owner.
-         5. Protect items from damage during transport and storage.
-1. PROTECTION
+   6. Salvaged Items: 3. Comply with the following:
+      1. Clean salvaged items of dirt and demolition debris.
+      2. Pack or crate items after cleaning. Identify contents of containers.
+      3. Store items in a secure area until delivery to Owner.
+      4. Transport items to storage area designated by Owner.
+      5. Protect items from damage during transport and storage.
+3. PROTECTION
    1. Existing Facilities:
       1. Protect adjacent walkways, loading docks, building entries, and other building facilities during demolition operations. Maintain exits from existing buildings.
    2. Existing Utilities:
       1. Maintain utility services to remain and protect from damage during demolition operations.
       2. Do not interrupt existing utilities serving adjacent occupied or operating facilities unless authorized in writing by Owner and authorities having jurisdiction.
       3. Provide temporary services during interruptions to existing utilities, as acceptable to Owner and authorities having jurisdiction.
-2. DEMOLITION, GENERAL
+4. DEMOLITION, GENERAL
    1. Demolish indicated existing buildings and site improvements completely. Use methods required to complete the Work within limitations of governing regulations and as follows:
       1. Do not use cutting torches until work area is cleared of flammable materials. Maintain portable fire-suppression devices during flame-cutting operations.
    2. Maintain adequate ventilation when using cutting torches.
@@ -95,22 +103,22 @@ tags: ['Facility', 'Construction', 'Existing', 'Conditions', 'Structure', 'Demol
       3. Use water mist and other suitable methods to limit spread of dust and dirt. Comply with governing environmental-protection regulations. Do not use water when it may damage adjacent construction or create hazardous or objectionable conditions, such as ice, flooding, and pollution.
    6. Explosives:
       1. Use of explosives is not permitted.
-3. DEMOLITION BY MECHANICAL MEANS
+5. DEMOLITION BY MECHANICAL MEANS
    1. Proceed with demolition of structural framing members systematically, from higher to lower.
    2. Complete building demolition operations above each floor or tier before disturbing supporting members on the next lower level.
    3. Remove debris from elevated portions of the building by chute, hoist, or other device that will convey debris to grade level in a controlled descent.
    4. Remove structural framing members and lower to ground by method suitable to minimize ground impact and dust generation.
    5. Below-Grade Construction:
       1. Demolish foundation walls and other below-grade construction that are within footprint of new construction and extending 5 feet outside footprint indicated for new construction.
-4. SITE RESTORATION
+6. SITE RESTORATION
    1. Below-Grade Areas:
       1. Completely fill below-grade areas and voids resulting from building demolition operations with satisfactory soil materials according to backfill requirements in Division 31 Section “Excavation and Fill”.
    2. Site Grading:
       1. Uniformly rough grade area of demolished construction to a smooth surface, free from irregular surface changes. Provide a smooth transition between adjacent existing grades and new grades.
-5. REPAIRS
+7. REPAIRS
    1. Promptly repair damage to adjacent buildings caused by demolition operations.
-6. DISPOSAL OF DEMOLISHED MATERIALS
+8. DISPOSAL OF DEMOLISHED MATERIALS
    1. Remove demolition waste materials from Project site.
    2. Do not burn demolished materials.
-7. CLEANING
+9. CLEANING
    1. Clean adjacent structures and improvements of dust, dirt, and debris caused by building demolition operations. Return adjacent areas to condition existing before building demolition operations began.

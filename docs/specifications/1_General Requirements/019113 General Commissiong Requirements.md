@@ -36,7 +36,7 @@ tags: ['General', 'Requirements', 'Commissiong']
       1. Should any functional performance test, or any part of a functional performance test fail and require retesting:
       1. Owner will compensate the CA for additional testing.
    1. Owner will deduct the amount of such compensation from the final payment to the Contractor.
-    1. Commissioning agent’s duties
+   1. Commissioning agent’s duties
    1. Cooperate with Architect and Contractor; provide qualified personnel to witness appropriate tests when scheduled.
    1. Promptly notify Architect and Contractor of irregularities or deficiencies in work which are observed during performance of services.
    1. Verify testing of all systems to be commissioned as defined in the Commissioning Plan and the written functional test procedures.

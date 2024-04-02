@@ -4,7 +4,18 @@ section: '238000'
 divNumb: 23
 divName: Heating Ventilating and Air Conditioning
 subgroup: Facility Services
-tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 'Decentralized', 'HVAC', 'Equipment']
+tags:
+  [
+    'Facility',
+    'Services',
+    'Heating',
+    'Ventilating',
+    'Air',
+    'Conditioning',
+    'Decentralized',
+    'HVAC',
+    'Equipment',
+  ]
 ---
 
 ## General
@@ -30,20 +41,20 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Underwriters Laboratories (UL)
    1. 883 - Safety Standards For Fan Coil Units and Room Fan Heater Units
 1. SUBMITTALS
-	1. General:
+   1. General:
       1. Submit the following in accordance with Division 23 of the Specifications.
    1. Product Data:
       1. Submit manufacturer's specifications for terminal units showing dimensions, capacities, ratings, performance characteristics, gauges and finishes of materials, and installation instructions.
    1. Shop Drawings:
       1. Submit assembly-type shop drawings showing unit dimensions, construction details, and field connection details.
    1. Wiring Diagrams:
-   1. Submit manufacturer's electrical requirements for power supply wiring to terminal units. 
-   1. Submit manufacturer's ladder-type wiring diagrams for interlock and control wiring. 
+   1. Submit manufacturer's electrical requirements for power supply wiring to terminal units.
+   1. Submit manufacturer's ladder-type wiring diagrams for interlock and control wiring.
    1. Clearly differentiate between portions of wiring that are factory-installed and portions to be field-installed.
    1. Samples:
       1. Submit three samples of each type of cabinet finish furnished.
    1. Maintenance Data:
-   1. Submit maintenance instructions, including lubrication instructions, filter replacement, motor and drive replacement, and spare parts lists. 
+   1. Submit maintenance instructions, including lubrication instructions, filter replacement, motor and drive replacement, and spare parts lists.
    1. Include this data, product data, and shop drawings in Operating and Maintenance Manuals in accordance with requirements of Division 23 of the Specifications.
 1. QUALITY ASSURANCE
    1. Manufacturer's Qualifications:
@@ -95,13 +106,13 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Trane (The) Co.
    1. Young Radiator Co.
 1. MATERIALS
-	1. Baseboard Radiation
-	1. General:
+   1. Baseboard Radiation
+   1. General:
       1. Provide baseboard radiation of lengths and in locations as indicated, and of capacities, style, and having accessories as scheduled.
    1. Cabinets:
-   1. Minimum 20-gauge cold-rolled steel, one-piece back and top panel, front panel with integral damper. 
-   1. Provide steel brackets, inserted in back/top panel, to support element and front panel. 
-   1. Provide baked enamel finish. 
+   1. Minimum 20-gauge cold-rolled steel, one-piece back and top panel, front panel with integral damper.
+   1. Provide steel brackets, inserted in back/top panel, to support element and front panel.
+   1. Provide baked enamel finish.
    1. Unless otherwise indicated, cabinet shall extend full length of room, wall, or column-to-column.
    1. Elements:
       1. Copper tube and aluminum fins with slide mechanism between element and support brackets to eliminate expansion and contraction noises.
@@ -111,40 +122,40 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. End caps with hinged access panel.
    1. Trim strips.
    1. Unit Heaters
-	1. General:
+   1. General:
       1. Provide unit heaters in locations as indicated, and of capacities, style, and having accessories as scheduled.
    1. Horizontal Unit Heaters
    1. Casings:
-   1. Construct of steel, phosphatized inside and out, and finished with baked enamel. 
-   1. Provide motor-mounted panel, minimum of 18-gauge steel. 
-   1. Fabricate casing to enclose coil, louvers, and fan blades. 
+   1. Construct of steel, phosphatized inside and out, and finished with baked enamel.
+   1. Provide motor-mounted panel, minimum of 18-gauge steel.
+   1. Fabricate casing to enclose coil, louvers, and fan blades.
    1. Provide louvers for 4-way air diffusion.
    1. Fans:
-   1. Construct of aluminum and factory-balance. 
+   1. Construct of aluminum and factory-balance.
    1. Provide fan inlet orifice, smooth, and drawn into casing back panel.
    1. Coils:
-   1. Construct of plate-type aluminum fins, mechanically bonded to copper tubes. 
+   1. Construct of plate-type aluminum fins, mechanically bonded to copper tubes.
    1. Design coil for use in steam or hot water applications.
    1. Motors:
       1. Provide totally enclosed motors, with built-in overload protection, having electrical characteristics as scheduled.
    1. Cabinet Heaters
-	1. General:
-   1. Provide cabinet heaters having cabinet sizes in locations as indicated and of capacities, style, and having accessories as scheduled. 
+   1. General:
+   1. Provide cabinet heaters having cabinet sizes in locations as indicated and of capacities, style, and having accessories as scheduled.
    1. Include in basic unit chassis, coil, fan board, fan wheels, housings, motor, and insulation.
    1. Chassis:
       1. Galvanized steel wrap-around structural frame with edges flanged.
    1. Insulation:
       1. Faced, heavy density glass fiber.
    1. Cabinet:
-   1. 16-gauge removable front panel, 18-gauge top and side panels. Insulate front panel over entire coil section. 
-   1. Provide access door on coil connection side. 
+   1. 16-gauge removable front panel, 18-gauge top and side panels. Insulate front panel over entire coil section.
+   1. Provide access door on coil connection side.
    1. Clean cabinet parts, bonderize, phosphatize, and flow-coat with baked-on primer.
    1. Water Coils:
-   1. Construct of 5/8-inch seamless copper tubes mechanically bonded to configurated aluminum fins. 
-   1. Design for 300 psi and leak test at 300 psi under water. 
+   1. Construct of 5/8-inch seamless copper tubes mechanically bonded to configurated aluminum fins.
+   1. Design for 300 psi and leak test at 300 psi under water.
    1. Provide same end connections for supply and return.
    1. Fans:
-   1. Provide centrifugal, forward curved double width fan wheels constructed of noncorrosive, molded, fiberglass-reinforced thermoplastic material. 
+   1. Provide centrifugal, forward curved double width fan wheels constructed of noncorrosive, molded, fiberglass-reinforced thermoplastic material.
    1. Construct fan scrolls of galvanized steel.
    1. Motors:
       1. Provide shaded pole motors with integral thermal overload protection and motor cords for plug-in to junction box in unit.
@@ -169,17 +180,17 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
 ## Products
 
 1. EXAMINATION
-   1. Examine areas and conditions under which terminal units are to be installed. 
+   1. Examine areas and conditions under which terminal units are to be installed.
    1. Do not proceed with Work until unsatisfactory conditions have been corrected in manner acceptable to Installer.
 1. ERECTION INSTALLATION APPLICATION
    1. Installation of Baseboard Radiation
-	1. General:
+   1. General:
       1. Install baseboard radiation as indicated and in accordance with manufacturer's installation instructions.
    1. Locate baseboard radiation on outside walls as indicated; run cover continuous wall-to-wall unless otherwise indicated.
    1. Center elements under windows. Where multiple windows occur over units, divide element into equal segments centered under each window.
    1. Install end caps where units butt against walls. Install access panels centered in front of each shutoff valve, balancing cock, or temperature control valve.
    1. Installation of Unit Heaters
-	1. General:
+   1. General:
       1. Install unit heaters as indicated and in accordance with manufacturer's installation instructions.
    1. Uncrate units and inspect for damage. Verify that nameplate data corresponds with unit designation.
    1. Hang units from building substrate, not from piping. Mount as high as possible to maintain greatest headroom possible unless otherwise indicated.
@@ -187,23 +198,22 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Install piping as indicated.
    1. Protect units with protective covers during balance of construction.
    1. Installation of Cabinet Heaters
-	1. General:
+   1. General:
       1. Install cabinet heaters as indicated and in accordance with manufacturer's installation instructions.
    1. Locate cabinet heaters as indicated; coordinate with other trades to assure correct recess size for recessed units.
    1. Install piping as indicated.
    1. Protect units with protective covers during balance of construction.
    1. Installation of Radiant Ceiling Panels
-	1. General:
-   1. Install radiant ceiling panels where shown and in accordance with manufacturer's installation instructions. 
+   1. General:
+   1. Install radiant ceiling panels where shown and in accordance with manufacturer's installation instructions.
    1. Coordinate with other trades to assure proper clearances for installing piping to panels.
    1. Electrical Wiring
-	1. General:
-   1. Install electrical devices furnished by manufacturer but not specified to be factory-mounted. 
+   1. General:
+   1. Install electrical devices furnished by manufacturer but not specified to be factory-mounted.
    1. Furnish copy of manufacturer's wiring diagram submittal to Electric Installer.
    1. Verify that electrical wiring installation is in accordance with manufacturer's submittal and installation requirements of Division 26 of the Specifications. Do not proceed with equipment start-up until wiring installation is acceptable to Equipment Installer.
 1. CLEANING
-	1. General:
+   1. General:
       1. After construction is completed, including painting, clean unit exposed surfaces; vacuum clean terminal coils and inside of cabinets.
    1. Retouch any marred or scratched surfaces of factory-finished cabinets, using finish materials furnished by manufacturer.
    1. Install new filter units for terminals requiring same.
-

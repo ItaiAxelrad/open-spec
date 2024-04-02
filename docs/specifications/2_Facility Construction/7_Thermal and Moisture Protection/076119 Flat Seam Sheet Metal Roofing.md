@@ -4,12 +4,25 @@ section: '076119'
 divNumb: 7
 divName: Thermal and Moisture Protection
 subgroup: Facility Construction
-tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Flat', 'Seam', 'Sheet', 'Metal', 'Roofing']
+tags:
+  [
+    'Facility',
+    'Construction',
+    'Thermal',
+    'Moisture',
+    'Protection',
+    'Flat',
+    'Seam',
+    'Sheet',
+    'Metal',
+    'Roofing',
+  ]
 ---
 
 ## General
 
 1. SUMMARY
+
    1. Refer to Section 018113 – Sustainable Design Requirements; 018113A – Appendix A - Materials Anticipated to be Used for Recycled Content; and 018113B – LEED Matrix for materials requiring contractor validation of recycled content.
 
    1. Preformed, flat seam panels and flashings.
@@ -24,6 +37,7 @@ tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Flat', 
    1. SMACNA – Architectural Sheet Metal Manual.
    1. ASSEMBLY DESCRIPTION
    1. The roofing assembly includes preformed sheet metal panels, related accessories, valleys, hips, ridges, eaves, corners, rakes, miscellaneous flashing and attaching devices
+
 1. SUBMITTALS
    1. Submit detailed drawings showing layout of panels, anchoring details, joint details, trim, flashing, and accessories. Show details of weatherproofing, terminations, and penetrations of metal work.
    1. Submit a sample of each type of roof panel, complete with factory finish.
@@ -68,29 +82,27 @@ tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Flat', 
 
 ## Execution
 
-   1. inspection
-   1. Substrate
-   1. Examine plywood or metal deck to ensure proper attachment to framing.
-   1. Inspect roof deck to verify deck is clean and smooth, free of depressions, waves or projections, level to +/- 1/4” in 20’, and properly sloped to valleys or eaves.
-   1. Verify roof openings, curbs, pipes, sleeves, ducts or vents through roof are solidly set, cant strips and reglets in place, and nailing strips located.
-   1. Verify deck is dry and free of snow or ice. Flutes in steel deck to be clean and dry or joints in wood deck to be solidly supported and nailed.
-   1. Underlayment
-   1. Verify Grace Ice and Water Shield underlayment has been installed over solid sheathing and fastened in place.
-   1. Grace Ice and Water Shield underlayment to be used on all curved applications and on low (less than 1:12) slope or complex roofs per the manufacturers recommendation.
-   1. Ensure that all nail heads are totally flush with the substrate. Nails shall be galvanized roofing nails with Coated Felt Caps.
-   1. installation
-   1. Comply with manufacturers standard instructions and conform to standards set forth in the Architectural Sheet Metal Manual published by SMACNA, in order to achieve a watertight installation.
-   1. Install panels in such a manner that horizontal lines are true and level and vertical lines are plumb.
-   1. Install starter and edge trim before installing roof panels.
-   1. Remove protective strippable film prior to installation of roof panels.
-   1. Attach panels using manufacturer’s standard clips and fasteners, spaced in accordance with approved shop drawings.
-   1. Install sealants for preformed roofing panels as approved on shop drawings.
-   1. Do not allow panels or trim to come in contact with dissimilar materials.
-   1. Do not allow traffic on completed roof. If required, provide cushioned walk boards.
-   1. Protect installed roof panels and trim from damage caused by adjacent construction until completion of installation.
-   1. Remove and replace any panels or components which are damaged beyond successful repair.
-   1. Cleaning
-   1. Clean any grease, finger marks or stains from the panels per manufacturer’s recommendations.
-   1. Remove all scrap and construction debris from the site.
-
-
+1.  inspection
+1.  Substrate
+1.  Examine plywood or metal deck to ensure proper attachment to framing.
+1.  Inspect roof deck to verify deck is clean and smooth, free of depressions, waves or projections, level to +/- 1/4” in 20’, and properly sloped to valleys or eaves.
+1.  Verify roof openings, curbs, pipes, sleeves, ducts or vents through roof are solidly set, cant strips and reglets in place, and nailing strips located.
+1.  Verify deck is dry and free of snow or ice. Flutes in steel deck to be clean and dry or joints in wood deck to be solidly supported and nailed.
+1.  Underlayment
+1.  Verify Grace Ice and Water Shield underlayment has been installed over solid sheathing and fastened in place.
+1.  Grace Ice and Water Shield underlayment to be used on all curved applications and on low (less than 1:12) slope or complex roofs per the manufacturers recommendation.
+1.  Ensure that all nail heads are totally flush with the substrate. Nails shall be galvanized roofing nails with Coated Felt Caps.
+1.  installation
+1.  Comply with manufacturers standard instructions and conform to standards set forth in the Architectural Sheet Metal Manual published by SMACNA, in order to achieve a watertight installation.
+1.  Install panels in such a manner that horizontal lines are true and level and vertical lines are plumb.
+1.  Install starter and edge trim before installing roof panels.
+1.  Remove protective strippable film prior to installation of roof panels.
+1.  Attach panels using manufacturer’s standard clips and fasteners, spaced in accordance with approved shop drawings.
+1.  Install sealants for preformed roofing panels as approved on shop drawings.
+1.  Do not allow panels or trim to come in contact with dissimilar materials.
+1.  Do not allow traffic on completed roof. If required, provide cushioned walk boards.
+1.  Protect installed roof panels and trim from damage caused by adjacent construction until completion of installation.
+1.  Remove and replace any panels or components which are damaged beyond successful repair.
+1.  Cleaning
+1.  Clean any grease, finger marks or stains from the panels per manufacturer’s recommendations.
+1.  Remove all scrap and construction debris from the site.

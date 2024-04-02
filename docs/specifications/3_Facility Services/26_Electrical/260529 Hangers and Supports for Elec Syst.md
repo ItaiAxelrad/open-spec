@@ -4,7 +4,8 @@ section: '260529'
 divNumb: 26
 divName: Electrical
 subgroup: Facility Services
-tags: ['Facility', 'Services', 'Electrical', 'Hangers', 'Supports', 'Elec', 'Syst']
+tags:
+  ['Facility', 'Services', 'Electrical', 'Hangers', 'Supports', 'Elec', 'Syst']
 ---
 
 ## General
@@ -12,41 +13,41 @@ tags: ['Facility', 'Services', 'Electrical', 'Hangers', 'Supports', 'Elec', 'Sys
 1. RELATED DOCUMENTS
    1. Drawings and general provisions of the Contract, including General and Supplementary Conditions and Division 1 Specification Sections, apply to this Section.
 1. SUMMARY
-	1. This Section includes:
-   1. Provide supports, anchors, sleeves, concrete equipment pads, seals and other related supporting devices and methods as specified and indicated. 
-   1. Refer to related Division 26, 27 and 28 Specification sections of the Specifications for specific and supplemental supporting device requirements. 
-1. SUBMITTALS*	1. General:
-      1. Submit specific details for supporting electrical equipment with the appropriate electrical equipment submittal. 
+   1. This Section includes:
+   1. Provide supports, anchors, sleeves, concrete equipment pads, seals and other related supporting devices and methods as specified and indicated.
+   1. Refer to related Division 26, 27 and 28 Specification sections of the Specifications for specific and supplemental supporting device requirements.
+1. SUBMITTALS\* 1. General:
+   1. Submit specific details for supporting electrical equipment with the appropriate electrical equipment submittal.
    1. Product Data:
-      1. Submit manufacturer's technical product data on supporting devices specified and indicated. 
+      1. Submit manufacturer's technical product data on supporting devices specified and indicated.
 1. QUALITY ASSURANCE
-	1. Manufacturer Qualifications 
-   1. Firms regularly engaged in the manufacture of supporting devices, of types, sizes, and ratings required, whose products have been in satisfactory use in similar service for not less than 3 years. 
+   1. Manufacturer Qualifications
+   1. Firms regularly engaged in the manufacture of supporting devices, of types, sizes, and ratings required, whose products have been in satisfactory use in similar service for not less than 3 years.
 
 ## Products
 
 1. MANUFACTURED SUPPORTING DEVICES
-	1. U-channel Strut Systems:
+   1. U-channel Strut Systems:
    1. Manufacturers
-   1. Cooper B-Line, Inc. 
+   1. Cooper B-Line, Inc.
    1. Hilti Corp.
-   1. Midland-Ross Corp. 
-   1. Unistrut Corp. 
-   1. No. 12 gage, hot-dipped galvanized steel, with 9/16-inch diameter holes, 8-inches on center on top surface, with manufacturer's standard, natural/neutral finish. 
-   1. Provide corrosion-resistant fittings which mate and match the U-channel. 
+   1. Midland-Ross Corp.
+   1. Unistrut Corp.
+   1. No. 12 gage, hot-dipped galvanized steel, with 9/16-inch diameter holes, 8-inches on center on top surface, with manufacturer's standard, natural/neutral finish.
+   1. Provide corrosion-resistant fittings which mate and match the U-channel.
    1. Wall and Floor Conduit Seals:
    1. Manufacturers
    1. O-Z/Gedney Co., Unit of EGS Electrical Group
-   1. Provide factory-assembled, watertight wall and floor seals, of types and sizes required, suitable for sealing around conduit, pipe, or tubing passing through concrete floors and walls. 
-   1. Construct seals with steel sleeves, malleable iron body, neoprene sealing grommets and rings, metal pressure rings, pressure clamps, and cap screws. 
+   1. Provide factory-assembled, watertight wall and floor seals, of types and sizes required, suitable for sealing around conduit, pipe, or tubing passing through concrete floors and walls.
+   1. Construct seals with steel sleeves, malleable iron body, neoprene sealing grommets and rings, metal pressure rings, pressure clamps, and cap screws.
    1. Conduit Straps:
-   1. Galvanized steel. 
+   1. Galvanized steel.
    1. Clevis Hangers:
-   1. Galvanized steel with 1/2-inch diameter hole for round steel rod. 
+   1. Galvanized steel with 1/2-inch diameter hole for round steel rod.
    1. C-Clamps:
-   1. Black malleable iron, 1/2-inch rod size, approximately 70 pounds per 100 units. 
+   1. Black malleable iron, 1/2-inch rod size, approximately 70 pounds per 100 units.
    1. Miscellaneous Devices and Hardware:
-   1. Corrosion resistant. 
+   1. Corrosion resistant.
 
 ## Execution
 
@@ -100,7 +101,7 @@ tags: ['Facility', 'Services', 'Electrical', 'Hangers', 'Supports', 'Elec', 'Sys
    1. Coordinate this Article with Division 03 Section "Cast-In-Place Concrete" or "Cast-in-Place Concrete (Limited Applications)."
    1. Coordinate paragraphs and subparagraphs below with Sections specifying supported equipment.
    1. Construct concrete bases of dimensions indicated but not less than 4 inches (100 mm) larger in both directions than supported unit, and so anchors will be a minimum of 10 bolt diameters from edge of the base.
-   1. Unless otherwise specified in Division 3, use 3000-psi (20.7-MPa), 28-day compressive-strength concrete. Concrete materials, reinforcement, and placement requirements are specified in related Division 3 Sections of the Specifications. 
+   1. Unless otherwise specified in Division 3, use 3000-psi (20.7-MPa), 28-day compressive-strength concrete. Concrete materials, reinforcement, and placement requirements are specified in related Division 3 Sections of the Specifications.
    1. Anchor equipment to concrete base.
    1. Place and secure anchorage devices. Use supported equipment manufacturer's setting drawings, templates, diagrams, instructions, and directions furnished with items to be embedded.
    1. Install anchor bolts to elevations required for proper attachment to supported equipment.
@@ -113,4 +114,3 @@ tags: ['Facility', 'Services', 'Electrical', 'Hangers', 'Supports', 'Elec', 'Sys
       1. Comply with requirements in related Division 9 Sections of the Specifications for cleaning and touchup painting of field welds, bolted connections, and abraded areas of shop paint on miscellaneous metal.
    1. Galvanized Surfaces:
       1. Clean welds, bolted connections, and abraded areas and apply galvanizing-repair paint to comply with ASTM A 780.
-

@@ -7,6 +7,4 @@ subgroup: Facility Services
 tags: ['Facility', 'Services', 'Plumbing']
 ---
 
-   1. Division 22
-   1. Plumbing
-
+Division 22 - Plumbing

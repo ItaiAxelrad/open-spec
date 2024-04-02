@@ -6,6 +6,7 @@ divName: Finishes
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Finishes', 'Resilient', 'Flooring']
 ---
+
 ## General
 
 1. SUMMARY
@@ -54,5 +55,3 @@ tags: ['Facility', 'Construction', 'Finishes', 'Resilient', 'Flooring']
    1. Use factory-preformed exterior corners, and factory preformed or job mitered interior corners.
 1. CLEANING AND PROTECTION
    1. Remove excessive adhesive and other blemishes from the exposed surfaces, using neutral cleaner recommended by the manufacturer of the resilient materials. Protect from surface damage by foot and/or equipment traffic until accepted by Owner by either precluding traffic or providing Kraft paper protection covering.
-
-

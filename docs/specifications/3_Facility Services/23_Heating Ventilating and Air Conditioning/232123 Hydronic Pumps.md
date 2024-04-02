@@ -4,9 +4,18 @@ section: '232123'
 divNumb: 23
 divName: Heating Ventilating and Air Conditioning
 subgroup: Facility Services
-tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 'Hydronic', 'Pumps']
+tags:
+  [
+    'Facility',
+    'Services',
+    'Heating',
+    'Ventilating',
+    'Air',
+    'Conditioning',
+    'Hydronic',
+    'Pumps',
+  ]
 ---
-
 
 ## General
 
@@ -28,9 +37,9 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. National Electrical Manufacturers' Association (NEMA) MG-1 - Motors and Generators
    1. National Fire Protection Association (NFPA) 70 - National Electrical Code (NEC)
    1. Underwriters Laboratories (UL) 778 - Motor Operated Water Pumps.
-1. Submittals*	1. General:
-      1. Submit the following in accordance with Division 23 section “Common Work Results for HVAC”:
-      1. Product data including certified performance curves of selected models indicating selected pump's operating point, weights (shipping, installed, and operating), furnished specialties and accessories.
+1. Submittals\* 1. General:
+   1. Submit the following in accordance with Division 23 section “Common Work Results for HVAC”:
+   1. Product data including certified performance curves of selected models indicating selected pump's operating point, weights (shipping, installed, and operating), furnished specialties and accessories.
    1. Shop drawings showing layout and connections for HVAC pumps. Include setting drawings with templates and directions for installation of foundation bolts and other anchorages.
    1. Wiring diagrams detailing wiring for power, signal, and control systems, differentiating between manufacturer-installed wiring and field installed wiring.
    1. Maintenance data for HVAC pumps for inclusion in Operating and Maintenance Manual specified elsewhere in Division 23.
@@ -55,7 +64,7 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Protect bearings and couplings against damage from sand, grit, and other foreign matter.
    1. For storage times greater than five days, dry internal parts with hot air or a vacuum-producing device to avoid rusting internal parts. Upon drying, coat internal parts with a protective liquid such as light oil, kerosene, or antifreeze. Dismantle bearings and couplings, dry and coat them with an acid-free heavy oil, and then tag and store in dry location.
 1. warranty
-   1. See procedures specified in Division 1 sections of the Specifications. 
+   1. See procedures specified in Division 1 sections of the Specifications.
 
 ## Products
 
@@ -77,7 +86,7 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Preparation for Shipping:
       1. After assembly and testing, clean flanges and exposed machined metal surfaces and treat with an anti corrosion compound. Protect flanges, pipe openings, and nozzles.
    1. Motors:
-      1. Conform to NEMA MG-1, general purpose, continuous duty, Design\_B, except Design C where required for high starting torque; single, multiple, or variable speed with type of enclosure and electrical characteristics as indicated; have built-in thermal-overload protection; and grease-lubricated ball bearings. Select motors that are non-overloading within the full range of the pump performance curve.
+      1. Conform to NEMA MG-1, general purpose, continuous duty, Design_B, except Design C where required for high starting torque; single, multiple, or variable speed with type of enclosure and electrical characteristics as indicated; have built-in thermal-overload protection; and grease-lubricated ball bearings. Select motors that are non-overloading within the full range of the pump performance curve.
    1. Efficiency:
       1. "Energy Efficient" motors shall have a minimum efficiency as indicated in accordance with IEEE 112, Test Method B. If efficiency is not specified, motor shall have a higher efficiency than the "average standard industry motors," in accordance with IEEE 112, Test Method B.
    1. Apply factory finish paint to assembled, tested units prior to shipping.
@@ -85,20 +94,20 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
 
 ## General
 
- Description:
-         1. Pumps shall be centrifugal, single-stage, bronze-fitted, design, and rated for 175 psig working pressure and 225oF continuous water temperature.
-   1. Casings Construction:
-      1. Cast iron with flanged piping connections and threaded gauge tappings at inlet and outlet flange connections.
-   1. Impeller Construction:
-      1. Statically and dynamically balanced, closed, overhung single-suction, fabricated from cast bronze conforming to ASTM B584, keyed to shaft, and secured by a locking cap screw.
-   1. Wear Rings:
-      1. Replaceable, bronze.
-   1. Pump Shaft and Sleeve Bearings:
-      1. Steel shaft with bronze sleeve. Provide flinger on motor shaft between motor and seals to prevent liquid that leaks past pump seals from entering the motor bearings.
-   1. Seals:
-      1. Mechanical seals consisting of flushed seals of a carbon steel rotating ring, stainless steel spring, ceramic seat, and flexible bellows and gasket.
-   1. Motor:
-      1. Direct-mounted to pump casing with supporting legs as an integral part of motor enclosure.
+Description: 1. Pumps shall be centrifugal, single-stage, bronze-fitted, design, and rated for 175 psig working pressure and 225oF continuous water temperature.
+
+1.  Casings Construction:
+    1. Cast iron with flanged piping connections and threaded gauge tappings at inlet and outlet flange connections.
+1.  Impeller Construction:
+    1. Statically and dynamically balanced, closed, overhung single-suction, fabricated from cast bronze conforming to ASTM B584, keyed to shaft, and secured by a locking cap screw.
+1.  Wear Rings:
+    1. Replaceable, bronze.
+1.  Pump Shaft and Sleeve Bearings:
+    1. Steel shaft with bronze sleeve. Provide flinger on motor shaft between motor and seals to prevent liquid that leaks past pump seals from entering the motor bearings.
+1.  Seals:
+    1. Mechanical seals consisting of flushed seals of a carbon steel rotating ring, stainless steel spring, ceramic seat, and flexible bellows and gasket.
+1.  Motor:
+    1. Direct-mounted to pump casing with supporting legs as an integral part of motor enclosure.
 
 ## Execution
 
@@ -108,7 +117,7 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Examine equipment foundations and inertia bases for suitable conditions where pumps are to be installed.
    1. Do not proceed until unsatisfactory conditions have been corrected.
 1. ERECTION INSTALLATION APPLICATION
-	1. General:
+   1. General:
       1. Comply with the manufacturer's written installation and alignment instructions.
    1. Install pumps in locations indicated and arranged to provide access for periodic maintenance, including removal of motors, impellers, couplings, and accessories.
    1. Support pumps and piping separately so that the weight of the piping system does not rest on the pump.
@@ -122,8 +131,8 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. After alignment is correct, tighten the foundation bolts evenly but not too firmly. Fill the base plate completely with nonshrink, nonmetallic grout, with metal blocks and shims or wedges in place. After grout has cured, fully tighten foundation bolts.
    1. Alignment tolerances shall meet manufacturer's recommendations.
    1. Connections:
-	1. General:
-         1. Install valves that are same size as the piping connecting the pump.
+   1. General:
+      1. Install valves that are same size as the piping connecting the pump.
    1. Install suction and discharge pipe sizes equal to or greater than the diameter of the pump nozzles.
    1. Install a nonslam check valve matching the pipe size on the discharge side of the pump. Install a butterfly (over 2 inch pipe size) or ball (2 inch and under) isolation valve on the discharge side of inline pumps. Isolation valves are to be installed downstream of the check valve.
    1. Install a butterfly (over 2 inch pipe size) or ball valve (2 inch and under) on the suction side of inline pumps.
@@ -133,9 +142,9 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Electrical wiring and connections are specified in Division 16 sections of the Specifications.
    1. Control wiring and connections are specified in other Division 15 sections of the Specifications.
    1. Commissioning:
-    1. Final Checks Before Start-Up:
-       1. Perform the following preventative maintenance operations and checks before start-up:
-          1. Lubricate oil-lubricated bearings.
+   1. Final Checks Before Start-Up:
+      1. Perform the following preventative maintenance operations and checks before start-up:
+         1. Lubricate oil-lubricated bearings.
    1. Remove grease-lubricated bearing covers and flush the bearings with kerosene and thoroughly clean. Fill with new lubricant in accordance with the manufacturer's recommendations.
    1. Disconnect coupling and check motor for proper rotation. Rotation shall match direction of rotation marked on pump casing.
    1. Check that pump is free to rotate by hand. For pumps handling hot liquids, pump shall be free to rotate with the pump hot and cold. If the pump is bound or even drags slightly, do not operate the pump until the cause of the trouble is determined and corrected.
@@ -152,4 +161,3 @@ tags: ['Facility', 'Services', 'Heating', 'Ventilating', 'Air', 'Conditioning', 
    1. Check suction line connections for tightness to avoid drawing air into the pump.
    1. Check all connections for tightness to avoid water leakage.
    1. Subcontractor is responsible for cleaning up and repairing damage due to leaking joints.
-

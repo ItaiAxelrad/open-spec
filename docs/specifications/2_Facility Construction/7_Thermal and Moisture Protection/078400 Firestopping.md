@@ -4,7 +4,15 @@ section: '078400'
 divNumb: 7
 divName: Thermal and Moisture Protection
 subgroup: Facility Construction
-tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Firestopping']
+tags:
+  [
+    'Facility',
+    'Construction',
+    'Thermal',
+    'Moisture',
+    'Protection',
+    'Firestopping',
+  ]
 ---
 
 ## General
@@ -43,50 +51,50 @@ tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Firesto
 
 ## Products
 
-   1. MANUFACTURERS
-   1. 3M Electro Products
-   1. Dow Corning Corporation
-   1. United States Gypsum
-   1. MATERIALS
-   1. Mineral Fiber Curtain Wall and Safing Insulation:
-      1. United States Gypsum, Thermafiber.
-   1. Comply with FS HH-I-521F, Type 1
-   1. Thickness:
-      1. Safing Insulation - 4"
-   1. Density:
-      1. 4 PCF
-   1. Facing:
-      1. Plain
-   1. Mechanical Anchors:
-      1. Type and size recommended by manufacturer for particular application and type of substrate.
-   1. Silicone Foam Seal:
-      1. Dow Corning 3-6548 Silicone RTV Foam Penetrating Seal. Two-part, silicone based, room temperature vulcanizing, foamed elastomer with the following minimum properties:
-            1. Penetration seal shall be capable of passing ASTM E 814 (UL 1479) Standard Method of Fire Tests for Through Penetration Fire Stops up to the desired fire resistance
-   1. Density:
-      1. 15 to 20 pcf
-   1. Tensile Strength:
-      1. 25 pcf
-   1. Flame Spread:
-      1. 25
-   1. Intumescent Sealant/Putty Seal:
-      1. 3M Electro Products Division Fire Barrier Caulk CP25 and Putty 303 Penetration Seal. One-part synthetic, intumescent elastomer putty and sealant with the following minimum properties:
-            1. Penetration seal shall be capable of passing ASTM E 814 (UL 1479) Standard Method of Fire Tests for Through Penetration Fire Stops up to the desired fire resistance
-   1. Density:
-      1. 12.5 lb./gal
-   1. Capable of expanding up to ten (10) times when exposed to flame or heat
-   1. Flame Spread:
-      1. 25
-   1. Intumescent Sheet Seal:
-      1. 3M Electro Products Division Fire Barrier Wrap/Strip FS-195 Penetration Seal.
-   1. One-part synthetic, intumescent, inorganic, foil-faced elastomeric fire resistive sheet with the following minimum properties:
-      1. Penetration seal shall be capable of passing ASTM E814 (UL 1479) Standard Method of Fire Tests for Through Penetration Fire Stops up to the desired fire resistance.
-   1. Capable of expanding up to ten (10) times when exposed to flame or heat.
-   1. Flame Spread:
-      1. 25
-   1. Thickness:
-      1. Fire Resistive Sheet - 0.250"
-   1. Aluminum File - 0.0025"
-   1. Firestopping materials shall be compatible with adjacent materials so that no adverse effects will occur as a result of contact with these materials.
+1.  MANUFACTURERS
+1.  3M Electro Products
+1.  Dow Corning Corporation
+1.  United States Gypsum
+1.  MATERIALS
+1.  Mineral Fiber Curtain Wall and Safing Insulation:
+    1. United States Gypsum, Thermafiber.
+1.  Comply with FS HH-I-521F, Type 1
+1.  Thickness:
+    1. Safing Insulation - 4"
+1.  Density:
+    1. 4 PCF
+1.  Facing:
+    1. Plain
+1.  Mechanical Anchors:
+    1. Type and size recommended by manufacturer for particular application and type of substrate.
+1.  Silicone Foam Seal:
+    1. Dow Corning 3-6548 Silicone RTV Foam Penetrating Seal. Two-part, silicone based, room temperature vulcanizing, foamed elastomer with the following minimum properties:
+       1. Penetration seal shall be capable of passing ASTM E 814 (UL 1479) Standard Method of Fire Tests for Through Penetration Fire Stops up to the desired fire resistance
+1.  Density:
+    1. 15 to 20 pcf
+1.  Tensile Strength:
+    1. 25 pcf
+1.  Flame Spread:
+    1. 25
+1.  Intumescent Sealant/Putty Seal:
+    1. 3M Electro Products Division Fire Barrier Caulk CP25 and Putty 303 Penetration Seal. One-part synthetic, intumescent elastomer putty and sealant with the following minimum properties:
+       1. Penetration seal shall be capable of passing ASTM E 814 (UL 1479) Standard Method of Fire Tests for Through Penetration Fire Stops up to the desired fire resistance
+1.  Density:
+    1. 12.5 lb./gal
+1.  Capable of expanding up to ten (10) times when exposed to flame or heat
+1.  Flame Spread:
+    1. 25
+1.  Intumescent Sheet Seal:
+    1. 3M Electro Products Division Fire Barrier Wrap/Strip FS-195 Penetration Seal.
+1.  One-part synthetic, intumescent, inorganic, foil-faced elastomeric fire resistive sheet with the following minimum properties:
+    1. Penetration seal shall be capable of passing ASTM E814 (UL 1479) Standard Method of Fire Tests for Through Penetration Fire Stops up to the desired fire resistance.
+1.  Capable of expanding up to ten (10) times when exposed to flame or heat.
+1.  Flame Spread:
+    1. 25
+1.  Thickness:
+    1. Fire Resistive Sheet - 0.250"
+1.  Aluminum File - 0.0025"
+1.  Firestopping materials shall be compatible with adjacent materials so that no adverse effects will occur as a result of contact with these materials.
 
 ## Execution
 
@@ -103,4 +111,3 @@ tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Firesto
    1. All applications will be inspected to ensure proper installation prior to concealing or enclosing the firestopped areas.
    1. CLEANING
    1. After completion of firestopping work in any area, equipment shall be removed and walls, ceilings and all other surfaces not to receive firestopping shall be cleaned of deposits of fire stopping materials.
-

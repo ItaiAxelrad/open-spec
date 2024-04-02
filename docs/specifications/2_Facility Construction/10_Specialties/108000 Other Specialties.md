@@ -31,7 +31,7 @@ tags: ['Facility', 'Construction', 'Specialties', 'Other']
 1. PROJECT CONDITIONS
    1. Field Measurements
    1. Take field measurements to verify or supplement dimensions indicated. Be responsible for accurate fit of the Work.
-   
+
 ## Products
 
 1. Finish For Aluminum
@@ -85,15 +85,15 @@ tags: ['Facility', 'Construction', 'Specialties', 'Other']
    1. Protect the Work and adjacent construction against damage.
 1. Installation
    1. Install each item of miscellaneous specialties in accordance with manufacturer's instructions, approved Shop Drawings and specified requirements. Furnish each item with required fasteners.
-   3. Replace concrete where necessary to properly receive embedded anchors.
-   4. Coat Racks
-   5. Anchor wall mounts to wall with toggle bolts at maximum spacing of 38 inches.
-   6. Utility Shelf
-   7. Anchor a utility shelf to the wall of each janitor's closet.
-   8. Vestibule Mat
-   9. Install mat in floor recess with corrugations parallel to thresholds, edges square, straight and parallel to boundary of recess.
-   10. Where joints are required in large mats for ease of handling, fit the joints tight.
-   11. Vestibule Grating
-   12. Install frame surface mounted in recess in concrete floor in a level and accurate plane. Set grating in frame.
-2. CLEANING
+   2. Replace concrete where necessary to properly receive embedded anchors.
+   3. Coat Racks
+   4. Anchor wall mounts to wall with toggle bolts at maximum spacing of 38 inches.
+   5. Utility Shelf
+   6. Anchor a utility shelf to the wall of each janitor's closet.
+   7. Vestibule Mat
+   8. Install mat in floor recess with corrugations parallel to thresholds, edges square, straight and parallel to boundary of recess.
+   9. Where joints are required in large mats for ease of handling, fit the joints tight.
+   10. Vestibule Grating
+   11. Install frame surface mounted in recess in concrete floor in a level and accurate plane. Set grating in frame.
+1. CLEANING
    1. Upon completion, clean the Work in accordance with manufacturer's instructions.

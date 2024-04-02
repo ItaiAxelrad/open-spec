@@ -4,9 +4,18 @@ section: '226213'
 divNumb: 22
 divName: Plumbing
 subgroup: Facility Services
-tags: ['Facility', 'Services', 'Plumbing', 'Vacuum', 'Piping', 'Laboratory', 'Healthcare', 'Facilities']
+tags:
+  [
+    'Facility',
+    'Services',
+    'Plumbing',
+    'Vacuum',
+    'Piping',
+    'Laboratory',
+    'Healthcare',
+    'Facilities',
+  ]
 ---
-
 
 ## General
 
@@ -14,8 +23,8 @@ tags: ['Facility', 'Services', 'Plumbing', 'Vacuum', 'Piping', 'Laboratory', 'He
    1. Drawings and general provisions of the Contract, including General and Supplementary Conditions and Division 1 Specifications Sections, apply to this Section.
 1. SUMMARY
    1. This Section includes the following:
-      1. Laboratory low-vacuum piping and specialties. 
-   1. Laboratory high-vacuum piping and specialties. 
+      1. Laboratory low-vacuum piping and specialties.
+   1. Laboratory high-vacuum piping and specialties.
 1. References
    1. American Society of Mechanical Engineers (ASME):
       1. B1.20.1 - Pipe Threads, General Purpose (Inch).
@@ -44,7 +53,7 @@ tags: ['Facility', 'Services', 'Plumbing', 'Vacuum', 'Piping', 'Laboratory', 'He
    1. Low Voltage:
       1. As defined in NFPA 70 for circuits and equipment operating at less than 50 V or for remote-control, signaling power-limited circuits.
 1. Submittals
-	1. Refer to related Division 22 sections of the Specifications. 
+   1. Refer to related Division 22 sections of the Specifications.
    1. Submit Product Data on the following:
       1. Underground piping materials.
    1. Aboveground piping materials.
@@ -68,7 +77,7 @@ tags: ['Facility', 'Services', 'Plumbing', 'Vacuum', 'Piping', 'Laboratory', 'He
    1. NFPA Compliance:
       1. Comply with NFPA 99, "Health Care Facilities," for medical vacuum system materials and installation in healthcare facilities.
 1. warranty
-   1. Refer to the procedures specified in related Division 1 sections of the Specifications. 
+   1. Refer to the procedures specified in related Division 1 sections of the Specifications.
 
 ## General
 
@@ -96,7 +105,7 @@ tags: ['Facility', 'Services', 'Plumbing', 'Vacuum', 'Piping', 'Laboratory', 'He
 ## Execution
 
 1. INSTALLATION
-	1. General:
+   1. General:
    1. Examine rough-in requirements for equipment having to verify actual locations of piping connections prior to installation.
    1. Examine walls, floors, roofs, and plumbing chases for suitable conditions where piping and specialties are to be installed.
    1. Piping shall be run true, plumb, and straight, with all restraints adjusted to carry their proportional load and locked to prevent pipe “wag,” misalignment, movement, shear, or sagging.
@@ -115,20 +124,19 @@ tags: ['Facility', 'Services', 'Plumbing', 'Vacuum', 'Piping', 'Laboratory', 'He
 
 ## General
 
-   1. Pitch all mains back to the central system and provide valved drain pockets and drain cocks at all low points and trapped sections in the system.
-   1. Connect all branches to the top of mains. Valve all risers and branches.
-   1. Use Y or TY fittings where tees are shown in the drawings. (2 ½” and larger).
-   1. Cleanouts:
-      1. Install full size cleanouts at the each of each main and branch and wherever pipe changes direction or otherwise requires cleanouts for proper cleaning of the entire vacuum system. Cleanout can be accomplished by using tees instead of elbows or double Y or TY fittings.
-   1. Valves and Specialties
-   1. Provide unions or flanges wherever necessary and in piping at all equipment so that piping may be conveniently broken and moved to facilitate equipment maintenance.
-   1. Provide isolation valves on all lines before they leave the utility corridor and at each floor level.
-1. FIELD QUALITY CONTROL
+1.  Pitch all mains back to the central system and provide valved drain pockets and drain cocks at all low points and trapped sections in the system.
+1.  Connect all branches to the top of mains. Valve all risers and branches.
+1.  Use Y or TY fittings where tees are shown in the drawings. (2 ½” and larger).
+1.  Cleanouts:
+    1. Install full size cleanouts at the each of each main and branch and wherever pipe changes direction or otherwise requires cleanouts for proper cleaning of the entire vacuum system. Cleanout can be accomplished by using tees instead of elbows or double Y or TY fittings.
+1.  Valves and Specialties
+1.  Provide unions or flanges wherever necessary and in piping at all equipment so that piping may be conveniently broken and moved to facilitate equipment maintenance.
+1.  Provide isolation valves on all lines before they leave the utility corridor and at each floor level.
+1.  FIELD QUALITY CONTROL
 
 ## General
 
- Testing Procedures:
-      1. All piping systems shall be tested and proven tight prior to concealment. The test shall be witnessed by the Architect/Engineer, plumbing inspector, or the Owner’s representative.
-   1. Insure that the test pressure that might damage fixtures or equipment does not reach such units by valving them off or otherwise isolating them during the test.
-1. (THIS PAGE INTENTIONALLY BLANK)
+Testing Procedures: 1. All piping systems shall be tested and proven tight prior to concealment. The test shall be witnessed by the Architect/Engineer, plumbing inspector, or the Owner’s representative.
 
+1. Insure that the test pressure that might damage fixtures or equipment does not reach such units by valving them off or otherwise isolating them during the test.
+1. (THIS PAGE INTENTIONALLY BLANK)

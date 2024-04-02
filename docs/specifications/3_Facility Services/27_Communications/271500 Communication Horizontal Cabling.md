@@ -4,7 +4,15 @@ section: '271500'
 divNumb: 27
 divName: Communications
 subgroup: Facility Services
-tags: ['Facility', 'Services', 'Communications', 'Communication', 'Horizontal', 'Cabling']
+tags:
+  [
+    'Facility',
+    'Services',
+    'Communications',
+    'Communication',
+    'Horizontal',
+    'Cabling',
+  ]
 ---
 
 ## General
@@ -16,13 +24,13 @@ tags: ['Facility', 'Services', 'Communications', 'Communication', 'Horizontal', 
 1. DEFINITIONS
    1. Telephone and Data Cabling Systems include all of the necessary components required to establish new services with the Owner voice and data systems. This includes the installation of copper cables and the associated connections.
 1. SYSTEM DESCRIPTION
-	1. General:
+   1. General:
       1. Raceways, cable, racks, patch panels, distribution equipment, devices, and terminations for a complete voice and data communications cable system.
-   1. The work described in this specification consists of all labor, materials, equipment, and services necessary and required to complete and test the system. 
+   1. The work described in this specification consists of all labor, materials, equipment, and services necessary and required to complete and test the system.
    1. Any material not specifically mentioned in this specification or not shown on drawings, but required for proper performance and operation as specified, shall be furnished and installed.
 1. SUBMITTALS
    1. Product Data:
-      1. For each component specified, including detailed manufacturer's specifications. Include data on features, ratings, and performance. Include dimensioned plan and elevation views of components. Show access and working-space requirements. 
+      1. For each component specified, including detailed manufacturer's specifications. Include data on features, ratings, and performance. Include dimensioned plan and elevation views of components. Show access and working-space requirements.
    1. Submit evidence of listing of products specified to be listed in the "Quality Assurance" Article.
    1. Shop Drawings:
       1. Floor Plans - Indicate final outlet locations, station numbering, and routings of raceways and cables.
@@ -53,7 +61,7 @@ tags: ['Facility', 'Services', 'Communications', 'Communication', 'Horizontal', 
       1. A firm experienced in manufacturing systems similar to those indicated for this Project and with a record of successful in-service performance.
    1. Listing and Labeling:
       1. Provide products specified in this Section that are listed and labeled.
-1. EXTRA MATERIALS 
+1. EXTRA MATERIALS
    1. Furnish extra materials described below that match products installed, are packaged with protective covering for storage, and are identified with labels clearly describing contents.
    1. Cable:
       1. 250 feet (76 m) of each size and type used for Project. Furnish on reels.
@@ -71,7 +79,7 @@ tags: ['Facility', 'Services', 'Communications', 'Communication', 'Horizontal', 
    1. Storage:
       1. The Contractor shall provide temporary storage facilities for products. Storage shall comply with the manufacturer's instructions. The storage area shall permit access for inspection and handling.
    1. Handling:
-      1. The Contractor shall load and unload products in such a manner that protects them from damage. 
+      1. The Contractor shall load and unload products in such a manner that protects them from damage.
 1. PROJECT MEETINGS
    1. Pre-Work Conference:
       1. A pre-work conference will be held prior to the start of work. The Contractor will be notified in advance of meeting time, date and place. The purpose will be to review required work, project drawings, specifications, and construction.
@@ -88,7 +96,7 @@ tags: ['Facility', 'Services', 'Communications', 'Communication', 'Horizontal', 
 ## Products
 
 1. SYSTEM REQUIREMENTS
-	1. General:
+   1. General:
       1. Coordinate the features of materials and equipment so they form an integrated system. Match components and interconnections for optimum future performance.
    1. Expansion Capability:
       1. Unless otherwise indicated, quantity of spare fibers and conductor pairs in cables, positions in patch panels, cross connects, terminal strips, and space in backbone cable trays and wireways shall be adequate to accommodate a 20 percent future increase in active workstations.
@@ -101,18 +109,18 @@ tags: ['Facility', 'Services', 'Communications', 'Communication', 'Horizontal', 
       1. Siemon or approved equal.
 1. MATERIALS
    1. Minimum conduit size 1:
-      1. Refer to related Division 26 sections of the Specifications. 
+      1. Refer to related Division 26 sections of the Specifications.
    1. Outlet, Junction, and Pull Boxes:
       1. Refer to related Division 26 sections of the Specifications.
    1. Wall plates:
       1. Refer to related Division 26 sections of the Specifications.
    1. The Contractor shall furnish all materials required to complete the installation.
    1. Conductors:
-      1. Copper 
+      1. Copper
    1. Unshielded Twisted Pair (UTP) Workstation Cable:
-      1. CAT 6 Systimax 2071E Gigaspeed XL cables. Comply with Category 6 EIA/TIA-568B. No. 24 AWG, color coded, Fluorinated-Ethylene-Propylene-insulated conductors in a Plenum jacket. 
+      1. CAT 6 Systimax 2071E Gigaspeed XL cables. Comply with Category 6 EIA/TIA-568B. No. 24 AWG, color coded, Fluorinated-Ethylene-Propylene-insulated conductors in a Plenum jacket.
    1. Workstation:
-      1. For each workstation and/or laboratory location, provide a total of 4 cables. Four white data cables. 
+      1. For each workstation and/or laboratory location, provide a total of 4 cables. Four white data cables.
    1. Workstation Outlets:
       1. Dual jack/connector assembly mounted in a single or multigang faceplate.
    1. Faceplate:
@@ -189,10 +197,10 @@ tags: ['Facility', 'Services', 'Communications', 'Communication', 'Horizontal', 
    1. The Contractor shall furnish and install a local area network secondary cable support system and install/terminate the cable, station jacks and patch panels. The cable drops shall be installed as indicated on the floor plan layout. The cable shall run from the equipment room throughout the area of work.
    1. Labels - Each cable shall be labeled on both ends using a vinyl overwrap label. All station jacks (wall bezel) and patch panels shall also be labeled. Labels shall be printed in a 10 point or greater font and shall be applied not less than 3-inch or more than 4-inches from each termination connector. The clear portion of the label shall completely overwrap the label data. All finished cable drops shall be labeled with printed 10 point or greater font and applied so they are visible on the installed termination jack.
    1. Certification - All cable drops shall be tested using a FLUKE DPS-4000, with the most current software version, and certified to meet EIA/TIA Category 6 standards. The tests shall be performed from the equipment room patch panel to the termination jack. The Contractor shall provide the Project Officer the results of the tests in an E-MAIL. The Contractor shall remove and replace any faulty cables which do not pass the tests.
-   1. Cables - Cables shall be routed starting at the patch panels and leave the equipment room through the ceiling and terminate at the designated station jack. Six cables shall be run to each location, two voice and four data. Voice and data cables shall be different colors and terminate in the equipment room on separate 19" racks. Where cables enter the conduit, the cables shall have a gradual curve secured with a cable tie outside of the entrance. All spare cables will be terminated with an RJ45 jack and surface mount block and have 40 to 50 feet of extra cable coiled separate into a 24-inch coil and left secured to the cable support system in the ceiling. 
+   1. Cables - Cables shall be routed starting at the patch panels and leave the equipment room through the ceiling and terminate at the designated station jack. Six cables shall be run to each location, two voice and four data. Voice and data cables shall be different colors and terminate in the equipment room on separate 19" racks. Where cables enter the conduit, the cables shall have a gradual curve secured with a cable tie outside of the entrance. All spare cables will be terminated with an RJ45 jack and surface mount block and have 40 to 50 feet of extra cable coiled separate into a 24-inch coil and left secured to the cable support system in the ceiling.
    1. Cable Ties - Cables shall be bundled and attached to the primary and secondary support system at least every 3 feet and not more than 6 inches (150 mm) from cabinets, boxes, fittings, outlets, racks, frames, and terminals. Cable ties shall be plenum rated.
    1. Cable/Support System Distribution - The primary cable support system, consisting of metal conduit and cable tray.
-   1. Cable Support System - Cables or cable bundles shall not be tied directly to the structural supports of the building. The Contractor shall utilize the primary cable support system (cable tray), provided by the building contractor, as indicated on the floor plan layout. The voice and data cable bundles shall be separated as much as possible in the building cable tray. The Contractor shall install a secondary cable support system that will eliminate cable sag and tension after the cable leaves the primary support system. This system shall consist of bridal rings, J-hooks or catenary wire for any cable bundles that are less than 10 cables and less than 30 feet after leaving the primary cable support system. These cable bundles must be attached to the support system at least every 3 feet. Any bundles containing 10 or more cables or exceeds 30 feet after leaving the primary support system must be attached to a catenary wire at least every 1 foot. 
+   1. Cable Support System - Cables or cable bundles shall not be tied directly to the structural supports of the building. The Contractor shall utilize the primary cable support system (cable tray), provided by the building contractor, as indicated on the floor plan layout. The voice and data cable bundles shall be separated as much as possible in the building cable tray. The Contractor shall install a secondary cable support system that will eliminate cable sag and tension after the cable leaves the primary support system. This system shall consist of bridal rings, J-hooks or catenary wire for any cable bundles that are less than 10 cables and less than 30 feet after leaving the primary cable support system. These cable bundles must be attached to the support system at least every 3 feet. Any bundles containing 10 or more cables or exceeds 30 feet after leaving the primary support system must be attached to a catenary wire at least every 1 foot.
 1. EXAMINATION
    1. Examine pathway elements to receive cable. Check raceways, cable trays, and other elements for compliance with space allocations, installation tolerances, hazards to cable installation, and other conditions affecting installation. Do not proceed with installation until unsatisfactory conditions have been corrected.
    1. APPLICATION OF MEDIA
@@ -233,14 +241,14 @@ tags: ['Facility', 'Services', 'Communications', 'Communication', 'Horizontal', 
    1. Pull cables simultaneously where more than one is being installed in the same raceway.
    1. Use pulling compound or lubricant where necessary. Use compounds that will not damage conductor or insulation.
    1. Use pulling means, including fish tape, cable, rope, and basket-weave wire/cable grips that will not damage media or raceway.
-   1. The distance from the data termination location to the wiring closet can not exceed 270 feet and the voice distance can not exceed 3500 feet. 
+   1. The distance from the data termination location to the wiring closet can not exceed 270 feet and the voice distance can not exceed 3500 feet.
    1. Install exposed cable parallel and perpendicular to surfaces or exposed structural members, and follow surface contours where possible.
    1. Provide pull boxes in conduit runs spaced not greater than 100 ft apart, and on backboard side of runs with more than two right angle bends. Pull boxes shall be the following minimum sizes:
       1. 4"x4"x36" for 1" through 2-1/2" conduit runs.
    1. 6"x6"x36" for 3" and larger conduit runs.
    1. Outlets:
-   1. Install up nominal 18 inches above finished floor in all general locations; install up 46 inches when marked as wall phone; install up 4 inches to center-line above counter tops or backsplashes (whichever is higher), built in or permanent desk tops where marked above counter, or baseboard heating units. 
-   1. Refer to architectural drawings for locations. 
+   1. Install up nominal 18 inches above finished floor in all general locations; install up 46 inches when marked as wall phone; install up 4 inches to center-line above counter tops or backsplashes (whichever is higher), built in or permanent desk tops where marked above counter, or baseboard heating units.
+   1. Refer to architectural drawings for locations.
    1. Outlets shall consist of a 4" square box, single gang ring, blank wall plate, and 1” conduit stubbed out and bushed above accessible ceiling or as indicated on drawings.
    1. Wiring within Wiring Closets and Enclosures:
       1. Provide adequate length of conductors. Train the conductors to terminal points with no excess. Use lacing bars to restrain cables, to prevent straining connections, and to prevent bending cables to radii smaller than allowed.
@@ -261,8 +269,8 @@ tags: ['Facility', 'Services', 'Communications', 'Communication', 'Horizontal', 
    1. Group connecting hardware for cables into separate logical fields.
    1. Use patch panels to terminate cables entering the space, except as otherwise indicated.
    1. TERMINATIONS
-   1. Service loops or slack wire shall be provided in each cable terminating at the telecomm closet termination devices to provide a minimum of 1 m (3.3 ft) of slack for maintenance or re-termination purposes, 3 m (10 ft) for Fiber Optic cables. 
-   1. Provide a 1500 mm (5 ft) minimum of each cable terminating at each telecomm outlet box. This slack shall not be coiled or stuffed in the outlet box or conduit, but left loose in cavity above or below the wall, freely accessible by light pulling from the outlet box. 
+   1. Service loops or slack wire shall be provided in each cable terminating at the telecomm closet termination devices to provide a minimum of 1 m (3.3 ft) of slack for maintenance or re-termination purposes, 3 m (10 ft) for Fiber Optic cables.
+   1. Provide a 1500 mm (5 ft) minimum of each cable terminating at each telecomm outlet box. This slack shall not be coiled or stuffed in the outlet box or conduit, but left loose in cavity above or below the wall, freely accessible by light pulling from the outlet box.
    1. Provide a 1 m (3.3 ft) minimum of each Fiber Optic cable terminating at each telecomm outlet box requiring Fiber Optic data cables. Coil Fiber Optic cable slack in box includes adaptor.
    1. Fiber Optic connectors shall terminate in a light interface unit (LIU) or termination enclosure with type SC adapters.
    1. A maximum of 1 inch of exposed wire will be permitted at connections to patch panels and jacks.

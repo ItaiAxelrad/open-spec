@@ -7,7 +7,6 @@ subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Equipment', 'Laminar', 'Flow', 'Hoods']
 ---
 
-
 ## General
 
 1. SUMMARY
@@ -78,83 +77,82 @@ tags: ['Facility', 'Construction', 'Equipment', 'Laminar', 'Flow', 'Hoods']
 
 ## Products
 
-   1. VERTICAL LAMINAR FLOW POLYPROPYLENE FUME HOODS
-   1. Manufacturer:
-      1. The design of vertical laminar flow total exhaust polypropylene fume hoods is based on NuAire, Inc., model NU-156. All laminar flow fume hoods shall be the product of one manufacturer.
-   1. Products of the following polypropylene fume hood manufacturers may be used as an approved equal, provided they meet the product specifications and performance characteristics specified herein.
-   1. TFI International (Inline Design), Commerce City, CO.
-   1. Pureaire Technologies Model FH72LF
-   1. Bellco Biotechnology Model 8600-6000
+1.  VERTICAL LAMINAR FLOW POLYPROPYLENE FUME HOODS
+1.  Manufacturer:
+    1. The design of vertical laminar flow total exhaust polypropylene fume hoods is based on NuAire, Inc., model NU-156. All laminar flow fume hoods shall be the product of one manufacturer.
+1.  Products of the following polypropylene fume hood manufacturers may be used as an approved equal, provided they meet the product specifications and performance characteristics specified herein.
+1.  TFI International (Inline Design), Commerce City, CO.
+1.  Pureaire Technologies Model FH72LF
+1.  Bellco Biotechnology Model 8600-6000
 
 ## General
 
- Design Requirements:
-      1. Fume hoods required under this specification will be referenced as:
-         1. Laminar Flow Fume Hoods (LFH).
-   1. Fume Hood Configurations:
-      1. Provide in sizes and configurations with fume hood bases as shown on the drawings.
-   1. Performance Characteristics
-   1. All cabinets of size and type as indicated on the hood schedule shall be a bench style, single pass flow-through design in which all HEPA filtered work zone (downflow) and work access inflow air, is drawn through the cabinet's internal exhaust plenums to a single exit point at the top.
-   1. Air shall be drawn into the HEPA filter by the internal supply blower from a prefilter at the top of the cabinet. The air shall exit the HEPA filter through a diffuser into the work zone in a laminar manner. The air shall split at the removable work surface with ½ being drawn into a rear inlet grill and ½ drawn into the front inlet grill along with the work access inflow. The combination of the downflow and inflow into the front inlet grill forms an “air barrier” that creates the “personnel protection factor”.
-   1. Laminar Flow Hoods shall be provided with two-speed blower motor control and sash position sensor to provide the following operation:
-      1. Sash in the open position shall signal the blower motor to operate at “normal”, or full speed, and shall signal the Variable Air Volume system to operate at full volume.
-   1. Sash in the closed position shall signal the blower motor to operate at “low speed” and shall signal the Variable Air Volume system to operate at low setpoint volume.
-   1. Coordinate controls with Section 15910 – Laboratory Hood Instrumentation and Control.
-   1. The area beneath the removable work surface shall form a leak-tight exhaust plenum that shall drain to a single, polypropylene, 3/8-inch, ball-type drain valve. The drain valve shall be plumbed to a polypropylene “p-trap” or dead ended into a ball valve. 1½- inch vent holes shall be provided through the bottom of the plenum/cabinet to provide venting for the base cabinets below. One vent hole shall be provided for each base cabinet door and they shall be protected from plenum spills by 3-inch high “mushroom capped” stand pipes.
-   1. The supply HEPA filter shall be the full cabinets’ work surface width and depth and removable from the front of the cabinet. The work zone shall be the same fixed cross sectional area as the HEPA filter.
-   1. The positive pressure supply plenum shall be surrounded by negative pressure, including the interface of the supply HEPA filter and the filter frame in order to preclude any gasket leaks from contaminating the HEPA filtered work zone air.
-   1. The downflow air velocity from a clean HEPA filter shall average from 55 to 65 LFPM with no single point more than 20% above or below the average velocity measured in a horizontal plane defined by the bottom edge of the sash at nominal working height (10-inches).
-   1. Minimum average inflow velocity through the work access opening shall be 105 LFPM with a 10-inch nominal sash opening. Working sash heights shall vary between 8 and 12-inches without a loss of the “personnel protection factor”. The maximum non-working height shall be 28-inches.
-   1. The exhaust volumes and negative static pressures required per cabinet size shall not exceed the following based on an average inflow velocity of 105 FPM at a work access opening height of 10-inches and an average internal downflow velocity of 65 LFPM.
-   1. Cabinet width
-   1. 24-inch depth
-   1. Sash Open
-   1. Sash Closed
-   1. 6-foot cabinet
-   1. 1120 CFM  1.0”w.g.
-   1. 560 CFM  0.3” w.g.
-   1. 8-foot cabinet
-   1. 1550 CFM  1.2” w.g
-   1. 755 CFM  0.35” w.g.
-   1. Verify “sash closed” values with manufacturer.
-   1. The supply HEPA filter shall be wood board framed and constructed from non-woven pleated fiberglass media with separatorless media. All media shall be a minimum of 99.99% efficient on 0.3-micron particles with greater efficiency on smaller and/or larger particles.
-   1. The internal downflow blower shall be a non-overloading, backward inclined, dynamically balanced, motorized impeller with the impeller and all hardware (i.e. nuts, bolts, screws, etc) TFE coated by a licensed coating manufacturer, for maximum corrosion resistance. The coating shall be a minimum thickness of 1.5 mil.
-   1. All electronic controls shall be housed in a separate gastight polypropylene enclosure and shall be accessible from the top of the cabinet.
-   1. Motor control shall include monitor and control contacts on each winding for tie-in to the Building Management System.
-   1. Motor shall have an adjustable two-speed control to permit inputs from the Sash Position Sensor.
-   1. All motors shall be permanent split capacitor type and sized to automatically compensate as the filter loads with particulate to achieve a maximum reduction in air flow of no more than 10% for an 80% increase in pressure drop across the filter. The Class B insulated motor shall be thermally protected, rated for 24-hour continuous operation, lubricated for life and speed controlled by a solid state, voltage regulated speed controller.
-   1. Vibration, due to the motor, shall be minimized through the use of vibration isolators in mounting the motor/blower assembly to the internal frame.
-   1. The work zone shall be illuminated by an externally mounted, polypropylene, fluorescent lamp fixture and shall provide an average of 100 foot-candles, as measured at the work surface. The lamp shall use two T8 bulbs and use a thermally protected, U.L. Listed electronic ballast with automatic reset. The fluorescent fixture shall be gas-tight and constructed from ¼-inch polypropylene with a clear, gasketed Lexantm lens. All lamps shall be easily replaceable using simple tools.
-   1. The polypropylene workspace shall be enclosed on both sidewalls by a 4-inch wide plumbing chase. The chase shall extend the full height and width of the cabinet’s exterior sidewall. Access panels shall be provided on both the exterior and interior sides of the chase. All panels shall mount flush to the surrounding material, be fastened by #10-32 flat head polypropylene screws and provide sufficient access for maintenance and repair of plumbing, electrical and sash components.
-   1. Fume Hood Construction:
-      1. The cabinets work space, plumbing chase, structural support members and bottom shall be constructed from ½-inch fully stress relieved, refrigerator white, polypropylene sheet stock. All sections are to be reinforced where necessary and continuously heat seam welded to form a rigid structure with all exterior welds finished flush with the surrounding surfaces. All access panels, rear exhaust duct, and the perforated reinforced and removable work surface shall be constructed using ¼-inch material.
-   1. The upper structure of the cabinet containing the HEPA filter, blower, supply plenum and electronics shall be constructed using 1/2-inch thick polypropylene material and shall be an integral extension of the work space sides and back walls (i.e. one-piece construction). Access panels shall be provided at the top of plumbing chase section for maintenance of sash pulleys, counterweight and polypropylene attachment rope.
-   1. Access to the HEPA filters and motor blower assembly for maintenance and repair shall be through a flush mounted access panel in the upper portion of the hood face. Access to internal components shall NOT require disassembly of the window sash and glide system.
-   1. Prefilter(s) shall be mounted on top of the motor/blower module and easily replaceable. Prefilter(s) shall be 1-inch thick non-woven fiberglass and shall be 40 percent efficient per the Atmospheric Dust Test.
-   1. The glazing material shall be ¼-inch LexanTM with MargardTm, unframed, unless otherwise specified. The glazing is suspended within polypropylene glide channels by a 3/8-inch polypropylene cable routed over front and rear pulleys connected to a totally PVC enclosed counter balanced weight located in the plumbing chase. The counter balance weight shall ride within a close-tolerance outer PVC tube to control vertical motion.
-   1. Sash shall be equipped with a position sensor (switch) with primary contacts to control the blower motor speed and secondary contacts for the Variable Air Volume System.
-   1. The diffuser below the HEPA filter shall fit snugly full width and length of the work zone and be constructed from 1/16-inch thick, 22 percent open perforated PVC and held in place with polypro screws. A vinyl wiper shall be installed between the sash and the interface of the diffuser and the upper workspace to provide a seal against the glazing material. The area above the wiper, but under the sash, shall be maintained under a negative pressure.
-   1. All internal electrical wiring shall be enclosed in flexible, UL Listed, non-metal corrosive-resistant, liquid-tight conduit with UL Listed fittings. All internal junction boxes and enclosures shall be constructed from polypropylene and shall be liquid-tight construction and gasketed where required. All exposed controls and visual indicators shall be constructed from non-metal corrosive-resistant materials or protected by non-metal, gas-tight enclosures with a clear viewing lens, where required.
-   1. The work surface shall be removable and constructed from ¼-inch thick polypropylene material, reinforced with polypropylene ribbing to maintain surface flatness. The perforated front and rear sections shall be 3/16-inch diameter holes on 3/8-inch alternate centers. Where sinks are called out, the work surface shall be segmented such that the sink section is fixed and separate from the rest of the removable work surface.
-   1. Power to the cabinet shall be connected to a UL Listed junction box of suitable size to accommodate required circuits as indicated on the hood schedule. The junction box shall be non-metallic and require non-metallic liquid-tight connections.
-   1. Where required, all cabinets shall be provided with a separate support base constructed from ½-inch polypropylene.
-   1. Fume hood bases shall have 1½-inch diameter adjustable levelers that are accessible from inside the base cabinet and protected from spills with a ½-inch high rim, covered with a removable cap. A minimum of two (front and rear) levelers shall be provided for each 2-foot section of fume hood. The levelers shall thread through a minimum of 1½-inches of material for stability and permit an adjustment of 2-inches.
-   1. The top of the base cabinet shall have a 3-inch wide, full interior perimeter stretcher to facilitate assembly to the hood.
-   1. Hood bases shall have one sealed compartment where sinks are scheduled. The remaining space shall contain an adjustable shelf. Sealed compartment shall have an access panel for connection to building utilities. Remaining space shall contain an adjustable shelf.
-   1. Each segmented compartment shall be vented to the exhaust duct via a standpipe, plumbed through the base of the hood cabinet to the exhaust duct.
-   1. All base cabinet doors shall have four 1½- inch diameter vent holes, centered 4-inches above the bottom of the door and evenly spaced. An adjustable slide shall be located on the inside of the door, with an identical offset hole-pattern to control airflow through the compartment(s). For compartments with shelves, shelves shall permit air to pass through the rear ½-inch of the shelf.
-   1. Hood Services
-   1. Services shall be provided in each hood as per the hood schedule and as follows. Hood shall not have any pre-punched holes on the hood post except for services per the schedule.
-   1. Each hood shall have:
-      1. One duplex receptacle, GFCI.
-   1. 12” x 12” x 5” sloped bottom polypropylene sink with strainer and p-trap.
-   1. Remote control nitrogen service needle valve with flow control and regulator.
-   1. Remote control polypropylene DI water service gooseneck faucet.
-   1. Remote control polypropylene hot and cold water service gooseneck faucet with mixing faucet.
-   1. Service fixtures and fittings mounted inside of hood shall consist of color-coded hose outlets having adapter for 1/4” NPT fitting, remotely controlled from the hood post with color-coded index handles. The fixtures (valves and outlets) shall be constructed from polypropylene unless otherwise noted. The valve body shall be easily removed from the front for repair.
-   1. Service fixtures shall be provided with piping, from the outlet/valve to the exterior. Where services are scheduled on both sides of the hood, piping shall be connected for a coordinated single point connection to the building services.
-   1. Sinks of size per the hood schedule shall be flush with the work surface and be complete with strainer, tailpiece and p-trap, plumbed to the rear of the hood base. Sinks and accessories shall be constructed from ¼-inch polypropylene unless otherwise specified and shall have a slanted bottom to the drain. Cold/hot/DI water goosenecks where scheduled shall be positioned so that they discharge into the sink(s).
-   1. Electrical services shall be three wire grounding type receptacles rated for 120 volt per the schedule. Outlets shall be provided on the hood post where noted. Each outlet shall have a non-metallic, corrosive resistant, vapor-tight gasketed cover capable of being sealed in place with a gasketed thumbscrew and shall have removable inserts of plastic to seal outlet contacts when not in use. Receptacles shall conform to NEMA standards.
+Design Requirements: 1. Fume hoods required under this specification will be referenced as: 1. Laminar Flow Fume Hoods (LFH).
+
+1.  Fume Hood Configurations:
+    1. Provide in sizes and configurations with fume hood bases as shown on the drawings.
+1.  Performance Characteristics
+1.  All cabinets of size and type as indicated on the hood schedule shall be a bench style, single pass flow-through design in which all HEPA filtered work zone (downflow) and work access inflow air, is drawn through the cabinet's internal exhaust plenums to a single exit point at the top.
+1.  Air shall be drawn into the HEPA filter by the internal supply blower from a prefilter at the top of the cabinet. The air shall exit the HEPA filter through a diffuser into the work zone in a laminar manner. The air shall split at the removable work surface with ½ being drawn into a rear inlet grill and ½ drawn into the front inlet grill along with the work access inflow. The combination of the downflow and inflow into the front inlet grill forms an “air barrier” that creates the “personnel protection factor”.
+1.  Laminar Flow Hoods shall be provided with two-speed blower motor control and sash position sensor to provide the following operation:
+    1. Sash in the open position shall signal the blower motor to operate at “normal”, or full speed, and shall signal the Variable Air Volume system to operate at full volume.
+1.  Sash in the closed position shall signal the blower motor to operate at “low speed” and shall signal the Variable Air Volume system to operate at low setpoint volume.
+1.  Coordinate controls with Section 15910 – Laboratory Hood Instrumentation and Control.
+1.  The area beneath the removable work surface shall form a leak-tight exhaust plenum that shall drain to a single, polypropylene, 3/8-inch, ball-type drain valve. The drain valve shall be plumbed to a polypropylene “p-trap” or dead ended into a ball valve. 1½- inch vent holes shall be provided through the bottom of the plenum/cabinet to provide venting for the base cabinets below. One vent hole shall be provided for each base cabinet door and they shall be protected from plenum spills by 3-inch high “mushroom capped” stand pipes.
+1.  The supply HEPA filter shall be the full cabinets’ work surface width and depth and removable from the front of the cabinet. The work zone shall be the same fixed cross sectional area as the HEPA filter.
+1.  The positive pressure supply plenum shall be surrounded by negative pressure, including the interface of the supply HEPA filter and the filter frame in order to preclude any gasket leaks from contaminating the HEPA filtered work zone air.
+1.  The downflow air velocity from a clean HEPA filter shall average from 55 to 65 LFPM with no single point more than 20% above or below the average velocity measured in a horizontal plane defined by the bottom edge of the sash at nominal working height (10-inches).
+1.  Minimum average inflow velocity through the work access opening shall be 105 LFPM with a 10-inch nominal sash opening. Working sash heights shall vary between 8 and 12-inches without a loss of the “personnel protection factor”. The maximum non-working height shall be 28-inches.
+1.  The exhaust volumes and negative static pressures required per cabinet size shall not exceed the following based on an average inflow velocity of 105 FPM at a work access opening height of 10-inches and an average internal downflow velocity of 65 LFPM.
+1.  Cabinet width
+1.  24-inch depth
+1.  Sash Open
+1.  Sash Closed
+1.  6-foot cabinet
+1.  1120 CFM 1.0”w.g.
+1.  560 CFM 0.3” w.g.
+1.  8-foot cabinet
+1.  1550 CFM 1.2” w.g
+1.  755 CFM 0.35” w.g.
+1.  Verify “sash closed” values with manufacturer.
+1.  The supply HEPA filter shall be wood board framed and constructed from non-woven pleated fiberglass media with separatorless media. All media shall be a minimum of 99.99% efficient on 0.3-micron particles with greater efficiency on smaller and/or larger particles.
+1.  The internal downflow blower shall be a non-overloading, backward inclined, dynamically balanced, motorized impeller with the impeller and all hardware (i.e. nuts, bolts, screws, etc) TFE coated by a licensed coating manufacturer, for maximum corrosion resistance. The coating shall be a minimum thickness of 1.5 mil.
+1.  All electronic controls shall be housed in a separate gastight polypropylene enclosure and shall be accessible from the top of the cabinet.
+1.  Motor control shall include monitor and control contacts on each winding for tie-in to the Building Management System.
+1.  Motor shall have an adjustable two-speed control to permit inputs from the Sash Position Sensor.
+1.  All motors shall be permanent split capacitor type and sized to automatically compensate as the filter loads with particulate to achieve a maximum reduction in air flow of no more than 10% for an 80% increase in pressure drop across the filter. The Class B insulated motor shall be thermally protected, rated for 24-hour continuous operation, lubricated for life and speed controlled by a solid state, voltage regulated speed controller.
+1.  Vibration, due to the motor, shall be minimized through the use of vibration isolators in mounting the motor/blower assembly to the internal frame.
+1.  The work zone shall be illuminated by an externally mounted, polypropylene, fluorescent lamp fixture and shall provide an average of 100 foot-candles, as measured at the work surface. The lamp shall use two T8 bulbs and use a thermally protected, U.L. Listed electronic ballast with automatic reset. The fluorescent fixture shall be gas-tight and constructed from ¼-inch polypropylene with a clear, gasketed Lexantm lens. All lamps shall be easily replaceable using simple tools.
+1.  The polypropylene workspace shall be enclosed on both sidewalls by a 4-inch wide plumbing chase. The chase shall extend the full height and width of the cabinet’s exterior sidewall. Access panels shall be provided on both the exterior and interior sides of the chase. All panels shall mount flush to the surrounding material, be fastened by #10-32 flat head polypropylene screws and provide sufficient access for maintenance and repair of plumbing, electrical and sash components.
+1.  Fume Hood Construction:
+    1. The cabinets work space, plumbing chase, structural support members and bottom shall be constructed from ½-inch fully stress relieved, refrigerator white, polypropylene sheet stock. All sections are to be reinforced where necessary and continuously heat seam welded to form a rigid structure with all exterior welds finished flush with the surrounding surfaces. All access panels, rear exhaust duct, and the perforated reinforced and removable work surface shall be constructed using ¼-inch material.
+1.  The upper structure of the cabinet containing the HEPA filter, blower, supply plenum and electronics shall be constructed using 1/2-inch thick polypropylene material and shall be an integral extension of the work space sides and back walls (i.e. one-piece construction). Access panels shall be provided at the top of plumbing chase section for maintenance of sash pulleys, counterweight and polypropylene attachment rope.
+1.  Access to the HEPA filters and motor blower assembly for maintenance and repair shall be through a flush mounted access panel in the upper portion of the hood face. Access to internal components shall NOT require disassembly of the window sash and glide system.
+1.  Prefilter(s) shall be mounted on top of the motor/blower module and easily replaceable. Prefilter(s) shall be 1-inch thick non-woven fiberglass and shall be 40 percent efficient per the Atmospheric Dust Test.
+1.  The glazing material shall be ¼-inch LexanTM with MargardTm, unframed, unless otherwise specified. The glazing is suspended within polypropylene glide channels by a 3/8-inch polypropylene cable routed over front and rear pulleys connected to a totally PVC enclosed counter balanced weight located in the plumbing chase. The counter balance weight shall ride within a close-tolerance outer PVC tube to control vertical motion.
+1.  Sash shall be equipped with a position sensor (switch) with primary contacts to control the blower motor speed and secondary contacts for the Variable Air Volume System.
+1.  The diffuser below the HEPA filter shall fit snugly full width and length of the work zone and be constructed from 1/16-inch thick, 22 percent open perforated PVC and held in place with polypro screws. A vinyl wiper shall be installed between the sash and the interface of the diffuser and the upper workspace to provide a seal against the glazing material. The area above the wiper, but under the sash, shall be maintained under a negative pressure.
+1.  All internal electrical wiring shall be enclosed in flexible, UL Listed, non-metal corrosive-resistant, liquid-tight conduit with UL Listed fittings. All internal junction boxes and enclosures shall be constructed from polypropylene and shall be liquid-tight construction and gasketed where required. All exposed controls and visual indicators shall be constructed from non-metal corrosive-resistant materials or protected by non-metal, gas-tight enclosures with a clear viewing lens, where required.
+1.  The work surface shall be removable and constructed from ¼-inch thick polypropylene material, reinforced with polypropylene ribbing to maintain surface flatness. The perforated front and rear sections shall be 3/16-inch diameter holes on 3/8-inch alternate centers. Where sinks are called out, the work surface shall be segmented such that the sink section is fixed and separate from the rest of the removable work surface.
+1.  Power to the cabinet shall be connected to a UL Listed junction box of suitable size to accommodate required circuits as indicated on the hood schedule. The junction box shall be non-metallic and require non-metallic liquid-tight connections.
+1.  Where required, all cabinets shall be provided with a separate support base constructed from ½-inch polypropylene.
+1.  Fume hood bases shall have 1½-inch diameter adjustable levelers that are accessible from inside the base cabinet and protected from spills with a ½-inch high rim, covered with a removable cap. A minimum of two (front and rear) levelers shall be provided for each 2-foot section of fume hood. The levelers shall thread through a minimum of 1½-inches of material for stability and permit an adjustment of 2-inches.
+1.  The top of the base cabinet shall have a 3-inch wide, full interior perimeter stretcher to facilitate assembly to the hood.
+1.  Hood bases shall have one sealed compartment where sinks are scheduled. The remaining space shall contain an adjustable shelf. Sealed compartment shall have an access panel for connection to building utilities. Remaining space shall contain an adjustable shelf.
+1.  Each segmented compartment shall be vented to the exhaust duct via a standpipe, plumbed through the base of the hood cabinet to the exhaust duct.
+1.  All base cabinet doors shall have four 1½- inch diameter vent holes, centered 4-inches above the bottom of the door and evenly spaced. An adjustable slide shall be located on the inside of the door, with an identical offset hole-pattern to control airflow through the compartment(s). For compartments with shelves, shelves shall permit air to pass through the rear ½-inch of the shelf.
+1.  Hood Services
+1.  Services shall be provided in each hood as per the hood schedule and as follows. Hood shall not have any pre-punched holes on the hood post except for services per the schedule.
+1.  Each hood shall have:
+    1. One duplex receptacle, GFCI.
+1.  12” x 12” x 5” sloped bottom polypropylene sink with strainer and p-trap.
+1.  Remote control nitrogen service needle valve with flow control and regulator.
+1.  Remote control polypropylene DI water service gooseneck faucet.
+1.  Remote control polypropylene hot and cold water service gooseneck faucet with mixing faucet.
+1.  Service fixtures and fittings mounted inside of hood shall consist of color-coded hose outlets having adapter for 1/4” NPT fitting, remotely controlled from the hood post with color-coded index handles. The fixtures (valves and outlets) shall be constructed from polypropylene unless otherwise noted. The valve body shall be easily removed from the front for repair.
+1.  Service fixtures shall be provided with piping, from the outlet/valve to the exterior. Where services are scheduled on both sides of the hood, piping shall be connected for a coordinated single point connection to the building services.
+1.  Sinks of size per the hood schedule shall be flush with the work surface and be complete with strainer, tailpiece and p-trap, plumbed to the rear of the hood base. Sinks and accessories shall be constructed from ¼-inch polypropylene unless otherwise specified and shall have a slanted bottom to the drain. Cold/hot/DI water goosenecks where scheduled shall be positioned so that they discharge into the sink(s).
+1.  Electrical services shall be three wire grounding type receptacles rated for 120 volt per the schedule. Outlets shall be provided on the hood post where noted. Each outlet shall have a non-metallic, corrosive resistant, vapor-tight gasketed cover capable of being sealed in place with a gasketed thumbscrew and shall have removable inserts of plastic to seal outlet contacts when not in use. Receptacles shall conform to NEMA standards.
 
 ## Execution
 
@@ -174,4 +172,3 @@ tags: ['Facility', 'Construction', 'Equipment', 'Laminar', 'Flow', 'Hoods']
    1. PROTECTION OF FINISHED WORK
    1. Provide all necessary protective measures to prevent exposure of the vertical laminar flow fume hood to other construction activity during operational test and balancing. In particular high concentrations of aerosols caused by spray painting or plaster dust can seriously shorten the lifetime of the HEPA filter.
    1. Advise contractor of procedures and precautions for protection of material, installed fume hood and fixtures from damage by work of other trades.
-

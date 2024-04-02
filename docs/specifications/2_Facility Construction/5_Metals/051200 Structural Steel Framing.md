@@ -7,7 +7,6 @@ subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Metals', 'Structural', 'Steel', 'Framing']
 ---
 
-
 ## General
 
 1. SUMMARY
@@ -26,7 +25,7 @@ tags: ['Facility', 'Construction', 'Metals', 'Structural', 'Steel', 'Framing']
    1. Comply with pertinent provisions of Section 013300.
    1. Product data:
       1. Within 35 calendar days after the Contractor has received the Owner's Notice to Proceed, submit:
-            1. Sufficient technical data to demonstrate compliance with the specified requirements.
+         1. Sufficient technical data to demonstrate compliance with the specified requirements.
    1. Complete Shop Drawings showing all members, proposed cuts, connections, camber, holes, and similar data.
 1. QUALITY ASSURANCE
    1. Use adequate numbers of skilled workmen who are thoroughly trained and experienced in the necessary crafts and who are completely familiar with the specified requirements and the methods needed for proper performance of the work of this Section.
@@ -122,4 +121,3 @@ tags: ['Facility', 'Construction', 'Metals', 'Structural', 'Steel', 'Framing']
    1. Apply a spot coat of the approved primer.
    1. Do not apply paint to wet, damp, oily, or improperly prepared surfaces.
    1. Spray apply the primer, filling joints and corners, and covering surfaces with a smooth unbroken film of at least 1.5 dry mils thickness.
-   

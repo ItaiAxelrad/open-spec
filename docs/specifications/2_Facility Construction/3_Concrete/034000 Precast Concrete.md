@@ -18,23 +18,23 @@ tags: ['Facility', 'Construction', 'Concrete', 'Precast']
    1. Product data. Unless otherwise indicated, submit the following for each type of product provided under work of this Section:
       1. Recycled Content:
       2. Indicate recycled content; indicate percentage of pre-consumer and post-consumer recycled content per unit of product.
-      3. Indicate relative dollar value of recycled content product to total dollar value of product included in project. 
+      3. Indicate relative dollar value of recycled content product to total dollar value of product included in project.
       4. If recycled content product is part of an assembly, indicate the percentage of recycled content product in the assembly by weight.
-      5. If recycled content product is part of an assembly, indicate relative dollar value of recycled content product to total dollar value of assembly. 
+      5. If recycled content product is part of an assembly, indicate relative dollar value of recycled content product to total dollar value of assembly.
 3. Local/Regional Materials:
-      1. Sourcing location(s):
-         1. Indicate location of extraction, harvesting, and recovery; indicate distance between extraction, harvesting, and recovery and the project site.
-      2. Manufacturing location(s):
-         1. Indicate location of manufacturing facility; indicate distance between manufacturing facility and the project site.
-      3. Product Value:
-         1. Indicate dollar value of product containing local/regional materials; include materials cost only. 
-      4. Product Component(s) Value:
-         1. Where product components are sourced or manufactured in separate locations, provide location information for each component. Indicate the percentage by weight of each component per unit of product.
-   1. Submit environmental data in accordance with Table 1 of ASTM E2129 for products provided under work of this Section.
-   2. Documentation of manufacturer’s take-back program for **[units, full and partial] [packaging] [xxxx]**. Include the following:
+   1. Sourcing location(s):
+      1. Indicate location of extraction, harvesting, and recovery; indicate distance between extraction, harvesting, and recovery and the project site.
+   2. Manufacturing location(s):
+      1. Indicate location of manufacturing facility; indicate distance between manufacturing facility and the project site.
+   3. Product Value:
+      1. Indicate dollar value of product containing local/regional materials; include materials cost only.
+   4. Product Component(s) Value:
+      1. Where product components are sourced or manufactured in separate locations, provide location information for each component. Indicate the percentage by weight of each component per unit of product.
+   5. Submit environmental data in accordance with Table 1 of ASTM E2129 for products provided under work of this Section.
+   6. Documentation of manufacturer’s take-back program for **[units, full and partial] [packaging] [xxxx]**. Include the following:
       1. Appropriate contact information.
 4. Overview of procedures.
-      1. Indicate manufacturer’s commitment to reclaim materials for recycling and/or reuse.
+   1. Indicate manufacturer’s commitment to reclaim materials for recycling and/or reuse.
 5. Limitations and conditions, if any, applicable to the project.
 
 ## Product

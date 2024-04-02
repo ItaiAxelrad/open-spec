@@ -4,7 +4,8 @@ section: '095113'
 divNumb: 9
 divName: Finishes
 subgroup: Facility Construction
-tags: ['Facility', 'Construction', 'Finishes', 'Acoustical', 'Panel', 'Ceilings']
+tags:
+  ['Facility', 'Construction', 'Finishes', 'Acoustical', 'Panel', 'Ceilings']
 ---
 
 ## General
@@ -30,7 +31,7 @@ tags: ['Facility', 'Construction', 'Finishes', 'Acoustical', 'Panel', 'Ceilings'
 ## Products
 
 1. PANELS
-      1. 24" x 24" x 5/8" non-combustible, non-directional fissured units by any major manufacturer of acoustical ceilings. Washable white finish. Provide manufacturer's standard warranty against sagging and/or warping.
+   1. 24" x 24" x 5/8" non-combustible, non-directional fissured units by any major manufacturer of acoustical ceilings. Washable white finish. Provide manufacturer's standard warranty against sagging and/or warping.
 2. SUSPENSION SYSTEM
    1. As required to support acoustical units, fixtures and other components as indicated, and including anchorages, hangers, runners, cross runners, splines, clips, moldings, fasteners and other members, devices and accessories. Contractor responsible for adequacy of suspension system, and determining method of attachment of system to supporting structure.
    2. Hanger Wire:

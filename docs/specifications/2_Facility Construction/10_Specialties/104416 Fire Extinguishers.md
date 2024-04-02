@@ -6,6 +6,7 @@ divName: Specialties
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Specialties', 'Fire', 'Extinguishers']
 ---
+
 ## General
 
 1. RELATED DOCUMENTS
@@ -28,7 +29,7 @@ tags: ['Facility', 'Construction', 'Specialties', 'Fire', 'Extinguishers']
       1. Failure of hydrostatic test according to NFPA 10. b. Faulty operation of valves or release levers.
    3. Warranty Period:
       1. Six years from date of project completion.
-   
+
 ## Products
 
 1. PORTABLE, HAND-CARRIED FIRE EXTINGUISHERS
@@ -51,7 +52,7 @@ tags: ['Facility', 'Construction', 'Specialties', 'Fire', 'Extinguishers']
       1. Lettering complying with authorities having jurisdiction for letter style, size, spacing, and location. Locate as indicated by Architect.
    3. Identify bracket-mounted fire extinguishers with the words "FIRE EXTINGUISHER" in red letter decals applied to mounting surface.
       1. Orientation:
-         1. Vertical. 
+         1. Vertical.
 
 ## Execution
 

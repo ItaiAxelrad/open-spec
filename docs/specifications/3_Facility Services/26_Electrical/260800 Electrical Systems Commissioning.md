@@ -22,7 +22,7 @@ tags: ['Facility', 'Services', 'Electrical', 'Systems', 'Commissioning']
    1. Complete pre-functional test checklists.
    1. Provide qualified personnel to perform functional testing, and to verify equipment/system performance.
    1. Provide equipment, materials, and labor necessary to correct deficiencies found during the commissioning process, which fulfill contract and warranty requirements. Provide fine-tuning or trouble-shooting of system performance if either of these measures becomes necessary.
-   1. Provide operation and maintenance information and as-built drawings to the General Contractor for review, verification and organization, prior to distribution. The CA will review these documents. Incorporate review comments by CA, owner and design team. 
+   1. Provide operation and maintenance information and as-built drawings to the General Contractor for review, verification and organization, prior to distribution. The CA will review these documents. Incorporate review comments by CA, owner and design team.
    1. Provide assistance to the CA to develop, edit, and document system operation descriptions.
    1. Coordinate training for the systems specified in this Division with the CA. Prior to training, provide an agenda and sample materials to the CA for review.
    1. It is the responsibility of the contractor to verify that systems are complete and ready for testing. If any functional performance test or part of a test fails and requires retesting, the CA will be compensated by the contractor for the retesting effort at the CA’s standard billing rates.
@@ -83,4 +83,3 @@ tags: ['Facility', 'Services', 'Electrical', 'Systems', 'Commissioning']
    1. Maintain as-built red-lines on the job site as required in Division 1. Given the size and complexity of this project, red-lining of the drawings at completion of construction, based on memory of key personnel, is not satisfactory. Continuous and regular red-lining and/or posting of drawings is considered essential and mandatory.
    1. In addition to the stated requirements for operation and maintenance data, provide one copy of equipment technical literature, operation and maintenance literature, and shop drawings to the CA as soon as they are available. This requirement is for review of these documents prior to distribution of multiple copies for the Owner's final use.
 1. (THIS PAGE INTENTIONALLY BLANK)
-

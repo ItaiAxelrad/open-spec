@@ -7,9 +7,6 @@ subgroup: General Requirements
 tags: ['General', 'Requirements', 'Temporary', 'Facilities', 'Controls']
 ---
 
-
-   1. CONSTRUCTION AND TEMPORARY FACILITIES
-
 ## General
 
 1. Construction Facilities
@@ -19,12 +16,13 @@ tags: ['General', 'Requirements', 'Temporary', 'Facilities', 'Controls']
       1. sanitary facilities; first aid supplies and facilities; and trash removal.
    1. Do not park vehicles or equipment or store materials on private property without written permission from the property owner.
 2. Security
+
    1. Provide fencing, barricades, warning signs, and lights to secure all work areas, equipment, and materials.
 
-	1. DUST CONTROL
+   1. DUST CONTROL
    1. Be responsible for dust control, providing all equipment and personnel to for the Work. Furnish OWNER with the name(s) and telephone number(s) of the person(s) responsible for dust control during evenings and weekends. If this person cannot be contacted, OWNER may, at Contractor expense, perform the Work or contract the Work out.
 
-	1. Haul Routes
+   1. Haul Routes
    1. Obtain OWNER approval of haul routes.
 
 ## PRODUCT

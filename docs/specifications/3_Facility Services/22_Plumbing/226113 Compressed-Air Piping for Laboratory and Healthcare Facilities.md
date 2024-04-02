@@ -4,16 +4,25 @@ section: '226113'
 divNumb: 22
 divName: Plumbing
 subgroup: Facility Services
-tags: ['Facility', 'Services', 'Plumbing', 'Compressed-Air', 'Piping', 'Laboratory', 'Healthcare', 'Facilities']
+tags:
+  [
+    'Facility',
+    'Services',
+    'Plumbing',
+    'Compressed-Air',
+    'Piping',
+    'Laboratory',
+    'Healthcare',
+    'Facilities',
+  ]
 ---
-
 
 ## General
 
 1. RELATED DOCUMENTS
    1. Drawings and general provisions of the Contract, including General and Supplementary Conditions and Division 1 Specification Sections, apply to this Section.
 1. SUMMARY
-   1. See other sections of Division 22 and the Drawings to determine the extent of the required Work. 
+   1. See other sections of Division 22 and the Drawings to determine the extent of the required Work.
    1. This Section includes compressed-air piping and specialties for nonmedical laboratory facilities, designated "laboratory air," operating between 50 psig (345 kPa) and 125 psig (860 kPa).
 1. References
    1. American Society of Mechanical Engineers (ASME):
@@ -41,14 +50,14 @@ tags: ['Facility', 'Services', 'Plumbing', 'Compressed-Air', 'Piping', 'Laborato
       1. 1680 - Approved Standard for Couplings Used in Hubless Cast Iron Systems for Drain, Waste, or Vent, Sewer, Rainwater or Storm Drain Systems Above and Below Ground, Industrial/Commercial and Residential.
    1. Manufacturers Standardization Society of the Valve and Fittings Industry, Inc. (MSS):
       1. SP-43 - Wrought Stainless Steel Butt-Welding Fittings.
-   1. National Sanitation Foundation (NSF) 
+   1. National Sanitation Foundation (NSF)
 1. DEFINITIONS
    1. D.I.S.S.:
       1. Diameter-index safety system.
    1. Low Voltage:
       1. As defined in NFPA 70 for circuits and equipment operating at less than 50 V or for remote-control, signaling power-limited circuits.
 1. Submittals
-	1. See Division22 sections of the Specifications. 
+   1. See Division22 sections of the Specifications.
    1. Submit Product Data on the following:
       1. Underground piping materials.
    1. Aboveground piping materials.
@@ -72,7 +81,7 @@ tags: ['Facility', 'Services', 'Plumbing', 'Compressed-Air', 'Piping', 'Laborato
       1. Comply with ASME B31.1, "Power Piping," for laboratory compressed-air piping operating at more than 150 psig (1035 kPa).
    1. Comply with ASME B31.9, "Building Services Piping," for laboratory compressed-air piping operating at 150 psig (1035 kPa) or less.
 1. warranty
-   1. See procedures in Division 1 sections of the Specifications. 
+   1. See procedures in Division 1 sections of the Specifications.
 
 ## General
 
@@ -99,7 +108,7 @@ tags: ['Facility', 'Services', 'Plumbing', 'Compressed-Air', 'Piping', 'Laborato
 ## Execution
 
 1. INSTALLATION
-	1. General:
+   1. General:
       1. Examine rough-in requirements for plumbing fixtures and other equipment having to verify actual locations of piping connections prior to installation.
    1. Examine walls, floors, roofs, and plumbing chases for suitable conditions where piping and specialties are to be installed.
    1. Piping shall be run true, plumb, and straight, with all restraints adjusted to carry their proportional load and locked to prevent pipe “wag,” misalignment, movement, shear, or sagging.
@@ -118,19 +127,18 @@ tags: ['Facility', 'Services', 'Plumbing', 'Compressed-Air', 'Piping', 'Laborato
 
 ## General
 
-   1. Pitch all mains back to the central system and provide valved drain pockets and drain cocks at all low points and trapped sections in the system.
-   1. Connect all branches to the top of mains. Valve all risers and branches.
-   1. Use Y or TY fittings where tees are shown on drawings (2 ½” or larger).
-   1. Cleanouts:
-      1. Install full size cleanouts at the end of each main and branch and wherever pipes changes direction or otherwise requires cleanouts for proper cleaning of the entire vacuum system. Cleanout can be accomplished by using tees instead of elbows or double Y or TY fittings instead of Y or TY fittings.
-   1. Valves and Specialties
-   1. Provide unions or flanges wherever necessary and in piping at all equipment so that piping ma be conveniently broken and moved to facilitate equipment maintenance.
-   1. Provide isolation valves on all lines before they leave the utility corridor and at each floor level.
-1. FIELD QUALITY CONTROL
+1.  Pitch all mains back to the central system and provide valved drain pockets and drain cocks at all low points and trapped sections in the system.
+1.  Connect all branches to the top of mains. Valve all risers and branches.
+1.  Use Y or TY fittings where tees are shown on drawings (2 ½” or larger).
+1.  Cleanouts:
+    1. Install full size cleanouts at the end of each main and branch and wherever pipes changes direction or otherwise requires cleanouts for proper cleaning of the entire vacuum system. Cleanout can be accomplished by using tees instead of elbows or double Y or TY fittings instead of Y or TY fittings.
+1.  Valves and Specialties
+1.  Provide unions or flanges wherever necessary and in piping at all equipment so that piping ma be conveniently broken and moved to facilitate equipment maintenance.
+1.  Provide isolation valves on all lines before they leave the utility corridor and at each floor level.
+1.  FIELD QUALITY CONTROL
 
 ## General
 
- Testing Procedures:
-      1. All piping systems shall be tested and proven tight prior to concealment. The test shall be witnessed by the Architect/Engineer, plumbing inspector, or the Owner’s representative.
-   1. Insure that the test pressure that might damage fixtures or equipment does not reach such units by valving them off or otherwise isolating them during the test.
-   
+Testing Procedures: 1. All piping systems shall be tested and proven tight prior to concealment. The test shall be witnessed by the Architect/Engineer, plumbing inspector, or the Owner’s representative.
+
+1.  Insure that the test pressure that might damage fixtures or equipment does not reach such units by valving them off or otherwise isolating them during the test.

@@ -6,6 +6,7 @@ divName: Specialties
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Specialties', 'Signage']
 ---
+
 ## General
 
 1. SUMMARY
@@ -18,7 +19,7 @@ tags: ['Facility', 'Construction', 'Specialties', 'Signage']
 
 1. SIGNS
    1. Signs to be ANDCO 800 Series with radiused corners, clear matte acrylic, sub-surface screened with 1/8" thick acrylic backing. Letters to be 1" high with uniform margin top, bottom and sides. Letter style to be Helvetica medium. Colors to be selected by Owner. Signs to include braille as required by ADA guidelines.
-   2. Sign Designation Numbers of Signs 
+   2. Sign Designation Numbers of Signs
 
 ## Execution
 

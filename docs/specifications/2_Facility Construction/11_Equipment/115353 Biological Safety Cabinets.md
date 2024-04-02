@@ -4,7 +4,8 @@ section: '115353'
 divNumb: 11
 divName: Equipment
 subgroup: Facility Construction
-tags: ['Facility', 'Construction', 'Equipment', 'Biological', 'Safety', 'Cabinets']
+tags:
+  ['Facility', 'Construction', 'Equipment', 'Biological', 'Safety', 'Cabinets']
 ---
 
 ## General

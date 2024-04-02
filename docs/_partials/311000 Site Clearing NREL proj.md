@@ -26,34 +26,34 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Clearing', 'Owner', 'proj']
    8. Retain subparagraph below if erosion- and sedimentation-control measures are not included in Division 01 Section "Temporary Facilities and Controls."
    9. Temporary erosion- and sedimentation-control measures.
    10. Related Sections:
-      1. Retain Sections in subparagraphs below that contain requirements Contractor might expect to find in this Section but are specified in other Sections.
-   11. Division 01 Section "Temporary Facilities and Controls" for temporary utility services, construction and support facilities, security and protection facilities**,** and temporary erosion- and sedimentation-control measures.
-   12. Division 01 Section "Execution" for field engineering and surveying.
-   13. Division 01 Section "Construction Waste Management and Disposal.
-   14. Division 02 Section "Structure Demolition" for demolition of buildings, structures, and site improvements.
-   15. Division 02 Section "Selective Structure Demolition" for partial demolition of buildings or structures.
-   16. DEFINITIONS
-   17. Retain definitions remaining after this Section has been edited.
-   18. Subsoil:
-      2. All soil beneath the topsoil layer of the soil profile, and typified by the lack of organic matter and soil organisms.
-   19. Surface Soil:
-      3. Soil that is present at the top layer of the existing soil profile at the Project site. In undisturbed areas, the surface soil is typically topsoil; but in disturbed areas such as urban environments, the surface soil can be subsoil.
-   20. Retain one of first two paragraphs below; revise to define "topsoil" according to local practices if required. Topsoil is raw material that typically needs screening and amending before meeting planting soil mix requirements. First paragraph assumes topsoil depth is known and shown or specified; second paragraph assumes that Contractor will identify and determine depth of existing topsoil. Coordinate with "Topsoil Stripping" Article.
-   21. Topsoil:
-      4. Top layer of the soil profile consisting of existing native surface topsoil or existing in-place surface soil and is the zone where plant roots grow.
-   22. Topsoil:
-      5. Top layer of the soil profile consisting of existing native surface topsoil or existing in-place surface soil and is the zone where plant roots grow. Its appearance is generally friable, pervious, and black or a darker shade of brown, gray, or red than underlying subsoil; reasonably free of subsoil, clay lumps, gravel, and other objects more than 2 inches in diameter; and free of subsoil and weeds, roots, toxic materials, or other nonsoil materials.
-   23. Retain one or both of first two paragraphs to suit Project. See Evaluations.
-   24. Plant-Protection Zone:
-      6. Area surrounding individual trees, groups of trees, shrubs, or other vegetation to be protected during construction, and indicated on Drawings.
-   25. Retain second option in first paragraph below if Contractor will determine extent of one or more tree-protection zones.
-   26. Tree-Protection Zone:
-      7. Area surrounding individual trees or groups of trees to be protected during construction.
-   27. Vegetation:
-      8. Trees, shrubs, groundcovers, grass, and other plants.
-   28. MATERIAL OWNERSHIP
-   29. Except for stripped topsoil and other materials indicated to be stockpiled or otherwise remain Owner's property, cleared materials shall become Contractor's property and shall be removed from Project site.
-2. SUBMITTALS
+   11. Retain Sections in subparagraphs below that contain requirements Contractor might expect to find in this Section but are specified in other Sections.
+   12. Division 01 Section "Temporary Facilities and Controls" for temporary utility services, construction and support facilities, security and protection facilities**,** and temporary erosion- and sedimentation-control measures.
+   13. Division 01 Section "Execution" for field engineering and surveying.
+   14. Division 01 Section "Construction Waste Management and Disposal.
+   15. Division 02 Section "Structure Demolition" for demolition of buildings, structures, and site improvements.
+   16. Division 02 Section "Selective Structure Demolition" for partial demolition of buildings or structures.
+   17. DEFINITIONS
+   18. Retain definitions remaining after this Section has been edited.
+   19. Subsoil:
+   20. All soil beneath the topsoil layer of the soil profile, and typified by the lack of organic matter and soil organisms.
+   21. Surface Soil:
+   22. Soil that is present at the top layer of the existing soil profile at the Project site. In undisturbed areas, the surface soil is typically topsoil; but in disturbed areas such as urban environments, the surface soil can be subsoil.
+   23. Retain one of first two paragraphs below; revise to define "topsoil" according to local practices if required. Topsoil is raw material that typically needs screening and amending before meeting planting soil mix requirements. First paragraph assumes topsoil depth is known and shown or specified; second paragraph assumes that Contractor will identify and determine depth of existing topsoil. Coordinate with "Topsoil Stripping" Article.
+   24. Topsoil:
+   25. Top layer of the soil profile consisting of existing native surface topsoil or existing in-place surface soil and is the zone where plant roots grow.
+   26. Topsoil:
+   27. Top layer of the soil profile consisting of existing native surface topsoil or existing in-place surface soil and is the zone where plant roots grow. Its appearance is generally friable, pervious, and black or a darker shade of brown, gray, or red than underlying subsoil; reasonably free of subsoil, clay lumps, gravel, and other objects more than 2 inches in diameter; and free of subsoil and weeds, roots, toxic materials, or other nonsoil materials.
+   28. Retain one or both of first two paragraphs to suit Project. See Evaluations.
+   29. Plant-Protection Zone:
+   30. Area surrounding individual trees, groups of trees, shrubs, or other vegetation to be protected during construction, and indicated on Drawings.
+   31. Retain second option in first paragraph below if Contractor will determine extent of one or more tree-protection zones.
+   32. Tree-Protection Zone:
+   33. Area surrounding individual trees or groups of trees to be protected during construction.
+   34. Vegetation:
+   35. Trees, shrubs, groundcovers, grass, and other plants.
+   36. MATERIAL OWNERSHIP
+   37. Except for stripped topsoil and other materials indicated to be stockpiled or otherwise remain Owner's property, cleared materials shall become Contractor's property and shall be removed from Project site.
+1. SUBMITTALS
    1. Paragraphs below are defined in Division 01 Section "Submittal Procedures" as "Informational Submittals."
    2. Existing Conditions:
       1. Documentation of existing trees and plantings, adjoining construction, and site improvements that establishes preconstruction conditions that might be misconstrued as damage caused by site clearing.
@@ -63,11 +63,11 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Clearing', 'Owner', 'proj']
    6. Revise paragraph below to suit Project.
    7. Record Drawings:
       1. Identifying and accurately showing locations of capped utilities and other subsurface structural, electrical, and mechanical conditions.
-3. QUALITY ASSURANCE
+1. QUALITY ASSURANCE
    1. Retain this article if Work of this Section is extensive or complex enough to justify a preinstallation conference.
    2. Preinstallation Conference:
       1. Conduct conference at project location.
-4. PROJECT CONDITIONS
+1. PROJECT CONDITIONS
    1. Traffic:
       1. Minimize interference with adjoining roads, streets, walks, and other adjacent occupied or used facilities during site-clearing operations.
    2. Do not close or obstruct streets, walks, or other adjacent occupied or used facilities without permission from Owner and authorities having jurisdiction.
@@ -83,28 +83,28 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Clearing', 'Owner', 'proj']
    10. Do not commence site clearing operations until temporary erosion- and sedimentation-control measures are in place.
    11. Retain first three paragraphs below if tree- or plant-protection zones are required.
    12. The following practices are prohibited within protection zones:
-      1. Revise subparagraphs below to suit Project.
-   13. Storage of construction materials, debris, or excavated material.
-   14. Parking vehicles or equipment.
-   15. Foot traffic.
-   16. Erection of sheds or structures.
-   17. Impoundment of water.
-   18. Excavation or other digging unless otherwise indicated.
-   19. Attachment of signs to or wrapping materials around trees or plants unless otherwise indicated.
-   20. Do not direct vehicle or equipment exhaust towards protection zones.
-   21. Prohibit heat sources, flames, ignition sources, and smoking within or near protection zones.
-   22. Retain paragraph below to suit Project.
-   23. Soil Stripping, Handling, and Stockpiling:
-      2. Perform only when the topsoil is dry or slightly moist.
+   13. Revise subparagraphs below to suit Project.
+   14. Storage of construction materials, debris, or excavated material.
+   15. Parking vehicles or equipment.
+   16. Foot traffic.
+   17. Erection of sheds or structures.
+   18. Impoundment of water.
+   19. Excavation or other digging unless otherwise indicated.
+   20. Attachment of signs to or wrapping materials around trees or plants unless otherwise indicated.
+   21. Do not direct vehicle or equipment exhaust towards protection zones.
+   22. Prohibit heat sources, flames, ignition sources, and smoking within or near protection zones.
+   23. Retain paragraph below to suit Project.
+   24. Soil Stripping, Handling, and Stockpiling:
+   25. Perform only when the topsoil is dry or slightly moist.
 
 ## Products
 
-   1. MATERIALS
-   1. Retain first paragraph below if soil backfill is required in below-grade areas after site clearing.
-   1. Satisfactory Soil Material:
-      1. Requirements for satisfactory soil material are specified in Division 31 Section "Earth Moving."
-   1. Obtain approved borrow soil material off-site when satisfactory soil material is not available on-site.
-   1. Retain paragraph below if needed for cut ends of steel reinforcement in concrete to remain; revise to suit Project.
+1.  MATERIALS
+1.  Retain first paragraph below if soil backfill is required in below-grade areas after site clearing.
+1.  Satisfactory Soil Material:
+    1. Requirements for satisfactory soil material are specified in Division 31 Section "Earth Moving."
+1.  Obtain approved borrow soil material off-site when satisfactory soil material is not available on-site.
+1.  Retain paragraph below if needed for cut ends of steel reinforcement in concrete to remain; revise to suit Project.
 
 ## Execution
 
@@ -124,7 +124,7 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Clearing', 'Owner', 'proj']
    1. Remove erosion and sedimentation controls and restore and stabilize areas disturbed during removal.
 1. TREE AND PLANT PROTECTION
    1. Retain this article if required. If retaining, Drawings should show tree- and plant-protection zones and protection-zone fencing.
-	1. General:
+   1. General:
       1. Protect trees and plants remaining on-site according to requirements in Division 01 Section "Temporary Tree and Plant Protection."
    1. Repair or replace trees, shrubs, and other vegetation indicated to remain or be relocated that are damaged by construction operations, in a manner approved by Architect.
 1. EXISTING UTILITIES
@@ -177,5 +177,4 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Clearing', 'Owner', 'proj']
    1. Remove surplus soil material, unsuitable topsoil, obstructions, demolished materials, and waste materials including trash and debris, and legally dispose of them off Owner's property.
    1. Retain paragraph below where recycling programs exist and recycling facilities can accept materials such as concrete or asphalt paving. Coordinate with Division 01 Section "Construction Waste Management and Disposal."
    1. Separate recyclable materials produced during site clearing from other nonrecyclable materials. Store or stockpile without intermixing with other materials and transport them to recycling facilities. Do not interfere with other Project work.
-31 10 00
-
+      31 10 00

@@ -24,8 +24,8 @@ tags: ['Facility', 'Construction', 'Metals', 'Cold-Formed', 'Metal', 'Framing']
 3. QUALITY ASSURANCE
    1. Applicable Standards:
       1. Conform to the current edition of the following standards:
-            1. AISI "Specifications for the Design of Cold-Formed Steel Structural Members
-    1. IBC International Building Code
+         1. AISI "Specifications for the Design of Cold-Formed Steel Structural Members
+   1. IBC International Building Code
    1. AWS "Code for Welding in Building Construction"
    1. Comply with requirements shown on Structural Drawings, and as required to support loads imposed.
 

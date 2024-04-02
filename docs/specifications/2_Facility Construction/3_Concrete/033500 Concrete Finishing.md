@@ -7,7 +7,6 @@ subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Concrete', 'Finishing']
 ---
 
-
 ## General
 
 1. SUMMARY
@@ -59,7 +58,7 @@ tags: ['Facility', 'Construction', 'Concrete', 'Finishing']
    1. Areas of concrete with cracks will be removed to nearest control or construction joints and replaced.
    1. Patching is not permitted.
 1. POLISHED CONCRETE
-	1. General:
+   1. General:
       1. Polished concrete is produced by grinding trowel finished cured concrete in a manner similar to that for terrazzo.
    1. Do not consolidate concrete with the use of tamping. Allow concrete to cure approximately 28 days.
    1. Preparation:

@@ -51,10 +51,10 @@ The status field is a single-character field that distinguishes the data contain
 
 In addition to the standard layers described in the following pages, CIVIL 3D included 2 other layers with special features or functions:
 
-| Layer | Color | Description |
-| ----- | ----- | ----------- |
-| 0 | white (7) | Has special characteristics when creating a block. If an Entity in on layer 0 when a block is created, that entity will assume the characteristics of whatever layer the block is inserted on. If the block is exploded, the entity will return to layer 0. |
-| Defpoints | white (7) | Contains definition points of associative dimensions. This layer will not plot even when on and thawed. This feature makes it the ideal layer for `MVIEW` windows and construction lines that you want to see on the screen but do not want to plot. |
+| Layer     | Color     | Description                                                                                                                                                                                                                                                  |
+| --------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 0         | white (7) |  Has special characteristics when creating a block. If an Entity in on layer 0 when a block is created, that entity will assume the characteristics of whatever layer the block is inserted on. If the block is exploded, the entity will return to layer 0. |
+| Defpoints | white (7) |  Contains definition points of associative dimensions. This layer will not plot even when on and thawed. This feature makes it the ideal layer for `MVIEW` windows and construction lines that you want to see on the screen but do not want to plot.        |
 
 ### Layer Examples
 

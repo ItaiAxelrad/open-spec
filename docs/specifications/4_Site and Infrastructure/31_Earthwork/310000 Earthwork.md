@@ -7,6 +7,4 @@ subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Earthwork']
 ---
 
-   1. Division 31
-   1. Earthwork
-
+Division 31 - Earthwork

@@ -7,7 +7,6 @@ subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Utilities', 'Subdrainage']
 ---
 
-
 ## General
 
 1. SUMMARY
@@ -28,13 +27,13 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Subdrainage']
 
 ## Products
 
-   1. MATERIALS
-   1. Drainage Panels
-   1. Provide and install "Miradrain 6000" drainage panels as manufactured by Mirafi Inc. of Charlotte, N.C. or approved equal.
-   1. Perimeter Drain Pipe
-   1. Provide and install 4" diameter perforated PVC drainpipe as indicated on the drawings. Coordinate installation with drainage panels to insure a complete system.
-   1. Miscellaneous Materials
-   1. Provide all other miscellaneous materials as recommended by manufacturers and as necessary to provide a complete installation.
+1.  MATERIALS
+1.  Drainage Panels
+1.  Provide and install "Miradrain 6000" drainage panels as manufactured by Mirafi Inc. of Charlotte, N.C. or approved equal.
+1.  Perimeter Drain Pipe
+1.  Provide and install 4" diameter perforated PVC drainpipe as indicated on the drawings. Coordinate installation with drainage panels to insure a complete system.
+1.  Miscellaneous Materials
+1.  Provide all other miscellaneous materials as recommended by manufacturers and as necessary to provide a complete installation.
 
 ## Execution
 
@@ -43,5 +42,3 @@ tags: ['Site', 'Infrastructure', 'Utilities', 'Subdrainage']
    1. ERECTION INSTALLATION APPLICATION
    1. Examine the areas and conditions under which Work of this Section will be performed. Correct any conditions which are detrimental to timely and proper completion of the work. Do not proceed until unsatisfactory conditions are corrected. Commencement of work constitutes acceptance of sub strait.
    1. Install drainage panels and perimeter perforated pipe in areas indicated on Drawings and exactly as recommended by manufacturer for that type of installation.
-
-

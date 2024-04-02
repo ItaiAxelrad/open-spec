@@ -4,9 +4,16 @@ section: '084126'
 divNumb: 8
 divName: Openings
 subgroup: Facility Construction
-tags: ['Facility', 'Construction', 'Openings', 'All-Glass', 'Entrances', 'Storefronts']
+tags:
+  [
+    'Facility',
+    'Construction',
+    'Openings',
+    'All-Glass',
+    'Entrances',
+    'Storefronts',
+  ]
 ---
-
 
 ## General
 
@@ -27,14 +34,14 @@ tags: ['Facility', 'Construction', 'Openings', 'All-Glass', 'Entrances', 'Storef
 
 ## Products
 
-   1. MATERIALS
-   1. Selective Surface
-   1. Copper foil with shiny nickel outer surface overcoat and a thin layer of black chrome oxide with an absorbance greater than 0.95 and an emittance less than 0.11, Solar-L-Foil as available from MTI Solar, Inc., 220 Churchill Avenue, Somerset, New Jersey (732) 246-1000, or approved equal.
-   1. Adhesive:
-      1. As recommended by the Selective Surface manufacturer or G590 or #2227 as available from Beacon Adhesives, Inc., **125 South MacQuesten Pkwy. Mount Vernon, New York 10550 (914) 699-3400) or approved equal.
-   1. Trombe Wall Glass
-   1. Glass:
-      1. 5/32-inch thick, fully tempered, low-iron glass. Solar Energy Transmittance to be 90.7% or higher. Solatex Solar Glass as manufactured by AFG Industries (800) 251-0441.
+1.  MATERIALS
+1.  Selective Surface
+1.  Copper foil with shiny nickel outer surface overcoat and a thin layer of black chrome oxide with an absorbance greater than 0.95 and an emittance less than 0.11, Solar-L-Foil as available from MTI Solar, Inc., 220 Churchill Avenue, Somerset, New Jersey (732) 246-1000, or approved equal.
+1.  Adhesive:
+    1. As recommended by the Selective Surface manufacturer or G590 or #2227 as available from Beacon Adhesives, Inc., \*\*125 South MacQuesten Pkwy. Mount Vernon, New York 10550 (914) 699-3400) or approved equal.
+1.  Trombe Wall Glass
+1.  Glass:
+    1. 5/32-inch thick, fully tempered, low-iron glass. Solar Energy Transmittance to be 90.7% or higher. Solatex Solar Glass as manufactured by AFG Industries (800) 251-0441.
 
 ## Execution
 
@@ -44,5 +51,3 @@ tags: ['Facility', 'Construction', 'Openings', 'All-Glass', 'Entrances', 'Storef
    1. ERECTION INSTALLATION APPLICATION
    1. Install selective surface to full height of Trombe wall exterior surface using adhesive, tools, and methods as recommended by the surface manufacturer.
    1. Clean trombe wall area, promptly after installation. Provide protection of selective surface until Trombe wall is enclosed. Assure Trombe wall is without damage and deterioration at time of acceptance.
-
-

@@ -73,150 +73,150 @@ tags: ['Facility', 'Construction', 'Equipment', 'Laboratory', 'Fume', 'Hoods']
 
 ## Products
 
-   1. MANUFACTURER
-   1. Specifications for casework, fume hood and equipment based on materials manufactured by:
-      1. Fisher Hamilton L.L.C., 1316 -18th Street, Two Rivers, Wisconsin 54241. Equal products by other major manufacturers may be substituted upon review and approval.
-   1. FUME HOOD MATERIALS
-   1. Steel:
-      1. High quality, cold rolled, mild steel meeting requirements of ASTM A1008; gauges U.S. Standard and galvanized.
-   1. Stainless steel:
-      1. Type 304; gauges U.S. Standard.
-   1. Ceiling closure panels:
-      1. Minimum 18 gauge; finish to match hood exterior.
-   1. Downdraft bypass:
-      1. Low resistant type, 18 gauge steel chamber, directional louvers – not acceptable. All bypass air shall enter top of bypass chamber and enter hood in a down flow direction. Chamber shall protect user from expelled particulate in the event of an adverse internal reaction.
-   1. Safety glass:
-      1. 7/32" thick laminated safety glass in sash, and 3/8” laminated safety glass viewing panel.
-   1. Sash chain:
-      1. ANSI #35 steel, single strand. Average tensile strength of 2,400 pounds; maximum working load of 480 pounds.
-   1. Sash guides:
-      1. Extruded PVC.
-   1. Pulley assembly for sash chain:
-      1. Finish bored steel drive sprockets and keyed drive, 1/2” dia. front connector shaft. Rear idler sprockets; double sealed ball bearings type, lubricated. All sprockets steel with zinc dichromate finish.
-   1. Sash pull:
-      1. Corrosion resistant steel with chemical resistant powder coating. Maximum 1.5” thick.
-   1. Gaskets:
-      1. White 70 durometer PVC for interior access panels. Gasket interior access panels to eliminate air leakage and to retain liquids inside hood.
-   1. Fastenings:
-      1. Exterior structural members attachments:
-         1. Sheet metal screws, zinc plated.
-   1. Interior fastening devices concealed. Exposed screws not acceptable. (Screw head "caps" not acceptable.)
-   1. Exterior side access panel member fastening devices to be exposed corrosion resistant, non-metallic material, creating a positive mechanical latch. Latch must be flush type. Exposed screws or Velcro type fasteners – not acceptable.
-   1. Instruction plate:
-      1. Corrosion resistant or plastic plate attached to the fume hood exterior with condensed information covering recommended locations for apparatus and accessories, baffle settings and use of sash.
-   1. FUME HOOD CONSTRUCTION
-   1. Superstructure:
-      1. Rigid, self-supporting assembly of double wall construction, maximum 4-7/8" thick.
-   1. Wall to consist of a sheet steel outer shell with urethane powder finish and a corrosion resistant inner liner, Wall to house and conceal steel framing members, attaching brackets and remote operating service fixture mechanisms and services. Panels attached to a full frame construction, minimum 14 gauge galvanized members.
-   1. Access to fixture valves concealed in wall provided by exterior removable access panels, gasket access panels on the inside liner walls, or through removable front posts.
-   1. Exhaust outlet:
-      1. Rectangular with ends radiused, shaped and flanged, 18 gauge steel finished with urethane powder coating.
-   1. Access opening perimeter:
-      1. Airfoil or streamlined shape. Bottom horizontal foil shall provide nominal one-inch bypass when sash is in the closed position. Bottom foil shall not be removable without use of special tools. Bottom foil shall provide access area sufficient in size to pass thru hospital grade electrical plugs. Bottom foil:
-      1. Stainless steel with urethane powder coating to increase acid and abrasion resistance. Airfoil and sill to be low profile design. A secondary containment trough shall be located in front of the work surface and extend below the airfoil sill.
-   1. Fume hood sash:
-      1. (Combination) Vertical and horizontal sash access with a 35” high sight line. Sash shall be top hung on nylon tired stainless steel ball bearing wheels. Sash frame on bottom and sides must be no more than 1.5” thick and radiused to minimize turbulence. Area above the 28” vertical sash opening shall be glazed with a minimum of 3/8” thick laminated safety glass. All glass to have polished exposed edge treatment. Horizontal panels provided with finger pulls.
-   1. Counter balance system:
-      1. Single weight, sprocket and chain, counter balance system which prevents sash tilting and permits ease of operation at any point along full width pull. Maximum 7 pounds pull required to raise or lower sash throughout its full 18” height of operating sash opening. Life cycle test sash and weight. Provide independent test data. (See 2.02 F, G and H for material descriptions.) Open and close sash against rubber bumper stops.
-   1. Airfoil:
-      1. The airfoil will be low profile, relatively flush to the work surface with ample room for electrical hospital grade cords to fit beneath the airfoil. This sill to be used on both Sash Types. Sill to be ergonomically radiused on front edge. Sill must pivot forward to provide cord and trough access. Airfoil sills that are not low profile are not acceptable.
-   1. Fume hood liner:
-      1. Reinforced polyester panel; smooth finish and white color in final appearance. Flexural strength:
-      1. 14,000 psi. Flame spread:
-      1. 17 or less per U.L. 723 and ASTM E84-80. Baffle must be same material as liner. Metallic baffles, brackets or supports on hood interior – not acceptable.
-   1. Baffles:
-      1. Baffles providing controlled air vectors into and through the fume hood must be fabricated of the same material as the liner. Provide minimal exhaust slots full height on vertical sides of the baffle. High performance 2-piece baffle to be used. Baffle shall incorporate exhaust slots located to purge the upper and lower area of the hood. Baffle to be non-adjustable. Baffles with manual or automatic adjustment are not acceptable. All baffles, supports, and brackets to be non-metallic.
-   1. Auto-Sash:
-      1. Sash shall be designed to promote usage as an upper body and face shield. Face velocities and volumes shall be based on an 18” operating opening. Sash shall have the capability to be raised to full 28.5” vertical opening for loading or unloading of large apparatus. A lock-open shall be provided. Sash shall lower automatically to the operating position or lower when released from any position above 18”. Auto-sash function shall be life cycle tested and not incorporate the need for motor drives. Submit third party validation of life cycle tests.
-   1. Service fixtures and fittings:
-      1. Color-coded hose nozzle outlets and valves mounted inside the fume hood and controlled from the exterior with color-coded index handles.
-   1. Valves:
-      1. Needlepoint type with self-centering cone tip and seat of hardened stainless steel. Tip and seat shall be removable and replaceable.
-   1. Provide piping for all service fixtures from valve to outlet:
-      1. Galvanized iron or copper for water, air and vacuum and black iron for gas services.
-   1. Fixtures exposed to hood interior:
-      1. Brass with chemically resistant color-coded powder coating.
-   1. Remote control handles:
-      1. Four-arm handle with nylon color-coded index buttons.
-   1. Services:
-      1. As shown or specified.
-   1. Service fixtures and fittings:
-      1. Service treatment:
-         1. Fittings are to be coated with a chemically resistant polyester powder lacquer electrostatic ally applied and backed on for a uniform finish.
-   1. Handle and outlet nozzle will be color coded to the media. Outlet nozzles shall be made of the same high quality brass as the valve bodies. Other materials may be in contact with media where appropriate.
-   1. Provide piping for all service fixtures from valve to outlet:
-      1. Galvanized iron or copper for water, air and vacuum and black iron for gas services.
-   1. Fixture fittings shall incorporate quick-connect compression fittings on the valve body (for the media inlet and media outlet) as well as the fume hood outlet nozzle. With this system, no soldering or brazing should be required to complete mechanical connections.
-   1. Fixtures exposed to fume hood interior shall have a chemically resistant finish.
-   1. Fixtures are to be provided with easy-to-mount attachment device for secure mounting in deck or wall mounted applications. System to be installed with simple hand tools.
-   1. Fittings are to be constructed to operate with the following maximum working pressure without leak or failure.
-   1. Water Fittings:
-      1. 145 PSI
-   1. Non-Burning Gas:
-      1. 145 PSI
-   1. Burning Gases:
-      1. 100 PSI
-   1. Special Water Fittings:
-      1. 145 PSI
-   1. All outlets shall have detachable serrated nozzles.
-   1. Hood light fixture:
-      1. Two lamp, rapid start, UL listed fluorescent light fixture with sound rated ballast installed on exterior of roof. Provide safety glass panel cemented and sealed to the hood roof.
-   1. Interior of fixture:
-      1. White, high reflecting plastic enamel.
-   1. Size of fixture:
-      1. 48"
-   1. Include lamps with fixtures.
-   1. Illumination:
-      1. Per performance values, Part 1 of this Section.
-   1. Access to light thru lintel panel – no tools required.
-   1. Electrical services:
-      1. Three wire grounding type receptacles rated at 120 V.A.C. at 20 amperes. Provide 250 V.A.C. receptacles where specified. Flush plates:
-      1. Black acid resistant thermoplastic.
-   1. Work surfaces:
-      1. 1-1/4" thick surface, dished a nominal 3/8” to contain spills.
-   1. Molded resin work surfaces.
-   1. Safety Monitor/Alarm System:
-      1. Provide Safety Monitor/Alarm System, which monitors face velocity and provides audible and visual alarm if face velocity drops below safe levels. As the internal fume hood pressure changes as the sash opening is closed and opened, the flow passing over the thermistor is calibrated to a face velocity, which is displayed on the front of the monitor.
-   1. Safety monitor:
-      1. UL listed, tamper proof, with all alarm circuits, electric components, external tubing, and manifolds furnished complete and factory installed.
-   1. Calibration is the responsibility of the owner and is required once the hood is stationed and the hood exhausts and room supply systems are balanced. A secondary calibration has been factory set into the alarm's memory only to determine that the alarm is functional and ready for shipment. The primary calibration must be completed in the field.
-   1. Airflow sensor:
-      1. Thermally compensated glass-beaded thermistor, factory connected to a sidewall port on the interior of the fume hood.
-   1. Alarm Signal:
-      1. Audible and visual signal.
-   1. Silence pushbutton, which disables the audible alarm, shall be accessible on the front of the safety monitor.
-   1. Provide alternate mode in which audible alarm is silenced indefinitely but visual alarm remains activated until the alarm condition is corrected.
-   1. When alarm condition is corrected and face velocity and volume return to specified levels, the Safety Monitor will automatically reset and begin routine monitoring.
-   1. Provide test circuit to verify proper Safety Monitor operation.
-   1. RESTRICTED BYPASS FUME HOODS
-   1. Bypass shall be sufficient in size to allow 25% flow with sash closed. Bypass must be achieved through low resistance opening at top of front lintel panel. Bypass shall be designed to provide a smooth down flow effect.
-   1. Sash:
-      1. Vertical/horizontal combination sash.
-   1. Width:
-      1. 72”
-   1. METAL FINISH
-   1. Metal finish:
-      1. Preparation:
-         1. Clean all metal surfaces as necessary prior to finished application.
-   1. Application:
-      1. Electrostatically apply urethane powder coat of selected color and bake in controlled high temperature oven to assure a smooth, hard satin finish. Surfaces shall have a chemical resistant, high grade laboratory furniture quality finish of the following thickness:
-      1. Liquid, dipped, solvent based finishes are not and will not be acceptable.
-   1. Exterior and interior exposed surfaces:
-      1.5 mil average and 1.2 mil min.
-   1. Backs of cabinets and other surfaces not exposed to view:
-      1.2 mil average.
-   1. Cabinet Surface Finish Tests:
-      1. All casework construction and performance characteristics shall be in full compliance with SEFA 8 standards.
-   1. SOURCE QUALITY CONTROL TESTING OF FUME HOODS
-   1. Evaluation of manufacturer's standard product shall take place in manufacturer's own test facility, with testing personnel, samples, apparatus, instruments, and test materials supplied by the manufacturer at no cost to the Owner.
-   1. Submit test report consisting of the following test parameters and equipment for each hood width and configuration specified.
-   1. Hood shall achieve a rating of 4.0 AM 0.05 PPM or better. Tested to ASHRAE-110-1995.
-   1. Test facility:
-      1. Sufficient size to provide unobstructed clearance of five feet each side and ten feet in front of fume hood.
-   1. Testing equipment:
-      1. As required for tests
-   1. Test Procedures:
-      1. As defined in ASHRAE – 110
+1.  MANUFACTURER
+1.  Specifications for casework, fume hood and equipment based on materials manufactured by:
+    1. Fisher Hamilton L.L.C., 1316 -18th Street, Two Rivers, Wisconsin 54241. Equal products by other major manufacturers may be substituted upon review and approval.
+1.  FUME HOOD MATERIALS
+1.  Steel:
+    1. High quality, cold rolled, mild steel meeting requirements of ASTM A1008; gauges U.S. Standard and galvanized.
+1.  Stainless steel:
+    1. Type 304; gauges U.S. Standard.
+1.  Ceiling closure panels:
+    1. Minimum 18 gauge; finish to match hood exterior.
+1.  Downdraft bypass:
+    1. Low resistant type, 18 gauge steel chamber, directional louvers – not acceptable. All bypass air shall enter top of bypass chamber and enter hood in a down flow direction. Chamber shall protect user from expelled particulate in the event of an adverse internal reaction.
+1.  Safety glass:
+    1. 7/32" thick laminated safety glass in sash, and 3/8” laminated safety glass viewing panel.
+1.  Sash chain:
+    1. ANSI #35 steel, single strand. Average tensile strength of 2,400 pounds; maximum working load of 480 pounds.
+1.  Sash guides:
+    1. Extruded PVC.
+1.  Pulley assembly for sash chain:
+    1. Finish bored steel drive sprockets and keyed drive, 1/2” dia. front connector shaft. Rear idler sprockets; double sealed ball bearings type, lubricated. All sprockets steel with zinc dichromate finish.
+1.  Sash pull:
+    1. Corrosion resistant steel with chemical resistant powder coating. Maximum 1.5” thick.
+1.  Gaskets:
+    1. White 70 durometer PVC for interior access panels. Gasket interior access panels to eliminate air leakage and to retain liquids inside hood.
+1.  Fastenings:
+    1. Exterior structural members attachments:
+       1. Sheet metal screws, zinc plated.
+1.  Interior fastening devices concealed. Exposed screws not acceptable. (Screw head "caps" not acceptable.)
+1.  Exterior side access panel member fastening devices to be exposed corrosion resistant, non-metallic material, creating a positive mechanical latch. Latch must be flush type. Exposed screws or Velcro type fasteners – not acceptable.
+1.  Instruction plate:
+    1. Corrosion resistant or plastic plate attached to the fume hood exterior with condensed information covering recommended locations for apparatus and accessories, baffle settings and use of sash.
+1.  FUME HOOD CONSTRUCTION
+1.  Superstructure:
+    1. Rigid, self-supporting assembly of double wall construction, maximum 4-7/8" thick.
+1.  Wall to consist of a sheet steel outer shell with urethane powder finish and a corrosion resistant inner liner, Wall to house and conceal steel framing members, attaching brackets and remote operating service fixture mechanisms and services. Panels attached to a full frame construction, minimum 14 gauge galvanized members.
+1.  Access to fixture valves concealed in wall provided by exterior removable access panels, gasket access panels on the inside liner walls, or through removable front posts.
+1.  Exhaust outlet:
+    1. Rectangular with ends radiused, shaped and flanged, 18 gauge steel finished with urethane powder coating.
+1.  Access opening perimeter:
+    1. Airfoil or streamlined shape. Bottom horizontal foil shall provide nominal one-inch bypass when sash is in the closed position. Bottom foil shall not be removable without use of special tools. Bottom foil shall provide access area sufficient in size to pass thru hospital grade electrical plugs. Bottom foil:
+    1. Stainless steel with urethane powder coating to increase acid and abrasion resistance. Airfoil and sill to be low profile design. A secondary containment trough shall be located in front of the work surface and extend below the airfoil sill.
+1.  Fume hood sash:
+    1. (Combination) Vertical and horizontal sash access with a 35” high sight line. Sash shall be top hung on nylon tired stainless steel ball bearing wheels. Sash frame on bottom and sides must be no more than 1.5” thick and radiused to minimize turbulence. Area above the 28” vertical sash opening shall be glazed with a minimum of 3/8” thick laminated safety glass. All glass to have polished exposed edge treatment. Horizontal panels provided with finger pulls.
+1.  Counter balance system:
+    1. Single weight, sprocket and chain, counter balance system which prevents sash tilting and permits ease of operation at any point along full width pull. Maximum 7 pounds pull required to raise or lower sash throughout its full 18” height of operating sash opening. Life cycle test sash and weight. Provide independent test data. (See 2.02 F, G and H for material descriptions.) Open and close sash against rubber bumper stops.
+1.  Airfoil:
+    1. The airfoil will be low profile, relatively flush to the work surface with ample room for electrical hospital grade cords to fit beneath the airfoil. This sill to be used on both Sash Types. Sill to be ergonomically radiused on front edge. Sill must pivot forward to provide cord and trough access. Airfoil sills that are not low profile are not acceptable.
+1.  Fume hood liner:
+    1. Reinforced polyester panel; smooth finish and white color in final appearance. Flexural strength:
+    1. 14,000 psi. Flame spread:
+    1. 17 or less per U.L. 723 and ASTM E84-80. Baffle must be same material as liner. Metallic baffles, brackets or supports on hood interior – not acceptable.
+1.  Baffles:
+    1. Baffles providing controlled air vectors into and through the fume hood must be fabricated of the same material as the liner. Provide minimal exhaust slots full height on vertical sides of the baffle. High performance 2-piece baffle to be used. Baffle shall incorporate exhaust slots located to purge the upper and lower area of the hood. Baffle to be non-adjustable. Baffles with manual or automatic adjustment are not acceptable. All baffles, supports, and brackets to be non-metallic.
+1.  Auto-Sash:
+    1. Sash shall be designed to promote usage as an upper body and face shield. Face velocities and volumes shall be based on an 18” operating opening. Sash shall have the capability to be raised to full 28.5” vertical opening for loading or unloading of large apparatus. A lock-open shall be provided. Sash shall lower automatically to the operating position or lower when released from any position above 18”. Auto-sash function shall be life cycle tested and not incorporate the need for motor drives. Submit third party validation of life cycle tests.
+1.  Service fixtures and fittings:
+    1. Color-coded hose nozzle outlets and valves mounted inside the fume hood and controlled from the exterior with color-coded index handles.
+1.  Valves:
+    1. Needlepoint type with self-centering cone tip and seat of hardened stainless steel. Tip and seat shall be removable and replaceable.
+1.  Provide piping for all service fixtures from valve to outlet:
+    1. Galvanized iron or copper for water, air and vacuum and black iron for gas services.
+1.  Fixtures exposed to hood interior:
+    1. Brass with chemically resistant color-coded powder coating.
+1.  Remote control handles:
+    1. Four-arm handle with nylon color-coded index buttons.
+1.  Services:
+    1. As shown or specified.
+1.  Service fixtures and fittings:
+    1. Service treatment:
+       1. Fittings are to be coated with a chemically resistant polyester powder lacquer electrostatic ally applied and backed on for a uniform finish.
+1.  Handle and outlet nozzle will be color coded to the media. Outlet nozzles shall be made of the same high quality brass as the valve bodies. Other materials may be in contact with media where appropriate.
+1.  Provide piping for all service fixtures from valve to outlet:
+    1. Galvanized iron or copper for water, air and vacuum and black iron for gas services.
+1.  Fixture fittings shall incorporate quick-connect compression fittings on the valve body (for the media inlet and media outlet) as well as the fume hood outlet nozzle. With this system, no soldering or brazing should be required to complete mechanical connections.
+1.  Fixtures exposed to fume hood interior shall have a chemically resistant finish.
+1.  Fixtures are to be provided with easy-to-mount attachment device for secure mounting in deck or wall mounted applications. System to be installed with simple hand tools.
+1.  Fittings are to be constructed to operate with the following maximum working pressure without leak or failure.
+1.  Water Fittings:
+    1. 145 PSI
+1.  Non-Burning Gas:
+    1. 145 PSI
+1.  Burning Gases:
+    1. 100 PSI
+1.  Special Water Fittings:
+    1. 145 PSI
+1.  All outlets shall have detachable serrated nozzles.
+1.  Hood light fixture:
+    1. Two lamp, rapid start, UL listed fluorescent light fixture with sound rated ballast installed on exterior of roof. Provide safety glass panel cemented and sealed to the hood roof.
+1.  Interior of fixture:
+    1. White, high reflecting plastic enamel.
+1.  Size of fixture:
+    1. 48"
+1.  Include lamps with fixtures.
+1.  Illumination:
+    1. Per performance values, Part 1 of this Section.
+1.  Access to light thru lintel panel – no tools required.
+1.  Electrical services:
+    1. Three wire grounding type receptacles rated at 120 V.A.C. at 20 amperes. Provide 250 V.A.C. receptacles where specified. Flush plates:
+    1. Black acid resistant thermoplastic.
+1.  Work surfaces:
+    1. 1-1/4" thick surface, dished a nominal 3/8” to contain spills.
+1.  Molded resin work surfaces.
+1.  Safety Monitor/Alarm System:
+    1. Provide Safety Monitor/Alarm System, which monitors face velocity and provides audible and visual alarm if face velocity drops below safe levels. As the internal fume hood pressure changes as the sash opening is closed and opened, the flow passing over the thermistor is calibrated to a face velocity, which is displayed on the front of the monitor.
+1.  Safety monitor:
+    1. UL listed, tamper proof, with all alarm circuits, electric components, external tubing, and manifolds furnished complete and factory installed.
+1.  Calibration is the responsibility of the owner and is required once the hood is stationed and the hood exhausts and room supply systems are balanced. A secondary calibration has been factory set into the alarm's memory only to determine that the alarm is functional and ready for shipment. The primary calibration must be completed in the field.
+1.  Airflow sensor:
+    1. Thermally compensated glass-beaded thermistor, factory connected to a sidewall port on the interior of the fume hood.
+1.  Alarm Signal:
+    1. Audible and visual signal.
+1.  Silence pushbutton, which disables the audible alarm, shall be accessible on the front of the safety monitor.
+1.  Provide alternate mode in which audible alarm is silenced indefinitely but visual alarm remains activated until the alarm condition is corrected.
+1.  When alarm condition is corrected and face velocity and volume return to specified levels, the Safety Monitor will automatically reset and begin routine monitoring.
+1.  Provide test circuit to verify proper Safety Monitor operation.
+1.  RESTRICTED BYPASS FUME HOODS
+1.  Bypass shall be sufficient in size to allow 25% flow with sash closed. Bypass must be achieved through low resistance opening at top of front lintel panel. Bypass shall be designed to provide a smooth down flow effect.
+1.  Sash:
+    1. Vertical/horizontal combination sash.
+1.  Width:
+    1. 72”
+1.  METAL FINISH
+1.  Metal finish:
+    1. Preparation:
+       1. Clean all metal surfaces as necessary prior to finished application.
+1.  Application:
+    1. Electrostatically apply urethane powder coat of selected color and bake in controlled high temperature oven to assure a smooth, hard satin finish. Surfaces shall have a chemical resistant, high grade laboratory furniture quality finish of the following thickness:
+    1. Liquid, dipped, solvent based finishes are not and will not be acceptable.
+1.  Exterior and interior exposed surfaces:
+    1.5 mil average and 1.2 mil min.
+1.  Backs of cabinets and other surfaces not exposed to view:
+    1.2 mil average.
+1.  Cabinet Surface Finish Tests:
+    1. All casework construction and performance characteristics shall be in full compliance with SEFA 8 standards.
+1.  SOURCE QUALITY CONTROL TESTING OF FUME HOODS
+1.  Evaluation of manufacturer's standard product shall take place in manufacturer's own test facility, with testing personnel, samples, apparatus, instruments, and test materials supplied by the manufacturer at no cost to the Owner.
+1.  Submit test report consisting of the following test parameters and equipment for each hood width and configuration specified.
+1.  Hood shall achieve a rating of 4.0 AM 0.05 PPM or better. Tested to ASHRAE-110-1995.
+1.  Test facility:
+    1. Sufficient size to provide unobstructed clearance of five feet each side and ten feet in front of fume hood.
+1.  Testing equipment:
+    1. As required for tests
+1.  Test Procedures:
+    1. As defined in ASHRAE – 110
 
 ## Execution
 
@@ -258,4 +258,3 @@ tags: ['Facility', 'Construction', 'Equipment', 'Laboratory', 'Fume', 'Hoods']
    1. PROTECTION OF FINISHED WORK
    1. Provide all necessary protective measures to prevent exposure of equipment from exposure to other construction activity.
    1. Advise contractor of procedures and precautions for protection of material and installed fume hoods from damage by work of other trades.
-

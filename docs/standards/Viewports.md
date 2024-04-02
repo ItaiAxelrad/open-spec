@@ -3,6 +3,7 @@ sidebar_position: 12
 title: 'Viewports'
 date: 2021-04-10
 ---
+
 A viewport is used to “see” the entities in model space from the paper space layout. The template drawing has one viewport already created on the vports layer.
 
 ## Use a viewport

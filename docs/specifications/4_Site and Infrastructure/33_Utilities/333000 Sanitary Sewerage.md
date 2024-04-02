@@ -13,56 +13,19 @@ Confirm application limits for Sanitary Sewerage Utilities specifications. Coord
 
 ### SCOPE
 
-The work under this section shall consist of providing all work, materials, labor, equipment, and supervision necessary to provide for the sanitary sewer work required in these specifications and on the drawings. The limits of the work, including the responsible party for testing purposes, shall be clearly defined on the Drawings. Included are the following topics:
-
-1. General
-   1. Scope
-   2. Related Work
-   3. Reference Documents
-   4. Reference Standards
-   5. Submittals
-   6. Provisions for Future Work
-   7. As-Built Drawings
-2. Products
-   1. PVC Pipe
-   2. HDPE Pipe
-   3. Ductile Iron Pipe
-   4. Connections for Dissimilar Pipe Materials
-   5. Manholes
-   6. Castings
-   7. Manhole Chimney Seal
-   8. Drop Manholes
-   9. Board Insulation
-   10. Tracer Wire
-   11. Locator Tape
-3. Execution
-   1. Diverting Sewage
-   2. Diversion Plan
-   3. Laying Pipe
-   4. Bedding/Utility Cover
-   5. Manholes
-   6. Casting Installation
-   7. Connections to Existing Structures
-   8. Sewer Laterals
-   9. Pipe Insulation
-   10. Tracer Wire
-   11. Locator Tape
-   12. Deflection Testing
-   13. Leakage Testing
-   14. Sewer Televising
-   15. Abandon Sewer
+The work under this section shall consist of providing all work, materials, labor, equipment, and supervision necessary to provide for the sanitary sewer work required in these specifications and on the drawings. The limits of the work, including the responsible party for testing purposes, shall be clearly defined on the drawings.
 
 ### RELATED WORK
 
 Applicable provisions of Division 1 govern work under this section. Related work specified elsewhere:
 
 1. Section 02 32 00 – Geo Technical Investigation
-2.  Section 22 11 00 – Facility Water Distribution
-3.  Section 22 13 00 – Facility Sanitary Sewerage
-4.  Section 22 14 00 – Facility Storm Drainage
-5.  Section 30 05 00 – Common Work Results for All Exterior Work
-6.  Section 31 23 16.13 – Trenching
-7.  Section 31 25 00 – Erosion Control
+2. Section 22 11 00 – Facility Water Distribution
+3. Section 22 13 00 – Facility Sanitary Sewerage
+4. Section 22 14 00 – Facility Storm Drainage
+5. Section 30 05 00 – Common Work Results for All Exterior Work
+6. Section 31 23 16.13 – Trenching
+7. Section 31 25 00 – Erosion Control
 
 :::note
 Determine if this work will impact other related work and revise these specifications accordingly to only include those Sections that apply to the project.
@@ -73,26 +36,26 @@ Determine if this work will impact other related work and revise these specifica
 Where reference is made to the “SSSWC”, it shall mean pertinent sections of the Standard Specifications for Sewer and Water Construction in Wisconsin, current edition. Method of measurement and basis of payment sections in referenced documents shall not apply.
 
 Where these specifications do not cover portions of the work to be undertaken, the Standard Specifications for Sewer and Water Construction in Wisconsin, current edition, shall govern the work.
-    
+
 ### REFERENCE STANDARDS
 
- 1.  American Society for Testing and Materials (ASTM) International:
-   1. C425 Standard Specification for Compression Joints for Vitrified Clay Pipe and Fittings
-   1.  C700 Standard Specification for Vitrified Clay Pipe, Extra Strength, Standard Strength, and Perforated
-   1.  D1784 Standard Specification for Rigid Poly(Vinyl Chloride) (PVC) Compounds and Chlorinated Poly(Vinyl Chloride) (CPVC) Compounds
-   1.  D2235 Standard Specification for Solvent Cement for Acrylonitrile-Butadiene-Styrene (ABS) Plastic Pipe and Fittings
-   1.  D2564 Standard Specification for Solvent Cements for Poly(Vinyl Chloride) (PVC) Plastic Piping Systems
-   1.  D2680 Standard Specification for Acrylonitrile-Butadiene-Styrene (ABS) and Poly(Vinyl Chloride) (PVC) Composite Sewer Piping
-   1.  D3034 Standard Specification for Type PSM Poly(Vinyl Chloride) (PVC) Sewer Pipe and Fittings
-   1.  D3212 Standard Specification for Joints for Drain and Sewer Plastic Pipes Using Flexible Elastomeric Seals
-   1.  D3350 Standard Specification for Polyethylene Plastics Pipe and Fittings Materials
-   1.  D4673 Standard Classification System for Acrylonitrile-Butadiene-Styrene (ABS) Plastics and Alloys Molding and Extrusion Materials
-   1.  F477 Standard Specification for Elastomeric Seals (Gaskets) for Joining Plastic Pipe
-   1.  F679 Standard Specification for Poly(Vinyl Chloride) (PVC) Large-Diameter Plastic Gravity Sewer Pipe and Fittings
- 1.  American Water Works Association (AWWA):
-   1. C104/ANSI A21.4 Standard for Cement-Mortar Lining for Ductile-Iron Pipe and Fittings
-   2.  C151/ANSI A21.53 Standard for Ductile Iron Pipe, Centrifugally Cast
-   3.  C153/A21.53 Standard for Ductile Iron Compact Fittings
+1.  American Society for Testing and Materials International (ASTM/I):
+    1.  C425 Standard Specification for Compression Joints for Vitrified Clay Pipe and Fittings
+    2.  C700 Standard Specification for Vitrified Clay Pipe, Extra Strength, Standard Strength, and Perforated
+    3.  D1784 Standard Specification for Rigid Poly(Vinyl Chloride) (PVC) Compounds and Chlorinated Poly(Vinyl Chloride) (CPVC) Compounds
+    4.  D2235 Standard Specification for Solvent Cement for Acrylonitrile-Butadiene-Styrene (ABS) Plastic Pipe and Fittings
+    5.  D2564 Standard Specification for Solvent Cements for Poly(Vinyl Chloride) (PVC) Plastic Piping Systems
+    6.  D2680 Standard Specification for Acrylonitrile-Butadiene-Styrene (ABS) and Poly(Vinyl Chloride) (PVC) Composite Sewer Piping
+    7.  D3034 Standard Specification for Type PSM Poly(Vinyl Chloride) (PVC) Sewer Pipe and Fittings
+    8.  D3212 Standard Specification for Joints for Drain and Sewer Plastic Pipes Using Flexible Elastomeric Seals
+    9.  D3350 Standard Specification for Polyethylene Plastics Pipe and Fittings Materials
+    10. D4673 Standard Classification System for Acrylonitrile-Butadiene-Styrene (ABS) Plastics and Alloys Molding and Extrusion Materials
+    11. F477 Standard Specification for Elastomeric Seals (Gaskets) for Joining Plastic Pipe
+    12. F679 Standard Specification for Poly(Vinyl Chloride) (PVC) Large-Diameter Plastic Gravity Sewer Pipe and Fittings
+2.  American Water Works Association (AWWA):
+    1.  C104/ANSI A21.4 Standard for Cement-Mortar Lining for Ductile-Iron Pipe and Fittings
+    2.  C151/ANSI A21.53 Standard for Ductile Iron Pipe, Centrifugally Cast
+    3.  C153/A21.53 Standard for Ductile Iron Compact Fittings
 
 ### SUBMITTALS
 
@@ -101,19 +64,21 @@ Where these specifications do not cover portions of the work to be undertaken, t
    - Fittings
    - Pre-Cast and Cast-in-Place Structures
    - Castings and Covers
-2.  Provide wastewater diversion and pumping plan.
-3.  Provide reports documenting all required testing and televising. testing results for the project to the DFD Project Representative and the AE within 48 hours of completing the individual tests.
+2. Provide wastewater diversion and pumping plan.
+3. Provide reports documenting all required testing and televising. testing results for the project to the DFD Project Representative and the AE within 48 hours of completing the individual tests.
 
 ### PROVISIONS FOR FUTURE WORK
 
 1. Construct sanitary sewer system in a manner that will facilitate future extension or connection.
 2. When drawings indicate future connection at a manhole or other structure, install a full length of pipe beyond the structure, providing plugged bell at terminal end of pipe. Provide marker board at terminal end of stubbed pipe.
-3. AS-Built drawings
-   1. Show the actual locations of sanitary sewer pipes and service lines, manholes and cleanouts on drawings. Show changes to proposed sanitary sewer pipe, alignment, or grades. Show the actual locations, sizes and types of underground utilities and other features encountered during construction.
 
 :::note
 Describe any specific provisions required to accommodate future sanitary sewer work
 :::
+
+### As-Built Drawings
+
+1. Show the actual locations of sanitary sewer pipes and service lines, manholes and clean-outs on drawings. Show changes to proposed sanitary sewer pipe, alignment, or grades. Show the actual locations, sizes and types of underground utilities and other features encountered during construction.
 
 ## Products
 
@@ -121,46 +86,53 @@ Describe any specific provisions required to accommodate future sanitary sewer w
 Edit material requirements to account for agency/institution and local utility requirements, or variations in material availability. Edit pipe requirements to account for depth of bury, traffic and other load conditions for this project
 :::
 
+### PVC PIPE
+
+1. Conform to ASTM D-3034 with solvent weld or elastomeric joints. Pipe shall be SDR-35, unless otherwise noted. Pipe over 15 inches in diameter shall meet the requirements of ASTM F679-03. Do not mix different manufacturer's products, or fittings.
+2. PVC fittings shall be same joint type and SDR as connecting PVC sanitary sewer pipe.
+
+### HDPE PIPE
+
 :::note
 Verify the necessary Dimension Ratio (DR) based on site specific conditions including pipe diameter, depth and soil type.
 :::
 
-1. PVC PIPE
-   1. Conform to ASTM D-3034 with solvent weld or elastomeric joints. Pipe shall be SDR-35, unless otherwise noted. Pipe over 15 inches in diameter shall meet the requirements of ASTM F679-03. Do not mix different manufacturer's products, or fittings.
-   2. PVC fittings shall be same joint type and SDR as connecting PVC sanitary sewer pipe.
-1. HDPE PIPE
-   1. Polyethylene Resin
-   1. Polyethylene resin used for manufacturing piping and fittings shall meet ASTM D1248 for Type III, Class C, Grade P34, Category 5, with a PPI recommended designation of PE3408 and a minimum cell classification of PE 345434C in accordance with ASTM D3350. The polyethylene compound shall be combined with carbon black to provide protection against degradation by ultraviolet light. Pipe shall be made from virgin material with no rework compound, except that obtained from the manufacturer’s own production of the same formulation.
-   1. Polyethylene Piping
+1. Polyethylene Resin
+   1. Polyethylene resin used for manufacturing piping and fittings shall meet ASTM D1248 for Type III, Class C, Grade P34, Category 5, with a PPI recommended designation of PE3408 and a minimum cell classification of PE 345434C in accordance with ASTM D3350.
+   2. The polyethylene compound shall be combined with carbon black to provide protection against degradation by ultraviolet light.
+   3. Pipe shall be made from virgin material with no rework compound, except that obtained from the manufacturer’s own production of the same formulation.
+2. Polyethylene Piping
    1. High density polyethylene (HDPE) piping, shall meet the requirements of AWWA C906, current version. Pipe dimensions and workmanship shall be in accordance with ASTM F714 and ASTM D2122. Pipe shall be of diameter shown on the drawings, with dimension ratio (DR) of DR11, unless otherwise noted.
-   1. Pipe, fittings, and joints shall meet or exceed the physical properties in Table 1 below.
-   1.  Recommended Hydrostatic Design Stress:
+   2. Pipe, fittings, and joints shall meet or exceed the physical properties in Table 1 below.
+   3. Recommended Hydrostatic Design Stress:
       1. 1600 psi 73.4F
       2. 800 psi 140F
-   1.  Pipe Marking
-      1.  Each length of straight and special HDPE pipe and each HDPE fitting shall be plainly marked on the outside to identify the design pressure or class of pipe, proper location of the pipe or fitting in the pipeline, and the date of manufacture.
-1.  Ductile iron watermain
-    1.  Ductile watermain shall be Class 52, ANSI/AWWA C151/A21.51centrifugally cast, cement mortar lined meeting the requirements of ANSI/AWWA C104/A21.4.
-    1.  Ductile iron watermain joints shall be rubber gasket push-on joint or mechanical joint meeting the requirements of ANSI/AWWA C111/A21.11.
-    1.  Pipe shall be provided with conductive bonding straps to provide electrical continuity.
-    1.  Pipe shall be manufactured in the United States.
+   4. Pipe Marking
+      1. Each length of straight and special HDPE pipe and each HDPE fitting shall be plainly marked on the outside to identify the design pressure or class of pipe, proper location of the pipe or fitting in the pipeline, and the date of manufacture.
 
 **Table 1**
 | Property | ASTM Test method | Value |
 | -------- | ---------------- | ----- |
-| Density | D1505 | gm/cc | 
-| Melt Index | D1238-E | gm/10 min | 
-| High Load Melt Index | D1238-F | gm/10 min | 
+| Density | D1505 | gm/cc |
+| Melt Index | D1238-E | gm/10 min |
+| High Load Melt Index | D1238-F | gm/10 min |
 | Tensile Strength Break | D638 | 4,500 psi |
 | Tensile Strength Yield | D638 | &gt;3,200 psi |
 | Elongation | D638 | &gt;800 % |
 | Flexural Modulus | D790 | 136,000 psi |
-| Environmental Stress Cracking Resistance  | D1693 (Cond. C) | &gt; 5,000 F20’ Hours (100c) |
-| Brittleness Temperature| D746 | &lt;-180 f | 
+| Environmental Stress Cracking Resistance | D1693 (Cond. C) | &gt; 5,000 F20’ Hours (100c) |
+| Brittleness Temperature| D746 | &lt;-180 f |
 | Melting Point | D789 | 261 f |
 | Vicat Softening Temperature | D1525 | 255 f |
 | Hardness, Shore | D2240 | 66 d |
 | Volume Resistivity | D991 | 1016 ohm-cm |
+
+### Ductile-Iron Pipe
+
+1. Ductile watermain shall be Class 52, ANSI/AWWA C151/A21.51centrifugally cast, cement mortar lined meeting the requirements of ANSI/AWWA C104/A21.4.
+2. Ductile iron watermain joints shall be rubber gasket push-on joint or mechanical joint meeting the requirements of ANSI/AWWA C111/A21.11.
+3. Pipe shall be provided with conductive bonding straps to provide electrical continuity.
+4. Pipe shall be manufactured in the United States.
 
 ### CONNECTIONS FOR DISSIMILAR PIPE MATERIALS
 
@@ -175,36 +147,36 @@ Determine manhole sizes based on pipe size, location, orientation and other proj
 :::
 
 1.  General
-   1. Provide precast concrete manholes. Cast-in-place manholes may only be used after receiving written approval by the DFD Project Representative and the A/E for customized manhole sizes and shapes.
-   1. Submit manufacturer's preproduction (shop) drawings for approval prior to the start of manufacturing.
-   1. Contractor shall verify existing pipe locations, sizes, orientation and elevation prior to ordering new manholes.
-   1. Precast Manhole Sections
-   1. Precast concrete manhole sections, including bottom and top shall meet the requirements of ASTM C478.
-   1. If conditions require a larger structure than shown on drawings, contact the DFD Project Representative and the A/E.
-   1. Provide eccentric cone top sections with a minimum clear opening of 24 inches. Flat top slabs may be used on manholes greater than 6-foot inside diameter.
-   1. Manhole wall thickness shall be a minimum of 5 inches for 4-foot inside diameter manholes, 6 inches for 5-foot inside diameter manholes, and 7 inches for 6-foot and 7-foot inside diameter manholes.
-   1. Manhole bottom section shall be pre-cast with integral base having a minimum thickness of 8 inches unless otherwise noted.
-   1. Joints
-   1. Provide manhole riser and barrel sections, cones, and flat tops, with standard pipe section tongue and groove joints.
-   1. Seal joints watertight with prefabricated rubber or plastic gaskets or formed in place butyl rubber seal.
-   1. Joint sealers:
-   1.Hamilton Kent, ConSeal, MultiSeal Butyl-Tite, or approved equal.
-   1. Connections
-   1. Openings for connections shall be cast-in-place or cored and appropriately sized for the type and size of pipe being connected.
-   1. Provide flexible, watertight, pipe-to-manhole connections (or "boots") for sanitary sewers; Kor-N-Seal, Hamilton Kent, A-Lok, or an approved equal.
-   1. Manhole Steps
-   1. Provide steps at 16” O.C. and project approximately 6” from wall.
-   1. Manhole steps shall be located in a straight, vertical line from the top of the manhole to the bottom. If the orientation of pipe openings prohibits this, locate manhole steps over the downstream pipe opening.
-   1. Manhole steps shall be steel reinforced polypropylene with ½-inch diameter deformed reinforcing bar. Steps shall be permanently secured in the manhole wall.
-   1. Manhole steps shall be American Step Company, M.A. Industries, or approved equal.
-   1. Bench and Flowline
-   1. Provide precast or cast-in-place bench and flowline.
-   1. Unless otherwise indicated on the drawings, bench height shall be ¾ the diameter of the downstream pipe. Slope bench towards flowlines at a minimum ½” per foot. Provide light broom finish on bench.
-   1. Flowlines shall be formed with gradual, uniform sweeps directed towards the downstream pipe. Provide smooth, troweled finish for flowlines.
-   1. When cast-in-place benches and flowline are used, lay the sewer pipe through the manhole.
-   1. Adjusting Rings
-   1. Fiber-reinforced pre-cast concrete adjusting rings meeting the requirements of ASTM C-478. Provide rings of 2 inches or 4 inches thickness.
-   1. Pre-compressed butyl gasket, 3/8”x3½” shall be used between the top of the manhole and first adjustment ring, and between all subsequent rings. Butyl material shall be E-Z Stick, or equal.
+1.  Provide precast concrete manholes. Cast-in-place manholes may only be used after receiving written approval by the DFD Project Representative and the A/E for customized manhole sizes and shapes.
+1.  Submit manufacturer's preproduction (shop) drawings for approval prior to the start of manufacturing.
+1.  Contractor shall verify existing pipe locations, sizes, orientation and elevation prior to ordering new manholes.
+1.  Precast Manhole Sections
+1.  Precast concrete manhole sections, including bottom and top shall meet the requirements of ASTM C478.
+1.  If conditions require a larger structure than shown on drawings, contact the DFD Project Representative and the A/E.
+1.  Provide eccentric cone top sections with a minimum clear opening of 24 inches. Flat top slabs may be used on manholes greater than 6-foot inside diameter.
+1.  Manhole wall thickness shall be a minimum of 5 inches for 4-foot inside diameter manholes, 6 inches for 5-foot inside diameter manholes, and 7 inches for 6-foot and 7-foot inside diameter manholes.
+1.  Manhole bottom section shall be pre-cast with integral base having a minimum thickness of 8 inches unless otherwise noted.
+1.  Joints
+1.  Provide manhole riser and barrel sections, cones, and flat tops, with standard pipe section tongue and groove joints.
+1.  Seal joints watertight with prefabricated rubber or plastic gaskets or formed in place butyl rubber seal.
+1.  Joint sealers:
+    1.Hamilton Kent, ConSeal, MultiSeal Butyl-Tite, or approved equal.
+1.  Connections
+1.  Openings for connections shall be cast-in-place or cored and appropriately sized for the type and size of pipe being connected.
+1.  Provide flexible, watertight, pipe-to-manhole connections (or "boots") for sanitary sewers; Kor-N-Seal, Hamilton Kent, A-Lok, or an approved equal.
+1.  Manhole Steps
+1.  Provide steps at 16” O.C. and project approximately 6” from wall.
+1.  Manhole steps shall be located in a straight, vertical line from the top of the manhole to the bottom. If the orientation of pipe openings prohibits this, locate manhole steps over the downstream pipe opening.
+1.  Manhole steps shall be steel reinforced polypropylene with ½-inch diameter deformed reinforcing bar. Steps shall be permanently secured in the manhole wall.
+1.  Manhole steps shall be American Step Company, M.A. Industries, or approved equal.
+1.  Bench and Flowline
+1.  Provide precast or cast-in-place bench and flowline.
+1.  Unless otherwise indicated on the drawings, bench height shall be ¾ the diameter of the downstream pipe. Slope bench towards flowlines at a minimum ½” per foot. Provide light broom finish on bench.
+1.  Flowlines shall be formed with gradual, uniform sweeps directed towards the downstream pipe. Provide smooth, troweled finish for flowlines.
+1.  When cast-in-place benches and flowline are used, lay the sewer pipe through the manhole.
+1.  Adjusting Rings
+1.  Fiber-reinforced pre-cast concrete adjusting rings meeting the requirements of ASTM C-478. Provide rings of 2 inches or 4 inches thickness.
+1.  Pre-compressed butyl gasket, 3/8”x3½” shall be used between the top of the manhole and first adjustment ring, and between all subsequent rings. Butyl material shall be E-Z Stick, or equal.
 
 :::note
 Determine casting type, size and load rating. Consult with the Owner Agency to address and specific casting requirements. Determine if any existing castings are able to be salvaged.
@@ -213,17 +185,17 @@ Determine casting type, size and load rating. Consult with the Owner Agency to a
 ### CASTINGS
 
 1.  General
-   1.  All manhole castings shall be heavy duty iron conforming to ASTM A48, Class 20 and rated for AASHTO H-20 loading. Provide water-tight, gasketed, self-sealing, non-rocking lids with concealed pickhole.
-   1.  Standard Manhole Frame and Casting
-   1.  Neenah Foundry R-1550, with Type B lid; or approved equal.
-   1.  Low Profile Manhole Frame and Casting
-   1.  Neenah Foundry R-1689, with Type B lid; or approved equal.
-   1.  Standard Security Manhole Frame and Casting (Solid Lid)
-   1.  Neenah Foundry Company R-1916-C with bolt down type B lid; or approved equal. Lid shall be water tight, gasketed, self-sealing, with concealed pick-hole.
-   1.  Low Profile Security Manhole Frame and Casting (Solid Lid)
-   1.  Neenah Foundry R-1689, with Type B lid having 4 Type “E” countersunk flathead pent socket screws; or approved equal. Lid shall be water tight, gasketed, self-sealing, with concealed pick-hole.
-   1.  Manhole Chimney Seal
-   1.  When indicated on the drawings, provide an internal frame/cone seal meeting requirements of Sections 8.42.3-8.42.5 of the SSSWC.
+    1.  All manhole castings shall be heavy duty iron conforming to ASTM A48, Class 20 and rated for AASHTO H-20 loading. Provide water-tight, gasketed, self-sealing, non-rocking lids with concealed pickhole.
+2.  Standard Manhole Frame and Casting
+    1.  Neenah Foundry R-1550, with Type B lid; or approved equal.
+3.  Low Profile Manhole Frame and Casting
+    1.  Neenah Foundry R-1689, with Type B lid; or approved equal.
+4.  Standard Security Manhole Frame and Casting (Solid Lid)
+    1.  Neenah Foundry Company R-1916-C with bolt down type B lid; or approved equal. Lid shall be water tight, gasketed, self-sealing, with concealed pick-hole.
+5.  Low Profile Security Manhole Frame and Casting (Solid Lid)
+    1.  Neenah Foundry R-1689, with Type B lid having 4 Type “E” countersunk flathead pent socket screws; or approved equal. Lid shall be water tight, gasketed, self-sealing, with concealed pick-hole.
+6.  Manhole Chimney Seal
+    1.  When indicated on the drawings, provide an internal frame/cone seal meeting requirements of Sections 8.42.3-8.42.5 of the SSSWC.
 
 :::note
 Determine drop manhole configuration and manufacturing methods.
@@ -231,20 +203,24 @@ Determine drop manhole configuration and manufacturing methods.
 
 ### DROP MANHOLES
 
-1.  Provide outside drop sanitary manholes where shown on the drawings or where the elevation difference between the incoming invert and the springline of the outgoing pipe is greater than 2 feet.
+1.  Provide outside drop sanitary manholes where shown on the drawings or where the elevation difference between the incoming invert and the spring-line of the outgoing pipe is greater than 2 feet.
 1.  Provide drop manhole bases with integral 1-foot minimum overhanging base.
 1.  Pre-cast outside drops will be considered on a case-by-case basis.
-1.  Provide outside drop with the same size and type of pipe as the sewer, with a wye or tee into the manhole at the top on the line and grade of the sewer and a one-quarter bend with its invert into the manhole at the elevation of theoutlet pipe springline.
+1.  Provide outside drop with the same size and type of pipe as the sewer, with a wye or tee into the manhole at the top on the line and grade of the sewer and a one-quarter bend with its invert into the manhole at the elevation of the outlet pipe spring-line.
 
 ### BOARD INSULATION
 
 1. Insulation shall be rigid, closed-cell extruded polystyrene insulation suitable for buried insulation. Individual boards shall have dimensions of 8’x4’x2”.
 1. Owens Corning, Dow Styrofoam, or approved equal.
-1. Tracer wire
-   1.  Tracer wire shall be #10 solid copper wire with green insulated jacket.
-1. Locator tape
-   1.  Tape shall be detectable metallic locator tape, specifically manufactured for marking utilities with a minimum width of 6 inches and detectable at a depth of 18”.
-   1.  Tape shall be marked “SEWER” and green colored.
+
+### Tracer wire
+
+1. Tracer wire shall be #10 solid copper wire with green insulated jacket.
+
+### Locator tape
+
+1. Tape shall be detectable metallic locator tape, specifically manufactured for marking utilities with a minimum width of 6 inches and detectable at a depth of 18”.
+2. Tape shall be marked “SEWER” and green colored.
 
 ## Execution
 
@@ -254,8 +230,8 @@ Determine drop manhole configuration and manufacturing methods.
       - 8’ horizontal separation (measured center to center) between existing or proposed sanitary or storm sewers and watermains.
       - 12” vertical separation (measured from outsides of pipes) where watermains cross over sanitary or storm sewers.
       - 18” vertical separation (measured from outsides of pipes) where watermains cross under sanitary or storm sewers.
-   1.  Notify the A/E and DFD Project Representative of utility conflicts as soon as they are encountered.
-   1.  Store and handle pipe in accordance with manufacturers’ recommendations. Keep pipes clean of soil, debris and animals.
+   1. Notify the A/E and DFD Project Representative of utility conflicts as soon as they are encountered.
+   1. Store and handle pipe in accordance with manufacturers’ recommendations. Keep pipes clean of soil, debris and animals.
 
 :::note
 Verify occupancy of tributary buildings with Agency/Owner. Modify for project conditions noting known periods of low or high flow
@@ -281,11 +257,13 @@ Determine the materials to be used for bedding and utility cover based on the pr
 1. Make joints in accordance with manufacturer's directions with due care to avoid damaging pipe and/or disturbing previously laid pipe.
 1. Cut pipe only according to manufacturer's directions.
 1. Lay all sewer pipes to horizontal alignment and grade shown on the drawings with bell ends up hill. Establish and maintain horizontal alignment. Discrepancies from the required horizontal alignment or grade at any location shall not be greater than 0.10’ or 0.05’, respectively.
-1. Bedding/utility Cover
-   1. Provide _[Crushed Stone Bedding]_ shall be used for both bedding and utility cover in accordance with the applicable requirements of Section 31 23 16.13 – Trenching.
-   1. Where excavation extends below the bottom of the structure's base or the trench, bring the excavation to the required elevation by the use of compacted _[Crushed Stone Bedding]_.
-   1. A minimum of 8” of compacted _[Crushed Stone Bedding]_ shall be placed below manhole base.
-   1. A minimum of 6” of compacted _[Crushed Stone Bedding]_ shall be placed below the sanitary sewer pipe and 12” of cover material shall be placed over the sanitary sewer pipe (both measured at the bell of the pipe).
+
+### Bedding/utility Cover
+
+1. Provide _[Crushed Stone Bedding]_ shall be used for both bedding and utility cover in accordance with the applicable requirements of Section 31 23 16.13 – Trenching.
+2. Where excavation extends below the bottom of the structure's base or the trench, bring the excavation to the required elevation by the use of compacted _[Crushed Stone Bedding]_.
+3. A minimum of 8” of compacted _[Crushed Stone Bedding]_ shall be placed below manhole base.
+4. A minimum of 6” of compacted _[Crushed Stone Bedding]_ shall be placed below the sanitary sewer pipe and 12” of cover material shall be placed over the sanitary sewer pipe (both measured at the bell of the pipe).
 
 ### MANHOLES
 

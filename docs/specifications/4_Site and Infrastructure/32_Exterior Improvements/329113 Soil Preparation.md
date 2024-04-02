@@ -4,11 +4,9 @@ section: '329113'
 divNumb: 32
 divName: Exterior Improvements
 subgroup: Site and Infrastructure
-tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Soil', 'Preparation']
+tags:
+  ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Soil', 'Preparation']
 ---
-
-
-   1. SOIL PREPARATION
 
 ## General
 
@@ -24,89 +22,85 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Soil', 'Preparatio
 
 ## Products
 
-   1. materials
-   1. Compost
-   1. A totally organic product that has been aerobically and naturally processed without the addition of coarse wood chips, in such a manner as to maintain a consistent temperature of 140 degrees Fahrenheit or greater for a period of time sufficient to create the following characteristics, measured by dry weight.
-   1. Moisture content of 30%-35%
-   1. Organic matter to nitrogen ratio:
-      1. 25:1 to 30:1.
-   1. pH:
-      1. 6.0 to 8.0 pH.
-   1. Salts:
-      1. maximum of 10 mmhos/cm.
-   1. Less than 1% soil, dirt or sand.
-   1. Maximum particle size of ½ inch diameter.
-   1. Eradication of all harmful weed seeds, pathogens and bacteria.
-   1. A non-offensive, earth smell.
-   1. Acceptable materials are as follows.
-   1. A-1 Organics - Premium 3
-   1. Front Range Materials (Arvada, Colorado, 303-425-9992)– Ground Compost (Item #18-126)
-   1. Certified “Class I” compost product
-   1. Plant Mix Backfill for Trees
-   1. Plant mix shall be used to backfill around all tree plantings as indicated on the drawings. The plant mix shall consist of equal parts of
-   1. Topsoil
-   1. Compost
-   1. Excavated soil
-   1. Myke Pro AN1 ([www.usemyke.com](http://www.usemyke.com)) at the manufacturer’s recommended rate for the tree’s size/caliper
-   1. Caliper / Height
-   1. Myke Pro
+1.  materials
+1.  Compost
+1.  A totally organic product that has been aerobically and naturally processed without the addition of coarse wood chips, in such a manner as to maintain a consistent temperature of 140 degrees Fahrenheit or greater for a period of time sufficient to create the following characteristics, measured by dry weight.
+1.  Moisture content of 30%-35%
+1.  Organic matter to nitrogen ratio:
+    1. 25:1 to 30:1.
+1.  pH:
+    1. 6.0 to 8.0 pH.
+1.  Salts:
+    1. maximum of 10 mmhos/cm.
+1.  Less than 1% soil, dirt or sand.
+1.  Maximum particle size of ½ inch diameter.
+1.  Eradication of all harmful weed seeds, pathogens and bacteria.
+1.  A non-offensive, earth smell.
+1.  Acceptable materials are as follows.
+1.  A-1 Organics - Premium 3
+1.  Front Range Materials (Arvada, Colorado, 303-425-9992)– Ground Compost (Item #18-126)
+1.  Certified “Class I” compost product
+1.  Plant Mix Backfill for Trees
+1.  Plant mix shall be used to backfill around all tree plantings as indicated on the drawings. The plant mix shall consist of equal parts of
+1.  Topsoil
+1.  Compost
+1.  Excavated soil
+1.  Myke Pro AN1 ([www.usemyke.com](http://www.usemyke.com)) at the manufacturer’s recommended rate for the tree’s size/caliper
+1.  Caliper / Height
+1.  Myke Pro
 
-   1. Cups Each
-5. in (40 mm)
-   1. 2
-0. in (50 mm)
-   1. 3
-5. in (65 mm)
-   1. 4
-0. in (75 mm)
-   1. 5
-0. in (100 mm)
-   1. 6
-5. in (115 mm)
-5.
-   1. 4'
-75.
-   1. 5'
-   1. 2
-   1. 6'
-   1. 3
-   1. 7'
-5.
-   1. 8'
-   1. 4
-   1. 10'
-   1. 5
-   1. 12'
-   1. 6
-   1. 14'
-5.
-   1. The ingredients shall be thoroughly mixed to produce a mix as integrated as possible. 
-   1. Bluegrass sod and irrigated bluegrass seed area amendments
-   1. Thoroughly mix the following amendments tilled to a depth of six inches.
-   1. Specified Compost 3.0 c.y. per 1,000 s.f.
-   1. Naturalized seed areas
-   1. All seed areas shall receive “Biosol 6-1-3” organic fertilizer at the time of seeding at a rate of 1,000 pounds per acre. If soils test identify more or less fertilizer required, the contractor will be expected to submit a change order to adjust the contract price for a credit or overage. 
-   1. Specified Compost 3.0 c.y. per 1,000 s.f.
-   1. Thoroughly mix till the areas to a depth of six inches.
-   1. Planting Bed Amendments
-   1. Thoroughly mix the following amendments tilled to a depth of six inches. No additional backfill amendments are required around shrubs if amending the entire bed area.
-   1. Specified Compost 4.0 c.y. per 1,000 s.f.
-   1. Diammonium Phosphate 5.0 lbs. per 1,000 s.f.
-   1. Pre-emergent Weed Controller use manufacturer’s specified rate
-   1. source quality control
-   1. Verification of Performance
-   1. Compost and other soil amendments are typically identified by a rate of cubic yards per 1000 s.f. In order to accurately determine if amendments are applied at the correct rate, the following chart is supplied. This chart is intended to verify the cubic yards by allowing a method for measuring the depth of the material spread uniformly across the surface of the planting area, with no exposed soil, prior to mixing the amendments with the existing soils. 
-   1. This method will be used during inspections to verify that adequate amendments are incorporated into the soil.
-   1. c.y./1000 s.f.
-   1. Depth (inches)
-   1. 3 c.y./1000 s.f.
-   1. 1 inch
-0. c.y./1000 s.f.
-   1. 1 ½ inches
-   1. An inspection of soil preparation will be performed by the Owner’s Representative before areas will be released for planting. The inspection shall consist taking a soil sample to determine
-   1. Proper tilling of the soil. Soil will be judged on how easily a soil probe can be inserted into the ground.
-   1. Proper depth of tilling, and homogeneity of the soil. The soil sample will be judged on uniformity of the soil profile in the top six to eight inches.
-   1. A visual inspection for adequate compost will be conducted. An area that has similar soil structures, that has not received compost will be used as the basis of comparison. Should a disagreement exist, multiple soil samples will be sent to an independent testing laboratory to determine the amount of organic matter present. The cost of this testing will be absorbed by the Owner’s Representative.
+1.  Cups Each
+1.  in (40 mm)
+    1.  2
+1.  in (50 mm)
+    1.  3
+1.  in (65 mm)
+    1.  4
+1.  in (75 mm)
+    1.  5
+1.  in (100 mm)
+    1.  6
+1.  in (115 mm)
+1.  1.  4'
+1.  1.  5'
+    1.  2
+    1.  6'
+    1.  3
+    1.  7'
+1.  1.  8'
+    1.  4
+    1.  10'
+    1.  5
+    1.  12'
+    1.  6
+    1.  14'
+1.  1.  The ingredients shall be thoroughly mixed to produce a mix as integrated as possible.
+    1.  Bluegrass sod and irrigated bluegrass seed area amendments
+    1.  Thoroughly mix the following amendments tilled to a depth of six inches.
+    1.  Specified Compost 3.0 c.y. per 1,000 s.f.
+    1.  Naturalized seed areas
+    1.  All seed areas shall receive “Biosol 6-1-3” organic fertilizer at the time of seeding at a rate of 1,000 pounds per acre. If soils test identify more or less fertilizer required, the contractor will be expected to submit a change order to adjust the contract price for a credit or overage.
+    1.  Specified Compost 3.0 c.y. per 1,000 s.f.
+    1.  Thoroughly mix till the areas to a depth of six inches.
+    1.  Planting Bed Amendments
+    1.  Thoroughly mix the following amendments tilled to a depth of six inches. No additional backfill amendments are required around shrubs if amending the entire bed area.
+    1.  Specified Compost 4.0 c.y. per 1,000 s.f.
+    1.  Diammonium Phosphate 5.0 lbs. per 1,000 s.f.
+    1.  Pre-emergent Weed Controller use manufacturer’s specified rate
+    1.  source quality control
+    1.  Verification of Performance
+    1.  Compost and other soil amendments are typically identified by a rate of cubic yards per 1000 s.f. In order to accurately determine if amendments are applied at the correct rate, the following chart is supplied. This chart is intended to verify the cubic yards by allowing a method for measuring the depth of the material spread uniformly across the surface of the planting area, with no exposed soil, prior to mixing the amendments with the existing soils.
+    1.  This method will be used during inspections to verify that adequate amendments are incorporated into the soil.
+    1.  c.y./1000 s.f.
+    1.  Depth (inches)
+    1.  3 c.y./1000 s.f.
+    1.  1 inch
+1.  c.y./1000 s.f.
+    1.  1 ½ inches
+    1.  An inspection of soil preparation will be performed by the Owner’s Representative before areas will be released for planting. The inspection shall consist taking a soil sample to determine
+    1.  Proper tilling of the soil. Soil will be judged on how easily a soil probe can be inserted into the ground.
+    1.  Proper depth of tilling, and homogeneity of the soil. The soil sample will be judged on uniformity of the soil profile in the top six to eight inches.
+    1.  A visual inspection for adequate compost will be conducted. An area that has similar soil structures, that has not received compost will be used as the basis of comparison. Should a disagreement exist, multiple soil samples will be sent to an independent testing laboratory to determine the amount of organic matter present. The cost of this testing will be absorbed by the Owner’s Representative.
 
 ## Execution
 
@@ -171,5 +165,3 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Soil', 'Preparatio
    1. Remove debris and excess materials from site. Clean out drainage inlet structures. Clean paved and finished surfaces soiled as a result of work under this Section, in accordance with direction given by Owner’s Representative.
    1. PROTECTION
    1. Provide and install barriers as required and as directed by Owner’s Representative to protect completed areas against damage from pedestrian and vehicular traffic until acceptance by Owner. Contractor is not responsible for malicious destruction caused by Others.
-   
-

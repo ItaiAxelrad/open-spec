@@ -7,7 +7,6 @@ subgroup: Facility Services
 tags: ['Facility', 'Services', 'Plumbing', 'Common', 'Work', 'Results']
 ---
 
-
 ## General
 
 1. RELATED DOCUMENTS
@@ -27,7 +26,7 @@ tags: ['Facility', 'Services', 'Plumbing', 'Common', 'Work', 'Results']
    1. The Owner Technical Representative has based the drawings and design on non-certified information furnished by various equipment manufacturers. It is incumbent on the part of the CONTRACTOR to include in the bid all material and labor needed to install the actual equipment furnished.
    1. Related Sections:
       1. The following is work of Division 26 sections of the Specifications:
-            1. Power supply wiring from power source to power connection on equipment. Include starters, disconnects, and required electrical devices, except where specified as furnished, or factory-installed, by manufacturer.
+         1. Power supply wiring from power source to power connection on equipment. Include starters, disconnects, and required electrical devices, except where specified as furnished, or factory-installed, by manufacturer.
    1. Interlock wiring between field-installed equipment, except where specified as factory installed. Interlock wiring, as used in this specification, is defined as that wiring between electrically-interlocked equipment for the purpose of controlling one piece or pieces of equipment by the operation (on, off, etc.) of another piece or pieces of associated equipment.
    1. Pipe and pipe fitting materials as specified in piping system sections.
 1. DEFINITIONS
@@ -58,7 +57,7 @@ tags: ['Facility', 'Services', 'Plumbing', 'Common', 'Work', 'Results']
 1. REFERENCES
    1. Applicable Standards:
       1. American Society for Testing and Materials (ASTM):
-            1. A47 - Ferritic Malleable Iron Castings.
+         1. A47 - Ferritic Malleable Iron Castings.
    1. A53 - Pipe, Steel, Black and Hot-Dipped, Zinc-Coated Welded and Seamless.
    1. A126 - Gray Iron castings for Valves, Flanges, and Pipe Fittings.
    1. A536 - Ductile Iron Castings.
@@ -85,10 +84,10 @@ tags: ['Facility', 'Services', 'Plumbing', 'Common', 'Work', 'Results']
    1. Dielectric fittings
    1. Mechanical sleeve seals
    1. Escutcheons
-   2. General, all Division 22 sections of the Specifications:
+   1. General, all Division 22 sections of the Specifications:
       1. Follow the procedures specified in Division 01. Prepare maintenance manuals in accordance with Division 01.
-   3. Welder certificates signed by Contractor certifying that welders comply with requirements specified under the “Quality Assurance” article of this section.
-2. QUALITY ASSURANCE
+   1. Welder certificates signed by Contractor certifying that welders comply with requirements specified under the “Quality Assurance” article of this section.
+1. QUALITY ASSURANCE
    1. Qualify welding processes and operators for structural steel according to AWS D1.1.
    2. All welding on pressure piping shall conform with the requirements of the American National Standard Code for Pressure Piping, ANSI B31.3, "Chemical Plant and Petroleum Refinery Piping." All welds on piping having working pressures of 300 psig or greater shall be subjected to a full X-ray examination and will not be accepted until all welds meet the requirements of ANSI B31.1, "Power Piping." Faulty welds shall be removed at no additional cost to Owner. X-ray testing shall be performed by others at no additional cost to the Contractor.
    3. Certify that each welder has passed AWS qualification tests for the welding processes involved and that certification is current.
@@ -96,7 +95,7 @@ tags: ['Facility', 'Services', 'Plumbing', 'Common', 'Work', 'Results']
       1. Prior to installation and acceptance, any power boiler, low-pressure heating boiler, or unfire pressure vessel operated at pressures of 15 pounds per square inch or greater, furnished under this contract will be stamped with ASME Boiler and Pressure Vessel Code Symbol and a National Board of Boiler and Pressure Vessel Inspector's number, thus certifying that the vessel has been fabricated and tested per the provisions of the ASME Boiler and Pressure Vessel Code. Manufacturers' data reports (unless exempted by the ASME Code) will be filed with the National Board in Columbus, Ohio. Two copies of these data reports shall be submitted to Owner. Testing, certification, and registration will be at the expense of the Contractor.
    5. Electrical Characteristics for Plumbing Equipment:
       1. Equipment of higher electrical characteristics may be furnished provided such proposed equipment is approved in writing and connecting electrical services, circuit breakers, and conduit sizes are appropriately modified. If minimum energy ratings or efficiencies are specified, equipment shall comply with requirements.
-3. DELIVERY, STORAGE, AND PROTECTION
+1. DELIVERY, STORAGE, AND PROTECTION
    1. Deliver pipes and tubes with factory-applied end caps. Maintain end caps through shipping, storage, and handling to prevent pipe-end damage and prevent entrance of dirt, debris, and moisture.
    2. Protect stored pipes and tubes from moisture and dirt. Elevate above grade. When stored inside, do not exceed structural capacity of the floor.
    3. Protect flanges, fittings, and piping specialties from moisture and dirt.
@@ -104,17 +103,17 @@ tags: ['Facility', 'Services', 'Plumbing', 'Common', 'Work', 'Results']
    5. Materials and equipment furnished by others.
    6. When equipment or materials are indicated to be furnished by others (F.B.O.) or by government furnished equipment (GFE) to the CONTRACTOR for installation and connection, the CONTRACTOR shall make a complete check of all materials and furnish a receipt to the Owner detailing the products received and the condition of the products delivered to him. After executing the receipt and acceptance by the CONTRACTOR, the CONTRACTOR shall assume full responsibility for the safe keeping, handling, and installation of the materials and equipment furnished by others or furnished by government, until completed installation and final approval by the Owner Technical Representative.
    7. If the CONTRACTOR fails to issue said receipt it shall be assumed that all equipment and materials were then delivered to the CONTRACTOR in the proper quantities and in perfect condition.
-4. PROJECT SITE CONDITIONS
+1. PROJECT SITE CONDITIONS
    1. Altitude Ratings:
       1. Unless otherwise noted, all specified equipment capacities, air quantities, etc., are for an altitude of 6,000 feet above sea level. Adjustments to manufacturers' ratings must be made accordingly.
-5. SEQUENCING AND SCHEDULING
+1. SEQUENCING AND SCHEDULING
    1. Coordinate plumbing equipment installation with other building components.
    2. Arrange for chases, slots, and openings in building structure during progress of construction, to allow for plumbing installations.
    3. Coordinate the installation of required supporting devices and set sleeves in poured-in-place concrete and other structural components, as they are constructed.
    4. Sequence, coordinate, and integrate installations of plumbing materials and equipment for efficient flow of the work. Coordinate installation of large equipment requiring positioning prior to closing in the building.
    5. Interruption of Plumbing Utilities:
       1. The Contractor shall not interrupt any main interior or exterior plumbing utility without written request for an outage and a subsequent approval of Owner Construction Manager nor shall he interrupt any branch line to an outlet or item of equipment without approval from the Owner Construction Manager.
-   6. Written request for outages shall be submitted seven calendar days in advance of the outage date. This request will delineate the particular utility or service in question, the time the service will be interrupted and the approximate hours the utility shall be off. 
+   6. Written request for outages shall be submitted seven calendar days in advance of the outage date. This request will delineate the particular utility or service in question, the time the service will be interrupted and the approximate hours the utility shall be off.
    7. Unless otherwise noted on the drawings, or directed, any tie-ins or connections to existing utilities or equipment that necessitate interruptions of service shall be performed on a during non standard hours
    8. The work to be performed during the interruption, will be preceded by all possible preparation, and will be carefully coordinated to minimize the duration of the interruption and work will proceed continuously until the system is restored to normal.
    9. Unless otherwise directed, the manipulation of existing main valves to isolate piping, the shutdown of equipment will be done by Owner maintenance personnel.
@@ -139,102 +138,102 @@ tags: ['Facility', 'Services', 'Plumbing', 'Common', 'Work', 'Results']
    9. ASME B16.20 - For grooved, ring-joint, steel flanges.
    10. AWWA C110 - Rubber, flat face, 1/8-inch thick, except where other thickness is indicated; and full-face or ring type, except where type is indicated.
    11. Flange Bolts and Nuts:
-      1. ASME B18.2.1, carbon steel, except where other material is indicated.
-   12. Plastic Pipe Flange Gasket, Bolts, and Nuts:
-      2. Type and material recommended by piping system manufacturer, except where other type or material is indicated.
-   13. Solder Filler Metal:
-      3. ASTM B32.
-   14. Alloy Sn95 or Alloy Sn94:
-      4. Tin (approximately 95%) and silver (approximately 5%), having 0.10% lead content.
-   15. Alloy E:
-      5. Tin (approximately 95%) and copper (approximately 5%), having 0.10% maximum lead content.
-   16. Alloy HA:
-      6. Tin-antimony-silver-copper-zinc, having 0.10% maximum lead content.
-   17. Alloy HB:
-      7. Tin-antimony-silver-copper-nickel, having 0.10% maximum lead content.
-   18. Alloy Sb5:
-      8. Tin (95%) and antimony (5%), having 0.20% maximum lead content.
-   19. Brazing Filler Metals:
-      9. AWS A5.8.
-   20. BCuP Series:
-      10. Copper-phosphorous alloys.
-   21. BAgl:
-      11. Silver alloy.
-   22. Welding Filler Metals:
-      12. Comply with AWS D10.12 for welding materials appropriate for wall thickness and chemical analysis of steel pipe being welded.
-   23. Flanged, Ductile-Iron Pipe Gasket, Bolts, and Nuts:
-      13. AWWA C110, rubber gasket, carbon steel bolts and nuts.
-   24. Couplings:
-      14. Iron body sleeve assembly, fabricated to match outside diameters of plain-end, pressure pipes.
-   25. Sleeve:
-      15. ASTM A126, Class B, gray iron.
-   26. Followers:
-      16. ASTM A47, Grade 32510 or ASTM A536 ductile iron.
-   27. Gaskets:
-      17. Rubber.
-   28. Bolts and Nuts:
-      18. AWWA C111.
-   29. Finish:
-      19. Enamel paint.
-   30. Piping Specialties:
-      20. Dielectric Fittings:
-         1. Assembly or fitting having insulating material isolating joined dissimilar metals, to prevent galvanic action and stop corrosion.
-   31. Description:
-      21. Combination of copper alloy and ferrous; threaded, solder, plain, and weld neck end types and matching piping system materials.
-   32. Insulating Material:
-      22. Suitable for system fluid, pressure, and temperature.
-   33. Dielectric Unions:
-      23. Factory-fabricated, union assembly, for 250 psig minimum working pressure at 180°F temperature.
-   34. Dielectric Flanges:
-      24. Factory-fabricated, companion-flange assembly, for 150 or 300 psig minimum pressure to suit system pressures.
-   35. Dielectric-Flange Insulation Kits:
-      25. Field-assembled, companion-flange assembly, full-face or ring type. Components include neoprene or phenolic gasket, phenolic or polyethylene bolt sleeves, phenolic washers, and steel backing washers.
-   36. Provide separate companion flanges and steel bolts and nuts for 150- or 300-psig minimum working pressure to suit system pressures.
-   37. Dielectric Couplings:
-      26. Galvanized steel coupling, having inert and noncorrosive, thermoplastic lining, with threaded ends and 300-psig minimum working pressure at 225°F temperature.
-   38. Dielectric Nipples:
-      27. Electroplated steel nipple, having inert and noncorrosive, thermoplastic lining, with combination of plain, threaded, or grooved end types and 300-psig working pressure at 225oF temperature.
-   39. Mechanical Sleeve Seals:
-      28. Modular, watertight, mechanical type. Components include interlocking synthetic rubber links shaped to continuously fill annular space between pipe and sleeve. Connecting bolts and pressure plates cause rubber sealing elements to expand when tightened.
-   40. Sleeves:
-      29. The following materials are for wall, floor, slab, and roof penetrations:
-      30. Steel Pipe:
-         1. ASTM A53, Type E, Grade A, Schedule 40, galvanized, plain ends.
-   41. Wall Penetration Systems:
-      31. Wall sleeve assembly, consisting of housing, gaskets, and pipe sleeve, with one mechanical joint end conforming to AWWA C110 and one plain pipe sleeve end.
-   42. Penetrating Pipe Deflection:
-      32. 5% without leakage.
-   43. Housing:
-      33. Ductile-iron casting having water stop and anchor ring, with ductile-iron gland, steel studs and nuts, and rubber gasket conforming to AWWA C111, of housing and gasket size as required to fit penetrating pipe.
-   44. Pipe Sleeve:
-      34. AWWA C151, ductile-iron pipe.
-   45. Housing-to-Sleeve Gasket:
-      35. Rubber or neoprene, push-on type, of manufacturer's design.
-   46. Cast-Iron Sleeve Fittings:
-      36. Commercially made sleeve having integral clamping flange, with clamping ring, bolts, and nuts for membrane flashing.
-   47. Escutcheons
-   48. Description:
-      37. Manufactured wall and ceiling escutcheons and floor plates, with an ID to closely fit around pipe, tube, and insulation of insulated piping and an OD that completely covers opening.
-   49. One Piece, Deep-Pattern Type:
-      38. Deep-drawn, box shaped brass with polished chrome plated finish.
-   50. One-Piece, Cast-Brass Type:
-      39. With set screw or Split-Casting, Cast-Brass-Type:
-      40. With concealed hinge and set screw. Finish:
-      41. Polished chrome plated.
-   51. Split-Casting, Cast-Brass Type:
-      42. With concealed hinge and set screw. Finish:
-      43. Polished chrome plated.
-   52. One-Piece, Floor-Plate Type:
-      44. Cast-iron floor plate.
-   53. Split-Casting, Floor-Plate Type:
-      45. Cast brass with concealed hinge and set screw.
-   54. Grout:
-      46. Nonshrink, Nonmetallic Grout:
-      47. ASTM C1107, Grade B.
-   55. Characteristics:
-      48. Post-hardening, volume-adjusting, dry, hydraulic-cement grout, nonstaining, noncorrosive, nongaseous, and recommended for interior and exterior applications.
-   56. Design Mix:
-      49. 5000 psi, 28-day compressive strength.
+   12. ASME B18.2.1, carbon steel, except where other material is indicated.
+   13. Plastic Pipe Flange Gasket, Bolts, and Nuts:
+   14. Type and material recommended by piping system manufacturer, except where other type or material is indicated.
+   15. Solder Filler Metal:
+   16. ASTM B32.
+   17. Alloy Sn95 or Alloy Sn94:
+   18. Tin (approximately 95%) and silver (approximately 5%), having 0.10% lead content.
+   19. Alloy E:
+   20. Tin (approximately 95%) and copper (approximately 5%), having 0.10% maximum lead content.
+   21. Alloy HA:
+   22. Tin-antimony-silver-copper-zinc, having 0.10% maximum lead content.
+   23. Alloy HB:
+   24. Tin-antimony-silver-copper-nickel, having 0.10% maximum lead content.
+   25. Alloy Sb5:
+   26. Tin (95%) and antimony (5%), having 0.20% maximum lead content.
+   27. Brazing Filler Metals:
+   28. AWS A5.8.
+   29. BCuP Series:
+   30. Copper-phosphorous alloys.
+   31. BAgl:
+   32. Silver alloy.
+   33. Welding Filler Metals:
+   34. Comply with AWS D10.12 for welding materials appropriate for wall thickness and chemical analysis of steel pipe being welded.
+   35. Flanged, Ductile-Iron Pipe Gasket, Bolts, and Nuts:
+   36. AWWA C110, rubber gasket, carbon steel bolts and nuts.
+   37. Couplings:
+   38. Iron body sleeve assembly, fabricated to match outside diameters of plain-end, pressure pipes.
+   39. Sleeve:
+   40. ASTM A126, Class B, gray iron.
+   41. Followers:
+   42. ASTM A47, Grade 32510 or ASTM A536 ductile iron.
+   43. Gaskets:
+   44. Rubber.
+   45. Bolts and Nuts:
+   46. AWWA C111.
+   47. Finish:
+   48. Enamel paint.
+   49. Piping Specialties:
+   50. Dielectric Fittings:
+   51. Assembly or fitting having insulating material isolating joined dissimilar metals, to prevent galvanic action and stop corrosion.
+   52. Description:
+   53. Combination of copper alloy and ferrous; threaded, solder, plain, and weld neck end types and matching piping system materials.
+   54. Insulating Material:
+   55. Suitable for system fluid, pressure, and temperature.
+   56. Dielectric Unions:
+   57. Factory-fabricated, union assembly, for 250 psig minimum working pressure at 180°F temperature.
+   58. Dielectric Flanges:
+   59. Factory-fabricated, companion-flange assembly, for 150 or 300 psig minimum pressure to suit system pressures.
+   60. Dielectric-Flange Insulation Kits:
+   61. Field-assembled, companion-flange assembly, full-face or ring type. Components include neoprene or phenolic gasket, phenolic or polyethylene bolt sleeves, phenolic washers, and steel backing washers.
+   62. Provide separate companion flanges and steel bolts and nuts for 150- or 300-psig minimum working pressure to suit system pressures.
+   63. Dielectric Couplings:
+   64. Galvanized steel coupling, having inert and noncorrosive, thermoplastic lining, with threaded ends and 300-psig minimum working pressure at 225°F temperature.
+   65. Dielectric Nipples:
+   66. Electroplated steel nipple, having inert and noncorrosive, thermoplastic lining, with combination of plain, threaded, or grooved end types and 300-psig working pressure at 225oF temperature.
+   67. Mechanical Sleeve Seals:
+   68. Modular, watertight, mechanical type. Components include interlocking synthetic rubber links shaped to continuously fill annular space between pipe and sleeve. Connecting bolts and pressure plates cause rubber sealing elements to expand when tightened.
+   69. Sleeves:
+   70. The following materials are for wall, floor, slab, and roof penetrations:
+   71. Steel Pipe:
+   72. ASTM A53, Type E, Grade A, Schedule 40, galvanized, plain ends.
+   73. Wall Penetration Systems:
+   74. Wall sleeve assembly, consisting of housing, gaskets, and pipe sleeve, with one mechanical joint end conforming to AWWA C110 and one plain pipe sleeve end.
+   75. Penetrating Pipe Deflection:
+   76. 5% without leakage.
+   77. Housing:
+   78. Ductile-iron casting having water stop and anchor ring, with ductile-iron gland, steel studs and nuts, and rubber gasket conforming to AWWA C111, of housing and gasket size as required to fit penetrating pipe.
+   79. Pipe Sleeve:
+   80. AWWA C151, ductile-iron pipe.
+   81. Housing-to-Sleeve Gasket:
+   82. Rubber or neoprene, push-on type, of manufacturer's design.
+   83. Cast-Iron Sleeve Fittings:
+   84. Commercially made sleeve having integral clamping flange, with clamping ring, bolts, and nuts for membrane flashing.
+   85. Escutcheons
+   86. Description:
+   87. Manufactured wall and ceiling escutcheons and floor plates, with an ID to closely fit around pipe, tube, and insulation of insulated piping and an OD that completely covers opening.
+   88. One Piece, Deep-Pattern Type:
+   89. Deep-drawn, box shaped brass with polished chrome plated finish.
+   90. One-Piece, Cast-Brass Type:
+   91. With set screw or Split-Casting, Cast-Brass-Type:
+   92. With concealed hinge and set screw. Finish:
+   93. Polished chrome plated.
+   94. Split-Casting, Cast-Brass Type:
+   95. With concealed hinge and set screw. Finish:
+   96. Polished chrome plated.
+   97. One-Piece, Floor-Plate Type:
+   98. Cast-iron floor plate.
+   99. Split-Casting, Floor-Plate Type:
+   100. Cast brass with concealed hinge and set screw.
+   101. Grout:
+   102. Nonshrink, Nonmetallic Grout:
+   103. ASTM C1107, Grade B.
+   104. Characteristics:
+   105. Post-hardening, volume-adjusting, dry, hydraulic-cement grout, nonstaining, noncorrosive, nongaseous, and recommended for interior and exterior applications.
+   106. Design Mix:
+   107. 5000 psi, 28-day compressive strength.
 2. ELECTRIC MOTORS
    1. General:
       1. All motors (except as noted) shall conform to the following specifications:
@@ -253,52 +252,52 @@ tags: ['Facility', 'Services', 'Plumbing', 'Common', 'Work', 'Results']
    8. General purpose NEMA MG 1, Design B, except “C” where required for high starting torque, medium induction motor.
    9. NEMA Premium Efficiency, as defined in NEMA MG 1 when available, otherwise energy efficient.
    10. Service Factor:
-      1.15.
+       1.15.
    11. Multi-speed Motors:
-      1. Separate winding for each speed.
-   12. Rotor:
-      2. Random-wound, copper windings, squirrel cage.
-   13. Bearings:
-      3. Regreasable, shielded, antifriction ball bearings suitable for radial and thrust loading, minimum 40,000 hour L 10 life.
-   14. Sleeve type bearings are permitted for fractional horsepower and light-duty motors.
-   15. Code Letter Designation:
-      4. Motors 15 hp and Larger:
-         1. NEMA starting Code F or Code G.
-   16. Motors Smaller than 15 hp:
-      5. Manufacturer’s standard starting characteristic.
-   17. Enclosure
-   18. Material:
-      6. Cast iron for motor frame sizes 324T and larger; rolled steel for motor frame sizes smaller than 324T.
-   19. Open drip-proof motors for indoor use where satisfactorily housed and properly ventilated during operation.
-   20. Weather protected Type I for outdoor use when enclosed or housed with adequate ventilation, or TEFC when exposed to weather or moist locations.
-   21. Special enclosures required for hazardous areas (explosion-proof, etc.) per equipment schedules. Explosion-proof motors shall be UL listed.
-   22. Motor Selection Criteria:
-      7. Motor size shall be large enough so that the driven load will not require the motor to operate above 80% of its rated horsepower. Minimum horsepower ratings are shown or scheduled on the drawings.
-   23. Pump motors shall be “non-overloading”; i.e. shall not operate in service factor at any point on pump curve.
-   24. Polyphase Motors with Additional Requirements:
-      8. Motors Used with Reduced-Voltage and Multi-speed Controllers:
-         1. Match wiring connection requirements for controller with required motor leads. Provide terminals in motor terminal box, suited to control method.
-   25. Motors Used with Variable Frequency Controllers:
-      9. Ratings, characteristics, and features coordinated with and approved by controller manufacturer.
-   26. Windings:
-      10. Copper magnet wire with moisture-resistant insulation varnish, designed and tested to resist transient spikes, high frequencies, and short time rise pulses produced by pulse-width modulated inverters.
-   27. Energy- and Premium-Efficient Motors:
-      11. Class B temperature rise; Class F insulation.
-   28. Inverter-Duty Motors:
-      12. Class F temperature rise; Class H insulation.
-   29. Thermal Protection:
-      13. Comply with NEMA MG 1 requirements for thermally protected motors.
-   30. Single Phase Motors:
-      14. 
-   31. Motors shall be one of the following, to suit starting torque and requirements of specific motor application:
-      15. Permanent-split capacitor.
-   32. Spilt phase.
-   33. Multi-speed Motors:
-      16. Variable-torque, permanent-split-capacitor type.
-   34. Bearings:
-      17. Pre-lubricated, antifriction ball bearings or sleeve bearings suitable for radial and thrust loading.
-   35. Thermal Protection:
-      18. Internal protection to automatically open power supply circuit to motor when winding temperature exceeds a safe value calibrated to temperature rating of motor insulation. Thermal-protection device shall automatically reset when motor temperature returns to normal range.
+   12. Separate winding for each speed.
+   13. Rotor:
+   14. Random-wound, copper windings, squirrel cage.
+   15. Bearings:
+   16. Regreasable, shielded, antifriction ball bearings suitable for radial and thrust loading, minimum 40,000 hour L 10 life.
+   17. Sleeve type bearings are permitted for fractional horsepower and light-duty motors.
+   18. Code Letter Designation:
+   19. Motors 15 hp and Larger:
+       1. NEMA starting Code F or Code G.
+   20. Motors Smaller than 15 hp:
+   21. Manufacturer’s standard starting characteristic.
+   22. Enclosure
+   23. Material:
+   24. Cast iron for motor frame sizes 324T and larger; rolled steel for motor frame sizes smaller than 324T.
+   25. Open drip-proof motors for indoor use where satisfactorily housed and properly ventilated during operation.
+   26. Weather protected Type I for outdoor use when enclosed or housed with adequate ventilation, or TEFC when exposed to weather or moist locations.
+   27. Special enclosures required for hazardous areas (explosion-proof, etc.) per equipment schedules. Explosion-proof motors shall be UL listed.
+   28. Motor Selection Criteria:
+   29. Motor size shall be large enough so that the driven load will not require the motor to operate above 80% of its rated horsepower. Minimum horsepower ratings are shown or scheduled on the drawings.
+   30. Pump motors shall be “non-overloading”; i.e. shall not operate in service factor at any point on pump curve.
+   31. Polyphase Motors with Additional Requirements:
+   32. Motors Used with Reduced-Voltage and Multi-speed Controllers:
+       1. Match wiring connection requirements for controller with required motor leads. Provide terminals in motor terminal box, suited to control method.
+   33. Motors Used with Variable Frequency Controllers:
+   34. Ratings, characteristics, and features coordinated with and approved by controller manufacturer.
+   35. Windings:
+   36. Copper magnet wire with moisture-resistant insulation varnish, designed and tested to resist transient spikes, high frequencies, and short time rise pulses produced by pulse-width modulated inverters.
+   37. Energy- and Premium-Efficient Motors:
+   38. Class B temperature rise; Class F insulation.
+   39. Inverter-Duty Motors:
+   40. Class F temperature rise; Class H insulation.
+   41. Thermal Protection:
+   42. Comply with NEMA MG 1 requirements for thermally protected motors.
+   43. Single Phase Motors:
+   44.
+   45. Motors shall be one of the following, to suit starting torque and requirements of specific motor application:
+   46. Permanent-split capacitor.
+   47. Spilt phase.
+   48. Multi-speed Motors:
+   49. Variable-torque, permanent-split-capacitor type.
+   50. Bearings:
+   51. Pre-lubricated, antifriction ball bearings or sleeve bearings suitable for radial and thrust loading.
+   52. Thermal Protection:
+   53. Internal protection to automatically open power supply circuit to motor when winding temperature exceeds a safe value calibrated to temperature rating of motor insulation. Thermal-protection device shall automatically reset when motor temperature returns to normal range.
 3. POWER FACTOR CORRECTION
    1. 1. Capacitors shall be installed on all motors 25 hp and larger that have an uncorrected power factor of less than 90% at rated load. KVAR size shall be as required to correct motor power factor to 95% lagging.
    2. Capacitors shall have:
@@ -309,10 +308,9 @@ tags: ['Facility', 'Services', 'Plumbing', 'Common', 'Work', 'Results']
    6. Aluminum foil electrodes
    7. Each capacitor shall be internally fused.
 4. MOTOR CONTROLLER
-   1. General Motor Controller Characteristics:
-      1. Single speed and multi-speed motor controllers shall be combination type [full NEMA rated] [IEC][NEMA-Equivalent] starters with [motor circuit protector][fused or non fused][disconnect switch] for all motors provided.
-*Exception: Starters that are shown to be provided integral within packaged equipment, control panels with door mounted disconnects or in motor control centers*
-   1. All combination starters shall be adequately braced for the fault current available. [42,000 AIC  480V, three-phase and 65,000 AIC  208V, three-phase shall be the minimum ratings.] All starters, whether separately furnished or integral with equipment, shall comply with the following:
+   1. General Motor Controller Characteristics: 1. Single speed and multi-speed motor controllers shall be combination type [full NEMA rated] [IEC][NEMA-Equivalent] starters with [motor circuit protector][fused or non fused][disconnect switch] for all motors provided.
+      _Exception: Starters that are shown to be provided integral within packaged equipment, control panels with door mounted disconnects or in motor control centers_
+   1. All combination starters shall be adequately braced for the fault current available. [42,000 AIC 480V, three-phase and 65,000 AIC 208V, three-phase shall be the minimum ratings.] All starters, whether separately furnished or integral with equipment, shall comply with the following:
       1. Enclosures:
          1. NEMA Type 1, general purpose enclosures with padlock ears, except in wet locations shall be NEMA Type 3R with conduit hubs, or units in hazardous locations that shall have NEC proper class and division explosion proof enclosure.
    1. All starters for three-phase motors shall be magnetic complete with the following accessories.
@@ -325,10 +323,10 @@ tags: ['Facility', 'Services', 'Plumbing', 'Common', 'Work', 'Results']
    1. High-to low-speed compelling time delay relay for two-speed starters.
    1. Auxiliary contacts, one normally open and one normally closed minimum.
    1. “Run” pilot light.
-1. IDENTIFICATION
+5. IDENTIFICATION
    1. Equipment Labels:
       1. Metal Labels for Equipment:
-            1. Material and Thickness:
+         1. Material and Thickness:
       2. Brass, 0.032-inch minimum thickness, and having predrilled or stamped holes for attachment hardware.
    2. Minimum Label Size:
       1. Length and width vary for required label content, but not less than 2-1/2 by 3/4 inch.
@@ -348,145 +346,145 @@ tags: ['Facility', 'Services', 'Plumbing', 'Common', 'Work', 'Results']
    9. Maximum Temperature:
       1. Able to withstand temperatures up to 160 ºF.
    10. Minimum Label Size:
-      2. Length and width vary for required label content, but not less than 2-1/2 by 3/4 inch.
-   11. Minimum Letter Size:
-      3. 1/4 inch for name of units if viewing distance is less than 24 inches, 1/2 inch for viewing distances up to 72 inches, and proportionately larger lettering for greater viewing distances. Include secondary lettering two-thirds to three-fourths the size of principal lettering.
-   12. Fasteners:
-      4. Stainless-steel rivets or self-tapping screws.
-   13. Adhesive:
-      5. Contract-type permanent adhesive, compatible with label and with substrate.
-   14. Label Content:
-      6. Include equipment’s unique equipment number, Drawings numbers where equipment is indicated (plan, details, and schedules).
-   15. Equipment Label Schedule:
-      7. For each item of equipment to be labeled, on 8-1/2-by-11-inch (A4) bond paper. Tabulate equipment identification number and identify Drawing numbers where equipment is indicated (plans, details, and schedules), plus the specification section number and title where equipment is specified. Equipment schedule shall be included in operation and maintenance data.
-   16. Pipe Labels:
-   17. General Requirements for Manufactured Pipe Labels:
-         1. Preprinted, color-coded, with lettering indicating service, and showing flow direction.
-   18. Pre-tensioned Pipe Labels:
-      8. Pre-coiled, semi-rigid plastic formed to cover full circumference of pipe and t attach to pipe without fasteners or adhesive.
-   19. Self-Adhesive Pipe Labels:
-      9. Printed plastic with contact-type, permanent-adhesive backing.
-   20. Pipe Label Contents:
-      10. Include identification of piping service using same designations or abbreviations as used on Drawings, pipe size, and an arrow indicating flow direction.
-   21. Flow-Direction Arrows:
-      11. Integral with piping system service lettering to accommodate both directions, or as separate unit on each pipe label to indicate flow direction.
-   22. Lettering Size:
-      12. At least 1-1/2 inches high.
-   23. Stencils:
-      13. Stencils:
-         1. Prepare with letter sizes according to ASME A 13.1 for piping; minimum letter height of 2 inches for equipment labels, and similar operational instructions.
-   24. Stencil Material:
-      14. Fiberboard or metal.
-   25. Stencil Paint:
-      15. Exterior, gloss enamel black unless otherwise indicated. Paint may be in pressurized spray-can form.
-   26. Identification Paint:
-      16. Exterior enamel in colors according to ASME A13.1 unless otherwise indicated.
-   27. Valve Tags:
-      17. Valve Tags:
-         1. Stamped or engraved with 1/4-inch letters for piping system abbreviation and 1/2-inch numbers.
-   28. Tag Materials:
-      18. Brass, 0.032-inch minimum thickness, and having pre-drilled or stamped holes for attachment hardware.
-   29. Valve Schedules:
-      19. For each piping system, on 8-/2-by-11-inch bond paper. Tabulate valve number, piping system, system abbreviation (as shown on valve tag), location of valve (room or space), normal-operating position (open or closed), and variations for identification. Mark valves for emergency shutoff and similar special uses.
-   30. Valve tag schedule shall be included in operation and maintenance data.
+   11. Length and width vary for required label content, but not less than 2-1/2 by 3/4 inch.
+   12. Minimum Letter Size:
+   13. 1/4 inch for name of units if viewing distance is less than 24 inches, 1/2 inch for viewing distances up to 72 inches, and proportionately larger lettering for greater viewing distances. Include secondary lettering two-thirds to three-fourths the size of principal lettering.
+   14. Fasteners:
+   15. Stainless-steel rivets or self-tapping screws.
+   16. Adhesive:
+   17. Contract-type permanent adhesive, compatible with label and with substrate.
+   18. Label Content:
+   19. Include equipment’s unique equipment number, Drawings numbers where equipment is indicated (plan, details, and schedules).
+   20. Equipment Label Schedule:
+   21. For each item of equipment to be labeled, on 8-1/2-by-11-inch (A4) bond paper. Tabulate equipment identification number and identify Drawing numbers where equipment is indicated (plans, details, and schedules), plus the specification section number and title where equipment is specified. Equipment schedule shall be included in operation and maintenance data.
+   22. Pipe Labels:
+   23. General Requirements for Manufactured Pipe Labels:
+       1. Preprinted, color-coded, with lettering indicating service, and showing flow direction.
+   24. Pre-tensioned Pipe Labels:
+   25. Pre-coiled, semi-rigid plastic formed to cover full circumference of pipe and t attach to pipe without fasteners or adhesive.
+   26. Self-Adhesive Pipe Labels:
+   27. Printed plastic with contact-type, permanent-adhesive backing.
+   28. Pipe Label Contents:
+   29. Include identification of piping service using same designations or abbreviations as used on Drawings, pipe size, and an arrow indicating flow direction.
+   30. Flow-Direction Arrows:
+   31. Integral with piping system service lettering to accommodate both directions, or as separate unit on each pipe label to indicate flow direction.
+   32. Lettering Size:
+   33. At least 1-1/2 inches high.
+   34. Stencils:
+   35. Stencils:
+   36. Prepare with letter sizes according to ASME A 13.1 for piping; minimum letter height of 2 inches for equipment labels, and similar operational instructions.
+   37. Stencil Material:
+   38. Fiberboard or metal.
+   39. Stencil Paint:
+   40. Exterior, gloss enamel black unless otherwise indicated. Paint may be in pressurized spray-can form.
+   41. Identification Paint:
+   42. Exterior enamel in colors according to ASME A13.1 unless otherwise indicated.
+   43. Valve Tags:
+   44. Valve Tags:
+   45. Stamped or engraved with 1/4-inch letters for piping system abbreviation and 1/2-inch numbers.
+   46. Tag Materials:
+   47. Brass, 0.032-inch minimum thickness, and having pre-drilled or stamped holes for attachment hardware.
+   48. Valve Schedules:
+   49. For each piping system, on 8-/2-by-11-inch bond paper. Tabulate valve number, piping system, system abbreviation (as shown on valve tag), location of valve (room or space), normal-operating position (open or closed), and variations for identification. Mark valves for emergency shutoff and similar special uses.
+   50. Valve tag schedule shall be included in operation and maintenance data.
 
 ## Execution
 
 1. ERECTION INSTALLATION APPLICATION
    1. Piping Systems - Common Requirements:
-	1. General:
-         1. Install piping as described below, except where system sections specify otherwise. Individual piping system specification sections in Division 22 specify piping installation requirements unique to the piping system.
+   1. General:
+      1. Install piping as described below, except where system sections specify otherwise. Individual piping system specification sections in Division 22 specify piping installation requirements unique to the piping system.
    1. General Locations and Arrangements:
       1. Drawings (plans, schematics, and diagrams) indicate general location and arrangement of piping systems. Indicated locations and arrangements were used to size pipe and calculate friction loss, expansion, pump sizing, and other design considerations. Install piping as indicated, except where deviations to layout are approved on coordination drawings.
-   2. Install piping at indicated slope.
-   3. Install components having pressure rating equal to or greater than system operating pressure.
-   4. Install piping in concealed interior and exterior locations, except in equipment rooms and service areas.
-   5. Install piping free of sags and bends.
-   6. Install exposed interior and exterior piping at right angles or parallel to building walls. Diagonal runs are prohibited, except where indicated.
-   7. Install piping tight to slabs, beams, joists, columns, walls, and other building elements. Allow sufficient space above removable ceiling panels to allow for ceiling panel removal.
-   8. Install piping to allow application of insulation plus 1-inch clearance around insulation.
-   9. Locate groups of pipes parallel to each other, spaced to permit valve servicing.
-   10. Install fittings for changes in direction and branch connections.
-   11. Escutcheons:
-      1. Where uncovered exposed pipes pass through floors, finished walls, or finished ceilings, they shall be fitted with chromium-plated cast-brass plates on chromium-plated pipe, or with cast-iron or steel plates on ferrous pipe. Plates shall be large enough to completely close the holes around the pipes and shall be square, octangular, or round, with the least dimension not less than 1-1/2 inches or more than 2-1/2 inches larger than the diameter of the pipe. Plates shall be secured in an approved manner.
-   12. Install sleeves for pipes passing through concrete and masonry walls, concrete floor and roof slabs, and where indicated.
-   13. Above Grade, Exterior Wall, and Pipe Penetrations:
-      2. Seal penetrations using sleeves and mechanical sleeve seals. Size sleeve for 1-inch annular clear space between pipe and sleeve for installation of mechanical seals.
-   14. Install steel pipe for sleeves smaller than 6 inches.
-   15. Install cast-iron wall pipes for sleeves 6 inches and larger.
-   16. Assemble and install mechanical seals according to manufacturer's printed instructions.
-   17. Below Grade, Exterior Wall, and Pipe Penetrations:
-      3. Install cast-iron "wall pipes" for sleeves. Seal pipe penetrations using mechanical sleeve seals. Size sleeve for 1-inch annular clear space between pipe and sleeve for installation of mechanical seals.
-   18. Below Grade, Exterior Wall, and Pipe Penetrations:
-      4. Install ductile-iron wall penetration system sleeves according to manufacturer's printed installation instructions.
-   19. Verify final equipment locations for roughing in.
-   20. Refer to equipment specifications in other sections of these specifications for roughing-in requirements.
-   21. Piping Joint Construction:
-      5. Join pipe and fittings as follows and as specifically required in individual piping system specification sections.
-   22. Ream ends of pipes and tubes and remove burrs. Bevel plain ends of steel pipe.
-   23. Remove scale, slag, dirt, and debris from inside and outside of pipe and fittings before assembly.
-   24. Soldered Joints:
-      6. Construct joints according to AWS "Soldering Manual."
-   25. Brazed Joints:
-      7. Construct joints according to AWS "Brazing Manual."
-   26. Threaded Joints:
-      8. Thread pipe with tapered pipe threads according to ASME B1.20.1.
-   27. Flanged Joints:
-      9. Align flange surfaces parallel. Select appropriate gasket material, size, type, and thickness for service application. Install gasket concentrically positioned. Assemble joints by sequencing bolt tightening to make initial contact of flanges and gaskets as flat and parallel as possible. Use suitable lubricants on bolt threads. Tighten bolts gradually and uniformly using torque wrench.
-   28. Piping Connections:
-      10. Except as otherwise indicated, make piping connections as specified below.
-   29. Install unions, in piping 2 inches and smaller, adjacent to each valve and at final connection to each piece of equipment having 2-inches or smaller threaded pipe connection.
-   30. Install flanges, in piping 2-1/2 inches and larger, adjacent to flanged valves and at final connection to each piece of equipment having flanged pipe connection.
-   31. Dry Piping Systems (Gas, Compressed Air, and Vacuum):
-      11. Install dielectric unions and flanges to connect piping materials of dissimilar metals.
-   32. Wet Piping Systems (Water and Steam):
-      12. Install dielectric coupling and nipple fittings to connect piping materials of dissimilar metals.
-   33. Equipment Installation - Common Requirements:
-      13. Install equipment to provide the maximum possible head room, where mounting heights are not indicated.
-   34. Install equipment according to approved submittal data. Portions of the Work are shown only in diagrammatic form. Refer conflicts to the Owner.
-   35. Install equipment level and plumb, parallel and perpendicular to other building systems and components in exposed interior spaces, except where otherwise indicated.
-   36. Install plumbing equipment to facilitate servicing, maintenance, and repair or replacement of equipment components. Connect equipment for ease of disconnecting, with minimum of interference with other installations. Extend grease fittings to an accessible location.
-   37. Install equipment giving right-of-way to piping systems installed at a required slope.
-   38. Shaft Alignment:
-      14. All motors and pumps (or drives) connected by a shaft coupling, whether factory or field assembled, shall be aligned during installation using a dial indicator applied to both ends of both shafts for a full 360 degrees prior to operation. Alignment of the shafts shall be less than the maximum allowable tolerances as recommended by the coupling or equipment manufacturer. Alignment of shafts shall be rechecked after several hours of operation and equipment has reached operating temperature.
-   39. Painting and Finishing:
-      15. Field painting requirements are specified in Division 09.
-   40. Damage and Touch-Up:
-      16. Repair marred and damaged factory-painted finishes with materials and procedures to match original factory finish.
-   41. Identification Tags and Labels:
-      17. Materials:
-            1. Pipe Labels:
-               1. Pipe labels shall be self-adhesive labels, all temperature Perma-Code pipe markers No. B-500, manufactured by the W. H. Brady Company. The background color code for all markers shall conform to the American National Standard ANSI A-13.1 "Scheme for the Identification of Piping Systems." This standard establishes four basic backgrounds as follows:
-      18. Yellow for dangerous materials, bright blue for protective materials, red for fire protection equipment, and green for safe materials.
-   42. Tags:
-      19. Tags shall be aluminum, brass or laminated plastic 2" x 1" minimum with edges ground smooth or rolled. Each tag shall be punched to receive tie wires or chain. Letters and Numbers shall be evenly spaced and stamped or engraved into the surface.
-   43. Installation:
-      20. Identification of Piping:
-            1. Identify all piping according to the following procedures:
-         1. Bare pipes to be marked shall first be wiped clean of dirt, dust, grease, and moisture. Markers to be installed on painted piping shall be applied only after completion of final coat of paint. Insulated pipes shall first be painted to a smooth, hard surface in the area the label is to be applied. Labels shall be applied, using pressure, so that it lies smooth and flat. After application on insulated pipes, the label shall be stapled securely to the insulation. The labels shall be applied to the pipe so that the lettering is in the most legible position. For overhead piping apply markers on the lower half of the pipe where view is unobstructed, so that markers can be read at a glance from floor level. The wording on the labels shall correspond directly to the wording in the mechanical symbol lists, regardless of whether or not it is standard wording for the designated manufacturer.
-   44. Use an arrow marker with each pipe content marker. The arrow shall always point away from the pipe marker and in the direction of flow, with background color and height the same as content marker. If flow can be in both directions, use two arrow markers.
-   45. Apply pipe marker and arrow marker at each valve, at every point of pipe entry or exit through wall or ceiling, on each riser and branch of tee, and every 20 feet on long continuous lines or at every bay or aisle to show proper identification of pipe content and direction of flow.
-   46. Valves:
-      21. All main service valves, including fire protection, located inside the building shall be tagged and identified as to the type of service. All valves controlling branch mains or risers to various portions of the building shall be tagged and identified as to the areas served.
-   47. Controls:
-      22. All automatic controls, control panels, zone valves, pressure electric, electric pressure switches, relays and starters shall be clearly tagged and identified. Wording shall be identical to that on the control diagram in the contract drawings.
-   48. Pumps:
-      23. All pumps shall be identified as to service with aluminum or brass tags secured by tie wires.
-   49. Concrete Bases:
-      24. Construct concrete equipment bases of dimensions indicated, but not less than 4 inches larger in both directions than supported unit. Follow supported equipment manufacturer's setting templates for anchor bolt and tie locations. Use 3000 psi, 28-day compressive strength concrete and reinforcement as specified in Division 3. Housekeeping pads under pumps, etc., shall be 3-1/2A inches thick with #4 reinforcing bars 12 inches on center each way unless otherwise noted.
-   50. Erection of Metal Supports and Anchorage:
-      25. Cut, fit, and place miscellaneous metal supports accurately in location, alignment, and elevation to support and anchor mechanical materials and equipment.
-   51. Field Welding:
-      26. Comply with AWS D1.1 "Structural Welding Code - Steel."
-   52. Cutting and Patching:
-      27. Cut, channel, chase, and drill floors, walls, partitions, ceilings, and other surfaces necessary for plumbing installations. Perform cutting by skilled mechanics of the trades involved.
-   53. Repair cut surfaces to match adjacent surfaces.
-   54. Grouting:
-      28. Install nonmetallic, nonshrink grout for plumbing equipment base bearing surfaces, pump and other equipment base plates and anchors. Mix grout according to manufacturer's printed instructions.
-   55. Clean surfaces that will come into contact with grout.
-   56. Provide forms for placement of grout, as required.
-   57. Avoid air entrapment when placing grout.
-   58. Place grout, completely filling equipment bases.
-   59. Place grout on concrete bases to provide a smooth bearing surface for equipment.
-   60. Place grout around anchors.
-   61. Cure placed grout according to manufacturer's printed instructions.
+   1. Install piping at indicated slope.
+   1. Install components having pressure rating equal to or greater than system operating pressure.
+   1. Install piping in concealed interior and exterior locations, except in equipment rooms and service areas.
+   1. Install piping free of sags and bends.
+   1. Install exposed interior and exterior piping at right angles or parallel to building walls. Diagonal runs are prohibited, except where indicated.
+   1. Install piping tight to slabs, beams, joists, columns, walls, and other building elements. Allow sufficient space above removable ceiling panels to allow for ceiling panel removal.
+   1. Install piping to allow application of insulation plus 1-inch clearance around insulation.
+   1. Locate groups of pipes parallel to each other, spaced to permit valve servicing.
+   1. Install fittings for changes in direction and branch connections.
+   1. Escutcheons:
+   1. Where uncovered exposed pipes pass through floors, finished walls, or finished ceilings, they shall be fitted with chromium-plated cast-brass plates on chromium-plated pipe, or with cast-iron or steel plates on ferrous pipe. Plates shall be large enough to completely close the holes around the pipes and shall be square, octangular, or round, with the least dimension not less than 1-1/2 inches or more than 2-1/2 inches larger than the diameter of the pipe. Plates shall be secured in an approved manner.
+   1. Install sleeves for pipes passing through concrete and masonry walls, concrete floor and roof slabs, and where indicated.
+   1. Above Grade, Exterior Wall, and Pipe Penetrations:
+   1. Seal penetrations using sleeves and mechanical sleeve seals. Size sleeve for 1-inch annular clear space between pipe and sleeve for installation of mechanical seals.
+   1. Install steel pipe for sleeves smaller than 6 inches.
+   1. Install cast-iron wall pipes for sleeves 6 inches and larger.
+   1. Assemble and install mechanical seals according to manufacturer's printed instructions.
+   1. Below Grade, Exterior Wall, and Pipe Penetrations:
+   1. Install cast-iron "wall pipes" for sleeves. Seal pipe penetrations using mechanical sleeve seals. Size sleeve for 1-inch annular clear space between pipe and sleeve for installation of mechanical seals.
+   1. Below Grade, Exterior Wall, and Pipe Penetrations:
+   1. Install ductile-iron wall penetration system sleeves according to manufacturer's printed installation instructions.
+   1. Verify final equipment locations for roughing in.
+   1. Refer to equipment specifications in other sections of these specifications for roughing-in requirements.
+   1. Piping Joint Construction:
+   1. Join pipe and fittings as follows and as specifically required in individual piping system specification sections.
+   1. Ream ends of pipes and tubes and remove burrs. Bevel plain ends of steel pipe.
+   1. Remove scale, slag, dirt, and debris from inside and outside of pipe and fittings before assembly.
+   1. Soldered Joints:
+   1. Construct joints according to AWS "Soldering Manual."
+   1. Brazed Joints:
+   1. Construct joints according to AWS "Brazing Manual."
+   1. Threaded Joints:
+   1. Thread pipe with tapered pipe threads according to ASME B1.20.1.
+   1. Flanged Joints:
+   1. Align flange surfaces parallel. Select appropriate gasket material, size, type, and thickness for service application. Install gasket concentrically positioned. Assemble joints by sequencing bolt tightening to make initial contact of flanges and gaskets as flat and parallel as possible. Use suitable lubricants on bolt threads. Tighten bolts gradually and uniformly using torque wrench.
+   1. Piping Connections:
+   1. Except as otherwise indicated, make piping connections as specified below.
+   1. Install unions, in piping 2 inches and smaller, adjacent to each valve and at final connection to each piece of equipment having 2-inches or smaller threaded pipe connection.
+   1. Install flanges, in piping 2-1/2 inches and larger, adjacent to flanged valves and at final connection to each piece of equipment having flanged pipe connection.
+   1. Dry Piping Systems (Gas, Compressed Air, and Vacuum):
+   1. Install dielectric unions and flanges to connect piping materials of dissimilar metals.
+   1. Wet Piping Systems (Water and Steam):
+   1. Install dielectric coupling and nipple fittings to connect piping materials of dissimilar metals.
+   1. Equipment Installation - Common Requirements:
+   1. Install equipment to provide the maximum possible head room, where mounting heights are not indicated.
+   1. Install equipment according to approved submittal data. Portions of the Work are shown only in diagrammatic form. Refer conflicts to the Owner.
+   1. Install equipment level and plumb, parallel and perpendicular to other building systems and components in exposed interior spaces, except where otherwise indicated.
+   1. Install plumbing equipment to facilitate servicing, maintenance, and repair or replacement of equipment components. Connect equipment for ease of disconnecting, with minimum of interference with other installations. Extend grease fittings to an accessible location.
+   1. Install equipment giving right-of-way to piping systems installed at a required slope.
+   1. Shaft Alignment:
+   1. All motors and pumps (or drives) connected by a shaft coupling, whether factory or field assembled, shall be aligned during installation using a dial indicator applied to both ends of both shafts for a full 360 degrees prior to operation. Alignment of the shafts shall be less than the maximum allowable tolerances as recommended by the coupling or equipment manufacturer. Alignment of shafts shall be rechecked after several hours of operation and equipment has reached operating temperature.
+   1. Painting and Finishing:
+   1. Field painting requirements are specified in Division 09.
+   1. Damage and Touch-Up:
+   1. Repair marred and damaged factory-painted finishes with materials and procedures to match original factory finish.
+   1. Identification Tags and Labels:
+   1. Materials:
+      1. Pipe Labels:
+         1. Pipe labels shall be self-adhesive labels, all temperature Perma-Code pipe markers No. B-500, manufactured by the W. H. Brady Company. The background color code for all markers shall conform to the American National Standard ANSI A-13.1 "Scheme for the Identification of Piping Systems." This standard establishes four basic backgrounds as follows:
+   1. Yellow for dangerous materials, bright blue for protective materials, red for fire protection equipment, and green for safe materials.
+   1. Tags:
+   1. Tags shall be aluminum, brass or laminated plastic 2" x 1" minimum with edges ground smooth or rolled. Each tag shall be punched to receive tie wires or chain. Letters and Numbers shall be evenly spaced and stamped or engraved into the surface.
+   1. Installation:
+   1. Identification of Piping:
+      1. Identify all piping according to the following procedures:
+   1. Bare pipes to be marked shall first be wiped clean of dirt, dust, grease, and moisture. Markers to be installed on painted piping shall be applied only after completion of final coat of paint. Insulated pipes shall first be painted to a smooth, hard surface in the area the label is to be applied. Labels shall be applied, using pressure, so that it lies smooth and flat. After application on insulated pipes, the label shall be stapled securely to the insulation. The labels shall be applied to the pipe so that the lettering is in the most legible position. For overhead piping apply markers on the lower half of the pipe where view is unobstructed, so that markers can be read at a glance from floor level. The wording on the labels shall correspond directly to the wording in the mechanical symbol lists, regardless of whether or not it is standard wording for the designated manufacturer.
+   1. Use an arrow marker with each pipe content marker. The arrow shall always point away from the pipe marker and in the direction of flow, with background color and height the same as content marker. If flow can be in both directions, use two arrow markers.
+   1. Apply pipe marker and arrow marker at each valve, at every point of pipe entry or exit through wall or ceiling, on each riser and branch of tee, and every 20 feet on long continuous lines or at every bay or aisle to show proper identification of pipe content and direction of flow.
+   1. Valves:
+   1. All main service valves, including fire protection, located inside the building shall be tagged and identified as to the type of service. All valves controlling branch mains or risers to various portions of the building shall be tagged and identified as to the areas served.
+   1. Controls:
+   1. All automatic controls, control panels, zone valves, pressure electric, electric pressure switches, relays and starters shall be clearly tagged and identified. Wording shall be identical to that on the control diagram in the contract drawings.
+   1. Pumps:
+   1. All pumps shall be identified as to service with aluminum or brass tags secured by tie wires.
+   1. Concrete Bases:
+   1. Construct concrete equipment bases of dimensions indicated, but not less than 4 inches larger in both directions than supported unit. Follow supported equipment manufacturer's setting templates for anchor bolt and tie locations. Use 3000 psi, 28-day compressive strength concrete and reinforcement as specified in Division 3. Housekeeping pads under pumps, etc., shall be 3-1/2A inches thick with #4 reinforcing bars 12 inches on center each way unless otherwise noted.
+   1. Erection of Metal Supports and Anchorage:
+   1. Cut, fit, and place miscellaneous metal supports accurately in location, alignment, and elevation to support and anchor mechanical materials and equipment.
+   1. Field Welding:
+   1. Comply with AWS D1.1 "Structural Welding Code - Steel."
+   1. Cutting and Patching:
+   1. Cut, channel, chase, and drill floors, walls, partitions, ceilings, and other surfaces necessary for plumbing installations. Perform cutting by skilled mechanics of the trades involved.
+   1. Repair cut surfaces to match adjacent surfaces.
+   1. Grouting:
+   1. Install nonmetallic, nonshrink grout for plumbing equipment base bearing surfaces, pump and other equipment base plates and anchors. Mix grout according to manufacturer's printed instructions.
+   1. Clean surfaces that will come into contact with grout.
+   1. Provide forms for placement of grout, as required.
+   1. Avoid air entrapment when placing grout.
+   1. Place grout, completely filling equipment bases.
+   1. Place grout on concrete bases to provide a smooth bearing surface for equipment.
+   1. Place grout around anchors.
+   1. Cure placed grout according to manufacturer's printed instructions.

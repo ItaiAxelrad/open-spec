@@ -4,7 +4,18 @@ section: '079513'
 divNumb: 7
 divName: Thermal and Moisture Protection
 subgroup: Facility Construction
-tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Expansion', 'Joint', 'Cover', 'Assemblies']
+tags:
+  [
+    'Facility',
+    'Construction',
+    'Thermal',
+    'Moisture',
+    'Protection',
+    'Expansion',
+    'Joint',
+    'Cover',
+    'Assemblies',
+  ]
 ---
 
 ## General
@@ -38,72 +49,72 @@ tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Expansi
 
 ## Products
 
-   1. MANUFACTURER:
-      1. MM Systems Corporation, 4520 Elmdale Drive, Tucker, Georgia 30085-0326; 1-800-241-3460 or 770-938-7570.
-   1. Expansion control systems of similar design and construction, as manufactured by other manufacturers, may be submitted for Architect's consideration. Acceptance is subject to compliance with specified design criteria, as evidenced by submittal of specified product data. Submittals shall comply with requirements of Product Options and Substitutions section.
-   1. MATERIALS:
-      1. Aluminum:
-         1. Alloys meeting ASTM B221.
-   1. Extrusions:
-      1. 6063-T5 alloy.
-   1. Plates:
-      1. 6061-T6 alloy.
-   1. Sheet:
-      1. 5052-H32 alloy
-   1. Stainless steel:
-      1. AISI Type 302/304, 2B finish.
-   1. Visual seal:
-      1. System manufacturer's standard elastomeric seal. Color as selected by Architect from manufacturer's standard selection range.
-   1. Filler/gasket:
-      1. Elastomeric. Color shall be as selected by Architect from manufacturer's standard color range. Custom color as selected by Architect.
-   1. Finish for exposed aluminum components:
-      1. Aluminum floor:
-         1. Mill finish.
-   1. Aluminum wall and ceiling:
-      1. 204-R1 is standard on interior wall assemblies.
-   1. Anodized finish:
-      1. 204-R1 clear anodize:
-      1. 0.04-0.07 mil thick anodic coating conforming to AA-M10C22A31.
-   1. FLUSHLINE SYSTEMS:
-      1. Acceptable products:
-            1. HFP2-1 Series at floor/floor conditions.
-   1. EX-L2 Series at wall/corner conditions.
-   1. Material:
-      1. Extruded aluminum frame and continuous filler/gasket.
-   1. HEAVY DUTY ALUMINUM FLOOR COVERS:
-      1. Acceptable products:
-            1. HFP2-1 Series at floor/floor conditions.
-   1. Material:
-      1. Extruded aluminum frame and center plate.
-   1. STANDARD WALL AND CEILING SYSTEMS:
-      1. Acceptable products:
-            1. EX-L2 Series at wall/corner conditions.
-   1. EXTERIOR ALUMINUM AND ELASTOMERIC WALL AND ROOF SYSTEMS:
-      1. Acceptable products:
-         1. VSS Series at wall/wall conditions.
-   1. Characteristics:
-      1. Frame material:
-         1. Extruded aluminum.
-   1. Visual seal:
-      1. Elastoprene Silicone with continuous retainers. Black color.
-   1. Pantograph:
-      1. Stainless steel, spaced as necessary to comply with wind load conditions.
-   1. Weather seal:
-      1. Continuous elastomeric sheet.
-   1. Acceptable product:
-      1. RSS Series at roof/roof conditions.
-   1. RWSS Series at roof/wall conditions.
-   1. Characteristics:
-      1. Frame material:
-         1. Extruded aluminum.
-   1. Bellows:
-      1. Elastoprene; Silicone; black color.
-   1. FABRICATION:
-      1. Factory fabricate expansion joint components to greatest extent practicable. Size of joint components shall be determined by manufacturer, based on minimum and maximum size of joints indicated.
-   1. Fabricate units in single length without intermediate joints where practicable.
-   1. Aluminum protection:
-      1. Treat surfaces in contact with concrete with a factory applied chromate conversion coating for corrosion resistance.
-   1. Apply protective tape for wall expansion joint covers.
+1.  MANUFACTURER:
+    1. MM Systems Corporation, 4520 Elmdale Drive, Tucker, Georgia 30085-0326; 1-800-241-3460 or 770-938-7570.
+1.  Expansion control systems of similar design and construction, as manufactured by other manufacturers, may be submitted for Architect's consideration. Acceptance is subject to compliance with specified design criteria, as evidenced by submittal of specified product data. Submittals shall comply with requirements of Product Options and Substitutions section.
+1.  MATERIALS:
+    1. Aluminum:
+       1. Alloys meeting ASTM B221.
+1.  Extrusions:
+    1. 6063-T5 alloy.
+1.  Plates:
+    1. 6061-T6 alloy.
+1.  Sheet:
+    1. 5052-H32 alloy
+1.  Stainless steel:
+    1. AISI Type 302/304, 2B finish.
+1.  Visual seal:
+    1. System manufacturer's standard elastomeric seal. Color as selected by Architect from manufacturer's standard selection range.
+1.  Filler/gasket:
+    1. Elastomeric. Color shall be as selected by Architect from manufacturer's standard color range. Custom color as selected by Architect.
+1.  Finish for exposed aluminum components:
+    1. Aluminum floor:
+       1. Mill finish.
+1.  Aluminum wall and ceiling:
+    1. 204-R1 is standard on interior wall assemblies.
+1.  Anodized finish:
+    1. 204-R1 clear anodize:
+    1. 0.04-0.07 mil thick anodic coating conforming to AA-M10C22A31.
+1.  FLUSHLINE SYSTEMS:
+    1. Acceptable products:
+       1. HFP2-1 Series at floor/floor conditions.
+1.  EX-L2 Series at wall/corner conditions.
+1.  Material:
+    1. Extruded aluminum frame and continuous filler/gasket.
+1.  HEAVY DUTY ALUMINUM FLOOR COVERS:
+    1. Acceptable products:
+       1. HFP2-1 Series at floor/floor conditions.
+1.  Material:
+    1. Extruded aluminum frame and center plate.
+1.  STANDARD WALL AND CEILING SYSTEMS:
+    1. Acceptable products:
+       1. EX-L2 Series at wall/corner conditions.
+1.  EXTERIOR ALUMINUM AND ELASTOMERIC WALL AND ROOF SYSTEMS:
+    1. Acceptable products:
+       1. VSS Series at wall/wall conditions.
+1.  Characteristics:
+    1. Frame material:
+       1. Extruded aluminum.
+1.  Visual seal:
+    1. Elastoprene Silicone with continuous retainers. Black color.
+1.  Pantograph:
+    1. Stainless steel, spaced as necessary to comply with wind load conditions.
+1.  Weather seal:
+    1. Continuous elastomeric sheet.
+1.  Acceptable product:
+    1. RSS Series at roof/roof conditions.
+1.  RWSS Series at roof/wall conditions.
+1.  Characteristics:
+    1. Frame material:
+       1. Extruded aluminum.
+1.  Bellows:
+    1. Elastoprene; Silicone; black color.
+1.  FABRICATION:
+    1. Factory fabricate expansion joint components to greatest extent practicable. Size of joint components shall be determined by manufacturer, based on minimum and maximum size of joints indicated.
+1.  Fabricate units in single length without intermediate joints where practicable.
+1.  Aluminum protection:
+    1. Treat surfaces in contact with concrete with a factory applied chromate conversion coating for corrosion resistance.
+1.  Apply protective tape for wall expansion joint covers.
 
 ## Execution
 
@@ -113,18 +124,16 @@ tags: ['Facility', 'Construction', 'Thermal', 'Moisture', 'Protection', 'Expansi
 
 ## General
 
-   1. Install systems to the proper width for the ambient temperature at the time of setting.
-   1. Double Seal Assemblies
-   1. Install expansion joint assemblies in accordance with manufacturer's printed instructions and approved Shop Drawings.
-   1. Cut, drill, and fit joint assembly components as required for weathertight installation. Use longest pieces possible of elastomeric materials. At exterior wall joints, miter exterior facing elastomeric material at changes of direction in same plane, and join at internal corners, external corners, changes in direction, and butt joints with sealant and splines and corner angles.
-   1. single seal assemblies
-   1. Roof Joint
-   1. Install joint sections in lengths as long as possible, up to 30 meters (100 feet), without field joints, in accordance with manufacturer's printed instructions, including sealing of flexible flashing cover to roofing and covering or heat welding of joints between sections.
-   1. Wall Joints
-   1. Install metal retainer sections to adjacent construction, in proper alignment and so that completed joint cover will be truly vertical.
-   1. Install gasket in one piece from top of foundation the full height of wall, with mitered corners and weathertight connection to roof joint, in accordance with manufacturer's instructions.
-   1. Apply sealant at perimeter of joint as indicated, in accordance with manufacturer's instructions, including primer for concrete or masonry surfaces.
-   1. Floor Expansion Joints
-   1. Anchor retainers to both sides of joint at 300-mm (12-inch) maximum spacing, using galvanized machine bolts and expansion shields at floor and self-tapping sheet metal screws at stud partitions.
-
-
+1.  Install systems to the proper width for the ambient temperature at the time of setting.
+1.  Double Seal Assemblies
+1.  Install expansion joint assemblies in accordance with manufacturer's printed instructions and approved Shop Drawings.
+1.  Cut, drill, and fit joint assembly components as required for weathertight installation. Use longest pieces possible of elastomeric materials. At exterior wall joints, miter exterior facing elastomeric material at changes of direction in same plane, and join at internal corners, external corners, changes in direction, and butt joints with sealant and splines and corner angles.
+1.  single seal assemblies
+1.  Roof Joint
+1.  Install joint sections in lengths as long as possible, up to 30 meters (100 feet), without field joints, in accordance with manufacturer's printed instructions, including sealing of flexible flashing cover to roofing and covering or heat welding of joints between sections.
+1.  Wall Joints
+1.  Install metal retainer sections to adjacent construction, in proper alignment and so that completed joint cover will be truly vertical.
+1.  Install gasket in one piece from top of foundation the full height of wall, with mitered corners and weathertight connection to roof joint, in accordance with manufacturer's instructions.
+1.  Apply sealant at perimeter of joint as indicated, in accordance with manufacturer's instructions, including primer for concrete or masonry surfaces.
+1.  Floor Expansion Joints
+1.  Anchor retainers to both sides of joint at 300-mm (12-inch) maximum spacing, using galvanized machine bolts and expansion shields at floor and self-tapping sheet metal screws at stud partitions.

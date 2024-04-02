@@ -7,6 +7,4 @@ subgroup: Process Equipment
 tags: ['Process', 'Equipment', 'Water', 'Wastewater']
 ---
 
-   1. Division 46
-   1. Water and Wastewater Equipment
-
+Division 46 - Water and Wastewater Equipment

@@ -30,64 +30,55 @@ tags: ['Facility', 'Construction', 'Concrete', 'Curing']
 
 2. MATERIALS
    1. Use materials and methods for project work as used to produce sample finishes acceptable to Architect.
-2. MATERIAL FOR POLISHED CONCRETE
-   3. Use materials indicated in Section 033000 Cast-In-Place Concrete and the following:
-      1. Cement:
-         1. Portland Cement, Type II, ASTM C150. Cement shall be mixed as specified in Section 03300, Cast-In-Place Concrete except as modified in this Section.
-   4. Fine and Course Aggregates:
+3. MATERIAL FOR POLISHED CONCRETE 3. Use materials indicated in Section 033000 Cast-In-Place Concrete and the following:
+   1. Cement:
+      1. Portland Cement, Type II, ASTM C150. Cement shall be mixed as specified in Section 03300, Cast-In-Place Concrete except as modified in this Section.
+   2. Fine and Course Aggregates:
       1. ASTM C33. Aggregate Mix Design:
       2. #57 Std. (66%=3/4” concrete rock, 33%=1/2” concrete rock). Show conformance with Specification requirements.
-   5. Integral matrix color:
+   3. Integral matrix color:
       1. Bayferrox by QC Products, CC80:
       2. Charcoal Gray (mix at 1lb of CC80 per 94 lb sack of cement).
-6. CONCRETE SEALER
-   7. Concrete Sealer for Polished Concrete interior locations. A clear, highly penetrating sealer to form a tack free barrier against stains from oils, greases, water, acids and chemical discoloration. Sealer shall intensify color of ground aggregates, shall not discolor or amber.
-   8. Manufacturers:
-      1. Subject to compliance with requirements, products that may be incorporated in the work include, but are not limited to the following:
-      1. Penetrating Sealer:
-         1. Key Acrylic Sealer by Key Resin Company or equal.
+4. CONCRETE SEALER 7. Concrete Sealer for Polished Concrete interior locations. A clear, highly penetrating sealer to form a tack free barrier against stains from oils, greases, water, acids and chemical discoloration. Sealer shall intensify color of ground aggregates, shall not discolor or amber. 8. Manufacturers:
+   1. Subject to compliance with requirements, products that may be incorporated in the work include, but are not limited to the following:
+   1. Penetrating Sealer:
+      1. Key Acrylic Sealer by Key Resin Company or equal.
 
 ## Execution
 
-2. CONCRETE MIXING
-   3. Concrete mixing, placing, consolidation and curing shall be as specified in Section 033000 Cast-In-Place Concrete except as modified in this Section.
-4. CONCRETE FINISH SPECIAL
-   5. The areas indicated to receive GC-1, Ground Concrete, finish shall receive a polished concrete finish.
-   6. replacement
-   7. Concrete flatwork areas shall be free of cracks or other separation of materials.
-   8. Areas of concrete with cracks will be removed to nearest control or construction joints and replaced.
-   9. Patching is not permitted.
-10. POLISHED CONCRETE
-      1. Polished concrete is produced by grinding trowel finished cured concrete in a manner similar to that for terrazzo.
-   11. Do not consolidate concrete with the use of tamping. Allow concrete to cure approximately 28 days.
-   12. Preparation:
-      1. Clean concrete of loose foreign matter.
-   13. Cleaner:
-      2. Chemically neutral, liquid cleaner, with Ph factor between 7 and 10, biodegradable and phosphate free that will not stain or otherwise effect color of concrete.
-   14. Remove “fuzzing” of glass fiber reinforced concrete with torch prior to grinding. (Optional)
-   15. Saw cut control joints and accent lines as indicated.
-   16. Clean dust and debris from saw cut joints and fill with approved joint filler.
-   17. Finishing:
-      3. Rough Grinding:
-         1. Grind with 24 or finer grit stones or with comparable #26 diamond plugs to remove surface fines and expose aggregate. Maintain specified concrete flatness.
-   18. Following initial grind with 80 or finer grit stones/grit diamonds.
-   19. Cleanse floor with clean water and rinse. Remove excess rinse water to prevent staining.
-   20. Steel trowel Portland cement grout onto surface to fill all voids, cement grout to match color of concrete, allow to cure overnight.
-   21. Fine Grinding:
-      4. Grind with 80 or finer grit stones and 120 grit diamonds until polished terrazzo-like surface is achieved. Concrete shall show a minimum of 50 percent aggregate.
-   22. Wash all surfaces with neutral cleaner with Ph factor between 7 and 10, biodegradable and phosphate free.
-   23. Rinse with clear water and allow to surface dry. Keep control joints free of dirt and grinding debris at all times.
-   24. Clean dust and debris from concrete control joints and fill with sealant. Refer to Section 07920 – Joint Sealants for proper sealant.
-   25. Seal surface with two coats of approved solvent based acrylic penetrating sealer..
-26. CLEANING, FINISHING AND PROTECTING
-   27. Before sealing, the surfaces shall be inspected and cleaned. Laitance and efflorescence shall be removed where applicable. If cleaner is necessary, the concrete surface shall be wet before application. The cleaner shall not contain muriatic acid, and shall be diluted according to manufacturer’s instructions. The cleaner shall be Sure-Klean #600 by ProSoCo of Kansas City or Quick-Klean by L & M Construction Chemicals, Omaha. Within 5 minutes of application, the surface shall be thoroughly flushed with clean water.
-   28. The sealer shall be applied within one month of finishing the local surface, after patching, cleaning, and sealing. After these local sealer applications are dry, clean water shall be splashed on these local surfaces. If the water does not bead, but is absorbed, the surface shall be resealed.
-   29. No surfaces, which are to receive joint sealants, shall have sealer applied in advance of sealant application. This specification may be waived if the concrete is cleaned and primed according to the techniques of the sealant manufacturer.
-   30. Apply hard surface seal and liquid finish floor to cleaned ground concrete surfaces to comply with manufacturer’s instructions.
-   31. Apply two coats SC Johnson FORTIFY hard surface seal (or approved equal).
-   32. Apply two coats SC Johnson VECTRA liquid floor finish (or approved equal).
-   33. Protection
-   34. Upon completion, the work shall be ready for final inspection and acceptance by the Owner.
-   35. The General Contractor shall protect the finished floor from damage and wear from the time that the concrete grinder completes the work.
-36. FINAL CLEANING
-   37. Clean ground concrete as recommended by manufacturer of sealer and finish, and machine buff finished floor as required when building is ready for occupancy.
+2. CONCRETE MIXING 3. Concrete mixing, placing, consolidation and curing shall be as specified in Section 033000 Cast-In-Place Concrete except as modified in this Section.
+3. CONCRETE FINISH SPECIAL 5. The areas indicated to receive GC-1, Ground Concrete, finish shall receive a polished concrete finish. 6. replacement 7. Concrete flatwork areas shall be free of cracks or other separation of materials. 8. Areas of concrete with cracks will be removed to nearest control or construction joints and replaced. 9. Patching is not permitted.
+4. POLISHED CONCRETE
+   1. Polished concrete is produced by grinding trowel finished cured concrete in a manner similar to that for terrazzo.
+5. Do not consolidate concrete with the use of tamping. Allow concrete to cure approximately 28 days.
+6. Preparation:
+7. Clean concrete of loose foreign matter.
+8. Cleaner:
+9. Chemically neutral, liquid cleaner, with Ph factor between 7 and 10, biodegradable and phosphate free that will not stain or otherwise effect color of concrete.
+10. Remove “fuzzing” of glass fiber reinforced concrete with torch prior to grinding. (Optional)
+11. Saw cut control joints and accent lines as indicated.
+12. Clean dust and debris from saw cut joints and fill with approved joint filler.
+13. Finishing:
+14. Rough Grinding:
+    1. Grind with 24 or finer grit stones or with comparable #26 diamond plugs to remove surface fines and expose aggregate. Maintain specified concrete flatness.
+15. Following initial grind with 80 or finer grit stones/grit diamonds.
+16. Cleanse floor with clean water and rinse. Remove excess rinse water to prevent staining.
+17. Steel trowel Portland cement grout onto surface to fill all voids, cement grout to match color of concrete, allow to cure overnight.
+18. Fine Grinding:
+19. Grind with 80 or finer grit stones and 120 grit diamonds until polished terrazzo-like surface is achieved. Concrete shall show a minimum of 50 percent aggregate.
+20. Wash all surfaces with neutral cleaner with Ph factor between 7 and 10, biodegradable and phosphate free.
+21. Rinse with clear water and allow to surface dry. Keep control joints free of dirt and grinding debris at all times.
+22. Clean dust and debris from concrete control joints and fill with sealant. Refer to Section 07920 – Joint Sealants for proper sealant.
+23. Seal surface with two coats of approved solvent based acrylic penetrating sealer..
+24. CLEANING, FINISHING AND PROTECTING
+25. Before sealing, the surfaces shall be inspected and cleaned. Laitance and efflorescence shall be removed where applicable. If cleaner is necessary, the concrete surface shall be wet before application. The cleaner shall not contain muriatic acid, and shall be diluted according to manufacturer’s instructions. The cleaner shall be Sure-Klean #600 by ProSoCo of Kansas City or Quick-Klean by L & M Construction Chemicals, Omaha. Within 5 minutes of application, the surface shall be thoroughly flushed with clean water.
+26. The sealer shall be applied within one month of finishing the local surface, after patching, cleaning, and sealing. After these local sealer applications are dry, clean water shall be splashed on these local surfaces. If the water does not bead, but is absorbed, the surface shall be resealed.
+27. No surfaces, which are to receive joint sealants, shall have sealer applied in advance of sealant application. This specification may be waived if the concrete is cleaned and primed according to the techniques of the sealant manufacturer.
+28. Apply hard surface seal and liquid finish floor to cleaned ground concrete surfaces to comply with manufacturer’s instructions.
+29. Apply two coats SC Johnson FORTIFY hard surface seal (or approved equal).
+30. Apply two coats SC Johnson VECTRA liquid floor finish (or approved equal).
+31. Protection
+32. Upon completion, the work shall be ready for final inspection and acceptance by the Owner.
+33. The General Contractor shall protect the finished floor from damage and wear from the time that the concrete grinder completes the work.
+34. FINAL CLEANING
+35. Clean ground concrete as recommended by manufacturer of sealer and finish, and machine buff finished floor as required when building is ready for occupancy.

@@ -41,7 +41,7 @@ tags: ['Facility', 'Construction', 'Openings', 'Door', 'Hardware']
    1. Coordinate hardware with doors, frames, and related work to ensure proper size, thickness, hand, function, and finish of hardware.
    1. Schedule Content:
       1. Organize hardware schedule into "hardware sets" indicating complete designations of every item required for each door or opening. Include the following information:
-            1. Type, style, function, size, and finish of each hardware item
+         1. Type, style, function, size, and finish of each hardware item
    1. Name and manufacturer of each item
    1. Fastenings and other pertinent information
    1. Location of hardware set cross-referenced to indications on drawings both on floor plans and in door and frame schedule
@@ -70,73 +70,72 @@ tags: ['Facility', 'Construction', 'Openings', 'Door', 'Hardware']
 
 ## Products
 
-   1. MANUFACTURERS
-   1. For the purpose of establishing product standards the following manufacturers are specified.
-   1. Alternate manufacturers must be submitted for approval by Architect ten (10) days prior to bid.
-   1. Locksets, latches and cylinders to be Best only.
-   1. Locksets and Latches
-   1. Best 8k, 9k lever, heavy-duty cylindrical series.
-   1. Design 4c, 14c.
-   1. US10B, oil rubbed bronze finish.
-   1. Closers:
-      1. LCN, 4040/4041 Super Smoothe
-   1. Butts
-   1. Hager or Lawrence, full mortise.
-   1. 4 1/2" x 4 1/2" two ball bearing.
-   1. 1 1/2 pair per leaf.
-   1. Stops, Thresholds, Weather-stripping, Push/Pulls, Silencers:
-      1. Any major manufacturer subject to Architect's approval.
-   1. Fire Rated Openings:
-      1. Provide UL tested and listed hardware (AIA Pamphlet 80 and NFPA Standard 80).
-   1. MATERIALS
-   1. Drawings show direction of slides, swing, or hand of each door leaf.
-   1. Furnish each item of hardware for proper installation and operation of door movement as shown.
-   1. Do not use manufacturer's products, which have manufacturer's name or trade name displayed in a visible location (omit removable nameplates).
-   1. Manufacturer's identification will be permitted on rim of lock cylinders only.
-   1. Fasteners
-   1. Provide hardware manufactured to conform to published templates, generally prepared for machine screw installation.
-   1. Do not provide hardware, which has been prepared for self-tapping sheet metal screws, except as specifically indicated.
-   1. Furnish screws for installation with each hardware item.
-   1. Provide Phillips flat-head screws except as otherwise indicated.
-   1. Finish exposed (exposed under any condition) screws to match hardware finish or, if exposed in surfaces of other work, to match finish of other work as closely as possible, including "prepared to paint" in surfaces to receive painted finish.
-   1. Provide concealed fasteners for hardware units, which are exposed when door is closed, except to extent no standard units of type specified are available with concealed fasteners.
-   1. COMPONENTS
-   1. Keying
-   1. Supplier will meet with Owner to coordinate keying requirements for construction keying of the project.
-   1. Supplier will provide construction and permanent lock cylinders and install construction lock cylinders only.
-   1. Owner shall be responsible for installation and keying of permanent lock cylinders.
-   1. Construction Keying
-   1. Furnish a construction master key system with 15 keys for locks and cylinders.
-   1. At the time of final acceptance of the work
-   1. Void the construction key system
-   1. Remove all construction lock cylinders and turn over to Owner.
-   1. During construction, Contractor is responsible for control of key access to premises and project security.
-   1. Door Trim Units
-   1. Fasteners:
-      1. Provide manufacturer's standard exposed fasteners for door trim units, either machine screws or self-tapping screw.
-   1. FABRICATION
-   1. Hardware Finishes
-   1. Provide matching finishes for hardware units at each door or opening, to the greatest extent possible, and except as otherwise indicated.
-   1. Reduce differences in color and textures as much as commercially possible where the base metal or metal forming process is different for individual units of hardware exposed at the same door or opening.
-   1. In general, match items to the manufacturer's standard finish for the latch and lock set for color and texture.
-   1. The designations used in schedules and elsewhere to indicate hardware finish, are the industry-recognized traditional U.S. finishes, except as otherwise noted.
+1.  MANUFACTURERS
+1.  For the purpose of establishing product standards the following manufacturers are specified.
+1.  Alternate manufacturers must be submitted for approval by Architect ten (10) days prior to bid.
+1.  Locksets, latches and cylinders to be Best only.
+1.  Locksets and Latches
+1.  Best 8k, 9k lever, heavy-duty cylindrical series.
+1.  Design 4c, 14c.
+1.  US10B, oil rubbed bronze finish.
+1.  Closers:
+    1. LCN, 4040/4041 Super Smoothe
+1.  Butts
+1.  Hager or Lawrence, full mortise.
+1.  4 1/2" x 4 1/2" two ball bearing.
+1.  1 1/2 pair per leaf.
+1.  Stops, Thresholds, Weather-stripping, Push/Pulls, Silencers:
+    1. Any major manufacturer subject to Architect's approval.
+1.  Fire Rated Openings:
+    1. Provide UL tested and listed hardware (AIA Pamphlet 80 and NFPA Standard 80).
+1.  MATERIALS
+1.  Drawings show direction of slides, swing, or hand of each door leaf.
+1.  Furnish each item of hardware for proper installation and operation of door movement as shown.
+1.  Do not use manufacturer's products, which have manufacturer's name or trade name displayed in a visible location (omit removable nameplates).
+1.  Manufacturer's identification will be permitted on rim of lock cylinders only.
+1.  Fasteners
+1.  Provide hardware manufactured to conform to published templates, generally prepared for machine screw installation.
+1.  Do not provide hardware, which has been prepared for self-tapping sheet metal screws, except as specifically indicated.
+1.  Furnish screws for installation with each hardware item.
+1.  Provide Phillips flat-head screws except as otherwise indicated.
+1.  Finish exposed (exposed under any condition) screws to match hardware finish or, if exposed in surfaces of other work, to match finish of other work as closely as possible, including "prepared to paint" in surfaces to receive painted finish.
+1.  Provide concealed fasteners for hardware units, which are exposed when door is closed, except to extent no standard units of type specified are available with concealed fasteners.
+1.  COMPONENTS
+1.  Keying
+1.  Supplier will meet with Owner to coordinate keying requirements for construction keying of the project.
+1.  Supplier will provide construction and permanent lock cylinders and install construction lock cylinders only.
+1.  Owner shall be responsible for installation and keying of permanent lock cylinders.
+1.  Construction Keying
+1.  Furnish a construction master key system with 15 keys for locks and cylinders.
+1.  At the time of final acceptance of the work
+1.  Void the construction key system
+1.  Remove all construction lock cylinders and turn over to Owner.
+1.  During construction, Contractor is responsible for control of key access to premises and project security.
+1.  Door Trim Units
+1.  Fasteners:
+    1. Provide manufacturer's standard exposed fasteners for door trim units, either machine screws or self-tapping screw.
+1.  FABRICATION
+1.  Hardware Finishes
+1.  Provide matching finishes for hardware units at each door or opening, to the greatest extent possible, and except as otherwise indicated.
+1.  Reduce differences in color and textures as much as commercially possible where the base metal or metal forming process is different for individual units of hardware exposed at the same door or opening.
+1.  In general, match items to the manufacturer's standard finish for the latch and lock set for color and texture.
+1.  The designations used in schedules and elsewhere to indicate hardware finish, are the industry-recognized traditional U.S. finishes, except as otherwise noted.
 
 ## Execution
 
-   1. ERECTION INSTALLATION APPLICATION
-   1. Hardware Mounting Heights:
-      1. Mount hardware units at heights indicated in "Recommended Locations for Builders Hardware" by the Door and Hardware Institute, except as otherwise specifically indicated or required to comply with governing regulations.
-   1. Set units level, plumb, and true to line and location.
-   1. Adjust and reinforce the attachment substrate as necessary for proper installation and operation.
-   1. Drill and countersink units, which are not factory-prepared for anchorage fasteners.
-   1. Space fasteners and anchors in accordance with industry standards.
-   1. ADJUSTING
-   1. Adjust and check each operating item of hardware and each door, to ensure proper operating or function of every unit.
-   1. Replace units, which cannot be adjusted to operate freely and smoothly as intended for the application made.
-   1. Final Adjustment:
-      1. Wherever hardware installation is made more than one month prior to acceptance or occupancy of a space or area, return to the work during the week prior to acceptance or occupancy, and make a final check and adjustment of all hardware items in such space or area.
-   1. Clean operating items as necessary to restore proper function and finish of hardware and doors.
-   1. Adjust door control devices to compensate for final operation of heating and ventilating equipment.
-   1. CLEANING
-   1. Clean adjacent surfaces soiled by hardware installation.
-
+1.  ERECTION INSTALLATION APPLICATION
+1.  Hardware Mounting Heights:
+    1. Mount hardware units at heights indicated in "Recommended Locations for Builders Hardware" by the Door and Hardware Institute, except as otherwise specifically indicated or required to comply with governing regulations.
+1.  Set units level, plumb, and true to line and location.
+1.  Adjust and reinforce the attachment substrate as necessary for proper installation and operation.
+1.  Drill and countersink units, which are not factory-prepared for anchorage fasteners.
+1.  Space fasteners and anchors in accordance with industry standards.
+1.  ADJUSTING
+1.  Adjust and check each operating item of hardware and each door, to ensure proper operating or function of every unit.
+1.  Replace units, which cannot be adjusted to operate freely and smoothly as intended for the application made.
+1.  Final Adjustment:
+    1. Wherever hardware installation is made more than one month prior to acceptance or occupancy of a space or area, return to the work during the week prior to acceptance or occupancy, and make a final check and adjustment of all hardware items in such space or area.
+1.  Clean operating items as necessary to restore proper function and finish of hardware and doors.
+1.  Adjust door control devices to compensate for final operation of heating and ventilating equipment.
+1.  CLEANING
+1.  Clean adjacent surfaces soiled by hardware installation.

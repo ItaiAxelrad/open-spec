@@ -7,7 +7,6 @@ subgroup: Facility Services
 tags: ['Facility', 'Services', 'Plumbing', 'General-Duty', 'Valves', 'Piping']
 ---
 
-
 ## General
 
 1. RELATED DOCUMENTS
@@ -56,7 +55,7 @@ tags: ['Facility', 'Services', 'Plumbing', 'General-Duty', 'Valves', 'Piping']
    1. TFE:
       1. Tetrafluoroethylene plastic.
 1. SUBMITTALS
-	1. Follow procedures specified in Division 1 sections of the Specifications.
+   1. Follow procedures specified in Division 1 sections of the Specifications.
    1. Product Data:
       1. For each type of valve indicated. Include body, seating, and trim materials; valve design; pressure and temperature classifications; end connections; arrangement; dimensions; and required clearances. Include list indicating valve and its application. Include rated capacities; shipping, installed, and operating weights; furnished specialties; and accessories.
 1. QUALITY ASSURANCE
@@ -86,17 +85,17 @@ tags: ['Facility', 'Services', 'Plumbing', 'General-Duty', 'Valves', 'Piping']
 ## Products
 
 1. General
-   1. Provide valves of manufacturers listed below and of the figure numbers listed, or as updated by the manufacturer. Submittals containing outdated figure numbers will be rejected. Manufacturers and numbers not listed are unacceptable. 
+   1. Provide valves of manufacturers listed below and of the figure numbers listed, or as updated by the manufacturer. Submittals containing outdated figure numbers will be rejected. Manufacturers and numbers not listed are unacceptable.
    1. Provide butterfly and plug valves NPS 4 and larger with worm gear operators with position indicators.
    1. Provide butterfly, ball and plug valves of bubble-tight and dead end construction.
-   1. Valve packing containing asbestos material will not be permitted. 
-   1. Equip bronze globe and gate valves with a hexagon gland follower. 
+   1. Valve packing containing asbestos material will not be permitted.
+   1. Equip bronze globe and gate valves with a hexagon gland follower.
    1. Equip bronze globe and gate valves with malleable iron hand wheels.
    1. Provide manually operated valves, pad-lockable in any position.
-   1. Provide gate and globe valves which are capable of being packed under pressure when wide open by means of a beveled backseat and bonnet. 
+   1. Provide gate and globe valves which are capable of being packed under pressure when wide open by means of a beveled backseat and bonnet.
    1. Provide all gate and globe valves with four-sided stem to hand-wheel connection with self-locking nut.
 1. DOMESTIC HOT AND COLD WATER AND HOT WATER RETURN
-   1. Isolation and Throttling Valves – NPS 2 and Smaller 
+   1. Isolation and Throttling Valves – NPS 2 and Smaller
    1. Class 150 psi swp, 600 psi cwp; three piece; full port; bronze body; blow-out proof stem; chromium plated brass or bronze ball; TFE seats and packing; adjustable packing gland; in-line repairable; threaded ends; lever handle with lockable feature; stem extensions for insulated services.
    1. Conbraco/Apollo
    1. 82-100
@@ -139,7 +138,7 @@ tags: ['Facility', 'Services', 'Plumbing', 'General-Duty', 'Valves', 'Piping']
    1. 8501H
    1. Watts
    1. B-6000-CC
-   1. Isolation and Throttling Valves – NPS 2-1/2 and Larger 
+   1. Isolation and Throttling Valves – NPS 2-1/2 and Larger
    1. Butterfly; rated 200 psi up to NPS 12 and 150 psi NPS 14 and larger; full lug type; suitable for dead-end service to full shut-off differential of valve with downstream flange removed; cast/ductile iron body; aluminum bronze disc; stainless steel stem; EPDM seat; manual lever-lock operator; minimum 2-inch extended neck for insulation; phenolic backed liner. Seat material for oil or hydrocarbon service:
       1. BUNA in lieu of EPDM. Provide gear operators with pad lock feature on all valves NPS 4 and larger.
    1. Conbraco/Apollo
@@ -166,8 +165,8 @@ tags: ['Facility', 'Services', 'Plumbing', 'General-Duty', 'Valves', 'Piping']
    1. 300,709
    1. Watts
    1. DBF-03-121-1P
-   1. Check Valves – NPS 2 and Smaller 
-   1. Class 200 psi swp, 400 psi cwp; bronze body, disc and seat; regrinding; screwed end. 
+   1. Check Valves – NPS 2 and Smaller
+   1. Class 200 psi swp, 400 psi cwp; bronze body, disc and seat; regrinding; screwed end.
    1. Crane
    1. 36
    1. Hammond
@@ -200,9 +199,7 @@ tags: ['Facility', 'Services', 'Plumbing', 'General-Duty', 'Valves', 'Piping']
    1. 716,779
    1. NIBCO
    1. F910/960
-1. DEIONIZED WATER
-	1. PP Valves (Max. Operating Conditions:
-      1. 140 Deg. F  60 psi)
+1. DEIONIZED WATER 1. PP Valves (Max. Operating Conditions: 1. 140 Deg. F 60 psi)
    1. Ball Valves – NPS 2 and Smaller
    1. 150 lb.; PP true union; lever handle; PTFE seats, viton seals; socket end connectors.
    1. Asahi
@@ -212,7 +209,7 @@ tags: ['Facility', 'Services', 'Plumbing', 'General-Duty', 'Valves', 'Piping']
    1. IPEX
    1. VK
    1. George Fischer
-346..Series
+      346..Series
    1. Hayward
    1. TB3
    1. Diaphragm Valves – NPS 2 and Smaller
@@ -222,22 +219,22 @@ tags: ['Facility', 'Services', 'Plumbing', 'General-Duty', 'Valves', 'Piping']
    1. Chemtrol
    1. G62CDT
    1. George Fischer
-314..Series
+      314..Series
    1. IPEX
    1. VMPPTT
    1. Hayward
    1. DA3
-   1. Ball Valves – NPS 2-1/2 to NPS 4 
+   1. Ball Valves – NPS 2-1/2 to NPS 4
    1. 150 lb.; PP true union; lever handle; PTFE seats, viton seals; socket end connectors.
    1. Asahi
    1. 1022 Series
    1. Chemtrol
    1. S62TBV Seies
    1. George Fischer
-370..Series
+      370..Series
 1. Natural Gas
-	1. NPS 2 and smaller:
-      1. class 175; semi-steel body; semi-steel, lubricated plug; wrench operated with locking device; screwed end. 
+   1. NPS 2 and smaller:
+      1. class 175; semi-steel body; semi-steel, lubricated plug; wrench operated with locking device; screwed end.
    1. Homestead
    1. 611
    1. Nordstrom Audco
@@ -255,7 +252,7 @@ tags: ['Facility', 'Services', 'Plumbing', 'General-Duty', 'Valves', 'Piping']
    1. Hammond
    1. 8901UL
    1. NPS 2-1/2 to NPS 4:
-      1. class 200; semi-steel body; semi-steel, lubricated plug; wrench operated with locking device; flanged end. 
+      1. class 200; semi-steel body; semi-steel, lubricated plug; wrench operated with locking device; flanged end.
    1. Homestead
    1. 612
    1. Nordstrom Audco
@@ -280,27 +277,28 @@ tags: ['Facility', 'Services', 'Plumbing', 'General-Duty', 'Valves', 'Piping']
 
 ## General
 
- purpose metal type.
-   1. Voltage:
-      1. 24 volts, ac, 60 Hz 24 volts dc.
-   1. Coil:
-      1. Continuous duty molded Class F.
-   1. Ambient temperature range:
-      1. 32 degrees F to 125 degrees F.
-   1. Body:
-      1. 18.8 S.S.
-   1. Seals and Disc:
-      1. Buna "N".
-   1. Core tube:
-      1. 305 S.S.
-   1. Core and plug nut:
-      1. 430F S.S.
-   1. Core spring:
-      1. 302 S.S.
-   1. Shading coil:
-      1. silver (stainless steel body).
-   1. Manufacturers:
-      1. ASCO “Red Hat Series 8221” or Honeywell “Skinner Model 7321 GBN”.
+purpose metal type.
+
+1.  Voltage:
+    1. 24 volts, ac, 60 Hz 24 volts dc.
+1.  Coil:
+    1. Continuous duty molded Class F.
+1.  Ambient temperature range:
+    1. 32 degrees F to 125 degrees F.
+1.  Body:
+    1. 18.8 S.S.
+1.  Seals and Disc:
+    1. Buna "N".
+1.  Core tube:
+    1. 305 S.S.
+1.  Core and plug nut:
+    1. 430F S.S.
+1.  Core spring:
+    1. 302 S.S.
+1.  Shading coil:
+    1. silver (stainless steel body).
+1.  Manufacturers:
+    1. ASCO “Red Hat Series 8221” or Honeywell “Skinner Model 7321 GBN”.
 
 ## Execution
 
@@ -315,23 +313,23 @@ tags: ['Facility', 'Services', 'Plumbing', 'General-Duty', 'Valves', 'Piping']
 1. ADJUSTING
    1. Adjust or replace valve packing after piping systems have been tested and put into service but before final adjusting and balancing. Replace valves if persistent leaking occurs.
 1. VALVE INSTALLATION
-  1. General
-   1. Provide isolation valves in piping services where branch lines connect to mains and risers. 
-   1. Provide isolation valves where service is fully open or closed. 
-   1. Provide throttling valves where pressure regulation or modulating flow are required. 
-   1. Provide throttling valves to serve as drain valves at low points and at piping dead ends. 
-   1. Provide only ball valves on strainer blow down service.
-   1. Provide plugs or caps on all drain, vent or other open ended lines and valves.
-   1. Provide NPS ¾ drain valves on piping up through NPS 4 and NPS 1-1/2 drain valves on piping NPS 5 and larger.
-   1. Provide valves NPS 2-1/2 and larger with a drain valve on upper side of valve.
-   1. Isolation Valves and Unions at Equipment 
-   1. Provide isolation valves and unions at the individual connections to equipment, PRV stations and piping elements to permit complete servicing or removal of piping elements and items of equipment. 
-   1. By-Pass Valves
-   1. Where by-pass valves are shown to be installed around pressure regulating valves and automatic control valves, size the by-pass valve the same size as the pressure regulating or automatic control valve.
-   1. Automatic Valves 
-   1. Install automatic valves furnished as specified in Division 22 Section 0900, “Instrumentation and Control for HVAC”.
-   1. Copper Tubing Adapters 
-   1. When connecting copper tubing to valves, install adapters as follows:
-   1. Cast copper solder male adapter or union to screwed valves. 
-   1. Copper solder joint companion flange unit.
-   1. Solder joint valve substitutions for valves specified are not permitted. 
+1. General
+1. Provide isolation valves in piping services where branch lines connect to mains and risers.
+1. Provide isolation valves where service is fully open or closed.
+1. Provide throttling valves where pressure regulation or modulating flow are required.
+1. Provide throttling valves to serve as drain valves at low points and at piping dead ends.
+1. Provide only ball valves on strainer blow down service.
+1. Provide plugs or caps on all drain, vent or other open ended lines and valves.
+1. Provide NPS ¾ drain valves on piping up through NPS 4 and NPS 1-1/2 drain valves on piping NPS 5 and larger.
+1. Provide valves NPS 2-1/2 and larger with a drain valve on upper side of valve.
+1. Isolation Valves and Unions at Equipment
+1. Provide isolation valves and unions at the individual connections to equipment, PRV stations and piping elements to permit complete servicing or removal of piping elements and items of equipment.
+1. By-Pass Valves
+1. Where by-pass valves are shown to be installed around pressure regulating valves and automatic control valves, size the by-pass valve the same size as the pressure regulating or automatic control valve.
+1. Automatic Valves
+1. Install automatic valves furnished as specified in Division 22 Section 0900, “Instrumentation and Control for HVAC”.
+1. Copper Tubing Adapters
+1. When connecting copper tubing to valves, install adapters as follows:
+1. Cast copper solder male adapter or union to screwed valves.
+1. Copper solder joint companion flange unit.
+1. Solder joint valve substitutions for valves specified are not permitted.

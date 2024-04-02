@@ -7,6 +7,4 @@ subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Conveying', 'Equipment']
 ---
 
-   1. Division 14
-   1. Conveying Equipment
-
+Division 14 - Conveying Equipment

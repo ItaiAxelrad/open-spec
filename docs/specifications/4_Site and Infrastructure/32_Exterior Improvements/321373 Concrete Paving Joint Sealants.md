@@ -4,7 +4,17 @@ section: '321373'
 divNumb: 32
 divName: Exterior Improvements
 subgroup: Site and Infrastructure
-tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Concrete', 'Paving', 'Joint', 'Sealants']
+tags:
+  [
+    'Site',
+    'Infrastructure',
+    'Exterior',
+    'Improvements',
+    'Concrete',
+    'Paving',
+    'Joint',
+    'Sealants',
+  ]
 ---
 
 ## General
@@ -44,31 +54,31 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Concrete', 'Paving
    1. Sealant Warranty:
       1. Provide written warranty, signed by manufacturer and installer agreeing to, within warranty period of five years after date of substantial completion, replace/repair defective materials and workmanship defined to include:
       1. instances of leakage of water or air; failures in joint adhesion, material cohesion, abrasion resistance, strain resistance, or general durability; failure to perform as required; and the general appearance of deterioration in any other manner not clearly specified in manufacturer's published product literature as an inherent characteristic of the sealant material.
-   
+
 ## Products
 
-   1. SEALANT MATERIALS FOR VERTICAL SURFACES
-   1. Single-component, elastomeric sealant complying with ASTM C920, Type S, Grade NS, Class 25, Use NT, a silicone material, one of the following or as approved:
-      1. Dow Corning Corp. "790", "791", or "795".
-   1. GE Company, GE Plastics "Silpruf 2000".
-   1. Pecora Corp. "895".
-   1. SEALANT MATERIALS FOR HORIZONTAL SURFACES
-   1. Multi-component, elastomeric, sealant complying with ASTM C920, Type M, Class 25, Use T, a urethane material. Provide primer recommended by sealant manufacturer.
-   1. Grade P (self-leveling), one of the following or as approved:
-      1. yyLymTal International, Inc. "Iso-Flex 880GB".
-   1. Pecora Corp. "NR-200 Urexpan".
-   1. Grade NS (non-sag) for use where Grade P can't be used, such as at sloping surfaces, one of the following or as approved:
-      1. LymTal International, Inc. "Iso-Flex 881".
-   1. Pecora Corp. "Dynatred".
-   1. MISCELLANEOUS MATERIALS
-   1. Joint Cleaner:
-      1. Provide type of substrate cleaning compound recommended by sealant manufacturer for substrate surfaces to be cleaned.
-   1. Joint Primer/Sealer:
-      1. Provide a nonstaining type of joint primer/sealer recommended by sealant manufacturer for joint substrates to be primed or sealed.
-   1. Bond Breaker Tape:
-      1. Polyethylene or teflon, self-adhesive tape, 0.28-mm (11-mil) minimum thickness, colored, as recommended by sealant manufacturer to be applied to sealant-contact surfaces where bond to substrate or joint filler must be avoided for proper performance of sealant.
-   1. Sealant Backer Rod:
-      1. Expanded closed cell polyethylene shape compressed no more than 25 to 33 percent of its dimension at the time of installation in the joint opening. Furnish Industrial Thermo Polymers Limited "ITP Standard Backer Rod"; Nomaco, Inc. "Green Rod"; W.R. Meadows, Inc. "Sealtight Backer Rod" or as approved.
+1.  SEALANT MATERIALS FOR VERTICAL SURFACES
+1.  Single-component, elastomeric sealant complying with ASTM C920, Type S, Grade NS, Class 25, Use NT, a silicone material, one of the following or as approved:
+    1. Dow Corning Corp. "790", "791", or "795".
+1.  GE Company, GE Plastics "Silpruf 2000".
+1.  Pecora Corp. "895".
+1.  SEALANT MATERIALS FOR HORIZONTAL SURFACES
+1.  Multi-component, elastomeric, sealant complying with ASTM C920, Type M, Class 25, Use T, a urethane material. Provide primer recommended by sealant manufacturer.
+1.  Grade P (self-leveling), one of the following or as approved:
+    1. yyLymTal International, Inc. "Iso-Flex 880GB".
+1.  Pecora Corp. "NR-200 Urexpan".
+1.  Grade NS (non-sag) for use where Grade P can't be used, such as at sloping surfaces, one of the following or as approved:
+    1. LymTal International, Inc. "Iso-Flex 881".
+1.  Pecora Corp. "Dynatred".
+1.  MISCELLANEOUS MATERIALS
+1.  Joint Cleaner:
+    1. Provide type of substrate cleaning compound recommended by sealant manufacturer for substrate surfaces to be cleaned.
+1.  Joint Primer/Sealer:
+    1. Provide a nonstaining type of joint primer/sealer recommended by sealant manufacturer for joint substrates to be primed or sealed.
+1.  Bond Breaker Tape:
+    1. Polyethylene or teflon, self-adhesive tape, 0.28-mm (11-mil) minimum thickness, colored, as recommended by sealant manufacturer to be applied to sealant-contact surfaces where bond to substrate or joint filler must be avoided for proper performance of sealant.
+1.  Sealant Backer Rod:
+    1. Expanded closed cell polyethylene shape compressed no more than 25 to 33 percent of its dimension at the time of installation in the joint opening. Furnish Industrial Thermo Polymers Limited "ITP Standard Backer Rod"; Nomaco, Inc. "Green Rod"; W.R. Meadows, Inc. "Sealtight Backer Rod" or as approved.
 
 ## Execution
 

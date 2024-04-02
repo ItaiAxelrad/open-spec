@@ -6,6 +6,7 @@ divName: Specialties
 subgroup: Facility Construction
 tags: ['Facility', 'Construction', 'Specialties', 'Visual', 'Display', 'Units']
 ---
+
 ## General
 
 1. SUMMARY
@@ -39,7 +40,7 @@ tags: ['Facility', 'Construction', 'Specialties', 'Visual', 'Display', 'Units']
    1. Available Manufacturers:
       1. Subject to compliance with requirements, manufacturers offering products that may be incorporated into the Work include, but are not limited to, the following:
       1. Porcelain Enamel Markerboards and Tack Board:
-            1. Best-Rite Chalkboard Co.
+         1. Best-Rite Chalkboard Co.
    1. Claridge Products and Equipment, Inc.
    1. Greensteel, Inc.
    1. Lemco, Inc.
@@ -72,7 +73,7 @@ tags: ['Facility', 'Construction', 'Specialties', 'Visual', 'Display', 'Units']
       1. Provide factory-assembled units.
    1. Make joints only where total length exceeds maximum manufactured length. Fabricate with minimum number of joints, balanced around center of board, as acceptable to Architect.
 4. FINISHES
-	1. General:
+   1. General:
       1. Comply with NAAMM's "Metal Finishes Manual for Architectural and Metal Products" for recommendations relative to applying and designating finishes.
    1. Finish designations prefixed by AA conform to the system established by the Aluminum Association for designating aluminum finishes.
    1. Class II, Clear Anodic Finish:

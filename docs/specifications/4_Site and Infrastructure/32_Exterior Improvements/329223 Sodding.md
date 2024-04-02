@@ -7,7 +7,6 @@ subgroup: Site and Infrastructure
 tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Sodding']
 ---
 
-
 ## General
 
 1. SUMMARY
@@ -155,453 +154,405 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Sodding']
    1. The maintenance period shall begin immediately after each area is sodded and continue until final acceptance of entire project.
    1. During this time, Contractor is responsible for all work as necessary to ensure that sodded areas are in a vigorous growing condition. Provide all supervision, labor, material and equipment to maintain seeded areas.
    1. Materials shall conform to Specifications or otherwise be acceptable to Owner.
-    1. Watering
+   1. Watering
    1. Contractor is responsible for watering seeded and sodded areas for one (1) full year from date of installation.
    1. Water shall be free of substances harmful to plant growth.
 
 ## Products
 
-   1. FERTILIZER
-   1. Slow-Release Organic Fertilizer:
-      1. Subject to compliance with requirements, products that may be incorporated into the Work include:
-      1. Biosol 6-1-3 Natural All Purpose fertilizer.
-   1. Sustane 5-2-4 All Natural Granulated Slow Release Nitrogen fertilizer.
-   1. MYCORRHIZAL INOCULUM
-   1. Mycorrhizal Inoculum shall be AM 120 Standard, or approved equal:
-      1. 100% Glomus intraradices (UT isolate)(120 propagules per c.c. or 100 propagules per gr.)
-   1. SCHEDULE OF PRAIRIE GRASSES AND WILDFLOWER SEED MIXTURES:
-         1. Seed Mixes for South Table Mountain
-   1. Type 1 Grassland Transitional Seed Mixture - Within 40 Feet of buildings in managed areas
-1. Botanic Name
-1. Common Name
-1. Variety
-1. Broadcast Rate (PLS lb/ac)
-1. Drill Rate (PLS lb/ac)
-   1. Buchaloe dactyloides
-   1. Buffalograss
-   1. Topgun
-   1. 16
-   1. 8
-   1. Chondrosum gracile
-   1. Blue grama
-   1. Hachita
-   1. 4
-   1. 2
-   1. Bouteloua curtipendula
-   1. Sideoats grama
-   1. Butte
-   1. 2
-   1. 1
-   1. Hordeum jubatum
-   1. Foxtail barley
-   1. native
-   1. 2
-   1. 1
-   1. Koeleria cristata
-   1. Prairie junegrass
-   1. native
-6.
-3.
-   1. Pascopyrum smithii
-   1. Western wheatgrass
-   1. Arriba
-   1. 6
-   1. 3
-   1. Stipa viridula
-   1. Green needlegrass
-   1. Lordorn
-   1. 2
-   1. 1
-   1. Solidago missouriensis
-   1. Prairie goldenrod
-   1. native
-5.
-25.
-   1. Artemisia frigida
-   1. Fringed sage
-   1. native
+1.  FERTILIZER
+1.  Slow-Release Organic Fertilizer:
+    1. Subject to compliance with requirements, products that may be incorporated into the Work include:
+    1. Biosol 6-1-3 Natural All Purpose fertilizer.
+1.  Sustane 5-2-4 All Natural Granulated Slow Release Nitrogen fertilizer.
+1.  MYCORRHIZAL INOCULUM
+1.  Mycorrhizal Inoculum shall be AM 120 Standard, or approved equal:
+    1. 100% Glomus intraradices (UT isolate)(120 propagules per c.c. or 100 propagules per gr.)
+1.  SCHEDULE OF PRAIRIE GRASSES AND WILDFLOWER SEED MIXTURES:
+    1.  Seed Mixes for South Table Mountain
+1.  Type 1 Grassland Transitional Seed Mixture - Within 40 Feet of buildings in managed areas
+1.  Botanic Name
+1.  Common Name
+1.  Variety
+1.  Broadcast Rate (PLS lb/ac)
+1.  Drill Rate (PLS lb/ac)
+    1.  Buchaloe dactyloides
+    1.  Buffalograss
+    1.  Topgun
+    1.  16
+    1.  8
+    1.  Chondrosum gracile
+    1.  Blue grama
+    1.  Hachita
+    1.  4
+    1.  2
+    1.  Bouteloua curtipendula
+    1.  Sideoats grama
+    1.  Butte
+    1.  2
+    1.  1
+    1.  Hordeum jubatum
+    1.  Foxtail barley
+    1.  native
+    1.  2
+    1.  1
+    1.  Koeleria cristata
+    1.  Prairie junegrass
+    1.  native
 1.
-05.
-   1. Aster porteri
-   1. White aster
-   1. native
-5.
-25.
-1. TOTAL POUNDS
-
-
-1. 33.7
-1. 16.85
-1. Type 2 Grassland Transitional Seed Mixture - Beyond 40 Feet of buildings in managed areas
-1. Botanic Name
-1. Common Name
-1. Variety
-1. Broadcast Rate (PLS lb/ac)
-1. Drill Rate (PLS lb/ac)
-   1. Buchaloe dactyloides
-   1. Buffalograss
-   1. Topgun
-   1. 6
-   1. 3
-   1. Chondrosum gracile
-   1. Blue grama
-   1. Hachita
-   1. 2
-   1. 1
-   1. Bouteloua curtipendula
-   1. Sideoats grama
-   1. Butte
-   1. 3
-5.
-   1. Schizachyrium scoparium
-   1. Little bluestem
-   1. Blaze
-   1. 2
-   1. 1
-   1. Sporobolus cryptandrus
-   1. Sand dropseed
-   1. native
+1.  1.  Pascopyrum smithii
+    1.  Western wheatgrass
+    1.  Arriba
+    1.  6
+    1.  3
+    1.  Stipa viridula
+    1.  Green needlegrass
+    1.  Lordorn
+    1.  2
+    1.  1
+    1.  Solidago missouriensis
+    1.  Prairie goldenrod
+    1.  native
 1.
-05.
-   1. Stipa viridula
-   1. Green needlegrass
-   1. Lordorn
-   1. 2
-   1. 1
-   1. Hordeum jubatum
-   1. Foxtail barley
-   1. native
-   1. 2
-   1. 1
-   1. Sorgastrum nutans
-   1. Yellow indian grass
-   1. native
-   1. 2
-   1. 1
-   1. Pascopyrum smithii
-   1. Western wheatgrass
-   1. Arriba
-   1. 8
-   1. 4
-   1. Artemisia frigida
-   1. Fringed sage
-   1. native
+1.  1.  Artemisia frigida
+    1.  Fringed sage
+    1.  native
 1.
-05.
-   1. Artemisia ludoviciana
-   1. Prairie sagewort
-   1. native
+1.  1.  Aster porteri
+    1.  White aster
+    1.  native
 1.
-05.
-   1. Aster porteri
-   1. White aster
-   1. native
-2.
 1.
-   1. Heterotheca villosa
-   1. Hairy golden aster
-   1. native
-2.
+1.  TOTAL POUNDS
+
+1.  33.7
+1.  16.85
+1.  Type 2 Grassland Transitional Seed Mixture - Beyond 40 Feet of buildings in managed areas
+1.  Botanic Name
+1.  Common Name
+1.  Variety
+1.  Broadcast Rate (PLS lb/ac)
+1.  Drill Rate (PLS lb/ac)
+    1.  Buchaloe dactyloides
+    1.  Buffalograss
+    1.  Topgun
+    1.  6
+    1.  3
+    1.  Chondrosum gracile
+    1.  Blue grama
+    1.  Hachita
+    1.  2
+    1.  1
+    1.  Bouteloua curtipendula
+    1.  Sideoats grama
+    1.  Butte
+    1.  3
+1.  1.  Schizachyrium scoparium
+    1.  Little bluestem
+    1.  Blaze
+    1.  2
+    1.  1
+    1.  Sporobolus cryptandrus
+    1.  Sand dropseed
+    1.  native
 1.
-   1. Dalea purpurea
-   1. Purple prairieclover
-   1. native
-5.
-25.
-   1. Gallardia aristata
-   1. Blanket flower
-   1. native
-5.
-25.
-   1. Linium lewisii
-   1. Flax
-   1. native
-5.
-25.
-1. TOTAL POUNDS
-
-
-1. 29.2
-1. 14.6
-1. Type 3 Mixed Grassland Seed Mixture - Beyond boundary of managed areas
-1. Botanic Name
-1. Common Name
-1. Variety
-1. Broadcast Rate (PLS lb/ac)
-1. Drill Rate (PLS lb/ac)
-   1. Bouteloua curtipendula
-   1. Sideoats grama
-   1. Butte
-   1. 5
-5.
-   1. Andropogon gerardii
-   1. Big bluestem
-   1. Champ
-   1. 4
-   1. 2
-   1. Schizachyrium scoparium
-   1. Little bluestem
-   1. Blaze
-   1. 3
-5.
-   1. Stipa viridula
-   1. Green needlegrass
-   1. Lordorn
-   1. 4
-   1. 2
-   1. Sorgastrum nutans
-   1. Yellow indian grass
-   1. Cheyenne
-   1. 2
-   1. 1
-   1. Stipa comata
-   1. Needle-and thread
-   1. native
-   1. 1
-5.
-   1. Pascopyrum smithii
-   1. Western wheatgrass
-   1. Arriba
-   1. 6
-   1. 3
-   1. Liatris punctata
-   1. Dotted gayfeather
-   1. native
-4.
-2.
-   1. Artemisia frigida
-   1. Fringed sage
-   1. native
+1.  1.  Stipa viridula
+    1.  Green needlegrass
+    1.  Lordorn
+    1.  2
+    1.  1
+    1.  Hordeum jubatum
+    1.  Foxtail barley
+    1.  native
+    1.  2
+    1.  1
+    1.  Sorgastrum nutans
+    1.  Yellow indian grass
+    1.  native
+    1.  2
+    1.  1
+    1.  Pascopyrum smithii
+    1.  Western wheatgrass
+    1.  Arriba
+    1.  8
+    1.  4
+    1.  Artemisia frigida
+    1.  Fringed sage
+    1.  native
 1.
-05.
-   1. Artemisia ludoviciana
-   1. Prairie sagewort
-   1. native
+1.  1.  Artemisia ludoviciana
+    1.  Prairie sagewort
+    1.  native
 1.
-05.
-   1. Heterotheca villosa
-   1. Hairy golden aster
-   1. native
-5.
-25.
-   1. Ratibida columnifera
-   1. Prairie coneflower
-   1. native
-2.
+1.  1.  Aster porteri
+    1.  White aster
+    1.  native
 1.
-   1. Castilleja integra
-   1. Indian paintbrush
-   1. native
-2.
+1.  1.  Heterotheca villosa
+    1.  Hairy golden aster
+    1.  native
 1.
-   1. Sphaeralcea coccinea
-   1. Scarlet globemallow
-   1. native
-4.
-2.
-   1. Penstemon angustifolius
-   1. Narrow beardtongue
-   1. native
-2.
+1.  1.  Dalea purpurea
+    1.  Purple prairieclover
+    1.  native
 1.
-1. TOTAL POUNDS
+1.  1.  Gallardia aristata
+    1.  Blanket flower
+    1.  native
+1.
+1.  1.  Linium lewisii
+    1.  Flax
+    1.  native
+1.
+1.
+1.  TOTAL POUNDS
 
+1.  29.2
+1.  14.6
+1.  Type 3 Mixed Grassland Seed Mixture - Beyond boundary of managed areas
+1.  Botanic Name
+1.  Common Name
+1.  Variety
+1.  Broadcast Rate (PLS lb/ac)
+1.  Drill Rate (PLS lb/ac)
+    1.  Bouteloua curtipendula
+    1.  Sideoats grama
+    1.  Butte
+    1.  5
+1.  1.  Andropogon gerardii
+    1.  Big bluestem
+    1.  Champ
+    1.  4
+    1.  2
+    1.  Schizachyrium scoparium
+    1.  Little bluestem
+    1.  Blaze
+    1.  3
+1.  1.  Stipa viridula
+    1.  Green needlegrass
+    1.  Lordorn
+    1.  4
+    1.  2
+    1.  Sorgastrum nutans
+    1.  Yellow indian grass
+    1.  Cheyenne
+    1.  2
+    1.  1
+    1.  Stipa comata
+    1.  Needle-and thread
+    1.  native
+    1.  1
+1.  1.  Pascopyrum smithii
+    1.  Western wheatgrass
+    1.  Arriba
+    1.  6
+    1.  3
+    1.  Liatris punctata
+    1.  Dotted gayfeather
+    1.  native
+1.
+1.  1.  Artemisia frigida
+    1.  Fringed sage
+    1.  native
+1.
+1.  1.  Artemisia ludoviciana
+    1.  Prairie sagewort
+    1.  native
+1.
+1.  1.  Heterotheca villosa
+    1.  Hairy golden aster
+    1.  native
+1.
+1.  1.  Ratibida columnifera
+    1.  Prairie coneflower
+    1.  native
+1.
+1.  1.  Castilleja integra
+    1.  Indian paintbrush
+    1.  native
+1.
+1.  1.  Sphaeralcea coccinea
+    1.  Scarlet globemallow
+    1.  native
+1.
+1.  1.  Penstemon angustifolius
+    1.  Narrow beardtongue
+    1.  native
+1.
+1.
+1.  TOTAL POUNDS
 
-1. 27.1
-1. 13.55
-1. Type 4 Drainage Seed Mixture
-1. Botanic Name
-1. Common Name
-1. Variety
-1. Broadcast Rate (PLS lb/ac)
-   1. Pascopyrum smithii
-   1. Western wheatgrass
-   1. Arriba
-   1. 8
+1.  27.1
+1.  13.55
+1.  Type 4 Drainage Seed Mixture
+1.  Botanic Name
+1.  Common Name
+1.  Variety
+1.  Broadcast Rate (PLS lb/ac)
 
-   1. Carex nebrascebsus
-   1. Nebraska sedge
-   1. native
-25.
+    1.  Pascopyrum smithii
+    1.  Western wheatgrass
+    1.  Arriba
+    1.  8
 
-   1. Distichlis stricta
-   1. Inland saltgrass
-   1. native
-   1. 1
+    1.  Carex nebrascebsus
+    1.  Nebraska sedge
+    1.  native
 
-   1. Sporobolis airoides
-   1. Alkali sacaton
-   1. native
-5.
+1.  1.  Distichlis stricta
+    1.  Inland saltgrass
+    1.  native
+    1.  1
 
-   1. Panicum viragatum
-   1. Switchgrass
-   1. Blackwell
-   1. 1
+    1.  Sporobolis airoides
+    1.  Alkali sacaton
+    1.  native
 
-1. TOTAL POUNDS
+1.  1.  Panicum viragatum
+    1.  Switchgrass
+    1.  Blackwell
+    1.  1
 
+1.  TOTAL POUNDS
 
-1. 10.75
+1.  10.75
 
-1. Type 5 Roadside Seed Mixture
-1. Botanic Name
-1. Common Name
-1. Variety
-1. Broadcast Rate (PLS lb/ac)
-   1. Buchaloe dactyloides
-   1. Buffalograss
-   1. Topgun
-   1. 16
+1.  Type 5 Roadside Seed Mixture
+1.  Botanic Name
+1.  Common Name
+1.  Variety
+1.  Broadcast Rate (PLS lb/ac)
 
-   1. Chondrosum gracile
-   1. Blue grama
-   1. Hachita
-   1. 4
+    1.  Buchaloe dactyloides
+    1.  Buffalograss
+    1.  Topgun
+    1.  16
 
-   1. Distichlis stricta
-   1. Inland saltgrass
-   1. native
-   1. 2
+    1.  Chondrosum gracile
+    1.  Blue grama
+    1.  Hachita
+    1.  4
 
-1. TOTAL POUNDS
+    1.  Distichlis stricta
+    1.  Inland saltgrass
+    1.  native
+    1.  2
 
+1.  TOTAL POUNDS
 
-1. 22
+1.  22
 
-1. Seed Mixes for North Wind Technology Center
-1. NWTC Xeric Seed Mix
-1. Scientific Name
-1. Common Name
-1. Variety
-1. Drill Seed Rate Lbs./Acre (PLS) 1,2
-	1. Hand Broadcast Rate
-1. Lbs./Acre (PLS) 1,2
-1. Graminoids
-   1. Agropyron smithii
-   1. Western Wheatgrass
-   1. Arriba
-00.
-00.
-   1. Agropyron trachycaulum
-   1. Slender Wheatgrass
-   1. San Luis
-00.
-00.
-   1. Andropogon gerardii
-   1. Big Bluestem
-   1. Bonilla
-00.
-00.
-   1. Andropogon scoparius
-   1. Little Bluestem
-   1. Aldous
-00.
-00.
-   1. Bouteloua curtipendula
-   1. Side-Oats Grama
-   1. Vaughn
-00.
-00.
-   1. Bouteloua gracilis
-   1. Blue Grama
-   1. Hachita
-00.
-00.
-   1. Buchloe dactyloides
-   1. Buffalo Grass
-   1. Texoka
-00.
-00.
-   1. Koleria pyrimidata
-   1. June Grass
+1.  Seed Mixes for North Wind Technology Center
+1.  NWTC Xeric Seed Mix
+1.  Scientific Name
+1.  Common Name
+1.  Variety
+1.  Drill Seed Rate Lbs./Acre (PLS) 1,2
+    1.  Hand Broadcast Rate
+1.  Lbs./Acre (PLS) 1,2
+1.  Graminoids
+    1.  Agropyron smithii
+    1.  Western Wheatgrass
+    1.  Arriba
+1.
+1.  1.  Agropyron trachycaulum
+    1.  Slender Wheatgrass
+    1.  San Luis
+1.
+1.  1.  Andropogon gerardii
+    1.  Big Bluestem
+    1.  Bonilla
+1.
+1.  1.  Andropogon scoparius
+    1.  Little Bluestem
+    1.  Aldous
+1.
+1.  1.  Bouteloua curtipendula
+    1.  Side-Oats Grama
+    1.  Vaughn
+1.
+1.  1.  Bouteloua gracilis
+    1.  Blue Grama
+    1.  Hachita
+1.
+1.  1.  Buchloe dactyloides
+    1.  Buffalo Grass
+    1.  Texoka
+1.
+1.  1.  Koleria pyrimidata
+    1.  June Grass
 
-0. 25
-0. 50
-   1. Sorghastrum nutans
-   1. Indian Grass
-   1. Cheyenne
-50.
-00.
-   1. Sporobolus cryptandra
-   1. Sand Dropseed
+1.  25
+1.  50
+    1.  Sorghastrum nutans
+    1.  Indian Grass
+    1.  Cheyenne
+1.
+1.  1.  Sporobolus cryptandra
+    1.  Sand Dropseed
 
-25.
-50.
-   1. Stipa viridula
-   1. Green Needlegrass
-   1. Lodorm
-00.
-00.
-   1. Gaillardia aristata
-   1. Blanketflower 
-   1. Native
-01.
-02.
-   1. Linium lewisii
-   1. Perrenial Flax 
-   1. Native
-01.
-02.
-   1. Liatris punctata
-   1. Dotted Gayfeather
-   1. Native
-01.
-02.
-   1. Artemisia frigida
-   1. Fringed Sage 
-   1. Native
-01.
-02.
-   1. Oenothera albicaulis
-   1. Prairie Evening Primrose
-   1. Native
-01.
-02.
-   1. Ratubuda cikynbufera
-   1. Mexican Hats
-   1. Native
-01.
-02.
-   1. Eriogonum umbellatum
-   1. Sulfur Flower
-   1. Native
-01.
-02.
-   1. Ertsunyn capitatum
-   1. Western Wallflower
-   1. Native
-01.
-02.
-   1. Dalea purpurea
-   1. Purple Prairie Clover
-   1. Native
-01.
-02.
-   1. Monarda fistulosa
-   1. Wild Bergamot
-   1. Native
-01.
-02.
-   1. Triticum aestivum x Elytrigia elongate
-   1. Regreen
-   1. Regreen
-00.
-00.
-   1. TOTAL
+1.
+1.  1.  Stipa viridula
+    1.  Green Needlegrass
+    1.  Lodorm
+1.
+1.  1.  Gaillardia aristata
+    1.  Blanketflower
+    1.  Native
+1.
+1.  1.  Linium lewisii
+    1.  Perrenial Flax
+    1.  Native
+1.
+1.  1.  Liatris punctata
+    1.  Dotted Gayfeather
+    1.  Native
+1.
+1.  1.  Artemisia frigida
+    1.  Fringed Sage
+    1.  Native
+1.
+1.  1.  Oenothera albicaulis
+    1.  Prairie Evening Primrose
+    1.  Native
+1.
+1.  1.  Ratubuda cikynbufera
+    1.  Mexican Hats
+    1.  Native
+1.
+1.  1.  Eriogonum umbellatum
+    1.  Sulfur Flower
+    1.  Native
+1.
+1.  1.  Ertsunyn capitatum
+    1.  Western Wallflower
+    1.  Native
+1.
+1.  1.  Dalea purpurea
+    1.  Purple Prairie Clover
+    1.  Native
+1.
+1.  1.  Monarda fistulosa
+    1.  Wild Bergamot
+    1.  Native
+1.
+1.  1.  Triticum aestivum x Elytrigia elongate
+    1.  Regreen
+    1.  Regreen
+1.
+1.  1.  TOTAL
 
-85.
-7.
-   1. 1 PLS = Pure Live Seed. Specify PLS to seed dealer when ordering seed.
-   1. 2 The seed is to be certified weed free.
-   1. SHRUBS
-   1. Install 5 gallon shrubs in erosion control blanket occurring within drainage channels or other areas of potentially high flows
-   1. Acceptable species include:
-      1. Amorpha canescens, Leadplant
-   1. Rhus aromatica ‘low-grow’, dwarf aromatic sumac
-   1. Symphoricarpos albus, Snowberry
-   1. Ribes cereum, wax currant
-   1. Prunus besseyi, Western sand cherry
+1.
+1.  1.  1 PLS = Pure Live Seed. Specify PLS to seed dealer when ordering seed.
+    1.  2 The seed is to be certified weed free.
+    1.  SHRUBS
+    1.  Install 5 gallon shrubs in erosion control blanket occurring within drainage channels or other areas of potentially high flows
+    1.  Acceptable species include:
+        1. Amorpha canescens, Leadplant
+    1.  Rhus aromatica ‘low-grow’, dwarf aromatic sumac
+    1.  Symphoricarpos albus, Snowberry
+    1.  Ribes cereum, wax currant
+    1.  Prunus besseyi, Western sand cherry
 
 ## Execution
 
@@ -666,7 +617,7 @@ tags: ['Site', 'Infrastructure', 'Exterior', 'Improvements', 'Sodding']
    1. Take measures and furnish equipment and labor necessary to control and prevent soil erosion, blowing soil and accumulation of wind-deposited materials on the site throughout the duration of work.
    1. Erosion damage is the Contractor's responsibility once site disruption begins.
    1. Refer to Section 312500 Temporary Erosion and Sedimentation Control
-FIELD QUALITY CONTROL
+      FIELD QUALITY CONTROL
    1. Inspection
    1. Provide notice to Owner requesting inspection at least seven (7) days prior to anticipated date of completion.
    1. Deficiencies
@@ -697,5 +648,3 @@ FIELD QUALITY CONTROL
    1. Acceptable uniform plant growth shall be defined as the following, whichever is the more strict:
       1. 70% of predisturbance vegetative cover.
    1. At least 6 desirable seedlings/sq. ft. (non-irrigated areas) or 12 desirable seedlings/sq. ft. (in irrigated areas). Scattered bare spots, no greater than 1 sq. ft. and not exceeding 5 percent of seeded area may be acceptable, if approved by Landscape Architect or Ecologist.
-
-

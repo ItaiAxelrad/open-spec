@@ -15,4 +15,3 @@ tags: ['Procurement', 'Contracting', 'Requirements', 'Contract', 'Forms']
 6. Application for Payment
 7. Tax Exemption Certificate
 8. Change Order Form
-

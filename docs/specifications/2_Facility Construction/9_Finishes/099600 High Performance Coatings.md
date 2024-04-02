@@ -4,7 +4,8 @@ section: '099600'
 divNumb: 9
 divName: Finishes
 subgroup: Facility Construction
-tags: ['Facility', 'Construction', 'Finishes', 'High', 'Performance', 'Coatings']
+tags:
+  ['Facility', 'Construction', 'Finishes', 'High', 'Performance', 'Coatings']
 ---
 
 ## General
@@ -25,73 +26,73 @@ tags: ['Facility', 'Construction', 'Finishes', 'High', 'Performance', 'Coatings'
    12. Two-component, polyester epoxy coating (HIPAC).
    13. Two-component, pigmented aliphatic polyurethane coating.
    14. Two-component, epoxy emulsion (water base).
-15. References
-   16. SSPC:
-      1. The Society for Protective Coatings
-   17. SSPC-SP 6 - Commercial Blast Cleaning
-   18. SSPC-SP 10 - Near-White Blast Cleaning
-   19. definitions
-   20. Special coating systems are defined as those types of materials and methods of application requiring more than the normal skills and techniques for mixing, handling and application specified in the "Painting" Section.
-   21. The term "special coating systems" as used in this Section includes applied materials used in prime, intermediate and finish coats.
-   22. The term "exposed surfaces" is defined to include areas visible when permanent or built-in fixtures, convector covers, covers for finned tube radiation, grilles, and similar components are in place in areas to be coated. Extend special coatings in these areas as necessary to maintain the coating system integrity and provide desired protection.
-23. Submittals
-   24. Product Data
-   25. Submit manufacturer's technical information, including application instructions for each coating material specified.
-   26. List each material and cross-reference to the specific coating and finish system and application. Identify each material by the manufacturer's catalog number and general classification.
-   27. Substitutions
-   28. The products of manufacturers not named may be submitted for use provided they are equal in quality and grade to the primers and finishes specified as approved by the Architect. If substitute paint products are desired, submit a statement to the Architect giving the manufacturer's name, proposed primer and finish for each paint system, analysis of each type of paint, and the use or uses intended. Failure to submit such statement will be cause for rejection.
-   29. The substitute manufacturer shall provide a letter of certification stating that all coatings proposed are in compliance with the restrictions on the lead and chromium content in the "Hazardous Restrictions" Article below.
-   30. Samples
-   31. Prior to beginning Work, the Architect will furnish color chips for surfaces to be coated. Use representative colors when preparing Samples for review. Submit Samples for the Architect's review of color and texture only. Provide a listing of material and application for each coat of each finish Sample.
-   32. Provide Samples of each color and material to be applied, with texture to simulate actual conditions, on representative Samples of the actual substrate. Resubmit Samples as requested until the required sheen, color and texture is achieved.
-   33. Concrete:
-      2. provide two 4-inch-square Samples for each type of color and finish; define prime and finish coats.
-   34. Concrete masonry:
-      3. provide two 8-inch-square samples of masonry, with mortar joint in the center, for each type of finish and color; define block filler, prime coat and finish coat.
-   35. Wood:
-      4. provide two 12-inch-square Samples of hardboard for each type of finish and color.
-   36. Ferrous metal:
-      5. provide two 4-inch-square Samples of flat metal surfaces and two 8-inch-long samples of solid metal for each type of color and finish; define prime and finish coats.
-   37. Quality Assurance
-   38. Single Source Responsibility
-   39. Provide primers and other undercoat material produced by the same manufacturer as the finish coats. Use only thinners recommended by the manufacturer, and only within recommended limits.
-   40. Coordination of Work
-   41. Review other Sections of the Specifications in which other coatings are being provided to ensure compatibility of the total coatings systems for various substrates. Upon request, furnish information on the characteristics of specified finish materials, to ensure that compatible prime coats are use.
-   42. Notify the Architect of any anticipated problems involved in using the coatings systems as specified.
-   43. Field Samples
-   44. On actual wall surfaces and other interior and exterior building components, duplicate coating finishes of prepared samples. Provide full-coat finish samples on at least 100 square feet of surface as directed, until required sheen, color, and texture is obtained; simulate finished lighting conditions for review of in-place Work.
-   45. Final acceptance of colors will be from samples applied on the job.
-   46. The Architect will select one room, area or surface to represent typical job surfaces and conditions for each type of coating and substrate to be coated. Apply special coatings in this room, area or surface in accordance with the schedule, or as specified. After finishes are accepted, this room, area or surface is used for evaluation of other coating systems of a similar nature.
-   47. Material Quality
-   48. Provide the best quality grade of the various types of coatings as regularly manufactured by acceptable coating manufacturers. Materials not displaying manufacturer's identification as a standard, best-grade product is not acceptable.
-   49. Proprietary names used to designate colors or materials are not intended to imply that products of named manufacturers are required to the exclusion of equivalent products of other manufacturers.
-   50. Delivery, Storage And Handling
-   51. Delivery
-   52. Deliver materials to the job site in the manufacturer's original, new, unopened packages and containers bearing manufacturer's name and label and the following information:
-      6. Name or title of material.
-   53. Federal specification number, if applicable.
-   54. Manufacturer's stock number and date of manufacture.
-   55. Manufacturer's name.
-   56. Contents by volume, for major pigment and vehicle constituents.
-   57. Thinning instructions.
-   58. Application instructions.
-   59. Color name and number.
-   60. Handling instructions and precautions.
-   61. Storage
-   62. Store materials not in actual use in tightly covered containers, at a minimum ambient temperature of 45 degrees F, in a well ventilated area. Maintain containers used in storage of coatings in a clean condition, free of foreign materials and residue.
-   63. Protect from freezing where necessary. Keep storage area neat and orderly. Remove oil rags and waste daily. Take all necessary precautionary measures to ensure that workmen and work areas are adequately protected from fire hazards and health hazards resulting from handling, mixing and application of stains.
-   64. Project Conditions
-   65. Apply coatings only when the temperature of surfaces to be coated and surrounding air temperatures are above 45 degrees F, unless otherwise permitted by manufacturer's printed instructions.
-   1. Do not apply coatings in snow, rain, fog or mist, or when the relative humidity exceeds 85 percent, or to damp or wet surfaces unless otherwise permitted by manufacturer's printed instructions. Allow wet surfaces to dry thoroughly and attain the temperature and conditions specified before proceeding with or continuing with the coating operation.
-   1. maintenance stock
-   2. At time of completed application, deliver stock of maintenance material to the Owner. Furnish not less than one properly labeled and sealed 1-gallon can of each type of finish coat of each color, taken from lots furnished for the Work.
-   3. Hazardous Materials Restrictions
-   4. Clean Air Standards
-   5. For paints and painting practices, comply with all applicable state and local laws enacted to insure compliance with Federal Clean Air Standards.
-   6. Lead and Chromium
-   7. Do not use mercurial fungicides paints containing lead or chromium in excess of 0.06 percent by weight of the total nonvolatile content (calculated as lead or chromium metal).
-   8. Mercury
-   9. Do not use mercurial fungicides.
+2. References
+3. SSPC:
+4. The Society for Protective Coatings
+5. SSPC-SP 6 - Commercial Blast Cleaning
+6. SSPC-SP 10 - Near-White Blast Cleaning
+7. definitions
+8. Special coating systems are defined as those types of materials and methods of application requiring more than the normal skills and techniques for mixing, handling and application specified in the "Painting" Section.
+9. The term "special coating systems" as used in this Section includes applied materials used in prime, intermediate and finish coats.
+10. The term "exposed surfaces" is defined to include areas visible when permanent or built-in fixtures, convector covers, covers for finned tube radiation, grilles, and similar components are in place in areas to be coated. Extend special coatings in these areas as necessary to maintain the coating system integrity and provide desired protection.
+11. Submittals
+12. Product Data
+13. Submit manufacturer's technical information, including application instructions for each coating material specified.
+14. List each material and cross-reference to the specific coating and finish system and application. Identify each material by the manufacturer's catalog number and general classification.
+15. Substitutions
+16. The products of manufacturers not named may be submitted for use provided they are equal in quality and grade to the primers and finishes specified as approved by the Architect. If substitute paint products are desired, submit a statement to the Architect giving the manufacturer's name, proposed primer and finish for each paint system, analysis of each type of paint, and the use or uses intended. Failure to submit such statement will be cause for rejection.
+17. The substitute manufacturer shall provide a letter of certification stating that all coatings proposed are in compliance with the restrictions on the lead and chromium content in the "Hazardous Restrictions" Article below.
+18. Samples
+19. Prior to beginning Work, the Architect will furnish color chips for surfaces to be coated. Use representative colors when preparing Samples for review. Submit Samples for the Architect's review of color and texture only. Provide a listing of material and application for each coat of each finish Sample.
+20. Provide Samples of each color and material to be applied, with texture to simulate actual conditions, on representative Samples of the actual substrate. Resubmit Samples as requested until the required sheen, color and texture is achieved.
+21. Concrete:
+22. provide two 4-inch-square Samples for each type of color and finish; define prime and finish coats.
+23. Concrete masonry:
+24. provide two 8-inch-square samples of masonry, with mortar joint in the center, for each type of finish and color; define block filler, prime coat and finish coat.
+25. Wood:
+26. provide two 12-inch-square Samples of hardboard for each type of finish and color.
+27. Ferrous metal:
+28. provide two 4-inch-square Samples of flat metal surfaces and two 8-inch-long samples of solid metal for each type of color and finish; define prime and finish coats.
+29. Quality Assurance
+30. Single Source Responsibility
+31. Provide primers and other undercoat material produced by the same manufacturer as the finish coats. Use only thinners recommended by the manufacturer, and only within recommended limits.
+32. Coordination of Work
+33. Review other Sections of the Specifications in which other coatings are being provided to ensure compatibility of the total coatings systems for various substrates. Upon request, furnish information on the characteristics of specified finish materials, to ensure that compatible prime coats are use.
+34. Notify the Architect of any anticipated problems involved in using the coatings systems as specified.
+35. Field Samples
+36. On actual wall surfaces and other interior and exterior building components, duplicate coating finishes of prepared samples. Provide full-coat finish samples on at least 100 square feet of surface as directed, until required sheen, color, and texture is obtained; simulate finished lighting conditions for review of in-place Work.
+37. Final acceptance of colors will be from samples applied on the job.
+38. The Architect will select one room, area or surface to represent typical job surfaces and conditions for each type of coating and substrate to be coated. Apply special coatings in this room, area or surface in accordance with the schedule, or as specified. After finishes are accepted, this room, area or surface is used for evaluation of other coating systems of a similar nature.
+39. Material Quality
+40. Provide the best quality grade of the various types of coatings as regularly manufactured by acceptable coating manufacturers. Materials not displaying manufacturer's identification as a standard, best-grade product is not acceptable.
+41. Proprietary names used to designate colors or materials are not intended to imply that products of named manufacturers are required to the exclusion of equivalent products of other manufacturers.
+42. Delivery, Storage And Handling
+43. Delivery
+44. Deliver materials to the job site in the manufacturer's original, new, unopened packages and containers bearing manufacturer's name and label and the following information:
+45. Name or title of material.
+46. Federal specification number, if applicable.
+47. Manufacturer's stock number and date of manufacture.
+48. Manufacturer's name.
+49. Contents by volume, for major pigment and vehicle constituents.
+50. Thinning instructions.
+51. Application instructions.
+52. Color name and number.
+53. Handling instructions and precautions.
+54. Storage
+55. Store materials not in actual use in tightly covered containers, at a minimum ambient temperature of 45 degrees F, in a well ventilated area. Maintain containers used in storage of coatings in a clean condition, free of foreign materials and residue.
+56. Protect from freezing where necessary. Keep storage area neat and orderly. Remove oil rags and waste daily. Take all necessary precautionary measures to ensure that workmen and work areas are adequately protected from fire hazards and health hazards resulting from handling, mixing and application of stains.
+57. Project Conditions
+58. Apply coatings only when the temperature of surfaces to be coated and surrounding air temperatures are above 45 degrees F, unless otherwise permitted by manufacturer's printed instructions.
+59. Do not apply coatings in snow, rain, fog or mist, or when the relative humidity exceeds 85 percent, or to damp or wet surfaces unless otherwise permitted by manufacturer's printed instructions. Allow wet surfaces to dry thoroughly and attain the temperature and conditions specified before proceeding with or continuing with the coating operation.
+60. maintenance stock
+61. At time of completed application, deliver stock of maintenance material to the Owner. Furnish not less than one properly labeled and sealed 1-gallon can of each type of finish coat of each color, taken from lots furnished for the Work.
+62. Hazardous Materials Restrictions
+63. Clean Air Standards
+64. For paints and painting practices, comply with all applicable state and local laws enacted to insure compliance with Federal Clean Air Standards.
+65. Lead and Chromium
+66. Do not use mercurial fungicides paints containing lead or chromium in excess of 0.06 percent by weight of the total nonvolatile content (calculated as lead or chromium metal).
+67. Mercury
+68. Do not use mercurial fungicides.
 
 ## Products
 
@@ -101,13 +102,13 @@ tags: ['Facility', 'Construction', 'Finishes', 'High', 'Performance', 'Coatings'
    1. Carboline Co. (Carboline)
    1. DuPont Co. High Performance Coatings (DuPont)
    1. ICI Devoe Coatings
-   1. PPG Architectural Finishes, Inc., (PPG) 
+   1. PPG Architectural Finishes, Inc., (PPG)
    1. Sherwin-Williams Co. (S-W)
    1. Tnemec Company, Inc. (Tnemec)
    1. Exterior Coating Materials
    1. Exterior Block Fillers
    1. Block filler under pigmented, polyurethane coatings:
-      1. Ameron Amerlock 400BF. 
+      1. Ameron Amerlock 400BF.
    1. Carboline Carbocrylic 650.
    1. ICI 4000 Bloxfil H.D. Acrylic Block Filler.
    1. PPG 16-90 Pitt-Glaze High Performance Block Filler.
@@ -115,7 +116,7 @@ tags: ['Facility', 'Construction', 'Finishes', 'High', 'Performance', 'Coatings'
    1. Tnemec Series 130 Envirofill
    1. Bond Coats
    1. Bond coat of thinned, coal-tar epoxy over concrete under a 2-component, epoxy coal-tar coating system:
-      1. Ameron Amercoat 78HB. 
+      1. Ameron Amercoat 78HB.
    1. Carboline Kop Coat Bitumastic 300XM.
    1. ICI Devtar 5A Epoxy High Build Coating.
    1. PPG 97-640/97-641 Coal Cat Coal Tar Epoxy.
@@ -123,7 +124,7 @@ tags: ['Facility', 'Construction', 'Finishes', 'High', 'Performance', 'Coatings'
    1. Tnemec 46H-413 Hi-Build Tneme-Tar.
    1. Exterior Primers
    1. Primer-sealer over wood under a pigmented polyurethane coating system:
-      1. Ameron Amercoat 385. 
+      1. Ameron Amercoat 385.
    1. Carboline Carbocrylic 120.
    1. DuPont Imron 333 Polyurethane Enamel
    1. ICI Bar-Rust 235 Multi-Purpose Epoxy Coating.
@@ -131,14 +132,14 @@ tags: ['Facility', 'Construction', 'Finishes', 'High', 'Performance', 'Coatings'
    1. S-W Hi-Solids Polyurethane, B65-300 Series/ B60V30, Thinned 50%
    1. Tnemec Series 66 Hi-Build Epoxoline.
    1. Metal primer over ferrous metal under alkyd enamel coatings:
-      1. Ameron Amercoat 3203. 
-   1. Carboline Multi-Bond 150. 
+      1. Ameron Amercoat 3203.
+   1. Carboline Multi-Bond 150.
    1. ICI Devguard 4160 Multi-Purpose Primer.
    1. PPG 97-680 Multiprime Inhibitive Low VOC White Primer.
    1. S-W Kem Kromik Universal Metal Primer, B50W1.
    1. Tnemec Series 37H Chem-Prime H.S..
    1. Intermediate coat over a block filler on concrete masonry under a pigmented polyurethane coating system:
-      1. Ameron Amercoat 385. 
+      1. Ameron Amercoat 385.
    1. Carboline Carboline 893.
    1. DuPont Corlar 26P High Solids Epoxy Enamel
    1. ICI Devthane 379 Aliphatic Urethane Gloss Enamel.
@@ -155,7 +156,7 @@ tags: ['Facility', 'Construction', 'Finishes', 'High', 'Performance', 'Coatings'
    1. S-W Coal Tar Epoxy C-200 (B69B50/B60V50).
    1. Tnemec 46H-413 Hi-Build Tneme-Tar.
    1. Two-component aliphatic pigmented polyurethane coating:
-      1. Ameron Amercoat 450HS. 
+      1. Ameron Amercoat 450HS.
    1. Carboline Carbothane 134HG.
    1. DuPont Imron 333 Polyurethane Enamel
    1. ICI Devthane 4708 Aliphatic Urethane Gloss Enamel.
@@ -163,7 +164,7 @@ tags: ['Facility', 'Construction', 'Finishes', 'High', 'Performance', 'Coatings'
    1. S-W Hi-Solids Polyurethane, B65-300 Series/ B60V30.
    1. Tnemec Series 74 Endura-Shield
    1. Silicone alkyd gloss enamel over ferrous metal:
-      1. Ameron Amercoat 3203. 
+      1. Ameron Amercoat 3203.
    1. Carboline Subsil 30HS.
    1. ICI Bar-Ox 475 Silicone Alkyd Gloss Enamel.
    1. PPG 97-480 Series Silicone Alkyd Enamel.
@@ -171,7 +172,7 @@ tags: ['Facility', 'Construction', 'Finishes', 'High', 'Performance', 'Coatings'
    1. Heat-resistant, silicone aluminum coating over ferrous metal surfaces subject to surface temperatures up to 204 degrees C (400 degrees F):
       1. Ameron PSX 892HS Engineered Siloxane.
    1. Carboline Carboline 1248.
-   1. ICI HT-4 Heat Resistant Silicone Acrylic. 
+   1. ICI HT-4 Heat Resistant Silicone Acrylic.
    1. PPG UC46006 Silicone Acrylic Aluminum Finish.
    1. S-W Silver-Brite Aluminum Paint B59S11.
    1. Tnemec 39-661 Silicone Aluminum.
@@ -185,26 +186,26 @@ tags: ['Facility', 'Construction', 'Finishes', 'High', 'Performance', 'Coatings'
    1. Interior Coating Materials
    1. Interior Block Fillers
    1. Block filler under a high performance, 2-component, epoxy coating system:
-      1. Ameron Amerlock 400BF. 
+      1. Ameron Amerlock 400BF.
    1. Carboline Sanitile-Flexxide Masonry Block Filler.
    1. ICI 4000 Bloxfil Interior/Exterior Acrylic Latex
    1. PPG 16-90 Pitt-Glaze High Performance Acrylic Block Filler.
    1. S-W Epoxy Ester Masonry Filler/Sealer, B61W2.
    1. Tnemec 54-562 Fine Masonry Filler.
-   1. Ameron Amerlock 400BF. 
+   1. Ameron Amerlock 400BF.
    1. Carboline Sanitile 250WB Block Filler.
    1. PPG 97-685/97-686 Polyamide Epoxy Block Filler.
    1. S-W Kem Cati-Coat HS Epoxy Filler/Sealer, B42W400/B42V401.
    1. Tnemec 54-562 Fine Masonry Filler.
    1. Block fillers under a pigmented aliphatic polyurethane enamel coating system:
-      1. Ameron Amerlock 400BF. 
+      1. Ameron Amerlock 400BF.
    1. Carboline Carbocrylic 650.
    1. ICI 4000 Bloxfil Interior/Exterior Acrylic Latex
    1. PPG 97-685/97-686 Polyamide Epoxy Block Filler.
    1. S-W Epoxy Ester Masonry Filler/Sealer, B61W2.
    1. Tnemec 54-660 Masonry Filler.
    1. Block filler under an epoxy emulsion system:
-      1. Ameron Amerlock 400BF. 
+      1. Ameron Amerlock 400BF.
    1. Carboline Carbocrylic 650.
    1. PPG 16-90 Pitt-Glaze High Performance Acrylic Block Filler.
    1. S-W Heavy Duty Block Filler, B42W46.
@@ -212,7 +213,7 @@ tags: ['Facility', 'Construction', 'Finishes', 'High', 'Performance', 'Coatings'
    1. Tnemec 54-562 Fine Masonry Filler.
    1. Pigmented Sealer
    1. Pigmented sealer over concrete under a high performance, polyester epoxy coating system:
-      1. Ameron Amercoat 385. 
+      1. Ameron Amercoat 385.
    1. Carboline Carboline 890.
    1. ICI Tru-Glaze 4508 Epoxy Coating Gloss.
    1. PPG 97-130 Series High Build Aquapon Semi-Gloss.
@@ -228,7 +229,7 @@ tags: ['Facility', 'Construction', 'Finishes', 'High', 'Performance', 'Coatings'
    1. S-W Tile-Clad II Epoxy, B62 Series/B60V70.
    1. Tnemec Series 66 Hi-Build Epoxoline.
    1. Base coat over wood and under a pigmented aliphatic polyurethane coating system:
-      1. Ameron Amercoat 385. 
+      1. Ameron Amercoat 385.
    1. Carboline Carbocrylic 120.
    1. DuPont Imron 326/333 Polyurethane Enamel
    1. ICI Gripper 3210.
@@ -237,7 +238,7 @@ tags: ['Facility', 'Construction', 'Finishes', 'High', 'Performance', 'Coatings'
    1. Tnemec Series 66 Hi-Build Epoxoline.
    1. Interior Primers
    1. Metal primer over ferrous metal:
-      1. Ameron Amercoat 385. 
+      1. Ameron Amercoat 385.
    1. Carboline Rustarmor 29.
    1. ICI Devguard 4160 Multi-Purpose Primer.
    1. PPG 97-145 Series Pitt-Guard D-T-R Epoxy Coating.
@@ -245,7 +246,7 @@ tags: ['Facility', 'Construction', 'Finishes', 'High', 'Performance', 'Coatings'
    1. Tnemec Series 66 Hi-Build Epoxoline.
    1. Base coat:
       1. primer-sealer over wood under a two-component epoxy emulsion:
-      1. Ameron Amercoat 385. 
+      1. Ameron Amercoat 385.
    1. Carboline Carbocrylic 120.
    1. DuPont Corlar 26P High Solids Epoxy Enamel
    1. ICI Tru-Glaze 4508 Epoxy Coating.
@@ -254,7 +255,7 @@ tags: ['Facility', 'Construction', 'Finishes', 'High', 'Performance', 'Coatings'
    1. Tnemec Series 36 Undercoater.
    1. Intermediate Coats
    1. Intermediate coat over wood in a polyester epoxy coating system:
-      1. Ameron Amercoat 385. 
+      1. Ameron Amercoat 385.
    1. Carboline Carboline 890.
    1. DuPont Corlar 26P HB High Build HS Epoxy Enamel
    1. ICI Tru-Glaze 4508 Epoxy Coating.
@@ -262,16 +263,16 @@ tags: ['Facility', 'Construction', 'Finishes', 'High', 'Performance', 'Coatings'
    1. S-W Armor-Tile HS Polyester Epoxy, B67-100 Series/B67V100.
    1. Tnemec Series 66 Hi-Build Epoxoline.
    1. Intermediate coat over concrete masonry units under a pigmented aliphatic polyurethane enamel finish coat:
-      1. Ameron Amerlock 400. 
+      1. Ameron Amerlock 400.
    1. Carboline Carboline 890.
    1. DuPont Imron 326/333 Polyurethane Enamel
    1. ICI Devthane 4708 Aliphatic Urethane Gloss Enamel.
-   1. PPG 95-800 Series Pitthane Ultra Gloss Urethane. 
+   1. PPG 95-800 Series Pitthane Ultra Gloss Urethane.
    1. S-W Hi-Solids Polyurethane, B65-300 Series/B60V30.
    1. Tnemec Series 75 Endura-Shield.
    1. Finish Coats
    1. Two-component, high performance, polyamide epoxy coating (HIPAC), high gloss:
-      1. Ameron Amercoat 385. 
+      1. Ameron Amercoat 385.
    1. Carboline Carboline 890.
    1. DuPont Corlar 823 HB High Build Epoxy Enamel
    1. ICI Tru-Glaze 4508 Epoxy Coating.
@@ -279,7 +280,7 @@ tags: ['Facility', 'Construction', 'Finishes', 'High', 'Performance', 'Coatings'
    1. S-W Tile-Clad II Epoxy B62 Series/B60V70.
    1. Tnemec Series 83 Ceramlon II.
    1. Two-component, high performance polyester epoxy coating (HIPAC), high gloss:
-      1. Ameron Amercoat 385. 
+      1. Ameron Amercoat 385.
    1. Carboline Carboline 890.
    1. DuPont Corlar 26P High Solids Epoxy Enamel
    1. PPG 16-610/16-630 Pitt-Glaze High Solids Polyester-Epoxy.
@@ -289,8 +290,8 @@ tags: ['Facility', 'Construction', 'Finishes', 'High', 'Performance', 'Coatings'
       1. Ameron Amercoat 450HS.
    1. Carboline Carbothane 134 HG.
    1. DuPont Imron 326/333 Polyurethane Enamel
-    1. ICI Devthane 4708 Aliphatic Urethane Gloss Enamel.
-   1. PPG 95-8000 Series Pitthane Ultra Gloss Urethane. 
+   1. ICI Devthane 4708 Aliphatic Urethane Gloss Enamel.
+   1. PPG 95-8000 Series Pitthane Ultra Gloss Urethane.
    1. S-W Hi-Solids Polyurethane, B65-300 Series/B60V30.
    1. Tnemec Series 71 Endura-Shield.
    1. Epoxy emulsion coatings:
@@ -312,201 +313,175 @@ tags: ['Facility', 'Construction', 'Finishes', 'High', 'Performance', 'Coatings'
 
 1. Inspection
    1. Starting of coating Work is construed as the applicator's acceptance of surfaces within any particular area.
-1. Preparation
-   2. Remove hardware, hardware accessories, machined surfaces, plates, lighting fixtures, and similar items which are not to be coated, or provide surface-applied protection prior to surface preparation and coating operations. Remove these items if it is necessary for the complete coating of the items and adjacent surfaces. Following completion of coating operations in each space or area, reinstall the items removed, using workmen skilled in the trades involved.
-   3. Clean surfaces to be coated before applying coatings or surface treatments. Schedule cleaning and coating application so that dust and other contaminates will not fall on wet, newly coated surfaces.
-   4. Surface Preparation
-   5. Perform surface preparation and cleaning in compliance with the manufacturer's instructions for the particular substrate conditions, and as specified.
-   6. Notify the Architect in writing of anticipated problems in using the specified coating systems with substrates primed or furnished by others.
-   7. Cementitious surfaces
-   8. Prepare cementitious surfaces of concrete, concrete masonry, cement plaster and similar surfaces scheduled to receive special coatings by removing efflorescence, chalk, dust, dirt, grease and oils, and by roughing if necessary to remove glaze.
-   9. Use abrasive blast cleaning methods if recommended by the coating system manufacturer.
-   10. Determine alkalinity and moisture content of surfaces to be coated by performing appropriate tests. Do not apply coatings over surfaces where moisture content exceeds that permitted in the manufacturer's printed directions.
-   11. Acid-etch concrete floor surfaces scheduled to receive special coatings with a 5 percent solution of muriatic acid or other proprietary cleaner. Flush the floor with clean water to remove acid, and neutralize with ammonia and rinse; allow to dry.
-   12. Wood surfaces
-   13. Clean wood surfaces of dirt, oil, and other foreign substances, using scrapers, mineral spirits, and sandpaper as needed. Sand smooth the surfaces exposed to view, and dust off.
-   14. Scrape and clean small, dry, seasoned knots and apply a thin coat of white shellac or other recommended knot sealer, before application of priming coat.
-   15. Ferrous metal surfaces
-   16. Clean non-galvanized, ferrous metal surfaces, that have not been shop-coated, of oil, grease, dirt, loose mill scale and other foreign substances. Use solvent or mechanical cleaning methods complying with the recommendations of SSPC.
-   17. Blast clean steel surfaces as recommended by the coating system manufacturer and in accordance with the requirements of SSPC (SP-10) (SP-6).
-   18. Treat bare and sandblasted or pickled clean metal with a metal treatment wash coat prior to priming.
-   19. Touch-up shop applied prime coats which have been damaged, and bare areas. Wire-brush, solvent clean, and touch-up with the same primer as the shop coat.
-   20. Non-ferrous metal surfaces
-   21. Clean non-ferrous and galvanized surfaces in accordance with the manufacturer's instructions for the type of service, metal substrate and application required.
-   22. Material Preparation
-   23. Carefully mix and prepare materials in compliance with the coating manufacturer's directions.
-   24. Do not mix coating materials produced by different manufacturers, unless otherwise permitted by the manufacturer's instructions.
-   25. Stir materials before application to produce a mixture of uniform density, and as required during application. Do not stir film, which may form on surfaces, into the material. Remove film and, if necessary, strain the coating material before using.
-   26. Tinting
-   27. Tint each under coat a lighter shade to facilitate identification of each coat where multiple coats of the same material are to be applied. Tint undercoats to match the color of the finish coat, but provide sufficient difference in shade of undercoats to distinguish each separate coat.
-28. Application
-   29. Apply special coatings by brush, roller, spray, squeegee, or other applicators in accordance with the manufacturer's directions. Use brushes best suited for the type of material being applied. Use rollers of carpet, velvet back, or high-pile sheep's wool as recommended by the manufacturer for the material and texture required.
-   30. Apply additional coats when undercoats or other conditions show through the final coat, until the cured film is of uniform coating finish, color and appearance.
-   31. Coating colors, surface treatments and finishes are as indicated.
-   32. Provide finish coats that are compatible with the primers used.
-   33. The number of coats and coating film thickness required is the same regardless of the application method. Do not apply succeeding coats until the previous coat has cured as recommended by the coating manufacturer. Sand between coating applications where sanding is required to produce an even, smooth surface in accordance with the coating manufacturer's directions.
-   34. Coat surfaces behind movable equipment and furniture the same as similar exposed surfaces.
-   35. Coat the back sides of access panels, removable or hinged covers, and similar hinged items, to match exposed surfaces.
-   36. Minimum Coating Thickness
-   37. Apply each material at not thinner than the manufacturer's recommended spreading rate. Provide a total dry film thickness of the entire coating system as recommended by the manufacturer.
-   38. Prime Coats
-   39. Before the application of finish coats, apply a prime coat, as recommended by the coating manufacturer, to material that is required to be painted or finished, and which has not been prime coated by others.
-   40. Recoat primed and sealed substrates where there is evidence of suction spots or unsealed areas in the first coat, to assure a finish coat with no burn-through or other defects due to insufficient sealing.
-   41. Brush Application
-   42. Brush-out and work brush coats into surfaces in an even film. Eliminate cloudiness, spotting, holidays, laps, brush marks, runs, sags, ropiness, and other surface imperfections. Neatly draw glass lines and color breaks.
-   43. Apply primers and first coats by brush unless the manufacturer's instructions permit use of mechanical applicators.
-   44. Mechanical Applications
-   45. Use mechanical methods for coating application when permitted by the coating manufacturer's recommendations, governing ordinances, and trade union regulation.
-   46. Wherever spray application is used, apply each coat providing the equivalent hiding of brush-applied coats. Do not doubleback with spray equipment building-up film thickness of 2 coats in one pass, unless recommended by the coating manufacturer.
-   47. Completed Work
-   48. Match approved samples for color, texture and coverage. Remove, refinish or recoat Work not in compliance with specified requirements.
-   1. Field Quality Control
-   1. Testing Procedures
-   2. The Owner reserves the right to invoke the product testing procedure at any time, and at any number of times during the period when coating operations are being conducted.
-   3. The Owner will engage the services of an independent testing laboratory to sample the coating being used. Samples of products delivered to Project site will be taken, identified and sealed, and certified in the presence of the Contractor.
-   4. The testing laboratory will perform appropriate tests for any or all of the following characteristics as required by the Owner:
-      1. Quantitive materials analysis.
-   5. Absorption.
-   6. Accelerated weathering.
-   7. Accelerated yellowness.
-   8. Color retention.
-   9. Alkali resistance.
-   10. Mildew resistance.
-   11. Abrasion resistance.
-   12. Apparent reflectivity.
-   13. Washability.
-   14. Dry opacity.
-   15. Recoating.
-   16. Skinning.
-   17. If test results show products being used do not comply with specified requirements, the Contractor may be directed to stop work, and remove non-complying products, pay for testing, recoat surfaces coated with rejected products, or remove rejected products from previously coated surfaces if, upon recoating with the specified products, the two coatings are not compatible.
-   18. Cleaning
-   19. Clean Up
-   20. At the end of each work day during progress of Work, remove rubbish, empty cans, rags and other discarded materials from the site.
-   21. Upon completion of the Work, clean window glass and other spattered surfaces. Remove spattered coatings by washing, scraping or other proper methods, using care not to scratch or otherwise damage adjacent finished surfaces.
-   22. Protection
-   23. Protect Work of other trades, whether being coated or not, against damage from coating operations. Correct damage by cleaning, repairing or replacing, and recoating as acceptable to the Architect. Leave the Work in an undamaged condition.
-   24. Provide "wet paint" signs as required to protect newly-coated finishes. Remove temporary protective wrappings provided by others for protection of their work, after completion of coating operations. At completion of the Work of other trades, touch-up and restore damaged or defaced coated surfaces.
-   25. Exterior Special Coating Schedule
-   26. Concrete
-   27. Two-component, polyamide epoxy coal-tar system:
-      1. provide 3 coats with a total dry film thickness not less than 15 mils.
-   28. First coat bond coat of thinned, coal-tar epoxy.
-   29. Second coat coal-tar epoxy.
-   30. Third coat coal-tar epoxy.
-   31. Two-component aliphatic pigmented polyurethane finish:
-      2. provide 1 finish coat over an intermediate coat and a block filler.
-   32. Filler concrete block filler.
-   33. Intermediate polyurethane or chemical resistant epoxy.
-   34. Finish coat polyurethane.
-   35. Concrete Masonry
-   36. Two component, pigmented aliphatic polyurethane finish:
-      3. provide one finish coat over an intermediate coat and a block filler.
-   37. Filler coat block filler 
-   38. Intermediate coat polyurethane or epoxy 
-   39. Finish coat polyurethane.
-   40. Wood
-   41. Two-component, pigmented aliphatic polyurethane finish:
-      4. provide 2 finish coats over a primer sealer:
-      5. Prime coat primer-sealer
-   42. Second coat polyurethane.
-   43. Third coat polyurethane.
-   44. Ferrous Metal
-   45. Two-component, polyamide epoxy coal-tar system:
-      6. provide 2 coats with a total dry film thickness not less than 15 mils.
-   46. First coat coal-tar epoxy.
-   47. Second coat coal-tar epoxy.
-   48. Silicone alkyd gloss enamel coating system:
-      7. provide 2 finish coats over metal primer with a total dry film thickness of not less than 4 mils.
-   49. Prime coat:
-      8. exterior metal primer First coat might 
-    1. not be required on some shop-primed items.
-   50. First coat silicone alkyd gloss enamel.
-   51. Second coat silicone alkyd gloss enamel.
-   52. Heat-resistant, silicone enamel coating system:
-      9. for surface temperatures up to 400 degrees F provide 2 coats.
-   53. First coat heat-resistant enamel.
-   1. Second coat heat-resistant enamel.
-   2. Heat-resistant aluminum coating system:
-      1. for surface temperatures up to 1200 degrees F, provide 2 coats.
-   3. First coat silicone-based heat-resistant coating.
-   4. Second coat silicone-based heat-resistant coating.
-   5. Interior Special Coating Schedule
-   6. Concrete
-   7. High performance polyamide epoxy coating system (HIPAC):
-      1. provide 2 coats with a total dry film thickness of not less than 4.0 mils.
-   8. First coat polyamide epoxy coating or intermediate coat.
-   9. Second coat polyamide epoxy coating.
-   10. Two-component, high-gloss polyester epoxy coating system (HIPAC):
-      1. provide one coat of high-gloss polyester epoxy coating over the manufacturer's recommended pigmented sealer.
-   11. Sealer coat pigmented sealer.
-   12. Finish coat high-gloss polyester epoxy.
-   13. Two-component, pigmented aliphatic polyurethane coating system:
-      2. provide one base coat and one finish coat of factory formulated pigmented polyurethane coating.
-   14. Base coat base coat.
-   15. Finish coat polyurethane.
-   16. Two-component, epoxy emulsion coating:
-      3. provide one-coat block filler and one finish coat epoxy emulsion.
-   17. Filler coat block filler.
-   18. Finish coat epoxy emulsion.
-   19. Concrete Masonry Units
-   20. Two-component, high performance polyamide epoxy coating system (HIPAC):
-      4. provide 2 finish coats with a total dry film thickness of not less than 4.0 mils over a block filler.
-   21. Filler coat block filler.
-   22. First coat polyamide epoxy or intermediate coat.
-   23. Second coat polyamide epoxy.
-   24. Two-component high-gloss polyester epoxy coating system (HIPAC):
-      5. provide one coat of high-gloss polyester epoxy coating over a block filler.
-   25. Filler coat block filler.
-   26. First coat polyester epoxy.
-   27. Two-component pigmented polyurethane coating system:
-      6. provide one finish coat of pigmented polyurethane enamel coating over an intermediate coat and a block filler.
-   28. Filler coat block filler.
-   29. First coat intermediate coat.
-   30. Second coat polyurethane.
-   31. Two-component epoxy emulsion coating with gloss finish:
-      7. provide 2 finish coats of factory-formulated epoxy emulsion, gloss, over block filler.
-   32. Filler coat block filler.
-   33. First coat epoxy emulsion.
-   34. Second coat epoxy emulsion.
-   35. Wood
-   36. Two-component, high performance polyamide epoxy coating system (HIPAC):
-      8. provide 2 coats with a total dry film thickness of not less than 4.0 mils over base coat.
-   37. Base coat as recommended by the manufacturer.
-   38. First coat polyamide epoxy.
-   39. Second coat polyamide epoxy.
-   40. High-gloss polyester epoxy coating system (HIPAC):
-      1. provide one coat of high-gloss polyester epoxy coating over an intermediate coat and a base coat.
-   1. Base coat as recommended by the coating manufacturer.
-   2. First coat intermediate coat.
-   3. Second coat high-gloss polyester epoxy.
-   4. Pigmented polyurethane coating system:
-      1. provide one finish coat of factory-formulated, pigmented polyurethane enamel coating over the manufacturer's recommended base coat material.
-   5. Base coat as recommended by the coating manufacturer.
-   6. First coat intermediate coat.
-   7. Second coat polyurethane enamel finish coat.
-   8. Two-component, epoxy emulsion coating with gloss finish:
-      1. provide two finish coats of epoxy emulsion, gloss, over the base coat material.
-   9. Base coat as recommended by the coating manufacturer.
-   10. First coat epoxy emulsion.
-   11. Second coat epoxy emulsion.
-   12. Ferrous Metals
-   13. High performance, polyamide epoxy coating system (HIPAC):
-      1. provide 2 finish coats of two-component polyamide epoxy coating, gloss finish over metal primer.
-   14. Metal primer as recommended by the coating manufacturer.
-   15. First coat polyamide epoxy.
-   16. Second coat polyamide epoxy.
-   17. High-gloss polyester epoxy coating system (HIPAC):
-      2. provide one coat of high-gloss polyester epoxy coating over an intermediate coat and a base coat.
-   18. Metal primer as recommended by the coating manufacturer.
-   19. First coat intermediate coat.
-   20. Second coat high-gloss polyester epoxy.
-   21. Pigmented polyurethane coating system:
-      3. provide one finish coat of factory-formulated, pigmented polyurethane enamel coating over the manufacturer's recommended base coat material.
-   22. Metal primer as recommended by the coating manufacturer.
-   23. First coat intermediate coat.
-   24. Second coat polyurethane enamel finish coat.
-   25. Two-component, epoxy emulsion coating with gloss finish:
-      4. provide two finish coats of epoxy emulsion, gloss, over the base coat material.
-   26. Metal primer as recommended by the coating manufacturer
-   27. First coat epoxy emulsion
-   28. Second coat epoxy emulsion.
+1. Preparation 2. Remove hardware, hardware accessories, machined surfaces, plates, lighting fixtures, and similar items which are not to be coated, or provide surface-applied protection prior to surface preparation and coating operations. Remove these items if it is necessary for the complete coating of the items and adjacent surfaces. Following completion of coating operations in each space or area, reinstall the items removed, using workmen skilled in the trades involved. 3. Clean surfaces to be coated before applying coatings or surface treatments. Schedule cleaning and coating application so that dust and other contaminates will not fall on wet, newly coated surfaces. 4. Surface Preparation 5. Perform surface preparation and cleaning in compliance with the manufacturer's instructions for the particular substrate conditions, and as specified. 6. Notify the Architect in writing of anticipated problems in using the specified coating systems with substrates primed or furnished by others. 7. Cementitious surfaces 8. Prepare cementitious surfaces of concrete, concrete masonry, cement plaster and similar surfaces scheduled to receive special coatings by removing efflorescence, chalk, dust, dirt, grease and oils, and by roughing if necessary to remove glaze. 9. Use abrasive blast cleaning methods if recommended by the coating system manufacturer. 10. Determine alkalinity and moisture content of surfaces to be coated by performing appropriate tests. Do not apply coatings over surfaces where moisture content exceeds that permitted in the manufacturer's printed directions. 11. Acid-etch concrete floor surfaces scheduled to receive special coatings with a 5 percent solution of muriatic acid or other proprietary cleaner. Flush the floor with clean water to remove acid, and neutralize with ammonia and rinse; allow to dry. 12. Wood surfaces 13. Clean wood surfaces of dirt, oil, and other foreign substances, using scrapers, mineral spirits, and sandpaper as needed. Sand smooth the surfaces exposed to view, and dust off. 14. Scrape and clean small, dry, seasoned knots and apply a thin coat of white shellac or other recommended knot sealer, before application of priming coat. 15. Ferrous metal surfaces 16. Clean non-galvanized, ferrous metal surfaces, that have not been shop-coated, of oil, grease, dirt, loose mill scale and other foreign substances. Use solvent or mechanical cleaning methods complying with the recommendations of SSPC. 17. Blast clean steel surfaces as recommended by the coating system manufacturer and in accordance with the requirements of SSPC (SP-10) (SP-6). 18. Treat bare and sandblasted or pickled clean metal with a metal treatment wash coat prior to priming. 19. Touch-up shop applied prime coats which have been damaged, and bare areas. Wire-brush, solvent clean, and touch-up with the same primer as the shop coat. 20. Non-ferrous metal surfaces 21. Clean non-ferrous and galvanized surfaces in accordance with the manufacturer's instructions for the type of service, metal substrate and application required. 22. Material Preparation 23. Carefully mix and prepare materials in compliance with the coating manufacturer's directions. 24. Do not mix coating materials produced by different manufacturers, unless otherwise permitted by the manufacturer's instructions. 25. Stir materials before application to produce a mixture of uniform density, and as required during application. Do not stir film, which may form on surfaces, into the material. Remove film and, if necessary, strain the coating material before using. 26. Tinting 27. Tint each under coat a lighter shade to facilitate identification of each coat where multiple coats of the same material are to be applied. Tint undercoats to match the color of the finish coat, but provide sufficient difference in shade of undercoats to distinguish each separate coat.
+1. Application
+1. Apply special coatings by brush, roller, spray, squeegee, or other applicators in accordance with the manufacturer's directions. Use brushes best suited for the type of material being applied. Use rollers of carpet, velvet back, or high-pile sheep's wool as recommended by the manufacturer for the material and texture required.
+1. Apply additional coats when undercoats or other conditions show through the final coat, until the cured film is of uniform coating finish, color and appearance.
+1. Coating colors, surface treatments and finishes are as indicated.
+1. Provide finish coats that are compatible with the primers used.
+1. The number of coats and coating film thickness required is the same regardless of the application method. Do not apply succeeding coats until the previous coat has cured as recommended by the coating manufacturer. Sand between coating applications where sanding is required to produce an even, smooth surface in accordance with the coating manufacturer's directions.
+1. Coat surfaces behind movable equipment and furniture the same as similar exposed surfaces.
+1. Coat the back sides of access panels, removable or hinged covers, and similar hinged items, to match exposed surfaces.
+1. Minimum Coating Thickness
+1. Apply each material at not thinner than the manufacturer's recommended spreading rate. Provide a total dry film thickness of the entire coating system as recommended by the manufacturer.
+1. Prime Coats
+1. Before the application of finish coats, apply a prime coat, as recommended by the coating manufacturer, to material that is required to be painted or finished, and which has not been prime coated by others.
+1. Recoat primed and sealed substrates where there is evidence of suction spots or unsealed areas in the first coat, to assure a finish coat with no burn-through or other defects due to insufficient sealing.
+1. Brush Application
+1. Brush-out and work brush coats into surfaces in an even film. Eliminate cloudiness, spotting, holidays, laps, brush marks, runs, sags, ropiness, and other surface imperfections. Neatly draw glass lines and color breaks.
+1. Apply primers and first coats by brush unless the manufacturer's instructions permit use of mechanical applicators.
+1. Mechanical Applications
+1. Use mechanical methods for coating application when permitted by the coating manufacturer's recommendations, governing ordinances, and trade union regulation.
+1. Wherever spray application is used, apply each coat providing the equivalent hiding of brush-applied coats. Do not doubleback with spray equipment building-up film thickness of 2 coats in one pass, unless recommended by the coating manufacturer.
+1. Completed Work
+1. Match approved samples for color, texture and coverage. Remove, refinish or recoat Work not in compliance with specified requirements.
+1. Field Quality Control
+1. Testing Procedures
+1. The Owner reserves the right to invoke the product testing procedure at any time, and at any number of times during the period when coating operations are being conducted.
+1. The Owner will engage the services of an independent testing laboratory to sample the coating being used. Samples of products delivered to Project site will be taken, identified and sealed, and certified in the presence of the Contractor.
+1. The testing laboratory will perform appropriate tests for any or all of the following characteristics as required by the Owner:
+   1. Quantitive materials analysis.
+1. Absorption.
+1. Accelerated weathering.
+1. Accelerated yellowness.
+1. Color retention.
+1. Alkali resistance.
+1. Mildew resistance.
+1. Abrasion resistance.
+1. Apparent reflectivity.
+1. Washability.
+1. Dry opacity.
+1. Recoating.
+1. Skinning.
+1. If test results show products being used do not comply with specified requirements, the Contractor may be directed to stop work, and remove non-complying products, pay for testing, recoat surfaces coated with rejected products, or remove rejected products from previously coated surfaces if, upon recoating with the specified products, the two coatings are not compatible.
+1. Cleaning
+1. Clean Up
+1. At the end of each work day during progress of Work, remove rubbish, empty cans, rags and other discarded materials from the site.
+1. Upon completion of the Work, clean window glass and other spattered surfaces. Remove spattered coatings by washing, scraping or other proper methods, using care not to scratch or otherwise damage adjacent finished surfaces.
+1. Protection
+1. Protect Work of other trades, whether being coated or not, against damage from coating operations. Correct damage by cleaning, repairing or replacing, and recoating as acceptable to the Architect. Leave the Work in an undamaged condition.
+1. Provide "wet paint" signs as required to protect newly-coated finishes. Remove temporary protective wrappings provided by others for protection of their work, after completion of coating operations. At completion of the Work of other trades, touch-up and restore damaged or defaced coated surfaces.
+1. Exterior Special Coating Schedule
+1. Concrete
+1. Two-component, polyamide epoxy coal-tar system:
+1. provide 3 coats with a total dry film thickness not less than 15 mils.
+1. First coat bond coat of thinned, coal-tar epoxy.
+1. Second coat coal-tar epoxy.
+1. Third coat coal-tar epoxy.
+1. Two-component aliphatic pigmented polyurethane finish:
+1. provide 1 finish coat over an intermediate coat and a block filler.
+1. Filler concrete block filler.
+1. Intermediate polyurethane or chemical resistant epoxy.
+1. Finish coat polyurethane.
+1. Concrete Masonry
+1. Two component, pigmented aliphatic polyurethane finish:
+1. provide one finish coat over an intermediate coat and a block filler.
+1. Filler coat block filler
+1. Intermediate coat polyurethane or epoxy
+1. Finish coat polyurethane.
+1. Wood
+1. Two-component, pigmented aliphatic polyurethane finish:
+1. provide 2 finish coats over a primer sealer:
+1. Prime coat primer-sealer
+1. Second coat polyurethane.
+1. Third coat polyurethane.
+1. Ferrous Metal
+1. Two-component, polyamide epoxy coal-tar system:
+1. provide 2 coats with a total dry film thickness not less than 15 mils.
+1. First coat coal-tar epoxy.
+1. Second coat coal-tar epoxy.
+1. Silicone alkyd gloss enamel coating system:
+1. provide 2 finish coats over metal primer with a total dry film thickness of not less than 4 mils.
+1. Prime coat:
+1. exterior metal primer First coat might
+1. not be required on some shop-primed items.
+1. First coat silicone alkyd gloss enamel.
+1. Second coat silicone alkyd gloss enamel.
+1. Heat-resistant, silicone enamel coating system:
+1. for surface temperatures up to 400 degrees F provide 2 coats.
+1. First coat heat-resistant enamel.
+1. Second coat heat-resistant enamel.
+1. Heat-resistant aluminum coating system:
+   1. for surface temperatures up to 1200 degrees F, provide 2 coats.
+1. First coat silicone-based heat-resistant coating.
+1. Second coat silicone-based heat-resistant coating.
+1. Interior Special Coating Schedule
+1. Concrete
+1. High performance polyamide epoxy coating system (HIPAC):
+   1. provide 2 coats with a total dry film thickness of not less than 4.0 mils.
+1. First coat polyamide epoxy coating or intermediate coat.
+1. Second coat polyamide epoxy coating.
+1. Two-component, high-gloss polyester epoxy coating system (HIPAC):
+1. provide one coat of high-gloss polyester epoxy coating over the manufacturer's recommended pigmented sealer.
+1. Sealer coat pigmented sealer.
+1. Finish coat high-gloss polyester epoxy.
+1. Two-component, pigmented aliphatic polyurethane coating system:
+1. provide one base coat and one finish coat of factory formulated pigmented polyurethane coating.
+1. Base coat base coat.
+1. Finish coat polyurethane.
+1. Two-component, epoxy emulsion coating:
+1. provide one-coat block filler and one finish coat epoxy emulsion.
+1. Filler coat block filler.
+1. Finish coat epoxy emulsion.
+1. Concrete Masonry Units
+1. Two-component, high performance polyamide epoxy coating system (HIPAC):
+1. provide 2 finish coats with a total dry film thickness of not less than 4.0 mils over a block filler.
+1. Filler coat block filler.
+1. First coat polyamide epoxy or intermediate coat.
+1. Second coat polyamide epoxy.
+1. Two-component high-gloss polyester epoxy coating system (HIPAC):
+1. provide one coat of high-gloss polyester epoxy coating over a block filler.
+1. Filler coat block filler.
+1. First coat polyester epoxy.
+1. Two-component pigmented polyurethane coating system:
+1. provide one finish coat of pigmented polyurethane enamel coating over an intermediate coat and a block filler.
+1. Filler coat block filler.
+1. First coat intermediate coat.
+1. Second coat polyurethane.
+1. Two-component epoxy emulsion coating with gloss finish:
+1. provide 2 finish coats of factory-formulated epoxy emulsion, gloss, over block filler.
+1. Filler coat block filler.
+1. First coat epoxy emulsion.
+1. Second coat epoxy emulsion.
+1. Wood
+1. Two-component, high performance polyamide epoxy coating system (HIPAC):
+1. provide 2 coats with a total dry film thickness of not less than 4.0 mils over base coat.
+1. Base coat as recommended by the manufacturer.
+1. First coat polyamide epoxy.
+1. Second coat polyamide epoxy.
+1. High-gloss polyester epoxy coating system (HIPAC):
+1. provide one coat of high-gloss polyester epoxy coating over an intermediate coat and a base coat.
+1. Base coat as recommended by the coating manufacturer.
+1. First coat intermediate coat.
+1. Second coat high-gloss polyester epoxy.
+1. Pigmented polyurethane coating system:
+   1. provide one finish coat of factory-formulated, pigmented polyurethane enamel coating over the manufacturer's recommended base coat material.
+1. Base coat as recommended by the coating manufacturer.
+1. First coat intermediate coat.
+1. Second coat polyurethane enamel finish coat.
+1. Two-component, epoxy emulsion coating with gloss finish:
+   1. provide two finish coats of epoxy emulsion, gloss, over the base coat material.
+1. Base coat as recommended by the coating manufacturer.
+1. First coat epoxy emulsion.
+1. Second coat epoxy emulsion.
+1. Ferrous Metals
+1. High performance, polyamide epoxy coating system (HIPAC):
+1. provide 2 finish coats of two-component polyamide epoxy coating, gloss finish over metal primer.
+1. Metal primer as recommended by the coating manufacturer.
+1. First coat polyamide epoxy.
+1. Second coat polyamide epoxy.
+1. High-gloss polyester epoxy coating system (HIPAC):
+1. provide one coat of high-gloss polyester epoxy coating over an intermediate coat and a base coat.
+1. Metal primer as recommended by the coating manufacturer.
+1. First coat intermediate coat.
+1. Second coat high-gloss polyester epoxy.
+1. Pigmented polyurethane coating system:
+1. provide one finish coat of factory-formulated, pigmented polyurethane enamel coating over the manufacturer's recommended base coat material.
+1. Metal primer as recommended by the coating manufacturer.
+1. First coat intermediate coat.
+1. Second coat polyurethane enamel finish coat.
+1. Two-component, epoxy emulsion coating with gloss finish:
+1. provide two finish coats of epoxy emulsion, gloss, over the base coat material.
+1. Metal primer as recommended by the coating manufacturer
+1. First coat epoxy emulsion
+1. Second coat epoxy emulsion.
