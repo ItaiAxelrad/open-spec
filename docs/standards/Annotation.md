@@ -1,5 +1,5 @@
 ---
-id: 6
+sidebar_position: 6
 title: 'Annotation'
 date: 2021-04-10
 ---

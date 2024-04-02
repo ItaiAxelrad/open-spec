@@ -1,5 +1,5 @@
 ---
-id: 2
+sidebar_position: 2
 title: Project Directory
 date: 2021-04-10
 ---

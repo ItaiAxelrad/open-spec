@@ -1,5 +1,5 @@
 ---
-id: 17
+sidebar_position: 17
 title: 'Troubleshooting'
 date: 2021-04-10
 ---

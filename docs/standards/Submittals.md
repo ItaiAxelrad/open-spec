@@ -1,5 +1,5 @@
 ---
-id: 18
+sidebar_position: 18
 title: Submittals
 date: 2021-04-10
 ---

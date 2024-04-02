@@ -1,5 +1,5 @@
 ---
-id: 8
+sidebar_position: 8
 title: 'Template Drawings'
 date: 2021-04-10
 ---

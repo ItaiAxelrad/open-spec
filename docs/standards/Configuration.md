@@ -1,5 +1,5 @@
 ---
-id: 3
+sidebar_position: 3
 title: 'Configuration'
 date: 2021-04-10
 ---

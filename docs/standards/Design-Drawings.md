@@ -1,5 +1,5 @@
 ---
-id: 9
+sidebar_position: 9
 title: 'Design Drawings'
 date: 2021-04-10
 ---

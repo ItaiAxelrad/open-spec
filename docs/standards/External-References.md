@@ -1,5 +1,5 @@
 ---
-id: 10
+sidebar_position: 10
 title: 'External References'
 date: 2021-04-12
 ---
@@ -11,6 +11,8 @@ Typically, each project will have a series of base drawings that are x-reference
 - Survey Base
 - Existing Base
 - Site Base
+
+![](\images\standards\dwg_flowchart.png)
 
 ## Insert an External Reference
 

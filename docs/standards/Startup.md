@@ -1,5 +1,5 @@
 ---
-id: 1
+sidebar_position: 1
 title: Startup
 date: 2021-04-10
 ---

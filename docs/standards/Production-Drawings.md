@@ -1,5 +1,5 @@
 ---
-id: 13
+sidebar_position: 13
 title: 'Production Drawings'
 date: 2021-04-12
 ---
@@ -71,15 +71,6 @@ Within each sheet, give each sheet tab an individual and specific name as it wil
 4. If you are planning to use Sheet Set Manager for your project, click OK. You will enter the Sheet Info data there.
 5. If you are not using Sheet Set Manager enter the Plan Name, Sheet Number and Sheet X.
 
-## Plotting & Page Setup
-
-1. Open the project drawing that will contain the sheet set.
-2. Activate a tab in paperspace.
-3. Each tab you create will need to have the Page Setup Manager updated. Right click on the tab and select “Page Setup Manager”.
-4. A dialogue box will appear. Select “Import”
-5. Browse for the file: N:\\Autodesk\\Blocks\\Title Blocks.
-6. This will populate your list of available Page Setups. Select the appropriate setup for the size of your drawing. This should match the size of the title block previously saved.
-
 ## Reference the Titleblock
 
 1. From the Xref Manager dialogue box, click on the box in the upper left hand corner that shows a DWG icon
@@ -126,3 +117,12 @@ Take care to rotate the north arrow so that it orients with the view of the draw
 A dynamic Sheet Callout block is available for insertion from the Page Setup tool Palette. Every viewport, drawing, and detail should have a callout identifying the page number, title of the drawing or view, and the first sheet that references the drawing.
 
 The callout should be placed in PAPERSPACE of the drawing. Typically it will be grouped with the scale and north arrow, preferably centered at the bottom of the page or in the lower right hand corner. Refer to the example drawings in the appendices for more information.
+
+## Plotting & Page Setup
+
+1. Open the project drawing that will contain the sheet set.
+2. Activate a tab in paperspace.
+3. Each tab you create will need to have the Page Setup Manager updated. Right click on the tab and select “Page Setup Manager”.
+4. A dialogue box will appear. Select “Import”
+5. Browse for the file: N:\\Autodesk\\Blocks\\Title Blocks.
+6. This will populate your list of available Page Setups. Select the appropriate setup for the size of your drawing. This should match the size of the title block previously saved.

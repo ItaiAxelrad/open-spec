@@ -1,5 +1,5 @@
 ---
-id: 16
+sidebar_position: 16
 title: 'Version Control'
 date: 2021-04-10
 ---

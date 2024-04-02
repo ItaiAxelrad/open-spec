@@ -1,5 +1,5 @@
 ---
-id: 4
+sidebar_position: 4
 title: 'Tool Palette'
 date: 2021-04-10
 ---

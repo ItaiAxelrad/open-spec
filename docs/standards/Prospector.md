@@ -1,5 +1,5 @@
 ---
-id: 7
+sidebar_position: 7
 title: 'Prospector'
 date: 2021-04-10
 ---

@@ -1,5 +1,5 @@
 ---
-id: 11
+sidebar_position: 11
 title: 'Data Shortcuts'
 date: 2021-04-10
 ---
