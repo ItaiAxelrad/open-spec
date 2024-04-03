@@ -31,18 +31,22 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Common', 'Work', 'Results']
 
 ## Product
 
-1. Materials
-   1. Fill and Backfill:
-      1. Selected material approved by Soils Engineer from site excavation or from off-site borrow.
+### Materials
+
+1. Fill and Backfill:
+   1. Selected material approved by Soils Engineer from site excavation or from off-site borrow.
 2. Granular Fill Under Building Floor Slabs-On-Grade:
    1. Clean, crushed, nonporous rock, crushed or uncrushed gravel complying with ASTM C33 gradation size No. 67, 3/4 IN to No. 4.
 3. Granular Fill Under Base Slabs with Pressure Relief Valves:
-   1. Drainage material: Conform to ASTM C33, Size No. 67.
-   2. Filter material: Conform to ASTM C33 requirements for fine aggregate.
+   1. Drainage material:
+      1. Conform to ASTM C33, Size No. 67.
+   2. Filter material:
+      1. Conform to ASTM C33 requirements for fine aggregate.
 4. Geotextile Filter Fabric:
    1. Nonwoven type.
    2. Equivalent opening size: 50-100 (U.S. Standard Sieve).
-   3. Permeability coefficient (cm/second): 0.07 minimum, 0.30 maximum.
+   3. Permeability coefficient (cm/second):
+      1. 0.07 minimum, 0.30 maximum.
    4. Grab strength: 90 LBS minimum in either direction in accordance with ASTM D4632 requirements.
    5. Mullen burst strength: 125 psi minimum in accordance with ASTM D3786 requirements.
 
@@ -139,9 +143,85 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Common', 'Work', 'Results']
        2. Excavated material approved by Soils Engineer may also be used for fill and backfill.
     3. In this Specification Section, the word "foundations" includes footings, base slabs, foundation walls, mat foundations, grade beams, piers and any other support placed directly on soil.
     4. In the paragraphs of this Specification Section, the word "soil" also includes any type of rock subgrade that may be present at or below existing subgrade levels.
-21. Excavation Requirements for Structures: 1. General: 1. Do not commence excavation for foundations for structures until Soils Engineer approves: 1. The removal of topsoil and other unsuitable and undesirable material from existing subgrade. 2. Density and moisture content of site area compacted fill material meets requirements of specifications. 3. Site surcharge or mass fill material can be removed from entire construction site or portion thereof. 4. Surcharge or mass fill material has been removed from construction area or portions thereof. 2. Engineer grants approval to begin excavations. 2. Dimensions: 1. Excavate to elevations and dimensions indicated or specified. 2. Allow additional space as required for construction operations and inspection of foundations. 3. Removal of obstructions and undesirable materials in excavation includes, but is not necessarily limited to, removal of old foundations, existing construction, unsuitable subgrade soils, expansive type soils, and any other materials which may be concealed beneath present grade, as required to execute work indicated on Contract Drawings. 1. If undesirable material and obstructions are encountered during excavation, remove material and replace as directed by Soils Engineer. 4. Level off bottoms of excavations to receive foundations, floor slabs, equipment support pads, or compacted fill. 1. Remove loose materials and bring excavations into approved condition to receive concrete or fill material. 2. Where compacted fill material must be placed to bring subgrade elevation up to underside of construction, scarify existing subgrade upon which fill material is to be placed to a depth of 6 IN and then compact to density stated in this Specification Section before fill material can be placed thereon. 3. Do not carry excavations lower than shown for foundations except as directed by Soils Engineer or Engineer. 4. If any part of excavations is carried below required depth without authorization, maintain excavation and start foundation from excavated level with concrete of same strength as required for superimposed foundation, and no extra compensation will be made to Contractor therefore. 5. Notify Soils Engineer and Engineer as soon as excavation is completed in order that subgrades may be inspected. 1. Do not commence further construction until subgrade under compacted fill material, under foundations, under floor slabs-on-grade, under equipment support pads, and under retaining wall footings has been inspected and approved by the Soils Engineer as being free of undesirable material, being of compaction density required by this specification, and being capable of supporting the allowable foundation design bearing pressures and superimposed foundation, fill, and building loads to be placed thereon. 2. Soils Engineer shall be given the opportunity to inspect subgrade below fill material both prior to and after subgrade compaction. 3. Place fill material, foundations, retaining wall footings, floor slabs-on-grade, and equipment support pads as soon as weather conditions permit after excavation is completed, inspected, and approved and after forms and reinforcing are inspected and approved. 4. Before concrete or fill material is placed, protect approved subgrade from becoming loose, wet, frozen, or soft due to weather, construction operations, or other reasons. 6. Dewatering: 1. Where groundwater is or is expected to be encountered during excavation, install a dewatering system to prevent softening and disturbance of subgrade below foundations and fill material, to allow foundations and fill material to be placed in the dry, and to maintain a stable excavation side slope. 2. Groundwater shall be maintained at least 3 FT below the bottom of any excavation. 3. Review soils investigation before beginning excavation and determine where groundwater is likely to be encountered during excavation. 4. Employ dewatering specialist for selecting and operating dewatering system. 5. Keep dewatering system in operation until dead load of structure exceeds possible buoyant uplift force on structure. 6. Dispose of groundwater to an area which will not interfere with construction operations or damage existing construction. 1. Install groundwater monitoring wells as necessary. 7. Shut off dewatering system at such a rate to prevent a quick upsurge of water that might weaken the subgrade. 7. Subgrade stabilization: 1. If subgrade under foundations, fill material, floor slabs-on-grade, or equipment support pads is in a frozen, loose, wet, or soft condition before construction is placed thereon, remove frozen, loose, wet, or soft material and replace with approved compacted material as directed by Soils Engineer. 2. Provide compaction density of replacement material as stated in this Specification Section. 3. Loose, wet, or soft materials, when approved by Soils Engineer, may be stabilized by a compacted working mat of well graded crushed stone. 4. Compact stone mat thoroughly into subgrade to avoid future migration of fines into the stone voids. 5. Remove and replace frozen materials as directed by Soils Engineer. 6. Method of stabilization shall be performed as directed by Soils Engineer. 7. Do not place further construction on the repaired subgrades, until the subgrades have been approved by the Soils Engineer. 8. Do not place floor slabs-on-grade including equipment support pads until subgrade below has been approved, piping has been tested and approved, reinforcement placement has been approved, and Contractor receives approval to commence slab construction. 1. Do not place building floor slabs-on-grade including equipment support pads when temperature of air surrounding the slab and pads is or is expected to be below 40 DegF before structure is completed and heated to a temperature of at least 50 DegF. 9. Protection of structures: 1. Prevent new and existing structures from becoming damaged due to construction operations or other reasons. 2. Prevent subgrade under new and existing foundations from becoming wet and undermined during construction due to presence of surface or subsurface water or due to construction operations. 10. Shoring: 1. Shore, sheet pile, slope, or brace excavations as required to prevent them from collapsing. 2. Remove shoring as backfilling progresses but only when banks are stable and safe from caving or collapse. 11. Drainage: 1. Control grading around structures so that ground is pitched to prevent water from running into excavated areas or damaging structures. 2. Maintain excavations where foundations, floor slabs, equipment support pads or fill material are to be placed free of water. 3. Provide pumping required to keep excavated spaces clear of water during construction. 4. Should any water be encountered in the excavation, notify Engineer and Soils Engineer. 5. Provide free discharge of water by trenches, pumps, wells, well points, or other means as necessary and drain to point of disposal that will not damage existing or new construction or interfere with construction operations. 12. Frost protection: 1. Do not place foundations, slabs-on-grade, equipment support pads, or fill material on frozen ground. 2. When freezing temperatures may be expected, do not excavate to full depth indicated, unless foundations, floor slabs, equipment support pads, or fill material can be placed immediately after excavation has been completed and approved. 3. Protect excavation from frost if placing of concrete or fill is delayed. 4. Where a concrete slab is a base slab-on-grade located under and within a structure that will not be heated, protect subgrade under the slab from becoming frozen. 5. Protect subgrade under foundations of a structure from becoming frozen until structure is completed and heated to a temperature of at least 50 DegF.
-22. Fill and Backfill Inside of Structure and Below Foundations, Base Slabs, Floor Slabs and Equipment Support Pads: 1. General: 1. Subgrade to receive fill or backfill shall be free of undesirable material as determined by Soils Engineer and scarified to a depth of 6 IN and compacted to density specified herein. 2. Surface may be stepped by at not more than 12 IN per step or may be sloped at not more than 2 percent. 3. Do not place any fill or backfill material until subgrade under fill or backfill has been inspected and approved by Soils Engineer as being free of undesirable material and compacted to specified density. 2. Obtain approval of fill and backfill material and source from Soils Engineer prior to placing the material. 3. Granular fill under floor slabs-on-grade: Place all floor slabs-on-grade on a minimum of 6 IN of granular fill unless otherwise indicated. 4. Fill and backfill placement: 1. Prior to placing fill and backfill material, optimum moisture and maximum density properties for proposed material shall be obtained from Soils Engineer. 2. Place fill and backfill material in thin lifts as necessary to obtain required compaction density. 3. Compact material by means of equipment of sufficient size and proper type to obtain specified density. 4. Use hand operated equipment for filling and backfilling next to walls. 5. Do not place fill and backfill when the temperature is less than 40 DegF and when subgrade to receive fill and backfill material is frozen, wet, loose, or soft. 6. Use vibratory equipment to compact granular material; do not use water. 5. Where fill material is required below foundations, place fill material, conforming to the required density and moisture content, outside the exterior limits of foundations located around perimeter of structure the following horizontal distance whichever is greater: 1. As required to provide fill material to indicated finished grade. 2. 5 FT. 3. Distance equal to depth of 1 compacted fill below bottom of foundations.
-23. Filling and Backfilling Outside of Structures.
+21. Excavation Requirements for Structures:
+    1. General:
+       1. Do not commence excavation for foundations for structures until Soils Engineer approves:
+          1. The removal of topsoil and other unsuitable and undesirable material from existing subgrade.
+       2. Density and moisture content of site area compacted fill material meets requirements of specifications.
+       3. Site surcharge or mass fill material can be removed from entire construction site or portion thereof.
+       4. Surcharge or mass fill material has been removed from construction area or portions thereof.
+       5. Engineer grants approval to begin excavations.
+    2. Dimensions:
+       1. Excavate to elevations and dimensions indicated or specified.
+       2. Allow additional space as required for construction operations and inspection of foundations.
+       3. Removal of obstructions and undesirable materials in excavation includes, but is not necessarily limited to, removal of old foundations, existing construction, unsuitable subgrade soils, expansive type soils, and any other materials which may be concealed beneath present grade, as required to execute work indicated on Contract Drawings.
+       4. If undesirable material and obstructions are encountered during excavation, remove material and replace as directed by Soils Engineer.
+       5. Level off bottoms of excavations to receive foundations, floor slabs, equipment support pads, or compacted fill.
+       6. Remove loose materials and bring excavations into approved condition to receive concrete or fill material.
+       7. Where compacted fill material must be placed to bring subgrade elevation up to underside of construction, scarify existing subgrade upon which fill material is to be placed to a depth of 6 IN and then compact to density stated in this Specification Section before fill material can be placed thereon.
+       8. Do not carry excavations lower than shown for foundations except as directed by Soils Engineer or Engineer.
+       9. If any part of excavations is carried below required depth without authorization, maintain excavation and start foundation from excavated level with concrete of same strength as required for superimposed foundation, and no extra compensation will be made to Contractor therefore.
+       10. Notify Soils Engineer and Engineer as soon as excavation is completed in order that subgrades may be inspected.
+       11. Do not commence further construction until subgrade under compacted fill material, under foundations, under floor slabs-on-grade, under equipment support pads, and under retaining wall footings has been inspected and approved by the Soils Engineer as being free of undesirable material, being of compaction density required by this specification, and being capable of supporting the allowable foundation design bearing pressures and superimposed foundation, fill, and building loads to be placed thereon.
+       12. Soils Engineer shall be given the opportunity to inspect subgrade below fill material both prior to and after subgrade compaction.
+       13. Place fill material, foundations, retaining wall footings, floor slabs-on-grade, and equipment support pads as soon as weather conditions permit after excavation is completed, inspected, and approved and after forms and reinforcing are inspected and approved.
+       14. Before concrete or fill material is placed, protect approved subgrade from becoming loose, wet, frozen, or soft due to weather, construction operations, or other reasons.
+    3. Dewatering:
+       1. Where groundwater is or is expected to be encountered during excavation, install a dewatering system to prevent softening and disturbance of subgrade below foundations and fill material, to allow foundations and fill material to be placed in the dry, and to maintain a stable excavation side slope.
+       2. Groundwater shall be maintained at least 3 FT below the bottom of any excavation.
+       3. Review soils investigation before beginning excavation and determine where groundwater is likely to be encountered during excavation.
+       4. Employ dewatering specialist for selecting and operating dewatering system.
+       5. Keep dewatering system in operation until dead load of structure exceeds possible buoyant uplift force on structure.
+       6. Dispose of groundwater to an area which will not interfere with construction operations or damage existing construction.
+       7. Install groundwater monitoring wells as necessary.
+       8. Shut off dewatering system at such a rate to prevent a quick upsurge of water that might weaken the subgrade.
+    4. Subgrade stabilization:
+       1. If subgrade under foundations, fill material, floor slabs-on-grade, or equipment support pads is in a frozen, loose, wet, or soft condition before construction is placed thereon, remove frozen, loose, wet, or soft material and replace with approved compacted material as directed by Soils Engineer.
+       2. Provide compaction density of replacement material as stated in this Specification Section.
+       3. Loose, wet, or soft materials, when approved by Soils Engineer, may be stabilized by a compacted working mat of well graded crushed stone.
+       4. Compact stone mat thoroughly into subgrade to avoid future migration of fines into the stone voids.
+       5. Remove and replace frozen materials as directed by Soils Engineer.
+       6. Method of stabilization shall be performed as directed by Soils Engineer.
+       7. Do not place further construction on the repaired subgrades, until the subgrades have been approved by the Soils Engineer.
+       8. Do not place floor slabs-on-grade including equipment support pads until subgrade below has been approved, piping has been tested and approved, reinforcement placement has been approved, and Contractor receives approval to commence slab construction.
+       9. Do not place building floor slabs-on-grade including equipment support pads when temperature of air surrounding the slab and pads is or is expected to be below 40 DegF before structure is completed and heated to a temperature of at least 50 DegF.
+    5. Protection of structures:
+       1. Prevent new and existing structures from becoming damaged due to construction operations or other reasons.
+       2. Prevent subgrade under new and existing foundations from becoming wet and undermined during construction due to presence of surface or subsurface water or due to construction operations.
+    6. Shoring:
+       1. Shore, sheet pile, slope, or brace excavations as required to prevent them from collapsing.
+       2. Remove shoring as backfilling progresses but only when banks are stable and safe from caving or collapse.
+    7. Drainage:
+       1. Control grading around structures so that ground is pitched to prevent water from running into excavated areas or damaging structures.
+       2. Maintain excavations where foundations, floor slabs, equipment support pads or fill material are to be placed free of water.
+       3. Provide pumping required to keep excavated spaces clear of water during construction.
+       4. Should any water be encountered in the excavation, notify Engineer and Soils Engineer.
+       5. Provide free discharge of water by trenches, pumps, wells, well points, or other means as necessary and drain to point of disposal that will not damage existing or new construction or interfere with construction operations.
+    8. Frost protection:
+       1. Do not place foundations, slabs-on-grade, equipment support pads, or fill material on frozen ground.
+       2. When freezing temperatures may be expected, do not excavate to full depth indicated, unless foundations, floor slabs, equipment support pads, or fill material can be placed immediately after excavation has been completed and approved.
+       3. Protect excavation from frost if placing of concrete or fill is delayed.
+       4. Where a concrete slab is a base slab-on-grade located under and within a structure that will not be heated, protect subgrade under the slab from becoming frozen.
+       5. Protect subgrade under foundations of a structure from becoming frozen until structure is completed and heated to a temperature of at least 50 DegF.
+    9. Fill and Backfill Inside of Structure and Below Foundations, Base Slabs, Floor Slabs and Equipment Support Pads:
+       1. General:
+          1. Subgrade to receive fill or backfill shall be free of undesirable material as determined by Soils Engineer and scarified to a depth of 6 IN and compacted to density specified herein.
+          2. Surface may be stepped by at not more than 12 IN per step or may be sloped at not more than 2 percent.
+          3. Do not place any fill or backfill material until subgrade under fill or backfill has been inspected and approved by Soils Engineer as being free of undesirable material and compacted to specified density.
+       2. Obtain approval of fill and backfill material and source from Soils Engineer prior to placing the material.
+       3. Granular fill under floor slabs-on-grade: Place all floor slabs-on-grade on a minimum of 6 IN of granular fill unless otherwise indicated.
+       4. Fill and backfill placement:
+          1. Prior to placing fill and backfill material, optimum moisture and maximum density properties for proposed material shall be obtained from Soils Engineer.
+          2. Place fill and backfill material in thin lifts as necessary to obtain required compaction density.
+          3. Compact material by means of equipment of sufficient size and proper type to obtain specified density.
+          4. Use hand operated equipment for filling and backfilling next to walls.
+          5. Do not place fill and backfill when the temperature is less than 40 DegF and when subgrade to receive fill and backfill material is frozen, wet, loose, or soft.
+          6. Use vibratory equipment to compact granular material; do not use water.
+       5. Where fill material is required below foundations, place fill material, conforming to the required density and moisture content, outside the exterior limits of foundations located around perimeter of structure the following horizontal distance whichever is greater:
+          1. As required to provide fill material to indicated finished grade.
+          2. 5 FT.
+          3. Distance equal to depth of 1 compacted fill below bottom of foundations.
+22. Filling and Backfilling Outside of Structures.
     1. This paragraph of this Specification applies to fill and backfill placed outside of structures above bottom level of both foundations but not under paving.
     2. Provide material as approved by Soils Engineer for filling and backfilling outside of structures.
     3. Fill and backfill placement:
@@ -155,13 +235,13 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Common', 'Work', 'Results']
        1. Do not backfill around any part of structures until each part has reached specified 28-day compressive strength and backfill material has been approved.
        2. Do not start backfilling until concrete forms have been removed, trash removed from excavations, pointing of masonry work, concrete finishing, dampproofing and waterproofing have been completed.
        3. Bring backfill and fill up uniformly around the structures and individual walls, piers, or columns.
-24. Backfilling Outside of Structures Under Paving:
+23. Backfilling Outside of Structures Under Paving:
     1. When backfilling outside of structures requires placing backfill material under paving, the material shall be placed from bottom of excavation to underside of paving at the density required for fill under paving as indicated in this Specification Section.
     2. This compacted material shall extend transversely to the centerline of paving a horizontal distance each side of the exterior edges of paving equal to the depth of backfill measured from bottom of excavation to underside of paving.
     3. Provide special compacted bedding or compacted subgrade material under paving as required by other Specification Sections for the Project.
     4. Special Requirements
-25. Erosion Control:
-    1. Conduct work to minimize erosion of site.
-    2. Construct stilling areas to settle and detain eroded material.
-    3. Remove eroded material washed off site.
-    4. Clean streets daily of any spillage of dirt, rocks or debris from equipment entering or leaving site.
+24. Erosion Control:
+25. Conduct work to minimize erosion of site.
+26. Construct stilling areas to settle and detain eroded material.
+27. Remove eroded material washed off site.
+28. Clean streets daily of any spillage of dirt, rocks or debris from equipment entering or leaving site.

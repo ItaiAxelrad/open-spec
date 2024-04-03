@@ -19,21 +19,21 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Clearing']
 1. REFERENCES
    1. AASHTO Standards:
       1. T99 - The Moisture-Density Relations of Soils Using a 5.5-Pound (2.5-kg) Rammer and a 12-Inch (305-mm) Drop.
-   1. T104 - Soundness of Aggregate by Use of Sodium Sulfate or Magnesium Sulfate.
-   1. T180 - The Moisture-Density Relations of Soils Using a 10-Pound (4.54-kg) Rammer and an 18-Inch (457-mm) Drop.
-   1. ASTM Standards:
+      2. T104 - Soundness of Aggregate by Use of Sodium Sulfate or Magnesium Sulfate.
+      3. T180 - The Moisture-Density Relations of Soils Using a 10-Pound (4.54-kg) Rammer and an 18-Inch (457-mm) Drop.
+   2. ASTM Standards:
       1. D2167 - Test for Density and Unit Weight of Soil In-Place by Rubber-Balloon Method.
-   1. D2922 - Density of Soil and Soil-Aggregate In-Place by Nuclear Methods (Shallow Depth).
-   1. D4253 - Maximum Index Density of Soils Using a Vibratory Table.
-   1. D4254 - Minimum Index Density of Soils and Calculation of Relative Density.
+      2. D2922 - Density of Soil and Soil-Aggregate In-Place by Nuclear Methods (Shallow Depth).
+      3. D4253 - Maximum Index Density of Soils Using a Vibratory Table.
+      4. D4254 - Minimum Index Density of Soils and Calculation of Relative Density.
 1. SUBMITTALS
    1. Submit site specific Erosion and Sediment and Control plan in accordance with the Owner Storm Water Pollution Prevention Plan.
 1. QUALITY CONTROL
    1. Requirements of Regulatory Agencies
-   1. Soil erosion and sedimentation control permit as may be required by the State of Colorado will be obtained by the Owner. Contractor must have a copy of the permit on site and comply with all requirements.
-   1. Obtain a soil erosion and sedimentation control permit as may be required and pay all associated fees.
-   1. Reference Specifications
-   1. Colorado Water Quality Control Act, sections 25-8-501 through 505, C.R.S. as amended.
+   2. Soil erosion and sedimentation control permit as may be required by the State of Colorado will be obtained by the Owner. Contractor must have a copy of the permit on site and comply with all requirements.
+   3. Obtain a soil erosion and sedimentation control permit as may be required and pay all associated fees.
+   4. Reference Specifications
+   5. Colorado Water Quality Control Act, sections 25-8-501 through 505, C.R.S. as amended.
 1. DEFINITIONS
    1. Topsoil:
       1. Loose friable loam reasonably free of admixture of subsoil, refuse, stumps, soil sterilants, rocks, brush, weeds, all material 2" in diameter and larger and detrimental to proper development of vegetative growth.
