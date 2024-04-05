@@ -90,7 +90,21 @@ tags:
 5. Beam Clamps for Hanger Rods:
    1. Heavy duty.
    2. ANVIL Figure 134.
-6. Trapeze Hangers for Suspended Piping: 1. General: 1. Material: Steel. 2. Galvanized. 3. Angles, channels, or other structural shapes. 4. Curved roller surfaces at support point corresponding with type of hanger required. 2. In chemical sorage and feed areas and as indicated on the drawings: 1. Materials: FRP. 2. Unistrut fiberglass channel or equal. 3. Corrosive areas: 1. Material: 304 stainless steel. 2. Angles, channels or other structural shapes.
+6. Trapeze Hangers for Suspended Piping:
+   1. General:
+      1. Material:
+         1. Steel.
+         2. Galvanized.
+         3. Angles, channels, or other structural shapes.
+         4. Curved roller surfaces at support point corresponding with type of hanger required.
+   2. In chemical storage and feed areas and as indicated on the drawings:
+      1. Materials:
+         1. FRP.
+         2. Unistrut fiberglass channel or equal.
+   3. Corrosive areas:
+      1. Material:
+         1. 304 stainless steel.
+         2. Angles, channels or other structural shapes.
 7. Pipe Support Saddle:
    1. For pipe located 3 FT or less from floor elevation, except as otherwise indicated on Drawings.
    2. ANVIL Figure 264.
@@ -99,44 +113,44 @@ tags:
    2. Galvanized.
    3. Size: As recommended by saddle manufacturer.
 9. Pipe Support Base Plate:
-   1. 4 IN larger than support.
-   2. Collar 3/16 IN thickness, circular in shape, and sleeve type connection to pipe.
-   3. Collar fitted over outside 1 of support pipe and extended 2 IN from floor plate.
-   4. Collar welded to floor plate.
-   5. Edges ground smooth.
-   6. Assembly hot-dipped galvanized after fabrication.
-10. Design Requirements
+10. 4 IN larger than support.
+11. Collar 3/16 IN thickness, circular in shape, and sleeve type connection to pipe.
+12. Collar fitted over outside 1 of support pipe and extended 2 IN from floor plate.
+13. Collar welded to floor plate.
+14. Edges ground smooth.
+15. Assembly hot-dipped galvanized after fabrication.
+16. Design Requirements
     1. Supports capable of supporting the pipe for all service and testing conditions.
-    1. Provide 5 to 1 safety factor.
-11. Allow free expansion and contraction of the piping to prevent excessive stress resulting from service and testing conditions or from weight transferred from the piping or attached equipment.
-12. For chemical and waste piping, design, materials of construction and installation of pipe hangers, supports, guides, restraints, and anchors:
+    2. Provide 5 to 1 safety factor.
+17. Allow free expansion and contraction of the piping to prevent excessive stress resulting from service and testing conditions or from weight transferred from the piping or attached equipment.
+18. For chemical and waste piping, design, materials of construction and installation of pipe hangers, supports, guides, restraints, and anchors:
     1. ASME B31.3.
     2. MSS SP-58 and MSS SP-69.
-13. Check all physical clearances between piping, support system and structure.
-14. Provide 20 GA galvanized steel pipe saddle for fiberglass and plastic support points to ensure minimum contact width of 4 IN.
-15. Pipe Support Spacing: 1. General: 1. Locate pipe supports at maximum spacing scheduled unless indicated otherwise on the Drawings. 2. Provide at least one (1) support for each length of pipe at each change of direction and at each valve. 2. Steel, stainless steel, cast-iron pipe support schedule: 1. Pipe Size (IN): 1-1/2 and less 1. Maximum Span: 5 FT 2. Pipe Size (IN): 2 - 4 1. Maximum Span: 10 FT 3. Pipe Size (IN): 5 - 8 1. Maximum Span: 15 FT 4. Pipe Size (IN): 10 and over 1. Maximum Span: 20 FT 3. PVC pipe support schedule 1. Pipe Size (IN): 1-1/4 and less 1. Maximum Span: 3 FT 2. Pipe Size (IN): 1-1/2 - 3 1. Maximum Span: 4 FT
+19. Check all physical clearances between piping, support system and structure.
+20. Provide 20 GA galvanized steel pipe saddle for fiberglass and plastic support points to ensure minimum contact width of 4 IN.
+21. Pipe Support Spacing: 1. General: 1. Locate pipe supports at maximum spacing scheduled unless indicated otherwise on the Drawings. 2. Provide at least one (1) support for each length of pipe at each change of direction and at each valve. 2. Steel, stainless steel, cast-iron pipe support schedule: 1. Pipe Size (IN): 1-1/2 and less 1. Maximum Span: 5 FT 2. Pipe Size (IN): 2 - 4 1. Maximum Span: 10 FT 3. Pipe Size (IN): 5 - 8 1. Maximum Span: 15 FT 4. Pipe Size (IN): 10 and over 1. Maximum Span: 20 FT 3. PVC pipe support schedule 1. Pipe Size (IN): 1-1/4 and less 1. Maximum Span: 3 FT 2. Pipe Size (IN): 1-1/2 - 3 1. Maximum Span: 4 FT
 
 ## Execution
 
-    1. Installation
+### Installation
 
 1. Provide piping systems exhibiting pulsation, vibration, swaying, or impact with suitable constraints to correct the condition.
 2. Weld Supports:
-   1. AWS D1.1.
-   2. Weld anchors to pipe in accordance with ASME B31.3.
-3. Locate piping and pipe supports as to not interfere with open accesses, walkways, platforms, and with maintenance or disassembly of equipment.
-4. Inspect hangers for:
-   1. Design offset.
-   2. Adequacy of clearance for piping and supports in the hot and cold positions.
-   3. Guides to permit movement without binding.
-   4. Adequacy of anchors.
-5. Inspect hangers after erection of piping systems and prior to pipe testing and flushing.
-6. Install individual or continuous slot concrete inserts for use with hangers for piping and equipment.
-   1. Install concrete inserts as concrete forms are installed.
-7. Welding:
-   1. Welding rods: ASTM and AWS standards.
-   2. Integral attachments:
-      1. Include welded-on ears, shoes, plates and angle clips.
-      2. Ensure material for integral attachments is of good weldable quality.
-   3. Preheating, welding and post heat treating: ASME B31.3, Chapter V.
-8. Paint in accordance with Section 09 90 00.
+3. AWS D1.1.
+4. Weld anchors to pipe in accordance with ASME B31.3.
+5. Locate piping and pipe supports as to not interfere with open accesses, walkways, platforms, and with maintenance or disassembly of equipment.
+6. Inspect hangers for:
+7. Design offset.
+8. Adequacy of clearance for piping and supports in the hot and cold positions.
+9. Guides to permit movement without binding.
+10. Adequacy of anchors.
+11. Inspect hangers after erection of piping systems and prior to pipe testing and flushing.
+12. Install individual or continuous slot concrete inserts for use with hangers for piping and equipment.
+13. Install concrete inserts as concrete forms are installed.
+14. Welding:
+15. Welding rods: ASTM and AWS standards.
+16. Integral attachments:
+    1. Include welded-on ears, shoes, plates and angle clips.
+    2. Ensure material for integral attachments is of good weldable quality.
+17. Preheating, welding and post heat treating: ASME B31.3, Chapter V.
+18. Paint in accordance with Section 09 90 00.

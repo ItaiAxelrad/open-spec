@@ -11,15 +11,28 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Control', 'HMI', 'Software']
 
 1. Summary
    1. Work under this section shall include computer network and HMI hardware requirements. This includes but is not necessarily limited to:
-   2. Ethernet switches.
-   3. Software.
-   4. Accessories and maintenance materials.
-1. Related Specification Sections include: 5. Section 40 50 00, Instrumentation and Process Controls: Basic Requirements.
-1. Design Requirements: 6. Owner shall supply and install the HMI equipment and develop the Graphical screens. 7. Contractor shall supply specific equipment/software as listed herein and coordinate data translation and general control requirements to the Owner through process meetings. 8. Data to be made available will represent the data requirements stated on the P&IDs as well as that data which is not on the P&ID but is listed in the Control Strategy Narrative. 9. Quality Assurance
-1. Work shall be per: 10. Institute of Electrical and Electronics Engineers, Inc. (IEEE): 1. 802.3, Information Technology - Local and Metropolitan Area Networks - Part 3: Carrier Sense Multiple Access with Collision Detection (CSMA/CD) Access Method and Physical Layer Specifications. 1. 802.3u: IEEE Standards for Local and Metropolitan Area Networks: Supplement to Carrier Sense Multiple Access with Collision Detection (CSMA/CD) Access Method and Physical Layer Specifications Media Access Control (MAC) Parameters, Physical Layer, Medium Attachment Units, and Repeater for 100 Mb/s Operation, Type 100BASE-T. 2. 802.3x: IEEE Standards for Local and Metropolitan Area Networks: Specification for 802.3 Full Duplex Operation. 11. Submittals
-1. See Specification Section 01 33 00 for requirements for the mechanics and administration of the submittal process.
-1. Shop drawings 12. Shop drawings shall include product technical data including: 1. Acknowledgement that products submitted meet requirements of the aforementioned standards. 2. Manufacturer’s installation instructions.
-1. Operation and Maintenance Manuals.
+      1. Ethernet switches.
+      2. Software.
+      3. Accessories and maintenance materials.
+2. Related Specification Sections include:
+   1. Section 40 50 00, Instrumentation and Process Controls: Basic Requirements.
+3. Design Requirements:
+   1. Owner shall supply and install the HMI equipment and develop the Graphical screens.
+   2. Contractor shall supply specific equipment/software as listed herein and coordinate data translation and general control requirements to the Owner through process meetings.
+   3. Data to be made available will represent the data requirements stated on the P&IDs as well as that data which is not on the P&ID but is listed in the Control Strategy Narrative.
+   4. Quality Assurance
+4. Work shall be per:
+   1. Institute of Electrical and Electronics Engineers, Inc. (IEEE):
+      1. 802.3, Information Technology - Local and Metropolitan Area Networks - Part 3: Carrier Sense Multiple Access with Collision Detection (CSMA/CD) Access Method and Physical Layer Specifications.
+      2. 802.3U: IEEE Standards for Local and Metropolitan Area Networks: Supplement to Carrier Sense Multiple Access with Collision Detection (CSMA/CD) Access Method and Physical Layer Specifications Media Access Control (MAC) Parameters, Physical Layer, Medium Attachment Units, and Repeater for 100 Mb/s Operation, Type 100BASE-T.
+      3. 802.3x: IEEE Standards for Local and Metropolitan Area Networks: Specification for 802.3 Full Duplex Operation.
+5. Submittals
+   1. See Specification Section 01 33 00 for requirements for the mechanics and administration of the submittal process.
+   2. Shop drawings
+      1. Shop drawings shall include product technical data including:
+         1. Acknowledgement that products submitted meet requirements of the aforementioned standards.
+         2. Manufacturer’s installation instructions.
+   3. Operation and Maintenance Manuals.
 
 ## Product
 
@@ -47,9 +60,9 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Control', 'HMI', 'Software']
       13. Environmental rating:
           1. Operating temperature: 32 Deg F to 131 Deg F.
           2. Humidity: 95 percent relative humidity, non-condensing.
-   3. Software
-2. Provide all software and associated programming/configuration required to meet performance requirements of the Contract Documents. 15. At substantial completion of the Project: 1. Turn current licenses for all software over to the Owner in the Owner's name and install the latest version, upgrade or service pack for all software.
-3. Programming Software: 16. Acceptable Manufacturer: 1. Rockwell RSLogix 5000. 17. Features: 1. Compatible with Allen Bradley PLC.
+2. Software
+   1. Provide all software and associated programming/configuration required to meet performance requirements of the Contract Documents. 15. At substantial completion of the Project: 1. Turn current licenses for all software over to the Owner in the Owner's name and install the latest version, upgrade or service pack for all software.
+   2. Programming Software: 16. Acceptable Manufacturer: 1. Rockwell RSLogix 5000. 17. Features: 1. Compatible with Allen Bradley PLC.
 
 ## Execution
 

@@ -20,28 +20,27 @@ tags:
 
 ## General
 
-    1. RELATED DOCUMENTS
+### RELATED DOCUMENTS
 
 1. Drawings, General and Special Provisions of the Contract, and Division 01 Specification Sections apply to this Section.
-1. SUMMARY
+
+### SUMMARY
+
 1. This Section includes fiberglass-reinforced polymer mortar pipe for pressure service and is an
    alternative to bar-wrapped steel-cylinder concrete pressure pipe specified in Section 400518 for
-1. the discharge line to Skeleton Creek identified as R1 or RCP on the Drawings.
-1. Related Sections include the following:
-
+2. the discharge line to Skeleton Creek identified as R1 or RCP on the Drawings.
+3. Related Sections include the following:
    1. Section 400514 – “Common Work Results for Process Piping”
 
-1. SUBMITTALS
+### SUBMITTALS
+
 1. Submit the following in accordance with Conditions of the Contract and Division 1
    Specification Sections: 1. Manufacturer’s product data.
 1. Installation instructions and layout schedule.
-1. Certification signed by manufacturer that the pipe and fittings meet specification
-
-   1. requirements.
-
+1. Certification signed by manufacturer that the pipe and fittings meet specification requirements.
    1. DELIVERY, STORAGE, AND HANDLING
-   1. All piping materials shall be stored in accordance with manufacturer’s recommendations.
-   1. Store rubber gaskets in a cool shelter, out of the sun and away from fuel oil and gasoline.
+   2. All piping materials shall be stored in accordance with manufacturer’s recommendations.
+   3. Store rubber gaskets in a cool shelter, out of the sun and away from fuel oil and gasoline.
 
 ## Product
 

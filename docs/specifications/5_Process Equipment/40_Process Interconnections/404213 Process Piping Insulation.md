@@ -9,72 +9,51 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Piping', 'Insulation']
 
 ## General
 
-    1. Scope
-    1. Related Work
-    1. Reference
-    1. Reference Standards
-    1. Quality Assurance
-    1. Description
-    1. Definitions
-    1. Shop Drawings
-
-## Products
-
-    1. Materials
-    1. Insulation
-    1. Accessories
-
-## Execution
-
-    1. Installation
-    1. Piping, Valve and Fitting Insulation
-    1. Construction Verification Items
-
 1. RELATED WORK
    1. Section 01 91 01 or 01 91 02 – Commissioning Process
-   1. Division 7 – Thermal and Moisture Protection
-   1. Division 23 – Heating Ventilating and Air Conditioning
-   1. Section 33 10 00 – Chilled Water Utilities
-   1. Section 33 60 10 – Hydronic & Steam Utilities
-1. REFERENCE
+   2. Division 7 – Thermal and Moisture Protection
+   3. Division 23 – Heating Ventilating and Air Conditioning
+   4. Section 33 10 00 – Chilled Water Utilities
+   5. Section 33 60 10 – Hydronic & Steam Utilities
+2. REFERENCE
    1. Applicable provisions of Division 1 govern work under this section.
-1. REFERENCE STANDARDS
+3. REFERENCE STANDARDS
    1. ASTM C165 Test Method for Compressive Properties of Thermal Insulations
-   1. ASTM C177 Heat Flux and Thermal Transmission Properties
-   1. ASTM C195 Mineral Fiber Thermal Insulation Cement
-   1. ASTM C240 Cellular Glass Insulation Block
-   1. ASTM C302 Density of Preformed Pipe Insulation
-   1. ASTM C303 Density of Preformed Block Insulation
-   1. ASTM C449 Mineral Fiber Hydraulic Setting Thermal Insulation Cement
-   1. ASTM C518 Heat Flux and Thermal Transmission Properties
-   1. ASTM C533 Calcium Silicate Block and Pipe Thermal Insulation
-   1. ASTM C534 Preformed Flexible Elastomeric Thermal Insulation
-   1. ASTM C547 Mineral Fiber Preformed Pipe Insulation
-   1. ASTM C552 Cellular Glass Block and Pipe Thermal Insulation
-   1. ASTM C553 Mineral Fiber Blanket and Felt Insulation
-   1. ASTM C578 Preformed, Block Type Cellular Polystyrene Thermal Insulation
-   1. ASTM C591 Unfaced Preformed Rigid Cellular Polyisocyanurate Thermal Insulation
-   1. ASTM C610 Expanded Perlite Block and Thermal Pipe Insulation
-   1. ASTM C612 Mineral Fiber Block and Board Thermal Insulation
-   1. ASTM C921 Properties of Jacketing Materials for Thermal Insulation
-   1. ASTM C1136 Flexible Low Permeance Vapor Retarders for Thermal Insulation
-   1. ASTM E84 Surface Burning Characteristics of Building Materials
-   1. MICA National Commercial & Industrial Insulation Standards
-   1. NFPA 225 Surface Burning Characteristics of Building Materials
-   1. UL 723 Surface Burning Characteristics of Building Materials
-1. QUALITY ASSURANCE
+   2. ASTM C177 Heat Flux and Thermal Transmission Properties
+   3. ASTM C195 Mineral Fiber Thermal Insulation Cement
+   4. ASTM C240 Cellular Glass Insulation Block
+   5. ASTM C302 Density of Preformed Pipe Insulation
+   6. ASTM C303 Density of Preformed Block Insulation
+   7. ASTM C449 Mineral Fiber Hydraulic Setting Thermal Insulation Cement
+   8. ASTM C518 Heat Flux and Thermal Transmission Properties
+   9. ASTM C533 Calcium Silicate Block and Pipe Thermal Insulation
+   10. ASTM C534 Preformed Flexible Elastomeric Thermal Insulation
+   11. ASTM C547 Mineral Fiber Preformed Pipe Insulation
+   12. ASTM C552 Cellular Glass Block and Pipe Thermal Insulation
+   13. ASTM C553 Mineral Fiber Blanket and Felt Insulation
+   14. ASTM C578 Preformed, Block Type Cellular Polystyrene Thermal Insulation
+   15. ASTM C591 Unfaced Preformed Rigid Cellular Polyisocyanurate Thermal Insulation
+   16. ASTM C610 Expanded Perlite Block and Thermal Pipe Insulation
+   17. ASTM C612 Mineral Fiber Block and Board Thermal Insulation
+   18. ASTM C921 Properties of Jacketing Materials for Thermal Insulation
+   19. ASTM C1136 Flexible Low Permeance Vapor Retarders for Thermal Insulation
+   20. ASTM E84 Surface Burning Characteristics of Building Materials
+   21. MICA National Commercial & Industrial Insulation Standards
+   22. NFPA 225 Surface Burning Characteristics of Building Materials
+   23. UL 723 Surface Burning Characteristics of Building Materials
+4. QUALITY ASSURANCE
    1. Refer to division 1, General Conditions, Equals and Substitutions
-   1. Label all insulating products delivered to the construction site with the manufacturer's name and description of materials.
-1. DESCRIPTION
+   2. Label all insulating products delivered to the construction site with the manufacturer's name and description of materials.
+5. DESCRIPTION
    1. Furnish and install all insulating materials and accessories as specified or as required for a complete installation. The following types of insulation are specified in this section:
       1. Underground Pipe Insulation
-   1. Install all insulation in accordance with the latest edition of MICA (Midwest Insulation Contractors Association) Standard and manufacturer's installation instructions. Exceptions to these standards will only be accepted where specifically modified in these specifications, or where prior written approval has been obtained from the DFD Project Representative.
-1. DEFINITIONS
+   2. Install all insulation in accordance with the latest edition of MICA (Midwest Insulation Contractors Association) Standard and manufacturer's installation instructions. Exceptions to these standards will only be accepted where specifically modified in these specifications, or where prior written approval has been obtained from the DFD Project Representative.
+6. DEFINITIONS
    1. Underground piping:
       1. concrete box conduit systems, direct-buried steel conduit systems, direct-buried jacketed systems and direct-buried systems. All other areas, including walk-through tunnels, shall be considered as exposed and therefore covered by Division 23 specifications.
-1. SHOP DRAWINGS
+7. SHOP DRAWINGS
    1. Refer to division 1, General Conditions, Submittals.
-   1. Submit a schedule of all insulating materials to be used on the project, including adhesives, fastening methods, fitting materials along with material safety data sheets and intended use of each material. Include manufacturer's technical data sheets indicating density, thermal characteristics, jacket type, and manufacturer's installation instructions.
+   2. Submit a schedule of all insulating materials to be used on the project, including adhesives, fastening methods, fitting materials along with material safety data sheets and intended use of each material. Include manufacturer's technical data sheets indicating density, thermal characteristics, jacket type, and manufacturer's installation instructions.
 
 ## Products
 

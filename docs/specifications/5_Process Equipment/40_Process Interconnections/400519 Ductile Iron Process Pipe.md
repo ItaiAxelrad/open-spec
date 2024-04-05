@@ -95,7 +95,7 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Ductile', 'Iron', 'Pipe']
    1. Join two grooved pipe ends, or a pipe end and a valve.
    1. Position the gasket around the joint.
    1. Place the housing over the gasket and tighten with nuts and bolts to secure the housings together.
-      1. The coupling housings shall encase the gasket and engauge the grooves around the pipe to create a leak-tight seal.
+      1. The coupling housings shall encase the gasket and engage the grooves around the pipe to create a leak-tight seal.
 2. Joining Method - Flanged Joints:
    1. Install in accordance with AWWA/ANSI C115/A21.15.
    2. Extend pipe completely through screwed-on flanged and machine flange face and pipe in single operation.

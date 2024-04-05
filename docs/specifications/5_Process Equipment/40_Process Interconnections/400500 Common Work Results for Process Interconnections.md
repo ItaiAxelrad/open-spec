@@ -11,67 +11,67 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Common', 'Work', 'Results']
 
 1. SUMMARY
    1. Work under this section shall include process piping systems.
-2. Related Specification Sections include:
-   1. Section 40 05 19, Pipe: Ductile
-   2. Section 40 05 01, Pipe: Plastic
-   3. Section 40 05 24, Pipe: Steel
-   4. Section 40 05 45, Pipe Support Systems
-   5. Quality Assurance
-3. Work shall be per:
-   1. American Iron and Steel Institute (AISI).
-   2. American Society of Mechanical Engineers (ASME):
-      1. B16.3, Malleable Iron Threaded Fittings.
-      2. B16.5, Pipe Flanges and Flanged Fittings.
-      3. B16.9, Factory-Made Wrought Steel Butt-Welding Fittings.
-      4. B16.22, Wrought Copper and Bronze Solder - Joint Pressure Fittings.
-      5. B16.26, Cast Copper Alloy Fittings for Flared Copper Tubes.
-      6. B36.19, Stainless Steel Pipe.
-      7. B40.100, Pressure Gauges and Gauge Attachments.
-   3. ASTM International (ASTM):
-      1. A53, Standard Specification for Pipe, Steel, Black and Hot-Dipped, Zinc-Coated, Welded and Seamless.
-      2. A126, Standard Specification for Gray Iron Castings for Valves, Flanges, and Pipe Fittings.
-      3. A269, Standard Specification for Seamless and Welded Austenitic Stainless Steel Tubing for General Service.
-      4. A312, Standard Specification for Seamless, Welded, and Heavily Cold Worked Austenitic Stainless Steel Pipes.
-      5. A536, Standard Specification for Ductile Iron Castings.
-      6. D1785, Standard Specification for Poly(Vinyl Chloride) (PVC) Plastic Pipe, Schedules 40, 80, and 120.
-      7. D2466, Standard Specification for Poly(Vinyl Chloride) (PVC) Plastic Pipe Fittings, Schedule 40.
-      8. D2467, Standard Specification for Poly(Vinyl Chloride) (PVC) Plastic Pipe Fittings, Schedule 80.
-      9. D4101, Standard Specification for Polypropylene Plastic Injection and Extrusion Materials.
-      10. F439, Standard Specification for Chlorinated Poly(Vinyl Chloride) (CPVC) Plastic Pipe Fittings, Schedule 80.
-      11. F441, Standard Specification for Chlorinated Poly(Vinyl Chloride) (CPVC) Plastic Pipe, Schedules 40 and 80.
-   4. American Water Works Association (AWWA):
-      1. B300, Standard for Hypochlorites.
-      2. C200, Standard for Steel Water Pipe - 6 IN and Larger.
-      3. C207, Standard for Steel Pipe Flanges for Waterworks Service - Sizes 4 IN through 144 IN.
-      4. C208, Standard for Dimensions for Fabricated Steel Water Pipe Fittings.
-      5. C606, Standard for Grooved and Shouldered Joints.
-      6. C651, Standard for Disinfecting Water Mains.
-      7. C800, Standard for Underground Service Line Valves and Fittings.
-   5. American Water Works Association/American National Standards Institute (AWWA/ANSI):
-      1. C110/A21.10, Standard for Ductile-Iron and Gray-Iron Fittings.
-      2. C111/A21.11, Standard for Rubber-Gasket Joints for Ductile-Iron Pressure Pipe and Fittings.
-      3. C115/A21.15, Standard for Flanged Ductile-Iron Pipe with Ductile-Iron or Gray-Iron Threaded Flanges.
-      4. C151/A21.51, Standard for Ductile-Iron Pipe, Centrifugally Cast, for Water.
-      5. C153/A21 1 .53, Standard for Ductile-Iron Compact Fittings for Water Service.
-4. Coordinate flange dimensions and drillings between piping, valves, and equipment.
-   1. Submittals
-5. See Specification Section 01 33 00 for requirements for the mechanics and administration of the submittal process.
-6. Shop Drawings shall include:
-   1. Product technical data including:
-      1. Acknowledgement that products submitted meet requirements of standards referenced.
-      2. Copies of manufacturer’s written directions regarding material handling, delivery, storage and installation.
-      3. Technical product data on pipes, fittings, and other components.
-   2. Fabrication and layout drawings:
-      1. Interior and exterior piping drawings with relevant information pertaining to the pipes.
-   3. Provide Operation and Maintenance Manuals.
-   4. Information Submittals:
-      1. Copies of pressure test results on all piping systems.
-      2. Reports defining results of dielectric testing and corrective action taken.
-      3. Disinfection test report.
-      4. Notification of time and date of piping pressure tests.
-   5. Delivery, Storage, and Handling
-7. Protect pipe coating during handling using methods recommended by the manufacturer.
-8. Prevent damage to pipe during transit and repair abrasions, scars, and blemishes, if needed.
+   2. Related Specification Sections include:
+      1. Section 40 05 19, Pipe: Ductile
+      2. Section 40 05 01, Pipe: Plastic
+      3. Section 40 05 24, Pipe: Steel
+      4. Section 40 05 45, Pipe Support Systems
+      5. Quality Assurance
+   3. Work shall be per:
+      1. American Iron and Steel Institute (AISI).
+      2. American Society of Mechanical Engineers (ASME):
+         1. B16.3, Malleable Iron Threaded Fittings.
+         2. B16.5, Pipe Flanges and Flanged Fittings.
+         3. B16.9, Factory-Made Wrought Steel Butt-Welding Fittings.
+         4. B16.22, Wrought Copper and Bronze Solder - Joint Pressure Fittings.
+         5. B16.26, Cast Copper Alloy Fittings for Flared Copper Tubes.
+         6. B36.19, Stainless Steel Pipe.
+         7. B40.100, Pressure Gauges and Gauge Attachments.
+      3. ASTM International (ASTM):
+         1. A53, Standard Specification for Pipe, Steel, Black and Hot-Dipped, Zinc-Coated, Welded and Seamless.
+         2. A126, Standard Specification for Gray Iron Castings for Valves, Flanges, and Pipe Fittings.
+         3. A269, Standard Specification for Seamless and Welded Austenitic Stainless Steel Tubing for General Service.
+         4. A312, Standard Specification for Seamless, Welded, and Heavily Cold Worked Austenitic Stainless Steel Pipes.
+         5. A536, Standard Specification for Ductile Iron Castings.
+         6. D1785, Standard Specification for Poly(Vinyl Chloride) (PVC) Plastic Pipe, Schedules 40, 80, and 120.
+         7. D2466, Standard Specification for Poly(Vinyl Chloride) (PVC) Plastic Pipe Fittings, Schedule 40.
+         8. D2467, Standard Specification for Poly(Vinyl Chloride) (PVC) Plastic Pipe Fittings, Schedule 80.
+         9. D4101, Standard Specification for Polypropylene Plastic Injection and Extrusion Materials.
+         10. F439, Standard Specification for Chlorinated Poly(Vinyl Chloride) (CPVC) Plastic Pipe Fittings, Schedule 80.
+         11. F441, Standard Specification for Chlorinated Poly(Vinyl Chloride) (CPVC) Plastic Pipe, Schedules 40 and 80.
+      4. American Water Works Association (AWWA):
+         1. B300, Standard for Hypochlorites.
+         2. C200, Standard for Steel Water Pipe - 6 IN and Larger.
+         3. C207, Standard for Steel Pipe Flanges for Waterworks Service - Sizes 4 IN through 144 IN.
+         4. C208, Standard for Dimensions for Fabricated Steel Water Pipe Fittings.
+         5. C606, Standard for Grooved and Shouldered Joints.
+         6. C651, Standard for Disinfecting Water Mains.
+         7. C800, Standard for Underground Service Line Valves and Fittings.
+      5. American Water Works Association/American National Standards Institute (AWWA/ANSI):
+         1. C110/A21.10, Standard for Ductile-Iron and Gray-Iron Fittings.
+         2. C111/A21.11, Standard for Rubber-Gasket Joints for Ductile-Iron Pressure Pipe and Fittings.
+         3. C115/A21.15, Standard for Flanged Ductile-Iron Pipe with Ductile-Iron or Gray-Iron Threaded Flanges.
+         4. C151/A21.51, Standard for Ductile-Iron Pipe, Centrifugally Cast, for Water.
+         5. C153/A21 1 .53, Standard for Ductile-Iron Compact Fittings for Water Service.
+2. Submittals
+   1. See Specification Section 01 33 00 for requirements for the mechanics and administration of the submittal process.
+   2. Coordinate flange dimensions and drillings between piping, valves, and equipment.
+   3. Shop Drawings shall include:
+      1. Product technical data including:
+         1. Acknowledgement that products submitted meet requirements of standards referenced.
+         2. Copies of manufacturer’s written directions regarding material handling, delivery, storage and installation.
+         3. Technical product data on pipes, fittings, and other components.
+      2. Fabrication and layout drawings:
+         1. Interior and exterior piping drawings with relevant information pertaining to the pipes.
+      3. Provide Operation and Maintenance Manuals.
+      4. Information Submittals:
+         1. Copies of pressure test results on all piping systems.
+         2. Reports defining results of dielectric testing and corrective action taken.
+         3. Disinfection test report.
+         4. Notification of time and date of piping pressure tests.
+3. Delivery, Storage, and Handling
+   1. Protect pipe coating during handling using methods recommended by the manufacturer.
+   2. Prevent damage to pipe during transit and repair abrasions, scars, and blemishes, if needed.
 
 ## Product
 
@@ -169,7 +169,6 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Common', 'Work', 'Results']
     1. Pipe Line Size
 28. Specified Test Pressure
 29. Testing Medium
-
     1. 2 IN and smaller
     1. 75 psi or less
     1. Air or water
@@ -182,15 +181,12 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Common', 'Work', 'Results']
     1. Greater than 2 IN
     1. Greater than 3 psi
     1. Water
-
        1. Natural gas systems: Cylinder Nitogen
        2. Liquid Systems:
        3. Pipe Size (Dia.)
-
 30. Gravity or pumped
 31. Specified Test Pressure
 32. Testing Medium
-
     1. Up to 48 IN
     1. Gravity
     1. 25 psig or less
@@ -199,13 +195,11 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Common', 'Work', 'Results']
     1. Pumped
     1. 250 psig or less
     1. Water
-
     1. Allowable leakage rates:
        1. Hazardous gas systems, all exposed piping systems, all pressure piping systems and all buried, insulated piping systems which are hydrostatically pressure tested shall have zero leakage at the specified test pressure throughout the duration of the test.
        2. Non-hazardous gas and air systems which are tested with air shall have a maximum pressure drop of 5 percent of the specified test pressure throughout the duration of the test.
        3. For low pressure (less 1 than 25 psig) air testing, the acceptable time for loss of 1 psig of air pressure shall be:
        4. Pipe Size (Dia.)
-
 33. Time, Minutes/100 Ft.
     1. 4
 34. 1. 6
@@ -223,5 +217,4 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Common', 'Work', 'Results']
     5. Provide electrical check between metallic non-ferrous pipe or appurtenances and ferrous elements of construction to assure discontinuity has been maintained.
     6. Wherever electrical contact is demonstrated by such test, locate the point or points of continuity and correct the condition.
     7. Cleaning Disinfection and Purging
-
 41. Refer to Section 46 08 00 for Disinfection of Pipes and Tanks.

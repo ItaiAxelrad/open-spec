@@ -33,31 +33,30 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Butterfly', 'Valves']
       2. C504, Standard for Rubber-Seated Butterfly Valves.
    4. Manufacturers Standardization Society of the Valve and Fittings Industry Inc. (MSS):
       1. SP-67, Butterfly Valves.
-   5. Submittals
-4. See Specification Section 01 33 00 for requirements for the mechanics and administration of the submittal process.
-5. See Specification Section 40 05 51 for additional submittal requirements.
-6. Operation and Maintenance Data.
-   1. Definitions
-7. EPDM:
-   1. Ethylene Propylene Diene Monomer.
+4. Submittals
+   1. See Specification Section 01 33 00 for requirements for the mechanics and administration of the submittal process.
+   2. See Specification Section 40 05 51 for additional submittal requirements.
+   3. Operation and Maintenance Data.
+5. Definitions
+   1. EPDM:
+      1. Ethylene Propylene Diene Monomer.
 
 ## Product
 
-    1. Acceptable Manufacturers:
-      1. Bray, Series 30.
-
-2. Equivalent manufacturer.
+1. Acceptable Manufacturers:
+   1. Bray, Series 30.
+1. Equivalent manufacturer.
    1. Materials:
-3. Body:
+1. Body:
    1. ASTM A126, Class B or ASTM A536 Grade 65-45-12 ductile iron.
    2. One-piece wafer.
-4. Disc:
+1. Disc:
    1. Shall be a spherically machined and hand polished.
    2. Stainless steel, 304 or 316.
-5. Stem:
+1. Stem:
    1. One-piece stainless steel, Type 316.
    2. Stem shall be retained in the body by means of a stainless-steel retaining ring, a thrust washer, and two C-rings.
-6. Seat:
+1. Seat:
    1. Bonded EPDM.
    2. Utilize O-rings to eliminate the use of flange gaskets.
    3. Tongue and groove design.

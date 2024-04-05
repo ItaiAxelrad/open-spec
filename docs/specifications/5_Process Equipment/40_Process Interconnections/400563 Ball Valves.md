@@ -26,16 +26,16 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Ball', 'Valves']
    3. Manufacturers Standardization Society of the Valve and Fittings Industry Inc. (MSS):
       1. SP-110, Ball Valves; Threaded, Socket-Welding, Solder Joint, Grooved and Flared Ends.
    4. Definitions
-4. PVDF:
-   1. Polyvinylidene fluoride.
-5. PTFE:
-   1. Polytetrafluoroethylene.
-6. RPTFE:
-   1. Reinforced PolyTetraFluoroEthylene.
-   1. Submittals
-7. See Specification Section 01 33 00 for requirements for the mechanics and administration of the submittal process.
-8. See Specification Section 40 05 51 for additional submittal requirements.
-9. Operation and Maintenance Manuals.
+      1. PVDF:
+         1. Polyvinylidene fluoride.
+      2. PTFE:
+         1. Polytetrafluoroethylene.
+      3. RPTFE:
+         1. Reinforced PolyTetraFluoroEthylene.
+4. Submittals
+   1. See Specification Section 01 33 00 for requirements for the mechanics and administration of the submittal process.
+   2. See Specification Section 40 05 51 for additional submittal requirements.
+   3. Operation and Maintenance Manuals.
 
 ## Product
 

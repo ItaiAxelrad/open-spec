@@ -54,13 +54,15 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Thermoplastic', 'Pipe']
 6. Nuts and Bolts:
    1. Exposed: ASTM F593, Type 316 stainless steel.
    2. Project ends 1/4 to 1/2 IN beyond nuts.
-   3. part 3 – execuction
-7. Installation
+
+## Execution
+
+1. Installation
    1. Installation:
-   1. Field threading PVC will not be permitted.
+   2. Field threading PVC will not be permitted.
       1. Perform required threaded connections or attachments by the use of factory molded socket by threaded adapters.
       2. Female adapters are not acceptable.
-   1. Employ installation and pipe support practices and solvent welding all in compliance to the manufacturer's printed recommendation.
+   3. Employ installation and pipe support practices and solvent welding all in compliance to the manufacturer's printed recommendation.
       1. For vertical piping, band the pipe at intervals to rigidly support load of twice vertical load.
       2. Support riser clamps on spring hangers.
       3. Do not clamp PVC tightly or restrict movement for expansion and contraction.

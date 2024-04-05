@@ -59,11 +59,11 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Control', 'Software']
     1. Shall be modified based on Drawing E-6 and the Control Strategy Narrative.
 13. Filter Control Panel:
     1. Shall be modified based on Drawing E-5 and the Control Strategy Narrative.
-    2. Submittals
-14. See Specification Section 01 33 00 for requirements for the mechanics and administration of the submittal process.
-15. Shop drawings shall include:
-    1. Submittals shall be original printed material, PDF documents, or clear unblemished photocopies of original printed material.
-    2. Product technical data including:
+14. Submittals
+    1. See Specification Section 01 33 00 for requirements for the mechanics and administration of the submittal process.
+    2. Shop drawings shall include:
+    3. Submittals shall be original printed material, PDF documents, or clear unblemished photocopies of original printed material.
+    4. Product technical data including:
        1. Equipment catalog cut sheets.
        2. Instrument data sheets:
           1. ISA S20 or approved equal.
@@ -76,26 +76,26 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Control', 'Software']
        8. Electrical power requirements and wiring diagrams.
        9. NEMA rating of housings.
        10. Submittals shall be marked with arrows to show exact features to be provided.
-    3. Comprehensive set of wiring diagrams.
-    4. Panel fabrication drawings.
-    5. PLC/DCS equipment drawings.
-    6. HMI graphics.
-    7. Name plate layout drawings.
-    8. Drawings, systems, and other elements are represented schematically in accordance with ISA S5.1 and ISA S5.3.
-       1. The nomenclature, tag numbers, equipment numbers, panel numbers, and related series identification contained in the Contract Documents shall be employed exclusively throughout submittals.
-    9. All Shop Drawings shall be modified with as-built information/corrections.
-    10. All panel and wiring drawings shall be provided in both hardcopy and softcopy.
+    5. Comprehensive set of wiring diagrams.
+    6. Panel fabrication drawings.
+    7. PLC/DCS equipment drawings.
+    8. HMI graphics.
+    9. Name plate layout drawings.
+    10. Drawings, systems, and other elements are represented schematically in accordance with ISA S5.1 and ISA S5.3.
+    11. The nomenclature, tag numbers, equipment numbers, panel numbers, and related series identification contained in the Contract Documents shall be employed exclusively throughout submittals.
+    12. All Shop Drawings shall be modified with as-built information/corrections.
+    13. All panel and wiring drawings shall be provided in both hardcopy and softcopy.
         1. Furnish electronic files on CD-ROM or DVD-ROM media.
         2. Drawings in AUTO CAD format.
-    11. Provide a parameter setting summary sheet for each field configurable device.
-    12. Certifications:
+    14. Provide a parameter setting summary sheet for each field configurable device.
+    15. Certifications:
         1. Documentation verifying that calibration equipment is certified with NIST traceability.
         2. Approvals from independent testing laboratories or approval agencies, such as UL, FM or CSA.
            1. Certification documentation is required for all equipment for which the specifications require independent agency approval.
-    13. Testing reports: Source quality control reports.
-16. Provide Operation and Maintenance Manuals.
+    16. Testing reports: Source quality control reports.
+15. Provide Operation and Maintenance Manuals.
     1. Delivery, Storage and Handling
-17. Do not remove shipping blocks, plugs, caps, and desiccant dryers installed to protect the instrumentation during shipment until the instruments are installed and permanent connections are made.
+16. Do not remove shipping blocks, plugs, caps, and desiccant dryers installed to protect the instrumentation during shipment until the instruments are installed and permanent connections are made.
 
 ## Products
 

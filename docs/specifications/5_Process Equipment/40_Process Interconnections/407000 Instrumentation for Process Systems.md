@@ -36,13 +36,13 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Instrumentation', 'Systems']
       1. 250, Enclosures for Electrical Equipment (1000 Volts Maximum).
    5. US Department of Interior Bureau of Reclamation (USDIBR):
       1. Water Measurement Manual.
-   6. Submittals
-4. See Specification Section 01 33 00 for requirements for the mechanics and administration of the submittal process.
-5. Shop drawings
-   1. Shop drawings shall include product technical data including:
-      1. Acknowledgement that products submitted meet requirements of the aforementioned standards.
-      2. Manufacturer’s installation instructions.
-6. Operation and Maintenance Manuals.
+4. Submittals
+   1. See Specification Section 01 33 00 for requirements for the mechanics and administration of the submittal process.
+   2. Shop drawings
+      1. Shop drawings shall include product technical data including:
+         1. Acknowledgement that products submitted meet requirements of the aforementioned standards.
+         2. Manufacturer’s installation instructions.
+   3. Operation and Maintenance Manuals.
 
 ## Product
 

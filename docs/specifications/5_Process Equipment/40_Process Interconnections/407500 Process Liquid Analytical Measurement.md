@@ -20,13 +20,13 @@ tags:
 1. SUMMARY
    1. Work under this section shall include sample taps, including their locations and installation.
    1. Quality Assurance
-2. Work shall be per the Colorado Department of Public Health and Environment, State of Colorado Design Criteria for Potable Water Systems.
-   1. Submittals
-3. Shop drawings
-   1. Shop drawings shall include product technical data including:
-      1. Acknowledgement that products submitted meet requirements of the aforementioned standards.
-      2. Manufacturer’s installation instructions.
-4. Provide Operation and Maintenance Manuals.
+   1. Work shall be per the Colorado Department of Public Health and Environment, State of Colorado Design Criteria for Potable Water Systems.
+2. Submittals
+   1. Shop drawings
+      1. Shop drawings shall include product technical data including:
+         1. Acknowledgement that products submitted meet requirements of the aforementioned standards.
+         2. Manufacturer’s installation instructions.
+   2. Provide Operation and Maintenance Manuals.
 
 ## Product
 

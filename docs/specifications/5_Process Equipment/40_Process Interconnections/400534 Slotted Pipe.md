@@ -24,20 +24,19 @@ tags: ['Process', 'Equipment', 'Interconnections', 'Slotted', 'Pipe']
 4. See Specification Section 01 33 00 for requirements for the mechanics and administration of the submittal process.
 5. See Specification Section 40 05 00 for additional submittal requirements.
 
-   1. part 2 – PRODUCT
+## PRODUCT
 
-   1. Slot
+1. Slot
    1. Each screen to have machined slots in a uniform pattern of spacings and rows.
-
-6. The slots are free of stringers or burrs.
-7. The slot design is suitable for service conditions, and was selected based on a sieve analysis of the water bearing formation sediments or the selected filter pack.
-8. Design requirements:
+2. The slots are free of stringers or burrs.
+3. The slot design is suitable for service conditions, and was selected based on a sieve analysis of the water bearing formation sediments or the selected filter pack.
+4. Design requirements:
    1. Opening: 1/16 inches with ± .005-inch tolerance.
    2. Spacing: 3/8 inch.
    3. Minimum open area: 40 sq. inches/foot.
    4. Finish
-9. The slotted surface is free of oils, grease, paint, dirt, and any manufacturer's markings that could alter the chemistry of the sample.
-10. The product is completely encased in an individual polyethylene protective wrapper with sealed ends and shipped in cardboard or wooden boxes.
+5. The slotted surface is free of oils, grease, paint, dirt, and any manufacturer's markings that could alter the chemistry of the sample.
+6. The product is completely encased in an individual polyethylene protective wrapper with sealed ends and shipped in cardboard or wooden boxes.
 
 ## Execution
 

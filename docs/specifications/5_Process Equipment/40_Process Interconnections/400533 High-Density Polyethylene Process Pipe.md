@@ -89,7 +89,9 @@ tags:
 24. COMPLIANCE TESTS
     1. In case of conflict with Manufacturer's certifications, the contractor, engineer, or owner or designee may request re-testing by the manufacturer or have re-tests performed by an outside testing service. All re- testing shall be at the requestor's expense, and shall be performed in accordance with the Specifications.
 25. Installation shall be in accordance with Manufacturer's recommendations and this specification. All necessary precautions shall be taken to ensure a safe working environment in accordance with the applicable codes and standards.
-    1. part 3 – execuction
+
+## Execution
+
 26. INSTALLATION
     1. Install all high-density polyethylene (HDPE) pressure pipe by direct bury, directional bore, or a method approved by the OWNER or ENGINEER prior to construction. If directional bore is used, or if directed by the owner or designee or ENGINEER, surround the entire area of construction by silt barriers.
 27. Install all high-density polyethylene pressure pipe and fittings in accordance with Manufacturer’s recommendations, and this specification. Take all necessary precautions to ensure a safe working environment in accordance with the applicable codes and standards.
@@ -102,7 +104,7 @@ tags:
     1. Make branch connections to the main with saddle fittings or tees. Saddle fuse polyethylene saddle fittings to the main pipe.
 32. EXCAVATION
     1. Excavate trenches in conformance to this specification, the plans and drawings, or as authorized in writing by the owner or designee, and in accordance with all applicable codes. Remove excess groundwater. Where necessary, shore or reinforce trench walls.
-    1. LARGE DIAMETER FABRICATED FITTINGS
+    2. LARGE DIAMETER FABRICATED FITTINGS
 33. Butt fuse fabricated directional fittings 16" IPS and larger to the end of a pipe. Make up the flanged directional outlet connections in the trench.
 34. MECHANCIAL JOINT AND FLANGE INSTALLATION
     1. Install mechanical joints and flange connections in accordance with the Manufacturer's recommended procedure. Center and align flange faces to each other before assembling and tightening bolts. Do not use the flange bolts to draw the flanges into alignment. Lubricate bolt threads, and fit flat washers under the flange nuts. Tighten bolts evenly according to the tightening pattern and torque step recommendations of the Manufacturer. At least one hour after initial assembly, re-tighten flange connections following the tightening pattern and torque step recommendations of the Manufacturer. The final tightening torque shall be 100 ft-lbs. or less as recommended by the Manufacturer.
@@ -113,4 +115,4 @@ tags:
 37. TESTING
     1. Hydrostatic Pressure Testing:
        1. Pressure test and flush HDPE pipes after swabbing in accordance with Section 40 05 00, Pipe and Pipe Fittings:
-       1. Basic Requirements.
+       2. Basic Requirements.

@@ -33,10 +33,10 @@ tags:
    3. Manufacturers Standardization Society of the Valve and Fittings Industry Inc. (MSS):
       1. SP-71, Cast Iron Swing Check Valves, Flanged and Threaded Ends.
       2. SP-80, Bronze Gate, Globe, Angle and Check Valves.
-   4. Submittals
-4. See Specification Section 01 33 00 for requirements for the mechanics and administration of the submittal process.
-5. See Specification Section 40 05 51 for additional submittal requirements.
-6. Operation and Maintenance Manuals.
+4. Submittals
+   1. See Specification Section 01 33 00 for requirements for the mechanics and administration of the submittal process.
+   2. See Specification Section 40 05 51 for additional submittal requirements.
+   3. Operation and Maintenance Manuals.
 
 ## Product
 
