@@ -33,84 +33,85 @@ tags: ['Process', 'Equipment', 'Water', 'Wastewater', 'Packaged', 'Treatment']
    1. American Society of Mechanical Engineers:
       1. ASME B16.1 - Gray Iron Pipe Flanges and Flanged Fittings:
          1. Classes 25, 125, and 250.
-4. ASME B16.3 - Malleable Iron Threaded Fittings:
-   1. Classes 150 and 300. B. ASTM International:
-      1. ASTM A53 - Standard Specification for Pipe, Steel, Black and Hot-Dipped, Zinc-Coated, Welded and Seamless.
-5. ASTM A53M - Standard Specification for Pipe, Steel, Black and Hot-Dipped, Zinc- Coated, Welded and Seamless.
-6. ASTM A123 - Standard Specification for Zinc (Hot-Dip Galvanized) Coatings on Iron and Steel Products.
-7. ASTM A123M - Standard Specification for Zinc (Hot-Dip Galvanized) Coatings on Iron and Steel Products.
-8. ASTM A153 - Standard Specification for Zinc Coating (Hot-Dip) on Iron and Steel
-   1. Hardware.
-9. ASTM A153M - Standard Specification for Zinc Coating (Hot-Dip) on Iron and Steel
-   1. Hardware.
-   1. American Welding Society:
-      1. AWS D1.1/D1.1M - Structural Welding Code - Steel. D. National Electrical Manufacturers Association:
-         1. NEMA 250 - Enclosures for Electrical Equipment (1000 Volts Maximum). E. SSPC:
-            1. The Society for Protective Coatings:
-         1. SSPC SP 10 - Near-White Metal Blast Cleaning.
-10. COORDINATION
-    1. Section 013000 - Administrative Requirements:
-       1. Requirements for coordination. B. Coordinate installation and startup of Work of this Section with Owner.
-11. PREINSTALLATION MEETINGS
-    1. Section 013000 - Administrative Requirements:
-       1. Requirements for preinstallation meeting. B. Convene minimum two week prior to commencing Work of this Section.
-12. SUBMITTALS
-    1. Section 013114 - Submittal Procedures:
-       1. Requirements for submittals. B. Process Design Report (PDR)
-    1. Permit Narrative Conditions Report Form:
-       1. Submit at commencement of construction and completion of construction.
-    1. Product Data:
-       1. Submit manufacturer's product data for system materials and component equipment.
-    1. Shop Drawings:
-       1. Indicate system materials and component equipment, including detailed wiring and control diagrams.
-13. Indicate complete information concerning fabrication, installation, anchoring, fasteners, and other details.
-    1. Manufacturer's Certificate:
-       1. Certify that equipment meet or exceed specified requirements.
-14. Certify that installation is completed according to manufacturer's instructions and that packaged wastewater treatment plant is ready for startup, testing, and operation.
-15. Submit manufacturer's affidavit certifying tanks have been designed to resist loading and attest to structural adequacy; calculations are not to be submitted.
-    1. Delegated Design Submittals:
-       1. Submit signed and sealed Shop Drawings with design calculations and assumptions for tanks, railings, and other structural components.
-    1. Manufacturer's Instructions:
-       1. Submit detailed instructions on installation requirements, including storage and handling procedures, anchoring, and layout.
-    1. Source Quality-Control Submittals:
-       1. Indicate results of factory tests and inspections.
-    1. Field Quality-Control Submittals:
-       1. Indicate results of Contractor-furnished tests and inspections. K. Manufacturer Reports:
-       1. Indicate results of manufacturer's inspections and instructions issued.
-    1. Qualifications Statements:
-       1. Submit qualifications for manufacturer, installer, and licensed professional.
-16. Submit manufacturer's approval of installer.
-17. CLOSEOUT SUBMITTALS
+      2. ASME B16.3 - Malleable Iron Threaded Fittings:
+         1. Classes 150 and 300. B. ASTM International:
+      3. ASTM A53 - Standard Specification for Pipe, Steel, Black and Hot-Dipped, Zinc-Coated, Welded and Seamless.
+      4. ASTM A53M - Standard Specification for Pipe, Steel, Black and Hot-Dipped, Zinc- Coated, Welded and Seamless.
+      5. ASTM A123 - Standard Specification for Zinc (Hot-Dip Galvanized) Coatings on Iron and Steel Products.
+      6. ASTM A123M - Standard Specification for Zinc (Hot-Dip Galvanized) Coatings on Iron and Steel Products.
+      7. ASTM A153 - Standard Specification for Zinc Coating (Hot-Dip) on Iron and Steel
+         1. Hardware.
+      8. ASTM A153M - Standard Specification for Zinc Coating (Hot-Dip) on Iron and Steel
+         1. Hardware.
+   2. American Welding Society:
+      1. AWS D1.1/D1.1M - Structural Welding Code - Steel.
+   3. National Electrical Manufacturers Association:
+      1. NEMA 250 - Enclosures for Electrical Equipment (1000 Volts Maximum)
+   4. The Society for Protective Coatings (SSPC):
+      1. SSPC SP 10 - Near-White Metal Blast Cleaning.
+4. COORDINATION
+   1. Section 013000 - Administrative Requirements:
+      1. Requirements for coordination. B. Coordinate installation and startup of Work of this Section with Owner.
+5. PREINSTALLATION MEETINGS
+   1. Section 013000 - Administrative Requirements:
+      1. Requirements for preinstallation meeting. B. Convene minimum two week prior to commencing Work of this Section.
+6. SUBMITTALS
+   1. Section 013114 - Submittal Procedures:
+      1. Requirements for submittals. B. Process Design Report (PDR)
+   2. Permit Narrative Conditions Report Form:
+      1. Submit at commencement of construction and completion of construction.
+   3. Product Data:
+      1. Submit manufacturer's product data for system materials and component equipment.
+   4. Shop Drawings:
+      1. Indicate system materials and component equipment, including detailed wiring and control diagrams.
+7. Indicate complete information concerning fabrication, installation, anchoring, fasteners, and other details.
+   1. Manufacturer's Certificate:
+      1. Certify that equipment meet or exceed specified requirements.
+8. Certify that installation is completed according to manufacturer's instructions and that packaged wastewater treatment plant is ready for startup, testing, and operation.
+9. Submit manufacturer's affidavit certifying tanks have been designed to resist loading and attest to structural adequacy; calculations are not to be submitted.
+   1. Delegated Design Submittals:
+      1. Submit signed and sealed Shop Drawings with design calculations and assumptions for tanks, railings, and other structural components.
+   2. Manufacturer's Instructions:
+      1. Submit detailed instructions on installation requirements, including storage and handling procedures, anchoring, and layout.
+   3. Source Quality-Control Submittals:
+      1. Indicate results of factory tests and inspections.
+   4. Field Quality-Control Submittals:
+      1. Indicate results of Contractor-furnished tests and inspections. K. Manufacturer Reports:
+      2. Indicate results of manufacturer's inspections and instructions issued.
+   5. Qualifications Statements:
+      1. Submit qualifications for manufacturer, installer, and licensed professional.
+10. Submit manufacturer's approval of installer.
+11. CLOSEOUT SUBMITTALS
     1. Section 017000 - Execution and Closeout Requirements: 1. Requirements for closeout procedures. B. Project Record Documents: 1. Record actual locations and final orientation of equipment and
        accessories.
-    1. Operation and Maintenance Data:
+    2. Operation and Maintenance Data:
        1. Submit equipment operation and maintenance manuals.
-18. Include periodic maintenance recommendations.
-19. Submit list of equipment, accessories, and tools needed to maintain and calibrate equipment.
-20. MAINTENANCE MATERIAL SUBMITTALS
+12. Include periodic maintenance recommendations.
+13. Submit list of equipment, accessories, and tools needed to maintain and calibrate equipment.
+14. MAINTENANCE MATERIAL SUBMITTALS
     1. Section 017000 - Execution and Closeout Requirements:
        1. Requirements for maintenance materials.
-    1. Spare Parts:
+    2. Spare Parts:
        1. Furnish two sets of manufacturer's recommended spare parts, including, but not limited to:
-       1. Four spare diffusers of each type and size. b. Two sets of belts for each motor.
-       1. Other spare parts as indicated in individual equipment specification section.
-    1. Tools:
+       2. Four spare diffusers of each type and size. b. Two sets of belts for each motor.
+       3. Other spare parts as indicated in individual equipment specification section.
+    3. Tools:
        1. Furnish special wrenches, tools, lift mechanisms and other devices required for Owner to maintain system components.
-21. QUALITY ASSURANCE
+15. QUALITY ASSURANCE
     1. Perform Work according to industry standards.
-    1. Maintain copy of each standard affecting Work of this Section on Site.
-22. QUALIFICATIONS
-23. Manufacturer:
+    2. Maintain copy of each standard affecting Work of this Section on Site.
+16. QUALIFICATIONS
+17. Manufacturer:
     1. Company specializing in manufacturing products specified in this Section with minimum years documented experience as specified in the various equipment sections.
-24. Contractor specializing in performing Work of this Section with minimum five years documented experience and a minimum of ten reference projects of similar size and complexity.
-25. Licensed Professional:
+18. Contractor specializing in performing Work of this Section with minimum five years documented experience and a minimum of ten reference projects of similar size and complexity.
+19. Licensed Professional:
     1. Professional engineer experienced in design of specified Work and licensed in State of Colorado.
-26. Welders:
+20. Welders:
     1. AWS-certified within previous 12 months.
-27. WARRANTY
-28. Section 017000 - Execution and Closeout Requirements:
+21. WARRANTY
+22. Section 017000 - Execution and Closeout Requirements:
     1. Requirements for warranties.
-29. Furnish manufacturer's warranty for packaged wastewater treatment equipment as required elsewhere in these design documents.
+23. Furnish manufacturer's warranty for packaged wastewater treatment equipment as required elsewhere in these design documents.
 
 ## Products
 

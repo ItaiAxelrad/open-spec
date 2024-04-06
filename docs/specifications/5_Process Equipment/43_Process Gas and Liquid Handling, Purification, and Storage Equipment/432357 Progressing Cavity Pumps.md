@@ -23,40 +23,37 @@ tags:
 
 1. RELATED DOCUMENTS
    1. Drawings, General and Special Provisions of the Contract, and Division 01 Specification Sections apply to this Section.
-2.
-3. SUMMARY
+2. SUMMARY
    1. Furnish and install five (5) new progressing cavity pumps for primary sludge pumping, with the motor piggy-back mounted, and related equipment required for complete installation in the Sludge Pumping Station.
-4.
-5. QUALITY ASSURANCE
+3. QUALITY ASSURANCE
    1. The equipment shall be supplied by a firm regularly engaged in the manufacture of the equipment item, whose products have been used satisfactorily in similar services for a minimum of five (5) years.
-   1. The Contractor may furnish and install equipment of a manufacturer whose products have not been in similar services for five years, provided the equipment manufacturer submits a bond, or deposits a sum equal to the installed price of the equipment, for a period of five (5) years.
-6.
-7. SUBMITTALS
+   2. The Contractor may furnish and install equipment of a manufacturer whose products have not been in similar services for five years, provided the equipment manufacturer submits a bond, or deposits a sum equal to the installed price of the equipment, for a period of five (5) years.
+4. SUBMITTALS
    1. Submit the following in accordance with the Provisions of the Contract and Division 01 Specification Sections.
-   1. A copy of this specification section, with addendum updates included, and all referenced and applicable sections, with addendum updates included, with each paragraph check- marked to indicate specification compliance or marked to indicate requested deviation from specification requirements. If deviations from the specification are indicated and, therefore requested by the Contractor, the submittal shall be accompanied by a detailed, written justification for each deviation. Failure to include a copy of the marked-up specification sections, along with justification for any requested deviations to the specification requirements, with the submittal, shall be cause for rejection of the entire submittal with no further consideration.
-8. Manufacturer’s product data
-9. Certified pump curves
-10. Shop Drawings
-11. Installation instructions
-12. Parts lists
-13. Recommended spare parts lists
-14. Operation and maintenance manuals
-15. Manufacturer’s warranty
+   2. A copy of this specification section, with addendum updates included, and all referenced and applicable sections, with addendum updates included, with each paragraph check- marked to indicate specification compliance or marked to indicate requested deviation from specification requirements. If deviations from the specification are indicated and, therefore requested by the Contractor, the submittal shall be accompanied by a detailed, written justification for each deviation. Failure to include a copy of the marked-up specification sections, along with justification for any requested deviations to the specification requirements, with the submittal, shall be cause for rejection of the entire submittal with no further consideration.
+5. Manufacturer’s product data
+6. Certified pump curves
+7. Shop Drawings
+8. Installation instructions
+9. Parts lists
+10. Recommended spare parts lists
+11. Operation and maintenance manuals
+12. Manufacturer’s warranty
     1. OPERATION AND MAINTENANCE MANUALS
-    1. Operation and Maintenance Manuals shall be as described in Section 017700 – Closeout Procedures. If preprinted manuals and booklets are included, “X-out” the information that does not pertain to the equipment or system supplied; i.e. the information in the manual shall be specific to the equipment model or system supplied for the project.
-16. Operation and Maintenance Manuals shall be submitted prior to making application for payment exceeding 75 percent of the Contract Price.
-17.
-18. WARRANTY
+    2. Operation and Maintenance Manuals shall be as described in Section 017700 – Closeout Procedures. If preprinted manuals and booklets are included, “X-out” the information that does not pertain to the equipment or system supplied; i.e. the information in the manual shall be specific to the equipment model or system supplied for the project.
+13. Operation and Maintenance Manuals shall be submitted prior to making application for payment exceeding 75 percent of the Contract Price.
+14.
+15. WARRANTY
     1. Special Warranty:
        1. The manufacturer shall warrant that the work described here shall be free from defects in workmanship and material for a period of one (1) year from the date of acceptance. Any faulty workmanship or defective material furnished that is found within the warranty period shall be corrected without cost to the Owner.
-19.
-20. EXTRA MATERIALS
+16.
+17. EXTRA MATERIALS
     1. The following spare parts shall be supplied
-    1. Two (2) stators
-21. Two (2) gear joint kit
-22. Two (2) gear joint seal kit
-23. Two (2) stator gasket
-24. Two (2) sets of packing
+    2. Two (2) stators
+18. Two (2) gear joint kit
+19. Two (2) gear joint seal kit
+20. Two (2) stator gasket
+21. Two (2) sets of packing
 
 ## Products
 

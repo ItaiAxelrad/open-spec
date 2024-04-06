@@ -1,4 +1,7 @@
-# Erosion Control
+---
+sidebar_position: 7
+title: Erosion Control
+---
 
 - [ ] Adequate (min. 2) BMP's / control measures shown as well as applicable details for the same
 - [ ] Erosion Control measures for both construction activities as well as permanent stabilization

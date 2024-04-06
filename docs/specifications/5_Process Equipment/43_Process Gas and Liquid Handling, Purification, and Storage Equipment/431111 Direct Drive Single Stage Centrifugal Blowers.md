@@ -26,59 +26,49 @@ tags:
 
 1.  RELATED DOCUMENTS
     1. Drawings, General and Special Provisions of the Contract, and Division 01 Specification Sections apply to this Section.
-2.
-3.  SUMMARY
+2.  SUMMARY
     1. The work of this section includes furnishing, installing, and testing five (5) electric motor driven, direct-drive, centrifugal blower units and air bleeding assemblies. Instrumentation, controls and appurtenances shall be provided as shown on the drawings and as specified herein for a complete aeration system.
-    1. All equipment specified in this section shall be designed and furnished by the Blower Manufacturer who shall be responsible for the suitability and compatibility of all included equipment.
-    1. Related Sections include the following:
+    2. All equipment specified in this section shall be designed and furnished by the Blower Manufacturer who shall be responsible for the suitability and compatibility of all included equipment.
+    3. Related Sections include the following:
        1. Section 409213 – Valve and Gate Operators
-4.  Section 409513 – Control Panels
-5.  1. DEFINITIONS
+3.  Section 409513 – Control Panels
+4.  1. DEFINITIONS
     1. SCFM:
        1. _Standard cubic feet per minute_ is understood to be air at 68 degrees F, 14.7 psia, and 36 percent relative humidity.
     1. Discharge Pressure:
        1. The pressure in _pounds per square inch gauge_ (psig) at the blower discharge flange.
-6.
-7.  SUBMITTALS
+5.  SUBMITTALS
     1. Submit the following information in accordance with Section 013000 – Submittals to establish compliance with the specifications.
-8.  A copy of this specification section, with addendum updates included, and all referenced and applicable sections, with addendum updates included, with each paragraph check- marked to indicate specification compliance or marked to indicate requested deviation from specification requirements. If deviations from the specification are indicated and, therefore requested by the Contractor, the submittal shall be accompanied by a detailed, written justification for each deviation. Failure to include a copy of the marked-up specification sections, along with justification for any requested deviations to the
+6.  A copy of this specification section, with addendum updates included, and all referenced and applicable sections, with addendum updates included, with each paragraph check- marked to indicate specification compliance or marked to indicate requested deviation from specification requirements. If deviations from the specification are indicated and, therefore requested by the Contractor, the submittal shall be accompanied by a detailed, written justification for each deviation. Failure to include a copy of the marked-up specification sections, along with justification for any requested deviations to the
 
-    1.  specification requirements, with the submittal, shall be cause for rejection of the entire submittal with no further consideration.
-
-            1. Shop Drawings and Product Data including wiring diagrams.
-            2. Installation Instructions including instructions as required for unloading, storing, unpacking, assembly, and installation of equipment.
-            3. Operation and Maintenance Manuals.
-            4. Parts List: The parts list can be included with the O&M Manual and should include the spare parts the manufacturer recommends that the owner keep on hand to assure continuous operation of the blowers.
-            5. Manufacturer’s Product Warranty.
-            6. Provide as part of the shop drawings submittals detailed wiring diagrams of the control panel.
-            7. Submit for approval a list of discrete and analog outputs for coordination with the VCR PLC.
+    1.  specification requirements, with the submittal, shall be cause for rejection of the entire submittal with no further consideration. 1. Shop Drawings and Product Data including wiring diagrams. 2. Installation Instructions including instructions as required for unloading, storing, unpacking, assembly, and installation of equipment. 3. Operation and Maintenance Manuals. 4. Parts List: The parts list can be included with the O&M Manual and should include the spare parts the manufacturer recommends that the owner keep on hand to assure continuous operation of the blowers. 5. Manufacturer’s Product Warranty. 6. Provide as part of the shop drawings submittals detailed wiring diagrams of the control panel. 7. Submit for approval a list of discrete and analog outputs for coordination with the VCR PLC.
 
         1. OPERATION AND MAINTENANCE MANUALS
            1. Operation and Maintenance Manuals shall be as described in Section 017700 – Closeout Procedures. If preprinted manuals and booklets are included, “X-out” the information that does not pertain to the equipment or system supplied; i.e. the information in the manual shall be specific to the equipment model or system supplied for the project.
            2. Operation and Maintenance Manuals shall be submitted prior to making application for payment exceeding 75 percent of the Contract Price.
 
-    1.  QUALITY ASSURANCE
+    2.  QUALITY ASSURANCE
         1. The equipment shall be supplied by a firm regularly engaged in the manufacture of the equipment item, whose products have been used satisfactorily in similar services for a minimum of five (5) years.
         2. The Contractor may furnish and install equipment of a manufacturer whose products have not been in similar services for five years, provided the equipment manufacturer submits a bond, or deposits a sum equal to the installed price of the equipment, for a period of five (5) years.
-    1.  WARRANTY
+    3.  WARRANTY
         1. Special Warranty: The manufacturer shall warrant that the work described here shall be free from defects in workmanship and material for a period of one (1) year from the date of acceptance. Any faulty workmanship or defective material furnished that is found within the warranty period shall be corrected without cost to the Owner.
-    1.  EXTRA MATERIALS
+    4.  EXTRA MATERIALS
         1. Furnish extra parts that match items installed and that are packaged with protective covering for storage and identified with labels describing contents. The following spare parts shall be provided.
            1. Two filter elements.
            2. Two sets of bearing kit.
            3. Lubricating oil.
-    1.  PART 2 - EQUIPMENT
+    5.  PART 2 - EQUIPMENT
 
-    1.  ACCEPTABLE MANUFACTURERS
+    6.  ACCEPTABLE MANUFACTURERS
         1. Subject to compliance with requirements of these specifications and plans, manufacturers offering multistage centrifugal blowers which may be supplied for the work include the following:
            1. Gardner Denver (Hoffman Air and Filtration Systems) Model 859
            2. Spencer Turbine Co. Model CS39
            3. Approved equal
-    1.  PERFORMANCE REQUIREMENTS
+    7.  PERFORMANCE REQUIREMENTS
         1. The blowers shall be installed outdoors. All components of the system as specified herein shall be suitable for permanent installation and continuous operation. The blower equipment has been designed around the listed manufacturer's system.
         2. The blower shall be capable of compressing 1500 SCFM of air to a discharge pressure of
 
-9.  PSIG when operated at an elevation of 1160 feet, inlet pressure of 14.10 PSIA, inlet air temperature of 104 degrees F, 75 percent relative humidity. Winter conditions are 10 degrees F and 10% relative humidity.
+7.  PSIG when operated at an elevation of 1160 feet, inlet pressure of 14.10 PSIA, inlet air temperature of 104 degrees F, 75 percent relative humidity. Winter conditions are 10 degrees F and 10% relative humidity.
 
         1. When the volumetric capability is reduce by at least 45 percent, the blower under the specified inlet conditions shall:
         	1. Develop at least 1.20 PSI pressure above the specified discharge pressure.

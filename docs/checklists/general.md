@@ -1,4 +1,7 @@
-# General
+---
+sidebar_position: 1
+title: General
+---
 
 - [ ] North Arrow located directly above the drawing scale
 - [ ] Bar scale shown at the correct scale matching the viewport scale

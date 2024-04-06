@@ -1,4 +1,7 @@
-# Mechanical
+---
+sidebar_position: 13
+title: Mechanical
+---
 
 - [ ] Equipment schedule correct and up to date (fan, heater, damper, etc.)
 - [ ] Confined spaces properly vented & lit

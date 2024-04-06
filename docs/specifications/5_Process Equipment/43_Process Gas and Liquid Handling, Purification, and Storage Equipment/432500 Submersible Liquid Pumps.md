@@ -25,52 +25,51 @@ tags:
 2. SUMMARY
    1. This Section includes submersible pumps and accessories including control panels for wastewater systems as follows:
       1. Eight (8) influent pumps at Influent Pumping Station, four (4) of which shall include mix-flush valves attached to the volute.
-3. Two (2) sump pumps at Sludge Pumping Station
-4. Two (2) sump pumps at Service Water Pumping Station
-5. Two (2) submersible level elements with transmitters
-6. Two (2) sets of four float-type level switches.
-   1. Related Sections include the following:
-      1. Section 409423 – Supervisory Control System
-7. Section 409443 – Programmable Logic Controllers
-8. Section 409513 – Control Panels
-9. SYSTEM DESCRIPTION
+   2. Two (2) sump pumps at Sludge Pumping Station
+   3. Two (2) sump pumps at Service Water Pumping Station
+   4. Two (2) submersible level elements with transmitters
+   5. Two (2) sets of four float-type level switches.
+      1. Related Sections include the following:
+         1. Section 409423 – Supervisory Control System
+   6. Section 409443 – Programmable Logic Controllers
+   7. Section 409513 – Control Panels
+3. SYSTEM DESCRIPTION
    1. Pumps specified in this Section shall meet the performance requirements outlined in Paragraph 3.5 - Pump Schedule.
-10. SUBMITTALS
-    1. Submit the following in accordance with the Provisions of the Contract and Division 1 Specification Systems:
-       1. A copy of this specification section, with addendum updates included, and all referenced and applicable sections, with addendum updates included, with each paragraph check- marked to indicate specification compliance or marked to indicate requested deviations from specification requirements. If deviations from the specifications are indicated and, therefore requested by the Contractor the submittal shall be accompanied by a detailed, written justification for each deviation. Failure to include a copy of the marked-up specification sections, along with justification for any requested deviations to the specification requirements, with the submittal shall be cause for rejection of the entire submittal with no further consideration.
-11. Manufacturer’s product data
-12. Certified pump curves
-13. Shop Drawings
-14. Wiring and control diagrams
-15. Installation instructions
-16. Parts lists
-17. Recommended spare parts lists
-18. Factory test reports
-19. Operation and maintenance manuals
-20. Manufacturer’s warranty
-21. OPERATION AND MAINTENANCE MANUALS
-    1. Operation and Maintenance Manuals shall be as described in Section 017700 – Closeout Procedures. If preprinted manuals and booklets are included, “X-out” the information that does not pertain to the equipment or system supplied; i.e. the information in the manual shall be specific to the equipment model or system supplied for the project.
-    2. Operation and Maintenance Manuals shall be submitted prior to making application for payment exceeding 75 percent of the Contract Price.
-22. Within eight weeks of receipt of order, submit for coordination with the Systems Integrator and for approval:
-    1. A written controls narrative
-    2. A tabular listing of the PLC inputs, outputs, and alarms with their associated software tags. Input, output, and alarm software tags must meet the Software Tagging Conventions requirements set forth in Section 409423 Supervisory Control System.
-    3. A tabular listing of the Operator Adjustable Set Points with their associated software tags
-23. When the equipment is shipped, submit final hard (paper) and electronic (CD) copies of:
-    1. The PLC application program (electronic copy (CD) only)
-    2. Printouts of the detailed ladder logic with the data tables and cross references (paper print-out only)
-    3. The approved written controls narrative
-    4. A tabular listing of all variable set points and their factory settings including VFD parameters where applicable
-    5. A tabular listing of the PLC input, output, and alarm software tags
-    6. Final panel layout drawings
-    7. Final panel wiring diagrams
-    8. I/O wiring drawings for all devices that are monitored or controlled by the Influent Pump manufacturer’s PLC as listed in the Instrumentation and Controls paragraph of this specification. These drawings shall include the field wiring from the terminal block (showing terminal numbers) to the field device (showing the device tag number).
-    9. QUALITY ASSURANCE
-       1. Manufacturer Qualifications: The equipment shall be supplied by a firm regularly engaged in the manufacture of the equipment item, whose products have been used satisfactorily in similar services for a minimum of five years.
-       2. The Contractor may furnish and install equipment of a manufacturer whose products have not been in similar services at 10 installations for five years, provided the equipment manufacturer
-24. submits a bond, or deposits a sum equal to the installed price of the equipment, for a period of five (5) years.
-
-25. WARRANTY
-    1. Special Warranty: Manufacturer shall warrant that the work described here shall be free from defects in workmanship and material for a period of one (1) year from the date of acceptance. Any faulty workmanship or defective material furnished that is found within the warranty period shall be corrected without cost to Owner.
+4. SUBMITTALS
+   1. Submit the following in accordance with the Provisions of the Contract and Division 1 Specification Systems:
+      1. A copy of this specification section, with addendum updates included, and all referenced and applicable sections, with addendum updates included, with each paragraph check- marked to indicate specification compliance or marked to indicate requested deviations from specification requirements. If deviations from the specifications are indicated and, therefore requested by the Contractor the submittal shall be accompanied by a detailed, written justification for each deviation. Failure to include a copy of the marked-up specification sections, along with justification for any requested deviations to the specification requirements, with the submittal shall be cause for rejection of the entire submittal with no further consideration.
+   2. Manufacturer’s product data
+   3. Certified pump curves
+   4. Shop Drawings
+   5. Wiring and control diagrams
+   6. Installation instructions
+   7. Parts lists
+   8. Recommended spare parts lists
+   9. Factory test reports
+   10. Operation and maintenance manuals
+   11. Manufacturer’s warranty
+5. OPERATION AND MAINTENANCE MANUALS
+   1. Operation and Maintenance Manuals shall be as described in Section 017700 – Closeout Procedures. If preprinted manuals and booklets are included, “X-out” the information that does not pertain to the equipment or system supplied; i.e. the information in the manual shall be specific to the equipment model or system supplied for the project.
+   2. Operation and Maintenance Manuals shall be submitted prior to making application for payment exceeding 75 percent of the Contract Price.
+   3. Within eight weeks of receipt of order, submit for coordination with the Systems Integrator and for approval:
+      1. A written controls narrative
+      2. A tabular listing of the PLC inputs, outputs, and alarms with their associated software tags. Input, output, and alarm software tags must meet the Software Tagging Conventions requirements set forth in Section 409423 Supervisory Control System.
+      3. A tabular listing of the Operator Adjustable Set Points with their associated software tags
+   4. When the equipment is shipped, submit final hard (paper) and electronic (CD) copies of:
+      1. The PLC application program (electronic copy (CD) only)
+      2. Printouts of the detailed ladder logic with the data tables and cross references (paper print-out only)
+      3. The approved written controls narrative
+      4. A tabular listing of all variable set points and their factory settings including VFD parameters where applicable
+      5. A tabular listing of the PLC input, output, and alarm software tags
+      6. Final panel layout drawings
+      7. Final panel wiring diagrams
+      8. I/O wiring drawings for all devices that are monitored or controlled by the Influent Pump manufacturer’s PLC as listed in the Instrumentation and Controls paragraph of this specification. These drawings shall include the field wiring from the terminal block (showing terminal numbers) to the field device (showing the device tag number).
+6. QUALITY ASSURANCE
+   1. Manufacturer Qualifications: The equipment shall be supplied by a firm regularly engaged in the manufacture of the equipment item, whose products have been used satisfactorily in similar services for a minimum of five years.
+   2. The Contractor may furnish and install equipment of a manufacturer whose products have not been in similar services at 10 installations for five years, provided the equipment manufacturer
+   3. submits a bond, or deposits a sum equal to the installed price of the equipment, for a period of five (5) years.
+7. WARRANTY
+   1. Special Warranty: Manufacturer shall warrant that the work described here shall be free from defects in workmanship and material for a period of one (1) year from the date of acceptance. Any faulty workmanship or defective material furnished that is found within the warranty period shall be corrected without cost to Owner.
 
 ## Products
 

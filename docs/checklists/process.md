@@ -1,4 +1,7 @@
-# Process
+---
+sidebar_position: 12
+title: Process
+---
 
 - [ ] Equipment and valve schedule correct and up to date
 - [ ] Process notes reviewed to be in conformance with the project scope, and health department requirements

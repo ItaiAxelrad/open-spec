@@ -1,4 +1,7 @@
-# Grading
+---
+sidebar_position: 6
+title: Grading
+---
 
 - [ ] Min and max slopes verified (2% to 5% on asphalt, 2% to 3:1 for landscape, min. 0.5% along curb lines for concrete)
 - [ ] Parking stall ADA slopes met (2% max)

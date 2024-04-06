@@ -59,7 +59,7 @@ tags:
 ## Product
 
 2.  MANUFACTURERS
-    1. The equipment under this Section and the equipment under Section 446200 – Verticel Equipment shall be supplied by the same manufacturer as a complete system to satisfy the Process Performance Warranty described in paragraph 1.2.D of Section 446200. Subject to compliance with requirements, manufacturers offering products that may be incorporated into the Work include the following:
+    1. The equipment under this Section and the equipment under Section 446200 – Vertical Equipment shall be supplied by the same manufacturer as a complete system to satisfy the Process Performance Warranty described in paragraph 1.2.D of Section 446200. Subject to compliance with requirements, manufacturers offering products that may be incorporated into the Work include the following:
        1. Siemens Water Technologies, Waukesha, WI
        2. Approved equal
 3.  EQUIPMENT

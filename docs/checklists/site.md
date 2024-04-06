@@ -1,4 +1,7 @@
-# Site
+---
+sidebar_position: 5
+title: Site and HC
+---
 
 - [ ] Pavement types and thickness detailed on the plan and sections included where applicable
 - [ ] Parking stall totals (total spaces) labeled per bank of parking

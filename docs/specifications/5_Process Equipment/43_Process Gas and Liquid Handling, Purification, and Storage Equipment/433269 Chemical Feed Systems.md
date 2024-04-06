@@ -30,8 +30,8 @@ tags:
 3. Reference Standards:
    1. NSF International (NSF)
       1. Standard 61 – Drinking Water System Components – Health Effects.
-   2. Submittals
-4. See Specification Section 01 33 00 for requirements for the mechanics and administration of the submittal process.
+4. Submittals
+   1. See Specification Section 01 33 00 for requirements for the mechanics and administration of the submittal process.
 5. Shop Drawings:
    1. Product technical data as required in Specification Section 43 01 00 and including:
       1. Acknowledgement that products submitted meet requirements specified.

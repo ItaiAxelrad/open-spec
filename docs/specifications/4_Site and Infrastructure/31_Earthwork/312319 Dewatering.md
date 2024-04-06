@@ -15,43 +15,43 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Dewatering']
    1. This Section includes construction dewatering. Subsurface drainage systems Section 334600 can be used in conjunction with Dewatering, if practical.
    1. Related Sections include the following:
       1. Division 1 Section "Temporary Facilities and Controls" for temporary utilities and support facilities.
-   1. Division 2 Section "Excavation Support and Protection."
-   1. Division 2 Section "Earthwork" for excavating, backfilling, site grading and for site utilities.
-   1. Division 2 Section "Subsurface Drainage Systems" for permanent foundation wall, underfloor, and footing drainage.
-   1. PERFORMANCE REQUIREMENTS
+      2. Division 2 Section "Excavation Support and Protection."
+      3. Division 2 Section "Earthwork" for excavating, backfilling, site grading and for site utilities.
+      4. Division 2 Section "Subsurface Drainage Systems" for permanent foundation wall, underfloor, and footing drainage.
+1. PERFORMANCE REQUIREMENTS
    1. Dewatering Performance:
       1. Design, furnish, install, test, operate, monitor, and maintain dewatering system of sufficient scope, size, and capacity to control ground-water flow into excavations and permit construction to proceed on dry, stable subgrades.
-   1. Maintain dewatering operations to ensure erosion control, stability of excavations and constructed slopes, that excavation does not flood, and that damage to subgrades and permanent structures is prevented.
-   1. Prevent surface water from entering excavations by grading, dikes, or other means.
-   1. Accomplish dewatering without damaging existing buildings adjacent to excavation.
-   1. Remove dewatering system if no longer needed.
+   2. Maintain dewatering operations to ensure erosion control, stability of excavations and constructed slopes, that excavation does not flood, and that damage to subgrades and permanent structures is prevented.
+   3. Prevent surface water from entering excavations by grading, dikes, or other means.
+   4. Accomplish dewatering without damaging existing buildings adjacent to excavation.
+   5. Remove dewatering system if no longer needed.
 1. SUBMITTALS
    1. Shop Drawings for Information:
       1. For dewatering system. Show arrangement, locations, and details of wells and well points; locations of headers and discharge lines; and means of discharge and disposal of water.
-   1. Include layouts of piezometers and flow-measuring devices for monitoring performance of dewatering system.
-   1. Include a written report outlining control procedures to be adopted if dewatering problems arise.
-   1. Include Shop Drawings signed and sealed by the qualified professional engineer responsible for their preparation.
-   1. Qualification Data:
+   2. Include layouts of piezometers and flow-measuring devices for monitoring performance of dewatering system.
+   3. Include a written report outlining control procedures to be adopted if dewatering problems arise.
+   4. Include Shop Drawings signed and sealed by the qualified professional engineer responsible for their preparation.
+   5. Qualification Data:
       1. For Installer and Professional Engineer.
-   1. Photographs or videotape, sufficiently detailed, of existing conditions of adjoining construction and site improvements that might be misconstrued as damage caused by dewatering operations.
-   1. Record drawings at Project closeout identifying and locating capped utilities and other subsurface structural, electrical, or mechanical conditions performed during dewatering.
-   1. Note locations and capping depth of wells and well points.
-   1. Field Test Reports:
+   6. Photographs or videotape, sufficiently detailed, of existing conditions of adjoining construction and site improvements that might be misconstrued as damage caused by dewatering operations.
+   7. Record drawings at Project closeout identifying and locating capped utilities and other subsurface structural, electrical, or mechanical conditions performed during dewatering.
+   8. Note locations and capping depth of wells and well points.
+   9. Field Test Reports:
       1. Before starting excavation, submit test results and computations demonstrating that dewatering system is capable of meeting performance requirements.
 1. QUALITY ASSURANCE
    1. Regulatory Requirements:
       1. Comply with water disposal requirements of authorities having jurisdiction.
-   1. Preinstallation Conference:
+   2. Preinstallation Conference:
       1. Conduct conference at Project site to comply with requirements in Division 1 Section "Project Management and Coordination."
 1. PROJECT CONDITIONS
    1. Existing Utilities:
       1. Do not interrupt utilities serving facilities occupied by Owner or others unless permitted in writing by Architect and then only after arranging to provide temporary utility services according to requirements indicated.
-   1. Project-Site Information:
+   2. Project-Site Information:
       1. A geotechnical report has been prepared for this Project and is available for information only. The opinions expressed in this report are those of geotechnical engineer and represent interpretations of subsoil conditions, tests, and results of analyses conducted by geotechnical engineer. Owner will not be responsible for interpretations or conclusions drawn from this data.
-   1. Make additional test borings and conduct other exploratory operations necessary for dewatering.
-   1. The geotechnical report is referenced elsewhere in the Project Manual.
-   1. Survey adjacent structures and improvements, employing a qualified professional engineer or land surveyor, establishing exact elevations at fixed points to act as benchmarks. Clearly identify benchmarks and record existing elevations.
-   1. During dewatering, regularly resurvey benchmarks, maintaining an accurate log of surveyed elevations for comparison with original elevations. Promptly notify Architect if changes in elevations occur or if cracks, sags, or other damage is evident in adjacent construction.
+   3. Make additional test borings and conduct other exploratory operations necessary for dewatering.
+   4. The geotechnical report is referenced elsewhere in the Project Manual.
+   5. Survey adjacent structures and improvements, employing a qualified professional engineer or land surveyor, establishing exact elevations at fixed points to act as benchmarks. Clearly identify benchmarks and record existing elevations.
+   6. During dewatering, regularly resurvey benchmarks, maintaining an accurate log of surveyed elevations for comparison with original elevations. Promptly notify Architect if changes in elevations occur or if cracks, sags, or other damage is evident in adjacent construction.
 
 ## Products
 

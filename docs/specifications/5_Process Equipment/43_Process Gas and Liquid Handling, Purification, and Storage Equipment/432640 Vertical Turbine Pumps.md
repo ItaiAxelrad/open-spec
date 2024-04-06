@@ -23,29 +23,29 @@ tags:
 
 1. SUMMARY
    1. Provide and test vertical turbine pumps, motors, and appurtenances as indicated and in compliance with the Contract Documents.
-   1. Reference Standards
-2. American Society for Testing and Materials (ASTM)
-3. American national Standards Institute (ANSI)
-4. American Society of Mechanical Engineers (ASME)
-5. American Bearing Manufacturers Association (ABMA)
-6. Hydraulic Institute (HI)
-7. NSF International
-8. National Electrical manufacturers Association (NEMA)
-9. Quality Assurance
+   1. Reference Standards:
+      1. American Society for Testing and Materials (ASTM)
+      2. American national Standards Institute (ANSI)
+      3. American Society of Mechanical Engineers (ASME)
+      4. American Bearing Manufacturers Association (ABMA)
+      5. Hydraulic Institute (HI)
+      6. NSF International
+      7. National Electrical manufacturers Association (NEMA)
+2. Quality Assurance
    1. Manufacturer of pumps shall have a minimum of five (5) operating installation with pumps of the size specified and in the same service as specified operating for not less than five (5) years.
-10. Pump(s), complete with motor, necessary guards and all other specified accessories and appurtenances shall be furnished by the pump manufacturer to insure compatibility and integrity of the individual components, and provide the specified warranty for all components.
-11. The vertical turbine pump(s) specified in this section shall be furnished by and be the product of one manufacturer.
-12. Pump(s) are to be engineered and manufactured in accordance with the latest Hydraulic Institute and AWWA specifications for lineshaft turbine pumps.
-13. Pump(s) to be factory tested per Section 43 01 00.
-14. Submittals
-    1. See Specification Section 01 33 00 for requirements for the mechanics and administration of the submittal process.
-15. Product technical data as required in Specification Section 43 01 00 and including:
-    1. Acknowledgement that products submitted meet requirements specified.
-    2. Annotated materials of construction.
-    3. Dimensional drawings.
-    4. Manufacturer's installation instructions.
-16. See Specification Section 11 01 00.
-17. Shop Drawings:
+3. Pump(s), complete with motor, necessary guards and all other specified accessories and appurtenances shall be furnished by the pump manufacturer to insure compatibility and integrity of the individual components, and provide the specified warranty for all components.
+4. The vertical turbine pump(s) specified in this section shall be furnished by and be the product of one manufacturer.
+5. Pump(s) are to be engineered and manufactured in accordance with the latest Hydraulic Institute and AWWA specifications for lineshaft turbine pumps.
+6. Pump(s) to be factory tested per Section 43 01 00.
+7. Submittals
+   1. See Specification Section 01 33 00 for requirements for the mechanics and administration of the submittal process.
+8. Product technical data as required in Specification Section 43 01 00 and including:
+   1. Acknowledgement that products submitted meet requirements specified.
+   2. Annotated materials of construction.
+   3. Dimensional drawings.
+   4. Manufacturer's installation instructions.
+9. See Specification Section 11 01 00.
+10. Shop Drawings:
     1. Detailed drawings including:
        1. Dimensions.
        2. Make and style.
@@ -80,29 +80,29 @@ tags:
        2. See Specification Section 11 01 00.
        3. Field vibration test report.
        4. Dynamic balancing results.
-18. Operation and Maintenance Manuals:
+11. Operation and Maintenance Manuals:
     1. See Specification Section 01 33 00 for requirements for:
        1. The mechanics and administration of the submittal process.
        2. The content of Operation and Maintenance Manuals.
     2. Spare Parts
-19. Provide spare parts that are identical to and interchangeable with similar parts installed.
+12. Provide spare parts that are identical to and interchangeable with similar parts installed.
     1. For each pump:
        1. One complete set of gaskets.
        2. One set of wearing rings
     2. For each set of pumps of the same size and performance:
        1. One set of all special tools required.
     3. Operating Conditions
-20. The pumps(s) shall be designed to operate satisfactorily with a reasonable service life under the following operating conditions:
+13. The pumps(s) shall be designed to operate satisfactorily with a reasonable service life under the following operating conditions:
     1. Design flow conditions =
-    1. 800 gpm
-    1. Maximum head (feet TDH) =
-    1. 140’
-    1. Minimum pump efficiency =
-    1. 80%
-    1. Maximum pump speed =
-    1. 3600 rpm
-    1. Liquid to be pumped =
-    1. Raw Water
+    2. 800 gpm
+    3. Maximum head (feet TDH) =
+    4. 140’
+    5. Minimum pump efficiency =
+    6. 80%
+    7. Maximum pump speed =
+    8. 3600 rpm
+    9. Liquid to be pumped =
+    10. Raw Water
 
 ## Product
 

@@ -9,22 +9,19 @@ tags: ['Process', 'Equipment', 'Water', 'Wastewater', 'Screening']
 
 ## General
 
-1.  RELATED DOCUMENTS 2. Drawings, General and Special Provisions of the Contract, and Division 01 Specification Sections apply to this Section.
-2.  SUMMARY 2. Furnish and install two (2) automatic self-cleaning filter screens, a screenings conveyor with feed hoppers and discharge chute, a screw wash press, and control panels for the screens, conveyor and compactor. 3. B. 4. Related Sections include the following:
-    1. Section 409100 – Instrumentation
-3.  Section 409423 – Supervisory Control System
-4.  Section 449443 – Programmable Logic Controllers
-5.  Section 409513 – Control Panels
+1.  RELATED DOCUMENTS
+    1.  Drawings, General and Special Provisions of the Contract, and Division 01 Specification Sections apply to this Section.
+2.  SUMMARY
+    1.  Furnish and install two (2) automatic self-cleaning filter screens, a screenings conveyor with feed hoppers and discharge chute, a screw wash press, and control panels for the screens, conveyor and compactor. 3. B. 4. Related Sections include the following:
+    2.  Section 409100 – Instrumentation
+    3.  Section 409423 – Supervisory Control System
+    4.  Section 449443 – Programmable Logic Controllers
+    5.  Section 409513 – Control Panels
+3.  SYSTEM DESCRIPTION
+    1.  Mechanical Screens: Each unit with 6-mm filtration openings, mounted in a channel measuring
+4.  feet wide and 7.5 feet deep and with a 3.5-inch recess in the channel bottom to accommodate the base of the screen, at a 75-degree angle from horizontal. Each unit shall be capable of passing 22.5 MGD of wastewater with a clean-water, clean-screen head loss not exceeding 13 inches. Each screen shall be capable of intermittent or continuous operation, and have a capacity of 1.878 cubic yards of screenings per hour. The screen discharge point shall be at a height of 12 feet above the base of the screen. The unit shall pivot from the channel for servicing. 1. Screenings Conveyor: the screenings conveyor shall consist of a spiral, trough, covers, support legs, drive system, and controls. The conveyor shall be designed to receive screenings from the two mechanical screens and convey them by the spiral. The conveyor shall have an inlet capacity of 53 cubic feet per hour, handling wet screenings with an approximate dry weight of not less than 8% solids. 2. Screw Wash Press. The screw wash press shall consist of a spiral, trough, support legs, wash zone, trough flush spray, press zone, discharge pipe, drive system, and controls. The press shall be designed to receive the loadings from the screenings conveyor; convey, dewater, and compact them without spillage, jamming or clogging to a discharge point as shown on the Drawings. The compactor shall have an inlet capacity of 53 cubic feet per hour, handling wet screenings with an approximate dry weight of not less than 8% solids.
 
-    1. SYSTEM DESCRIPTION
-       1. Mechanical Screens: Each unit with 6-mm filtration openings, mounted in a channel measuring
-
-6.  feet wide and 7.5 feet deep and with a 3.5-inch recess in the channel bottom to accommodate the base of the screen, at a 75-degree angle from horizontal. Each unit shall be capable of passing 22.5 MGD of wastewater with a clean-water, clean-screen head loss not exceeding 13 inches. Each screen shall be capable of intermittent or continuous operation, and have a capacity of 1.878 cubic yards of screenings per hour. The screen discharge point shall be at a height of 12 feet above the base of the screen. The unit shall pivot from the channel for servicing.
-
-        2. Screenings Conveyor: the screenings conveyor shall consist of a spiral, trough, covers, support legs, drive system, and controls. The conveyor shall be designed to receive screenings from the two mechanical screens and convey them by the spiral. The conveyor shall have an inlet capacity of 53 cubic feet per hour, handling wet screenings with an approximate dry weight of not less than 8% solids.
-        3. Screw Wash Press. The screw wash press shall consist of a spiral, trough, support legs, wash zone, trough flush spray, press zone, discharge pipe, drive system, and controls. The press shall be designed to receive the loadings from the screenings conveyor; convey, dewater, and compact them without spillage, jamming or clogging to a discharge point as shown on the Drawings. The compactor shall have an inlet capacity of 53 cubic feet per hour, handling wet screenings with an approximate dry weight of not less than 8% solids.
-
-    2. SUBMITTALS
+    1. SUBMITTALS
        1. Submit the following in accordance with the Provisions of the Contract and Division 01 Specification Sections:
           1. A copy of this specification section, with addendum updates included, and all referenced and applicable sections, with addendum updates included, with each paragraph check- marked to indicate specification compliance or marked to indicate requested deviations from specification requirements. If deviations from the specifications are indicated and, therefore requested by the Contractor the submittal shall be accompanied by a detailed, written justification for each deviation. Failure to include a copy of the marked-up specification sections, along with justification for any requested deviations to the specification requirements, with the submittal shall be cause for rejection of the entire submittal with no further consideration.
           2. Product Data.
@@ -46,25 +43,25 @@ tags: ['Process', 'Equipment', 'Water', 'Wastewater', 'Screening']
           4. A tabular listing of all variable set points and their factory settings including VFD parameters where applicable
           5. A tabular listing of the PLC input, output, and alarm software tags
           6. Final panel layout drawings
-    3. Final panel wiring diagrams
+    2. Final panel wiring diagrams
 
-7.  I/O wiring drawings for all devices that are monitored or controlled by the Mechanical Screens, Conveyor, and Compactor manufacturer’s PLC as listed in the Instrumentation and Controls paragraph of this specification. These drawings shall include the field wiring from the terminal block (showing terminal numbers) to the field device (showing the device tag number).
-8.
-9.  QUALITY ASSURANCE
+5.  I/O wiring drawings for all devices that are monitored or controlled by the Mechanical Screens, Conveyor, and Compactor manufacturer’s PLC as listed in the Instrumentation and Controls paragraph of this specification. These drawings shall include the field wiring from the terminal block (showing terminal numbers) to the field device (showing the device tag number).
+6.
+7.  QUALITY ASSURANCE
     1. The equipment shall be supplied by a firm regularly engaged in the manufacturer of the equipment item, whose products have been used satisfactorily at a minimum of 10 installations in similar services for a minimum period of five (5) years.
-    1. The Contractor may furnish and install equipment of a manufacturer whose products have not been in similar services at 10 installations for five years, provided the equipment manufacturer submits a bond, or deposits a sum equal to the installed price of the equipment, for a period of five (5) years.
-10.
-11. WARRANTY
+    2. The Contractor may furnish and install equipment of a manufacturer whose products have not been in similar services at 10 installations for five years, provided the equipment manufacturer submits a bond, or deposits a sum equal to the installed price of the equipment, for a period of five (5) years.
+8.
+9.  WARRANTY
     1. Special Warranty:
        1. Written warranty for the new screens, conveyor and screw wash press, executed by manufacturer, agreeing to repair or replace equipment that fails in materials or workmanship within one year from the date of Substantial Completion.
-12.
-13. EXTRA MATERIALS
+10.
+11. EXTRA MATERIALS
     1. Furnish extra parts that match items installed and that are packaged with protective covering for storage and identified with labels describing contents. The following spare parts shall be provided:
        1. Twenty (20) filter elements.
-14. Ten (10) side plates
-15. Twenty (20) snap rings 3/4-inch diameter
-16. Ten (10) snap rings 63/64-inch diameter
-17. 1 rotating brush core replacement assembly
+12. Ten (10) side plates
+13. Twenty (20) snap rings 3/4-inch diameter
+14. Ten (10) snap rings 63/64-inch diameter
+15. 1 rotating brush core replacement assembly
     1. The manufacturer will supply type 304 SS 3/4-inch-10 UNC threaded rods for use with HILTI HY-150 Adhesive Anchoring system. Adhesive to be provided by the contractor.
 
 ## Products

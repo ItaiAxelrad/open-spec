@@ -1,4 +1,7 @@
-# Cover
+---
+sidebar_position: 2
+title: Cover
+---
 
 - [ ] Index of sheets correct and up to date
 - [ ] Vicinity map is accurate and clear

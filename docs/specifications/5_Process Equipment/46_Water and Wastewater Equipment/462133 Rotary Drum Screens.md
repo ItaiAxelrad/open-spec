@@ -20,50 +20,50 @@ tags:
 3. REFERENCE STANDARDS
    1. American Bearing Manufacturers Association:
       1. ABMA 9 - Load Ratings and Fatigue Life for Ball Bearings.
-4. ABMA 11 - Load Ratings and Fatigue Life for Roller Bearings.
-   1. National Electrical Manufacturers Association:
+      2. ABMA 11 - Load Ratings and Fatigue Life for Roller Bearings.
+   2. National Electrical Manufacturers Association:
       1. NEMA 250 - Enclosures for Electrical Equipment (1000 Volts Maximum).
-5. PREINSTALLATION MEETINGS
+4. PREINSTALLATION MEETINGS
    1. Convene minimum 2 week prior to commencing Work of this Section.
-6. SUBMITTALS
+5. SUBMITTALS
    1. Section 013114 - Submittal Procedures:
       1. Requirements for submittals.
-   1. Product Data:
+   2. Product Data:
       1. Submit manufacturer information, including installation instructions, accessories, performance data, capacities and pressure differentials, power, rpm, sound power levels at rated capacity, electrical characteristics, and connection requirements.
-   1. Shop Drawings:
+   3. Shop Drawings:
       1. Furnish diagrams showing complete layout of system, including equipment, piping, valves, wiring and ladder diagrams, controls, and control sequences.
-7. Indicate size and configuration of assembly, mountings, weights, and accessory connections.
+6. Indicate size and configuration of assembly, mountings, weights, and accessory connections.
    1. Manufacturer's Certificate:
       1. Certify that products meet or exceed specified requirements.
-   1. Manufacturer Instructions:
+   2. Manufacturer Instructions:
       1. Submit detailed instructions on installation requirements, including storage and handling procedures.
-   1. Source Quality-Control Submittals:
+   3. Source Quality-Control Submittals:
       1. Indicate results of shop inspections.
-   1. Field Quality-Control Submittals: 1. Indicate results of Contractor-furnished tests and inspections. H. Manufacturer Reports: 1. Certify that equipment has been installed according to manufacturer
+   4. Field Quality-Control Submittals: 1. Indicate results of Contractor-furnished tests and inspections. H. Manufacturer Reports: 1. Certify that equipment has been installed according to manufacturer
       instructions.
-   1. Qualifications Statements:
+   5. Qualifications Statements:
       1. Submit qualifications for manufacturer and installer.
-8. Submit manufacturer's approval of installer.
-9. CLOSEOUT SUBMITTALS
+7. Submit manufacturer's approval of installer.
+8. CLOSEOUT SUBMITTALS
    1. Project Record Documents:
       1. Record actual locations of rotary drum screens.
-10. QUALITY ASSURANCE
-    1. Perform Work according to industry and State Department of Public Health and Environment standards.
-    1. Maintain 1 copy of each standard affecting Work of this Section on Site.
-11. QUALIFICATIONS
+9. QUALITY ASSURANCE
+   1. Perform Work according to industry and State Department of Public Health and Environment standards.
+   2. Maintain 1 copy of each standard affecting Work of this Section on Site.
+10. QUALIFICATIONS
     1. Manufacturer:
        1. Company specializing in manufacturing products specified in this Section with minimum five years’ experience with 10 similar installations in the United States.
-12. DELIVERY, STORAGE, AND HANDLING
+11. DELIVERY, STORAGE, AND HANDLING
     1. Inspection:
        1. Accept materials on Site in manufacturer's original packaging and inspect for damage.
-    1. Store materials according to manufacturer instructions. C. Protection:
+    2. Store materials according to manufacturer instructions. C. Protection:
        1. Protect materials from moisture and dust by storing in clean, dry location remote from construction operations areas.
-13. Provide additional protection according to manufacturer instructions.
-14. EXISTING CONDITIONS A. Field Measurements:
+12. Provide additional protection according to manufacturer instructions.
+13. EXISTING CONDITIONS A. Field Measurements:
     1. Verify field measurements prior to fabrication.
-15. Indicate field measurements on Shop Drawings.
-16. WARRANTY
-17. Furnish manufacturer's warranty for rotary drum screens in compliance with the overall warranty required for the project.
+14. Indicate field measurements on Shop Drawings.
+15. WARRANTY
+16. Furnish manufacturer's warranty for rotary drum screens in compliance with the overall warranty required for the project.
 
 ## Products
 
