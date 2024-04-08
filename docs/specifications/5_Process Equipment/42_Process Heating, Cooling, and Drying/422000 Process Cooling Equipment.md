@@ -55,7 +55,6 @@ tags: ['Process', 'Equipment', 'Heating', 'Cooling', 'Drying']
    1. Piping System Test Report
    1. Piping System Flushing Report
 1. RELATED WORK
-
    1. Section 01 91 01 or 01 91 02 – Commissioning Process
    1. Division 23 – Heating, Ventilating & Air Conditioning (Piping Sections)
    1. 23 05 23 – General-Duty Valves for HVAC Piping
@@ -63,7 +62,6 @@ tags: ['Process', 'Equipment', 'Heating', 'Cooling', 'Drying']
    1. 23 25 00 – HVAC Chemical Treatment
    1. 31 23 16.13 – Trenching
    1. 33 08 00 – Commissioning of Utilities
-
 1. REFERENCE
    1. Applicable provisions of Division 1 govern work under this section.
 1. REFERENCE STANDARDS

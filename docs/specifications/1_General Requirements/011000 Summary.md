@@ -17,10 +17,10 @@ tags: ['General', 'Requirements', 'Summary']
    1. If discrepancies exist between the Specifications and the Drawings, Contractor shall inform Owner in order that a clarification can be made. The Specifications shall take precedence over the Drawings unless otherwise indicated.
    1. Related Sections
    1. All specifications from Division 1 through Division 33.
-   1. REFERENCES
+1. REFERENCES
    1. All work shall comply with all applicable laws, codes and regulations in effect at the time of issuance of the drawings and specifications.
    1. The most recent contract documents, shop drawings, and other instructions shall be used. Contractor is responsible for distribution to all subcontractors and other applicable parties.
-   1. DEFINITONS
+1. DEFINITONS
    1. Provide:
       1. Supply, pay for, store as required and install.
 1. SUBMITTALS
@@ -29,14 +29,14 @@ tags: ['General', 'Requirements', 'Summary']
    1. All material shall comply with the following standards:
       1. Industry codes and standards for engineering and construction.
    1. Do not scale drawings. Field verify existing conditions.
-   1. DELIVERY, STORAGE, AND PROTECTION
+1. DELIVERY, STORAGE, AND PROTECTION
    1. Owner will provide for the security of their own operations from vandalism, theft burglary and robbery until the project is completed.
    1. Contractor shall be responsible for the security of their own operations from vandalism, theft, burglary and robbery until the project is completed.
-   1. PROJECT/SITE CONDITIONS
+1. PROJECT/SITE CONDITIONS
    1. Access to the project is limited to persons performing the work, to Owner and his agents, to Architect and his agents and to governmental authorities having jurisdiction. Confine operations under this contract to the portion of the Owners property within the contract limits and designated access routes unless specific approval otherwise has been obtained by the Owner.
    1. Contractor and sub-contractors shall comply with Owner’s security requirements.
    1. Unauthorized persons are not allowed access to contract documents or Owner’s property.
-   1. SEQUENCING AND SCHEDULING
+1. SEQUENCING AND SCHEDULING
    1. All disruptions or interference with Owner’s operations (including Owner’s security operations) shall be minimized. A disruption is defined as any one or a combination of any of the following:
       1. Excessive noise
    1. Excessive dust
@@ -51,8 +51,10 @@ tags: ['General', 'Requirements', 'Summary']
 
 ## Products
 
-1. MANUFACTURERS 2. Approved manufacturers will be identified in each section where required. 3. Contractor may substitute other equal products upon Owner’s approval unless the project specifically states that no substitutions are allowed.
-2. MATERIALS 5. Any salvable items as indicated on the drawings shall be removed and stored as directed by the Owner
+1. MANUFACTURERS
+   1. Approved manufacturers will be identified in each section where required. 3. Contractor may substitute other equal products upon Owner’s approval unless the project specifically states that no substitutions are allowed.
+2. MATERIALS
+   1. Any salvable items as indicated on the drawings shall be removed and stored as directed by the Owner
 
 ## Execution
 

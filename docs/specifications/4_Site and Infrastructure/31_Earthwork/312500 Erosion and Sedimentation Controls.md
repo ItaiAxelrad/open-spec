@@ -36,12 +36,12 @@ tags:
    1. Projects conducted at the Owner SolarTac or other off-campus leased facilities whose construction activities disturb greater than one acre or that disturb less than one acre but are part of a larger common plan of development must obtain stormwater permit coverage under the Colorado Public Health and Environment (State Department of Public Health and Environment), the City of Aurora and/or other local jurisdiction.
    1. Erosion Control:
       1. The Erosion and Sedimentation Control Drawings included in the Contract Documents are the minimum requirements to be implemented. Additional controls as required by the EPA, State Department of Public Health and Environment or other jurisdiction may also be required. The more stringent of the contract or regulatory requirements shall apply.
-   1. REFERENCES
+1. REFERENCES
    1. Environmental Protection Agency National Pollutant Discharge Elimination System General Permit for Discharges from Construction Activities, [EPA Construction General Permit](http://www.epa.gov/npdes/pubs/cgp2012_finalpermit.pdf)
    1. Colorado Department of Public Health and Environment Stormwater Discharges Associated w/ Construction Activities COR030000. [CDPS Ge](http://www.colorado.gov/cs/Satellite?blobcol=urldata&blobheadername1=Content-Disposition&blobheadername2=Content-Type&blobheadervalue1=inline%3B+filename%3D%22Permit.pdf%22&blobheadervalue2=application%2Fpdf&blobkey=id&blobtable=MungoBlobs&blobwhere=1251808459293&ssbinary=true)[neral Permit](http://www.colorado.gov/cs/Satellite?blobcol=urldata&blobheadername1=Content-Disposition&blobheadername2=Content-Type&blobheadervalue1=inline%3B+filename%3D%22Permit.pdf%22&blobheadervalue2=application%2Fpdf&blobkey=id&blobtable=MungoBlobs&blobwhere=1251808459293&ssbinary=true)
    1. City of Aurora. [City of Aurora Stormwater Rules and Regulations](https://www.auroragov.org/cs/groups/public/documents/document/001747.pdf)
    1. Urban Drainage and Flood Control District Criteria Manual Volume 3. [Urban Storm Drainage Criteria Manual Volume 3](http://udfcd.org/downloads/down_critmanual_volIII.htm)
-   1. DEFINITIONS
+1. DEFINITIONS
    1. Backfill:
       1. Soil material used to fill an excavation.
    1. Initial Backfill:
@@ -81,9 +81,9 @@ tags:
    1. The Contractor is responsible for providing other additional information as requested by the a Owner EHS Office and/or Owner Project Manager during a preconstruction meeting to be held at least one week prior to start of construction.
    1. Contractor shall have the Site-Specific Erosion and Sediment Control Plan available on-site at all times.
    1. Contractor shall submit to Owner a Predisturbance Vegetative Cover Assessment prior to earth disturbance and BMP installation Refer to Section 322501 for specific requirements of this Submittal.
-   1. PERFORMANCE STANDARDS:
-      1. Regulatory Requirements:
-         1. Comply with applicable federal, state and local rules, regulations, ordinances, codes and standards to control erosion and sediment on construction sites and to protect stormwater quality.
+1. PERFORMANCE STANDARDS:
+   1. Regulatory Requirements:
+      1. Comply with applicable federal, state and local rules, regulations, ordinances, codes and standards to control erosion and sediment on construction sites and to protect stormwater quality.
    1. Preconstruction Conference:
       1. Conduct conference as directed by Project Manager prior to start of construction. Contractor must comply with other requirements as included in Division 1 Section "Project Management and Coordination."
    1. Overall Earth Disturbance:
@@ -92,7 +92,7 @@ tags:
    1. Erosion and sediment controls must be selected from those included in the Urban Drainage and Flood Control District Criteria Manual Volume III. Exceptions must be approved by the Owner EHS Office prior to use.
    1. Erosion and sediment controls must be durable and effective.
    1. Nonvegetative controls left in place at the conclusion of construction must provide soil cover and erosion control for at least three (3) years without active maintenance required.
-   1. PROJECT/SITE CONDITIONS
+1. PROJECT/SITE CONDITIONS
    1. Existing Conditions:
       1. Verify all existing conditions affecting the work of this section prior to submitting bids or proposals. Additional compensation will not be allowed for revisions or modification of work resulting from failure to verify existing conditions.
 1. WARRANTY
@@ -103,41 +103,41 @@ tags:
 ## Products
 
 1.  MATERIALS
-1.  Erosion and Sedimentation Control Materials:
-    1. Provide one or more of the following materials, as shown on the plans or as applicable for site conditions:
-    1. Sand bags.
-1.  Rock socks
-1.  S- fences (**[www.ertecsystems.com/](http://www.ertecsystems.com/)**). (Ertec systems or equivalent)Standard black silt fences are not permitted. Reinforced standard black silt fences are permitted at the NWTC.
-1.  Rock riprap.
-1.  Straw wattle or other similar devices
-1.  Inlet protection devices (Dandy Bags, gravel filters or equivalent)
-1.  Vehicle tracking pad (recycled concrete aggregate is not permitted)
-1.  Concrete washout facility (Ecopans or equivalent. Pits (lined or unlined) are not permitted.
-1.  Secondary containment for chemicals. Chemicals stored outdoors must be protected by a shelter/other means for preventing stormwater/snowmelt from interacting w/ chemicals.
-1.  Fiber mulch.
-1.  Erosion Control Blanket.
-1.  High Performance Flexible Growth Medium
-1.  Other materials as proposed by the contractor and approved by Owner.
-1.  Seed Protection - Fiber Mulches, Erosion Control Blankets and High Performance Flexible Growth Medium
-1.  Summary of Seed Protection Materials
-1.  SEED PROTECTION MATERIAL VERSUS SLOPE MATRIX
-1.  SEED PROTECTION MATERIAL
-1.  LOCATION
-1.  SLOPE
-1.  FUNCTIONAL LONGEVITY
-1.  CONSIDERATIONS
+    1.  Erosion and Sedimentation Control Materials:
+        1. Provide one or more of the following materials, as shown on the plans or as applicable for site conditions:
+        2. Sand bags.
+    2.  Rock socks
+    3.  S- fences (**[www.ertecsystems.com/](http://www.ertecsystems.com/)**). (Ertec systems or equivalent)Standard black silt fences are not permitted. Reinforced standard black silt fences are permitted at the NWTC.
+    4.  Rock riprap.
+    5.  Straw wattle or other similar devices
+    6.  Inlet protection devices (Dandy Bags, gravel filters or equivalent)
+    7.  Vehicle tracking pad (recycled concrete aggregate is not permitted)
+    8.  Concrete washout facility (Ecopans or equivalent. Pits (lined or unlined) are not permitted.
+    9.  Secondary containment for chemicals. Chemicals stored outdoors must be protected by a shelter/other means for preventing stormwater/snowmelt from interacting w/ chemicals.
+    10. Fiber mulch.
+    11. Erosion Control Blanket.
+    12. High Performance Flexible Growth Medium
+    13. Other materials as proposed by the contractor and approved by Owner.
+    14. Seed Protection - Fiber Mulches, Erosion Control Blankets and High Performance Flexible Growth Medium
+    15. Summary of Seed Protection Materials
+2.  SEED PROTECTION MATERIAL VERSUS SLOPE MATRIX
+3.  SEED PROTECTION MATERIAL
+4.  LOCATION
+5.  SLOPE
+6.  FUNCTIONAL LONGEVITY
+7.  CONSIDERATIONS
     1. Fiber Mulch
-    1. Roadside
-    1. &lt; 10:1
-    1. minimum 18 months
-    1. Hay Mulch
-    1. Grasslands
-    1. &lt; 10:1
-    1. minimum 12 months
-    1. Crimping required within 24 hours
-    1. Coconut
-    1. Coir /Straw Blanket
-    1. Grasslands
+    2. Roadside
+    3. &lt; 10:1
+    4. minimum 18 months
+    5. Hay Mulch
+    6. Grasslands
+    7. &lt; 10:1
+    8. minimum 12 months
+    9. Crimping required within 24 hours
+    10. Coconut
+    11. Coir /Straw Blanket
+    12. Grasslands
 
 &gt; 10:1 and &lt; 6:1
 
