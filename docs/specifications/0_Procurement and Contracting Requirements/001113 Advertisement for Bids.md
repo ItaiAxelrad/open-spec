@@ -8,11 +8,11 @@ tags: ['Procurement', 'Contracting', 'Requirements', 'Advertisement', 'Bids']
 ---
 
 1. Owner:
-   1. Address:
-      1. Separate sealed Bids for the construction of:
-      1. Will be received by:
-         1. At the office of:
-      1. Until (Local Time) \_\_\_\_\_\_\_\_\_\_,
+   - Address:
+     - Separate sealed Bids for the construction of:
+     - Will be received by:
+       - At the office of:
+     - Until (Local Time) \_\_\_\_\_\_\_\_\_\_,
 2. Day:
    1. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_,
 3. Year:

@@ -23,11 +23,11 @@ tags: ['Site', 'Infrastructure', 'Earthwork', 'Common', 'Work', 'Results']
       7. D4632, Standard Test Method for Grab Breaking Load and Elongation of Geotextiles.
 3. Submittals
    1. See Specification Section 01 33 00 for requirements for the mechanics and administration of the submittal process.
-4. Shop drawings shall include:
-   1. Product technical data including acknowledgement that products submitted meet requirements of aforementioned standards as well as manufacturer’s installation instructions.
-   2. Certifications
-   3. Soil inspection and testing results.
-5. Submit samples and source of fill and backfill materials proposed for use as well as samples and source of borrow materials proposed for use.
+   2. Shop drawings shall include:
+      1. Product technical data including acknowledgement that products submitted meet requirements of aforementioned standards as well as manufacturer’s installation instructions.
+      2. Certifications
+      3. Soil inspection and testing results.
+   3. Submit samples and source of fill and backfill materials proposed for use as well as samples and source of borrow materials proposed for use.
 
 ## Product
 

@@ -9,39 +9,32 @@ tags: ['Procurement', 'Contracting', 'Requirements', 'Scopes']
 
 1. Scope and cost proposal form Design/build lump sum (ls) services.
 2. BASE BID SCOPE LADDER TOTAL PROJECT COST PREMIUM\*
+3. D/B General Conditions $ \_\_\_\_\_\_\_\_\_\_\_\_\_\_ + $ \_\_\_\_\_\_\_\_\_\_\_\_\_\_ = $ \_\_\_\_\_\_\_\_\_\_\_\_\_\_ (lump sum)
+4. Design Cost $ \_\_\_\_\_\_\_\_\_\_\_\_\_\_ + $ \_\_\_\_\_\_\_\_\_\_\_\_\_\_ = $ \_\_\_\_\_\_\_\_\_\_\_\_\_\_
+5. Site & Utilities Cost $ \_\_\_\_\_\_\_\_\_\_\_\_\_\_ + $ \_\_\_\_\_\_\_\_\_\_\_\_\_\_ = $ \_\_\_\_\_\_\_\_\_\_\_\_\_\_
+6. Building Cost $ \_\_\_\_\_\_\_\_\_\_\_\_\_\_ + $ \_\_\_\_\_\_\_\_\_\_\_\_\_\_ = $ \_\_\_\_\_\_\_\_\_\_\_\_\_\_
+7. Mechanical Cost $ \_\_\_\_\_\_\_\_\_\_\_\_\_\_ + $ \_\_\_\_\_\_\_\_\_\_\_\_\_\_ = $ \_\_\_\_\_\_\_\_\_\_\_\_\_\_
+8. Electrical Cost $ \_\_\_\_\_\_\_\_\_\_\_\_\_\_ + $ \_\_\_\_\_\_\_\_\_\_\_\_\_\_ = $ \_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-3. D/B General Conditions $ \_\_\_\_\_\_\_\_\_\_\_\_\_\_ + $ \_\_\_\_\_\_\_\_\_\_\_\_\_\_ = $ \_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-(lump sum)
-
-1. Design Cost $ \_\_\_\_\_\_\_\_\_\_\_\_\_\_ + $ \_\_\_\_\_\_\_\_\_\_\_\_\_\_ = $ \_\_\_\_\_\_\_\_\_\_\_\_\_\_
-2. Site & Utilities Cost $ \_\_\_\_\_\_\_\_\_\_\_\_\_\_ + $ \_\_\_\_\_\_\_\_\_\_\_\_\_\_ = $ \_\_\_\_\_\_\_\_\_\_\_\_\_\_
-3. Building Cost $ \_\_\_\_\_\_\_\_\_\_\_\_\_\_ + $ \_\_\_\_\_\_\_\_\_\_\_\_\_\_ = $ \_\_\_\_\_\_\_\_\_\_\_\_\_\_
-4. Mechanical Cost $ \_\_\_\_\_\_\_\_\_\_\_\_\_\_ + $ \_\_\_\_\_\_\_\_\_\_\_\_\_\_ = $ \_\_\_\_\_\_\_\_\_\_\_\_\_\_
-5. Electrical Cost $ \_\_\_\_\_\_\_\_\_\_\_\_\_\_ + $ \_\_\_\_\_\_\_\_\_\_\_\_\_\_ = $ \_\_\_\_\_\_\_\_\_\_\_\_\_\_
    1. Total (each column) $ \_\_\_\_\_\_\_\_\_\_\_\_\_\_ + $ \_\_\_\_\_\_\_\_\_\_\_\_\_\_ = $ \_\_\_\_\_\_\_\_\_\_\_\_\_\_
    1. Subtotal (1) Subtotal (2) \*\* Fixed Total D/B Cost
+      - Provide a break out for additional scope(s) of work included in your proposal from page 3 of the Scope and Cost Proposal Form for each line item cost.
 
-- Provide a break out for additional scope(s) of work included in your proposal from page 3 of the Scope and Cost Proposal Form for each line item cost.
-
-1. Subtotal (2) must match Total Scope Ladder Premium from page 3 of the Scope and Cost Proposal.
-
+9. Subtotal (2) must match Total Scope Ladder Premium from page 3 of the Scope and Cost Proposal.
    1. Please provide a detailed breakdown to adequately describe the D/B team provided, term of their services, and associated costs so as to demonstrate a complete understanding of the services provided.
-   1. Please provide a detailed breakdown utilizing the Cost Proposal Staff Allocation Matrix (provided), to adequately describe the D/B staff provided, term of their services, and associated costs so as to demonstrate as complete an understanding as possible of the services provided.
-   1. The cost shall include preconstruction services, construction costs, general conditions, profit, overhead, home office staff, home office expenses, accounting and/or legal fees, including commercial insurances, builder’s risk, labor & material payment and performance bondsand any other costs or expenses.
-   1. Acknowledge receipt of Addendum Nos. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-   1. Anticipates Services outside the United States or Colorado Yes No
-   1. If the respondent anticipates services under the contract or any subcontracts will be performed outside the United States or Colorado, the respondent shall provide in a written statement which must include, but need not be limited to the type of services that will be performed at a location outside the United States or Colorado and the reason why it is necessary or advantageous to go outside the United States or Colorado to perform such services. (Does not apply to any project that receives federal moneys).
-   1. Will comply with 80% Colorado Labor Yes No
-   1. For State Public Works projects per C.R.S. 8-17-101, Colorado labor shall be employed to perform at least 80% of the work. Colorado Labor means any person who is a resident of the state of Colorado at the time of the Public Works project. Respondents indicating that their bid proposal will not comply with the 80% Colorado Labor requirement are required to submit written justification along with the bid submission. (Does not apply to any project that receives federal moneys).
-   1. Bidder is a Service-Disabled Veteran Owned Small Business Yes No
-   1. AService-Disabled Veteran Owned Small Business (SDVOSB) per C.R.S. 24-103-211, means a business that is incorporated or organized in Colorado or maintains a place of business or has an office in Colorado and is officially registered and verified by the Center for Veteran Enterprise within the U.S. Department of Veteran Affairs. Attach proof of certification along with the proposal submission.
-   1. Applicant or Corporate Officer Signature
-
-   1. Title
-
-1. Base Bid Narrative
-   1. A lump sum cost for the Base Bid in accordance with the Specifications and Available Project Information must be provided as required on page 1.
+   2. Please provide a detailed breakdown utilizing the Cost Proposal Staff Allocation Matrix (provided), to adequately describe the D/B staff provided, term of their services, and associated costs so as to demonstrate as complete an understanding as possible of the services provided.
+   3. The cost shall include preconstruction services, construction costs, general conditions, profit, overhead, home office staff, home office expenses, accounting and/or legal fees, including commercial insurances, builder’s risk, labor & material payment and performance bondsand any other costs or expenses.
+   4. Acknowledge receipt of Addendum Nos. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+   5. Anticipates Services outside the United States or Colorado Yes No
+   6. If the respondent anticipates services under the contract or any subcontracts will be performed outside the United States or Colorado, the respondent shall provide in a written statement which must include, but need not be limited to the type of services that will be performed at a location outside the United States or Colorado and the reason why it is necessary or advantageous to go outside the United States or Colorado to perform such services. (Does not apply to any project that receives federal moneys).
+   7. Will comply with 80% Colorado Labor Yes No
+   8. For State Public Works projects per C.R.S. 8-17-101, Colorado labor shall be employed to perform at least 80% of the work. Colorado Labor means any person who is a resident of the state of Colorado at the time of the Public Works project. Respondents indicating that their bid proposal will not comply with the 80% Colorado Labor requirement are required to submit written justification along with the bid submission. (Does not apply to any project that receives federal moneys).
+   9. Bidder is a Service-Disabled Veteran Owned Small Business Yes No
+   10. AService-Disabled Veteran Owned Small Business (SDVOSB) per C.R.S. 24-103-211, means a business that is incorporated or organized in Colorado or maintains a place of business or has an office in Colorado and is officially registered and verified by the Center for Veteran Enterprise within the U.S. Department of Veteran Affairs. Attach proof of certification along with the proposal submission.
+   11. Applicant or Corporate Officer Signature
+   12. Title
+10. Base Bid Narrative
+11. A lump sum cost for the Base Bid in accordance with the Specifications and Available Project Information must be provided as required on page 1.
 
 - Design and construction of a free standing, fully enclosed 34,000 gpd MBR facility.
   - Provide interior clearances capable of allowing removal of pumps, filters, etc. without the need to disassemble of adjacent components.
