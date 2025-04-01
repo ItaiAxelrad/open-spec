@@ -4,9 +4,9 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'Open Spec',
-  tagline: 'community driven construction specifications',
+  tagline: 'Community driven construction specifications',
   favicon: '/favicon.png',
-  url: 'https://open-spec.com',
+  url: 'https://open-spec.vercel.app',
   baseUrl: '/',
   organizationName: 'ItaiAxelrad',
   projectName: 'open-spec',
@@ -18,13 +18,13 @@ const config: Config = {
       {
         docs: {
           sidebarPath: './sidebars.ts',
-          editUrl: 'https://github.com/ItaiAxelrad/open-spec/blob/main/',
+          editUrl: 'https://github.com/ItaiAxelrad/open-spec/main/docs',
           showLastUpdateAuthor: true,
           showLastUpdateTime: true,
         },
         blog: {
           showReadingTime: true,
-          editUrl: 'https://github.com/ItaiAxelrad/open-spec/blob/main/',
+          editUrl: 'https://github.com/ItaiAxelrad/open-spec/main/docs',
         },
         theme: {
           customCss: './src/css/custom.css',
